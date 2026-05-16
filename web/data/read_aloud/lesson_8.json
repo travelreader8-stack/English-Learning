@@ -1,0 +1,105 @@
+{
+  "lesson_id": 8,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把不同维度的比较词和最后的自嘲笑点读顺。",
+  "sentences": [
+    {
+      "id": "l8_s1",
+      "text": "Joe Sanders has the most beautiful garden in our town.",
+      "focus_zh": "the most beautiful 要读出“全镇最突出”的感觉。",
+      "start": 256.196,
+      "end": 260.108,
+      "focus_words": [
+        "Joe",
+        "Sanders",
+        "most",
+        "beautiful",
+        "garden"
+      ]
+    },
+    {
+      "id": "l8_s2",
+      "text": "Nearly everybody enters for 'The Nicest Garden Competition' each year, but Joe wins every time.",
+      "focus_zh": "enters for 是报名参加，competition 和 wins every time 是比赛线索。",
+      "start": 260.458,
+      "end": 266.458,
+      "focus_words": [
+        "Nearly",
+        "enters",
+        "Competition",
+        "wins",
+        "every"
+      ]
+    },
+    {
+      "id": "l8_s3",
+      "text": "Bill Frith's garden is larger than Joe's.",
+      "focus_zh": "larger than 是大小比较，than 后面的 Joe's 要轻轻收住。",
+      "start": 266.808,
+      "end": 269.928,
+      "focus_words": [
+        "Bill",
+        "Frith",
+        "larger",
+        "than",
+        "Joe's"
+      ]
+    },
+    {
+      "id": "l8_s4",
+      "text": "Bill works harder than Joe and grows more flowers and vegetables, but Joe's garden is more interesting.",
+      "focus_zh": "but 前是努力和数量，but 后转到 more interesting。",
+      "start": 270.278,
+      "end": 276.206,
+      "focus_words": [
+        "works",
+        "harder",
+        "more",
+        "but",
+        "interesting"
+      ]
+    },
+    {
+      "id": "l8_s5",
+      "text": "He has made neat paths and has built a wooden bridge over a pool.",
+      "focus_zh": "neat paths、wooden bridge、pool 是乔的设计细节。",
+      "start": 276.556,
+      "end": 280.756,
+      "focus_words": [
+        "neat",
+        "paths",
+        "built",
+        "wooden",
+        "pool"
+      ]
+    },
+    {
+      "id": "l8_s6",
+      "text": "I like gardens too, but I do not like hard work.",
+      "focus_zh": "but 后面是叙述者诚实又好笑的自我介绍。",
+      "start": 281.106,
+      "end": 284.754,
+      "focus_words": [
+        "like",
+        "gardens",
+        "too",
+        "hard",
+        "work"
+      ]
+    },
+    {
+      "id": "l8_s7",
+      "text": "Every year I enter for the garden competition too, and I always win a little prize for the worst garden in the town!",
+      "focus_zh": "always win 先像好消息，the worst garden 是最后的笑点。",
+      "start": 285.104,
+      "end": 291.968,
+      "focus_words": [
+        "Every",
+        "enter",
+        "always",
+        "prize",
+        "worst"
+      ]
+    }
+  ]
+}

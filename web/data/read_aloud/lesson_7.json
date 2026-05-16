@@ -1,0 +1,104 @@
+{
+  "lesson_id": 7,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把机场运输链、贵重包裹和最后的侦探反转读顺。",
+  "sentences": [
+    {
+      "id": "l7_s1",
+      "text": "The plane was late and detectives were waiting at the airport all morning.",
+      "focus_zh": "detectives、airport 和 all morning 要读出“等了很久”的感觉。",
+      "start": 284.476,
+      "end": 288.844,
+      "focus_words": [
+        "detectives",
+        "airport",
+        "all",
+        "morning"
+      ]
+    },
+    {
+      "id": "l7_s2",
+      "text": "They were expecting a valuable parcel of diamonds from South Africa.",
+      "focus_zh": "expecting、valuable parcel、diamonds、South Africa 是这一句的运输链关键词。",
+      "start": 289.194,
+      "end": 293.778,
+      "focus_words": [
+        "expecting",
+        "valuable",
+        "parcel",
+        "diamonds",
+        "Africa"
+      ]
+    },
+    {
+      "id": "l7_s3",
+      "text": "A few hours earlier, someone had told the police that thieves would try to steal the diamonds.",
+      "focus_zh": "A few hours earlier 后稍停，had told 表示提醒发生在机场等待之前。",
+      "start": 294.128,
+      "end": 299.696,
+      "focus_words": [
+        "earlier",
+        "had",
+        "told",
+        "thieves",
+        "steal"
+      ]
+    },
+    {
+      "id": "l7_s4",
+      "text": "When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield.",
+      "focus_zh": "while 前后分成两组人，main building 和 airfield 要对比清楚。",
+      "start": 300.046,
+      "end": 306.766,
+      "focus_words": [
+        "arrived",
+        "main",
+        "building",
+        "while",
+        "airfield"
+      ]
+    },
+    {
+      "id": "l7_s5",
+      "text": "Two men took the parcel off the plane and carried it into the Customs House.",
+      "focus_zh": "took the parcel off the plane 和 Customs House 是动作路线。",
+      "start": 307.116,
+      "end": 311.796,
+      "focus_words": [
+        "took",
+        "parcel",
+        "plane",
+        "carried",
+        "Customs"
+      ]
+    },
+    {
+      "id": "l7_s6",
+      "text": "While two detectives were keeping guard at the door, two others opened the parcel.",
+      "focus_zh": "keeping guard 和 opened the parcel 要读成同时发生的两件事。",
+      "start": 312.146,
+      "end": 317.162,
+      "focus_words": [
+        "While",
+        "detectives",
+        "keeping",
+        "guard",
+        "opened"
+      ]
+    },
+    {
+      "id": "l7_s7",
+      "text": "To their surprise, the precious parcel was full of stones and sand!",
+      "focus_zh": "To their surprise 是揭晓反转，stones and sand 要读出吃惊感。",
+      "start": 317.512,
+      "end": 322.288,
+      "focus_words": [
+        "surprise",
+        "precious",
+        "parcel",
+        "stones",
+        "sand"
+      ]
+    }
+  ]
+}

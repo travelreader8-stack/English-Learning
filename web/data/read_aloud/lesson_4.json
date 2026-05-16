@@ -1,0 +1,75 @@
+{
+  "lesson_id": 4,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把现在完成时的生活更新读顺。",
+  "sentences": [
+    {
+      "id": "l4_s1",
+      "text": "I have just received a letter from my brother, Tim.",
+      "focus_zh": "注意 have just received 的连贯。",
+      "start": 206.761,
+      "end": 210.385,
+      "focus_words": [
+        "have",
+        "just",
+        "received",
+        "letter"
+      ]
+    },
+    {
+      "id": "l4_s2",
+      "text": "He has been there for six months.",
+      "focus_zh": "has been there 是状态延续，不要读散。",
+      "start": 213.269,
+      "end": 215.981,
+      "focus_words": [
+        "has",
+        "been",
+        "there",
+        "months"
+      ]
+    },
+    {
+      "id": "l4_s3",
+      "text": "He is working for a big firm and he has already visited a great number of different places in Australia.",
+      "focus_zh": "长句先慢一点，注意 has already visited。",
+      "start": 218.889,
+      "end": 225.033,
+      "focus_words": [
+        "working",
+        "firm",
+        "already",
+        "visited",
+        "Australia"
+      ]
+    },
+    {
+      "id": "l4_s4",
+      "text": "He has just bought an Australian car and has gone to Alice Springs, a small town in the centre of Australia.",
+      "focus_zh": "注意 has just bought 和 has gone to 两个动作。",
+      "start": 225.383,
+      "end": 231.887,
+      "focus_words": [
+        "bought",
+        "Australian",
+        "gone",
+        "Alice",
+        "Springs"
+      ]
+    },
+    {
+      "id": "l4_s5",
+      "text": "My brother has never been abroad before, so he is finding this trip very exciting.",
+      "focus_zh": "never been abroad before 是重点，后半句读出兴奋感。",
+      "start": 238.192,
+      "end": 243.4,
+      "focus_words": [
+        "never",
+        "abroad",
+        "before",
+        "finding",
+        "exciting"
+      ]
+    }
+  ]
+}

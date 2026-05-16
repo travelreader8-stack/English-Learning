@@ -1,0 +1,7 @@
+# NCE2 课件数据管线依赖（Python 3.10+）
+PyMuPDF>=1.23.0           # PDF 文本提取
+anthropic>=0.40.0         # Claude API（生成播客脚本）
+azure-cognitiveservices-speech>=1.40.0   # Azure TTS
+pydub>=0.25.1             # 音频拼接（需要 ffmpeg）
+python-dotenv>=1.0.0
+tqdm>=4.65.0

@@ -1,0 +1,948 @@
+{
+  "total_duration": 463.145,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 15.28,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果班里做海报、搭 LEGO、布置教室，最大的一组一定赢吗？不一定。有的作品东西最多，有的同学最努力，但最后获胜的，可能是最整洁、最清楚、最有趣的设计。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 15.63,
+      "end": 26.07,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的故事表面上是花园比赛，其实是在玩一个比较游戏：比大小、比努力、比数量、比设计，结果可能完全不同。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 26.42,
+      "end": 38.944,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "题目"
+        },
+        {
+          "lang": "en",
+          "text": "The best and the worst"
+        },
+        {
+          "lang": "zh",
+          "text": "，最好的和最差的，会先让你以为这是夸奖最漂亮的花园，最后却突然变成一个很可爱的自嘲笑话。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 39.293,
+      "end": 54.485,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事一开始："
+        },
+        {
+          "lang": "en",
+          "text": "Joe Sanders has the most beautiful garden in our town."
+        },
+        {
+          "lang": "zh",
+          "text": "乔·桑德斯有镇上最漂亮的花园。"
+        },
+        {
+          "lang": "en",
+          "text": "the most beautiful"
+        },
+        {
+          "lang": "zh",
+          "text": "表示在所有花园里，它最突出，是“最美的”。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 54.835,
+      "end": 73.347,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "每年，几乎每个人都会参加"
+        },
+        {
+          "lang": "en",
+          "text": "The Nicest Garden Competition"
+        },
+        {
+          "lang": "zh",
+          "text": "，最佳花园竞赛。这里的"
+        },
+        {
+          "lang": "en",
+          "text": "enters for"
+        },
+        {
+          "lang": "zh",
+          "text": "不是“走进”，而是“报名参加、加入一个比赛”。乔每次都赢："
+        },
+        {
+          "lang": "en",
+          "text": "Joe wins every time."
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 73.696,
+      "end": 95.2,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是比尔·弗里斯看起来也很厉害。"
+        },
+        {
+          "lang": "en",
+          "text": "Bill Frith's garden is larger than Joe's."
+        },
+        {
+          "lang": "zh",
+          "text": "他的花园更大；"
+        },
+        {
+          "lang": "en",
+          "text": "Bill works harder than Joe"
+        },
+        {
+          "lang": "zh",
+          "text": "，他比乔更努力；他还种了"
+        },
+        {
+          "lang": "en",
+          "text": "more flowers and vegetables"
+        },
+        {
+          "lang": "zh",
+          "text": "，更多花和蔬菜。按大小、努力、数量来比，比尔都很强。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 95.55,
+      "end": 132.149,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但故事翻到另一个标准：乔的花园"
+        },
+        {
+          "lang": "en",
+          "text": "is more interesting"
+        },
+        {
+          "lang": "zh",
+          "text": "，更有趣。他有"
+        },
+        {
+          "lang": "en",
+          "text": "neat paths"
+        },
+        {
+          "lang": "zh",
+          "text": "，整洁的小路；有"
+        },
+        {
+          "lang": "en",
+          "text": "a wooden bridge"
+        },
+        {
+          "lang": "zh",
+          "text": "，木桥；还有"
+        },
+        {
+          "lang": "en",
+          "text": "a pool"
+        },
+        {
+          "lang": "zh",
+          "text": "。这里的"
+        },
+        {
+          "lang": "en",
+          "text": "pool"
+        },
+        {
+          "lang": "zh",
+          "text": "不是游泳池，而是花园里的小池塘或水景。最后叙述者也参加比赛，却总是赢一个小奖："
+        },
+        {
+          "lang": "en",
+          "text": "for the worst garden"
+        },
+        {
+          "lang": "zh",
+          "text": "，因为他的花园是镇上最差的。这不是骂人，而是在笑自己喜欢花园、却不喜欢辛苦劳动。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 132.499,
+      "end": 137.539,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课最重要的问题不是“谁会种花”，而是“你按什么标准来比较”。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 137.889,
+      "end": 142.972,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "就像一个小组作品，可能有的最大，有的最整齐，有的最有趣？"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 143.322,
+      "end": 159.001,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。课文里比尔的花园"
+        },
+        {
+          "lang": "en",
+          "text": "larger than Joe's"
+        },
+        {
+          "lang": "zh",
+          "text": "，更大；他"
+        },
+        {
+          "lang": "en",
+          "text": "works harder than Joe"
+        },
+        {
+          "lang": "zh",
+          "text": "，更努力；他种了"
+        },
+        {
+          "lang": "en",
+          "text": "more flowers and vegetables"
+        },
+        {
+          "lang": "zh",
+          "text": "，数量更多。这些都是很清楚的标准。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 159.351,
+      "end": 161.981,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那为什么乔还能赢？"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 162.331,
+      "end": 182.011,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为乔赢的是整体效果。他的花园"
+        },
+        {
+          "lang": "en",
+          "text": "more interesting"
+        },
+        {
+          "lang": "zh",
+          "text": "，更有设计感。整洁的小路让人知道往哪里走，木桥和小池塘让花园有一个可以看的重点。就像海报不一定贴满最多图片才最好，清楚、有顺序、有亮点也很重要。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 182.36,
+      "end": 187.798,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "best"
+        },
+        {
+          "lang": "zh",
+          "text": "不是永远等于"
+        },
+        {
+          "lang": "en",
+          "text": "biggest"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 188.147,
+      "end": 208.827,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "完全正确。"
+        },
+        {
+          "lang": "en",
+          "text": "best"
+        },
+        {
+          "lang": "zh",
+          "text": "是“按这次评比标准，整体最好”。"
+        },
+        {
+          "lang": "en",
+          "text": "biggest"
+        },
+        {
+          "lang": "zh",
+          "text": "只是在大小上最大。"
+        },
+        {
+          "lang": "en",
+          "text": "harder"
+        },
+        {
+          "lang": "zh",
+          "text": "是努力更多。"
+        },
+        {
+          "lang": "en",
+          "text": "more"
+        },
+        {
+          "lang": "zh",
+          "text": "是数量更多。"
+        },
+        {
+          "lang": "en",
+          "text": "more interesting"
+        },
+        {
+          "lang": "zh",
+          "text": "是设计和感觉更吸引人。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 209.176,
+      "end": 213.899,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那最后叙述者得最差花园的小奖，是不是很丢脸？"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 214.249,
+      "end": 236.305,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的幽默是自嘲，不是嘲笑别人。他说自己也喜欢花园，但"
+        },
+        {
+          "lang": "en",
+          "text": "I do not like hard work"
+        },
+        {
+          "lang": "zh",
+          "text": "，我不喜欢辛苦劳动。所以他每年也参加比赛，还总能赢一个小奖，只不过是"
+        },
+        {
+          "lang": "en",
+          "text": "the worst garden"
+        },
+        {
+          "lang": "zh",
+          "text": "。读到这里，你会发现他也是“常胜选手”，只是赢的方向和乔相反。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 236.655,
+      "end": 243.097,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "原来同一个比赛里，可以有最美、最大、最努力、最多、最有趣，也可以有最差。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 243.447,
+      "end": 255.846,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，这就是今天的比较网络。比较之前，先问："
+        },
+        {
+          "lang": "en",
+          "text": "compare what?"
+        },
+        {
+          "lang": "zh",
+          "text": "比什么？大小、努力、数量、设计、美感，还是最后的笑点？"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 256.196,
+      "end": 260.108,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Joe Sanders has the most beautiful garden in our town."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 260.458,
+      "end": 266.458,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Nearly everybody enters for 'The Nicest Garden Competition' each year, but Joe wins every time."
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 266.808,
+      "end": 269.928,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Bill Frith's garden is larger than Joe's."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 270.278,
+      "end": 276.206,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Bill works harder than Joe and grows more flowers and vegetables, but Joe's garden is more interesting."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 276.556,
+      "end": 280.756,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He has made neat paths and has built a wooden bridge over a pool."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 281.106,
+      "end": 284.754,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I like gardens too, but I do not like hard work."
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 285.104,
+      "end": 291.968,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Every year I enter for the garden competition too, and I always win a little prize for the worst garden in the town!"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 292.317,
+      "end": 295.221,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "competition"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "competition"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 295.571,
+      "end": 297.395,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "competition"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "competition"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 297.745,
+      "end": 315.025,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "competition"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "competition"
+        },
+        {
+          "lang": "zh",
+          "text": "是“比赛、竞赛、评比”。它不只可以是运动比赛，也可以是海报评比、手工作品比赛、教室布置比赛。课文里的"
+        },
+        {
+          "lang": "en",
+          "text": "garden competition"
+        },
+        {
+          "lang": "zh",
+          "text": "，就是大家拿自己的花园来参加评比。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 315.375,
+      "end": 317.959,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "neat"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "neat"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 318.308,
+      "end": 319.748,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "neat"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "neat"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 320.098,
+      "end": 336.914,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "neat"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "neat"
+        },
+        {
+          "lang": "zh",
+          "text": "的意思是“整洁的、有条理的”。它不是说东西很多，而是说摆放清楚、看起来舒服。课文里的"
+        },
+        {
+          "lang": "en",
+          "text": "neat paths"
+        },
+        {
+          "lang": "zh",
+          "text": "，就是整洁的小路，让花园看起来有秩序、有设计。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 337.264,
+      "end": 340.016,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "path"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "path"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 340.366,
+      "end": 341.878,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "path"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "path"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 342.228,
+      "end": 359.931,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "path"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "path"
+        },
+        {
+          "lang": "zh",
+          "text": "是“小路、路径”。在花园里，"
+        },
+        {
+          "lang": "en",
+          "text": "paths"
+        },
+        {
+          "lang": "zh",
+          "text": "会告诉人怎么走，也会把不同区域分开。乔的花园有"
+        },
+        {
+          "lang": "en",
+          "text": "neat paths"
+        },
+        {
+          "lang": "zh",
+          "text": "，所以它不只是花多，而是有结构、好参观。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 360.281,
+      "end": 400.388,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法就是“按不同标准比较”。看一张评委表：大小上，比尔的花园"
+        },
+        {
+          "lang": "en",
+          "text": "is larger than Joe's"
+        },
+        {
+          "lang": "zh",
+          "text": "；努力上，比尔"
+        },
+        {
+          "lang": "en",
+          "text": "works harder than Joe"
+        },
+        {
+          "lang": "zh",
+          "text": "；数量上，比尔"
+        },
+        {
+          "lang": "en",
+          "text": "grows more flowers and vegetables"
+        },
+        {
+          "lang": "zh",
+          "text": "；设计感上，乔的花园"
+        },
+        {
+          "lang": "en",
+          "text": "is more interesting"
+        },
+        {
+          "lang": "zh",
+          "text": "；整体美感上，乔有"
+        },
+        {
+          "lang": "en",
+          "text": "the most beautiful garden"
+        },
+        {
+          "lang": "zh",
+          "text": "；最后笑点上，叙述者赢了"
+        },
+        {
+          "lang": "en",
+          "text": "the worst garden"
+        },
+        {
+          "lang": "zh",
+          "text": "。所以比较句不是只背"
+        },
+        {
+          "lang": "en",
+          "text": "-er"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "more"
+        },
+        {
+          "lang": "zh",
+          "text": "，更要先问：我在比较哪一个维度？"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 400.738,
+      "end": 417.978,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天这个“比较标准”放进你自己的现代场景。下面三个空都要填：海报评比、积木作品、整洁桌面。你从 word bank 里选短语，重点是说清楚：更大、更努力、更多，不一定等于最后最好。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 418.328,
+      "end": 430.395,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "比如一个小组的模型很大，另一个小组的模型很小但路线清楚、设计有趣。英文可以这样想："
+        },
+        {
+          "lang": "en",
+          "text": "The best project is not always the biggest one."
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 430.745,
+      "end": 463.145,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：第一步听课文全文，第二步听核心句原音，第三步录一句自己的朗读，第四步获取反馈、再试一次。读顺以后，再做 ① 生活场景，把海报、搭建或桌面评比放进自己的比较故事里；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。加油、"
+        },
+        {
+          "lang": "en",
+          "text": "you can do it"
+        },
+        {
+          "lang": "zh",
+          "text": "！"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 8
+}

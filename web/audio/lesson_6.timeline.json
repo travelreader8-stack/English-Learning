@@ -1,0 +1,872 @@
+{
+  "total_duration": 454.807,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 12.84,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你刚搬到一个新地方。第二天，有人敲门，做了一件很奇怪的事。你以为这是一次偶然事件，后来邻居一句话告诉你：原来整条街早就认识他。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 13.19,
+      "end": 31.71,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先把画面摆对：这不是中国高层小区的电梯间，也不是小朋友自己开门。故事发生在英国老式街区，临街小房子的门直接靠近街道；如果今天真的有陌生人敲门，小朋友应该叫爸爸妈妈、门卫或邻居来处理。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 32.06,
+      "end": 48.211,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的幽默也不是嘲笑贫穷。真正的笑点是信息差：叙述者刚搬到"
+        },
+        {
+          "lang": "en",
+          "text": "Bridge Street"
+        },
+        {
+          "lang": "zh",
+          "text": "，还不懂这里的街区惯例；但大家都知道"
+        },
+        {
+          "lang": "en",
+          "text": "Percy Buttons"
+        },
+        {
+          "lang": "zh",
+          "text": "，珀西·巴顿斯。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 48.561,
+      "end": 62.561,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事一开始，叙述者说："
+        },
+        {
+          "lang": "en",
+          "text": "I have just moved to a house in Bridge Street."
+        },
+        {
+          "lang": "zh",
+          "text": "这句话很关键，不只是交代地址，而是在说：我刚来，我是新人，我还不知道这条街上的人和规矩。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 62.911,
+      "end": 78.555,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二天，"
+        },
+        {
+          "lang": "en",
+          "text": "a beggar knocked at my door"
+        },
+        {
+          "lang": "zh",
+          "text": "。在这种老式街屋里，门口就是街道，所以这个敲门动作才合理。Percy 请求一顿饭和一杯啤酒；啤酒只是原文里的成人生活细节，不是让小朋友模仿。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 78.905,
+      "end": 97.112,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着他给出一个奇怪的交换："
+        },
+        {
+          "lang": "en",
+          "text": "In return for this"
+        },
+        {
+          "lang": "zh",
+          "text": "，作为回报，他"
+        },
+        {
+          "lang": "en",
+          "text": "stood on his head and sang songs"
+        },
+        {
+          "lang": "zh",
+          "text": "，倒立唱歌。叙述者很惊讶，但还是给了他一顿饭。Percy 吃完、喝完，又把一块奶酪放进口袋，离开了。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 97.462,
+      "end": 119.298,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后，邻居揭开答案："
+        },
+        {
+          "lang": "en",
+          "text": "Everybody knows him."
+        },
+        {
+          "lang": "zh",
+          "text": "他叫"
+        },
+        {
+          "lang": "en",
+          "text": "Percy Buttons"
+        },
+        {
+          "lang": "zh",
+          "text": "。他"
+        },
+        {
+          "lang": "en",
+          "text": "calls at every house in the street once a month"
+        },
+        {
+          "lang": "zh",
+          "text": "，每个月拜访这条街上的每户人家，而且总是要同样的东西。叙述者以为是一次怪事，其实这是街区里大家都知道的固定节目。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 119.648,
+      "end": 126.168,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课最容易误会的地方，是把它当成一个“乞丐很滑稽”的笑话。我们不要这样读。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 126.518,
+      "end": 128.638,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那应该怎么读？"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 128.988,
+      "end": 141.512,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "读成一个新住户学习街区规则的故事。叙述者刚搬来，所以他看到 Percy 时觉得陌生、突然、不可思议。邻居却很淡定，因为"
+        },
+        {
+          "lang": "en",
+          "text": "everybody knows him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 141.861,
+      "end": 147.31,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "像新同学刚进班，发现大家都知道某个小传统，只有他不知道？"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 147.659,
+      "end": 166.219,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，就是这个感觉。你刚进一个班，大家知道每周五要带阅读记录，知道校门口哪位保安叔叔总会提醒排队，知道小卖部门口有个常来的熟人。新人看见会问：“这是谁？为什么大家都不惊讶？”老成员就会说：“哦，大家都认识他。”"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 166.569,
+      "end": 170.496,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但是现实里有人敲门，小朋友不能自己开门。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 170.846,
+      "end": 191.046,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "必须说清楚：今天在中国的高层小区、学校、家里，如果陌生人敲门，小朋友不应该独自开门，也不要自己处理。应该叫爸爸妈妈、门卫、老师或邻居。课文讲的是老式英国街屋的故事场景，不是现代安全建议。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 191.396,
+      "end": 195.937,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "题目"
+        },
+        {
+          "lang": "en",
+          "text": "Percy Buttons"
+        },
+        {
+          "lang": "zh",
+          "text": "就是那个人的名字？"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 196.287,
+      "end": 220.639,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，中文可以说珀西·巴顿斯。故事结尾才报出名字，就像邻居递给叙述者一张“本地说明书”。还有一个特别容易错的短语："
+        },
+        {
+          "lang": "en",
+          "text": "calls at"
+        },
+        {
+          "lang": "zh",
+          "text": "。这里不是打电话，意思是“拜访、到某个地方停一下”。所以"
+        },
+        {
+          "lang": "en",
+          "text": "He calls at every house"
+        },
+        {
+          "lang": "zh",
+          "text": "不是“他给每家打电话”，而是“他拜访每一家”。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 220.989,
+      "end": 228.862,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "once a month"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "always asks"
+        },
+        {
+          "lang": "zh",
+          "text": "就说明这不是偶然。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 229.212,
+      "end": 245.232,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "没错。昨天发生的是一次事件；邻居告诉我们的，是一个长期习惯。笑点就在这里：我以为遇到了一件奇怪的一次性事件，结果整条街都知道，这是每个月都会来的固定惯例。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 245.582,
+      "end": 248.822,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I have just moved to a house in Bridge Street."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 249.172,
+      "end": 252.148,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Yesterday a beggar knocked at my door."
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 252.498,
+      "end": 255.666,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He asked me for a meal and a glass of beer."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 256.015,
+      "end": 260.431,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In return for this, the beggar stood on his head and sang songs."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 260.781,
+      "end": 262.893,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I gave him a meal."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 263.243,
+      "end": 266.051,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He ate the food and drank the beer."
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 266.401,
+      "end": 270.169,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Then he put a piece of cheese in his pocket and went away."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 270.519,
+      "end": 273.183,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Later a neighbour told me about him."
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 273.533,
+      "end": 275.549,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Everybody knows him."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 275.899,
+      "end": 278.467,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "His name is Percy Buttons."
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 278.817,
+      "end": 284.481,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He calls at every house in the street once a month and always asks for a meal and a glass of beer."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 284.83,
+      "end": 287.326,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "beggar"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "beggar"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 287.676,
+      "end": 289.26,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "beggar"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "beggar"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 289.61,
+      "end": 303.386,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "beggar"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "beggar"
+        },
+        {
+          "lang": "zh",
+          "text": "是“乞讨者、乞丐”。这个词说的是处境，不是笑点。读故事时要保持尊重：课文的幽默来自街区惯例和新人信息差，不来自嘲笑一个穷人。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 303.736,
+      "end": 307.096,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "return"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个重点短语："
+        },
+        {
+          "lang": "en",
+          "text": "in return for"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 307.446,
+      "end": 309.534,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "return"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "in return for"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 309.884,
+      "end": 325.971,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "return"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "in return for"
+        },
+        {
+          "lang": "zh",
+          "text": "的意思是“作为回报、作为交换”。Percy 请求一顿饭和一杯啤酒；"
+        },
+        {
+          "lang": "en",
+          "text": "in return for this"
+        },
+        {
+          "lang": "zh",
+          "text": "，他倒立唱歌。你可以把它理解成：我得到这个，所以我用那个来回报。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 326.321,
+      "end": 330.049,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "call"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个重点短语："
+        },
+        {
+          "lang": "en",
+          "text": "call at"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 330.399,
+      "end": 332.055,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "call"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "call at"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 332.405,
+      "end": 347.524,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "call"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里一定不要按手机来理解。"
+        },
+        {
+          "lang": "en",
+          "text": "call at"
+        },
+        {
+          "lang": "zh",
+          "text": "不是“打电话”，而是“拜访、顺路到某个地方停一下”。课文里"
+        },
+        {
+          "lang": "en",
+          "text": "He calls at every house"
+        },
+        {
+          "lang": "zh",
+          "text": "的意思是：他会拜访街上的每一户人家。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 347.874,
+      "end": 388.434,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法，不背成表格，放进故事逻辑里看。第一句"
+        },
+        {
+          "lang": "en",
+          "text": "I have just moved"
+        },
+        {
+          "lang": "zh",
+          "text": "，重点是“我现在是刚搬来的新人”，所以我不知道本地情况。后面"
+        },
+        {
+          "lang": "en",
+          "text": "Yesterday a beggar knocked"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "asked"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "stood"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "sang"
+        },
+        {
+          "lang": "zh",
+          "text": "，是在讲昨天发生的一串动作。最后"
+        },
+        {
+          "lang": "en",
+          "text": "He calls at every house once a month and always asks"
+        },
+        {
+          "lang": "zh",
+          "text": "，就变成规律了：他每个月都会来，而且总是提出同样的请求。三个时间层次合起来，就是这篇故事的笑点：新情况、昨天的事件、长期的惯例。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 388.784,
+      "end": 407.944,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把这个“新搬来的人还不知道本地惯例”的感觉，放进现代安全场景。下面有三个空：刚搬来、有人敲门、邻居解释。你从 word bank 里选短语补上。记住，现实里遇到陌生人敲门，小朋友要先找大人。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 408.293,
+      "end": 423.117,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师刚搬家时，也不认识小区门口的熟人。有一次有人敲门，我先叫家里大人去看，后来邻居说："
+        },
+        {
+          "lang": "en",
+          "text": "Everybody knows him."
+        },
+        {
+          "lang": "zh",
+          "text": "原来那是经常来帮大家收旧纸箱的叔叔。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 423.467,
+      "end": 454.807,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：第一步听课文全文，第二步点核心句的原音，第三步录自己读一遍，第四步看一句小反馈、再试一次。读顺以后，再做 ① 生活场景，把新街区里的本地惯例放进你自己的安全故事里；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。加油、"
+        },
+        {
+          "lang": "en",
+          "text": "you can do it"
+        },
+        {
+          "lang": "zh",
+          "text": "！"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 6
+}

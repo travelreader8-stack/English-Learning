@@ -1,0 +1,39 @@
+{
+  "lesson_id": 8,
+  "title": "The best and the worst",
+  "question": "把今天课文里「按不同标准比较」放进学校展示、搭建作品和桌面评比——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景各填一个空、用 word bank 里的短语。",
+  "example_answer": "Our class joined a poster competition. Tom's project was larger than mine, but my small project was neat and more interesting.",
+  "word_bank": [
+    "competition",
+    "neat",
+    "larger than",
+    "works harder than",
+    "more interesting",
+    "most beautiful",
+    "wooden bridge",
+    "the worst",
+    "wins every time",
+    "hard work"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "学校海报评比：清楚整洁的设计胜出",
+      "english_template": "Our class joined a poster ___. Amy's poster was neat because it was clean and clear.",
+      "expected_phrase": "competition"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "搭建作品：大的不一定最有趣",
+      "english_template": "Tom's LEGO house was larger than mine, but my small house was ___.",
+      "expected_phrase": "more interesting"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "自嘲结尾：喜欢整洁，但不喜欢辛苦整理",
+      "english_template": "I like clean desks, but I do not like hard work. I may win a prize for ___ desk.",
+      "expected_phrase": "the worst"
+    }
+  ],
+  "mode": "all_fills"
+}

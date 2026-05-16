@@ -1,0 +1,37 @@
+{
+  "lesson_id": 5,
+  "title": "No wrong numbers",
+  "question": "把今天课文里「备用通信方案」放进你自己的生活——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景的空都填上、用 word bank 里的短语。",
+  "example_answer": "老师有一次在地下停车场 cannot get a signal，所以借朋友手机 sent a message，才把 urgent message 及时发出去。",
+  "word_bank": [
+    "sent a message",
+    "urgent message",
+    "wrong group",
+    "covered the distance",
+    "private service",
+    "spare parts",
+    "in this way",
+    "cannot get a signal"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "手机没信号、换一种办法联系家人",
+      "english_template": "When I ___, I called my mom from my friend's phone.",
+      "expected_phrase": "cannot get a signal"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "消息发错聊天群",
+      "english_template": "I wanted to tell my classmate something, but I sent it to the ___.",
+      "expected_phrase": "wrong group"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "时间改变、老师发紧急通知",
+      "english_template": "The teacher sent an ___ because the meeting time changed.",
+      "expected_phrase": "urgent message"
+    }
+  ],
+  "mode": "all_fills"
+}

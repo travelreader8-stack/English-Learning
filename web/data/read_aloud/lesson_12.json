@@ -1,0 +1,118 @@
+{
+  "lesson_id": 12,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把送行计划、海港地点和大西洋比赛挑战读顺。",
+  "sentences": [
+    {
+      "id": "l12_s1",
+      "text": "Our neighbour, Captain Charles Alison, will sail from Portsmouth tomorrow.",
+      "focus_zh": "Captain 是船长；will sail 是明天的出海计划；Portsmouth 是英国的港口城市。",
+      "start": 265.537,
+      "end": 270.337,
+      "focus_words": [
+        "neighbour",
+        "Captain",
+        "will",
+        "sail",
+        "Portsmouth"
+      ]
+    },
+    {
+      "id": "l12_s2",
+      "text": "We'll meet him at the harbour early in the morning.",
+      "focus_zh": "We'll meet him 是送行安排；harbour 是船停靠和出发的海港。",
+      "start": 270.687,
+      "end": 273.879,
+      "focus_words": [
+        "We'll",
+        "meet",
+        "harbour",
+        "early",
+        "morning"
+      ]
+    },
+    {
+      "id": "l12_s3",
+      "text": "He will be in his small boat, Topsail.",
+      "focus_zh": "will be in 说明船长明天会在船上；Topsail 是船名。",
+      "start": 274.229,
+      "end": 277.325,
+      "focus_words": [
+        "will",
+        "small",
+        "boat",
+        "Topsail"
+      ]
+    },
+    {
+      "id": "l12_s4",
+      "text": "Topsail is a famous little boat. It has sailed across the Atlantic many times.",
+      "focus_zh": "famous little boat 说明它有名；has sailed across the Atlantic 是这艘船过去到现在的经验。",
+      "start": 277.675,
+      "end": 283.867,
+      "focus_words": [
+        "famous",
+        "little",
+        "has",
+        "sailed",
+        "Atlantic"
+      ]
+    },
+    {
+      "id": "l12_s5",
+      "text": "Captain Alison will set out at eight o'clock, so we'll have plenty of time.",
+      "focus_zh": "set out 是启程；eight o'clock 给出时间；plenty of time 表示时间充裕。",
+      "start": 284.217,
+      "end": 288.849,
+      "focus_words": [
+        "set",
+        "out",
+        "eight",
+        "plenty",
+        "time"
+      ]
+    },
+    {
+      "id": "l12_s6",
+      "text": "We'll see his boat and then we'll say goodbye to him.",
+      "focus_zh": "then 帮你读出顺序：先看船，然后告别。",
+      "start": 289.198,
+      "end": 292.486,
+      "focus_words": [
+        "We'll",
+        "see",
+        "boat",
+        "then",
+        "goodbye"
+      ]
+    },
+    {
+      "id": "l12_s7",
+      "text": "He will be away for two months. We are very proud of him.",
+      "focus_zh": "will be away for two months 是未来离开两个月；proud of him 是为他感到自豪。",
+      "start": 292.836,
+      "end": 297.684,
+      "focus_words": [
+        "away",
+        "two",
+        "months",
+        "proud",
+        "him"
+      ]
+    },
+    {
+      "id": "l12_s8",
+      "text": "He will take part in an important race across the Atlantic.",
+      "focus_zh": "take part in 是参加；important race across the Atlantic 说明这不是普通旅行，而是重要挑战。",
+      "start": 298.034,
+      "end": 301.946,
+      "focus_words": [
+        "take",
+        "part",
+        "important",
+        "race",
+        "Atlantic"
+      ]
+    }
+  ]
+}

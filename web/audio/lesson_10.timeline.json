@@ -1,0 +1,998 @@
+{
+  "total_duration": 484.415,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 15.6,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "想象客厅里摆着一件 1681 年做出来的老乐器。它像一个很早以前的小型键盘乐器，能发出安静的声音，可是比现代钢琴和电子键盘脆弱得多。家里人一直把它当成有历史的老物件。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 15.95,
+      "end": 32.334,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Not for jazz"
+        },
+        {
+          "lang": "zh",
+          "text": "，先别误会：这不是说"
+        },
+        {
+          "lang": "en",
+          "text": "jazz"
+        },
+        {
+          "lang": "zh",
+          "text": "爵士乐不好。爵士乐可以有很强的节奏和很自由的表达，问题是这个老乐器承受不了那样用力的弹法。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 32.683,
+      "end": 47.707,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个老乐器叫"
+        },
+        {
+          "lang": "en",
+          "text": "clavichord"
+        },
+        {
+          "lang": "zh",
+          "text": "，可以理解成一种早期键盘乐器：外表有点像古老的小钢琴，但声音更轻，结构也更 delicate。它适合被小心地弹，不适合被当成现代键盘大力敲。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 48.057,
+      "end": 71.193,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事先把主角摆出来："
+        },
+        {
+          "lang": "en",
+          "text": "We have an old musical instrument. It is called a clavichord."
+        },
+        {
+          "lang": "en",
+          "text": "instrument"
+        },
+        {
+          "lang": "zh",
+          "text": "是用来演奏音乐的工具，比如 piano、guitar、violin、keyboard。这里的"
+        },
+        {
+          "lang": "en",
+          "text": "clavichord"
+        },
+        {
+          "lang": "zh",
+          "text": "是一个老式键盘乐器，不是玩具，也不是普通电子琴。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 71.543,
+      "end": 95.086,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着课文讲它的来历："
+        },
+        {
+          "lang": "en",
+          "text": "It was made in Germany in 1681."
+        },
+        {
+          "lang": "zh",
+          "text": "它不是昨天买的新东西，而是从 1681 年来的古老物件。"
+        },
+        {
+          "lang": "en",
+          "text": "Our clavichord is kept in the living room."
+        },
+        {
+          "lang": "zh",
+          "text": "它放在客厅里，就像家里的传家物、老相机、旧唱机或展示模型：看得见，但不等于随便玩。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 95.436,
+      "end": 117.836,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这件乐器还很有家庭历史："
+        },
+        {
+          "lang": "en",
+          "text": "It has belonged to our family for a long time. The instrument was bought by my grandfather many years ago."
+        },
+        {
+          "lang": "en",
+          "text": "has belonged to"
+        },
+        {
+          "lang": "zh",
+          "text": "表示它一直属于这个家，连接过去和现在。被动句让我们一路看见：它被制造、被保存、被祖父买下。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 118.186,
+      "end": 144.125,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最近，转折来了："
+        },
+        {
+          "lang": "en",
+          "text": "Recently it was damaged by a visitor. She tried to play jazz on it!"
+        },
+        {
+          "lang": "zh",
+          "text": "重点不是“爵士乐错了”，而是她把一个脆弱的老乐器当成现代键盘用。"
+        },
+        {
+          "lang": "en",
+          "text": "She struck the keys too hard and two of the strings were broken."
+        },
+        {
+          "lang": "zh",
+          "text": "父亲很震惊。现在孩子们"
+        },
+        {
+          "lang": "en",
+          "text": "are not allowed to touch it"
+        },
+        {
+          "lang": "zh",
+          "text": "，乐器正在被父亲的朋友修理。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 144.475,
+      "end": 151.283,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课最容易误会的地方，是题目"
+        },
+        {
+          "lang": "en",
+          "text": "Not for jazz"
+        },
+        {
+          "lang": "zh",
+          "text": "。它到底是什么意思？"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 151.633,
+      "end": 154.405,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "是不是说 jazz 不好，或者太吵？"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 154.755,
+      "end": 166.33,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。这里的"
+        },
+        {
+          "lang": "en",
+          "text": "jazz"
+        },
+        {
+          "lang": "zh",
+          "text": "只是一个有强节奏、很有表现力的音乐风格。真正的问题是 mismatch：演奏方式和乐器不匹配。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 166.68,
+      "end": 170.881,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "就像不能拿爷爷的老胶片相机当手机乱点？"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 171.231,
+      "end": 184.311,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。老相机可以拍照，但不能像手机一样一直戳屏幕。旧唱机可以放唱片，但不能当蓝牙音箱拍来拍去。展示好的 LEGO 模型很好看，但不能随便拆。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 184.661,
+      "end": 190.766,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "clavichord"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么不能直接翻成“古钢琴”就过去？"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 191.116,
+      "end": 205.076,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为学生可能以为它就是一台旧钢琴。更准确地说，它是早期 keyboard instrument，比现代钢琴更安静、更细、更脆弱。你可以想象一个家里的小型历史乐器，需要正确的手法和边界。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 205.426,
+      "end": 209.421,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里好多句子都像在讲这件东西的履历。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 209.771,
+      "end": 231.758,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "很好，这就是今天的语法线索。故事不是先讲公式，而是把"
+        },
+        {
+          "lang": "en",
+          "text": "clavichord"
+        },
+        {
+          "lang": "zh",
+          "text": "当主角：它"
+        },
+        {
+          "lang": "en",
+          "text": "is called"
+        },
+        {
+          "lang": "zh",
+          "text": "什么，在哪里"
+        },
+        {
+          "lang": "en",
+          "text": "was made"
+        },
+        {
+          "lang": "zh",
+          "text": "，被谁买下，怎么"
+        },
+        {
+          "lang": "en",
+          "text": "was damaged"
+        },
+        {
+          "lang": "zh",
+          "text": "，现在"
+        },
+        {
+          "lang": "en",
+          "text": "is being repaired"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 232.108,
+      "end": 235.97,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以被动语态像是在讲“物件的一生”？"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 236.32,
+      "end": 249.96,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "正是。当我们更关心这个物件，而不是每一步是谁做的，就会自然用 passive voice。最后的意思是：这件乐器不是反对音乐，它只是 not for that kind of playing。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 250.31,
+      "end": 253.262,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "We have an old musical instrument."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 253.612,
+      "end": 255.964,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It is called a clavichord."
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 256.313,
+      "end": 259.721,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It was made in Germany in 1681."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 260.071,
+      "end": 263.119,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Our clavichord is kept in the living room."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 263.469,
+      "end": 266.781,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It has belonged to our family for a long time."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 267.131,
+      "end": 271.019,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The instrument was bought by my grandfather many years ago."
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 271.369,
+      "end": 274.489,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Recently it was damaged by a visitor."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 274.839,
+      "end": 277.527,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She tried to play jazz on it!"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 277.877,
+      "end": 281.909,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She struck the keys too hard and two of the strings were broken."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 282.259,
+      "end": 284.491,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "My father was shocked."
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 284.84,
+      "end": 287.624,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Now we are not allowed to touch it."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 287.974,
+      "end": 291.31,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It is being repaired by a friend of my father's."
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 291.66,
+      "end": 294.468,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "instrument"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "instrument"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 294.818,
+      "end": 296.618,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "instrument"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "instrument"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 296.968,
+      "end": 315.82,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "instrument"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "instrument"
+        },
+        {
+          "lang": "zh",
+          "text": "是“乐器”，也就是用来制造音乐的工具。piano、guitar、violin、drums 都是 instruments。课文里的"
+        },
+        {
+          "lang": "en",
+          "text": "musical instrument"
+        },
+        {
+          "lang": "zh",
+          "text": "指的就是这件老式键盘乐器"
+        },
+        {
+          "lang": "en",
+          "text": "clavichord"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 316.169,
+      "end": 318.921,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "damage"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "damage"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 319.271,
+      "end": 320.879,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "damage"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "damage"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 321.229,
+      "end": 343.108,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "damage"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "damage"
+        },
+        {
+          "lang": "zh",
+          "text": "是“损坏、伤害”。课文说"
+        },
+        {
+          "lang": "en",
+          "text": "it was damaged by a visitor"
+        },
+        {
+          "lang": "zh",
+          "text": "，不是说客人很坏，而是说她的使用方式不合适。她"
+        },
+        {
+          "lang": "en",
+          "text": "struck the keys too hard"
+        },
+        {
+          "lang": "zh",
+          "text": "，太用力按琴键，结果"
+        },
+        {
+          "lang": "en",
+          "text": "two of the strings were broken"
+        },
+        {
+          "lang": "zh",
+          "text": "，两根琴弦断了。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 343.458,
+      "end": 346.186,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "allow"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "allow"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 346.536,
+      "end": 348.048,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "allow"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "allow"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 348.398,
+      "end": 365.63,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "allow"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "allow"
+        },
+        {
+          "lang": "zh",
+          "text": "是“允许”。"
+        },
+        {
+          "lang": "en",
+          "text": "We are not allowed to touch it"
+        },
+        {
+          "lang": "zh",
+          "text": "意思是“我们不被允许碰它”。这个句子不是制造害怕，而是在建立 boundary：贵重、脆弱、有历史的东西，需要正确使用和清楚规则。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 365.98,
+      "end": 416.018,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 可以叫“object life story”，物件的一生。普通主动句会问：谁做了这件事？但这篇更关心"
+        },
+        {
+          "lang": "en",
+          "text": "clavichord"
+        },
+        {
+          "lang": "zh",
+          "text": "本身，所以句子都围着它走："
+        },
+        {
+          "lang": "en",
+          "text": "It is called a clavichord."
+        },
+        {
+          "lang": "zh",
+          "text": "这是名字；"
+        },
+        {
+          "lang": "en",
+          "text": "It was made in Germany in 1681."
+        },
+        {
+          "lang": "zh",
+          "text": "这是出生地和年代；"
+        },
+        {
+          "lang": "en",
+          "text": "It is kept in the living room."
+        },
+        {
+          "lang": "zh",
+          "text": "这是现在的位置；"
+        },
+        {
+          "lang": "en",
+          "text": "The instrument was bought by my grandfather."
+        },
+        {
+          "lang": "zh",
+          "text": "这是家庭历史；"
+        },
+        {
+          "lang": "en",
+          "text": "It was damaged by a visitor."
+        },
+        {
+          "lang": "zh",
+          "text": "这是事故；"
+        },
+        {
+          "lang": "en",
+          "text": "We are not allowed to touch it."
+        },
+        {
+          "lang": "zh",
+          "text": "这是新规则；"
+        },
+        {
+          "lang": "en",
+          "text": "It is being repaired"
+        },
+        {
+          "lang": "zh",
+          "text": "是正在发生的修理。被动语态不是一张公式表，而是当“物件是主角”时，非常自然的讲故事方式。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 416.368,
+      "end": 433.368,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天的“老物件要有正确用法”放进你自己的生活。下面三个空都要填，word bank 里选短语。你要说清楚：老物件有历史，错误用法会造成 damage，之后家里会有新的 boundary。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 433.718,
+      "end": 447.254,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "比如一台爷爷留下的老相机，不是不能用，而是不能像手机那样乱按乱摔。英文可以这样想："
+        },
+        {
+          "lang": "en",
+          "text": "This old camera has belonged to my family for many years, so we use it carefully."
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 447.604,
+      "end": 484.415,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "clavichord"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "was damaged"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "not allowed to touch it"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "is being repaired"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。读完以后，再做 ① 生活场景，把老物件、正确用法和新规则讲出来；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。加油、"
+        },
+        {
+          "lang": "en",
+          "text": "you can do it"
+        },
+        {
+          "lang": "zh",
+          "text": "！"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 10
+}

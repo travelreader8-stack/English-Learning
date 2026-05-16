@@ -1,0 +1,22 @@
+{
+  "lesson_id": 7,
+  "title": "Too late",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "A delayed passenger plane near an airport on a long quiet morning, with several calm detectives waiting in two areas: some inside a bright terminal-like main building and others outside near the airfield. The mood is patient, watchful, and puzzle-like rather than dramatic. No readable signs, no letters, no captions, no visible words."
+    },
+    {
+      "frame": 2,
+      "prompt": "A sealed valuable parcel arriving from far away and being handled carefully near an airplane, with subtle visual hints of precious contents and security attention, but no actual readable labels. The package feels important and protected, not flashy. Gentle detective-story suspense. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 3,
+      "prompt": "Detectives split across an airport main building, airfield, and customs inspection area, calmly guarding the final step as two men carry a sealed parcel toward a doorway. Show a clean security-chain puzzle: watchful adults, careful handling, no weapons, no violence, no frightening criminals. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 4,
+      "prompt": "An opened parcel on an inspection table reveals ordinary stones and sand instead of diamonds, while detectives look surprised and thoughtful. The scene should emphasize a clever timing reveal: the final door was guarded, but the parcel had already been switched earlier. No guns, no violence, no explosions, no criminals. No text, no letters, no captions, no visible words."
+    }
+  ]
+}

@@ -1,0 +1,1038 @@
+{
+  "total_duration": 506.96,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 12.76,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "想象你和同学约好：他今天忘带笔，先向你借一支，明天还回来。这件事能顺利，是因为方向很清楚：谁借走了，什么时候还回来。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 13.11,
+      "end": 35.477,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "One good turn deserves another"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文可以说“礼尚往来”。这里的"
+        },
+        {
+          "lang": "en",
+          "text": "turn"
+        },
+        {
+          "lang": "zh",
+          "text": "不是转弯，而是一个 kind act，一个好心的帮忙；"
+        },
+        {
+          "lang": "en",
+          "text": "deserve"
+        },
+        {
+          "lang": "zh",
+          "text": "是“按道理应该得到”。别人帮了你一次，你也应该公平地回报。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 35.827,
+      "end": 51.987,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是课文里的托尼·斯蒂尔把这句话用歪了。他不是在讲真正的公平，而是把“你帮我、我帮你”变成“你替我付饭钱”。所以这一课的核心不是餐厅，而是借、还、人情和账单的方向。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 52.337,
+      "end": 69.993,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事一开始，叙述者正在餐厅吃饭："
+        },
+        {
+          "lang": "en",
+          "text": "I was having dinner at a restaurant when Tony Steele came in."
+        },
+        {
+          "lang": "zh",
+          "text": "背景动作是"
+        },
+        {
+          "lang": "en",
+          "text": "was having dinner"
+        },
+        {
+          "lang": "zh",
+          "text": "，这时托尼进来了。一个普通饭局，马上要变成一场关于借钱的小游戏。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 70.343,
+      "end": 91.55,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文接着给托尼补背景："
+        },
+        {
+          "lang": "en",
+          "text": "Tony worked in a lawyer's office years ago, but he is now working at a bank."
+        },
+        {
+          "lang": "zh",
+          "text": "他以前在律师事务所工作，现在在银行工作。"
+        },
+        {
+          "lang": "en",
+          "text": "He gets a good salary"
+        },
+        {
+          "lang": "zh",
+          "text": "，他薪水不错，所以后面的借钱不是因为课文说他没有收入，而是因为他习惯占朋友便宜。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 91.9,
+      "end": 110.02,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "托尼的问题很清楚："
+        },
+        {
+          "lang": "en",
+          "text": "he always borrows money from his friends and never pays it back."
+        },
+        {
+          "lang": "en",
+          "text": "borrow from"
+        },
+        {
+          "lang": "zh",
+          "text": "是从别人那里借进来，钱来到他这边；"
+        },
+        {
+          "lang": "en",
+          "text": "pay it back"
+        },
+        {
+          "lang": "zh",
+          "text": "是把借来的钱还回去。托尼常常只做前半步，不做后半步。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 110.37,
+      "end": 138.609,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一次，叙述者反过来问托尼："
+        },
+        {
+          "lang": "en",
+          "text": "While he was eating, I asked him to lend me twenty pounds."
+        },
+        {
+          "lang": "en",
+          "text": "lend me"
+        },
+        {
+          "lang": "zh",
+          "text": "是托尼把钱借给我。出人意料的是，托尼立刻给了钱："
+        },
+        {
+          "lang": "en",
+          "text": "To my surprise, he gave me the money immediately."
+        },
+        {
+          "lang": "zh",
+          "text": "然后他说："
+        },
+        {
+          "lang": "en",
+          "text": "so now you can pay for my dinner!"
+        },
+        {
+          "lang": "zh",
+          "text": "他给钱很快，可是已经把这笔钱变成了别人替他付的饭钱。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 138.959,
+      "end": 146.519,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课最先要听懂题目："
+        },
+        {
+          "lang": "en",
+          "text": "One good turn deserves another"
+        },
+        {
+          "lang": "zh",
+          "text": "。它本来是什么意思？"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 146.869,
+      "end": 150.038,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "是不是别人帮我一次，我也应该回一个好意？"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 150.388,
+      "end": 161.348,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，这叫公平的礼尚往来。比如同学借你的橡皮，按时还回来；你今天帮他递作业，他明天也愿意帮你一个小忙。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 161.698,
+      "end": 167.981,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那托尼也算做了一个"
+        },
+        {
+          "lang": "en",
+          "text": "good turn"
+        },
+        {
+          "lang": "zh",
+          "text": "吗？他马上给了钱。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 168.331,
+      "end": 178.451,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "表面上像。可是他马上加了一句：现在你可以替我付晚饭钱。这样一来，他不是在还人情，而是在制造新账单。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 178.801,
+      "end": 181.636,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以他把谚语扭成了自己的理由？"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 181.986,
+      "end": 197.449,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "正是。真正的"
+        },
+        {
+          "lang": "en",
+          "text": "borrow"
+        },
+        {
+          "lang": "zh",
+          "text": "要有 return，借了要还；真正的"
+        },
+        {
+          "lang": "en",
+          "text": "good turn"
+        },
+        {
+          "lang": "zh",
+          "text": "也不能变成陷阱。托尼的问题，是把人情、借钱和饭钱混在一起，让别人吃亏。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 197.799,
+      "end": 203.898,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "borrow"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "lend"
+        },
+        {
+          "lang": "zh",
+          "text": "我总是分不清。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 204.247,
+      "end": 229.015,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "看钱或东西的方向就行。钱来到我这里，我"
+        },
+        {
+          "lang": "en",
+          "text": "borrow money from Tony"
+        },
+        {
+          "lang": "zh",
+          "text": "。钱从我这里出去给别人，我"
+        },
+        {
+          "lang": "en",
+          "text": "lend Tony money"
+        },
+        {
+          "lang": "zh",
+          "text": "或"
+        },
+        {
+          "lang": "en",
+          "text": "lend money to Tony"
+        },
+        {
+          "lang": "zh",
+          "text": "。借来的钱回去，叫"
+        },
+        {
+          "lang": "en",
+          "text": "pay it back"
+        },
+        {
+          "lang": "zh",
+          "text": "。替某个东西付款，比如晚餐，叫"
+        },
+        {
+          "lang": "en",
+          "text": "pay for dinner"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 229.365,
+      "end": 233.244,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "twenty pounds"
+        },
+        {
+          "lang": "zh",
+          "text": "呢？"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 233.594,
+      "end": 250.825,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它是故事里的英国钱数，我们只要知道这是一笔吃饭时借的钱，不需要换算。重点是：托尼在银行工作，有不错的"
+        },
+        {
+          "lang": "en",
+          "text": "salary"
+        },
+        {
+          "lang": "zh",
+          "text": "，却总向朋友借钱不还。最后他“立刻”给钱，反而让笑点更讽刺。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 251.175,
+      "end": 255.183,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I was having dinner at a restaurant when Tony Steele came in."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 255.533,
+      "end": 260.501,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Tony worked in a lawyer's office years ago, but he is now working at a bank."
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 260.851,
+      "end": 266.347,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He gets a good salary, but he always borrows money from his friends and never pays it back."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 266.697,
+      "end": 270.129,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Tony saw me and came and sat at the same table."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 270.479,
+      "end": 273.311,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He has never borrowed money from me."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 273.661,
+      "end": 277.549,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "While he was eating, I asked him to lend me twenty pounds."
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 277.898,
+      "end": 281.498,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "To my surprise, he gave me the money immediately."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 281.848,
+      "end": 287.248,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'I have never borrowed any money from you,' Tony said, 'so now you can pay for my dinner!'"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 287.598,
+      "end": 290.166,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "borrow"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "borrow"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 290.516,
+      "end": 292.052,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "borrow"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "borrow"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 292.402,
+      "end": 316.853,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "borrow"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "borrow"
+        },
+        {
+          "lang": "zh",
+          "text": "是“借入”，方向是东西来到我这里，所以常用"
+        },
+        {
+          "lang": "en",
+          "text": "borrow from"
+        },
+        {
+          "lang": "zh",
+          "text": "。比如"
+        },
+        {
+          "lang": "en",
+          "text": "I borrow money from Tony."
+        },
+        {
+          "lang": "zh",
+          "text": "钱从托尼那里来到我这里。课文里托尼总是"
+        },
+        {
+          "lang": "en",
+          "text": "borrows money from his friends"
+        },
+        {
+          "lang": "zh",
+          "text": "，问题是他"
+        },
+        {
+          "lang": "en",
+          "text": "never pays it back"
+        },
+        {
+          "lang": "zh",
+          "text": "，从来不还。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 317.203,
+      "end": 319.811,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "lend"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "lend"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 320.161,
+      "end": 321.697,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "lend"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "lend"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 322.047,
+      "end": 342.73,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "lend"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "lend"
+        },
+        {
+          "lang": "zh",
+          "text": "是“借出”，方向是东西从我这里出去给别人。比如"
+        },
+        {
+          "lang": "en",
+          "text": "Tony lends me money."
+        },
+        {
+          "lang": "zh",
+          "text": "或者"
+        },
+        {
+          "lang": "en",
+          "text": "Tony lends money to me."
+        },
+        {
+          "lang": "zh",
+          "text": "课文里叙述者说"
+        },
+        {
+          "lang": "en",
+          "text": "I asked him to lend me twenty pounds"
+        },
+        {
+          "lang": "zh",
+          "text": "，就是请托尼把二十英镑借给我。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 343.08,
+      "end": 346.128,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "pay"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个短语："
+        },
+        {
+          "lang": "en",
+          "text": "pay back"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 346.478,
+      "end": 348.134,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "pay"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "pay back"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 348.484,
+      "end": 374.387,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "pay"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "pay back"
+        },
+        {
+          "lang": "zh",
+          "text": "是“还钱”。借东西可以是小事，比如铅笔、橡皮、充电器；借钱更要谨慎，孩子不能随便处理大额借贷。但公平规则一样：如果你"
+        },
+        {
+          "lang": "en",
+          "text": "borrow"
+        },
+        {
+          "lang": "zh",
+          "text": "，就应该"
+        },
+        {
+          "lang": "en",
+          "text": "pay it back"
+        },
+        {
+          "lang": "zh",
+          "text": "。另外"
+        },
+        {
+          "lang": "en",
+          "text": "pay for dinner"
+        },
+        {
+          "lang": "zh",
+          "text": "是“为晚餐付款”，不是“还钱”，这里正是托尼偷换方向的地方。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 374.737,
+      "end": 428.38,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 不用做成时态表，我们看场景怎么推动笑点。第一层是背景动作："
+        },
+        {
+          "lang": "en",
+          "text": "I was having dinner at a restaurant"
+        },
+        {
+          "lang": "zh",
+          "text": "，我正在吃饭；突然事件是"
+        },
+        {
+          "lang": "en",
+          "text": "when Tony Steele came in"
+        },
+        {
+          "lang": "zh",
+          "text": "，托尼进来了。第二层是人物背景："
+        },
+        {
+          "lang": "en",
+          "text": "worked in a lawyer's office years ago"
+        },
+        {
+          "lang": "zh",
+          "text": "是过去的工作，"
+        },
+        {
+          "lang": "en",
+          "text": "is now working at a bank"
+        },
+        {
+          "lang": "zh",
+          "text": "是现在的工作，"
+        },
+        {
+          "lang": "en",
+          "text": "gets a good salary"
+        },
+        {
+          "lang": "zh",
+          "text": "说明他并不是没收入。第三层是借钱历史："
+        },
+        {
+          "lang": "en",
+          "text": "He has never borrowed money from me"
+        },
+        {
+          "lang": "zh",
+          "text": "，到现在为止他从没向我借过钱。这句话让结尾成立：托尼说既然他以前没向我借过，那现在我就可以替他付饭钱。语法服务于这个小讽刺：当时桌上发生什么，托尼平时怎么做，他和叙述者之间又缺了哪一笔旧账。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 428.73,
+      "end": 456.289,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天的“借、还和公平方向”放进你自己的生活。下面三个场景都要填，word bank 里选短语。你要说清楚：从谁那里借，用"
+        },
+        {
+          "lang": "en",
+          "text": "borrow from"
+        },
+        {
+          "lang": "zh",
+          "text": "；把东西借给别人，用"
+        },
+        {
+          "lang": "en",
+          "text": "lend"
+        },
+        {
+          "lang": "zh",
+          "text": "；答应还钱或还东西，用"
+        },
+        {
+          "lang": "en",
+          "text": "pay back"
+        },
+        {
+          "lang": "zh",
+          "text": "；替某个东西付款，用"
+        },
+        {
+          "lang": "en",
+          "text": "pay for"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 456.639,
+      "end": 469.495,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "比如同学忘带笔，你可以说："
+        },
+        {
+          "lang": "en",
+          "text": "I forgot my pen, so I asked Jack if I could borrow one from him."
+        },
+        {
+          "lang": "zh",
+          "text": "这不是鼓励大家随便借钱，而是练清楚公平交换的英文方向。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 469.845,
+      "end": 506.96,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "borrow money from"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "lend me twenty pounds"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "pay it back"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "pay for my dinner"
+        },
+        {
+          "lang": "zh",
+          "text": "的方向读顺。读完以后，再做 ① 生活场景，把借入、借出、归还和付款讲清楚；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。加油、"
+        },
+        {
+          "lang": "en",
+          "text": "you can do it"
+        },
+        {
+          "lang": "zh",
+          "text": "！"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 11
+}

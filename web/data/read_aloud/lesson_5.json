@@ -1,0 +1,85 @@
+{
+  "lesson_id": 5,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把备用通信这个故事的关键句读顺。",
+  "sentences": [
+    {
+      "id": "l5_s1",
+      "text": "Mr. James Scott has a garage in Silbury and now he has just bought another garage in Pinhurst.",
+      "focus_zh": "注意两个地名 Silbury 和 Pinhurst，要读清楚。",
+      "start": 224.882,
+      "end": 230.69,
+      "focus_words": [
+        "James",
+        "Scott",
+        "Silbury",
+        "Pinhurst"
+      ]
+    },
+    {
+      "id": "l5_s2",
+      "text": "Pinhurst is only five miles from Silbury, but Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons.",
+      "focus_zh": "长句先慢一点，but 和 so 前后分清楚。",
+      "start": 231.04,
+      "end": 239.176,
+      "focus_words": [
+        "Pinhurst",
+        "Silbury",
+        "telephone",
+        "twelve",
+        "pigeons"
+      ]
+    },
+    {
+      "id": "l5_s3",
+      "text": "Yesterday, a pigeon carried the first message from Pinhurst to Silbury.",
+      "focus_zh": "注意 carried the first message 的节奏。",
+      "start": 239.526,
+      "end": 244.422,
+      "focus_words": [
+        "Yesterday",
+        "pigeon",
+        "carried",
+        "message"
+      ]
+    },
+    {
+      "id": "l5_s4",
+      "text": "The bird covered the distance in three minutes.",
+      "focus_zh": "covered the distance 要作为一个短语读。",
+      "start": 244.772,
+      "end": 247.94,
+      "focus_words": [
+        "covered",
+        "distance",
+        "minutes"
+      ]
+    },
+    {
+      "id": "l5_s5",
+      "text": "Up to now, Mr. Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other.",
+      "focus_zh": "Up to now 后面稍停，urgent messages 是重点。",
+      "start": 248.289,
+      "end": 255.633,
+      "focus_words": [
+        "requests",
+        "spare",
+        "urgent",
+        "messages"
+      ]
+    },
+    {
+      "id": "l5_s6",
+      "text": "In this way, he has begun his own private 'telephone' service.",
+      "focus_zh": "private telephone service 是最后的笑点，要读清楚。",
+      "start": 255.983,
+      "end": 260.207,
+      "focus_words": [
+        "begun",
+        "private",
+        "telephone",
+        "service"
+      ]
+    }
+  ]
+}

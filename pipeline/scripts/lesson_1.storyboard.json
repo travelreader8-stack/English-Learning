@@ -1,0 +1,22 @@
+{
+  "lesson_id": 1,
+  "title": "A private conversation",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "A vintage 1960s British theatre interior at the moment a play is about to begin. Rows of red velvet seats fill the foreground, the heavy stage curtains are slowly pulling apart revealing soft warm stage lighting beyond. Audience members are seated. A man wearing a smart but unassuming suit sits in a middle row holding a paper program, his expression is calm and curious — he doesn't yet know the play will be ruined for him. Cinematic side angle. The chandelier above casts a gentle glow."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same vintage 1960s British theatre, now a few minutes into the show. The stage is lit warmly in the background. The man in the middle row is the focal subject in three-quarter view. Directly behind him sit a young couple in their twenties — the woman tilts her head and laughs cheerfully behind a gloved hand, the young man leans in and chats animatedly with her. Their voices clearly carry. The protagonist's brow is furrowing slightly, the start of irritation. Soft warm lighting from stage right."
+    },
+    {
+      "frame": 3,
+      "prompt": "The same vintage 1960s British theatre interior. The protagonist has now fully turned around in his red velvet seat to face the young couple behind him. His expression is firm and frustrated, mouth slightly open as if mid-sentence. The young couple looks back at him — the woman with mild amusement, the young man wearing a casually defiant expression and a loose shrug. The play continues unwitnessed in the soft-focus background. Tension fills the moment."
+    },
+    {
+      "frame": 4,
+      "prompt": "Intimate close-up framing inside the same vintage 1960s British theatre. The young man, with a slightly smug raised eyebrow, points an index finger pointedly toward the older protagonist as he speaks back. The young woman beside him looks delighted, hand still over her mouth. The older protagonist, partially in soft shadow on the left edge of the frame, has a stunned, exasperated, speechless look. The warm glow of the distant stage softly outlines them. The drama of the moment is emphasized by gentle lighting contrast."
+    }
+  ]
+}

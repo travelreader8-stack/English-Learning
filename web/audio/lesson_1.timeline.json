@@ -1,0 +1,1008 @@
+{
+  "total_duration": 436.465,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 24.44,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "剧院里、灯刚熄、戏刚开场——你身后那对情侣开始大声聊天、演员说什么你都听不清。你回头瞪了一眼、没用。再回头、忍不住说了一句。结果对方反呛了一句更狠的、当场把你气傻。60 年前一个英国人、就遇到了这事。今天咱们来看——英国人是怎么把「骂人」包装得跟「道歉」一样礼貌的。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 24.79,
+      "end": 37.002,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那天主角去剧院看戏，票其实不便宜。他坐下来，发现"
+        },
+        {
+          "lang": "en",
+          "text": "a very good seat"
+        },
+        {
+          "lang": "zh",
+          "text": "，戏一开场他就觉得"
+        },
+        {
+          "lang": "en",
+          "text": "very interesting"
+        },
+        {
+          "lang": "zh",
+          "text": "——你看，今天值了。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 37.351,
+      "end": 54.419,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结果开演没多久，他后面那对年轻情侣开始"
+        },
+        {
+          "lang": "en",
+          "text": "talking loudly"
+        },
+        {
+          "lang": "zh",
+          "text": "——男的说、女的笑。主角的脸色就开始不好看了，他"
+        },
+        {
+          "lang": "en",
+          "text": "got very angry"
+        },
+        {
+          "lang": "zh",
+          "text": "，因为"
+        },
+        {
+          "lang": "en",
+          "text": "could not hear the actors"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 54.769,
+      "end": 71.456,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他先是悄悄回头瞪了那俩人一眼——结果对方"
+        },
+        {
+          "lang": "en",
+          "text": "did not pay any attention"
+        },
+        {
+          "lang": "zh",
+          "text": "，照样聊。最后他忍不住了，再次"
+        },
+        {
+          "lang": "en",
+          "text": "turned round"
+        },
+        {
+          "lang": "zh",
+          "text": "，气呼呼地说："
+        },
+        {
+          "lang": "en",
+          "text": "I can't hear a word!"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 71.806,
+      "end": 85.502,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你猜对方怎么回的？那男的特别没礼貌、特别"
+        },
+        {
+          "lang": "en",
+          "text": "rudely"
+        },
+        {
+          "lang": "zh",
+          "text": "地说："
+        },
+        {
+          "lang": "en",
+          "text": "It's none of your business. This is a private conversation!"
+        },
+        {
+          "lang": "zh",
+          "text": "——主角整个人傻在那儿。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 85.852,
+      "end": 96.692,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课主角去剧院、被吵到、忍不住回头说了一句。先聊个背景：你知道 1960 年代英国人去剧院、是件多正式的事吗？"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 97.042,
+      "end": 101.187,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不知道。咱中国人现在去看话剧也挺随便的。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 101.537,
+      "end": 113.92,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "当时去剧院要穿正装、不能交头接耳、连糖纸都不敢撕——这叫"
+        },
+        {
+          "lang": "en",
+          "text": "theatre etiquette"
+        },
+        {
+          "lang": "zh",
+          "text": "、戏院礼仪。所以主角生气、不是脾气大、是「你们坏规矩」。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 114.27,
+      "end": 118.062,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "哦——所以这不是个性问题、是文化冲突。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 118.412,
+      "end": 128.204,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。但这一课最妙的笑点、其实藏在主角那句怼里——你再听一遍："
+        },
+        {
+          "lang": "en",
+          "text": "I can't hear a word!"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 128.554,
+      "end": 133.427,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "「我一个字都听不见」——意思是被吵到、戏的台词听不清、对吧？"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 133.776,
+      "end": 141.872,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "表面是这个意思。但你看那男的怎么接的？"
+        },
+        {
+          "lang": "en",
+          "text": "It's none of your business. This is a private conversation."
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 142.222,
+      "end": 148.896,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "等等——「这是私人谈话」？他是把主角的话当成「我没听见你们俩说的话」在解读吗？"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 149.246,
+      "end": 168.078,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "没错！这就是英式幽默的精髓——**故意曲解**对方的话、反将一军。主角抱怨听不到演员、那男的偏装作主角想偷听他们的对话、然后回一句「这是私人事务、你别管」。一句"
+        },
+        {
+          "lang": "en",
+          "text": "a word"
+        },
+        {
+          "lang": "zh",
+          "text": "两层意思、瞬间反客为主。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 168.428,
+      "end": 172.246,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "哇、双关 + 装傻、被怼得明明白白。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 172.596,
+      "end": 190.188,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这种「故意误读 + 礼貌反讽」在英剧里满地都是——像 Downton Abbey、Sherlock 里、听人说"
+        },
+        {
+          "lang": "en",
+          "text": "I'm terribly sorry, but..."
+        },
+        {
+          "lang": "zh",
+          "text": "后面接的、十有八九不是道歉、是开嘲讽。学会这一招、看英文段子才能 get 到笑点。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 190.538,
+      "end": 197.054,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "学到了。咱们听一遍英文原文、专门听"
+        },
+        {
+          "lang": "en",
+          "text": "rudely"
+        },
+        {
+          "lang": "zh",
+          "text": "那个气场。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 197.404,
+      "end": 197.744,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 198.094,
+      "end": 200.782,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Last week I went to the theatre."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 201.132,
+      "end": 203.484,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I had a very good seat."
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 203.834,
+      "end": 206.354,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The play was very interesting."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 206.704,
+      "end": 208.888,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I did not enjoy it."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 209.237,
+      "end": 212.885,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A young man and a young woman were sitting behind me."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 213.235,
+      "end": 215.443,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "They were talking loudly."
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 215.793,
+      "end": 217.929,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I got very angry."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 218.279,
+      "end": 220.799,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I could not hear the actors."
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 221.149,
+      "end": 223.141,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I turned round."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 223.491,
+      "end": 226.683,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I looked at the man and the woman angrily."
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 227.033,
+      "end": 229.745,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "They did not pay any attention."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 230.095,
+      "end": 232.903,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In the end, I could not bear it."
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 233.252,
+      "end": 235.46,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I turned round again."
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 235.81,
+      "end": 238.234,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I can't hear a word!"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 238.584,
+      "end": 240.672,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I said angrily."
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 241.022,
+      "end": 244.598,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It's none of your business, the young man said rudely."
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 244.948,
+      "end": 247.924,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "This is a private conversation!"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 248.274,
+      "end": 253.786,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "private"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词、也是这课最关键的词："
+        },
+        {
+          "lang": "en",
+          "text": "private"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 254.136,
+      "end": 255.768,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "private"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "private"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 256.117,
+      "end": 281.789,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "private"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词的意思是「私人的、私下的」。注意 i 发"
+        },
+        {
+          "lang": "ipa",
+          "text": "aɪ"
+        },
+        {
+          "lang": "zh",
+          "text": "、不是"
+        },
+        {
+          "lang": "ipa",
+          "text": "i"
+        },
+        {
+          "lang": "zh",
+          "text": "，要把嘴张开。课文最后那句"
+        },
+        {
+          "lang": "en",
+          "text": "a private conversation"
+        },
+        {
+          "lang": "zh",
+          "text": "就是「私人之间的谈话」。日常你也能用："
+        },
+        {
+          "lang": "en",
+          "text": "This is my private space"
+        },
+        {
+          "lang": "zh",
+          "text": "——这是我的私人空间，妈妈进你房间太频了，你就可以这么提抗议。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 282.139,
+      "end": 284.795,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "rudely"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "rudely"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 285.144,
+      "end": 286.728,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "rudely"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "rudely"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 287.078,
+      "end": 314.474,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "rudely"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这是个副词、意思是「不礼貌地、粗鲁地」。这一课里类似结构的副词其实有三个："
+        },
+        {
+          "lang": "en",
+          "text": "rudely / loudly / angrily"
+        },
+        {
+          "lang": "zh",
+          "text": "——都是形容词加 -ly 变副词。规律记住一个、其它三个就送给你。这种副词放在动词后面，比如课文里"
+        },
+        {
+          "lang": "en",
+          "text": "said rudely"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "talking loudly"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "said angrily"
+        },
+        {
+          "lang": "zh",
+          "text": "——动作 + 怎么做。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 314.824,
+      "end": 322.76,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "attention"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "pay any attention"
+        },
+        {
+          "lang": "zh",
+          "text": "——别只记 attention 这一个词，记住整个短语。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 323.109,
+      "end": 324.909,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "attention"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "pay attention"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 325.259,
+      "end": 349.187,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "attention"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个短语意思是「注意、留心」。课文里说"
+        },
+        {
+          "lang": "en",
+          "text": "they did not pay any attention"
+        },
+        {
+          "lang": "zh",
+          "text": "——他们毫不理会、根本没把他放在眼里。这是一个超级万能的短语，老师上课说"
+        },
+        {
+          "lang": "en",
+          "text": "Pay attention please"
+        },
+        {
+          "lang": "zh",
+          "text": "、家长说"
+        },
+        {
+          "lang": "en",
+          "text": "Pay attention to your homework"
+        },
+        {
+          "lang": "zh",
+          "text": "——你以后写作文、说英文都用得上。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 349.537,
+      "end": 381.156,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "一个语法点：你有没有注意到，课文里说后面那对情侣的时候，用的是"
+        },
+        {
+          "lang": "en",
+          "text": "were sitting"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "were talking"
+        },
+        {
+          "lang": "zh",
+          "text": "——为什么不是简单的"
+        },
+        {
+          "lang": "en",
+          "text": "sat"
+        },
+        {
+          "lang": "zh",
+          "text": "或"
+        },
+        {
+          "lang": "en",
+          "text": "talked"
+        },
+        {
+          "lang": "zh",
+          "text": "呢？因为他们不是「做了一下」，而是「整段时间都在做」。这就是过去进行时。规则不用背，记住一个画面：当主角生气的那一刻、他俩还在那聊呢——这种「正在持续」的画面感、就是 was/were + doing。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 381.506,
+      "end": 394.562,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好——问你一件你自己的事：上次你想专心做点什么、却被吵到，是什么时候？挑一个最像你的选项；都不对就自己写一句、最好用上"
+        },
+        {
+          "lang": "en",
+          "text": "I got angry"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 394.912,
+      "end": 406.035,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师上周备课的时候，邻居家小孩在外面一直尖叫，"
+        },
+        {
+          "lang": "en",
+          "text": "I got very angry"
+        },
+        {
+          "lang": "zh",
+          "text": "，但"
+        },
+        {
+          "lang": "en",
+          "text": "I did not say anything"
+        },
+        {
+          "lang": "zh",
+          "text": "——你呢？"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 406.385,
+      "end": 436.465,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：第一步听课文全文，第二步点核心句的原音，第三步录自己读一遍，第四步看一句小反馈、再试一次。读顺以后，再做 ① 生活场景，把刚才老师问的问题放进自己的生活；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。加油，"
+        },
+        {
+          "lang": "en",
+          "text": "you can do it"
+        },
+        {
+          "lang": "zh",
+          "text": "！"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 1
+}

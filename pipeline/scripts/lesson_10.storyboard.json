@@ -1,0 +1,22 @@
+{
+  "lesson_id": 10,
+  "title": "Not for jazz",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "A warm family living room with an old clavichord displayed as a treasured historical keyboard instrument. It should look like a small delicate early keyboard instrument, not a modern piano and not an electronic keyboard. The object feels valuable, fragile, and loved by the family, with a gentle museum-like boundary. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 2,
+      "prompt": "A gentle object-history scene showing the same old clavichord's long family story: a soft memory of a grandfather, an old photograph feeling, warm light, and the instrument cared for across time. Avoid readable dates or labels; communicate age and family history visually. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 3,
+      "prompt": "A visitor at the old clavichord playing with too much force, pressing the keys too hard while two strings inside the delicate instrument are visibly broken. The moment should show mismatch and damage clearly, but keep the visitor sympathetic, not foolish or cruel, and do not make jazz look chaotic or bad. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 4,
+      "prompt": "The father looks shocked but calm in the living room while a knowledgeable adult friend carefully repairs the delicate clavichord. The children stand nearby respecting a clear boundary, understanding that the instrument is protected and not to be touched casually. Warm, respectful family-object mood. No text, no letters, no captions, no readable signs, no visible words."
+    }
+  ]
+}

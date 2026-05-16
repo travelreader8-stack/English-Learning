@@ -1,0 +1,22 @@
+{
+  "lesson_id": 2,
+  "title": "Breakfast or lunch?",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "A cozy English bedroom on a rainy Sunday morning, mid-twentieth-century style. A young man in his pajamas is still in a tousled bed beneath a faded patchwork quilt, head propped on one pillow, eyes half-closed in lazy comfort. The room is dim with overcast daylight filtering through closed lace curtains. A bedside clock shows a late hour. Soft watercolor illustration style, warm and gentle, conveying the feeling of staying in bed past sensible hours."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same young man now standing barefoot in his pajamas in his English bedroom on a gloomy Sunday. He has pulled aside the lace curtain at a tall sash window and is peering outside with a slightly disappointed expression. Through the window, heavy rain streaks down the glass; outside is a grey wet British street with empty rain-slick cobblestones and a leafless tree. A faint reflection of his face shows in the dark window. The room behind him is shadowed and quiet. Soft watercolor illustration with cool blue and grey tones outside, warm muted tones inside."
+    },
+    {
+      "frame": 3,
+      "prompt": "The same young man, now seated at a small wooden kitchen table eating breakfast: a half-finished plate of toast and a mug of tea steaming gently. He holds a black rotary telephone receiver to one ear with a surprised expression, eyebrows raised, mouth still chewing a bite of toast. The kitchen is small and homey: a tea kettle on the stove, a framed picture on the wall, a single window with rain still visible outside. Warm domestic morning lighting. Soft watercolor illustration style."
+    },
+    {
+      "frame": 4,
+      "prompt": "A split-frame intimate composition: on the left side, the young man at his kitchen table, telephone receiver pressed to his ear, looking sheepish and slightly embarrassed, mouth still mid-bite of toast. On the right side, his aunt Lucy — a kind-faced middle-aged English woman in a smart 1960s travel coat and hat — stands at a public telephone box, receiver in hand, eyebrows arched in playful astonishment as she checks her wristwatch. A vintage British railway station with steam and travelers is softly visible behind her. The two scenes are connected by a stylized telephone cord. Soft watercolor illustration with warm afternoon light."
+    }
+  ]
+}

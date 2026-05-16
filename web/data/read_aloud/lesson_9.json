@@ -1,0 +1,105 @@
+{
+  "lesson_id": 9,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把公共倒计时、旧式钟表时间和最后的拟人笑点读顺。",
+  "sentences": [
+    {
+      "id": "l9_s1",
+      "text": "On Wednesday evening, we went to the Town Hall.",
+      "focus_zh": "Town Hall 在这里是公共地标，不是单纯的办事大厅。",
+      "start": 242.433,
+      "end": 245.889,
+      "focus_words": [
+        "Wednesday",
+        "evening",
+        "went",
+        "Town",
+        "Hall"
+      ]
+    },
+    {
+      "id": "l9_s2",
+      "text": "It was the last day of the year and a large crowd of people had gathered under the Town Hall clock.",
+      "focus_zh": "last day of the year 是跨年夜语境，crowd 和 gathered 要读出人群已经聚好的感觉。",
+      "start": 246.239,
+      "end": 251.735,
+      "focus_words": [
+        "last",
+        "crowd",
+        "gathered",
+        "under",
+        "clock"
+      ]
+    },
+    {
+      "id": "l9_s3",
+      "text": "It would strike twelve in twenty minutes' time.",
+      "focus_zh": "strike twelve 是大钟敲响十二点，in twenty minutes' time 是从当时开始再过二十分钟。",
+      "start": 252.085,
+      "end": 255.349,
+      "focus_words": [
+        "would",
+        "strike",
+        "twelve",
+        "twenty",
+        "minutes"
+      ]
+    },
+    {
+      "id": "l9_s4",
+      "text": "Fifteen minutes passed and then, at five to twelve, the clock stopped.",
+      "focus_zh": "five to twelve 是 11:55，读的时候要让听者听出倒计时快到了。",
+      "start": 255.699,
+      "end": 260.307,
+      "focus_words": [
+        "Fifteen",
+        "passed",
+        "five",
+        "twelve",
+        "stopped"
+      ]
+    },
+    {
+      "id": "l9_s5",
+      "text": "The big minute hand did not move.",
+      "focus_zh": "minute hand 是分针，也就是钟面上指分钟的长针。",
+      "start": 260.657,
+      "end": 263.537,
+      "focus_words": [
+        "big",
+        "minute",
+        "hand",
+        "did",
+        "move"
+      ]
+    },
+    {
+      "id": "l9_s6",
+      "text": "Suddenly someone shouted. 'It's two minutes past twelve! The clock has stopped!'",
+      "focus_zh": "shouted 要读出人群里突然有人大声提醒，two minutes past twelve 是 12:02。",
+      "start": 267.452,
+      "end": 274.892,
+      "focus_words": [
+        "Suddenly",
+        "shouted",
+        "two",
+        "past",
+        "stopped"
+      ]
+    },
+    {
+      "id": "l9_s7",
+      "text": "The big clock refused to welcome the New Year. At that moment, everybody began to laugh and sing.",
+      "focus_zh": "refused to welcome 是拟人笑点，后面 laugh and sing 把尴尬变成庆祝。",
+      "start": 279.48,
+      "end": 286.32,
+      "focus_words": [
+        "refused",
+        "welcome",
+        "New",
+        "laugh",
+        "sing"
+      ]
+    }
+  ]
+}

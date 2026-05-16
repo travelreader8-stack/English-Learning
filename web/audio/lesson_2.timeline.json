@@ -1,0 +1,1016 @@
+{
+  "total_duration": 430.601,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 24.04,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "周日的伦敦、下雨、你睡到自然醒、慢悠悠在吃早饭。突然亲戚电话打来：「我刚到火车站、这就来你家。」你接起电话——嘴里还嚼着面包。她问：「你在干啥？」你怎么回？主角的答案、让姑妈震惊到连说：「天——啊。」——今天咱们看这场英国老派守时观对上当代躺平派的喜剧。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 24.39,
+      "end": 39.262,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那是个星期天、主角说："
+        },
+        {
+          "lang": "en",
+          "text": "I never get up early on Sundays."
+        },
+        {
+          "lang": "zh",
+          "text": "——周日我从不早起、有时直接"
+        },
+        {
+          "lang": "en",
+          "text": "stay in bed until lunchtime"
+        },
+        {
+          "lang": "zh",
+          "text": "、躺到午饭点。这一天他也是、起得特别晚。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 39.611,
+      "end": 53.091,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他爬起来"
+        },
+        {
+          "lang": "en",
+          "text": "looked out of the window"
+        },
+        {
+          "lang": "zh",
+          "text": "、外面又黑又下雨——"
+        },
+        {
+          "lang": "en",
+          "text": "It's raining again."
+        },
+        {
+          "lang": "zh",
+          "text": "他心想：「鬼天气、"
+        },
+        {
+          "lang": "en",
+          "text": "What a day!"
+        },
+        {
+          "lang": "zh",
+          "text": "」就在这时候、电话铃响了。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 53.441,
+      "end": 67.325,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "是他姑母 Lucy 打来的、她说："
+        },
+        {
+          "lang": "en",
+          "text": "I've just arrived by train. I'm coming to see you."
+        },
+        {
+          "lang": "zh",
+          "text": "——刚下火车、这就来看你。主角一边吃东西一边接电话、来不及反应。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 67.674,
+      "end": 87.49,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "姑妈听见他在嚼东西、问："
+        },
+        {
+          "lang": "en",
+          "text": "What are you doing?"
+        },
+        {
+          "lang": "zh",
+          "text": "主角老老实实回："
+        },
+        {
+          "lang": "en",
+          "text": "I'm having breakfast."
+        },
+        {
+          "lang": "zh",
+          "text": "姑妈震惊："
+        },
+        {
+          "lang": "en",
+          "text": "Dear me, do you always get up so late? It's one o'clock!"
+        },
+        {
+          "lang": "zh",
+          "text": "——天啊、你总这么晚起吗？现在都一点了！"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 87.84,
+      "end": 92.76,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "听完这个 Sunday morning 的小段子、你最想笑的地方在哪儿？"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 93.11,
+      "end": 95.743,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "主角下午一点还在吃早饭？"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 96.093,
+      "end": 104.557,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对、但要理解为什么这事在英国特别滑稽、得先聊聊"
+        },
+        {
+          "lang": "en",
+          "text": "Sunday roast"
+        },
+        {
+          "lang": "zh",
+          "text": "这个传统。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 104.907,
+      "end": 106.803,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Sunday roast 是啥？"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 107.153,
+      "end": 127.352,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "英式周日午餐——一家人在中午十二点到下午两点、围着烤牛肉 + Yorkshire pudding + 烤土豆吃饭、几百年传统。所以姑妈一句"
+        },
+        {
+          "lang": "en",
+          "text": "It's one o'clock!"
+        },
+        {
+          "lang": "zh",
+          "text": "的潜台词不是「现在晚了」、是「正经人这会儿在吃 Sunday roast、你居然刚起」。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 127.702,
+      "end": 132.233,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "喔——震惊的不是他晚起、是他不在该有的节奏里。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 132.583,
+      "end": 147.735,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。英国人对「按部就班」有种执念、叫"
+        },
+        {
+          "lang": "en",
+          "text": "punctuality"
+        },
+        {
+          "lang": "zh",
+          "text": "、守时。下午一点还在"
+        },
+        {
+          "lang": "en",
+          "text": "having breakfast"
+        },
+        {
+          "lang": "zh",
+          "text": "、对老一辈英国人来说、几乎是离经叛道。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 148.084,
+      "end": 154.001,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以姑妈那句"
+        },
+        {
+          "lang": "en",
+          "text": "Dear me"
+        },
+        {
+          "lang": "zh",
+          "text": "、不只是「天啊」、是「不是吧你」。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 154.351,
+      "end": 166.855,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "没错。最妙的是最后——主角重复说"
+        },
+        {
+          "lang": "en",
+          "text": "I'm having breakfast, I repeated."
+        },
+        {
+          "lang": "zh",
+          "text": "听起来一点没意识到问题、就是「我吃我的、关你啥事」。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 167.204,
+      "end": 170.558,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这就有点像现在的「躺平」吧。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 170.908,
+      "end": 181.772,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "哈、"
+        },
+        {
+          "lang": "en",
+          "text": "Lesson 2"
+        },
+        {
+          "lang": "zh",
+          "text": "的笑点核心、就是「英国老派守时观」对上「年轻人爱躺平」。咱听一遍英文原文。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 182.122,
+      "end": 184.018,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It was Sunday."
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 184.368,
+      "end": 187.224,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I never get up early on Sundays."
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 187.574,
+      "end": 190.766,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I sometimes stay in bed until lunchtime."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 191.115,
+      "end": 193.923,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Last Sunday I got up very late."
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 194.273,
+      "end": 196.553,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I looked out of the window."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 196.903,
+      "end": 199.183,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It was dark outside."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 199.533,
+      "end": 202.749,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'What a day!' I thought."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 203.099,
+      "end": 205.139,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'It's raining again.'"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 205.489,
+      "end": 208.297,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Just then, the telephone rang."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 208.647,
+      "end": 211.023,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It was my aunt Lucy."
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 211.373,
+      "end": 214.421,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'I've just arrived by train,' she said."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 214.77,
+      "end": 216.906,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'I'm coming to see you.'"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 217.256,
+      "end": 220.304,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'But I'm still having breakfast,' I said."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 220.654,
+      "end": 223.342,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'What are you doing?' she asked."
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 223.692,
+      "end": 226.644,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'I'm having breakfast,' I repeated."
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 226.994,
+      "end": 229.226,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Dear me,' she said."
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 229.576,
+      "end": 234.28,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Do you always get up so late? It's one o'clock!'"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 234.63,
+      "end": 237.27,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "until"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "until"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 237.62,
+      "end": 239.348,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "until"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "until"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 239.697,
+      "end": 265.777,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "until"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "意思是「一直到……为止」、表示时间持续。课文里说"
+        },
+        {
+          "lang": "en",
+          "text": "stay in bed until lunchtime"
+        },
+        {
+          "lang": "zh",
+          "text": "——躺到午饭那会儿。日常你会用到："
+        },
+        {
+          "lang": "en",
+          "text": "I will play until dinner."
+        },
+        {
+          "lang": "zh",
+          "text": "——我一直玩到吃晚饭。注意它后面跟的是「时间点」、不是「时间段」。别说 until 3 hours、要说"
+        },
+        {
+          "lang": "en",
+          "text": "for 3 hours"
+        },
+        {
+          "lang": "zh",
+          "text": "或"
+        },
+        {
+          "lang": "en",
+          "text": "until 3 o'clock"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 266.127,
+      "end": 268.951,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "outside"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "outside"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 269.3,
+      "end": 270.956,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "outside"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "outside"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 271.306,
+      "end": 298.17,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "outside"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "意思是「在外面、外面」。可以作副词、也可以作介词。课文"
+        },
+        {
+          "lang": "en",
+          "text": "It was dark outside"
+        },
+        {
+          "lang": "zh",
+          "text": "——外面一片昏暗。和它对应的反义词是"
+        },
+        {
+          "lang": "en",
+          "text": "inside"
+        },
+        {
+          "lang": "zh",
+          "text": "。日常说："
+        },
+        {
+          "lang": "en",
+          "text": "Let's play outside."
+        },
+        {
+          "lang": "zh",
+          "text": "——咱们出去玩。注意 outside 重音在第二个音节、读"
+        },
+        {
+          "lang": "en",
+          "text": "out-SIDE"
+        },
+        {
+          "lang": "zh",
+          "text": "、不是"
+        },
+        {
+          "lang": "en",
+          "text": "OUT-side"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 298.519,
+      "end": 303.351,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "repeat"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词、其实是它的过去式形式："
+        },
+        {
+          "lang": "en",
+          "text": "repeated"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 303.701,
+      "end": 305.477,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "repeat"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "repeated"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 305.827,
+      "end": 332.115,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "repeat"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "原形是"
+        },
+        {
+          "lang": "en",
+          "text": "repeat"
+        },
+        {
+          "lang": "zh",
+          "text": "、意思是「重复、再说一遍」。课文里他第二次说「我在吃早饭」、用的就是"
+        },
+        {
+          "lang": "en",
+          "text": "I repeated"
+        },
+        {
+          "lang": "zh",
+          "text": "——「我又说了一遍」。这个词在英语里超级常用、老师上课经常说："
+        },
+        {
+          "lang": "en",
+          "text": "Please repeat after me."
+        },
+        {
+          "lang": "zh",
+          "text": "——跟我念一遍。注意拼写、是 re-peat、不是 re-peet。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 332.464,
+      "end": 365.972,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课的语法点：现在进行时——"
+        },
+        {
+          "lang": "en",
+          "text": "I'm having breakfast"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "It's raining"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "I'm coming"
+        },
+        {
+          "lang": "zh",
+          "text": "。规则就是"
+        },
+        {
+          "lang": "en",
+          "text": "am/is/are + doing"
+        },
+        {
+          "lang": "zh",
+          "text": "、表示「现在正在进行的动作」。和上一课的过去进行时一对比就清楚了："
+        },
+        {
+          "lang": "en",
+          "text": "I was having breakfast"
+        },
+        {
+          "lang": "zh",
+          "text": "是「我那时候正在吃」、"
+        },
+        {
+          "lang": "en",
+          "text": "I am having breakfast"
+        },
+        {
+          "lang": "zh",
+          "text": "是「我现在正在吃」。一个是过去的一个时刻、一个是说话的此时此刻、就差一个 be 动词的时态。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 366.322,
+      "end": 388.621,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好——问你一件你自己的事：你周末或假期最赖床、起得最晚是几点？爸妈打电话或者敲门叫你的时候、你是马上起还是装没听见？挑一个最像你的选项；都不对就自己写一句、最好用上"
+        },
+        {
+          "lang": "en",
+          "text": "I was still having breakfast"
+        },
+        {
+          "lang": "zh",
+          "text": "或"
+        },
+        {
+          "lang": "en",
+          "text": "I stayed in bed until"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 388.971,
+      "end": 400.091,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师小时候有一次寒假、奶奶下午两点来家里、推门看见我还在被窝里、把我数落了一顿——"
+        },
+        {
+          "lang": "en",
+          "text": "Do you always get up so late?"
+        },
+        {
+          "lang": "zh",
+          "text": "——你呢？"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 400.441,
+      "end": 430.601,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：第一步听课文全文，第二步点核心句的原音，第三步录自己读一遍，第四步看一句小反馈、再试一次。读顺以后，再做 ① 生活场景，把刚才老师问的问题放进自己的生活；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。加油、"
+        },
+        {
+          "lang": "en",
+          "text": "you can do it"
+        },
+        {
+          "lang": "zh",
+          "text": "！"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 2
+}

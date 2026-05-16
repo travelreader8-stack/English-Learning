@@ -1,0 +1,22 @@
+{
+  "lesson_id": 9,
+  "title": "A cold welcome",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "An old Western town square at night on New Year's Eve, with a dignified town hall clock tower as a public landmark and a large but child-safe crowd gathering below. The mood is ceremonial, warm, expectant, and slightly old-fashioned. The building should not resemble a Chinese government service hall. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 2,
+      "prompt": "A close visual focus on a large analog public clock high on a town hall tower, approaching midnight, with a clear long minute hand and a waiting crowd below looking up. The scene should communicate shared countdown anticipation before phones were common. Nighttime festive atmosphere, gentle lights, no fireworks dominating. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 3,
+      "prompt": "Nighttime New Year's Eve in the same old Western town square. The public clock has stopped at five minutes before midnight, with the long minute hand visibly stuck just before the top of the clock face and the short hour hand almost at twelve. People in the square look confused, and one person checks a small wristwatch or pocket watch for contrast. Keep the humor gentle and realistic, not dramatic. Simple tick marks are okay, but no text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 4,
+      "prompt": "The crowd realizes midnight has already passed and turns the failed countdown into a happy New Year moment, laughing and singing together under the old town hall clock tower. Warm communal celebration, friendly faces, light festive mood, no readable decorations or signs. No text, no letters, no captions, no readable signs, no visible words."
+    }
+  ]
+}

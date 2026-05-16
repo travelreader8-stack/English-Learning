@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>新概念英语 2 — 课程列表</title>
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+  <main class="home">
+    <header class="home-header">
+      <h1>新概念英语 2</h1>
+      <p class="subtitle">家庭专用学习课件 · 共 96 课</p>
+    </header>
+
+    <section class="token-section">
+      <label for="token-input">学生口令（一次输入即可，自动记住）</label>
+      <div class="token-row">
+        <input id="token-input" type="text" placeholder="输入口令…" autocomplete="off">
+        <button id="token-save" type="button">保存</button>
+      </div>
+      <p id="token-status" class="token-status"></p>
+    </section>
+
+    <section class="lesson-grid" id="lesson-grid">
+      <p class="loading">加载中…</p>
+    </section>
+  </main>
+
+  <script type="module" src="/assets/home.js"></script>
+</body>
+</html>

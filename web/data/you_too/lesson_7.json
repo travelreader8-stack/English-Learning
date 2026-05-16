@@ -1,0 +1,39 @@
+{
+  "lesson_id": 7,
+  "title": "Too late",
+  "question": "把今天课文里「贵重包裹、开箱验货、整条安全链」放进现代快递场景——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景的空都填上、用 word bank 里的短语。",
+  "example_answer": "The delivery arrived on time, but we still opened the parcel and checked the inside. The guard was keeping guard at the final door, but the real problem had happened earlier.",
+  "word_bank": [
+    "detective",
+    "valuable parcel",
+    "diamonds",
+    "thieves",
+    "steal",
+    "keeping guard",
+    "opened the parcel",
+    "stones and sand",
+    "too late",
+    "Customs House"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "快递盒看起来正常，但开箱后发现不对",
+      "english_template": "The box looked normal, but when we ___, it was full of old paper.",
+      "expected_phrase": "opened the parcel"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "只守最后一道门，发现前面环节已经出问题",
+      "english_template": "The guard was ___ at the final door, but the package had already been changed earlier.",
+      "expected_phrase": "keeping guard"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "侦探打开贵重包裹，发现里面已经被调包",
+      "english_template": "The detective expected a valuable parcel, but the box was full of ___. It was too late.",
+      "expected_phrase": "stones and sand"
+    }
+  ],
+  "mode": "all_fills"
+}

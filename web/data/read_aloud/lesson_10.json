@@ -1,0 +1,111 @@
+{
+  "lesson_id": 10,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把古老乐器、被动语态物件履历和最后的规则/修理结尾读顺。",
+  "sentences": [
+    {
+      "id": "l10_s1",
+      "text": "We have an old musical instrument.",
+      "focus_zh": "old musical instrument 要连成一个整体，表示“一件古老的乐器”。",
+      "start": 250.31,
+      "end": 253.262,
+      "focus_words": [
+        "old",
+        "musical",
+        "instrument"
+      ]
+    },
+    {
+      "id": "l10_s2",
+      "text": "It is called a clavichord.",
+      "focus_zh": "clavichord 要慢一点读清楚，它是早期、安静、脆弱的键盘乐器。",
+      "start": 253.612,
+      "end": 255.964,
+      "focus_words": [
+        "called",
+        "clavichord"
+      ]
+    },
+    {
+      "id": "l10_s3",
+      "text": "It was made in Germany in 1681.",
+      "focus_zh": "was made 是被动语态，Germany 和 1681 要读出物件的来历和年代。",
+      "start": 256.313,
+      "end": 259.721,
+      "focus_words": [
+        "was",
+        "made",
+        "Germany",
+        "1681"
+      ]
+    },
+    {
+      "id": "l10_s4",
+      "text": "It has belonged to our family for a long time.",
+      "focus_zh": "has belonged to 表示从过去一直属于这个家庭，for a long time 是很久以来。",
+      "start": 263.469,
+      "end": 266.781,
+      "focus_words": [
+        "has",
+        "belonged",
+        "family",
+        "long",
+        "time"
+      ]
+    },
+    {
+      "id": "l10_s5",
+      "text": "Recently it was damaged by a visitor.",
+      "focus_zh": "Recently 是不久前，was damaged by a visitor 要读出事故是发生在这件物品身上。",
+      "start": 271.369,
+      "end": 274.489,
+      "focus_words": [
+        "Recently",
+        "was",
+        "damaged",
+        "visitor"
+      ]
+    },
+    {
+      "id": "l10_s6",
+      "text": "She tried to play jazz on it!",
+      "focus_zh": "读出惊讶感，但记住 jazz 不是坏东西，问题是弹法和老乐器不匹配。",
+      "start": 274.839,
+      "end": 277.527,
+      "focus_words": [
+        "tried",
+        "play",
+        "jazz",
+        "it"
+      ]
+    },
+    {
+      "id": "l10_s7",
+      "text": "She struck the keys too hard and two of the strings were broken.",
+      "focus_zh": "struck the keys too hard 是太用力按琴键，strings were broken 是琴弦被弄断。",
+      "start": 277.877,
+      "end": 281.909,
+      "focus_words": [
+        "struck",
+        "keys",
+        "hard",
+        "strings",
+        "broken"
+      ]
+    },
+    {
+      "id": "l10_s8",
+      "text": "Now we are not allowed to touch it. It is being repaired by a friend of my father's.",
+      "focus_zh": "not allowed to touch it 是新的边界，is being repaired 表示修理正在进行。",
+      "start": 284.84,
+      "end": 291.31,
+      "focus_words": [
+        "allowed",
+        "touch",
+        "being",
+        "repaired",
+        "friend"
+      ]
+    }
+  ]
+}

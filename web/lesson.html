@@ -1,0 +1,188 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="robots" content="noindex, nofollow">
+  <title>新概念英语 2 — 课件</title>
+  <link rel="stylesheet" href="/assets/style.css">
+</head>
+<body>
+  <main id="app" class="lesson-app">
+    <header class="lesson-header">
+      <a href="/" class="back-link">← 返回课程列表</a>
+      <h1 id="lesson-title">加载中…</h1>
+    </header>
+
+    <section class="stage-block" hidden>
+      <div id="stage" class="stage"></div>
+      <div class="audio-bar">
+        <button type="button" id="audio-play-pause" class="audio-btn" aria-label="播放/暂停">▶</button>
+        <span id="audio-time-current" class="audio-time">0:00</span>
+        <input type="range" id="audio-scrubber" class="audio-scrubber" min="0" max="100" value="0" step="0.01" aria-label="进度">
+        <span id="audio-time-total" class="audio-time">0:00</span>
+        <a id="audio-download" class="audio-download" download title="下载">⬇</a>
+      </div>
+      <audio id="lesson-audio" preload="metadata" hidden></audio>
+      <!-- 沙箱手动翻页（无音频时启用） -->
+      <div id="stage-sandbox" class="stage-sandbox" hidden>
+        <button type="button" id="sandbox-prev">← 上一镜</button>
+        <span id="sandbox-status"></span>
+        <button type="button" id="sandbox-next">下一镜 →</button>
+      </div>
+    </section>
+
+    <!-- 进度条 -->
+    <nav class="stepper" id="stepper" hidden>
+      <div class="step" data-step="read_aloud">
+        <span class="step-num">0</span>
+        <span class="step-label">跟读</span>
+      </div>
+      <div class="step" data-step="you_too">
+        <span class="step-num">1</span>
+        <span class="step-label">生活场景</span>
+      </div>
+      <div class="step" data-step="cloze">
+        <span class="step-num">2</span>
+        <span class="step-label">完形</span>
+      </div>
+      <div class="step" data-step="cn_to_en">
+        <span class="step-num">3</span>
+        <span class="step-label">中译英</span>
+      </div>
+      <div class="step" data-step="en_to_cn">
+        <span class="step-num">4</span>
+        <span class="step-label">英译中</span>
+      </div>
+      <div class="step" data-step="dictation">
+        <span class="step-num">5</span>
+        <span class="step-label">默写</span>
+      </div>
+      <div class="step" data-step="summary">
+        <span class="step-num">📊</span>
+        <span class="step-label">总结</span>
+      </div>
+    </nav>
+
+    <!-- ⓪ 跟读 -->
+    <section class="screen exercise read-aloud-screen" data-screen="read_aloud" hidden>
+      <h2>⓪ Read Aloud 跟读</h2>
+      <p class="hint" id="read-aloud-intro">先听完整课文，再把几句关键句读顺。这里不是考试，只是练出英语的节奏。</p>
+
+      <div class="read-aloud-panel">
+        <div class="read-aloud-listen">
+          <div>
+            <h3>Listen First</h3>
+            <p>先听一遍完整课文，注意句子的停顿和故事的语气。</p>
+          </div>
+          <button type="button" class="secondary-btn" data-action="play-full-audio">▶ 听课文全文</button>
+        </div>
+
+        <div class="read-aloud-practice">
+          <h3>Read With Me</h3>
+          <div id="read-aloud-sentences" class="read-aloud-sentences"></div>
+        </div>
+      </div>
+
+      <div class="screen-actions">
+        <button type="button" class="clear-btn" data-action="clear-screen" data-screen="read_aloud">🧹 清除本地跟读</button>
+        <button type="button" class="next-btn" data-action="next">下一步 →</button>
+      </div>
+    </section>
+
+    <!-- ① 我们生活的场景 -->
+    <section class="screen exercise" data-screen="you_too" hidden>
+      <h2>① 我们生活的场景</h2>
+      <p class="hint" id="you-too-hint">把今天课文的情绪、放进你自己最近一次类似的经历——这一题不打分，老师只会鼓励 + 给一句小建议。</p>
+      <blockquote class="prompt-text" id="you-too-question"></blockquote>
+      <p class="you-too-example" id="you-too-example" hidden></p>
+
+      <!-- 今日 word bank -->
+      <div id="you-too-word-bank" class="you-too-word-bank" hidden></div>
+
+      <!-- 选项模式（lesson 1-5 + 渐进 lesson 6-15）-->
+      <div id="you-too-options" class="you-too-options" hidden></div>
+
+      <!-- textarea 模式（自由作答 / 选了「自己写」）-->
+      <div id="you-too-textarea-wrap" class="you-too-textarea-wrap" hidden>
+        <textarea id="you-too-input" rows="5" placeholder="在这里写一句关于你的话…"></textarea>
+      </div>
+
+      <div id="you-too-feedback" class="you-too-feedback" hidden></div>
+      <div class="screen-actions">
+        <button type="button" class="submit-btn" data-action="submit-you-too">📤 提交本题</button>
+        <button type="button" class="clear-btn" data-action="clear-screen" data-screen="you_too">🧹 清除本题</button>
+        <button type="button" class="next-btn" data-action="next" hidden>下一题 →</button>
+      </div>
+    </section>
+
+    <!-- ② 完形填空 -->
+    <section class="screen exercise" data-screen="cloze" hidden>
+      <h2>② 完形填空</h2>
+      <p class="hint">直接在空格里填入单词。提交后立刻看到对错。</p>
+      <div id="cloze-body" class="cloze-body"></div>
+      <div id="cloze-feedback" class="cloze-feedback" hidden></div>
+      <div class="screen-actions">
+        <button type="button" class="submit-btn" data-action="submit-cloze">📤 提交本题</button>
+        <button type="button" class="clear-btn" data-action="clear-screen" data-screen="cloze">🧹 清除本题</button>
+        <button type="button" class="next-btn" data-action="next" hidden>下一题 →</button>
+      </div>
+    </section>
+
+    <!-- ③ 中译英 — 每句一行 -->
+    <section class="screen exercise" data-screen="cn_to_en" hidden>
+      <h2>③ 中译英</h2>
+      <p class="hint">每段中文下面写对应的英文（按意思分段、不必逐字对照）。AI 会逐段点评。</p>
+      <div id="cn-to-en-rows" class="translation-rows"></div>
+      <div class="overall-feedback" data-target="cn_to_en" hidden></div>
+      <div class="screen-actions">
+        <button type="button" class="submit-btn" data-action="submit-translation" data-direction="cn_to_en">📤 提交并点评</button>
+        <button type="button" class="clear-btn" data-action="clear-screen" data-screen="cn_to_en">🧹 清除本题</button>
+        <button type="button" class="next-btn" data-action="next" hidden>下一题 →</button>
+      </div>
+    </section>
+
+    <!-- ④ 英译中 — 每句一行 -->
+    <section class="screen exercise" data-screen="en_to_cn" hidden>
+      <h2>④ 英译中</h2>
+      <p class="hint">每段英文下面写对应的中文。AI 会逐段点评。</p>
+      <div id="en-to-cn-rows" class="translation-rows"></div>
+      <div class="overall-feedback" data-target="en_to_cn" hidden></div>
+      <div class="screen-actions">
+        <button type="button" class="submit-btn" data-action="submit-translation" data-direction="en_to_cn">📤 提交并点评</button>
+        <button type="button" class="clear-btn" data-action="clear-screen" data-screen="en_to_cn">🧹 清除本题</button>
+        <button type="button" class="next-btn" data-action="next" hidden>下一题 →</button>
+      </div>
+    </section>
+
+    <!-- ⑤ 默写 -->
+    <section class="screen exercise" data-screen="dictation" hidden>
+      <h2>⑤ 默写</h2>
+      <p class="hint">凭记忆默写整段英文课文。提示：标题 + 首句前 3 个词。</p>
+      <blockquote class="prompt-text" id="dictation-anchor"></blockquote>
+      <textarea id="dictation-input" rows="14" placeholder="在这里默写整段英文…"></textarea>
+      <div class="dictation-feedback" id="dictation-feedback" hidden></div>
+      <div class="screen-actions">
+        <button type="button" class="submit-btn" data-action="submit-dictation">📤 提交本题</button>
+        <button type="button" class="clear-btn" data-action="clear-screen" data-screen="dictation">🧹 清除本题</button>
+        <button type="button" class="next-btn" data-action="next" hidden>下一题 →</button>
+      </div>
+    </section>
+
+    <!-- ⑤ 总结 -->
+    <section class="screen summary" data-screen="summary" hidden>
+      <h2>📊 本课总结</h2>
+      <div id="summary-body" class="summary-body"></div>
+      <div class="screen-actions">
+        <button type="button" class="submit-btn" id="finish-btn">✉️ 把成绩发给爸爸</button>
+        <a href="/" class="next-btn" id="finish-back" hidden>↩ 回到课程列表</a>
+      </div>
+      <p id="finish-status" class="finish-status"></p>
+    </section>
+
+    <p id="error-block" class="error-block" hidden></p>
+  </main>
+
+  <script type="module" src="/assets/app.js"></script>
+</body>
+</html>

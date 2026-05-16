@@ -1,0 +1,21 @@
+{
+  "name": "english-learning-web",
+  "version": "0.1.0",
+  "private": true,
+  "description": "NCE2 互动课件 — Vercel 静态站点 + serverless 提交端点",
+  "scripts": {
+    "dev": "vercel dev",
+    "deploy": "vercel deploy --prod"
+  },
+  "dependencies": {
+    "diff-match-patch": "^1.0.5",
+    "resend": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/diff-match-patch": "^1.0.36",
+    "@types/node": "^20.0.0",
+    "tsx": "^4.21.0",
+    "typescript": "^5.0.0",
+    "vercel": "^32.0.0"
+  }
+}

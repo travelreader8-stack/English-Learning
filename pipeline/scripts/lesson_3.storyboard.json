@@ -1,0 +1,22 @@
+{
+  "lesson_id": 3,
+  "title": "Please send me a card",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "A sunny mid-twentieth-century Italy holiday scene. A young traveler in a light summer jacket walks through a quiet museum courtyard toward an old stone building, then rests in a lush public garden with cypress trees, marble benches, warm sunlight, and relaxed visitors in the background. The mood is leisurely and peaceful, as if the trip should feel carefree. No text, no letters, no captions, no visible words."
+    },
+    {
+      "frame": 2,
+      "prompt": "A small friendly Italian cafe terrace in warm afternoon light. A kind waiter in a white jacket smiles as he teaches a young traveler a few simple Italian gestures and lends him a small plain book. The traveler holds the book open with a confused but amused expression, clearly not understanding much. Cups and plates sit on the table, with old stone streets softly visible beyond. No text, no letters, no captions, no visible words on the book."
+    },
+    {
+      "frame": 3,
+      "prompt": "The same young traveler strolling through an Italian street lined with souvenir stalls and picture-card racks showing blank scenic images without any words. He looks happy about the trip but slightly worried, with a small soft cloud-like visual cue above his head suggesting an unfinished task. Warm sun, colorful buildings, and a relaxed holiday crowd surround him. No text, no letters, no captions, no readable signs."
+    },
+    {
+      "frame": 4,
+      "prompt": "Last day of the Italy trip inside a modest hotel room. Many picture postcards are spread across a wooden desk and bed, all blank with no visible writing. The young traveler sits at the desk, pen in hand, frozen and overwhelmed, while the window shows golden late-afternoon light outside. The room feels busy with preparation but nothing has actually been written. No text, no letters, no captions, no visible words."
+    }
+  ]
+}

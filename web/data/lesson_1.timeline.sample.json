@@ -1,0 +1,168 @@
+{
+  "lesson_id": 1,
+  "total_duration": 480,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0,
+      "end": 6,
+      "speaker": "A",
+      "scene": "intro",
+      "segments": [
+        { "lang": "zh", "text": "今天我们一起读 Lesson 1，" },
+        { "lang": "en", "text": "A Private Conversation" },
+        { "lang": "zh", "text": "——私人谈话。" }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 6,
+      "end": 14,
+      "speaker": "A",
+      "scene": "background",
+      "segments": [
+        { "lang": "zh", "text": "故事发生在剧院里。一位观众因为听不见演员说话，对身后两位大声说话的人表达了不满。" }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 14,
+      "end": 22,
+      "speaker": "B",
+      "scene": "dialogue",
+      "segments": [
+        { "lang": "zh", "text": "那他后来怎么解决的？" }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 22,
+      "end": 32,
+      "speaker": "A",
+      "scene": "dialogue",
+      "segments": [
+        { "lang": "zh", "text": "他没忍住、回头说话，结果被对方一句" },
+        { "lang": "en", "text": "It's a private conversation" },
+        { "lang": "zh", "text": "怼了回去——这就是 NCE2 第一课的小故事。" }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 32,
+      "end": 44,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "private",
+        "ipa": "/ˈpraɪvət/",
+        "example": "This is a private conversation."
+      },
+      "segments": [
+        { "lang": "en", "text": "private" },
+        { "lang": "zh", "text": "形容词，意思是「私人的、私下的」。注意 i 发 /aɪ/ 不是 /i/。" }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 44,
+      "end": 54,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "theatre",
+        "ipa": "/ˈθɪətər/",
+        "example": "I went to the theatre last week."
+      },
+      "segments": [
+        { "lang": "en", "text": "theatre" },
+        { "lang": "zh", "text": "名词，剧院。注意美式拼成 theater，英式 theatre，初一阶段两种都行。" }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 54,
+      "end": 64,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "loudly",
+        "ipa": "/ˈlaʊdli/",
+        "example": "They were talking loudly."
+      },
+      "segments": [
+        { "lang": "en", "text": "loudly" },
+        { "lang": "zh", "text": "副词，大声地。形容词是 loud，加 -ly 变副词修饰动词。" }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 64,
+      "end": 70,
+      "speaker": "A",
+      "scene": "passage_slow",
+      "segments": [
+        { "lang": "en", "text": "Last week I went to the theatre." }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 70,
+      "end": 75,
+      "speaker": "A",
+      "scene": "passage_slow",
+      "segments": [
+        { "lang": "en", "text": "I had a very good seat." }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 75,
+      "end": 80,
+      "speaker": "A",
+      "scene": "passage_slow",
+      "segments": [
+        { "lang": "en", "text": "The play was very interesting." }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 80,
+      "end": 84,
+      "speaker": "A",
+      "scene": "passage_slow",
+      "segments": [
+        { "lang": "en", "text": "I did not enjoy it." }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 84,
+      "end": 92,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "segments": [
+        { "lang": "en", "text": "Last week I went to the theatre." }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 92,
+      "end": 100,
+      "speaker": "A",
+      "scene": "tip",
+      "segments": [
+        { "lang": "zh", "text": "「我没法欣赏这戏」要用 not enjoy，比 cannot appreciate 更地道。简单一句话表达心情，初一够了。" }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 100,
+      "end": 110,
+      "speaker": "A",
+      "scene": "outro",
+      "segments": [
+        { "lang": "zh", "text": "这一课就到这。现在去做下面的练习吧，做完爸爸会收到你的成绩。" }
+      ]
+    }
+  ]
+}

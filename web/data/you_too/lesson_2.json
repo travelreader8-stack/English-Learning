@@ -1,0 +1,37 @@
+{
+  "lesson_id": 2,
+  "title": "Breakfast or lunch?",
+  "question": "把今天课文的情绪、放进你自己最近一次类似的经历——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景的空都填上、用 word bank 里的短语。",
+  "example_answer": "老师小时候有一次寒假、奶奶下午两点来家里、推门看见我还在被窝里——Do you always get up so late?",
+  "word_bank": [
+    "got up very late",
+    "stay in bed until",
+    "was still having breakfast",
+    "looked out of the window",
+    "It's raining again",
+    "What a day",
+    "repeated",
+    "outside"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "周末睡到中午、爸妈喊吃饭",
+      "english_template": "Last Saturday I ___ . When my mom called me to lunch, I was still in bed.",
+      "expected_phrase": "got up very late"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "暑假窝在被窝里到下午",
+      "english_template": "During the summer holiday, I often ___ lunchtime, because there was nothing to do in the morning.",
+      "expected_phrase": "stay in bed until"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "亲戚突然来访、自己还在吃早饭",
+      "english_template": "My aunt suddenly came to see me, but I ___ . She was very surprised.",
+      "expected_phrase": "was still having breakfast"
+    }
+  ],
+  "mode": "all_fills"
+}

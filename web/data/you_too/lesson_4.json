@@ -1,0 +1,37 @@
+{
+  "lesson_id": 4,
+  "title": "An exciting trip",
+  "question": "把今天课文里「远方的人生更新」放进你自己的生活——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景的空都填上、用 word bank 里的短语。",
+  "example_answer": "老师有个朋友第一次去国外工作。He has been there for two months, and this new life feels exciting.",
+  "word_bank": [
+    "have just received",
+    "has been there for",
+    "has already visited",
+    "has just bought",
+    "has gone to",
+    "has never been abroad before",
+    "exciting",
+    "different places"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "收到远方亲戚的新消息",
+      "english_template": "I ___ a message from my cousin. He is studying in another city.",
+      "expected_phrase": "have just received"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "姐姐已经在上海待了一段时间",
+      "english_template": "My sister is in Shanghai. She ___ three months.",
+      "expected_phrase": "has been there for"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "朋友第一次出国，所以旅程让他很兴奋",
+      "english_template": "My friend ___, so this trip feels very exciting to him.",
+      "expected_phrase": "has never been abroad before"
+    }
+  ],
+  "mode": "all_fills"
+}

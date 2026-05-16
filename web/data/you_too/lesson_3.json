@@ -1,0 +1,37 @@
+{
+  "lesson_id": 3,
+  "title": "Please send me a card",
+  "question": "把今天课文里「假期里一直惦记一个小任务」的感觉、放进你自己的生活——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景的空都填上、用 word bank 里的短语。",
+  "example_answer": "老师有一次旅行回来前，心里一直想着整理照片，结果 spent the whole day 挑滤镜，却 did not send a single picture.",
+  "word_bank": [
+    "thought about",
+    "made a big decision",
+    "spent the whole day",
+    "did not write a single word",
+    "did not finish a single page",
+    "spoil my holiday",
+    "a few lines",
+    "quickly"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "假期作业一直惦记、一直没开始",
+      "english_template": "During the holiday, I ___ my homework every day, but I did not start it.",
+      "expected_phrase": "thought about"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "花很久挑照片、但没有发出去",
+      "english_template": "I ___ choosing photos for my family, but I did not send a single picture.",
+      "expected_phrase": "spent the whole day"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "打开本子写日记、只写了几行",
+      "english_template": "I opened my notebook and wrote ___, but I still did not finish the diary.",
+      "expected_phrase": "a few lines"
+    }
+  ],
+  "mode": "all_fills"
+}

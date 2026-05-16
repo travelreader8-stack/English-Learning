@@ -1,0 +1,1052 @@
+{
+  "total_duration": 514.074,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 15.136,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "想象你去机场或火车站送一个人：他不是去随便玩一天，而是要去参加一场很重要的比赛。你会早点到，看看他的行李和装备，然后认真说一句："
+        },
+        {
+          "lang": "en",
+          "text": "good luck"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 15.486,
+      "end": 30.797,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Goodbye and good luck"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文可以说“再见，一路顺风”。这里的 goodbye 不是伤心告别，而是一次送行；"
+        },
+        {
+          "lang": "en",
+          "text": "good luck"
+        },
+        {
+          "lang": "zh",
+          "text": "是在别人开始挑战前，送给他的祝福。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 31.147,
+      "end": 51.099,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文的地点也要先看懂。"
+        },
+        {
+          "lang": "en",
+          "text": "Portsmouth"
+        },
+        {
+          "lang": "zh",
+          "text": "是英国南部的港口城市，在"
+        },
+        {
+          "lang": "en",
+          "text": "the United Kingdom"
+        },
+        {
+          "lang": "zh",
+          "text": "。它和船、海港、出海很有关系。"
+        },
+        {
+          "lang": "en",
+          "text": "harbour"
+        },
+        {
+          "lang": "zh",
+          "text": "不是普通河边或公园湖边，而是船停靠、准备、再出发的地方。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 51.449,
+      "end": 73.24,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这一课不是单纯看一艘小船。查尔斯·艾利森船长要从 Portsmouth 启航，驾驶有名的小船"
+        },
+        {
+          "lang": "en",
+          "text": "Topsail"
+        },
+        {
+          "lang": "zh",
+          "text": "去横渡"
+        },
+        {
+          "lang": "en",
+          "text": "the Atlantic"
+        },
+        {
+          "lang": "zh",
+          "text": "，也就是欧洲和美洲之间的大西洋。邻居们去海港，是为了送行、祝福，并且为他感到骄傲。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 73.59,
+      "end": 96.79,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事一开始就给出出发计划："
+        },
+        {
+          "lang": "en",
+          "text": "Our neighbour, Captain Charles Alison, will sail from Portsmouth tomorrow."
+        },
+        {
+          "lang": "en",
+          "text": "Captain"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里是船长，负责一艘船的人；"
+        },
+        {
+          "lang": "en",
+          "text": "will sail"
+        },
+        {
+          "lang": "zh",
+          "text": "告诉我们这是明天的计划。他不是从随便一个地方出发，而是从英国港口城市 Portsmouth 出海。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 97.14,
+      "end": 117.339,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二步是送行地点："
+        },
+        {
+          "lang": "en",
+          "text": "We'll meet him at the harbour early in the morning."
+        },
+        {
+          "lang": "zh",
+          "text": "大家会一大早去 harbour，因为那里才是船准备离开的地方。然后课文说："
+        },
+        {
+          "lang": "en",
+          "text": "He will be in his small boat, Topsail."
+        },
+        {
+          "lang": "en",
+          "text": "Topsail"
+        },
+        {
+          "lang": "zh",
+          "text": "是船名，不是一个普通单词练习。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 117.689,
+      "end": 140.481,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这艘船小，但不普通："
+        },
+        {
+          "lang": "en",
+          "text": "Topsail is a famous little boat. It has sailed across the Atlantic many times."
+        },
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "has sailed"
+        },
+        {
+          "lang": "zh",
+          "text": "是它过去到现在的经历：它已经多次横渡大西洋。正因为有这样的记录，明天的比赛听起来不是乱冒险，而是一个认真准备过的挑战。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 140.831,
+      "end": 166.074,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "出发时间很清楚："
+        },
+        {
+          "lang": "en",
+          "text": "Captain Alison will set out at eight o'clock, so we'll have plenty of time."
+        },
+        {
+          "lang": "en",
+          "text": "set out"
+        },
+        {
+          "lang": "zh",
+          "text": "是启程，"
+        },
+        {
+          "lang": "en",
+          "text": "plenty of time"
+        },
+        {
+          "lang": "zh",
+          "text": "是时间很充裕。大家可以看船，然后"
+        },
+        {
+          "lang": "en",
+          "text": "say goodbye"
+        },
+        {
+          "lang": "zh",
+          "text": "。他会离开两个月，参加横渡大西洋的重要比赛，所以邻居们"
+        },
+        {
+          "lang": "en",
+          "text": "are very proud of him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 166.424,
+      "end": 171.624,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课先别急着背船的知识。你觉得大家为什么要一大早去 harbour？"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 171.974,
+      "end": 175.826,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为船长要从那里出发，所以他们要去送行？"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 176.176,
+      "end": 189.612,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。send-off 就是到出发的地方，在人真正离开前见他一面，说 goodbye，也说"
+        },
+        {
+          "lang": "en",
+          "text": "good luck"
+        },
+        {
+          "lang": "zh",
+          "text": "。机场、火车站、校队比赛前集合，其实都有类似的感觉。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 189.962,
+      "end": 195.302,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "Portsmouth"
+        },
+        {
+          "lang": "zh",
+          "text": "我需要记住很多英国地理吗？"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 195.651,
+      "end": 204.411,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不需要。只要知道 Portsmouth 是英国南部的港口城市，船从这里出海很自然。海港就是这件事的起点。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 204.761,
+      "end": 207.682,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Atlantic"
+        },
+        {
+          "lang": "zh",
+          "text": "呢？"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 208.032,
+      "end": 220.536,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "the Atlantic"
+        },
+        {
+          "lang": "zh",
+          "text": "是大西洋，在欧洲和美洲之间。小船横渡大西洋不是观光小游船，而是一个很长、很难、很正式的挑战。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 220.886,
+      "end": 229.191,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说"
+        },
+        {
+          "lang": "en",
+          "text": "Topsail"
+        },
+        {
+          "lang": "zh",
+          "text": "has sailed across the Atlantic many times，是不是在告诉我们这艘船有经验？"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 229.541,
+      "end": 248.637,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "正是。明天 Captain Alison"
+        },
+        {
+          "lang": "en",
+          "text": "will sail"
+        },
+        {
+          "lang": "zh",
+          "text": "，这是未来计划；但 Topsail"
+        },
+        {
+          "lang": "en",
+          "text": "has sailed"
+        },
+        {
+          "lang": "zh",
+          "text": "across the Atlantic many times，这是过去到现在积累的记录。一个是明天要做什么，一个是这艘船已经证明过什么。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 248.987,
+      "end": 254.637,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以重点不是“我喜欢船”，而是“一个人要去做难事，身边的人去祝福他”。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 254.987,
+      "end": 265.187,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这就抓住了。重要出发、起点、装备、道别、祝福、骄傲、长挑战，这条线比船的型号更重要。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 265.537,
+      "end": 270.337,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Our neighbour, Captain Charles Alison, will sail from Portsmouth tomorrow."
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 270.687,
+      "end": 273.879,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "We'll meet him at the harbour early in the morning."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 274.229,
+      "end": 277.325,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He will be in his small boat, Topsail."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 277.675,
+      "end": 283.867,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Topsail is a famous little boat. It has sailed across the Atlantic many times."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 284.217,
+      "end": 288.849,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Captain Alison will set out at eight o'clock, so we'll have plenty of time."
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 289.198,
+      "end": 292.486,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "We'll see his boat and then we'll say goodbye to him."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 292.836,
+      "end": 297.684,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He will be away for two months. We are very proud of him."
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 298.034,
+      "end": 301.946,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He will take part in an important race across the Atlantic."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 302.296,
+      "end": 304.984,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sail"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "sail"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 305.334,
+      "end": 306.87,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sail"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "sail"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 307.22,
+      "end": 328.563,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sail"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "sail"
+        },
+        {
+          "lang": "zh",
+          "text": "是乘船航行，或者驾驶船在水上走。课文里说"
+        },
+        {
+          "lang": "en",
+          "text": "will sail from Portsmouth tomorrow"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思是查尔斯·艾利森船长明天会从 Portsmouth 这个港口城市启航。注意，这不是普通走路出发，而是从海港出海。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 328.913,
+      "end": 331.497,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "harbour"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "harbour"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 331.847,
+      "end": 333.407,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "harbour"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "harbour"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 333.757,
+      "end": 351.333,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "harbour"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "harbour"
+        },
+        {
+          "lang": "zh",
+          "text": "是海港、港湾，是船停靠、准备、到达和离开的安全地方。课文里"
+        },
+        {
+          "lang": "en",
+          "text": "We'll meet him at the harbour early in the morning"
+        },
+        {
+          "lang": "zh",
+          "text": "，因为他们不是在路边随便看看船，而是去真正的出发地点送行。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 351.683,
+      "end": 354.411,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "proud"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "proud"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 354.76,
+      "end": 356.296,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "proud"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "proud"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 356.646,
+      "end": 375.702,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "proud"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "proud"
+        },
+        {
+          "lang": "zh",
+          "text": "是为某人感到自豪。不是因为事情轻松，而是因为这个人要做一件困难、有意义、值得尊重的事。课文说"
+        },
+        {
+          "lang": "en",
+          "text": "We are very proud of him"
+        },
+        {
+          "lang": "zh",
+          "text": "，因为 Captain Alison 要离开两个月，参加一次横渡大西洋的重要比赛。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 376.052,
+      "end": 399.771,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 不做干巴巴的 will 表格。我们把"
+        },
+        {
+          "lang": "en",
+          "text": "will"
+        },
+        {
+          "lang": "zh",
+          "text": "当成一张明天早晨的送行时间表："
+        },
+        {
+          "lang": "en",
+          "text": "will sail from Portsmouth tomorrow"
+        },
+        {
+          "lang": "zh",
+          "text": "，明天从 Portsmouth 启航；"
+        },
+        {
+          "lang": "en",
+          "text": "We'll meet him at the harbour early in the morning"
+        },
+        {
+          "lang": "zh",
+          "text": "，一大早在海港见他；"
+        },
+        {
+          "lang": "en",
+          "text": "will set out at eight o'clock"
+        },
+        {
+          "lang": "zh",
+          "text": "，八点正式启程。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 400.121,
+      "end": 418.753,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "时间表继续往后走："
+        },
+        {
+          "lang": "en",
+          "text": "we'll have plenty of time"
+        },
+        {
+          "lang": "zh",
+          "text": "，所以大家有充裕时间看船、道别；"
+        },
+        {
+          "lang": "en",
+          "text": "He will be away for two months"
+        },
+        {
+          "lang": "zh",
+          "text": "，他会离开两个月；"
+        },
+        {
+          "lang": "en",
+          "text": "He will take part in an important race across the Atlantic"
+        },
+        {
+          "lang": "zh",
+          "text": "，他会参加重要的大西洋比赛。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 419.102,
+      "end": 436.214,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但是船的经历不用"
+        },
+        {
+          "lang": "en",
+          "text": "will"
+        },
+        {
+          "lang": "zh",
+          "text": "，而是"
+        },
+        {
+          "lang": "en",
+          "text": "has sailed across the Atlantic many times"
+        },
+        {
+          "lang": "zh",
+          "text": "。一句讲明天计划，一句讲过去到现在的经验。这样你就能听懂：人要出发，船有记录，大家有理由认真祝福他。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 436.564,
+      "end": 453.124,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天的“重要出发、送行和祝福”放进你自己的生活。下面三个场景都要填，word bank 里选短语。你可以想成机场送亲戚、同学参加比赛、家人离开一段时间；不一定非要讲船。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 453.474,
+      "end": 475.505,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "关键是把顺序说清楚：谁"
+        },
+        {
+          "lang": "en",
+          "text": "will set out"
+        },
+        {
+          "lang": "zh",
+          "text": "，谁去"
+        },
+        {
+          "lang": "en",
+          "text": "say goodbye"
+        },
+        {
+          "lang": "zh",
+          "text": "，怎么说"
+        },
+        {
+          "lang": "en",
+          "text": "good luck"
+        },
+        {
+          "lang": "zh",
+          "text": "，为什么大家"
+        },
+        {
+          "lang": "en",
+          "text": "are proud of"
+        },
+        {
+          "lang": "zh",
+          "text": "him or her。比如："
+        },
+        {
+          "lang": "en",
+          "text": "My cousin will set out early tomorrow, so we will say goodbye and wish her good luck."
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 475.855,
+      "end": 514.074,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "will sail from Portsmouth"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "meet him at the harbour"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "set out at eight o'clock"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "say goodbye"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "proud of him"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。读完以后，再做 ① 生活场景，把送行和祝福放进自己的例子；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。加油、"
+        },
+        {
+          "lang": "en",
+          "text": "good luck"
+        },
+        {
+          "lang": "zh",
+          "text": "！"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 12
+}

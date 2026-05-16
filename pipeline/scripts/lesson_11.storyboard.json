@@ -1,0 +1,22 @@
+{
+  "lesson_id": 11,
+  "title": "One good turn deserves another",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "A natural restaurant dinner scene: a thoughtful narrator sits at a table eating dinner while Tony Steele enters the restaurant and notices him. The mood is ordinary and social, with the beginning of a small comic situation. Keep it modern enough for a child to understand but not flashy. No text, no letters, no captions, no readable menus, no readable signs, no visible words."
+    },
+    {
+      "frame": 2,
+      "prompt": "A simple visual contrast of Tony Steele's background: on one side a calm lawyer office atmosphere from years ago, on the other side a present-day bank workplace feeling. Show Tony as the same adult moving from one work world to another, with a good salary implied by neat professional surroundings. No readable signs, no labels, no money amounts, no text, no letters, no visible words."
+    },
+    {
+      "frame": 3,
+      "prompt": "Tony repeatedly borrowing small amounts from friends and not returning them: friends look mildly frustrated around a cafe or casual table while Tony casually accepts coins or a small bill. Keep the humour light and social, not hostile, greedy, or mean. Avoid large piles of cash. No text, no letters, no captions, no readable bills, no visible words."
+    },
+    {
+      "frame": 4,
+      "prompt": "The restaurant twist: the narrator asks Tony for money, Tony immediately hands over a small amount, then confidently points toward the dinner bill while the narrator looks surprised. Make the direction of the joke clear through expressions and gestures, but do not show readable text or numbers on the bill. No text, no letters, no captions, no readable signs, no visible words."
+    }
+  ]
+}

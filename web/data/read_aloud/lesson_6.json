@@ -1,0 +1,98 @@
+{
+  "lesson_id": 6,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把旧街屋场景、交换动作和最后的固定惯例读顺。",
+  "sentences": [
+    {
+      "id": "l6_s1",
+      "text": "I have just moved to a house in Bridge Street.",
+      "focus_zh": "have just moved 要读出“我现在刚搬来、还很新”的感觉。",
+      "start": 245.582,
+      "end": 248.822,
+      "focus_words": [
+        "have",
+        "just",
+        "moved",
+        "Bridge"
+      ]
+    },
+    {
+      "id": "l6_s2",
+      "text": "Yesterday a beggar knocked at my door.",
+      "focus_zh": "knocked at my door 作为一个动作短语连起来读。",
+      "start": 249.172,
+      "end": 252.148,
+      "focus_words": [
+        "Yesterday",
+        "beggar",
+        "knocked",
+        "door"
+      ]
+    },
+    {
+      "id": "l6_s3",
+      "text": "He asked me for a meal and a glass of beer.",
+      "focus_zh": "asked me for 后面接两个东西，meal 和 glass of beer 分清楚。",
+      "start": 252.498,
+      "end": 255.666,
+      "focus_words": [
+        "asked",
+        "meal",
+        "glass",
+        "beer"
+      ]
+    },
+    {
+      "id": "l6_s4",
+      "text": "In return for this, the beggar stood on his head and sang songs.",
+      "focus_zh": "In return for this 后面稍停，再读清楚 stood on his head。",
+      "start": 256.015,
+      "end": 260.431,
+      "focus_words": [
+        "return",
+        "beggar",
+        "stood",
+        "sang"
+      ]
+    },
+    {
+      "id": "l6_s5",
+      "text": "Then he put a piece of cheese in his pocket and went away.",
+      "focus_zh": "a piece of cheese 和 in his pocket 是两个重点短语。",
+      "start": 266.401,
+      "end": 270.169,
+      "focus_words": [
+        "piece",
+        "cheese",
+        "pocket",
+        "away"
+      ]
+    },
+    {
+      "id": "l6_s6",
+      "text": "Later a neighbour told me about him. Everybody knows him.",
+      "focus_zh": "Everybody knows him 是揭晓答案，要读得像邻居在解释。",
+      "start": 270.519,
+      "end": 275.549,
+      "focus_words": [
+        "Later",
+        "neighbour",
+        "Everybody",
+        "knows"
+      ]
+    },
+    {
+      "id": "l6_s7",
+      "text": "He calls at every house in the street once a month and always asks for a meal and a glass of beer.",
+      "focus_zh": "calls at、once a month、always asks 三个规律提示要读清楚。",
+      "start": 278.817,
+      "end": 284.481,
+      "focus_words": [
+        "calls",
+        "every",
+        "once",
+        "always"
+      ]
+    }
+  ]
+}

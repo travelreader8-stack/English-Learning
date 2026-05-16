@@ -1,0 +1,844 @@
+{
+  "total_duration": 420.306,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 27.496,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你有没有收到过一个很远的消息？比如表哥在另一个城市上学，姑姑在国外旅行，爸爸出差发来定位和照片。手机屏幕很小，可你一打开地图，突然发现：原来熟悉的人正在一个很大的世界里生活。60 年前，这种远方更新常常不是微信，而是一封"
+        },
+        {
+          "lang": "en",
+          "text": "letter"
+        },
+        {
+          "lang": "zh",
+          "text": "，信。今天这封信来自 Tim，地点是澳大利亚。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 27.846,
+      "end": 43.87,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事一开始，叙述者说："
+        },
+        {
+          "lang": "en",
+          "text": "I have just received a letter from my brother, Tim."
+        },
+        {
+          "lang": "zh",
+          "text": "这不是普通的一张纸，而是一个从远方寄来的生活更新：Tim 在哪里、待了多久、做了什么、接下来要去哪儿。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 44.219,
+      "end": 62.743,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Tim 现在在澳大利亚。他"
+        },
+        {
+          "lang": "en",
+          "text": "has been there for six months"
+        },
+        {
+          "lang": "zh",
+          "text": "，已经在那儿六个月了。他是"
+        },
+        {
+          "lang": "en",
+          "text": "an engineer"
+        },
+        {
+          "lang": "zh",
+          "text": "，在"
+        },
+        {
+          "lang": "en",
+          "text": "a big firm"
+        },
+        {
+          "lang": "zh",
+          "text": "工作。也就是说，他不是去玩两天，而是真的在远方生活和工作。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 63.093,
+      "end": 79.764,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后地图开始变大了。Tim"
+        },
+        {
+          "lang": "en",
+          "text": "has already visited a great number of different places"
+        },
+        {
+          "lang": "zh",
+          "text": "，已经去过很多不同的地方。他"
+        },
+        {
+          "lang": "en",
+          "text": "has just bought an Australian car"
+        },
+        {
+          "lang": "zh",
+          "text": "，还去了澳大利亚中部的小镇"
+        },
+        {
+          "lang": "en",
+          "text": "Alice Springs"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 80.114,
+      "end": 99.534,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接下来，他还会去"
+        },
+        {
+          "lang": "en",
+          "text": "Darwin"
+        },
+        {
+          "lang": "zh",
+          "text": "，然后飞到"
+        },
+        {
+          "lang": "en",
+          "text": "Perth"
+        },
+        {
+          "lang": "zh",
+          "text": "。最重要的是："
+        },
+        {
+          "lang": "en",
+          "text": "My brother has never been abroad before"
+        },
+        {
+          "lang": "zh",
+          "text": "。以前他从没出过国，所以这一次，他"
+        },
+        {
+          "lang": "en",
+          "text": "is finding this trip very exciting"
+        },
+        {
+          "lang": "zh",
+          "text": "——他觉得这趟旅行特别激动人心。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 99.883,
+      "end": 116.059,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课表面上说「收到一封信」，但别把重点放在信纸本身。以前的"
+        },
+        {
+          "lang": "en",
+          "text": "letter"
+        },
+        {
+          "lang": "zh",
+          "text": "，有点像今天一整串远方生活更新：照片、定位、视频电话、朋友圈，还有一句「我现在在这里」。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 116.409,
+      "end": 121.589,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以它不是「我收到了纸」，而是「我知道了一个熟人在很远的地方生活」？"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 121.938,
+      "end": 136.778,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。你看 Tim 的更新很完整：他在澳大利亚，已经待了六个月；他是工程师，在大公司工作；他已经去过很多地方；他刚买了一辆车；他现在去了 Alice Springs；之后还要去 Darwin 和 Perth。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 137.128,
+      "end": 140.824,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "像打开地图，看一条路线越走越远。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 141.174,
+      "end": 156.334,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "没错。这课的情绪不是爆笑，而是世界突然变大。一个你认识的人，从熟悉的日常里走出去，在远方工作、开车、旅行。于是你也会觉得：原来人生可以移动到那么远的地方。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 156.684,
+      "end": 161.928,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那这一课为什么一直用"
+        },
+        {
+          "lang": "en",
+          "text": "have"
+        },
+        {
+          "lang": "zh",
+          "text": "加过去分词？"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 162.278,
+      "end": 187.869,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为这些句子都像「今天收到的状态更新」。"
+        },
+        {
+          "lang": "en",
+          "text": "I have just received"
+        },
+        {
+          "lang": "zh",
+          "text": "，新消息刚到；"
+        },
+        {
+          "lang": "en",
+          "text": "He has been there for six months"
+        },
+        {
+          "lang": "zh",
+          "text": "，过去到了那里，现在还在那里；"
+        },
+        {
+          "lang": "en",
+          "text": "He has already visited"
+        },
+        {
+          "lang": "zh",
+          "text": "，到现在为止已经去过；"
+        },
+        {
+          "lang": "en",
+          "text": "He has just bought"
+        },
+        {
+          "lang": "zh",
+          "text": "，刚刚有了新变化；"
+        },
+        {
+          "lang": "en",
+          "text": "He has never been abroad before"
+        },
+        {
+          "lang": "zh",
+          "text": "，以前的人生经验是零。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 188.219,
+      "end": 195.182,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以现在完成时不是单纯说过去，而是说「过去发生的事，变成了今天的消息或状态」。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 195.531,
+      "end": 206.411,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "特别好。等会儿听原文时，别只听单词，听它像一条远方动态：消息刚到，位置现在在那儿，经历已经累积，下一站还在路上。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 206.761,
+      "end": 210.385,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I have just received a letter from my brother, Tim."
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 210.735,
+      "end": 212.919,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He is in Australia."
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 213.269,
+      "end": 215.981,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He has been there for six months."
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 216.331,
+      "end": 218.539,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Tim is an engineer."
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 218.889,
+      "end": 225.033,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He is working for a big firm and he has already visited a great number of different places in Australia."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 225.383,
+      "end": 231.887,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He has just bought an Australian car and has gone to Alice Springs, a small town in the centre of Australia."
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 232.237,
+      "end": 234.709,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He will soon visit Darwin."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 235.058,
+      "end": 237.842,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "From there, he will fly to Perth."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 238.192,
+      "end": 243.4,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "My brother has never been abroad before, so he is finding this trip very exciting."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 243.75,
+      "end": 246.39,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "abroad"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "abroad"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 246.74,
+      "end": 248.372,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "abroad"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "abroad"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 248.722,
+      "end": 269.561,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "abroad"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "abroad"
+        },
+        {
+          "lang": "zh",
+          "text": "的意思是「在国外、到国外」。课文里说"
+        },
+        {
+          "lang": "en",
+          "text": "My brother has never been abroad before"
+        },
+        {
+          "lang": "zh",
+          "text": "，就是「我弟弟以前从来没有出过国」。注意它通常不说"
+        },
+        {
+          "lang": "en",
+          "text": "to abroad"
+        },
+        {
+          "lang": "zh",
+          "text": "，而是说"
+        },
+        {
+          "lang": "en",
+          "text": "go abroad"
+        },
+        {
+          "lang": "zh",
+          "text": "或"
+        },
+        {
+          "lang": "en",
+          "text": "be abroad"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 269.911,
+      "end": 272.543,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "firm"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "firm"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 272.893,
+      "end": 274.501,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "firm"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "firm"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 274.851,
+      "end": 291.362,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "firm"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "firm"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里不是「坚固的」，而是「公司、商行」。"
+        },
+        {
+          "lang": "en",
+          "text": "a big firm"
+        },
+        {
+          "lang": "zh",
+          "text": "就是一家大公司。Tim 是工程师，在一家大公司工作，所以这趟澳大利亚之行不只是旅游，也是一段真实的工作生活。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 291.712,
+      "end": 294.584,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "exciting"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "exciting"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 294.934,
+      "end": 296.638,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "exciting"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "exciting"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 296.988,
+      "end": 316.899,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "exciting"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "exciting"
+        },
+        {
+          "lang": "zh",
+          "text": "是「令人激动的、令人兴奋的」。课文最后说"
+        },
+        {
+          "lang": "en",
+          "text": "this trip very exciting"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思是这趟旅行让 Tim 觉得世界变大了。顺便记一个对比："
+        },
+        {
+          "lang": "en",
+          "text": "exciting"
+        },
+        {
+          "lang": "zh",
+          "text": "形容事情很刺激；"
+        },
+        {
+          "lang": "en",
+          "text": "excited"
+        },
+        {
+          "lang": "zh",
+          "text": "形容人感到兴奋。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 317.249,
+      "end": 359.665,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课的语法点是：把现在完成时当成「生活更新语法」。如果只说"
+        },
+        {
+          "lang": "en",
+          "text": "He is in Australia"
+        },
+        {
+          "lang": "zh",
+          "text": "，我们知道他现在在哪儿。可"
+        },
+        {
+          "lang": "en",
+          "text": "He has been there for six months"
+        },
+        {
+          "lang": "zh",
+          "text": "，就多了一层信息：这件事从过去开始，一直持续到现在。"
+        },
+        {
+          "lang": "en",
+          "text": "He has gone to Alice Springs"
+        },
+        {
+          "lang": "zh",
+          "text": "也不是只说「他去过一下」，而是说他已经去了那里，现在不在原来的地方。"
+        },
+        {
+          "lang": "en",
+          "text": "He has never been abroad before"
+        },
+        {
+          "lang": "zh",
+          "text": "说的是到现在为止的人生经验。记住一句话：现在完成时不是只讲过去，它是在告诉你，过去的事情怎样变成今天的状态、经验或新闻。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 360.014,
+      "end": 376.614,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天这个「远方生活更新」放进你自己的生活。下面有三个现代场景：亲戚发来消息、姐姐在另一个城市待了一段时间、朋友第一次出国旅行。你从 word bank 里选短语，把三个空都补上。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 376.964,
+      "end": 389.636,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师有个朋友第一次去很远的地方工作，刚到时每天都发照片。我们看着地图上的位置越来越远，真的会觉得："
+        },
+        {
+          "lang": "en",
+          "text": "The world is bigger than my daily life."
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 389.986,
+      "end": 420.306,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：第一步听课文全文，第二步点核心句的原音，第三步录自己读一遍，第四步看一句小反馈、再试一次。读顺以后，再做 ① 生活场景，把远方更新放进你自己的故事里；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。加油、"
+        },
+        {
+          "lang": "en",
+          "text": "you can do it"
+        },
+        {
+          "lang": "zh",
+          "text": "！"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 4
+}

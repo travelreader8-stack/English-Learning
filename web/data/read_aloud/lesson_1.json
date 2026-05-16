@@ -1,0 +1,80 @@
+{
+  "lesson_id": 1,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把几句最有故事感的句子读顺。",
+  "sentences": [
+    {
+      "id": "l1_s1",
+      "text": "Last week I went to the theatre.",
+      "focus_zh": "注意 Last week 和 went to 的节奏。",
+      "start": 198.094,
+      "end": 200.782,
+      "focus_words": [
+        "Last",
+        "week",
+        "went",
+        "theatre"
+      ]
+    },
+    {
+      "id": "l1_s2",
+      "text": "A young man and a young woman were sitting behind me.",
+      "focus_zh": "把 a young man / a young woman 两组读清楚。",
+      "start": 209.237,
+      "end": 212.885,
+      "focus_words": [
+        "young",
+        "woman",
+        "sitting",
+        "behind"
+      ]
+    },
+    {
+      "id": "l1_s3",
+      "text": "They were talking loudly.",
+      "focus_zh": "注意 were talking 的连贯和 loudly 的尾音。",
+      "start": 213.235,
+      "end": 215.443,
+      "focus_words": [
+        "were",
+        "talking",
+        "loudly"
+      ]
+    },
+    {
+      "id": "l1_s4",
+      "text": "In the end, I could not bear it.",
+      "focus_zh": "In the end 后面稍停，再读 could not bear it。",
+      "start": 230.095,
+      "end": 232.903,
+      "focus_words": [
+        "end",
+        "could",
+        "bear"
+      ]
+    },
+    {
+      "id": "l1_s5",
+      "text": "It's none of your business, the young man said rudely.",
+      "focus_zh": "注意 none of your business 是一句完整的情绪。",
+      "start": 241.022,
+      "end": 244.598,
+      "focus_words": [
+        "none",
+        "business",
+        "rudely"
+      ]
+    },
+    {
+      "id": "l1_s6",
+      "text": "This is a private conversation!",
+      "focus_zh": "private conversation 是这一课的核心短语，重音要清楚。",
+      "start": 244.948,
+      "end": 247.924,
+      "focus_words": [
+        "private",
+        "conversation"
+      ]
+    }
+  ]
+}

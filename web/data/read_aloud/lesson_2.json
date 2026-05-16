@@ -1,0 +1,82 @@
+{
+  "lesson_id": 2,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再练几句带节奏和语气的句子。",
+  "sentences": [
+    {
+      "id": "l2_s1",
+      "text": "I never get up early on Sundays.",
+      "focus_zh": "注意 never 和 on Sundays 的重音。",
+      "start": 184.368,
+      "end": 187.224,
+      "focus_words": [
+        "never",
+        "early",
+        "Sundays"
+      ]
+    },
+    {
+      "id": "l2_s2",
+      "text": "I sometimes stay in bed until lunchtime.",
+      "focus_zh": "把 stay in bed until lunchtime 读成顺的一串。",
+      "start": 187.574,
+      "end": 190.766,
+      "focus_words": [
+        "sometimes",
+        "stay",
+        "until",
+        "lunchtime"
+      ]
+    },
+    {
+      "id": "l2_s3",
+      "text": "'What a day!' I thought.",
+      "focus_zh": "What a day 要读出一点惊讶和抱怨。",
+      "start": 199.533,
+      "end": 202.749,
+      "focus_words": [
+        "What",
+        "day",
+        "thought"
+      ]
+    },
+    {
+      "id": "l2_s4",
+      "text": "'I've just arrived by train,' she said.",
+      "focus_zh": "注意 I've just arrived 的现在完成时节奏。",
+      "start": 211.373,
+      "end": 214.421,
+      "focus_words": [
+        "I've",
+        "just",
+        "arrived",
+        "train"
+      ]
+    },
+    {
+      "id": "l2_s5",
+      "text": "'I'm having breakfast,' I repeated.",
+      "focus_zh": "I'm having breakfast 要读得自然，不要一个词一个词断开。",
+      "start": 223.692,
+      "end": 226.644,
+      "focus_words": [
+        "having",
+        "breakfast",
+        "repeated"
+      ]
+    },
+    {
+      "id": "l2_s6",
+      "text": "'Do you always get up so late? It's one o'clock!'",
+      "focus_zh": "第一句是问题，第二句是惊讶，语气要分开。",
+      "start": 229.576,
+      "end": 234.28,
+      "focus_words": [
+        "always",
+        "late",
+        "one",
+        "o'clock"
+      ]
+    }
+  ]
+}

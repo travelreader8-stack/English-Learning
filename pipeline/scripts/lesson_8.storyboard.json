@@ -1,0 +1,22 @@
+{
+  "lesson_id": 8,
+  "title": "The best and the worst",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "A charming small-town garden competition on a sunny day, with one beautifully designed garden standing out through balanced flower beds, tidy walkways, gentle colors, and an inviting overall layout. Other gardens are visible nearby but less composed. Warm, light, playful mood. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 2,
+      "prompt": "A larger, busier garden filled with many flowers and vegetables, showing strong effort and quantity but less elegant design than the winning garden. A hardworking gardener tends plants in a friendly non-comic way. Make the contrast about size, effort, and number rather than failure. Fresh lively palette. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 3,
+      "prompt": "Close view of an interesting garden design with neat paths, a small wooden bridge, and a peaceful garden pond or water feature. The layout should feel clear, tidy, and thoughtfully arranged, showing why the garden is interesting beyond size. Bright storybook realism, no fantasy elements. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 4,
+      "prompt": "A warm self-mocking scene of a slightly messy neglected garden with a cheerful adult narrator holding a tiny prize ribbon or small trophy, smiling at himself. The humor should feel gentle and playful, not cruel. Keep it visually funny through wilted plants, untidy paths, and a modest prize. No text, no letters, no captions, no readable signs, no visible words."
+    }
+  ]
+}

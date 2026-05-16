@@ -1,0 +1,988 @@
+{
+  "total_duration": 495.174,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 17.72,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "想象你买了一台很贵的平板，快递一路都显示“正在运输”。你守在门口，看着盒子送到，可是一打开，里面不是平板，而是一堆旧纸和沙子。你守住了最后一步，但问题早就发生在前面的运输链里。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 18.07,
+      "end": 33.198,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的故事也是这样：机场、钻石、侦探、海关，听起来很电影化；但真正要读懂的是一条安全链。只看最后一个门，可能已经"
+        },
+        {
+          "lang": "en",
+          "text": "too late"
+        },
+        {
+          "lang": "zh",
+          "text": "，太晚了。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 33.548,
+      "end": 45.735,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "题目"
+        },
+        {
+          "lang": "en",
+          "text": "Too late"
+        },
+        {
+          "lang": "zh",
+          "text": "不是说“飞机迟到了”这么简单。飞机确实晚了，可真正“太晚”的是侦探：等他们打开包裹时，钻石已经不在里面了。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 46.085,
+      "end": 67.369,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事一开始："
+        },
+        {
+          "lang": "en",
+          "text": "The plane was late and detectives were waiting at the airport all morning."
+        },
+        {
+          "lang": "en",
+          "text": "detectives"
+        },
+        {
+          "lang": "zh",
+          "text": "是侦探，负责查线索、破案；"
+        },
+        {
+          "lang": "en",
+          "text": "airport"
+        },
+        {
+          "lang": "zh",
+          "text": "是机场。这里的重点是"
+        },
+        {
+          "lang": "en",
+          "text": "all morning"
+        },
+        {
+          "lang": "zh",
+          "text": "，他们不是等一小会儿，而是等了整整一上午。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 67.719,
+      "end": 91.566,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他们在等什么？"
+        },
+        {
+          "lang": "en",
+          "text": "They were expecting a valuable parcel of diamonds from South Africa."
+        },
+        {
+          "lang": "en",
+          "text": "parcel"
+        },
+        {
+          "lang": "zh",
+          "text": "是包裹，像现代快递盒；"
+        },
+        {
+          "lang": "en",
+          "text": "valuable"
+        },
+        {
+          "lang": "zh",
+          "text": "是贵重的；"
+        },
+        {
+          "lang": "en",
+          "text": "diamonds"
+        },
+        {
+          "lang": "zh",
+          "text": "是钻石；"
+        },
+        {
+          "lang": "en",
+          "text": "South Africa"
+        },
+        {
+          "lang": "zh",
+          "text": "是南非，离这里很远，所以这个包裹经过了一条很长的运输链。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 91.916,
+      "end": 116.835,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "几小时前，有人已经提醒警方："
+        },
+        {
+          "lang": "en",
+          "text": "thieves would try to steal the diamonds"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "thieves"
+        },
+        {
+          "lang": "zh",
+          "text": "是盗贼，"
+        },
+        {
+          "lang": "en",
+          "text": "steal"
+        },
+        {
+          "lang": "zh",
+          "text": "是偷走。飞机到了以后，一些侦探等在"
+        },
+        {
+          "lang": "en",
+          "text": "main building"
+        },
+        {
+          "lang": "zh",
+          "text": "，主楼里；另一些等在"
+        },
+        {
+          "lang": "en",
+          "text": "airfield"
+        },
+        {
+          "lang": "zh",
+          "text": "，停机坪，也就是飞机旁边、主楼外面的区域。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 117.185,
+      "end": 143.432,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "两个人把包裹从飞机上拿下来，送进"
+        },
+        {
+          "lang": "en",
+          "text": "Customs House"
+        },
+        {
+          "lang": "zh",
+          "text": "，也就是海关检查货物的地方。两个侦探在门口"
+        },
+        {
+          "lang": "en",
+          "text": "keeping guard"
+        },
+        {
+          "lang": "zh",
+          "text": "，把守；另外两个打开包裹。结果最反转："
+        },
+        {
+          "lang": "en",
+          "text": "the precious parcel was full of stones and sand"
+        },
+        {
+          "lang": "zh",
+          "text": "，珍贵的包裹里全是石头和沙子。侦探守住了最后的门，但钻石已经没了。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 143.782,
+      "end": 149.702,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课词很多，但不要当成一串单词背。我们把它们放进三组故事地图。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 150.052,
+      "end": 152.763,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组是机场和运输，对吗？"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 153.113,
+      "end": 176.636,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。第一组："
+        },
+        {
+          "lang": "en",
+          "text": "airport"
+        },
+        {
+          "lang": "zh",
+          "text": "机场，"
+        },
+        {
+          "lang": "en",
+          "text": "airfield"
+        },
+        {
+          "lang": "zh",
+          "text": "停机坪，"
+        },
+        {
+          "lang": "en",
+          "text": "main building"
+        },
+        {
+          "lang": "zh",
+          "text": "主楼，"
+        },
+        {
+          "lang": "en",
+          "text": "Customs House"
+        },
+        {
+          "lang": "zh",
+          "text": "海关检查货物的地方，还有"
+        },
+        {
+          "lang": "en",
+          "text": "South Africa"
+        },
+        {
+          "lang": "zh",
+          "text": "南非。它们告诉我们：这个包裹不是从隔壁房间拿来的，而是走过很长的路。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 176.986,
+      "end": 179.085,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组就是包裹本身？"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 179.435,
+      "end": 198.218,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。第二组："
+        },
+        {
+          "lang": "en",
+          "text": "valuable parcel"
+        },
+        {
+          "lang": "zh",
+          "text": "贵重包裹，"
+        },
+        {
+          "lang": "en",
+          "text": "precious"
+        },
+        {
+          "lang": "zh",
+          "text": "珍贵的，"
+        },
+        {
+          "lang": "en",
+          "text": "diamonds"
+        },
+        {
+          "lang": "zh",
+          "text": "钻石，最后却变成"
+        },
+        {
+          "lang": "en",
+          "text": "stones and sand"
+        },
+        {
+          "lang": "zh",
+          "text": "，石头和沙子。外面的盒子还在，里面的东西已经被换掉了。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 198.568,
+      "end": 200.823,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组是侦探动作？"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 201.173,
+      "end": 224.26,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "没错。第三组："
+        },
+        {
+          "lang": "en",
+          "text": "detectives"
+        },
+        {
+          "lang": "zh",
+          "text": "侦探在"
+        },
+        {
+          "lang": "en",
+          "text": "expecting"
+        },
+        {
+          "lang": "zh",
+          "text": "等待一个具体的包裹；他们知道"
+        },
+        {
+          "lang": "en",
+          "text": "thieves"
+        },
+        {
+          "lang": "zh",
+          "text": "盗贼可能会"
+        },
+        {
+          "lang": "en",
+          "text": "steal"
+        },
+        {
+          "lang": "zh",
+          "text": "偷钻石；于是他们"
+        },
+        {
+          "lang": "en",
+          "text": "keeping guard"
+        },
+        {
+          "lang": "zh",
+          "text": "，把守门口；最后"
+        },
+        {
+          "lang": "en",
+          "text": "opened the parcel"
+        },
+        {
+          "lang": "zh",
+          "text": "，打开包裹检查。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 224.61,
+      "end": 228.264,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这不是动作片，而是一个时间谜题？"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 228.614,
+      "end": 245.054,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "正是。故事的关键不是追逐，也不是危险场面，而是“发生顺序”。警告先来了，侦探等待了一上午，他们守住最后一步，可真正的调包可能发生在更早的运输链里。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 245.404,
+      "end": 250.127,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "像快递盒到了门口，我们不能只看外包装，还要开箱验货？"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 250.477,
+      "end": 264.837,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。现代桥就是这个：一个贵重物品经历很多环节，最后送到你手里。你可以看物流、看监控、看门口，但还要检查里面。只守最后一个门，不等于守住整条链。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 265.187,
+      "end": 270.861,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "To their surprise"
+        },
+        {
+          "lang": "zh",
+          "text": "是最后揭晓答案的声音。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 271.211,
+      "end": 284.127,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "很好。"
+        },
+        {
+          "lang": "en",
+          "text": "To their surprise"
+        },
+        {
+          "lang": "zh",
+          "text": "意思是“令他们吃惊的是”。这句话一出现，故事就翻面了：他们以为盗贼会来偷，结果钻石早已经不在包裹里。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 284.476,
+      "end": 288.844,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The plane was late and detectives were waiting at the airport all morning."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 289.194,
+      "end": 293.778,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "They were expecting a valuable parcel of diamonds from South Africa."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 294.128,
+      "end": 299.696,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A few hours earlier, someone had told the police that thieves would try to steal the diamonds."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 300.046,
+      "end": 306.766,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When the plane arrived, some of the detectives were waiting inside the main building while others were waiting on the airfield."
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 307.116,
+      "end": 311.796,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Two men took the parcel off the plane and carried it into the Customs House."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 312.146,
+      "end": 317.162,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "While two detectives were keeping guard at the door, two others opened the parcel."
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 317.512,
+      "end": 322.288,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "To their surprise, the precious parcel was full of stones and sand!"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 322.638,
+      "end": 325.445,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "detective"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "detective"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 325.795,
+      "end": 327.499,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "detective"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "detective"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 327.849,
+      "end": 342.353,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "detective"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "detective"
+        },
+        {
+          "lang": "zh",
+          "text": "是“侦探”。他不是随便站岗的人，而是会根据线索调查、判断、破案的人。课文里用复数"
+        },
+        {
+          "lang": "en",
+          "text": "detectives"
+        },
+        {
+          "lang": "zh",
+          "text": "，因为有好几个侦探在机场不同位置等待。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 342.703,
+      "end": 345.359,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "parcel"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "parcel"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 345.709,
+      "end": 347.317,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "parcel"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "parcel"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 347.666,
+      "end": 363.13,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "parcel"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "parcel"
+        },
+        {
+          "lang": "zh",
+          "text": "就是“包裹”，可以直接想成快递包裹。课文里的"
+        },
+        {
+          "lang": "en",
+          "text": "a valuable parcel of diamonds"
+        },
+        {
+          "lang": "zh",
+          "text": "，就是一个装着钻石的贵重包裹。外面是包裹，关键是里面到底装着什么。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 363.48,
+      "end": 367.28,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "keep"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个重点短语："
+        },
+        {
+          "lang": "en",
+          "text": "keep guard"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 367.63,
+      "end": 369.334,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "keep"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "keep guard"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 369.684,
+      "end": 390.908,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "keep"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "keep guard"
+        },
+        {
+          "lang": "zh",
+          "text": "的意思是“把守、看守、保护某个地方或东西”。课文说两个侦探"
+        },
+        {
+          "lang": "en",
+          "text": "were keeping guard at the door"
+        },
+        {
+          "lang": "zh",
+          "text": "，他们守在门口，防止有人进去或偷走东西。注意，守门只保护最后一步；如果包裹早就被换了，守门也救不回来。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 391.257,
+      "end": 432.757,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法也不要背成时态表，要当成侦探片的三只钟来看。第一只钟是“更早以前”："
+        },
+        {
+          "lang": "en",
+          "text": "someone had told the police"
+        },
+        {
+          "lang": "zh",
+          "text": "，有人已经告诉过警方，这个提醒发生在飞机到达之前。第二只钟是“当时正在发生”："
+        },
+        {
+          "lang": "en",
+          "text": "detectives were waiting"
+        },
+        {
+          "lang": "zh",
+          "text": "，一些人在主楼等，另一些人在停机坪等。第三只钟是“他们以为接下来会发生什么”："
+        },
+        {
+          "lang": "en",
+          "text": "thieves would try to steal the diamonds"
+        },
+        {
+          "lang": "zh",
+          "text": "，他们以为盗贼将要偷钻石。最后真相出现："
+        },
+        {
+          "lang": "en",
+          "text": "the parcel was full of stones and sand"
+        },
+        {
+          "lang": "zh",
+          "text": "。这时我们才明白，真正的偷换早就可能发生了。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 433.107,
+      "end": 450.987,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天这个“整条安全链”放进现代快递场景。下面三个空都要填：开箱、守门、最后发现不对。你从 word bank 里选短语。重点不是制造危险，而是学会说清楚：包裹看起来到了，但里面可能早就被换了。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 451.336,
+      "end": 463.504,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "比如老师买相机时，不会只看快递员有没有送到门口，还会当场开箱检查。英文可以这样想："
+        },
+        {
+          "lang": "en",
+          "text": "The box looked normal, but the inside told the real story."
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 463.854,
+      "end": 495.174,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：第一步听课文全文，第二步点核心句的原音，第三步录自己读一遍，第四步看一句小反馈、再试一次。读顺以后，再做 ① 生活场景，把快递开箱和安全链放进自己的小故事里；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。加油、"
+        },
+        {
+          "lang": "en",
+          "text": "you can do it"
+        },
+        {
+          "lang": "zh",
+          "text": "！"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 7
+}

@@ -1,0 +1,43 @@
+{
+  "lesson_id": 11,
+  "title": "One good turn deserves another",
+  "question": "把今天课文里“借入、借出、还回去、替某个东西付款”的方向放进同学借文具、朋友垫小钱和公平付款场景——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景的空都填上、用 word bank 里的短语。",
+  "example_answer": "I forgot my pen, so I asked Jack if I could borrow one from him. If I borrow something, I should pay it back or return it.",
+  "word_bank": [
+    "borrow",
+    "borrow one from him",
+    "lend",
+    "lend her twenty yuan",
+    "from him",
+    "pay me back",
+    "pay it back",
+    "salary",
+    "immediately",
+    "pay for",
+    "pay for his drink",
+    "good turn",
+    "deserves another",
+    "to my surprise"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "借入方向：我忘带笔，所以问 Jack 能不能从他那里借一支",
+      "english_template": "I forgot my pen, so I asked Jack if I could ___.",
+      "expected_phrase": "borrow one from him"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "借出和还钱：朋友让我先借给她二十元，并说明天还我",
+      "english_template": "My friend asked me to ___, and she promised to pay me back tomorrow.",
+      "expected_phrase": "lend her twenty yuan"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "公平付款：Sam 用“礼尚往来”当理由，让别人替他买饮料",
+      "english_template": "Sam did one good turn for me and said one good turn deserves another. Then he asked me to ___.",
+      "expected_phrase": "pay for his drink"
+    }
+  ],
+  "mode": "all_fills"
+}

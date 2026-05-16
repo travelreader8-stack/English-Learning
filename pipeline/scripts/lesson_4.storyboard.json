@@ -1,0 +1,22 @@
+{
+  "lesson_id": 4,
+  "title": "An exciting trip",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "A cozy home interior where a young narrator has just received a long-distance update from an older brother. On the table are a sealed envelope, a smartphone showing only abstract colored message bubbles with no readable symbols, and a folded map shape with simple route marks but no letters or labels. The child looks curious as the small home scene opens toward a larger world. No text, no letters, no captions, no readable map labels, no visible words."
+    },
+    {
+      "frame": 2,
+      "prompt": "Tim working as an engineer in Australia in a child-safe professional setting, wearing simple work clothes and a safety vest while examining a machine panel or construction plan with friendly coworkers nearby. The setting suggests a large firm through organized equipment, clean work tables, and a bright modern workspace, without logos, signs, labels, or readable writing. Warm, confident, work-life mood. No text, no letters, no captions, no visible words."
+    },
+    {
+      "frame": 3,
+      "prompt": "A stylized Australia travel scene with a simplified map-like landscape and a small car route moving through desert, coast, and distant city silhouettes. Three destination points are suggested by plain colored dots and landmark shapes, but there are no labels, no readable map text, and no written symbols. The feeling is movement across a huge country, with warm red earth, blue sky, and open space. No text, no letters, no captions, no visible words."
+    },
+    {
+      "frame": 4,
+      "prompt": "Tim standing in a wide Australian landscape at sunset, near a small car on an open road, looking amazed and happy as if this is his first big trip abroad. The scene feels expansive and world-opening, with distant hills, huge sky, warm light, and a sense that the map of his life has become much larger. No text, no letters, no captions, no visible words."
+    }
+  ]
+}

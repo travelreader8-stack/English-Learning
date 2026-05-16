@@ -1,0 +1,72 @@
+{
+  "lesson_id": 3,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把拖延感最强的几句读顺。",
+  "sentences": [
+    {
+      "id": "l3_s1",
+      "text": "Postcards always spoil my holidays.",
+      "focus_zh": "注意 always spoil my holidays 的重音。",
+      "start": 204.119,
+      "end": 207.239,
+      "focus_words": [
+        "Postcards",
+        "always",
+        "spoil",
+        "holidays"
+      ]
+    },
+    {
+      "id": "l3_s2",
+      "text": "A friendly waiter taught me a few words of Italian.",
+      "focus_zh": "把 a few words of Italian 连起来读。",
+      "start": 214.816,
+      "end": 218.392,
+      "focus_words": [
+        "friendly",
+        "waiter",
+        "taught",
+        "Italian"
+      ]
+    },
+    {
+      "id": "l3_s3",
+      "text": "I read a few lines, but I did not understand a word.",
+      "focus_zh": "but 后面稍停，突出 did not understand a word。",
+      "start": 221.324,
+      "end": 225.14,
+      "focus_words": [
+        "read",
+        "lines",
+        "understand",
+        "word"
+      ]
+    },
+    {
+      "id": "l3_s4",
+      "text": "On the last day I made a big decision.",
+      "focus_zh": "made a big decision 要读出一点郑重感。",
+      "start": 233.558,
+      "end": 236.606,
+      "focus_words": [
+        "last",
+        "made",
+        "big",
+        "decision"
+      ]
+    },
+    {
+      "id": "l3_s5",
+      "text": "I spent the whole day in my room, but I did not write a single card!",
+      "focus_zh": "注意 the whole day 和 not a single card 两个重点。",
+      "start": 240.593,
+      "end": 245.249,
+      "focus_words": [
+        "spent",
+        "whole",
+        "single",
+        "card"
+      ]
+    }
+  ]
+}

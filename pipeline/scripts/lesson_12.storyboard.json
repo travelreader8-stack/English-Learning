@@ -1,0 +1,22 @@
+{
+  "lesson_id": 12,
+  "title": "Goodbye and good luck",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Portsmouth as an English harbour city in early morning: a coastal harbour with small working boats, soft light over the water, and a small group of neighbours preparing to send off a captain. The scene should feel like a real departure point connected to ships and sea, not a park lake or riverside. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 2,
+      "prompt": "Captain Charles Alison beside a small but serious sailing boat at the harbour, checking simple sailing gear before departure. The captain looks capable and calm, and the boat feels experienced and famous without looking like a luxury yacht or cruise ship. No readable boat name, no text, no letters, no captions, no visible words."
+    },
+    {
+      "frame": 3,
+      "prompt": "A supportive send-off before eight o'clock: neighbours and friends gather near the small sailing boat, smiling, waving, and wishing the captain good luck. The mood is proud and warm, not sad or tragic. Include a sense of enough time before departure through relaxed gestures and early morning light. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 4,
+      "prompt": "The small sailing boat heading from the harbour toward open sea, with wide water and distant horizon suggesting the long Atlantic challenge ahead. The image should feel brave, prepared, and outward-looking, like the start of an important ocean race. No text, no letters, no captions, no readable signs, no visible words."
+    }
+  ]
+}

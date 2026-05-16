@@ -1,0 +1,22 @@
+{
+  "lesson_id": 6,
+  "title": "Percy Buttons",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "An old British residential street with small brick houses opening directly toward the road, not a modern apartment corridor. An adult newcomer stands near one doorway with a few moving boxes and a suitcase, looking curious and slightly unsure. The street feels quiet, friendly, and lived-in. No readable signs, house numbers, labels, captions, letters, or visible words."
+    },
+    {
+      "frame": 2,
+      "prompt": "A respectful doorway scene at an old street house: an adult narrator opens the front door while Percy Buttons stands outside asking politely. Percy looks like a regular local visitor, humble but dignified, not frightening or mocked. The door opens directly toward the street with neighbouring houses visible. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 3,
+      "prompt": "Percy Buttons performs his strange exchange in a warm observational way: he is standing carefully on his head and singing, while the adult narrator watches with surprised kindness from the doorway. The scene should feel odd and lightly comic but humane, never cruel or dehumanizing. Old British street-house setting. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 4,
+      "prompt": "A neighbour gently explains the routine to the newcomer on the old British street. The neighbour gestures calmly toward Percy walking away as a familiar monthly visitor, while several residents in the background recognize him with mild friendly expressions. The mood is small-community recognition and a newcomer learning local rules. No text, no letters, no captions, no readable signs, no visible words."
+    }
+  ]
+}

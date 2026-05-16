@@ -1,0 +1,39 @@
+{
+  "lesson_id": 12,
+  "title": "Goodbye and good luck",
+  "question": "把今天课文里“重要出发、送行、祝福和为别人骄傲”的线索放进机场送行、学校比赛和长时间离开的场景——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景各填一个空、用 word bank 里的短语。",
+  "example_answer": "My cousin will set out early tomorrow, so we will say goodbye and wish her good luck. She will take part in an important race, and we are proud of her.",
+  "word_bank": [
+    "will set out",
+    "harbour",
+    "say goodbye",
+    "good luck",
+    "proud of",
+    "take part in",
+    "important race",
+    "plenty of time",
+    "be away for",
+    "sail"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "机场送行：表姐明天很早出发，所以我们去机场告别并祝她好运",
+      "english_template": "My cousin ___ early tomorrow, so we will go to the airport to say goodbye and wish her good luck.",
+      "expected_phrase": "will set out"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "学校比赛：朋友下个月要参加重要比赛，全班都为他骄傲",
+      "english_template": "My friend will take part in an important race next month, and our class is very ___ him.",
+      "expected_phrase": "proud of"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "长时间离开：爸爸要离开三周，但出发前我们有充裕时间见他",
+      "english_template": "Dad will ___ three weeks, but we have plenty of time to see him before he leaves.",
+      "expected_phrase": "be away for"
+    }
+  ],
+  "mode": "all_fills"
+}

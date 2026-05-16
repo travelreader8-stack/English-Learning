@@ -1,0 +1,118 @@
+{
+  "lesson_id": 11,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把借钱方向、托尼的背景和最后的饭钱反转读顺。",
+  "sentences": [
+    {
+      "id": "l11_s1",
+      "text": "I was having dinner at a restaurant when Tony Steele came in.",
+      "focus_zh": "was having dinner 是背景动作，when Tony Steele came in 是托尼突然进入这个场景。",
+      "start": 251.175,
+      "end": 255.183,
+      "focus_words": [
+        "was",
+        "having",
+        "restaurant",
+        "when",
+        "came"
+      ]
+    },
+    {
+      "id": "l11_s2",
+      "text": "Tony worked in a lawyer's office years ago, but he is now working at a bank.",
+      "focus_zh": "worked years ago 和 is now working 对比托尼以前和现在的工作。",
+      "start": 255.533,
+      "end": 260.501,
+      "focus_words": [
+        "worked",
+        "lawyer's",
+        "years",
+        "now",
+        "bank"
+      ]
+    },
+    {
+      "id": "l11_s3",
+      "text": "He gets a good salary, but he always borrows money from his friends and never pays it back.",
+      "focus_zh": "good salary 说明他有收入；borrows money from 和 never pays it back 是公平问题。",
+      "start": 260.851,
+      "end": 266.347,
+      "focus_words": [
+        "salary",
+        "borrows",
+        "from",
+        "friends",
+        "pays"
+      ]
+    },
+    {
+      "id": "l11_s4",
+      "text": "Tony saw me and came and sat at the same table.",
+      "focus_zh": "saw, came, sat 是连续动作，读得干净一点，像讲故事推进。",
+      "start": 266.697,
+      "end": 270.129,
+      "focus_words": [
+        "saw",
+        "came",
+        "sat",
+        "same",
+        "table"
+      ]
+    },
+    {
+      "id": "l11_s5",
+      "text": "He has never borrowed money from me.",
+      "focus_zh": "has never borrowed 是到现在为止从来没有；from me 是结尾笑点的设置。",
+      "start": 270.479,
+      "end": 273.311,
+      "focus_words": [
+        "has",
+        "never",
+        "borrowed",
+        "from",
+        "me"
+      ]
+    },
+    {
+      "id": "l11_s6",
+      "text": "While he was eating, I asked him to lend me twenty pounds.",
+      "focus_zh": "While he was eating 是同时发生；lend me twenty pounds 是让托尼把钱借给我。",
+      "start": 273.661,
+      "end": 277.549,
+      "focus_words": [
+        "While",
+        "eating",
+        "asked",
+        "lend",
+        "pounds"
+      ]
+    },
+    {
+      "id": "l11_s7",
+      "text": "To my surprise, he gave me the money immediately.",
+      "focus_zh": "To my surprise 要读出意外；immediately 表示托尼立刻给钱，反而让结尾更讽刺。",
+      "start": 277.898,
+      "end": 281.498,
+      "focus_words": [
+        "surprise",
+        "gave",
+        "money",
+        "immediately"
+      ]
+    },
+    {
+      "id": "l11_s8",
+      "text": "'I have never borrowed any money from you,' Tony said, 'so now you can pay for my dinner!'",
+      "focus_zh": "读清楚 quotation 的两段：从未向你借过钱，所以现在你可以替我付饭钱。",
+      "start": 281.848,
+      "end": 287.248,
+      "focus_words": [
+        "never",
+        "borrowed",
+        "from",
+        "pay",
+        "dinner"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "lesson_id": 10,
+  "title": "Not for jazz",
+  "question": "把今天课文里“老物件、正确用法、损坏后的边界”放进旧相机、旧键盘和家庭规则——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景各填一个空、用 word bank 里的短语。",
+  "example_answer": "This old camera has belonged to my family for many years, so we use it carefully. It was damaged once, and now we are not allowed to touch it without asking.",
+  "word_bank": [
+    "musical instrument",
+    "clavichord",
+    "was made",
+    "has belonged to",
+    "damaged",
+    "keys",
+    "strings",
+    "shocked",
+    "not allowed to touch",
+    "being repaired"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "老家庭物件：旧相机一直属于家里，所以要小心用",
+      "english_template": "This old camera ___ my family for many years, so we use it carefully.",
+      "expected_phrase": "has belonged to"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "错误使用：旧键盘被人按得太用力，所以受损",
+      "english_template": "The old keyboard was ___ because someone pressed the keys too hard.",
+      "expected_phrase": "damaged"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "新规则：两根弦断了以后，家里不让孩子随便碰",
+      "english_template": "After two strings were broken, we are ___ it without asking.",
+      "expected_phrase": "not allowed to touch"
+    }
+  ],
+  "mode": "all_fills"
+}

@@ -1,0 +1,37 @@
+{
+  "lesson_id": 6,
+  "title": "Percy Buttons",
+  "question": "把今天课文里「新搬来的人还不知道本地惯例」放进现代安全场景——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景的空都填上、用 word bank 里的短语。",
+  "example_answer": "I have just moved to this building. When someone knocked at my door, I asked my dad to answer it. Later my neighbour said, \"Everybody knows him.\"",
+  "word_bank": [
+    "have just moved",
+    "knocked at my door",
+    "in return for this",
+    "everybody knows him",
+    "calls at",
+    "once a month",
+    "always asks",
+    "told me about him"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "刚搬到新小区、还不认识门口的人",
+      "english_template": "I ___ to this building, so I do not know the people near the gate yet.",
+      "expected_phrase": "have just moved"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "有人敲门、先请大人处理",
+      "english_template": "Someone ___, so I asked my dad to answer it.",
+      "expected_phrase": "knocked at my door"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "邻居解释这是大家都认识的熟人",
+      "english_template": "My neighbour said, \"___,\" so I knew this was a local routine.",
+      "expected_phrase": "everybody knows him"
+    }
+  ],
+  "mode": "all_fills"
+}

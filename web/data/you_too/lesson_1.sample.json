@@ -1,0 +1,28 @@
+{
+  "lesson_id": 1,
+  "title": "A private conversation",
+  "question": "上次你被吵到没法专心是什么时候？请你想一下当时的感受，挑一个最像你的选项；如果都不对，可以自己写一句。",
+  "example_answer": "比如老师上次坐地铁，[EN]A man was talking very loudly[/EN]，我 [EN]got very angry[/EN]，但 I [EN]did not say anything[/EN]——你呢？",
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "妈妈进屋叫我吃饭，可我正在打游戏的关键时刻——我 got angry，但没说话。",
+      "english_phrase": "I got angry but I didn't say anything."
+    },
+    {
+      "label": "B",
+      "scenario_zh": "同桌一直问我题，可我正在做卷子——我 got very angry，下课告诉了她。",
+      "english_phrase": "I got very angry but I told her later."
+    },
+    {
+      "label": "C",
+      "scenario_zh": "楼下邻居装修很吵，我做不了作业——I got angry，但妈妈说没办法。",
+      "english_phrase": "I got angry, but my mom said it was normal."
+    },
+    {
+      "label": "D",
+      "scenario_zh": "自己写一句（最好用上 got angry）",
+      "english_phrase": null
+    }
+  ]
+}

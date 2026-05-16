@@ -1,0 +1,39 @@
+{
+  "lesson_id": 9,
+  "title": "A cold welcome",
+  "question": "把今天课文里“公共倒计时失灵”放进广场大屏、旧式大钟和跨年笑点——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景各填一个空、用 word bank 里的短语。",
+  "example_answer": "A large crowd gathered in the square to watch the countdown screen. It stopped at the last moment, but everyone still began to laugh and sing.",
+  "word_bank": [
+    "Town Hall",
+    "crowd",
+    "gathered",
+    "strike twelve",
+    "five to twelve",
+    "minute hand",
+    "two minutes past twelve",
+    "refused to welcome",
+    "laugh and sing",
+    "countdown screen"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "公共倒计时：人群聚在广场看大屏",
+      "english_template": "A large crowd had gathered in the square to watch the ___.",
+      "expected_phrase": "countdown screen"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "旧式大钟：11:55 时分针停住",
+      "english_template": "At five to twelve, the big clock stopped, and the ___ did not move.",
+      "expected_phrase": "minute hand"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "新年笑点：已经过了零点，大家转为欢笑",
+      "english_template": "When someone saw it was already two minutes past twelve, everybody began to ___.",
+      "expected_phrase": "laugh and sing"
+    }
+  ],
+  "mode": "all_fills"
+}

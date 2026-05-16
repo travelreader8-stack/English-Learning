@@ -1,0 +1,37 @@
+{
+  "lesson_id": 1,
+  "title": "A private conversation",
+  "question": "把今天课文的情绪、放进你自己最近一次类似的经历——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景的空都填上、用 word bank 里的短语。",
+  "example_answer": "老师上周备课的时候，邻居家小孩在外面一直尖叫，[EN]I got very angry[/EN]，但 [EN]I did not say anything[/EN]——你呢？",
+  "word_bank": [
+    "got angry",
+    "talking loudly",
+    "did not say anything",
+    "did not pay any attention",
+    "could not bear it",
+    "angrily",
+    "rudely",
+    "private"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "妈妈打断游戏喊吃饭",
+      "english_template": "At home, my mom called me to dinner when I was playing a game. I got very angry, but I ___ to her.",
+      "expected_phrase": "did not say anything"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "上课同桌打扰",
+      "english_template": "My classmate kept asking me questions when I was taking a test. I got very angry, and I ___ to him.",
+      "expected_phrase": "did not pay any attention"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "邻居一大早大声喧哗",
+      "english_template": "My neighbors were ___ in the morning, and I could not sleep.",
+      "expected_phrase": "talking loudly"
+    }
+  ],
+  "mode": "all_fills"
+}
