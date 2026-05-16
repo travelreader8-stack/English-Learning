@@ -250,7 +250,11 @@ const renderers = {
       <div class="scene scene-passage">
         <div class="passage-meta">
           <span class="speaker-pill" data-speaker="${line.speaker}">${c.emoji} ${c.name}</span>
-          <span class="passage-tag">${speedLabel} 跟读 · 点哪句听哪句</span>
+          <span class="passage-tag">${speedLabel} 跟读</span>
+        </div>
+        <div class="passage-guidance">
+          <div class="passage-guidance-title">课文朗读</div>
+          <div class="passage-guidance-text">点击任意英文句子，只听这一句。听不清就点它，再听一遍。</div>
         </div>
         <div class="passage-text">${sentencesHtml || `<span class="passage-sent current">${escapeHtml(currentEn)}</span>`}</div>
       </div>

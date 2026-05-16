@@ -1274,6 +1274,21 @@ input:disabled {
   padding: 4px 10px;
   border-radius: 999px;
 }
+.passage-guidance {
+  margin-bottom: 14px;
+}
+.passage-guidance-title {
+  font-size: 22px;
+  line-height: 1.25;
+  font-weight: 750;
+  color: var(--ink);
+  margin-bottom: 4px;
+}
+.passage-guidance-text {
+  font-size: 15px;
+  line-height: 1.45;
+  color: var(--ink-soft);
+}
 .passage-text {
   font-family: var(--font-en);
   font-size: 19px;
