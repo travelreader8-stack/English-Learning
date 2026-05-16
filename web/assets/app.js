@@ -22,6 +22,35 @@ function getToken() {
   return getQuery("k") || localStorage.getItem(TOKEN_KEY) || "";
 }
 
+async function validateToken() {
+  const token = getToken();
+  if (!token) {
+    showBlockingError("请先在课程列表输入学生口令，再打开课程。");
+    return false;
+  }
+
+  try {
+    const r = await fetch("/api/auth", {
+      method: "POST",
+      headers: { "content-type": "application/json" },
+      body: JSON.stringify({ token }),
+    });
+    if (r.ok) return true;
+
+    let msg = "口令不正确，请回到课程列表重新输入。";
+    try {
+      const j = await r.json();
+      if (j.error) msg = j.error;
+    } catch {}
+    localStorage.removeItem(TOKEN_KEY);
+    showBlockingError(msg);
+    return false;
+  } catch (e) {
+    showBlockingError(`暂时无法校验口令：${e.message}`);
+    return false;
+  }
+}
+
 async function loadLessons() {
   for (const url of [LESSONS_URL, LESSONS_FALLBACK_URL]) {
     const r = await fetch(url, { cache: "no-cache" });
@@ -1767,6 +1796,20 @@ function showError(msg) {
   setTimeout(() => { eb.hidden = true; }, 6000);
 }
 
+function showBlockingError(msg) {
+  const title = $("#lesson-title");
+  if (title) title.textContent = "需要学生口令";
+
+  const eb = $("#error-block");
+  eb.textContent = msg;
+  eb.append(" ");
+  const link = document.createElement("a");
+  link.href = "/";
+  link.textContent = "返回课程列表";
+  eb.append(link);
+  eb.hidden = false;
+}
+
 // ─── Wire up ──────────────────────────────────────────────
 function bindEvents() {
   document.addEventListener("click", (ev) => {
@@ -1836,6 +1879,11 @@ async function main() {
     return;
   }
 
+  const urlToken = getQuery("k");
+  if (urlToken) localStorage.setItem(TOKEN_KEY, urlToken);
+  const tokenOk = await validateToken();
+  if (!tokenOk) return;
+
   let lessons;
   try {
     lessons = await loadLessons();
@@ -1850,9 +1898,6 @@ async function main() {
     return;
   }
   state.lesson = lesson;
-
-  const urlToken = getQuery("k");
-  if (urlToken) localStorage.setItem(TOKEN_KEY, urlToken);
 
   restoreSession();
   bindEvents();

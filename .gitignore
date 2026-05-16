@@ -5,6 +5,7 @@
 web/.env.local
 
 .vercel/
+.playwright-cli/
 node_modules/
 web/node_modules/
 

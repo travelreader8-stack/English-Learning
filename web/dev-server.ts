@@ -3,7 +3,7 @@
  *
  * 同时做两件事：
  *   1. 静态服务 web/ 下所有文件（HTML/JS/CSS/MP3/WebP/JSON 等）
- *   2. 把 /api/grade、/api/pronunciation 和 /api/finish 路由到我们真正的 Vercel handler（直接跑 .ts）
+ *   2. 把 /api/auth、/api/grade、/api/pronunciation 和 /api/finish 路由到我们真正的 Vercel handler（直接跑 .ts）
  *
  * 用法：
  *   cd web
@@ -176,10 +176,12 @@ async function main() {
   await loadEnvLocal();
 
   // 动态导入 API handler（让 tsx 处理 TS）
+  const authMod = await import("./api/auth.ts");
   const gradeMod = await import("./api/grade.ts");
   const pronunciationMod = await import("./api/pronunciation.ts");
   const finishMod = await import("./api/finish.ts");
   const overallMod = await import("./api/overall-summary.ts");
+  const authHandler = authMod.default;
   const gradeHandler = gradeMod.default;
   const pronunciationHandler = pronunciationMod.default;
   const finishHandler = finishMod.default;
@@ -201,6 +203,21 @@ async function main() {
     }
 
     // API 路由
+    if (url.startsWith("/api/auth") && method === "POST") {
+      const body = await readBody(req);
+      const { req: vReq, res: vRes } = adaptToVercelReqRes(req, res, body);
+      try {
+        await authHandler(vReq, vRes);
+      } catch (e: any) {
+        if (!res.headersSent) {
+          res.statusCode = 500;
+          res.setHeader("Content-Type", "application/json; charset=utf-8");
+          res.end(JSON.stringify({ error: e.message ?? String(e) }));
+        }
+      }
+      return;
+    }
+
     if (url.startsWith("/api/grade") && method === "POST") {
       const body = await readBody(req);
       const { req: vReq, res: vRes } = adaptToVercelReqRes(req, res, body);
@@ -275,7 +292,7 @@ async function main() {
   server.listen(PORT, "127.0.0.1", () => {
     console.log(`\n🚀 dev-server 已启动 → http://127.0.0.1:${PORT}/`);
     console.log(`   静态：web/* (HTML/JS/CSS/MP3/WebP)`);
-    console.log(`   API ：/api/grade, /api/pronunciation, /api/finish`);
+    console.log(`   API ：/api/auth, /api/grade, /api/pronunciation, /api/finish`);
     console.log(`   环境变量：`);
     console.log(`     DEEPSEEK_API_KEY = ${process.env.DEEPSEEK_API_KEY ? "✅ 已配" : "❌ 未配（AI 评分会失败）"}`);
     console.log(`     RESEND_API_KEY   = ${process.env.RESEND_API_KEY ? "✅ 已配" : "⚠️  未配（邮件会跳过）"}`);
