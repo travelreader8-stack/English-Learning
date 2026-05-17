@@ -1,0 +1,1874 @@
+{
+  "total_duration": 695.809,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 10.76,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你吃完饭，准备付钱，突然发现包不见了。你会紧张吗？当然会。因为没有包，就可能没有钱包，也就不能"
+        },
+        {
+          "lang": "en",
+          "text": "pay the bill"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 11.11,
+      "end": 23.885,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "He often does this!"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“他经常干这种事！”这里的"
+        },
+        {
+          "lang": "en",
+          "text": "he"
+        },
+        {
+          "lang": "zh",
+          "text": "不是人，而是一只调皮的狗。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 24.235,
+      "end": 42.443,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先把旧场景接到现在。课文里的"
+        },
+        {
+          "lang": "en",
+          "text": "village pub"
+        },
+        {
+          "lang": "zh",
+          "text": "不是现代城市夜店，也不是只喝酒的地方。在这个故事里，它更像英国乡村里的小餐馆加社区空间：可以吃午饭，老板也熟悉这里的人和动物。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 42.793,
+      "end": 61.06,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "landlord"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里也不是收房租的房东，而是经营这家"
+        },
+        {
+          "lang": "en",
+          "text": "pub"
+        },
+        {
+          "lang": "zh",
+          "text": "的人，也就是"
+        },
+        {
+          "lang": "en",
+          "text": "pub owner"
+        },
+        {
+          "lang": "zh",
+          "text": "或"
+        },
+        {
+          "lang": "en",
+          "text": "manager"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "bill"
+        },
+        {
+          "lang": "zh",
+          "text": "是吃完饭要付的"
+        },
+        {
+          "lang": "en",
+          "text": "meal bill"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 61.41,
+      "end": 72.41,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这篇故事不是惊险偷窃，而是一个轻松误会：客人以为包丢了，付不了饭钱；老板却笑了，因为他知道，那只狗又把东西叼到花园里去了。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 72.76,
+      "end": 85.64,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天要抓住这条链："
+        },
+        {
+          "lang": "en",
+          "text": "missing thing, worry, explanation, familiar habit, relief"
+        },
+        {
+          "lang": "zh",
+          "text": "。东西不见了，先紧张；知道原因以后，才发现只是熟悉的小麻烦。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 85.99,
+      "end": 99.853,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，"
+        },
+        {
+          "lang": "en",
+          "text": "narrator"
+        },
+        {
+          "lang": "zh",
+          "text": "在一个温暖的"
+        },
+        {
+          "lang": "en",
+          "text": "village pub"
+        },
+        {
+          "lang": "zh",
+          "text": "吃完午饭。课文第一句说："
+        },
+        {
+          "lang": "en",
+          "text": "After I had had lunch at a village pub, I looked for my bag."
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 100.203,
+      "end": 116.143,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意这里有两个"
+        },
+        {
+          "lang": "en",
+          "text": "had"
+        },
+        {
+          "lang": "zh",
+          "text": "。第一个"
+        },
+        {
+          "lang": "en",
+          "text": "had"
+        },
+        {
+          "lang": "zh",
+          "text": "帮助组成"
+        },
+        {
+          "lang": "en",
+          "text": "past perfect"
+        },
+        {
+          "lang": "zh",
+          "text": "，第二个"
+        },
+        {
+          "lang": "en",
+          "text": "had lunch"
+        },
+        {
+          "lang": "zh",
+          "text": "是“吃午饭”。先吃完午饭，后来才开始找包。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 116.492,
+      "end": 125.468,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "narrator"
+        },
+        {
+          "lang": "zh",
+          "text": "记得很清楚："
+        },
+        {
+          "lang": "en",
+          "text": "I had left it on a chair beside the door."
+        },
+        {
+          "lang": "zh",
+          "text": "他之前把包放在门边的椅子上。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 125.818,
+      "end": 133.61,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，问题来了。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "and now it wasn't there!"
+        },
+        {
+          "lang": "zh",
+          "text": "包现在不在那里了。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 133.96,
+      "end": 145.159,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他正在找包的时候，"
+        },
+        {
+          "lang": "en",
+          "text": "landlord"
+        },
+        {
+          "lang": "zh",
+          "text": "进来了，问："
+        },
+        {
+          "lang": "en",
+          "text": "Did you have a good meal?"
+        },
+        {
+          "lang": "zh",
+          "text": "这是一句很普通的饭后问候：吃得好吗？"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 145.509,
+      "end": 158.789,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "narrator"
+        },
+        {
+          "lang": "zh",
+          "text": "很尴尬地回答："
+        },
+        {
+          "lang": "en",
+          "text": "Yes, thank you, but I can't pay the bill. I haven't got my bag."
+        },
+        {
+          "lang": "zh",
+          "text": "他不是想赖账，而是真的没有包，没法付饭钱。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 159.139,
+      "end": 167.275,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，最有意思的反应出现了。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The landlord smiled and immediately went out."
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 167.625,
+      "end": 180.193,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果是陌生地方，老板可能会紧张。可是这个"
+        },
+        {
+          "lang": "en",
+          "text": "landlord smiled"
+        },
+        {
+          "lang": "zh",
+          "text": "。他笑了，不是因为客人倒霉，而是因为他大概已经猜到发生了什么。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 180.542,
+      "end": 192.678,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "immediately"
+        },
+        {
+          "lang": "zh",
+          "text": "是马上、立刻。他没有审问客人，也没有报警，而是直接往外走，很可能是去"
+        },
+        {
+          "lang": "en",
+          "text": "garden"
+        },
+        {
+          "lang": "zh",
+          "text": "找答案。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 193.028,
+      "end": 206.372,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，答案揭晓。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "In a few minutes he returned with my bag and gave it back to me."
+        },
+        {
+          "lang": "zh",
+          "text": "几分钟后，他拿着包回来了，并把包还给"
+        },
+        {
+          "lang": "en",
+          "text": "narrator"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 206.722,
+      "end": 215.354,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后他说："
+        },
+        {
+          "lang": "en",
+          "text": "I'm very sorry. My dog had taken it into the garden. He often does this!"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 215.703,
+      "end": 225.055,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "我们在学生侧把这句读成"
+        },
+        {
+          "lang": "en",
+          "text": "My dog had taken it into the garden."
+        },
+        {
+          "lang": "zh",
+          "text": "因为意思很清楚：狗把包叼到花园里去了。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 225.405,
+      "end": 241.153,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "标题的笑点就在这里："
+        },
+        {
+          "lang": "en",
+          "text": "He often does this!"
+        },
+        {
+          "lang": "zh",
+          "text": "对"
+        },
+        {
+          "lang": "en",
+          "text": "narrator"
+        },
+        {
+          "lang": "zh",
+          "text": "来说是一次小惊吓；对"
+        },
+        {
+          "lang": "en",
+          "text": "landlord"
+        },
+        {
+          "lang": "zh",
+          "text": "来说，是家里那只狗又干了熟悉的小坏事。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 241.503,
+      "end": 254.142,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这篇课文最容易误会两个地方。第一，把"
+        },
+        {
+          "lang": "en",
+          "text": "pub"
+        },
+        {
+          "lang": "zh",
+          "text": "想成夜店；第二，把故事想成"
+        },
+        {
+          "lang": "en",
+          "text": "theft"
+        },
+        {
+          "lang": "zh",
+          "text": "，偷窃。其实都不是。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 254.492,
+      "end": 258.202,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "pub"
+        },
+        {
+          "lang": "zh",
+          "text": "到底是什么？"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 258.551,
+      "end": 272.055,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在这篇课文里，"
+        },
+        {
+          "lang": "en",
+          "text": "a village pub"
+        },
+        {
+          "lang": "zh",
+          "text": "是英国乡村里可以吃饭、聊天、见邻居的小地方。它可以卖饮料，但故事重点不是喝酒，而是吃完午饭要付账。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 272.405,
+      "end": 275.755,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "landlord"
+        },
+        {
+          "lang": "zh",
+          "text": "不是房东吗？"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 276.105,
+      "end": 294.84,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "很多时候是房东，但在"
+        },
+        {
+          "lang": "en",
+          "text": "pub"
+        },
+        {
+          "lang": "zh",
+          "text": "里，"
+        },
+        {
+          "lang": "en",
+          "text": "landlord"
+        },
+        {
+          "lang": "zh",
+          "text": "指经营"
+        },
+        {
+          "lang": "en",
+          "text": "pub"
+        },
+        {
+          "lang": "zh",
+          "text": "的人，也就是老板或经理。所以"
+        },
+        {
+          "lang": "en",
+          "text": "the landlord came in"
+        },
+        {
+          "lang": "zh",
+          "text": "是"
+        },
+        {
+          "lang": "en",
+          "text": "pub owner"
+        },
+        {
+          "lang": "zh",
+          "text": "走进来了。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 295.19,
+      "end": 300.761,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么"
+        },
+        {
+          "lang": "en",
+          "text": "narrator"
+        },
+        {
+          "lang": "zh",
+          "text": "不能"
+        },
+        {
+          "lang": "en",
+          "text": "pay the bill"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 301.111,
+      "end": 313.831,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为他说："
+        },
+        {
+          "lang": "en",
+          "text": "I haven't got my bag."
+        },
+        {
+          "lang": "zh",
+          "text": "这是英式日常说法，意思是"
+        },
+        {
+          "lang": "en",
+          "text": "I don't have my bag with me"
+        },
+        {
+          "lang": "zh",
+          "text": "。没有包，就没法付"
+        },
+        {
+          "lang": "en",
+          "text": "meal bill"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 314.181,
+      "end": 318.642,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "landlord"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么"
+        },
+        {
+          "lang": "en",
+          "text": "smiled"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 318.992,
+      "end": 333.787,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为他熟悉自己的狗。别人看到"
+        },
+        {
+          "lang": "en",
+          "text": "missing bag"
+        },
+        {
+          "lang": "zh",
+          "text": "会"
+        },
+        {
+          "lang": "en",
+          "text": "worry"
+        },
+        {
+          "lang": "zh",
+          "text": "；他看到这个情况，会想到"
+        },
+        {
+          "lang": "en",
+          "text": "familiar habit"
+        },
+        {
+          "lang": "zh",
+          "text": "：狗经常把东西叼到"
+        },
+        {
+          "lang": "en",
+          "text": "garden"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 334.137,
+      "end": 336.062,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以狗是坏狗吗？"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 336.412,
+      "end": 348.116,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。这里的狗"
+        },
+        {
+          "lang": "en",
+          "text": "playful"
+        },
+        {
+          "lang": "zh",
+          "text": "，不是"
+        },
+        {
+          "lang": "en",
+          "text": "criminal"
+        },
+        {
+          "lang": "zh",
+          "text": "。它没有偷钱，也没有制造危险，只是把包当成有趣的东西搬走了。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 348.466,
+      "end": 352.642,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "After I had had lunch at a village pub, I looked for my bag."
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 352.991,
+      "end": 357.359,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I had left it on a chair beside the door and now it wasn't there!"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 357.709,
+      "end": 361.141,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As I was looking for it, the landlord came in."
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 361.491,
+      "end": 365.571,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Did you have a good meal? he asked."
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 365.921,
+      "end": 369.833,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Yes, thank you, I answered, but I can't pay the bill."
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 370.183,
+      "end": 372.487,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I haven't got my bag."
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 372.837,
+      "end": 376.269,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The landlord smiled and immediately went out."
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 376.619,
+      "end": 380.747,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In a few minutes he returned with my bag and gave it back to me."
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 381.097,
+      "end": 383.617,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I'm very sorry, he said."
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 383.966,
+      "end": 386.894,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "My dog had taken it into the garden."
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 387.244,
+      "end": 389.644,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He often does this!"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 389.994,
+      "end": 392.466,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "pub"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "pub"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 392.816,
+      "end": 394.208,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "pub"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "pub"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 394.558,
+      "end": 404.73,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "pub"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "pub"
+        },
+        {
+          "lang": "zh",
+          "text": "是英国常见的"
+        },
+        {
+          "lang": "en",
+          "text": "public house"
+        },
+        {
+          "lang": "zh",
+          "text": "。放到这篇课文里，它是乡村里可以吃饭、喝东西、见邻居的小地方。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 405.079,
+      "end": 420.655,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "pub"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里不要把"
+        },
+        {
+          "lang": "en",
+          "text": "village pub"
+        },
+        {
+          "lang": "zh",
+          "text": "想成现代夜店。更好的画面是：木头桌子、小餐馆、熟悉的老板，还有门外的"
+        },
+        {
+          "lang": "en",
+          "text": "garden"
+        },
+        {
+          "lang": "zh",
+          "text": "。课文短语是："
+        },
+        {
+          "lang": "en",
+          "text": "at a village pub"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 421.005,
+      "end": 423.853,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "landlord"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "landlord"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 424.203,
+      "end": 425.931,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "landlord"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "landlord"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 426.281,
+      "end": 437.552,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "landlord"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "landlord"
+        },
+        {
+          "lang": "zh",
+          "text": "常见意思是房东，但在"
+        },
+        {
+          "lang": "en",
+          "text": "pub"
+        },
+        {
+          "lang": "zh",
+          "text": "这个场景里，它指经营"
+        },
+        {
+          "lang": "en",
+          "text": "pub"
+        },
+        {
+          "lang": "zh",
+          "text": "的老板或经理。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 437.902,
+      "end": 449.018,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "landlord"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "the landlord came in"
+        },
+        {
+          "lang": "zh",
+          "text": "不是租房房东来了，而是"
+        },
+        {
+          "lang": "en",
+          "text": "pub owner"
+        },
+        {
+          "lang": "zh",
+          "text": "走进来问客人："
+        },
+        {
+          "lang": "en",
+          "text": "Did you have a good meal?"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 449.368,
+      "end": 451.999,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bill"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "bill"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 452.349,
+      "end": 453.789,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bill"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "bill"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 454.139,
+      "end": 468.387,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bill"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "bill"
+        },
+        {
+          "lang": "zh",
+          "text": "是账单，表示你需要付的钱。吃饭以后有"
+        },
+        {
+          "lang": "en",
+          "text": "a restaurant bill"
+        },
+        {
+          "lang": "zh",
+          "text": "，手机有"
+        },
+        {
+          "lang": "en",
+          "text": "a phone bill"
+        },
+        {
+          "lang": "zh",
+          "text": "，电费可以叫"
+        },
+        {
+          "lang": "en",
+          "text": "an electricity bill"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 468.737,
+      "end": 483.352,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bill"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里的"
+        },
+        {
+          "lang": "en",
+          "text": "bill"
+        },
+        {
+          "lang": "zh",
+          "text": "是"
+        },
+        {
+          "lang": "en",
+          "text": "meal bill"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "narrator"
+        },
+        {
+          "lang": "zh",
+          "text": "说："
+        },
+        {
+          "lang": "en",
+          "text": "I can't pay the bill."
+        },
+        {
+          "lang": "zh",
+          "text": "不是因为他不想付，而是因为"
+        },
+        {
+          "lang": "en",
+          "text": "I haven't got my bag."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 483.702,
+      "end": 497.301,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的"
+        },
+        {
+          "lang": "en",
+          "text": "grammar"
+        },
+        {
+          "lang": "zh",
+          "text": "是"
+        },
+        {
+          "lang": "en",
+          "text": "past perfect"
+        },
+        {
+          "lang": "zh",
+          "text": "，也就是"
+        },
+        {
+          "lang": "en",
+          "text": "had done"
+        },
+        {
+          "lang": "zh",
+          "text": "。它常常告诉我们：在一个过去动作之前，更早已经发生了什么。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 497.651,
+      "end": 513.075,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先看："
+        },
+        {
+          "lang": "en",
+          "text": "After I had had lunch at a village pub, I looked for my bag."
+        },
+        {
+          "lang": "en",
+          "text": "Earlier past"
+        },
+        {
+          "lang": "zh",
+          "text": "是"
+        },
+        {
+          "lang": "en",
+          "text": "I had had lunch"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "later past"
+        },
+        {
+          "lang": "zh",
+          "text": "是"
+        },
+        {
+          "lang": "en",
+          "text": "I looked for my bag"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 513.424,
+      "end": 529.36,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里两个"
+        },
+        {
+          "lang": "en",
+          "text": "had"
+        },
+        {
+          "lang": "zh",
+          "text": "不一样。第一个"
+        },
+        {
+          "lang": "en",
+          "text": "had"
+        },
+        {
+          "lang": "zh",
+          "text": "是语法帮手，第二个"
+        },
+        {
+          "lang": "en",
+          "text": "had lunch"
+        },
+        {
+          "lang": "zh",
+          "text": "是吃午饭。可以理解成："
+        },
+        {
+          "lang": "en",
+          "text": "After I had finished lunch, I looked for my bag"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 529.71,
+      "end": 542.629,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二句："
+        },
+        {
+          "lang": "en",
+          "text": "I had left it on a chair beside the door."
+        },
+        {
+          "lang": "en",
+          "text": "earlier past"
+        },
+        {
+          "lang": "zh",
+          "text": "是我之前把包放在椅子上；"
+        },
+        {
+          "lang": "en",
+          "text": "later past"
+        },
+        {
+          "lang": "zh",
+          "text": "是现在发现包不在那里。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 542.979,
+      "end": 557.215,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三句："
+        },
+        {
+          "lang": "en",
+          "text": "My dog had taken it into the garden."
+        },
+        {
+          "lang": "en",
+          "text": "earlier past"
+        },
+        {
+          "lang": "zh",
+          "text": "是狗已经把包叼进花园；"
+        },
+        {
+          "lang": "en",
+          "text": "later past"
+        },
+        {
+          "lang": "zh",
+          "text": "是"
+        },
+        {
+          "lang": "en",
+          "text": "landlord"
+        },
+        {
+          "lang": "zh",
+          "text": "把包拿回来。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 557.564,
+      "end": 575.688,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "用一个小时间线记住："
+        },
+        {
+          "lang": "en",
+          "text": "earlier past"
+        },
+        {
+          "lang": "zh",
+          "text": "用"
+        },
+        {
+          "lang": "en",
+          "text": "had done"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "later past"
+        },
+        {
+          "lang": "zh",
+          "text": "用普通过去式。"
+        },
+        {
+          "lang": "en",
+          "text": "I had left it, then it wasn't there. The dog had taken it, then the landlord returned with it."
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 576.038,
+      "end": 586.51,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有一句日常表达："
+        },
+        {
+          "lang": "en",
+          "text": "I haven't got my bag."
+        },
+        {
+          "lang": "zh",
+          "text": "这是英式英语里很自然的说法，意思是"
+        },
+        {
+          "lang": "en",
+          "text": "I don't have my bag with me"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 586.859,
+      "end": 604.223,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天的"
+        },
+        {
+          "lang": "en",
+          "text": "missing thing story"
+        },
+        {
+          "lang": "zh",
+          "text": "放进你自己的生活。想象你在小餐馆、教室或家门口，突然找不到"
+        },
+        {
+          "lang": "en",
+          "text": "phone"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "wallet"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "schoolbag"
+        },
+        {
+          "lang": "zh",
+          "text": "或"
+        },
+        {
+          "lang": "en",
+          "text": "keys"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 604.573,
+      "end": 633.765,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "关键不是编一个危险故事，而是说清楚顺序："
+        },
+        {
+          "lang": "en",
+          "text": "I had left my ___ beside ___. Then I couldn't find it. I couldn't pay / go / leave because I hadn't got it. Later, ___ gave it back to me. A dog / little brother / friend had taken it to ___. He often does this!"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 634.115,
+      "end": 644.01,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，用"
+        },
+        {
+          "lang": "en",
+          "text": "word bank"
+        },
+        {
+          "lang": "zh",
+          "text": "填三个空，把“之前放在哪里、后来为什么着急、最后谁把东西还回来”说清楚。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 644.36,
+      "end": 669.148,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "After I had had lunch"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "I had left it on a chair"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "I can't pay the bill"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "I haven't got my bag"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "gave it back to me"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "My dog had taken it into the garden"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 669.497,
+      "end": 695.809,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读之后，再做 ① 生活场景，用英语说一个东西不见了、后来发现只是被熟人或宠物挪走的小误会；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。记住，过去的过去用"
+        },
+        {
+          "lang": "en",
+          "text": "had done"
+        },
+        {
+          "lang": "zh",
+          "text": "；有时一场大紧张，最后只是"
+        },
+        {
+          "lang": "en",
+          "text": "He often does this!"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 18
+}

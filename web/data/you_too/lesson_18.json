@@ -1,0 +1,45 @@
+{
+  "lesson_id": 18,
+  "title": "He often does this!",
+  "question": "把今天课文里“东西不见了 -> 着急 -> 原来只是熟悉的小习惯”放进你自己的生活场景。这一题不打分、老师只会鼓励 + 给一句小建议。用 word bank 填 3 个空。",
+  "example_answer": "I had left my schoolbag beside the door. Then I couldn't find it, so I couldn't go to class. Later, my little brother gave it back to me. He had taken it to the sofa. He often does this!",
+  "word_bank": [
+    "bag",
+    "schoolbag",
+    "phone",
+    "wallet",
+    "keys",
+    "beside the door",
+    "on a chair",
+    "on the sofa",
+    "in the garden",
+    "looked for",
+    "pay the bill",
+    "haven't got",
+    "gave it back to me",
+    "had left",
+    "had taken",
+    "He often does this!"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "之前发生的事：你把书包放在门边",
+      "english_template": "I had left my schoolbag ___.",
+      "expected_phrase": "beside the door"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "着急的原因：你找不到包，所以不能去上课",
+      "english_template": "I couldn't go to class because I ___ my schoolbag.",
+      "expected_phrase": "haven't got"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "轻松结尾：弟弟把包还给你，原来他经常这样做",
+      "english_template": "My little brother gave it back to me. ___.",
+      "expected_phrase": "He often does this!"
+    }
+  ],
+  "mode": "all_fills"
+}

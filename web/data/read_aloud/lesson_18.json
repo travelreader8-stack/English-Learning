@@ -1,0 +1,123 @@
+{
+  "lesson_id": 18,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把乡村 pub、包不见了、付不了账、狗把包叼走这条轻松误会线读出来。",
+  "sentences": [
+    {
+      "id": "l18_s1",
+      "text": "After I had had lunch at a village pub, I looked for my bag.",
+      "focus_zh": "After I had had lunch 里第一个 had 是过去完成时，第二个 had lunch 是吃午饭；village pub 要读成乡村小餐馆式的 pub。",
+      "start": 348.466,
+      "end": 352.642,
+      "focus_words": [
+        "After",
+        "had",
+        "had",
+        "lunch",
+        "village",
+        "pub"
+      ]
+    },
+    {
+      "id": "l18_s2",
+      "text": "I had left it on a chair beside the door and now it wasn't there!",
+      "focus_zh": "had left 是更早发生的事；beside the door 是在门旁边，读出前后对比。",
+      "start": 352.991,
+      "end": 357.359,
+      "focus_words": [
+        "had",
+        "left",
+        "chair",
+        "beside",
+        "door",
+        "wasn't"
+      ]
+    },
+    {
+      "id": "l18_s3",
+      "text": "As I was looking for it, the landlord came in.",
+      "focus_zh": "was looking for 表示正在找；landlord 在这里是 pub 老板，不是租房房东。",
+      "start": 357.709,
+      "end": 361.141,
+      "focus_words": [
+        "As",
+        "was",
+        "looking",
+        "for",
+        "landlord",
+        "came"
+      ]
+    },
+    {
+      "id": "l18_s4",
+      "text": "Yes, thank you, I answered, but I can't pay the bill.",
+      "focus_zh": "can't pay the bill 是付不了饭钱，不是故意不付；bill 在这里是 meal bill。",
+      "start": 365.921,
+      "end": 369.833,
+      "focus_words": [
+        "Yes",
+        "thank",
+        "answered",
+        "can't",
+        "pay",
+        "bill"
+      ]
+    },
+    {
+      "id": "l18_s5",
+      "text": "I haven't got my bag.",
+      "focus_zh": "haven't got 是英式日常说法，意思是 do not have with me。",
+      "start": 370.183,
+      "end": 372.487,
+      "focus_words": [
+        "haven't",
+        "got",
+        "bag"
+      ]
+    },
+    {
+      "id": "l18_s6",
+      "text": "The landlord smiled and immediately went out.",
+      "focus_zh": "smiled 要读出老板知道原因的轻松感；immediately 是马上。",
+      "start": 372.837,
+      "end": 376.269,
+      "focus_words": [
+        "landlord",
+        "smiled",
+        "immediately",
+        "went",
+        "out"
+      ]
+    },
+    {
+      "id": "l18_s7",
+      "text": "In a few minutes he returned with my bag and gave it back to me.",
+      "focus_zh": "returned with my bag 是拿着包回来；gave it back to me 是把它还给我。",
+      "start": 376.619,
+      "end": 380.747,
+      "focus_words": [
+        "few",
+        "minutes",
+        "returned",
+        "bag",
+        "gave",
+        "back"
+      ]
+    },
+    {
+      "id": "l18_s8",
+      "text": "My dog had taken it into the garden. He often does this!",
+      "focus_zh": "had taken 是更早发生的动作；He often does this 是标题笑点，读得轻松一点。",
+      "start": 383.966,
+      "end": 389.644,
+      "focus_words": [
+        "dog",
+        "had",
+        "taken",
+        "garden",
+        "often",
+        "does"
+      ]
+    }
+  ]
+}

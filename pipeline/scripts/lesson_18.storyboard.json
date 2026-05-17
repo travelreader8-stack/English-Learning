@@ -1,0 +1,23 @@
+{
+  "lesson_id": 18,
+  "title": "He often does this!",
+  "visual_consistency": "Keep the same three subjects across all four frames. The narrator is a polite adult traveler in his early thirties, slim build, short dark-brown hair, oval face, wearing a light cream shirt, muted green jacket, and carrying a small brown leather bag when it is present. The landlord is the same friendly middle-aged British village pub owner with a warm round face, greying hair, white shirt, dark waistcoat, and calm amused expression. The dog is the same medium-sized golden-brown dog with floppy ears, playful eyes, and gentle body language. Keep the village pub warm, wooden, cozy, rural, and family-friendly; only move the action from pub door to garden and back. The mood is light misunderstanding and relief, never theft or danger.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Inside a cozy British village pub after lunch, the narrator, the same polite adult traveler in his early thirties with short dark-brown hair, light cream shirt, muted green jacket, and slim build, stands near a wooden table while his small brown leather bag rests clearly on a chair beside the door. The friendly middle-aged landlord in a white shirt and dark waistcoat is in the background, and the space feels like a rural eating place, not a nightclub. No readable text, no captions, no labels."
+    },
+    {
+      "frame": 2,
+      "prompt": "Near the pub door, the narrator, the same polite traveler with short dark-brown hair, light cream shirt, muted green jacket, and slim build, looks worried at the empty chair where his small brown leather bag used to be. A finished lunch setting and a subtle payment moment are implied on the table, but there is no readable bill or text. The landlord is just entering the cozy wooden pub calmly. No dog visible, no theft imagery, no police, no suspense lighting."
+    },
+    {
+      "frame": 3,
+      "prompt": "The friendly middle-aged landlord, the same British village pub owner with greying hair, warm round face, white shirt, dark waistcoat, and amused expression, smiles knowingly and walks toward a garden door from the cozy pub interior. The narrator, the same polite traveler in a muted green jacket, watches with surprised hope. Show warm wooden pub details and a glimpse of garden light beyond the door. No readable text, no captions, no signs."
+    },
+    {
+      "frame": 4,
+      "prompt": "At the garden doorway of the cozy village pub, the landlord, the same friendly middle-aged man in white shirt and dark waistcoat, gives the small brown leather bag back to the narrator, the same polite traveler in a light cream shirt and muted green jacket. The same medium-sized golden-brown dog with floppy ears and playful eyes sits nearby looking innocent and cheerful. The mood is relief and gentle humor, not punishment. No readable text, no captions, no labels."
+    }
+  ]
+}
