@@ -1,0 +1,123 @@
+{
+  "lesson_id": 17,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把真实年龄、舞台角色、服装要求和最后的俏皮回答读出来。",
+  "sentences": [
+    {
+      "id": "l17_s1",
+      "text": "My aunt Jennifer is an actress.",
+      "focus_zh": "actress 是女演员，先读清楚人物身份：Jennifer 是演员。",
+      "start": 317.821,
+      "end": 320.557,
+      "focus_words": [
+        "aunt",
+        "Jennifer",
+        "actress"
+      ]
+    },
+    {
+      "id": "l17_s2",
+      "text": "She must be at least thirty-five years old.",
+      "focus_zh": "must be 在这里是强烈推测，一定是；at least 是至少，不是年龄评价。",
+      "start": 320.907,
+      "end": 324.003,
+      "focus_words": [
+        "must",
+        "be",
+        "at",
+        "least",
+        "thirty-five"
+      ]
+    },
+    {
+      "id": "l17_s3",
+      "text": "In spite of this, she often appears on the stage as a young girl.",
+      "focus_zh": "In spite of this 是尽管如此；appears on the stage as 读出她在舞台上呈现成角色。",
+      "start": 324.353,
+      "end": 328.673,
+      "focus_words": [
+        "In",
+        "spite",
+        "appears",
+        "stage",
+        "as"
+      ]
+    },
+    {
+      "id": "l17_s4",
+      "text": "Jennifer will have to take part in a new play soon.",
+      "focus_zh": "will have to 是新剧带来的安排或要求；take part in 是参加。",
+      "start": 329.023,
+      "end": 332.551,
+      "focus_words": [
+        "will",
+        "have",
+        "to",
+        "take",
+        "part",
+        "play"
+      ]
+    },
+    {
+      "id": "l17_s5",
+      "text": "This time, she will be a girl of seventeen.",
+      "focus_zh": "a girl of seventeen 是角色年龄，读出真实 Jennifer 和 role 的区别。",
+      "start": 332.901,
+      "end": 336.165,
+      "focus_words": [
+        "This",
+        "time",
+        "will",
+        "girl",
+        "seventeen"
+      ]
+    },
+    {
+      "id": "l17_s6",
+      "text": "In the play, she must appear in a bright red dress and long black stockings.",
+      "focus_zh": "must appear 是角色要求；bright red dress 和 long black stockings 是舞台服装。",
+      "start": 336.515,
+      "end": 341.339,
+      "focus_words": [
+        "play",
+        "must",
+        "appear",
+        "bright",
+        "dress",
+        "stockings"
+      ]
+    },
+    {
+      "id": "l17_s7",
+      "text": "Last year in another play, she had to wear short socks and a bright, orange-coloured dress.",
+      "focus_zh": "had to wear 是过去角色的要求；short socks 和 orange-coloured dress 是另一套 costume。",
+      "start": 341.688,
+      "end": 347.088,
+      "focus_words": [
+        "Last",
+        "year",
+        "another",
+        "had",
+        "wear",
+        "socks",
+        "bright"
+      ]
+    },
+    {
+      "id": "l17_s8",
+      "text": "If anyone ever asks her how old she is, she always answers, 'Darling, it must be terrible to be grown up!'",
+      "focus_zh": "Darling 和 must be terrible 要读得俏皮一点，这是舞台式回答，不是认真抱怨长大。",
+      "start": 347.438,
+      "end": 353.99,
+      "focus_words": [
+        "If",
+        "asks",
+        "old",
+        "Darling",
+        "must",
+        "grown",
+        "up"
+      ]
+    }
+  ]
+}

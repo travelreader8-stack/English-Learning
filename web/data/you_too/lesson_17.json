@@ -1,0 +1,47 @@
+{
+  "lesson_id": 17,
+  "title": "Always young",
+  "question": "把今天课文里“真实的人”和“扮演的角色”放进 school play 或 short video 的小场景——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景各填一个空、用 word bank 里的短语。",
+  "example_answer": "In real life, I am a student. In the play, I appear as a detective. I have to wear a dark coat. I have to speak quietly and carefully. I am not really a detective, but I play one.",
+  "word_bank": [
+    "actress",
+    "stage",
+    "play",
+    "role",
+    "costume",
+    "appear as",
+    "take part in",
+    "detective",
+    "king",
+    "robot",
+    "student from the future",
+    "a dark coat",
+    "a paper crown",
+    "a silver jacket",
+    "quietly and carefully",
+    "like a king",
+    "like a robot",
+    "I am not really a detective, but I play one"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "角色身份：真实生活里你是学生，但在 school play 里你要扮演侦探",
+      "english_template": "In the play, I appear as a ___.",
+      "expected_phrase": "detective"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "角色服装：为了让观众相信角色，你必须穿一件侦探风格的衣服",
+      "english_template": "I have to wear ___.",
+      "expected_phrase": "a dark coat"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "角色对比：你不是真的侦探，只是在扮演这个角色",
+      "english_template": "___.",
+      "expected_phrase": "I am not really a detective, but I play one"
+    }
+  ],
+  "mode": "all_fills"
+}

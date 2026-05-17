@@ -1,0 +1,23 @@
+{
+  "lesson_id": 17,
+  "title": "Always young",
+  "visual_consistency": "Jennifer is the same professional adult actress in every frame: a graceful woman in her mid-thirties, kind expressive eyes, oval face, dark wavy shoulder-length hair, slim build, poised theatre-performer posture, warm confident expression, and a small marked script as her recurring prop. Keep her facial features, hair, build, and theatrical presence consistent across backstage and stage scenes; only the costume and role presentation change. The tone is respectful, theatrical, warm, and never age-mocking.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Backstage in a small warm theatre, Jennifer, the same professional adult actress in her mid-thirties with dark wavy shoulder-length hair, kind expressive eyes, slim build, and poised performer posture, studies a marked script beside a costume rack. The rack includes a bright red dress, long black stockings, short socks, and a bright orange dress as visible stage costumes. Make it clear she is an adult actress preparing for a role. No readable text, no captions, no letters."
+    },
+    {
+      "frame": 2,
+      "prompt": "On a softly lit theatre stage, Jennifer, the same professional adult actress with the same face, dark wavy shoulder-length hair, slim build, and warm theatrical presence, appears as a young stage character through posture, gesture, and costume rather than changing her real age. She performs gracefully in front of a gentle audience silhouette, with warm stage lights and curtains. Keep the scene respectful and non-caricatured. No readable text, no captions, no letters."
+    },
+    {
+      "frame": 3,
+      "prompt": "A rehearsal costume moment in the theatre: Jennifer, the same adult actress with kind expressive eyes, oval face, dark wavy shoulder-length hair, slim build, and poised posture, prepares for the seventeen-year-old stage role. Show a modest bright red dress and long black stockings as stage costume details, with her marked script nearby and a mirror reflecting the stage lights. The focus is role preparation and costume requirement, not fashion display. No readable text, no captions, no letters."
+    },
+    {
+      "frame": 4,
+      "prompt": "A charming backstage punchline scene after rehearsal: Jennifer, the same adult actress with the same face, dark wavy shoulder-length hair, slim build, warm confident expression, and theatre-performer posture, smiles playfully while someone nearby asks about her age through a curious gesture, not words. Nearby costume pieces include short socks and a bright orange dress from another play. The mood is witty and theatrical, showing that she answers in character. No readable text, no captions, no letters."
+    }
+  ]
+}

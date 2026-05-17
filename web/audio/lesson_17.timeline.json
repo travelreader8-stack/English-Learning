@@ -1,0 +1,1348 @@
+{
+  "total_duration": 637.14,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 8.32,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果一个成年人给动画里的小孩配音，你会觉得奇怪吗？不会。因为真实的人是一回事，角色是另一回事。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 8.67,
+      "end": 24.886,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Always young"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“青春常驻”。这不是一课说 35 岁老不老，而是看一个演员怎样走进角色：真实年龄、舞台角色、服装、声音和动作，可以同时存在。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 25.236,
+      "end": 42.216,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先把旧场景接到现在。现在你可能更熟悉电影、动画配音、学校短剧、cosplay，或者一个视频博主在短视频里演好几个角色。一个人可以真实地是自己，也可以暂时 appear as another person，呈现成另一个角色。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 42.565,
+      "end": 63.197,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "actress"
+        },
+        {
+          "lang": "zh",
+          "text": "是女演员。"
+        },
+        {
+          "lang": "en",
+          "text": "stage"
+        },
+        {
+          "lang": "zh",
+          "text": "是舞台，演员在观众面前表演的地方。"
+        },
+        {
+          "lang": "en",
+          "text": "play"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里不是玩游戏，而是舞台剧。"
+        },
+        {
+          "lang": "en",
+          "text": "role"
+        },
+        {
+          "lang": "zh",
+          "text": "是演员扮演的角色。"
+        },
+        {
+          "lang": "en",
+          "text": "costume"
+        },
+        {
+          "lang": "zh",
+          "text": "是为了角色穿的服装。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 63.547,
+      "end": 79.326,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "Lesson 17"
+        },
+        {
+          "lang": "zh",
+          "text": "的链条很清楚：真实的 Jennifer 是一位 actress；在 stage 上，她可以 take part in a play；在 play 里，她有一个 role；costume 和表演让观众相信这个 role。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 79.676,
+      "end": 95.86,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有一句要先听懂："
+        },
+        {
+          "lang": "en",
+          "text": "grown up"
+        },
+        {
+          "lang": "zh",
+          "text": "是长大成人的人。结尾那句"
+        },
+        {
+          "lang": "en",
+          "text": "It must be terrible to be grown up!"
+        },
+        {
+          "lang": "zh",
+          "text": "是 Jennifer 很会演、很俏皮的回答，不是真的在抱怨长大。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 96.21,
+      "end": 105.77,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这篇故事的核心不是衣服，而是表演：Jennifer 本人不是 17 岁，但她可以在舞台上 appear as a girl of seventeen。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 106.12,
+      "end": 116.736,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，我们在后台看到 Jennifer。她是 narrator 的 aunt，也就是姑姑或姨妈。课文第一句说："
+        },
+        {
+          "lang": "en",
+          "text": "My aunt Jennifer is an actress."
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 117.086,
+      "end": 136.397,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "narrator 还说："
+        },
+        {
+          "lang": "en",
+          "text": "She must be at least thirty-five years old."
+        },
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "must be"
+        },
+        {
+          "lang": "zh",
+          "text": "是“我很确定、我推测她一定至少 35 岁”。注意，这不是嘲笑年龄，只是在说明真实身份和角色身份有对比。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 136.747,
+      "end": 145.419,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，Jennifer 走上 stage。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "In spite of this, she often appears on the stage as a young girl."
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 145.769,
+      "end": 157.601,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In spite of this"
+        },
+        {
+          "lang": "zh",
+          "text": "是“尽管如此”。真实年龄是一个事实，可舞台上她仍然可以 appear as a young girl。观众看到的是角色，不是户口本。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 157.951,
+      "end": 168.462,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，新 play 要开始了。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Jennifer will have to take part in a new play soon."
+        },
+        {
+          "lang": "zh",
+          "text": "她很快要参加一出新的舞台剧。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 168.812,
+      "end": 187.66,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "This time, she will be a girl of seventeen."
+        },
+        {
+          "lang": "zh",
+          "text": "这一次，她的 role 是 17 岁的女孩。为了让观众相信这个角色，"
+        },
+        {
+          "lang": "en",
+          "text": "she must appear in a bright red dress and long black stockings."
+        },
+        {
+          "lang": "zh",
+          "text": "这里的 dress 和 stockings 是 costume，是舞台服装，不是整篇课文的重点。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 188.01,
+      "end": 200.506,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，故事给了一个对比。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Last year in another play, she had to wear short socks and a bright, orange-coloured dress."
+        },
+        {
+          "lang": "zh",
+          "text": "去年另一个 role 又要求另一套 costume。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 200.856,
+      "end": 217.144,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后，如果有人问她多大年纪，她总是回答："
+        },
+        {
+          "lang": "en",
+          "text": "Darling, it must be terrible to be grown up!"
+        },
+        {
+          "lang": "zh",
+          "text": "这句像舞台上的机智台词：她不是认真说长大很可怕，而是在角色里轻轻一转，把问题变成了笑点。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 217.493,
+      "end": 227.109,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以标题"
+        },
+        {
+          "lang": "en",
+          "text": "Always young"
+        },
+        {
+          "lang": "zh",
+          "text": "好玩在这里：Jennifer 可以一次又一次走进年轻角色，在舞台上“永远年轻”。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 227.459,
+      "end": 235.939,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这篇课文最容易误会的地方，是把它当成“年龄焦虑”或者“衣服清单”。其实它讲的是 real person 和 role 的区别。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 236.289,
+      "end": 238.728,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Jennifer 真实年龄是多少？"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 239.078,
+      "end": 250.95,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文只说："
+        },
+        {
+          "lang": "en",
+          "text": "She must be at least thirty-five years old."
+        },
+        {
+          "lang": "zh",
+          "text": "也就是 narrator 很确定她至少 35 岁。35 岁并不老，这里只是为了和 17 岁的 role 形成对比。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 251.3,
+      "end": 254.9,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那她为什么能演 17 岁的女孩？"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 255.25,
+      "end": 271.21,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为她是 actress。演员会用 voice、movement、costume 和 stage presence 让观众相信一个角色。就像成年人可以给动画里的小孩配音，同学也可以在 school play 里演 king、detective 或 old man。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 271.56,
+      "end": 274.813,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "play"
+        },
+        {
+          "lang": "zh",
+          "text": "到底是什么意思？"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 275.163,
+      "end": 285.622,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在这篇课文里，"
+        },
+        {
+          "lang": "en",
+          "text": "play"
+        },
+        {
+          "lang": "zh",
+          "text": "是舞台剧，不是玩游戏。"
+        },
+        {
+          "lang": "en",
+          "text": "take part in a new play"
+        },
+        {
+          "lang": "zh",
+          "text": "就是参加一出新的戏剧演出。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 285.972,
+      "end": 289.258,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "appear"
+        },
+        {
+          "lang": "zh",
+          "text": "是出现吗？"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 289.608,
+      "end": 300.704,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以是“出现”，但在这里更像“在舞台上呈现成某个角色”。"
+        },
+        {
+          "lang": "en",
+          "text": "She appears on the stage as a young girl."
+        },
+        {
+          "lang": "zh",
+          "text": "她在舞台上以年轻女孩的形象出现。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 301.054,
+      "end": 304.93,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后那句"
+        },
+        {
+          "lang": "en",
+          "text": "Darling"
+        },
+        {
+          "lang": "zh",
+          "text": "呢？"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 305.279,
+      "end": 317.471,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Darling"
+        },
+        {
+          "lang": "zh",
+          "text": "是亲爱的，带一点温暖和舞台感。Jennifer 的回答很俏皮：别人问真实年龄，她用角色的口吻说，长大一定很可怕吧。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 317.821,
+      "end": 320.557,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "My aunt Jennifer is an actress."
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 320.907,
+      "end": 324.003,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She must be at least thirty-five years old."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 324.353,
+      "end": 328.673,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In spite of this, she often appears on the stage as a young girl."
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 329.023,
+      "end": 332.551,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Jennifer will have to take part in a new play soon."
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 332.901,
+      "end": 336.165,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "This time, she will be a girl of seventeen."
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 336.515,
+      "end": 341.339,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In the play, she must appear in a bright red dress and long black stockings."
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 341.688,
+      "end": 347.088,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Last year in another play, she had to wear short socks and a bright, orange-coloured dress."
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 347.438,
+      "end": 353.99,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "If anyone ever asks her how old she is, she always answers, 'Darling, it must be terrible to be grown up!'"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 354.34,
+      "end": 356.956,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "appear"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "appear"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 357.306,
+      "end": 358.986,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "appear"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "appear"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 359.336,
+      "end": 374.608,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "appear"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "appear"
+        },
+        {
+          "lang": "zh",
+          "text": "可以是出现，也可以是在别人面前呈现出某种样子。课文里是舞台用法："
+        },
+        {
+          "lang": "en",
+          "text": "She often appears on the stage as a young girl."
+        },
+        {
+          "lang": "zh",
+          "text": "她在舞台上呈现成年轻女孩的角色。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 374.957,
+      "end": 388.405,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "appear"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你也可以说："
+        },
+        {
+          "lang": "en",
+          "text": "A singer appears on screen."
+        },
+        {
+          "lang": "zh",
+          "text": "歌手出现在屏幕上。"
+        },
+        {
+          "lang": "en",
+          "text": "A student appears as a detective in a school play."
+        },
+        {
+          "lang": "zh",
+          "text": "一个学生在学校短剧里扮演侦探。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 388.755,
+      "end": 391.555,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "stage"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "stage"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 391.905,
+      "end": 393.609,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "stage"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "stage"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 393.959,
+      "end": 406.239,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "stage"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "stage"
+        },
+        {
+          "lang": "zh",
+          "text": "是舞台，演员站在上面表演，观众在下面看。学校礼堂里的台子可以是 school stage，剧院里的舞台可以是 theatre stage。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 406.588,
+      "end": 415.236,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "stage"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里的短语是："
+        },
+        {
+          "lang": "en",
+          "text": "on the stage"
+        },
+        {
+          "lang": "zh",
+          "text": "。Jennifer 不只是在房间里换衣服，她是在 stage 上让观众相信她的 role。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 415.586,
+      "end": 418.242,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bright"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "bright"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 418.592,
+      "end": 420.08,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bright"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "bright"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 420.43,
+      "end": 435.405,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bright"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "bright"
+        },
+        {
+          "lang": "zh",
+          "text": "是颜色或光很鲜明、很容易看见。比如"
+        },
+        {
+          "lang": "en",
+          "text": "bright red"
+        },
+        {
+          "lang": "zh",
+          "text": "鲜红色，"
+        },
+        {
+          "lang": "en",
+          "text": "bright orange"
+        },
+        {
+          "lang": "zh",
+          "text": "鲜橘色，"
+        },
+        {
+          "lang": "en",
+          "text": "a bright screen"
+        },
+        {
+          "lang": "zh",
+          "text": "很亮的屏幕。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 435.755,
+      "end": 448.159,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bright"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里两次出现："
+        },
+        {
+          "lang": "en",
+          "text": "a bright red dress"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "a bright, orange-coloured dress"
+        },
+        {
+          "lang": "zh",
+          "text": "。这些 bright colors 帮助舞台上的角色被观众看清楚。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 448.509,
+      "end": 463.104,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 不从表格开始，而从故事开始。课文里有两个很像的“必须”或“一定”：一个是"
+        },
+        {
+          "lang": "en",
+          "text": "must be"
+        },
+        {
+          "lang": "zh",
+          "text": "，一个是"
+        },
+        {
+          "lang": "en",
+          "text": "have to"
+        },
+        {
+          "lang": "zh",
+          "text": "或"
+        },
+        {
+          "lang": "en",
+          "text": "had to"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 463.454,
+      "end": 478.806,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先看："
+        },
+        {
+          "lang": "en",
+          "text": "She must be at least thirty-five years old."
+        },
+        {
+          "lang": "zh",
+          "text": "这里不是“她必须 35 岁”，而是“我推测她一定至少 35 岁”。"
+        },
+        {
+          "lang": "en",
+          "text": "must be"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里表示 strong guess，强烈推断。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 479.156,
+      "end": 493.347,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再看："
+        },
+        {
+          "lang": "en",
+          "text": "Jennifer will have to take part in a new play soon."
+        },
+        {
+          "lang": "zh",
+          "text": "这不是猜测，而是新 play 有这个安排，她将不得不参加演出。"
+        },
+        {
+          "lang": "en",
+          "text": "will have to"
+        },
+        {
+          "lang": "zh",
+          "text": "是未来的外部要求。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 493.697,
+      "end": 504.741,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有："
+        },
+        {
+          "lang": "en",
+          "text": "she had to wear short socks"
+        },
+        {
+          "lang": "zh",
+          "text": "。去年那个 role 要求她穿 short socks，所以"
+        },
+        {
+          "lang": "en",
+          "text": "had to"
+        },
+        {
+          "lang": "zh",
+          "text": "是过去的外部要求。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 505.091,
+      "end": 516.166,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后："
+        },
+        {
+          "lang": "en",
+          "text": "she must appear in a bright red dress"
+        },
+        {
+          "lang": "zh",
+          "text": "。这里的"
+        },
+        {
+          "lang": "en",
+          "text": "must appear"
+        },
+        {
+          "lang": "zh",
+          "text": "不是猜年龄，而是角色和舞台要求她这样亮相。"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 516.516,
+      "end": 531.468,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以这样记：如果后面是"
+        },
+        {
+          "lang": "en",
+          "text": "be at least thirty-five"
+        },
+        {
+          "lang": "zh",
+          "text": "，多半是我判断；如果后面是"
+        },
+        {
+          "lang": "en",
+          "text": "take part in"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "wear"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "appear in a costume"
+        },
+        {
+          "lang": "zh",
+          "text": "，多半是外部要求。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 531.818,
+      "end": 540.158,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "演员的真实身份和角色身份不同，所以英语会不断说：她本来是谁，她必须在舞台上呈现成谁。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 540.508,
+      "end": 557.468,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天的 acting and role 放进你自己的生活。想象你参加 school play，或者拍一个 short video。真实生活里你还是你；在 play 里，你可以 appear as a detective、king、robot，或者 student from the future。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 557.817,
+      "end": 588.349,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "关键模板是："
+        },
+        {
+          "lang": "en",
+          "text": "In real life, I am ___. In the play, I appear as ___. I have to wear ___. I have to speak ___. I am not really ___, but I play ___."
+        },
+        {
+          "lang": "zh",
+          "text": "下面练习里，不用写很长，先用 word bank 把角色、服装和说话方式填出来。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 588.699,
+      "end": 612.19,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "must be at least thirty-five"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "in spite of this"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "appears on the stage"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "take part in a new play"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "bright red dress"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "grown up"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 612.54,
+      "end": 637.14,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读之后，再做 ① 生活场景，用英语说真实的你和你扮演的 role 有什么不同；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。记住，真实的人是一回事，角色是另一回事；会表演的人，可以在 stage 上一次又一次变年轻。"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 17
+}
