@@ -1,0 +1,1062 @@
+{
+  "total_duration": 504.866,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 12.72,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "想象一个小镇明天要迎来一个很受欢迎的流行组合。火车什么时候到，年轻粉丝在哪里等，晚上在哪里演出，接下来几天有几场表演，大家都已经知道了。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 13.07,
+      "end": 30.758,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "The Greenwood Boys"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文可以说“绿林少年”。先别把它当成一节普通音乐课。它更像一张活动时间表：一个 pop-singer group 要巡演到小镇，粉丝兴奋，警察和工作人员要维持秩序。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 31.108,
+      "end": 50.547,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里有两个背景要先看懂。"
+        },
+        {
+          "lang": "en",
+          "text": "The Greenwood Boys"
+        },
+        {
+          "lang": "zh",
+          "text": "是故事里的流行演唱组合，类似 boy band；"
+        },
+        {
+          "lang": "en",
+          "text": "Workers' Club"
+        },
+        {
+          "lang": "zh",
+          "text": "不是学校社团，也不是线上粉丝群，而是老式的本地工人俱乐部、社区活动场所，可以让大家聚会和看表演。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 50.897,
+      "end": 74.06,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这一课的线索是："
+        },
+        {
+          "lang": "en",
+          "text": "tomorrow"
+        },
+        {
+          "lang": "zh",
+          "text": "到达，"
+        },
+        {
+          "lang": "en",
+          "text": "by train"
+        },
+        {
+          "lang": "zh",
+          "text": "坐火车来，"
+        },
+        {
+          "lang": "en",
+          "text": "at the station"
+        },
+        {
+          "lang": "zh",
+          "text": "车站迎接，"
+        },
+        {
+          "lang": "en",
+          "text": "tomorrow evening"
+        },
+        {
+          "lang": "zh",
+          "text": "晚上演出，"
+        },
+        {
+          "lang": "en",
+          "text": "for five days"
+        },
+        {
+          "lang": "zh",
+          "text": "待五天，"
+        },
+        {
+          "lang": "en",
+          "text": "keep order"
+        },
+        {
+          "lang": "zh",
+          "text": "维持秩序。把这张时间表看出来，课文就顺了。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 74.41,
+      "end": 96.53,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，消息先传开："
+        },
+        {
+          "lang": "en",
+          "text": "The Greenwood Boys are a group of pop singers."
+        },
+        {
+          "lang": "en",
+          "text": "group"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里不是随便一群人，而是一个有成员、会演出的歌手组合。课文接着说："
+        },
+        {
+          "lang": "en",
+          "text": "At present, they are visiting all parts of the country."
+        },
+        {
+          "lang": "zh",
+          "text": "也就是他们目前正在全国各地巡回演出。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 96.879,
+      "end": 112.983,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，明天的到站安排来了："
+        },
+        {
+          "lang": "en",
+          "text": "They will be arriving here tomorrow."
+        },
+        {
+          "lang": "zh",
+          "text": "他们明天会到这里。"
+        },
+        {
+          "lang": "en",
+          "text": "They will be coming by train and most of the young people in the town will be meeting them at the station."
+        },
+        {
+          "lang": "zh",
+          "text": "这不是普通路过，是粉丝会去车站迎接。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 113.333,
+      "end": 132.021,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，晚上要去哪里？"
+        },
+        {
+          "lang": "en",
+          "text": "Tomorrow evening they will be singing at the Workers' Club."
+        },
+        {
+          "lang": "en",
+          "text": "Workers' Club"
+        },
+        {
+          "lang": "zh",
+          "text": "可以理解成工人俱乐部、社区活动场所，不是学校兴趣社团。这个小镇的演出不是大型体育馆，而是在本地俱乐部举行。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 132.371,
+      "end": 157.042,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，把后面几天和秩序问题接上："
+        },
+        {
+          "lang": "en",
+          "text": "The Greenwood Boys will be staying for five days."
+        },
+        {
+          "lang": "en",
+          "text": "During this time, they will give five performances."
+        },
+        {
+          "lang": "zh",
+          "text": "人多、粉丝兴奋，所以"
+        },
+        {
+          "lang": "en",
+          "text": "the police will have a difficult time"
+        },
+        {
+          "lang": "zh",
+          "text": "。他们不是抓坏人，而是"
+        },
+        {
+          "lang": "en",
+          "text": "trying to keep order"
+        },
+        {
+          "lang": "zh",
+          "text": "，让大家安全、有序地排队和行动。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 157.392,
+      "end": 160.472,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课为什么不太像前几课的故事反转？"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 160.822,
+      "end": 166.207,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为它没有最后突然好笑的一下，更像在说接下来会发生什么？"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 166.557,
+      "end": 182.557,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。它像一张小镇演出日程表。先告诉你这个组合是谁，再说他们现在正在巡演，然后说明天到站、晚上演出、停留五天、五场表演，最后才说警察要维持秩序。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 182.907,
+      "end": 189.122,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "The Greenwood Boys"
+        },
+        {
+          "lang": "zh",
+          "text": "是真实乐队吗？我要查资料吗？"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 189.472,
+      "end": 201.832,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不需要。把它当成故事里的流行演唱组合就可以。重点不是考乐队历史，而是看懂 popular event、excited crowd、clear schedule 和 order 这四件事。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 202.182,
+      "end": 206.084,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Workers' Club"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么要特别解释？"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 206.434,
+      "end": 216.694,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为中文孩子可能会以为 club 是学校社团，或者现在的线上粉丝俱乐部。这里更像一个本地社区场所，工人和居民可以聚会，也能办演出。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 217.044,
+      "end": 222.33,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "警察"
+        },
+        {
+          "lang": "en",
+          "text": "will have a difficult time"
+        },
+        {
+          "lang": "zh",
+          "text": "，是不是说明会有犯罪？"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 222.68,
+      "end": 233.84,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。这里是 crowd control，人多时要防止拥挤、堵路、乱跑，帮助大家排队和移动。语气要 lively and orderly，不是危险故事。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 234.19,
+      "end": 242.919,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这篇可以按时间来背：现在巡演，明天到，车站接，晚上唱，五天五场，警察维持秩序。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 243.269,
+      "end": 252.189,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "完全对。你把时间表抓住，后面的"
+        },
+        {
+          "lang": "en",
+          "text": "will be doing"
+        },
+        {
+          "lang": "zh",
+          "text": "就不是一堆句型，而是一台放在未来的摄像机。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 252.539,
+      "end": 255.827,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The Greenwood Boys are a group of pop singers."
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 256.177,
+      "end": 259.993,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "At present, they are visiting all parts of the country."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 260.343,
+      "end": 263.055,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "They will be arriving here tomorrow."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 263.404,
+      "end": 268.924,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "They will be coming by train and most of the young people in the town will be meeting them at the station."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 269.274,
+      "end": 272.85,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Tomorrow evening they will be singing at the Workers' Club."
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 273.2,
+      "end": 276.608,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The Greenwood Boys will be staying for five days."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 276.958,
+      "end": 280.606,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "During this time, they will give five performances."
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 280.956,
+      "end": 284.7,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As usual, the police will have a difficult time."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 285.05,
+      "end": 287.666,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "They will be trying to keep order."
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 288.016,
+      "end": 291.112,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It is always the same on these occasions."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 291.462,
+      "end": 293.957,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "group"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "group"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 294.307,
+      "end": 295.819,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "group"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "group"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 296.169,
+      "end": 313.145,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "group"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "group"
+        },
+        {
+          "lang": "zh",
+          "text": "是一组人、一个团体。课文里"
+        },
+        {
+          "lang": "en",
+          "text": "a group of pop singers"
+        },
+        {
+          "lang": "zh",
+          "text": "不是车站里随便的一群人，而是一个会一起演出的流行歌手组合。你可以想成一个 boy band 或歌手团队。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 313.495,
+      "end": 316.415,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "performance"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "performance"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 316.765,
+      "end": 318.565,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "performance"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "performance"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 318.914,
+      "end": 334.618,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "performance"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "performance"
+        },
+        {
+          "lang": "zh",
+          "text": "是给观众看的演出，可以是 concert、舞台表演、学校节目或公开演出。课文说"
+        },
+        {
+          "lang": "en",
+          "text": "They will give five performances"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思是这五天里会有五场正式表演。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 334.968,
+      "end": 337.864,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "occasion"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "occasion"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 338.214,
+      "end": 339.846,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "occasion"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "occasion"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 340.196,
+      "end": 362.82,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "occasion"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "occasion"
+        },
+        {
+          "lang": "zh",
+          "text": "是一个特殊场合、特殊时候。比如演唱会到站、学校典礼、重要比赛、公开活动，都可以是 occasions。课文最后说"
+        },
+        {
+          "lang": "en",
+          "text": "It is always the same on these occasions"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思是每逢这种热闹场合，情况总是差不多：人们兴奋，警察维持秩序。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 363.169,
+      "end": 374.729,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 是"
+        },
+        {
+          "lang": "en",
+          "text": "will be doing"
+        },
+        {
+          "lang": "zh",
+          "text": "。不要先背 tense name，先看时间表。这个结构像把摄像机放到未来某个时间，看到那个动作正在发生。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 375.079,
+      "end": 391.943,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "明天到达："
+        },
+        {
+          "lang": "en",
+          "text": "They will be arriving here tomorrow."
+        },
+        {
+          "lang": "zh",
+          "text": "路上过来："
+        },
+        {
+          "lang": "en",
+          "text": "They will be coming by train."
+        },
+        {
+          "lang": "zh",
+          "text": "车站迎接："
+        },
+        {
+          "lang": "en",
+          "text": "young people will be meeting them at the station."
+        },
+        {
+          "lang": "zh",
+          "text": "明天晚上："
+        },
+        {
+          "lang": "en",
+          "text": "they will be singing at the Workers' Club."
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 392.292,
+      "end": 408.028,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "时间表继续往后："
+        },
+        {
+          "lang": "en",
+          "text": "The Greenwood Boys will be staying for five days."
+        },
+        {
+          "lang": "zh",
+          "text": "人群出现时，警察"
+        },
+        {
+          "lang": "en",
+          "text": "will be trying to keep order"
+        },
+        {
+          "lang": "zh",
+          "text": "。这些句子不是乱堆的，它们把未来几天的画面一格一格摆出来。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 408.378,
+      "end": 426.522,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "轻轻对比一下："
+        },
+        {
+          "lang": "en",
+          "text": "They will give five performances"
+        },
+        {
+          "lang": "zh",
+          "text": "是数一数完成的五场演出；"
+        },
+        {
+          "lang": "en",
+          "text": "They will be singing at the Workers' Club"
+        },
+        {
+          "lang": "zh",
+          "text": "是把镜头放到明天晚上，看见他们正在演唱。一个像统计结果，一个像未来现场画面。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 426.872,
+      "end": 442.032,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天的“未来活动时间表”放进你自己的生活。下面三个场景都要填，word bank 里选短语。你可以想成明天有一场演出、比赛、学校活动，或者一个很受欢迎的人来到学校。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 442.381,
+      "end": 463.129,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "关键是说清楚：谁"
+        },
+        {
+          "lang": "en",
+          "text": "will be arriving"
+        },
+        {
+          "lang": "zh",
+          "text": "，你会在哪里"
+        },
+        {
+          "lang": "en",
+          "text": "meet"
+        },
+        {
+          "lang": "zh",
+          "text": "，晚上会发生什么，谁来"
+        },
+        {
+          "lang": "en",
+          "text": "keep order"
+        },
+        {
+          "lang": "zh",
+          "text": "。比如："
+        },
+        {
+          "lang": "en",
+          "text": "Tomorrow, my favourite team will be arriving at the station. I will be meeting them there, and in the evening they will be playing a match."
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 463.479,
+      "end": 504.866,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "will be arriving"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "will be coming by train"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "will be meeting them at the station"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "will be singing at the Workers' Club"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "will be staying"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "keep order"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。读完以后，再做 ① 生活场景，讲一个自己的未来活动时间表；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。加油，"
+        },
+        {
+          "lang": "en",
+          "text": "keep the schedule clear"
+        },
+        {
+          "lang": "zh",
+          "text": "！"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 13
+}

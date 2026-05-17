@@ -1,0 +1,119 @@
+{
+  "lesson_id": 13,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把活动时间表和 will be doing 的重复节奏读顺。",
+  "sentences": [
+    {
+      "id": "l13_s1",
+      "text": "The Greenwood Boys are a group of pop singers.",
+      "focus_zh": "group of pop singers 要连成一个整体，表示一个流行歌手组合。",
+      "start": 252.539,
+      "end": 255.827,
+      "focus_words": [
+        "Greenwood",
+        "Boys",
+        "group",
+        "pop",
+        "singers"
+      ]
+    },
+    {
+      "id": "l13_s2",
+      "text": "At present, they are visiting all parts of the country.",
+      "focus_zh": "At present 是目前；all parts of the country 是全国各地，读出巡演范围。",
+      "start": 256.177,
+      "end": 259.993,
+      "focus_words": [
+        "At",
+        "present",
+        "visiting",
+        "parts",
+        "country"
+      ]
+    },
+    {
+      "id": "l13_s3",
+      "text": "They will be arriving here tomorrow.",
+      "focus_zh": "will be arriving 是把镜头放到明天，看见到达正在发生。",
+      "start": 260.343,
+      "end": 263.055,
+      "focus_words": [
+        "will",
+        "be",
+        "arriving",
+        "here",
+        "tomorrow"
+      ]
+    },
+    {
+      "id": "l13_s4",
+      "text": "They will be coming by train and most of the young people in the town will be meeting them at the station.",
+      "focus_zh": "长句里有两个 will be doing：coming by train 和 meeting them at the station。",
+      "start": 263.404,
+      "end": 268.924,
+      "focus_words": [
+        "coming",
+        "train",
+        "young",
+        "meeting",
+        "station"
+      ]
+    },
+    {
+      "id": "l13_s5",
+      "text": "Tomorrow evening they will be singing at the Workers' Club.",
+      "focus_zh": "Tomorrow evening 给出时间；Workers' Club 是本地工人俱乐部、社区活动场所。",
+      "start": 269.274,
+      "end": 272.85,
+      "focus_words": [
+        "Tomorrow",
+        "evening",
+        "singing",
+        "Workers'",
+        "Club"
+      ]
+    },
+    {
+      "id": "l13_s6",
+      "text": "The Greenwood Boys will be staying for five days.",
+      "focus_zh": "will be staying for five days 读出停留五天的持续感。",
+      "start": 273.2,
+      "end": 276.608,
+      "focus_words": [
+        "will",
+        "be",
+        "staying",
+        "five",
+        "days"
+      ]
+    },
+    {
+      "id": "l13_s7",
+      "text": "During this time, they will give five performances.",
+      "focus_zh": "During this time 承接五天；five performances 是五场演出。",
+      "start": 276.958,
+      "end": 280.606,
+      "focus_words": [
+        "During",
+        "time",
+        "give",
+        "five",
+        "performances"
+      ]
+    },
+    {
+      "id": "l13_s8",
+      "text": "They will be trying to keep order.",
+      "focus_zh": "trying to keep order 是努力维持秩序，不是处理犯罪。",
+      "start": 285.05,
+      "end": 287.666,
+      "focus_words": [
+        "will",
+        "be",
+        "trying",
+        "keep",
+        "order"
+      ]
+    }
+  ]
+}

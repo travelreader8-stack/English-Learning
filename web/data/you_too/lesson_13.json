@@ -1,0 +1,39 @@
+{
+  "lesson_id": 13,
+  "title": "The Greenwood Boys",
+  "question": "把今天课文里“未来活动时间表、到达、迎接、演出和维持秩序”的线索放进演出、比赛和学校活动——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景各填一个空、用 word bank 里的短语。",
+  "example_answer": "Tomorrow, my favourite team will be arriving at the station. I will be meeting them there, and in the evening they will be playing a match.",
+  "word_bank": [
+    "group",
+    "pop singers",
+    "at present",
+    "all parts of the country",
+    "will be arriving",
+    "by train",
+    "will be meeting",
+    "Workers' Club",
+    "performance",
+    "keep order"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "车站迎接：一个受欢迎的组合明天到达，我们会在车站等他们",
+      "english_template": "A popular group ___ here tomorrow, and we will meet them at the station.",
+      "expected_phrase": "will be arriving"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "晚间活动：晚上他们会在社区活动场所表演",
+      "english_template": "Tomorrow evening, they will give a ___ at the local community club.",
+      "expected_phrase": "performance"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "人群秩序：很多学生会来，所以老师要维持秩序",
+      "english_template": "Many students will come, so the teachers will try to ___.",
+      "expected_phrase": "keep order"
+    }
+  ],
+  "mode": "all_fills"
+}

@@ -1,0 +1,22 @@
+{
+  "lesson_id": 13,
+  "title": "The Greenwood Boys",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "A small English town preparing for a visiting pop singer group: a tour announcement board or poster-like display in a town square, with excited young people noticing the news and pointing at the schedule area. The board should feel like it announces a concert tour, but it must contain no readable text, no letters, no captions, no visible words."
+    },
+    {
+      "frame": 2,
+      "prompt": "A modest small-town train station in daylight, with young fans waiting in orderly groups near the platform before a pop group arrives by train. The mood is excited but safe and organized, with a clear sense of anticipation. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 3,
+      "prompt": "Evening performance at an old-style local workers' club or community hall: a generic pop singer group performing on a small stage for a cheerful audience. The venue should look local and modest, not a giant stadium, and the performers should not resemble any real celebrity. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 4,
+      "prompt": "Police officers and event staff calmly guiding an excited crowd into orderly lines outside a local club after a popular performance. The scene is about crowd control and keeping order, not crime or danger; people are smiling and moving safely. No text, no letters, no captions, no readable signs, no visible words."
+    }
+  ]
+}
