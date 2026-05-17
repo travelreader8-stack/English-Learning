@@ -1,0 +1,124 @@
+{
+  "lesson_id": 19,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把买票时的紧张、sold out 的失望、退票带来的希望、以及 next Wednesday's performance 的无奈结尾读出来。",
+  "sentences": [
+    {
+      "id": "l19_s1",
+      "text": "\"The play may begin at any moment,\" I said.",
+      "focus_zh": "may begin 是可能马上开始；at any moment 要读出时间很紧。",
+      "start": 359.206,
+      "end": 362.422,
+      "focus_words": [
+        "play",
+        "may",
+        "begin",
+        "at",
+        "any",
+        "moment"
+      ]
+    },
+    {
+      "id": "l19_s2",
+      "text": "\"It may have begun already,\" Susan answered.",
+      "focus_zh": "may have begun 是猜测可能已经开始了，语气比上一句更担心。",
+      "start": 362.771,
+      "end": 366.155,
+      "focus_words": [
+        "may",
+        "have",
+        "begun",
+        "already",
+        "Susan"
+      ]
+    },
+    {
+      "id": "l19_s3",
+      "text": "\"May I have two tickets please?\" I asked.",
+      "focus_zh": "May I have 是礼貌请求；two tickets 要读清楚数量和买票目的。",
+      "start": 369.447,
+      "end": 373.647,
+      "focus_words": [
+        "May",
+        "I",
+        "have",
+        "two",
+        "tickets",
+        "please"
+      ]
+    },
+    {
+      "id": "l19_s4",
+      "text": "\"I'm sorry, we've sold out,\" the girl said.",
+      "focus_zh": "sold out 是票已经卖完；I'm sorry 要读得礼貌但事实很明确。",
+      "start": 373.997,
+      "end": 377.381,
+      "focus_words": [
+        "sorry",
+        "we've",
+        "sold",
+        "out",
+        "girl"
+      ]
+    },
+    {
+      "id": "l19_s5",
+      "text": "\"Can I return these two tickets?\" he asked.",
+      "focus_zh": "return 在这里是退票、把票交回去，不是 come back。",
+      "start": 385.727,
+      "end": 389.015,
+      "focus_words": [
+        "Can",
+        "I",
+        "return",
+        "these",
+        "two",
+        "tickets"
+      ]
+    },
+    {
+      "id": "l19_s6",
+      "text": "\"Could I have those two tickets please?\" I asked.",
+      "focus_zh": "Could I have 是更柔和的礼貌请求；those two tickets 指刚退回来的两张票。",
+      "start": 395.8,
+      "end": 400.168,
+      "focus_words": [
+        "Could",
+        "I",
+        "have",
+        "those",
+        "two",
+        "tickets"
+      ]
+    },
+    {
+      "id": "l19_s7",
+      "text": "\"Certainly,\" the girl said, \"but they're for next Wednesday's performance. Do you still want them?\"",
+      "focus_zh": "next Wednesday's performance 是下周三那一场，不是今晚这场；but 后面要读出转折。",
+      "start": 400.518,
+      "end": 407.166,
+      "focus_words": [
+        "Certainly",
+        "but",
+        "next",
+        "Wednesday's",
+        "performance",
+        "still"
+      ]
+    },
+    {
+      "id": "l19_s8",
+      "text": "\"I might as well have them,\" I said sadly.",
+      "focus_zh": "might as well 是无奈接受；sadly 要读出不是开心买到了票。",
+      "start": 407.516,
+      "end": 410.756,
+      "focus_words": [
+        "might",
+        "as",
+        "well",
+        "have",
+        "sadly"
+      ]
+    }
+  ]
+}

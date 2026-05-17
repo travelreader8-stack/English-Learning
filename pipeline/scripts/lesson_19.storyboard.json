@@ -1,0 +1,23 @@
+{
+  "lesson_id": 19,
+  "title": "Sold out",
+  "visual_consistency": "Keep the same four theatre-ticket characters across all four frames. The narrator is a polite adult man in his early thirties, slim build, short brown hair, oval face, wearing a navy coat and looking increasingly worried. Susan is the same adult woman in her early thirties, shoulder-length dark hair, warm scarf, expressive face, disappointed but not angry. The ticket-office girl is a calm young woman behind a small theatre ticket window, neat dark hair, simple uniform jacket, polite factual expression. The returning man is a hurried middle-aged man with a tan overcoat holding two plain blank tickets. Keep the old theatre entrance, warm evening light, and ticket-office window consistent; no readable text anywhere.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Outside a warmly lit old theatre entrance in the evening, the narrator, the same polite adult man in his early thirties with short brown hair, slim build, and navy coat, hurries forward with worried urgency. Susan, the same adult woman with shoulder-length dark hair and a warm scarf, follows beside him looking anxious because the play may begin at any moment. The ticket-office window is visible ahead near the entrance. Gentle theatrical atmosphere, no readable signs, no captions, no text."
+    },
+    {
+      "frame": 2,
+      "prompt": "At the same small theatre ticket-office window, the narrator in the navy coat politely asks for tickets while the ticket-office girl, the same calm young woman with neat dark hair and a simple uniform jacket, answers factually from behind the window. Susan stands nearby looking disappointed but not angry. The mood is clear sold-out disappointment, with no readable signs, no visible words, no text on tickets or walls."
+    },
+    {
+      "frame": 3,
+      "prompt": "At the same theatre ticket-office window, the returning man, the same hurried middle-aged man in a tan overcoat, rushes up holding two plain blank tickets to return. The narrator in the navy coat notices him with sudden hope, while Susan watches with cautious expectation and the ticket-office girl remains polite behind the window. Warm evening light, old theatre entrance consistent, no readable text."
+    },
+    {
+      "frame": 4,
+      "prompt": "At the same ticket-office window, the ticket-office girl politely explains that the two blank tickets are for another performance. The narrator in the navy coat accepts the tickets with resigned sadness, shoulders slightly lowered, while Susan looks quietly disappointed beside him. The returning man is leaving in the background. The mood is wrong-date resignation, not a happy ending. No readable dates, no ticket text, no captions."
+    }
+  ]
+}

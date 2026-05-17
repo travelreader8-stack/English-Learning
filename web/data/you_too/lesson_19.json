@@ -1,0 +1,45 @@
+{
+  "lesson_id": 19,
+  "title": "Sold out",
+  "question": "把今天课文里“票卖完 -> 有人退票 -> 结果日期或场次不对”的转折放进电影票、演出票或活动预约的小场景。这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景各填一个空、用 word bank 里的短语。",
+  "example_answer": "The tickets were sold out. Then someone returned two tickets. I hurried to buy them, but they were for next Wednesday's performance. I might as well choose another day.",
+  "word_bank": [
+    "ticket",
+    "tickets",
+    "ticket office",
+    "sold out",
+    "return",
+    "returned two tickets",
+    "performance",
+    "next Wednesday's performance",
+    "tonight's performance",
+    "at any moment",
+    "at once",
+    "What a pity!",
+    "I might as well choose another day",
+    "I might as well have them",
+    "wrong date",
+    "wrong performance"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "没有票了：你想买今晚的票，但页面或窗口显示票已售完",
+      "english_template": "The tickets for tonight were ___.",
+      "expected_phrase": "sold out"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "突然有希望：有人退回了两张票，你马上去抢",
+      "english_template": "Then someone ___. I hurried to buy them at once.",
+      "expected_phrase": "returned two tickets"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "结果不对：这两张票不是今晚的，而是下周三那一场",
+      "english_template": "But they were for ___.",
+      "expected_phrase": "next Wednesday's performance"
+    }
+  ],
+  "mode": "all_fills"
+}
