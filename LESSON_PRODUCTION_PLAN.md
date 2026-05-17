@@ -65,6 +65,19 @@ Do not keep lesson-specific design cards in this root plan. This file is the
 stable workflow; each `lesson_plans/lesson_NNN.md` file is the source of truth
 for a specific lesson.
 
+## Planning Commit Rule
+
+When a planning thread creates a new course design card:
+
+1. Create only the new `lesson_plans/lesson_NNN.md` file.
+2. Update only this root plan's per-lesson index and next future lesson slot.
+3. Run `git status --short`.
+4. Stage only the new lesson plan and this root plan. Do not stage unrelated
+   production assets or files from other sessions.
+5. Commit with a concise message such as `Add Lesson N planning card`.
+6. Push the current branch to `origin` immediately so production threads can
+   read the new plan.
+
 ## Write Boundaries
 
 For "开始生产 Lesson N", the normal write set is limited to:
