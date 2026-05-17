@@ -1,0 +1,115 @@
+{
+  "lesson_id": 22,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把海峡路线、瓶中纸条、十个月后的回信、regular communication 和 post office 的 practical ending 读出来。",
+  "sentences": [
+    {
+      "id": "l22_s1",
+      "text": "My daughter, Jane, never dreamed of receiving a letter from a girl of her own age in Holland.",
+      "focus_zh": "never dreamed of receiving 是从没想过会收到；of her own age 是和她同龄；Holland 在这课里指荷兰。",
+      "start": 305.703,
+      "end": 311.127,
+      "focus_words": [
+        "daughter",
+        "Jane",
+        "never",
+        "dreamed",
+        "receiving",
+        "own",
+        "age",
+        "Holland"
+      ]
+    },
+    {
+      "id": "l22_s2",
+      "text": "Last year, we were travelling across the Channel and Jane put a piece of paper with her name and address on it into a bottle.",
+      "focus_zh": "travelling across the Channel 是横渡英吉利海峡；name and address 是能收到信的姓名和地址。",
+      "start": 311.477,
+      "end": 318.197,
+      "focus_words": [
+        "travelling",
+        "across",
+        "Channel",
+        "piece",
+        "paper",
+        "name",
+        "address",
+        "bottle"
+      ]
+    },
+    {
+      "id": "l22_s3",
+      "text": "She threw the bottle into the sea.",
+      "focus_zh": "threw 是 throw 的过去式；这里是旧故事里的情节，不是今天要模仿的行为。",
+      "start": 318.547,
+      "end": 321.331,
+      "focus_words": [
+        "threw",
+        "bottle",
+        "sea"
+      ]
+    },
+    {
+      "id": "l22_s4",
+      "text": "She never thought of it again, but ten months later, she received a letter from a girl in Holland.",
+      "focus_zh": "never thought of it again 是再也没想起；ten months later 要读出等待很久后的惊喜。",
+      "start": 321.681,
+      "end": 327.273,
+      "focus_words": [
+        "never",
+        "thought",
+        "again",
+        "months",
+        "later",
+        "received",
+        "letter",
+        "Holland"
+      ]
+    },
+    {
+      "id": "l22_s5",
+      "text": "Both girls write to each other regularly now.",
+      "focus_zh": "write to each other 是互相写信；regularly 是有规律地、稳定地联系。",
+      "start": 327.623,
+      "end": 330.959,
+      "focus_words": [
+        "Both",
+        "girls",
+        "write",
+        "each",
+        "other",
+        "regularly"
+      ]
+    },
+    {
+      "id": "l22_s6",
+      "text": "However, they have decided to use the post office.",
+      "focus_zh": "However 后面出现 practical turn；decided to use the post office 是决定用更可靠的寄信方式。",
+      "start": 331.308,
+      "end": 335.004,
+      "focus_words": [
+        "However",
+        "decided",
+        "use",
+        "post",
+        "office"
+      ]
+    },
+    {
+      "id": "l22_s7",
+      "text": "Letters will cost a little more, but they will certainly travel faster.",
+      "focus_zh": "a little more 是稍微多一点；travel faster 是到得更快，结尾落在更可靠的通信方式上。",
+      "start": 335.354,
+      "end": 339.986,
+      "focus_words": [
+        "Letters",
+        "cost",
+        "little",
+        "more",
+        "certainly",
+        "travel",
+        "faster"
+      ]
+    }
+  ]
+}

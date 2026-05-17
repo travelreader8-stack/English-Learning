@@ -1,0 +1,55 @@
+{
+  "lesson_id": 22,
+  "title": "A glass envelope",
+  "question": "把今天课文里“偶然认识 -> 同龄朋友 -> 稳定联系 -> 选择可靠方式”的结构放进你的生活。这一题不鼓励陌生匿名联系，只写家长或老师知道的安全通信。用 word bank 填 4 个空。",
+  "example_answer": "I never dreamed of receiving a message from a camp friend. She is of my own age. Now we write to each other regularly. Messages are faster and more reliable.",
+  "word_bank": [
+    "never dreamed of receiving",
+    "a message",
+    "a letter",
+    "a postcard",
+    "a camp friend",
+    "a pen pal",
+    "a class exchange student",
+    "of my own age",
+    "write to each other",
+    "talk to each other",
+    "regularly",
+    "post office",
+    "email",
+    "messages",
+    "a little more",
+    "travel faster",
+    "more reliable",
+    "by chance",
+    "safe",
+    "teacher-approved"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "偶然连接：你没有想到会收到谁的消息",
+      "english_template": "I never dreamed of receiving a message from ___.",
+      "expected_phrase": "a camp friend"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "同龄关系：对方和你差不多大",
+      "english_template": "He or she is ___.",
+      "expected_phrase": "of my own age"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "稳定联系：你们现在互相联系，而且不是只联系一次",
+      "english_template": "Now we ___ regularly.",
+      "expected_phrase": "write to each other"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "可靠方式：你选择一种更快或更稳定的通信方式",
+      "english_template": "We use ___ because it is faster and more reliable.",
+      "expected_phrase": "messages"
+    }
+  ],
+  "mode": "all_fills"
+}

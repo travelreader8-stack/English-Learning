@@ -1,0 +1,23 @@
+{
+  "lesson_id": 22,
+  "title": "A glass envelope",
+  "visual_consistency": "Keep the same two girls and bottle-letter motif across the four frames. Jane is a curious English girl around twelve years old, shoulder-length brown hair, oval face, wearing a blue coat over a cream dress, slim build, thoughtful and excited expression. The Holland or Netherlands girl is around the same age, light-brown hair, round face, wearing a yellow raincoat or warm cardigan, friendly surprised expression. The bottle is a simple clear glass bottle with a rolled blank paper inside; all letters are blank paper sheets with no readable words. Keep the palette soft sea-blue, cream, pale yellow, and warm daylight. No readable text anywhere.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "A simplified no-text storybook map scene showing an island shape for Britain on the left, mainland Europe on the right, and blue water between them for the English Channel. A tiny clear glass bottle icon follows a dotted drifting route across the water toward the coastal mainland direction where the Holland or Netherlands girl will be. Use only shapes, coastline silhouettes, dots, arrows, and the bottle motif; absolutely no readable country names, labels, captions, letters, or map text."
+    },
+    {
+      "frame": 2,
+      "prompt": "On the deck of an old-fashioned family boat crossing calm blue water, the same curious twelve-year-old Jane with shoulder-length brown hair, oval face, blue coat, cream dress, and thoughtful expression places a blank paper with no readable writing into the same clear glass bottle. The sea and distant coast suggest the Channel crossing. The moment feels like an old story device, gentle and imaginative, not a modern behavior to copy. No readable names, addresses, signs, labels, captions, or text."
+    },
+    {
+      "frame": 3,
+      "prompt": "Ten months later near a quiet mainland European seaside, the same Holland or Netherlands girl around twelve years old with light-brown hair, round face, yellow raincoat or warm cardigan, and friendly surprised expression finds the clear glass bottle with a rolled blank paper inside, then sits at a small table beginning a blank reply letter. Keep Jane absent but implied through the bottle and paper motif. No readable words on the paper, no country labels, no signs, no captions, no text."
+    },
+    {
+      "frame": 4,
+      "prompt": "A warm split-location composition without panels: the same Jane in her blue coat at a desk on one side and the same Holland or Netherlands girl in her yellow raincoat or cardigan at a desk on the other side, both writing blank letters to each other regularly. A simple mailbox or post-office motif sits between them, suggesting reliable communication, with several blank envelopes moving along a neat route. Keep the mood steady, practical, and friendly. No readable signs, stamps, labels, captions, or text."
+    }
+  ]
+}
