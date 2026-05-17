@@ -1,0 +1,22 @@
+{
+  "lesson_id": 14,
+  "title": "Do you speak English?",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "A warm storybook-style scene in the south of France: a small sunny village receding in the background, a simple road leading toward the next town, and an adult narrator driving away in a modest car. The mood is light and travel-like, not dramatic. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 2,
+      "prompt": "A young man by a quiet rural roadside in southern France politely waving to get the driver's attention while the car has stopped safely with space around it. The tone should be cautious and friendly, clearly an old travel-story moment rather than a recommendation. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 3,
+      "prompt": "Inside a small car during daytime: the driver and young passenger sit politely but awkwardly silent after a brief greeting, both looking unsure what language to use. The scene should feel quietly comic and human, not scary, romantic, or suspicious. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 4,
+      "prompt": "Near a small town at the end of the car journey, the young passenger gently turns toward the driver and asks a question, with the driver looking surprised and amused. The image should convey the comic reveal that they could have spoken the same language all along, without showing readable text. No text, no letters, no captions, no readable signs, no visible words."
+    }
+  ]
+}

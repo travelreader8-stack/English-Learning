@@ -1,0 +1,39 @@
+{
+  "lesson_id": 14,
+  "title": "Do you speak English?",
+  "question": "把今天课文里“猜错语言、沉默、最后一句话解开误会”的线索放进机场、酒店、学校活动或线上游戏——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景各填一个空、用 word bank 里的短语。",
+  "example_answer": "I thought the tourist could only speak French. So I said hello in French. Later, he asked me, \"Do you speak English?\"",
+  "word_bank": [
+    "amusing experience",
+    "wave",
+    "asked me for a lift",
+    "language",
+    "replied",
+    "in the same language",
+    "apart from",
+    "at all",
+    "neither of us",
+    "Do you speak English?"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "机场问路：我以为那位旅客只会说法语，后来他用英语问我",
+      "english_template": "I thought the traveller could only speak French. Later, he asked me, \"___\"",
+      "expected_phrase": "Do you speak English?"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "酒店前台：我用同一种语言回答，于是对方误会我真的会那种语言",
+      "english_template": "I said good morning in French, and the clerk ___ in the same language.",
+      "expected_phrase": "replied"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "线上游戏：我们都以为对方听不懂，于是两个人都没开口",
+      "english_template": "We both guessed the wrong language, so ___ spoke for a minute.",
+      "expected_phrase": "neither of us"
+    }
+  ],
+  "mode": "all_fills"
+}
