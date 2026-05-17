@@ -1,0 +1,22 @@
+{
+  "lesson_id": 16,
+  "title": "A polite request",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "A clean friendly European city street in warm daylight. A small car is parked beside a curb where a clear universal no-parking symbol sign is visible nearby, using symbol shapes rather than readable words. The mood is calm and civic, not dramatic. No readable text, no captions, no letters, no harsh punishment imagery."
+    },
+    {
+      "frame": 2,
+      "prompt": "A traveler standing near his parked car looking mildly worried, expecting a parking ticket. A calm professional traffic officer is visible at a respectful distance, friendly and not threatening. The scene should feel like a small rule mistake, not a crime. No readable text, no captions, no letters, no towing, no crash."
+    },
+    {
+      "frame": 3,
+      "prompt": "Close view of a car windshield with a neat polite note under the wiper, shown as a small white paper with tidy line shapes but no readable words. The street feels welcoming and orderly, with soft daylight and clear civic details. No readable text, no captions, no letters."
+    },
+    {
+      "frame": 4,
+      "prompt": "The traveler reads street signs carefully and calmly moves to obey the parking rule, with a relaxed appreciative expression. The no-parking idea is shown through a simple universal sign symbol, and the whole scene feels polite, clear, and helpful. No readable text, no captions, no letters, no harsh punishment imagery."
+    }
+  ]
+}

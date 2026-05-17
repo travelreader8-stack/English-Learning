@@ -1,0 +1,115 @@
+{
+  "lesson_id": 16,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把规则结果、礼貌提醒和最后“愿意遵守”的语气读出来。",
+  "sentences": [
+    {
+      "id": "l16_s1",
+      "text": "If you park your car in the wrong place, a traffic policeman will soon find it.",
+      "focus_zh": "If you park 是条件；will soon find it 是结果，读出规则和后果的清楚关系。",
+      "start": 236.296,
+      "end": 241.096,
+      "focus_words": [
+        "If",
+        "park",
+        "wrong",
+        "traffic",
+        "will",
+        "find"
+      ]
+    },
+    {
+      "id": "l16_s2",
+      "text": "You will be very lucky if he lets you go without a ticket.",
+      "focus_zh": "without a ticket 在这里是没有停车罚单，不是没有车票。",
+      "start": 241.446,
+      "end": 245.286,
+      "focus_words": [
+        "will",
+        "lucky",
+        "without",
+        "ticket"
+      ]
+    },
+    {
+      "id": "l16_s3",
+      "text": "Traffic police are sometimes very polite.",
+      "focus_zh": "sometimes very polite 是故事反转的开关，语气要从处罚预期转向温和提醒。",
+      "start": 249.058,
+      "end": 252.394,
+      "focus_words": [
+        "Traffic",
+        "police",
+        "sometimes",
+        "polite"
+      ]
+    },
+    {
+      "id": "l16_s4",
+      "text": "Sir, we welcome you to our city.",
+      "focus_zh": "Sir 和 welcome 是礼貌开头，读得友好、正式一点。",
+      "start": 256.477,
+      "end": 259.453,
+      "focus_words": [
+        "Sir",
+        "welcome",
+        "city"
+      ]
+    },
+    {
+      "id": "l16_s5",
+      "text": "This is a \"No Parking\" area.",
+      "focus_zh": "No Parking 是明确规则；礼貌不等于含糊。",
+      "start": 259.803,
+      "end": 262.347,
+      "focus_words": [
+        "This",
+        "No",
+        "Parking",
+        "area"
+      ]
+    },
+    {
+      "id": "l16_s6",
+      "text": "You will enjoy your stay here if you pay attention to our street signs.",
+      "focus_zh": "pay attention to our street signs 是温和提醒，will enjoy 是积极结果。",
+      "start": 262.697,
+      "end": 266.945,
+      "focus_words": [
+        "will",
+        "enjoy",
+        "pay",
+        "attention",
+        "street",
+        "signs"
+      ]
+    },
+    {
+      "id": "l16_s7",
+      "text": "This note is only a reminder.",
+      "focus_zh": "only a reminder 说明这不是惩罚，而是帮助你注意规则。",
+      "start": 267.295,
+      "end": 269.983,
+      "focus_words": [
+        "note",
+        "only",
+        "reminder"
+      ]
+    },
+    {
+      "id": "l16_s8",
+      "text": "If you receive a request like this, you cannot fail to obey it!",
+      "focus_zh": "cannot fail to obey it 表示一定会遵守，读出作者被礼貌说服的感觉。",
+      "start": 270.333,
+      "end": 274.965,
+      "focus_words": [
+        "If",
+        "receive",
+        "request",
+        "cannot",
+        "fail",
+        "obey"
+      ]
+    }
+  ]
+}

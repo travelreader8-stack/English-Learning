@@ -1,0 +1,41 @@
+{
+  "lesson_id": 16,
+  "title": "A polite request",
+  "question": "把今天课文里“清楚但礼貌的提醒”放进学校、图书馆或共享单车的小场景——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景各填一个空、用 word bank 里的短语。",
+  "example_answer": "Welcome to our library. This is a quiet area. You will enjoy your reading if you pay attention to the signs. This note is only a reminder.",
+  "word_bank": [
+    "ticket",
+    "traffic policeman",
+    "No Parking area",
+    "street signs",
+    "reminder",
+    "obey",
+    "request",
+    "Welcome to our library",
+    "Please walk",
+    "pay attention to the signs",
+    "This note is only a reminder",
+    "You will enjoy your stay here"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "走廊提醒：不要用严厉命令吓人，而是礼貌提醒同学慢慢走",
+      "english_template": "In the hallway, a polite sign can say: ___.",
+      "expected_phrase": "Please walk"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "图书馆提醒：欢迎对方，再告诉对方注意标志、保持安静",
+      "english_template": "___. You will enjoy your reading if you pay attention to the signs.",
+      "expected_phrase": "Welcome to our library"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "共享单车提醒：车停错区域时，App 说明这只是提醒，不是吓唬",
+      "english_template": "Your bike is outside the right area. ___.",
+      "expected_phrase": "This note is only a reminder"
+    }
+  ],
+  "mode": "all_fills"
+}
