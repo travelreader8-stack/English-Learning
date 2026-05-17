@@ -72,7 +72,10 @@ def render_frame(prompt: str, png_path: Path, webp_path: Path, visual_consistenc
     if continuity:
         prompt = (
             "Visual continuity for this four-frame lesson sequence: "
-            f"{continuity}\n\nFrame-specific scene: {prompt}"
+            f"{continuity}\n\n"
+            "Generate exactly one single cinematic illustration for this frame. "
+            "Do not create a comic page, split panel, grid, montage, inset, or multiple moments in one image.\n\n"
+            f"Frame-specific scene: {prompt}"
         )
     full_prompt = f"{prompt}\n\n{STYLE_PRESET}"
     generate_image_codex(
