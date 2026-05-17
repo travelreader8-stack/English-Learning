@@ -1,0 +1,23 @@
+{
+  "lesson_id": 21,
+  "title": "Mad or not?",
+  "visual_consistency": "Keep the same narrator and house across all four frames. The narrator is a tired but stubborn middle-aged man, average build, short greying hair, oval face, wearing a brown cardigan over a pale shirt and dark trousers. His expression moves from exhausted to determined, but his face and clothing stay consistent. The house is the same modest old home with a small garden near an airport flight path. Keep passing planes visible but safe, high enough in the sky; show noise through posture, atmosphere, and movement, not readable words. The mood is noisy, weary, stubborn, and slightly comic, never frightening or disastrous.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Outside the same modest old home with a small garden near an airport flight path, the same tired but stubborn middle-aged man with short greying hair, oval face, brown cardigan over a pale shirt, and dark trousers stands exhausted near the doorway. A few planes pass safely high in the sky above the house, suggesting constant noise day and night through motion blur, tense shoulders, and rippling curtains. No crash imagery, no readable signs, no captions, no text."
+    },
+    {
+      "frame": 2,
+      "prompt": "A wider view shows the same modest old home in the foreground and an airport active in the distance after years of disuse. The same middle-aged man in the brown cardigan watches from his small garden while planes take off safely far away under a busy sky. The house and narrator remain consistent, and the airport looks operational but not threatening. No readable signs, no labels, no captions, no text."
+    },
+    {
+      "frame": 3,
+      "prompt": "On the quiet residential lane beside the same old home, neighbours calmly move away with simple boxes and bags because of the noise. The same tired middle-aged narrator in the brown cardigan remains by his gate, isolated and stubborn, watching them leave. Passing planes are visible high in the sky, safely distant. The mood is sad and practical, not chaotic or political. No readable signs, no captions, no text."
+    },
+    {
+      "frame": 4,
+      "prompt": "In front of the same modest old home and small garden, the same middle-aged narrator with short greying hair and brown cardigan holds a plain blank envelope representing a large money offer. He stands firmly with a weary but determined expression, refusing to leave while a safe distant plane passes high overhead. The house feels lived-in and emotionally important. No readable writing on the envelope, no crash imagery, no captions, no text."
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "lesson_id": 21,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把机场噪音、被动语态、补偿提议和最后的 stubborn choice 读出来。",
+  "sentences": [
+    {
+      "id": "l21_s1",
+      "text": "Aeroplanes are slowly driving me mad.",
+      "focus_zh": "driving me mad 是日常夸张，表示噪音快把我烦坏了；slowly 要读出一点点累积的压力。",
+      "start": 331.862,
+      "end": 334.862,
+      "focus_words": [
+        "Aeroplanes",
+        "slowly",
+        "driving",
+        "mad"
+      ]
+    },
+    {
+      "id": "l21_s2",
+      "text": "I live near an airport and passing planes can be heard night and day.",
+      "focus_zh": "can be heard 是被动语态；night and day 是日夜不停。",
+      "start": 335.211,
+      "end": 339.315,
+      "focus_words": [
+        "airport",
+        "passing",
+        "planes",
+        "heard",
+        "night",
+        "day"
+      ]
+    },
+    {
+      "id": "l21_s3",
+      "text": "The airport was built years ago, but for some reason it could not be used then.",
+      "focus_zh": "was built 和 could not be used 都是被动；for some reason 是由于某种原因。",
+      "start": 339.665,
+      "end": 344.633,
+      "focus_words": [
+        "airport",
+        "built",
+        "reason",
+        "used"
+      ]
+    },
+    {
+      "id": "l21_s4",
+      "text": "Last year, however, it came into use.",
+      "focus_zh": "came into use 是开始使用、开始运营；however 前后要读出转折。",
+      "start": 344.983,
+      "end": 348.319,
+      "focus_words": [
+        "Last",
+        "year",
+        "however",
+        "came",
+        "use"
+      ]
+    },
+    {
+      "id": "l21_s5",
+      "text": "Over a hundred people must have been driven away from their homes by the noise.",
+      "focus_zh": "must have been driven away 是对过去的强烈推测加被动语态，表示肯定已经被噪音逼走了。",
+      "start": 348.669,
+      "end": 353.397,
+      "focus_words": [
+        "hundred",
+        "must",
+        "have",
+        "been",
+        "driven",
+        "away",
+        "noise"
+      ]
+    },
+    {
+      "id": "l21_s6",
+      "text": "Sometimes I think this house will be knocked down by a passing plane.",
+      "focus_zh": "will be knocked down 是被动语态；这里是夸张想象，不是事故场面。",
+      "start": 356.761,
+      "end": 360.985,
+      "focus_words": [
+        "Sometimes",
+        "house",
+        "will",
+        "be",
+        "knocked",
+        "down",
+        "passing",
+        "plane"
+      ]
+    },
+    {
+      "id": "l21_s7",
+      "text": "I have been offered a large sum of money to go away, but I am determined to stay here.",
+      "focus_zh": "have been offered 是我被提供了一个条件；but 后面要读出 determined to stay 的坚定。",
+      "start": 361.335,
+      "end": 366.639,
+      "focus_words": [
+        "offered",
+        "large",
+        "sum",
+        "money",
+        "but",
+        "determined",
+        "stay"
+      ]
+    },
+    {
+      "id": "l21_s8",
+      "text": "Everybody says I must be mad and they are probably right.",
+      "focus_zh": "probably right 是疲惫又自嘲的结尾，不是生气，也不是严肃诊断。",
+      "start": 366.989,
+      "end": 370.853,
+      "focus_words": [
+        "Everybody",
+        "must",
+        "mad",
+        "probably",
+        "right"
+      ]
+    }
+  ]
+}

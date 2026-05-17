@@ -1,0 +1,1662 @@
+{
+  "total_duration": 673.777,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 12.496,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你有没有遇到过一种声音，白天也有，晚上也有，久了以后真的会让人受不了？今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Mad or not?"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“是不是疯了”。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 12.846,
+      "end": 26.157,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "mad"
+        },
+        {
+          "lang": "zh",
+          "text": "不是严肃的医学诊断，而是日常夸张。"
+        },
+        {
+          "lang": "en",
+          "text": "The noise is driving me mad"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思是“这个噪音快把我烦坏了，快让我受不了了”。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 26.507,
+      "end": 38.987,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课也不是讲“飞机很可怕”。真正的故事是：一个机场启用了，飞机日夜飞过，邻居陆续搬走，主人公拿到一大笔搬走的钱，可他还是决定留下。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 39.337,
+      "end": 52.657,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先把旧场景接到现在。机场、铁路、高架桥、地铁工地、商场、体育场，这些设施对城市可能很有用，但如果刚好建在你家旁边，生活就会被改变。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 53.007,
+      "end": 67.823,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里的"
+        },
+        {
+          "lang": "en",
+          "text": "aeroplane"
+        },
+        {
+          "lang": "zh",
+          "text": "是英式英语，更常见的现代说法是"
+        },
+        {
+          "lang": "en",
+          "text": "airplane or plane"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "came into use"
+        },
+        {
+          "lang": "zh",
+          "text": "的意思是开始使用、开始运营。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 68.172,
+      "end": 77.492,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以今天抓住这条链："
+        },
+        {
+          "lang": "en",
+          "text": "airport built, came into use, noise night and day, neighbours driven away, money offered, determined to stay"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 77.842,
+      "end": 85.442,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，主人公住在机场附近的一座老房子里。飞机从上空经过，白天听得到，晚上也听得到。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 85.792,
+      "end": 97.848,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文一开头说："
+        },
+        {
+          "lang": "en",
+          "text": "Aeroplanes are slowly driving me mad."
+        },
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "slowly"
+        },
+        {
+          "lang": "zh",
+          "text": "很重要，不是突然崩溃，而是每天一点点被噪音折磨。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 98.198,
+      "end": 114.393,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着他说："
+        },
+        {
+          "lang": "en",
+          "text": "I live near an airport and passing planes can be heard night and day."
+        },
+        {
+          "lang": "en",
+          "text": "night and day"
+        },
+        {
+          "lang": "zh",
+          "text": "就是日夜不停。"
+        },
+        {
+          "lang": "en",
+          "text": "can be heard"
+        },
+        {
+          "lang": "zh",
+          "text": "是被动语态，重点是“这种声音到处都能被听见”。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 114.743,
+      "end": 120.463,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，机场本来很多年前就建好了，但一开始没有真正启用。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 120.813,
+      "end": 132.473,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The airport was built years ago, but for some reason it could not be used then."
+        },
+        {
+          "lang": "en",
+          "text": "for some reason"
+        },
+        {
+          "lang": "zh",
+          "text": "是由于某种原因，课文没有展开解释。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 132.823,
+      "end": 145.79,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后转折来了："
+        },
+        {
+          "lang": "en",
+          "text": "Last year, however, it came into use."
+        },
+        {
+          "lang": "en",
+          "text": "came into use"
+        },
+        {
+          "lang": "zh",
+          "text": "就是开始使用、开始运营。从那以后，附近人的生活才真正被改变。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 146.14,
+      "end": 155.14,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，噪音开始把人推走。不是房子都倒了，而是生活太吵，很多人受不了，只好离开。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 155.49,
+      "end": 161.134,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Over a hundred people must have been driven away from their homes by the noise."
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 161.484,
+      "end": 175.692,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "must have been driven away"
+        },
+        {
+          "lang": "zh",
+          "text": "是一个很关键的组合。"
+        },
+        {
+          "lang": "en",
+          "text": "must have"
+        },
+        {
+          "lang": "zh",
+          "text": "表示“我几乎可以肯定已经发生了”，"
+        },
+        {
+          "lang": "en",
+          "text": "been driven away"
+        },
+        {
+          "lang": "zh",
+          "text": "是被动：他们是被噪音逼走的。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 176.041,
+      "end": 182.201,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "主人公说："
+        },
+        {
+          "lang": "en",
+          "text": "I am one of the few people left."
+        },
+        {
+          "lang": "zh",
+          "text": "他成了少数还留下来的人。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 182.551,
+      "end": 190.247,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，压力又升级了。主人公有时甚至想："
+        },
+        {
+          "lang": "en",
+          "text": "this house will be knocked down by a passing plane"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 190.597,
+      "end": 199.917,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这是一种夸张想象，不要把画面做成飞机撞房子。它是在表达：飞机从上空经过时，他觉得房子都快受不了了。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 200.267,
+      "end": 213.05,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后面还有一个现实压力："
+        },
+        {
+          "lang": "en",
+          "text": "I have been offered a large sum of money to go away."
+        },
+        {
+          "lang": "en",
+          "text": "a large sum of money"
+        },
+        {
+          "lang": "zh",
+          "text": "是一大笔钱，这里像是为了让他搬走而给出的补偿。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 213.4,
+      "end": 229.544,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可他说："
+        },
+        {
+          "lang": "en",
+          "text": "I am determined to stay here."
+        },
+        {
+          "lang": "en",
+          "text": "determined"
+        },
+        {
+          "lang": "zh",
+          "text": "是坚定的，已经下定决心的。别人说他"
+        },
+        {
+          "lang": "en",
+          "text": "must be mad"
+        },
+        {
+          "lang": "zh",
+          "text": "，他最后也半开玩笑地承认："
+        },
+        {
+          "lang": "en",
+          "text": "they are probably right"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 229.894,
+      "end": 240.617,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这篇课文最容易误会四个地方："
+        },
+        {
+          "lang": "en",
+          "text": "mad"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "aeroplane"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "came into use"
+        },
+        {
+          "lang": "zh",
+          "text": "，还有那一大笔钱到底是什么意思。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 240.967,
+      "end": 244.409,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "mad"
+        },
+        {
+          "lang": "zh",
+          "text": "是真的疯了吗？"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 244.759,
+      "end": 258.271,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在这篇里不是。它是生活里的夸张说法。比如噪音太大、作业太多、同一首歌一直循环，你可能说："
+        },
+        {
+          "lang": "en",
+          "text": "It is driving me mad."
+        },
+        {
+          "lang": "zh",
+          "text": "意思是“快把我烦坏了”。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 258.621,
+      "end": 261.507,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "aeroplane"
+        },
+        {
+          "lang": "zh",
+          "text": "是什么？"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 261.857,
+      "end": 275.184,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "aeroplane"
+        },
+        {
+          "lang": "zh",
+          "text": "是英式英语里的飞机。现在很多学生更熟的是"
+        },
+        {
+          "lang": "en",
+          "text": "airplane or plane"
+        },
+        {
+          "lang": "zh",
+          "text": "。课文比较老，所以保留了"
+        },
+        {
+          "lang": "en",
+          "text": "aeroplane"
+        },
+        {
+          "lang": "zh",
+          "text": "这个词。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 275.534,
+      "end": 280.049,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "机场不是很多年前就建好了吗，为什么去年才影响他？"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 280.398,
+      "end": 297.174,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为建好不等于启用。课文说机场"
+        },
+        {
+          "lang": "en",
+          "text": "was built years ago"
+        },
+        {
+          "lang": "zh",
+          "text": "，但当时"
+        },
+        {
+          "lang": "en",
+          "text": "could not be used"
+        },
+        {
+          "lang": "zh",
+          "text": "。到了去年，它"
+        },
+        {
+          "lang": "en",
+          "text": "came into use"
+        },
+        {
+          "lang": "zh",
+          "text": "，也就是开始运营，飞机才真的日夜飞过。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 297.524,
+      "end": 301.17,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那别人给他钱，是不是他已经同意搬走了？"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 301.52,
+      "end": 317.092,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。"
+        },
+        {
+          "lang": "en",
+          "text": "I have been offered a large sum of money"
+        },
+        {
+          "lang": "zh",
+          "text": "只是说“有人向我提供了一大笔钱”。这像是补偿或搬走的条件，但他没有接受。下一句马上说："
+        },
+        {
+          "lang": "en",
+          "text": "I am determined to stay here."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 317.442,
+      "end": 320.882,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么大家说他"
+        },
+        {
+          "lang": "en",
+          "text": "must be mad"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 321.232,
+      "end": 331.512,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为邻居都走了，噪音又日夜不停，还有钱可以拿，他却还是要留下。这个选择看起来不合理，但对他来说，这里是他的家。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 331.862,
+      "end": 334.862,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Aeroplanes are slowly driving me mad."
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 335.211,
+      "end": 339.315,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I live near an airport and passing planes can be heard night and day."
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 339.665,
+      "end": 344.633,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The airport was built years ago, but for some reason it could not be used then."
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 344.983,
+      "end": 348.319,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Last year, however, it came into use."
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 348.669,
+      "end": 353.397,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Over a hundred people must have been driven away from their homes by the noise."
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 353.747,
+      "end": 356.411,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I am one of the few people left."
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 356.761,
+      "end": 360.985,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Sometimes I think this house will be knocked down by a passing plane."
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 361.335,
+      "end": 366.639,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I have been offered a large sum of money to go away, but I am determined to stay here."
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 366.989,
+      "end": 370.853,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Everybody says I must be mad and they are probably right."
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 371.202,
+      "end": 373.794,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "mad"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "mad"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 374.144,
+      "end": 375.656,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "mad"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "mad"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 376.006,
+      "end": 384.558,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "mad"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "mad"
+        },
+        {
+          "lang": "zh",
+          "text": "在这课里是日常夸张，意思是非常烦、快受不了了，不是正式的医学标签。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 384.908,
+      "end": 394.816,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "mad"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Aeroplanes are slowly driving me mad."
+        },
+        {
+          "lang": "zh",
+          "text": "不是说飞机让他真的生病，而是说日夜不停的噪音让他越来越受不了。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 395.166,
+      "end": 403.473,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "mad"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你也可以说："
+        },
+        {
+          "lang": "en",
+          "text": "This homework is driving me mad."
+        },
+        {
+          "lang": "zh",
+          "text": "或者"
+        },
+        {
+          "lang": "en",
+          "text": "The noise outside is driving me mad."
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 403.823,
+      "end": 406.455,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sum"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "sum"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 406.805,
+      "end": 408.269,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sum"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "sum"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 408.619,
+      "end": 416.571,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sum"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "sum"
+        },
+        {
+          "lang": "zh",
+          "text": "可以表示一笔钱、一个金额。"
+        },
+        {
+          "lang": "en",
+          "text": "a large sum of money"
+        },
+        {
+          "lang": "zh",
+          "text": "就是一大笔钱。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 416.921,
+      "end": 425.104,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sum"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里说："
+        },
+        {
+          "lang": "en",
+          "text": "I have been offered a large sum of money to go away."
+        },
+        {
+          "lang": "zh",
+          "text": "这里像是一笔让他搬走的补偿或提议。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 425.454,
+      "end": 432.662,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sum"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意，"
+        },
+        {
+          "lang": "en",
+          "text": "have been offered"
+        },
+        {
+          "lang": "zh",
+          "text": "是“已经有人给我提出了这个条件”，不等于我已经接受了。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 433.012,
+      "end": 435.932,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "determined"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "determined"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 436.282,
+      "end": 438.058,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "determined"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "determined"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 438.408,
+      "end": 454.015,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "determined"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "determined"
+        },
+        {
+          "lang": "zh",
+          "text": "是坚定的、下定决心的。它常和"
+        },
+        {
+          "lang": "en",
+          "text": "to"
+        },
+        {
+          "lang": "zh",
+          "text": "连在一起："
+        },
+        {
+          "lang": "en",
+          "text": "determined to stay"
+        },
+        {
+          "lang": "zh",
+          "text": "，坚定地留下；"
+        },
+        {
+          "lang": "en",
+          "text": "determined to finish"
+        },
+        {
+          "lang": "zh",
+          "text": "，坚定地完成。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 454.365,
+      "end": 463.917,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "determined"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "主人公说："
+        },
+        {
+          "lang": "en",
+          "text": "I am determined to stay here."
+        },
+        {
+          "lang": "zh",
+          "text": "噪音、邻居搬走、钱的提议都没有改变他的决定。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 464.267,
+      "end": 472.938,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "determined"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词带出结尾的喜剧感：别人说他肯定是"
+        },
+        {
+          "lang": "en",
+          "text": "mad"
+        },
+        {
+          "lang": "zh",
+          "text": "，可他就是很"
+        },
+        {
+          "lang": "en",
+          "text": "determined"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 473.288,
+      "end": 481.8,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的"
+        },
+        {
+          "lang": "en",
+          "text": "grammar"
+        },
+        {
+          "lang": "zh",
+          "text": "是被动语态，但不要先背公式。先看主人公为什么总是在“被影响”。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 482.15,
+      "end": 492.038,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "飞机从头顶经过，声音"
+        },
+        {
+          "lang": "en",
+          "text": "can be heard night and day"
+        },
+        {
+          "lang": "zh",
+          "text": "。重点不是谁在听，而是这种声音到处都能被听到。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 492.388,
+      "end": 503.843,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "机场"
+        },
+        {
+          "lang": "en",
+          "text": "was built years ago"
+        },
+        {
+          "lang": "zh",
+          "text": "，但当时"
+        },
+        {
+          "lang": "en",
+          "text": "could not be used"
+        },
+        {
+          "lang": "zh",
+          "text": "。重点是机场这个东西经历了“被建好”和“不能被使用”。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 504.193,
+      "end": 518.865,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "邻居"
+        },
+        {
+          "lang": "en",
+          "text": "must have been driven away by the noise"
+        },
+        {
+          "lang": "zh",
+          "text": "。这句话里，"
+        },
+        {
+          "lang": "en",
+          "text": "must have"
+        },
+        {
+          "lang": "zh",
+          "text": "是对过去的强烈推测，"
+        },
+        {
+          "lang": "en",
+          "text": "been driven away"
+        },
+        {
+          "lang": "zh",
+          "text": "是被动，说明他们是被噪音逼走的。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 519.215,
+      "end": 529.71,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "房子在主人公想象里"
+        },
+        {
+          "lang": "en",
+          "text": "will be knocked down by a passing plane"
+        },
+        {
+          "lang": "zh",
+          "text": "。这不是事故报道，而是他被噪音压得太久后的夸张感觉。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 530.06,
+      "end": 540.212,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后，他自己"
+        },
+        {
+          "lang": "en",
+          "text": "has been offered a large sum of money"
+        },
+        {
+          "lang": "zh",
+          "text": "。他不是主动去要钱，而是别人向他提出了这个搬走的条件。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 540.562,
+      "end": 551.002,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以这样理解：主动力量在外面，机场、飞机、噪音、出钱的人都在推他；被动语态把镜头放在被影响的人和东西上。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 551.352,
+      "end": 561.152,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这篇的被动不是为了复杂，而是为了讲清楚一件事："
+        },
+        {
+          "lang": "en",
+          "text": "outside forces are changing his home, but he is determined to stay"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 561.502,
+      "end": 576.142,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天的故事放进自己的生活。你不一定要写机场，可以写外面的施工声、楼上的脚步声、反复出现的作业、练习、排队，或者一个让你很烦但你还想坚持的项目。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 576.492,
+      "end": 590.531,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的小框架是："
+        },
+        {
+          "lang": "en",
+          "text": "The ___ is driving me mad. I have been offered ___. But I am determined to ___."
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 590.881,
+      "end": 600.941,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "比如："
+        },
+        {
+          "lang": "en",
+          "text": "The construction noise is driving me mad. I have been offered a quieter room. But I am determined to finish my homework."
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 601.291,
+      "end": 607.339,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "也可以轻一点："
+        },
+        {
+          "lang": "en",
+          "text": "This homework is driving me mad, but I am determined to finish it."
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 607.689,
+      "end": 618.385,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，用"
+        },
+        {
+          "lang": "en",
+          "text": "word bank"
+        },
+        {
+          "lang": "zh",
+          "text": "填三个空，说清楚“什么让你受不了，别人给了你什么选择，你最后决定怎么做”。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 618.735,
+      "end": 642.346,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "driving me mad"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "can be heard night and day"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "came into use"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "must have been driven away"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "a large sum of money"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "determined to stay"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 642.696,
+      "end": 658.376,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读之后，再做 ① 生活场景，用英语说一个外部压力和坚定选择；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 658.726,
+      "end": 673.777,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住今天的结尾：大家都说他"
+        },
+        {
+          "lang": "en",
+          "text": "must be mad"
+        },
+        {
+          "lang": "zh",
+          "text": "，他也疲惫地说："
+        },
+        {
+          "lang": "en",
+          "text": "they are probably right"
+        },
+        {
+          "lang": "zh",
+          "text": "。这不是崩溃，而是一点自嘲：也许我看起来不合理，但我就是要留下。"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 21
+}

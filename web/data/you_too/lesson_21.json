@@ -1,0 +1,46 @@
+{
+  "lesson_id": 21,
+  "title": "Mad or not?",
+  "question": "把今天课文里“外部压力越来越烦，但我还是决定坚持”的结构放进你的生活。这一题不打分、老师只会鼓励 + 给一句小建议。用 word bank 填 3 个空。",
+  "example_answer": "The construction noise is driving me mad. I have been offered a quieter room. But I am determined to finish my homework.",
+  "word_bank": [
+    "driving me mad",
+    "construction noise",
+    "homework",
+    "piano practice",
+    "a quieter room",
+    "more time",
+    "a short break",
+    "help from a friend",
+    "large sum of money",
+    "offered",
+    "determined to stay",
+    "determined to finish it",
+    "determined to continue",
+    "night and day",
+    "came into use",
+    "driven away",
+    "probably right"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "外部压力：有一件反复发生的事让你很烦",
+      "english_template": "The ___ is driving me mad.",
+      "expected_phrase": "construction noise"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "别人给了你一个选择：换个安静地方、休息一下，或者接受帮助",
+      "english_template": "I have been offered ___.",
+      "expected_phrase": "a quieter room"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "坚定选择：虽然很烦，你还是决定把事情做完",
+      "english_template": "But I am ___.",
+      "expected_phrase": "determined to finish it"
+    }
+  ],
+  "mode": "all_fills"
+}
