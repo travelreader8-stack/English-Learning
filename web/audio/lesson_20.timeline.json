@@ -1,0 +1,1782 @@
+{
+  "total_duration": 660.667,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 11.576,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果一个人钓了一整个上午，一条鱼也没钓到，你会觉得他失败了吗？今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "One man in a boat"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“独坐孤舟”。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 11.926,
+      "end": 21.206,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这篇课文不是讲“怎样把鱼钓上来”，也不是笑话这个人技术很差。它真正的笑点是：朋友只看结果，他自己享受的是过程。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 21.556,
+      "end": 36.139,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先解释一个容易误会的词："
+        },
+        {
+          "lang": "en",
+          "text": "Fishing is my favourite sport."
+        },
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "sport"
+        },
+        {
+          "lang": "zh",
+          "text": "不一定是学校比赛或奥运项目，更像"
+        },
+        {
+          "lang": "en",
+          "text": "hobby"
+        },
+        {
+          "lang": "zh",
+          "text": "，一种户外活动。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 36.489,
+      "end": 48.145,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里的"
+        },
+        {
+          "lang": "en",
+          "text": "fishing"
+        },
+        {
+          "lang": "zh",
+          "text": "是休闲钓鱼。一个人可以坐在小船上，在河面待一整个上午，不一定是为了吃鱼，也可能只是想安静一下。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 48.495,
+      "end": 65.574,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "换成今天的生活，你可以想成：有人玩"
+        },
+        {
+          "lang": "en",
+          "text": "Minecraft"
+        },
+        {
+          "lang": "zh",
+          "text": "不一定为了通关；有人画画不一定为了得奖；有人搭"
+        },
+        {
+          "lang": "en",
+          "text": "LEGO"
+        },
+        {
+          "lang": "zh",
+          "text": "不一定为了最快完成。他们喜欢的是慢慢做的感觉。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 65.924,
+      "end": 77.188,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以今天抓住这条链："
+        },
+        {
+          "lang": "en",
+          "text": "no fish, empty bag, friends' scoreboard, quiet boat time"
+        },
+        {
+          "lang": "zh",
+          "text": "。朋友看“有没有鱼”，他自己要的是“坐在船上，什么也不做”。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 77.538,
+      "end": 88.29,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，清晨的河面很安静。"
+        },
+        {
+          "lang": "en",
+          "text": "narrator"
+        },
+        {
+          "lang": "zh",
+          "text": "坐在一只小木船里，带着鱼竿和一个"
+        },
+        {
+          "lang": "en",
+          "text": "fishing bag"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 88.64,
+      "end": 98.631,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他一开头说："
+        },
+        {
+          "lang": "en",
+          "text": "Fishing is my favourite sport."
+        },
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "favourite sport"
+        },
+        {
+          "lang": "zh",
+          "text": "可以理解成“我最喜欢的休闲活动”。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 98.981,
+      "end": 113.133,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着他说："
+        },
+        {
+          "lang": "en",
+          "text": "I often fish for hours without catching anything."
+        },
+        {
+          "lang": "en",
+          "text": "without catching anything"
+        },
+        {
+          "lang": "zh",
+          "text": "是“没有钓到任何东西”。可是下一句很关键："
+        },
+        {
+          "lang": "en",
+          "text": "But this does not worry me."
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 113.483,
+      "end": 120.003,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他没有着急，也没有生气。因为对他来说，坐在船上的安静时间已经很重要。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 120.352,
+      "end": 129.24,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，课文拿别的"
+        },
+        {
+          "lang": "en",
+          "text": "fishermen"
+        },
+        {
+          "lang": "zh",
+          "text": "做了一个轻轻的夸张对比。"
+        },
+        {
+          "lang": "en",
+          "text": "Some fishermen are unlucky."
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 129.59,
+      "end": 137.118,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他们不是钓到鱼，而是钓到别的东西："
+        },
+        {
+          "lang": "en",
+          "text": "Instead of catching fish, they catch old boots and rubbish."
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 137.468,
+      "end": 149.708,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "old boots"
+        },
+        {
+          "lang": "zh",
+          "text": "是旧靴子，"
+        },
+        {
+          "lang": "en",
+          "text": "rubbish"
+        },
+        {
+          "lang": "zh",
+          "text": "是垃圾。这里不用想得很脏，它更像漫画里的荒唐画面：鱼没来，靴子来了。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 150.058,
+      "end": 161.713,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句里的"
+        },
+        {
+          "lang": "en",
+          "text": "Instead of catching fish"
+        },
+        {
+          "lang": "zh",
+          "text": "很重要："
+        },
+        {
+          "lang": "en",
+          "text": "instead of"
+        },
+        {
+          "lang": "zh",
+          "text": "后面接"
+        },
+        {
+          "lang": "en",
+          "text": "catching"
+        },
+        {
+          "lang": "zh",
+          "text": "，表示“不是做 A，而是做 B”。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 162.063,
+      "end": 169.979,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，课文把笑点又往前推一步。"
+        },
+        {
+          "lang": "en",
+          "text": "I am even less lucky."
+        },
+        {
+          "lang": "zh",
+          "text": "他比那些人还“不走运”。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 170.329,
+      "end": 182.176,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么？因为他说："
+        },
+        {
+          "lang": "en",
+          "text": "I never catch anything -- not even old boots."
+        },
+        {
+          "lang": "en",
+          "text": "not even"
+        },
+        {
+          "lang": "zh",
+          "text": "的意思是“连最低的期待都没有”。连旧靴子都没有。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 182.526,
+      "end": 191.142,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后是整篇里最像“成绩单”的画面："
+        },
+        {
+          "lang": "en",
+          "text": "After having spent whole mornings on the river, I always go home with an empty bag."
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 191.492,
+      "end": 204.82,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "empty bag"
+        },
+        {
+          "lang": "zh",
+          "text": "是空袋子。朋友看到这个结果，就说："
+        },
+        {
+          "lang": "en",
+          "text": "You must give up fishing! It's a waste of time."
+        },
+        {
+          "lang": "zh",
+          "text": "他们觉得没有鱼，就是浪费时间。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 205.17,
+      "end": 212.714,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，真正的答案揭晓。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "But they don't realize one important thing."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 213.063,
+      "end": 221.943,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "朋友没有意识到重要的一点："
+        },
+        {
+          "lang": "en",
+          "text": "I'm not really interested in fishing."
+        },
+        {
+          "lang": "zh",
+          "text": "他并不是真的对“钓到鱼”这件事感兴趣。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 222.293,
+      "end": 229.861,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一行才是全课的机关："
+        },
+        {
+          "lang": "en",
+          "text": "I am only interested in sitting in a boat and doing nothing at all!"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 230.211,
+      "end": 237.731,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以他不是“钓鱼失败”。他成功得到了自己想要的东西：坐在船上，安安静静，什么也不做。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 238.081,
+      "end": 242.581,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这篇课文最容易误会的地方，是把它当成钓鱼技术课。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 242.931,
+      "end": 246.923,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他真的喜欢"
+        },
+        {
+          "lang": "en",
+          "text": "fishing"
+        },
+        {
+          "lang": "zh",
+          "text": "吗？"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 247.273,
+      "end": 259.641,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "喜欢，但不是朋友以为的那种喜欢。朋友以为"
+        },
+        {
+          "lang": "en",
+          "text": "fishing"
+        },
+        {
+          "lang": "zh",
+          "text": "的目标是"
+        },
+        {
+          "lang": "en",
+          "text": "catch fish"
+        },
+        {
+          "lang": "zh",
+          "text": "。他真正喜欢的是"
+        },
+        {
+          "lang": "en",
+          "text": "sitting in a boat"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 259.991,
+      "end": 264.27,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "sport"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么不是比赛？"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 264.62,
+      "end": 278.98,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为英语里"
+        },
+        {
+          "lang": "en",
+          "text": "sport"
+        },
+        {
+          "lang": "zh",
+          "text": "有时也可以指休闲户外活动。这里的"
+        },
+        {
+          "lang": "en",
+          "text": "Fishing is my favourite sport"
+        },
+        {
+          "lang": "zh",
+          "text": "更像“钓鱼是我最喜欢的爱好”，不是“我要赢一场钓鱼比赛”。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 279.329,
+      "end": 283.257,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "old boots and rubbish"
+        },
+        {
+          "lang": "zh",
+          "text": "是不是很恶心？"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 283.607,
+      "end": 297.911,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不要往那个方向想。这里是轻喜剧的夸张：有些人运气差，鱼没钓到，反而钓到旧靴子和垃圾。它是为了让后面的"
+        },
+        {
+          "lang": "en",
+          "text": "not even old boots"
+        },
+        {
+          "lang": "zh",
+          "text": "更好笑。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 298.261,
+      "end": 301.858,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "朋友为什么说"
+        },
+        {
+          "lang": "en",
+          "text": "It's a waste of time"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 302.208,
+      "end": 312.188,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为他们只看结果：袋子是空的，没有鱼。可是他们"
+        },
+        {
+          "lang": "en",
+          "text": "don't realize"
+        },
+        {
+          "lang": "zh",
+          "text": "，这个人本来就不是为了鱼来河上的。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 312.538,
+      "end": 317.099,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "doing nothing at all"
+        },
+        {
+          "lang": "zh",
+          "text": "是偷懒吗？"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 317.449,
+      "end": 326.569,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在这篇里不是。它是安静休息，是从忙碌里抽出来的一段空白时间。结果可以重要，但有些活动的价值也在过程里。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 326.919,
+      "end": 329.559,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Fishing is my favourite sport."
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 329.908,
+      "end": 333.436,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I often fish for hours without catching anything."
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 333.786,
+      "end": 336.186,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "But this does not worry me."
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 336.536,
+      "end": 339.104,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Some fishermen are unlucky."
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 339.454,
+      "end": 343.438,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Instead of catching fish, they catch old boots and rubbish."
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 343.788,
+      "end": 346.092,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I am even less lucky."
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 346.442,
+      "end": 349.682,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I never catch anything -- not even old boots."
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 350.032,
+      "end": 355.12,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "After having spent whole mornings on the river, I always go home with an empty bag."
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 355.47,
+      "end": 358.638,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'You must give up fishing!' my friends say."
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 358.988,
+      "end": 361.124,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'It's a waste of time.'"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 361.473,
+      "end": 364.569,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "But they don't realize one important thing."
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 364.919,
+      "end": 367.775,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I'm not really interested in fishing."
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 368.125,
+      "end": 372.637,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I am only interested in sitting in a boat and doing nothing at all!"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 372.987,
+      "end": 375.555,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "catch"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "catch"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 375.905,
+      "end": 377.393,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "catch"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "catch"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 377.743,
+      "end": 390.758,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "catch"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "catch"
+        },
+        {
+          "lang": "zh",
+          "text": "在这课里是“钓到、抓到”。你可以"
+        },
+        {
+          "lang": "en",
+          "text": "catch a ball"
+        },
+        {
+          "lang": "zh",
+          "text": "，可以"
+        },
+        {
+          "lang": "en",
+          "text": "catch a bus"
+        },
+        {
+          "lang": "zh",
+          "text": "，也可以"
+        },
+        {
+          "lang": "en",
+          "text": "catch fish"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 391.108,
+      "end": 401.24,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "catch"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "I often fish for hours without catching anything."
+        },
+        {
+          "lang": "zh",
+          "text": "他钓了很久，却没有"
+        },
+        {
+          "lang": "en",
+          "text": "catch anything"
+        },
+        {
+          "lang": "zh",
+          "text": "，什么也没钓到。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 401.59,
+      "end": 404.246,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "waste"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "waste"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 404.595,
+      "end": 406.203,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "waste"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "waste"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 406.553,
+      "end": 417.337,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "waste"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "waste"
+        },
+        {
+          "lang": "zh",
+          "text": "是浪费，表示时间、钱或精力没有被好好使用。朋友看到空袋子，就说："
+        },
+        {
+          "lang": "en",
+          "text": "It's a waste of time."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 417.687,
+      "end": 429.159,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "waste"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但要记住，这是朋友的判断，不是故事的全部真相。朋友觉得没有鱼就是"
+        },
+        {
+          "lang": "en",
+          "text": "a waste of time"
+        },
+        {
+          "lang": "zh",
+          "text": "，他自己觉得安静的上午很值得。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 429.509,
+      "end": 432.477,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "realize"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "realize"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 432.826,
+      "end": 434.578,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "realize"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "realize"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 434.928,
+      "end": 442.256,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "realize"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "realize"
+        },
+        {
+          "lang": "zh",
+          "text": "是意识到、明白过来。它常常表示“之前没看懂，现在终于懂了”。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 442.606,
+      "end": 452.53,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "realize"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "They don't realize one important thing."
+        },
+        {
+          "lang": "zh",
+          "text": "朋友没有意识到真正的重点：他不是为了鱼，他是为了坐在船上安静一会儿。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 452.88,
+      "end": 462.588,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的"
+        },
+        {
+          "lang": "en",
+          "text": "grammar"
+        },
+        {
+          "lang": "zh",
+          "text": "不要从一大张表开始。先听这篇课文反复出现的"
+        },
+        {
+          "lang": "en",
+          "text": "-ing"
+        },
+        {
+          "lang": "zh",
+          "text": "节奏。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 462.937,
+      "end": 473.157,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组："
+        },
+        {
+          "lang": "en",
+          "text": "without catching anything"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "without"
+        },
+        {
+          "lang": "zh",
+          "text": "后面接"
+        },
+        {
+          "lang": "en",
+          "text": "catching"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思是“没有钓到任何东西”。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 473.507,
+      "end": 484.962,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组："
+        },
+        {
+          "lang": "en",
+          "text": "Instead of catching fish"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "instead of"
+        },
+        {
+          "lang": "zh",
+          "text": "后面接"
+        },
+        {
+          "lang": "en",
+          "text": "catching"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思是“不是钓鱼，而是钓到别的东西”。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 485.312,
+      "end": 498.992,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组："
+        },
+        {
+          "lang": "en",
+          "text": "After having spent whole mornings on the river"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "after"
+        },
+        {
+          "lang": "zh",
+          "text": "后面可以接一个"
+        },
+        {
+          "lang": "en",
+          "text": "-ing"
+        },
+        {
+          "lang": "zh",
+          "text": "短语，表示“在做完这件事之后”。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 499.342,
+      "end": 514.745,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四组："
+        },
+        {
+          "lang": "en",
+          "text": "interested in fishing"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "interested in sitting in a boat and doing nothing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "interested in"
+        },
+        {
+          "lang": "zh",
+          "text": "后面常接"
+        },
+        {
+          "lang": "en",
+          "text": "-ing"
+        },
+        {
+          "lang": "zh",
+          "text": "，因为这里说的是活动和兴趣。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 515.095,
+      "end": 526.991,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以这样记："
+        },
+        {
+          "lang": "en",
+          "text": "without + -ing"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "instead of + -ing"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "after + -ing"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "interested in + -ing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 527.341,
+      "end": 537.541,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这套语法刚好也指向主题：他不是在数鱼，他是在说一种活动、一段过程、一种让自己安静下来的兴趣。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 537.89,
+      "end": 554.25,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有两个小表达。"
+        },
+        {
+          "lang": "en",
+          "text": "not even"
+        },
+        {
+          "lang": "zh",
+          "text": "是“甚至连……都不”，所以"
+        },
+        {
+          "lang": "en",
+          "text": "not even old boots"
+        },
+        {
+          "lang": "zh",
+          "text": "很好笑。"
+        },
+        {
+          "lang": "en",
+          "text": "at all"
+        },
+        {
+          "lang": "zh",
+          "text": "用来加强“什么也不”的感觉："
+        },
+        {
+          "lang": "en",
+          "text": "doing nothing at all"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 554.6,
+      "end": 563.6,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天的故事放进自己的生活。想一个你喜欢做的活动，它不一定有很亮眼的结果，但过程本身让你舒服。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 563.95,
+      "end": 576.209,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以是慢慢搭"
+        },
+        {
+          "lang": "en",
+          "text": "LEGO"
+        },
+        {
+          "lang": "zh",
+          "text": "，在"
+        },
+        {
+          "lang": "en",
+          "text": "Minecraft"
+        },
+        {
+          "lang": "zh",
+          "text": "里乱建房子，安静画画，散步，练琴，投篮，拍照片，或者放学后坐一会儿。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 576.559,
+      "end": 588.719,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "关键句型是："
+        },
+        {
+          "lang": "en",
+          "text": "I am not really interested in ___. I am only interested in ___ and ___ ."
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 589.069,
+      "end": 597.897,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你还可以加一句对比："
+        },
+        {
+          "lang": "en",
+          "text": "My friends think it is a waste of time, but they don't realize that I enjoy ___."
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 598.247,
+      "end": 606.943,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，用"
+        },
+        {
+          "lang": "en",
+          "text": "word bank"
+        },
+        {
+          "lang": "zh",
+          "text": "填三个空，说清楚“别人看什么结果、你真正享受什么过程”。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 607.292,
+      "end": 630.904,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "without catching anything"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "Instead of catching fish"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "not even old boots"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "empty bag"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "a waste of time"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "doing nothing at all"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 631.254,
+      "end": 648.134,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读之后，再做 ① 生活场景，用英语说一个你享受过程、不只追求结果的活动；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 648.484,
+      "end": 660.667,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住今天的结尾：朋友看到的是空袋子，他得到的是安静的上午。"
+        },
+        {
+          "lang": "en",
+          "text": "He is not failing at fishing. He is succeeding at having quiet boat time."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 20
+}

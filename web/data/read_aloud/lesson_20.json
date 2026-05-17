@@ -1,0 +1,119 @@
+{
+  "lesson_id": 20,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把钓鱼爱好、没有钓到鱼、朋友判断浪费时间、最后发现他真正享受安静过程这条线读出来。",
+  "sentences": [
+    {
+      "id": "l20_s1",
+      "text": "Fishing is my favourite sport.",
+      "focus_zh": "fishing 是活动名词；favourite sport 在这课里更像最喜欢的户外爱好，不是比赛项目。",
+      "start": 326.919,
+      "end": 329.559,
+      "focus_words": [
+        "Fishing",
+        "favourite",
+        "sport"
+      ]
+    },
+    {
+      "id": "l20_s2",
+      "text": "I often fish for hours without catching anything. But this does not worry me.",
+      "focus_zh": "without catching anything 读出一整上午没结果；But this does not worry me 要读出他并不焦虑。",
+      "start": 329.908,
+      "end": 336.186,
+      "focus_words": [
+        "often",
+        "hours",
+        "without",
+        "catching",
+        "anything",
+        "worry"
+      ]
+    },
+    {
+      "id": "l20_s3",
+      "text": "Instead of catching fish, they catch old boots and rubbish.",
+      "focus_zh": "Instead of catching 是不是 A 而是 B；old boots and rubbish 是轻松夸张的漫画感。",
+      "start": 339.454,
+      "end": 343.438,
+      "focus_words": [
+        "Instead",
+        "catching",
+        "fish",
+        "old",
+        "boots",
+        "rubbish"
+      ]
+    },
+    {
+      "id": "l20_s4",
+      "text": "I never catch anything -- not even old boots.",
+      "focus_zh": "not even 表示连最低期待都没有；读出轻轻的反差笑点。",
+      "start": 346.442,
+      "end": 349.682,
+      "focus_words": [
+        "never",
+        "catch",
+        "anything",
+        "not",
+        "even",
+        "boots"
+      ]
+    },
+    {
+      "id": "l20_s5",
+      "text": "After having spent whole mornings on the river, I always go home with an empty bag.",
+      "focus_zh": "After having spent 是做完整个上午以后；empty bag 是朋友看到的结果。",
+      "start": 350.032,
+      "end": 355.12,
+      "focus_words": [
+        "After",
+        "having",
+        "spent",
+        "whole",
+        "mornings",
+        "empty",
+        "bag"
+      ]
+    },
+    {
+      "id": "l20_s6",
+      "text": "It's a waste of time.",
+      "focus_zh": "a waste of time 是朋友的判断，不是故事的最终答案。",
+      "start": 358.988,
+      "end": 361.124,
+      "focus_words": [
+        "waste",
+        "time"
+      ]
+    },
+    {
+      "id": "l20_s7",
+      "text": "But they don't realize one important thing.",
+      "focus_zh": "don't realize 是还没有意识到；important thing 是最后揭晓前的停顿。",
+      "start": 361.473,
+      "end": 364.569,
+      "focus_words": [
+        "don't",
+        "realize",
+        "important",
+        "thing"
+      ]
+    },
+    {
+      "id": "l20_s8",
+      "text": "I am only interested in sitting in a boat and doing nothing at all!",
+      "focus_zh": "interested in 后接 -ing；doing nothing at all 是真正的揭晓，要读得平静又满足。",
+      "start": 368.125,
+      "end": 372.637,
+      "focus_words": [
+        "only",
+        "interested",
+        "sitting",
+        "boat",
+        "doing",
+        "nothing"
+      ]
+    }
+  ]
+}

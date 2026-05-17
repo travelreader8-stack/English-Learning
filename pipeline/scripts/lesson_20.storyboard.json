@@ -1,0 +1,23 @@
+{
+  "lesson_id": 20,
+  "title": "One man in a boat",
+  "visual_consistency": "Keep the same narrator and boat across all four frames. The narrator is a relaxed adult man in his thirties, slim build, short dark hair, oval face, wearing a soft olive jacket with rolled-up sleeves, tan trousers, and a straw fishing hat. He has a calm, slightly amused face rather than a frustrated face. The boat is the same small wooden rowboat with simple fishing gear, an idle fishing rod, and a brown empty fishing bag. Keep the river setting gentle, green, quiet, and early-morning; no readable text anywhere. The mood is restful and lightly comic, never foolish or dirty.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "On a quiet green river in early morning, the same relaxed adult man in his thirties with short dark hair, oval face, soft olive jacket with rolled-up sleeves, tan trousers, and straw fishing hat sits alone in the same small wooden rowboat. Simple fishing gear, an idle fishing rod, and a brown fishing bag are visible. He looks calm and content while fishing, not frustrated. Restful light, gentle countryside banks, no readable text, no captions, no labels."
+    },
+    {
+      "frame": 2,
+      "prompt": "A gentle comic river scene near the same quiet green river: two unlucky fishermen in small nearby boats pull up harmless old boots and a little clean rubbish instead of fish. The same relaxed narrator in the small wooden rowboat is visible in the background with his olive jacket, straw fishing hat, idle rod, and brown fishing bag, still calm and slightly amused. Make the old boots and rubbish mild and cartoon-like, not dirty or unpleasant. No readable text, no captions, no labels."
+    },
+    {
+      "frame": 3,
+      "prompt": "At the riverside path after a whole morning, the same relaxed narrator in his soft olive jacket, tan trousers, and straw fishing hat carries the same brown fishing bag hanging open and clearly empty. Two friendly adult friends gesture kindly that he should stop fishing, judging by the empty bag, while the same small wooden rowboat rests behind him at the riverbank. The narrator stays calm, not ashamed or foolish. No readable text, no captions, no labels."
+    },
+    {
+      "frame": 4,
+      "prompt": "Back on the quiet green river, the same relaxed narrator sits peacefully in the same small wooden rowboat with the fishing rod resting idle, the brown empty fishing bag nearby, and morning light on the water. He leans back slightly with a calm, satisfied smile, enjoying doing nothing at all. The scene should make peaceful idleness feel like the real goal of the story. No readable text, no captions, no labels."
+    }
+  ]
+}

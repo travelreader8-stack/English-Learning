@@ -1,0 +1,43 @@
+{
+  "lesson_id": 20,
+  "title": "One man in a boat",
+  "question": "把今天课文里“别人看结果，自己享受过程”的想法放进你的生活。这一题不打分、老师只会鼓励 + 给一句小建议。用 word bank 填 3 个空。",
+  "example_answer": "I am not really interested in winning a prize. I am only interested in drawing quietly and relaxing. My friends think it is a waste of time, but they don't realize that I enjoy the process.",
+  "word_bank": [
+    "winning a prize",
+    "finishing fastest",
+    "getting likes",
+    "drawing quietly",
+    "building slowly",
+    "walking alone",
+    "practising basketball",
+    "playing Minecraft",
+    "sitting quietly",
+    "enjoy the process",
+    "a waste of time",
+    "don't realize",
+    "interested in",
+    "doing nothing at all"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "别人看结果：你并不是只为了赢一个奖",
+      "english_template": "I am not really interested in ___.",
+      "expected_phrase": "winning a prize"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "真正的过程：你喜欢安静地做这件事",
+      "english_template": "I am only interested in ___ and relaxing.",
+      "expected_phrase": "drawing quietly"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "点出差别：朋友觉得浪费时间，但他们没意识到你享受过程",
+      "english_template": "My friends think it is a waste of time, but they don't realize that I ___.",
+      "expected_phrase": "enjoy the process"
+    }
+  ],
+  "mode": "all_fills"
+}
