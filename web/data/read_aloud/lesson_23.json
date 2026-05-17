@@ -1,0 +1,105 @@
+{
+  "lesson_id": 23,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把姐姐远在 Nigeria、明年回来、房子已经建好、现代房子在地区里显得特别这条时间线读顺。",
+  "sentences": [
+    {
+      "id": "l23_s1",
+      "text": "In her letter, she said that she would come to England next year.",
+      "focus_zh": "said that she would come 是过去信里说的未来；England 是她明年要来的地方。",
+      "start": 245.615,
+      "end": 249.695,
+      "focus_words": [
+        "letter",
+        "said",
+        "would",
+        "come",
+        "England"
+      ]
+    },
+    {
+      "id": "l23_s2",
+      "text": "If she comes, she will get a surprise.",
+      "focus_zh": "If she comes -> she will get a surprise，是一个真实可能发生的未来条件。",
+      "start": 250.045,
+      "end": 253.141,
+      "focus_words": [
+        "If",
+        "comes",
+        "will",
+        "get",
+        "surprise"
+      ]
+    },
+    {
+      "id": "l23_s3",
+      "text": "We are now living in a beautiful new house in the country.",
+      "focus_zh": "in the country 在这课里是乡下、乡间，不是国家。",
+      "start": 253.491,
+      "end": 257.283,
+      "focus_words": [
+        "now",
+        "living",
+        "beautiful",
+        "house",
+        "country"
+      ]
+    },
+    {
+      "id": "l23_s4",
+      "text": "Work on it had begun before my sister left.",
+      "focus_zh": "had begun before 说明房子动工早于姐姐离开，是更早发生的事。",
+      "start": 257.633,
+      "end": 260.921,
+      "focus_words": [
+        "Work",
+        "had",
+        "begun",
+        "before",
+        "left"
+      ]
+    },
+    {
+      "id": "l23_s5",
+      "text": "The house was completed five months ago.",
+      "focus_zh": "was completed 是被动语态，重点是房子五个月前建好了。",
+      "start": 261.271,
+      "end": 264.414,
+      "focus_words": [
+        "house",
+        "was",
+        "completed",
+        "five",
+        "months"
+      ]
+    },
+    {
+      "id": "l23_s6",
+      "text": "It is a very modern house, so it looks strange to some people.",
+      "focus_zh": "modern 是风格新；strange 是不熟悉、显得特别，不是坏或丑。",
+      "start": 272.976,
+      "end": 277.224,
+      "focus_words": [
+        "modern",
+        "house",
+        "looks",
+        "strange",
+        "people"
+      ]
+    },
+    {
+      "id": "l23_s7",
+      "text": "It must be the only modern house in the district.",
+      "focus_zh": "must be 是强推测；district 是附近地区、local area。",
+      "start": 277.574,
+      "end": 281.15,
+      "focus_words": [
+        "must",
+        "only",
+        "modern",
+        "house",
+        "district"
+      ]
+    }
+  ]
+}

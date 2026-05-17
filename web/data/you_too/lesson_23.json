@@ -1,0 +1,39 @@
+{
+  "lesson_id": 23,
+  "title": "A new house",
+  "question": "把今天课文里“远方回来、地方已经改变、现代设计让人第一眼不习惯”的线索放进家、小区或学校场景——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景各填一个空、用 word bank 里的短语。",
+  "example_answer": "If my aunt comes next year, she will get a surprise. Work on the room had begun before the holiday, and now it is very modern, so it looks strange to some people.",
+  "word_bank": [
+    "will get a surprise",
+    "had begun before",
+    "was completed",
+    "modern",
+    "strange",
+    "district",
+    "in the country",
+    "stay with us",
+    "large rooms",
+    "lovely garden"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "亲戚明年来访：阿姨明年来我们家，会发现家里已经变了",
+      "english_template": "If my aunt comes next year, she ___.",
+      "expected_phrase": "will get a surprise"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "假期后的教室：教室工程在放假前就已经开始了",
+      "english_template": "Work on the classroom ___ the holiday.",
+      "expected_phrase": "had begun before"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "老街上的新图书馆：它很现代，所以有些人第一眼觉得不习惯",
+      "english_template": "The new library is very ___, so it looks strange to some people.",
+      "expected_phrase": "modern"
+    }
+  ],
+  "mode": "all_fills"
+}

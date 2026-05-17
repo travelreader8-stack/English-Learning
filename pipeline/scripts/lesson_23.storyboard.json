@@ -1,0 +1,23 @@
+{
+  "lesson_id": 23,
+  "title": "A new house",
+  "visual_consistency": "Keep the same narrator, sister, modern house, garden, and countryside district across all four frames. The narrator is a warm adult man in his thirties with short brown hair, an oval face, average build, a soft moss-green sweater over a white shirt, calm family expression, and a plain folded paper or blank envelope as a prop when needed. The sister is an adult woman in her thirties with similar family features, shoulder-length dark brown hair, a tan travel coat, and a small navy suitcase; she appears only through memory, distance, or implied future arrival. The modern house is always the same clean-lined countryside house with pale walls, large clear windows, a simple geometric shape, airy large rooms suggested by the windows, and a lovely flower garden. The surrounding district stays rural and older, with warm stone or brick traditional houses nearby. Show modern design as welcoming and different, not luxury advertising. No readable text anywhere.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Inside a cozy English home, the narrator sits near a window reading a plain letter from his sister far away. The folded paper and envelope are blank with no readable writing. Add a subtle feeling of long distance through a small travel keepsake or globe-like shape in the room, but do not use maps, labels, flags, or text. The mood is warm and curious, centered on family news from Nigeria to England."
+    },
+    {
+      "frame": 2,
+      "prompt": "Earlier timeline in the English countryside: construction work had already begun on the same modern house before the sister left. Show the narrator watching the early building work with simple scaffolding, timber, and workers in the distance. The sister is implied as leaving or already absent, with a small suitcase near the edge of the scene, but no split screen and no readable signs."
+    },
+    {
+      "frame": 3,
+      "prompt": "The completed modern house in the countryside five months later, welcoming and family-like rather than luxurious. Show pale walls, large windows suggesting many large rooms, the same lovely garden in bloom, and the narrator standing proudly but gently near the entrance, as if ready to welcome his sister to stay with the family. No real-estate advertising mood, no text."
+    },
+    {
+      "frame": 4,
+      "prompt": "The same modern house standing out among older traditional countryside houses in the district. The sister's future surprise is suggested by her approaching with a small suitcase, pausing with a curious but happy expression as she sees the modern house. The contrast should make the house look unusual and new in style, not ugly or cold. No readable text anywhere."
+    }
+  ]
+}
