@@ -5,6 +5,8 @@ storyboard.json → 4 帧 WebP（96 课批量）
 
 每课读 `pipeline/scripts/lesson_N.storyboard.json`，每帧调一次 vet-school 的
 codex_image 模块（gpt-image-2 via ChatGPT OAuth），然后用 Pillow 压成 WebP @ q85。
+如果 storyboard 顶层包含 `visual_consistency`，会自动拼到每一帧 prompt 前面，
+用于保持主角、服装、年龄、发型和画面风格一致。
 
 风格预设固定（不让 Claude 改），保证 96 课 × 4 帧的整套连环画风格统一。
 
@@ -64,8 +66,14 @@ STYLE_PRESET = (
 )
 
 
-def render_frame(prompt: str, png_path: Path, webp_path: Path) -> tuple[int, int]:
+def render_frame(prompt: str, png_path: Path, webp_path: Path, visual_consistency: str = "") -> tuple[int, int]:
     """生成 PNG，再压 WebP，删 PNG。返回 (png_kb, webp_kb)。"""
+    continuity = visual_consistency.strip()
+    if continuity:
+        prompt = (
+            "Visual continuity for this four-frame lesson sequence: "
+            f"{continuity}\n\nFrame-specific scene: {prompt}"
+        )
     full_prompt = f"{prompt}\n\n{STYLE_PRESET}"
     generate_image_codex(
         prompt=full_prompt,
@@ -106,6 +114,7 @@ def main() -> None:
     for sb_path in tqdm(sb_files, desc="生图"):
         sb = json.loads(sb_path.read_text(encoding="utf-8"))
         lid = sb["lesson_id"]
+        visual_consistency = str(sb.get("visual_consistency") or "").strip()
         for frame in sb["frames"]:
             fnum = frame["frame"]
             png_path = args.audio_dir / f"lesson_{lid}_frame_{fnum}.png"
@@ -113,7 +122,7 @@ def main() -> None:
             if args.skip_existing and webp_path.exists():
                 continue
             try:
-                png_kb, webp_kb = render_frame(frame["prompt"], png_path, webp_path)
+                png_kb, webp_kb = render_frame(frame["prompt"], png_path, webp_path, visual_consistency)
                 total_png_kb += png_kb
                 total_webp_kb += webp_kb
                 n_frames += 1

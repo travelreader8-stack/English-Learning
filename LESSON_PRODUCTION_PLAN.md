@@ -48,10 +48,15 @@ Course design cards live in `lesson_plans/`:
 - `lesson_plans/lesson_010.md` - Lesson 10, `Not for jazz`
 - `lesson_plans/lesson_011.md` - Lesson 11, `One good turn deserves another`
 - `lesson_plans/lesson_012.md` - Lesson 12, `Goodbye and good luck`
+- `lesson_plans/lesson_013.md` - Lesson 13, `The Greenwood Boys`
+- `lesson_plans/lesson_014.md` - Lesson 14, `Do you speak English?`
+- `lesson_plans/lesson_015.md` - Lesson 15, `Good news`
+- `lesson_plans/lesson_016.md` - Lesson 16, `A polite request`
+- `lesson_plans/lesson_017.md` - Lesson 17, `Always young`
 
 When future lessons are discussed, add one new file:
 
-- `lesson_plans/lesson_013.md`
+- `lesson_plans/lesson_018.md`
 - etc.
 
 Do not keep lesson-specific design cards in this root plan. This file is the
@@ -99,6 +104,11 @@ of silently patching the platform.
 2. **Script and exercise assets**
    - Create `pipeline/scripts/lesson_N.script.md`.
    - Create `pipeline/scripts/lesson_N.storyboard.json`.
+   - Add a top-level `visual_consistency` string in the storyboard JSON. This
+     must describe the recurring protagonist or core object in English:
+     age range, hair, face shape, clothing colors, build, mood, and key props.
+     Each of the 4 frame prompts should reuse the same character/object wording
+     instead of inventing a new-looking person in each frame.
    - Create `web/data/you_too/lesson_N.json`.
    - Create `web/data/read_aloud/lesson_N.json` with 5-8 guided sentences.
    - Keep `[EN]...[/EN]` tags balanced.
@@ -126,6 +136,18 @@ of silently patching the platform.
      `cd web && npx tsx dev-server.ts`
      then open `http://127.0.0.1:5500/lesson.html?id=N`.
 
+5. **Commit and push**
+   - After a lesson is fully produced and validated, commit and push the lesson
+     automatically.
+   - First run `git status --short`.
+   - Stage only the files for this lesson and any explicit plan/index files that
+     were intentionally changed for this lesson. Do not stage unrelated local
+     work.
+   - Use a concise commit message such as
+     `Produce Lesson N courseware assets`.
+   - Push the current branch to `origin` so GitHub and Vercel receive the
+     completed lesson.
+
 ## Course Design Principles
 
 New Concept English is old, but the courseware should not feel like a museum.
@@ -152,6 +174,9 @@ A lesson is ready only when:
 
 - The per-lesson script exists and follows the required scene structure.
 - The per-lesson storyboard has exactly 4 frames.
+- The storyboard includes `visual_consistency`, and all 4 image prompts preserve
+  the same protagonist or core object unless the lesson intentionally has no
+  recurring subject.
 - The per-lesson `you_too` JSON follows the course design card.
 - The per-lesson `read_aloud` JSON has 5-8 high-value sentences with
   `focus_zh`, `start`, `end`, and `focus_words`.
@@ -161,3 +186,5 @@ A lesson is ready only when:
   per-lesson plan.
 - The final `outro` page and narration explicitly include `⓪ 跟读` before
   `① 生活场景`, with the concrete read-aloud steps.
+- The completed lesson is committed and pushed, unless the user explicitly asks
+  for a local-only run.
