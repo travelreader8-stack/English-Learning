@@ -1,0 +1,1066 @@
+{
+  "total_duration": 527.076,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 11.52,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "想象老师很严肃地说：“下课后来我办公室一下。”你一路走过去，心里可能已经开始排队猜坏结果：是不是作业出问题了？是不是要被批评？"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 11.87,
+      "end": 28.486,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Good news"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“佳音”。这篇课文不是单纯讲办公室，而是讲一种心理反转：权威人物叫你进去，语气很严肃，每一个线索都像坏消息，最后却变成好消息。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 28.836,
+      "end": 44.183,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先把旧办公室背景说清楚。"
+        },
+        {
+          "lang": "en",
+          "text": "secretary"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里是帮老板安排见面、传话的办公室工作人员。"
+        },
+        {
+          "lang": "en",
+          "text": "Mr. Harmsworth would see me"
+        },
+        {
+          "lang": "zh",
+          "text": "不是“看见我一眼”，而是老板要和我谈话。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 44.533,
+      "end": 63.309,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "firm"
+        },
+        {
+          "lang": "zh",
+          "text": "就是 company，公司。"
+        },
+        {
+          "lang": "en",
+          "text": "salary"
+        },
+        {
+          "lang": "zh",
+          "text": "是工作以后定期拿到的工资。"
+        },
+        {
+          "lang": "en",
+          "text": "business was very bad"
+        },
+        {
+          "lang": "zh",
+          "text": "是公司情况不好。如果公司付不起工资，又已经有人离开，员工当然会担心：是不是轮到我倒霉了？"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 63.659,
+      "end": 79.514,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以听这一课时，先别急着看结尾。你要跟着作者一起紧张：老板不抬头，生意很糟，工资太高，二十个人已经走了。等到最后一句，题目"
+        },
+        {
+          "lang": "en",
+          "text": "Good news"
+        },
+        {
+          "lang": "zh",
+          "text": "才真正亮起来。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 79.864,
+      "end": 94.288,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，消息来了："
+        },
+        {
+          "lang": "en",
+          "text": "The secretary told me that Mr. Harmsworth would see me."
+        },
+        {
+          "lang": "zh",
+          "text": "秘书通知作者，老板要见他。这个开头本身不一定坏，但它像“下课后来一下”一样，会让人开始胡思乱想。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 94.638,
+      "end": 112.174,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，作者进了办公室："
+        },
+        {
+          "lang": "en",
+          "text": "I felt very nervous when I went into his office."
+        },
+        {
+          "lang": "zh",
+          "text": "他非常紧张。更糟的是："
+        },
+        {
+          "lang": "en",
+          "text": "He did not look up from his desk when I entered."
+        },
+        {
+          "lang": "zh",
+          "text": "老板连头也没抬。这个安静的动作，让气氛更像坏消息。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 112.524,
+      "end": 129.331,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，老板终于开口，但内容听起来更危险："
+        },
+        {
+          "lang": "en",
+          "text": "After I had sat down, he said that business was very bad."
+        },
+        {
+          "lang": "zh",
+          "text": "接着他又说："
+        },
+        {
+          "lang": "en",
+          "text": "the firm could not afford to pay such large salaries."
+        },
+        {
+          "lang": "zh",
+          "text": "公司付不起这么高的工资。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 129.681,
+      "end": 149.441,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后还有一句："
+        },
+        {
+          "lang": "en",
+          "text": "Twenty people had already left."
+        },
+        {
+          "lang": "zh",
+          "text": "二十个人已经离开了。作者听到这里，心里几乎已经下结论："
+        },
+        {
+          "lang": "en",
+          "text": "I knew that my turn had come."
+        },
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "my turn had come"
+        },
+        {
+          "lang": "zh",
+          "text": "不是轮到我玩游戏，而是“这下该轮到我倒霉了”。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 149.79,
+      "end": 165.254,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，作者想开口，声音都弱了："
+        },
+        {
+          "lang": "en",
+          "text": "\"Mr. Harmsworth,\" I said in a weak voice."
+        },
+        {
+          "lang": "en",
+          "text": "weak voice"
+        },
+        {
+          "lang": "zh",
+          "text": "是没有底气的声音。老板却说："
+        },
+        {
+          "lang": "en",
+          "text": "\"Don't interrupt,\" he said."
+        },
+        {
+          "lang": "zh",
+          "text": "别打断我。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 165.604,
+      "end": 183.052,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一下好像更紧张了。可是下一秒，老板笑了："
+        },
+        {
+          "lang": "en",
+          "text": "Then he smiled and told me I would receive an extra thousand pounds a year!"
+        },
+        {
+          "lang": "zh",
+          "text": "原来不是裁掉他，而是给他每年多一千英镑。前面所有坏消息的线索，突然变成了反转铺垫。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 183.402,
+      "end": 188.777,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这篇课文为什么叫"
+        },
+        {
+          "lang": "en",
+          "text": "Good news"
+        },
+        {
+          "lang": "zh",
+          "text": "，而不是一开始就让人开心？"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 189.127,
+      "end": 198.937,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为前面听起来全是坏消息。老板要见他，老板不抬头，生意不好，公司付不起工资，还有二十个人已经离开。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 199.287,
+      "end": 207.407,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。作者的紧张不是凭空来的。他把每个线索都听成一个方向：公司不好，别人走了，我可能也要走。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 207.757,
+      "end": 211.964,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "my turn had come"
+        },
+        {
+          "lang": "zh",
+          "text": "是什么意思？"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 212.314,
+      "end": 223.354,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "字面是“轮到我了”。但在这里不是开心地轮到我，而是作者以为“坏事轮到我了”。中文可以理解成：完了，这次该到我了。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 223.704,
+      "end": 229.201,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老板说"
+        },
+        {
+          "lang": "en",
+          "text": "Don't interrupt"
+        },
+        {
+          "lang": "zh",
+          "text": "，是不是也让误会更深？"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 229.551,
+      "end": 240.671,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "是的。作者想解释或求情，老板一句话把他停住，悬念又拉高了一点。直到老板 smiles，才说明事情不是他想的那样。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 241.021,
+      "end": 243.327,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以 good news 为什么更好？"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 243.677,
+      "end": 257.157,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为它来得晚。前面越像坏消息，最后的好消息就越让人松一口气。标题的笑点也在这里：你以为要听坏消息，结果听到的是升工资。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 257.507,
+      "end": 261.563,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The secretary told me that Mr. Harmsworth would see me."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 261.913,
+      "end": 265.369,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I felt very nervous when I went into his office."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 265.719,
+      "end": 269.031,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He did not look up from his desk when I entered."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 269.38,
+      "end": 273.412,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "After I had sat down, he said that business was very bad."
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 273.762,
+      "end": 278.106,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He told me that the firm could not afford to pay such large salaries."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 278.456,
+      "end": 281.288,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Twenty people had already left."
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 281.638,
+      "end": 284.134,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I knew that my turn had come."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 284.484,
+      "end": 287.892,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "\"Mr. Harmsworth,\" I said in a weak voice."
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 288.242,
+      "end": 290.594,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "\"Don't interrupt,\" he said."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 290.944,
+      "end": 295.696,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Then he smiled and told me I would receive an extra thousand pounds a year!"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 296.046,
+      "end": 298.733,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "nervous"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "nervous"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 299.083,
+      "end": 300.739,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "nervous"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "nervous"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 301.089,
+      "end": 319.121,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "nervous"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "nervous"
+        },
+        {
+          "lang": "zh",
+          "text": "是紧张、担心，常常是因为你不知道接下来会发生什么。考试前、比赛前、老师突然叫你谈话前，都可能 feel nervous。课文里说："
+        },
+        {
+          "lang": "en",
+          "text": "I felt very nervous when I went into his office."
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 319.471,
+      "end": 322.175,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "afford"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "afford"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 322.525,
+      "end": 324.157,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "afford"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "afford"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 324.507,
+      "end": 341.49,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "afford"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "afford"
+        },
+        {
+          "lang": "zh",
+          "text": "是有足够的钱来支付某样东西。一个家庭可能 cannot afford an expensive toy；一家公司也可能 cannot afford large salaries。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The firm could not afford to pay such large salaries."
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 341.84,
+      "end": 344.736,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "interrupt"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "interrupt"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 345.086,
+      "end": 346.91,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "interrupt"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "interrupt"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 347.26,
+      "end": 360.292,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "interrupt"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "interrupt"
+        },
+        {
+          "lang": "zh",
+          "text": "是打断别人说话。作者刚想开口，老板说："
+        },
+        {
+          "lang": "en",
+          "text": "Don't interrupt."
+        },
+        {
+          "lang": "zh",
+          "text": "这句话短、硬、很有压力，也让作者更以为坏消息要来了。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 360.642,
+      "end": 370.362,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 是 reported speech，也就是转述别人说过的话。先别做机械变形，我们先看故事为什么需要它。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 370.711,
+      "end": 384.723,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这篇课文像作者事后在复述一次办公室谈话。他不是一直用引号直播，而是用"
+        },
+        {
+          "lang": "en",
+          "text": "told me that"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "said that"
+        },
+        {
+          "lang": "zh",
+          "text": "把别人说过的话讲给我们听。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 385.073,
+      "end": 395.793,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "秘书说的话变成："
+        },
+        {
+          "lang": "en",
+          "text": "The secretary told me that Mr. Harmsworth would see me."
+        },
+        {
+          "lang": "zh",
+          "text": "老板说的话变成："
+        },
+        {
+          "lang": "en",
+          "text": "He said that business was very bad."
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 396.143,
+      "end": 410.134,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老板继续说的话变成："
+        },
+        {
+          "lang": "en",
+          "text": "He told me that the firm could not afford to pay such large salaries."
+        },
+        {
+          "lang": "zh",
+          "text": "最后的好消息也用转述："
+        },
+        {
+          "lang": "en",
+          "text": "He told me I would receive an extra thousand pounds a year."
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 410.484,
+      "end": 438.02,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "would"
+        },
+        {
+          "lang": "zh",
+          "text": "很常见，因为整件事发生在过去。原来“将要见我”“将要收到钱”的动作，被作者从过去时间里讲出来，就常常用"
+        },
+        {
+          "lang": "en",
+          "text": "would"
+        },
+        {
+          "lang": "zh",
+          "text": "。至于"
+        },
+        {
+          "lang": "en",
+          "text": "had sat down"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "had already left"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "my turn had come"
+        },
+        {
+          "lang": "zh",
+          "text": "，它们是在补充更早发生或已经发生的背景，不要让它们抢走主线。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 438.369,
+      "end": 455.929,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天的“以为是坏消息，结果是好消息”放进你自己的生活。下面三个场景都要填，word bank 里选短语。可以写老师、家长、教练、社团负责人，重点是轻松的小误会，不要写很痛苦的惩罚。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 456.279,
+      "end": 482.779,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "关键句型是："
+        },
+        {
+          "lang": "en",
+          "text": "I felt very nervous when ___ . I thought ___ . Then ___ smiled and told me ___ ."
+        },
+        {
+          "lang": "zh",
+          "text": "比如："
+        },
+        {
+          "lang": "en",
+          "text": "I felt very nervous when my teacher asked me to stay after class. I thought I was in trouble. Then she smiled and told me I had done very well."
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 483.129,
+      "end": 527.076,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "told me that"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "felt very nervous"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "could not afford"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "my turn had come"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "Don't interrupt"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "an extra thousand pounds a year"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。读完以后，再做 ① 生活场景，写一个以为 bad news、最后变成 good news 的小场景；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。加油，别太早下结论，故事有时会反转！"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 15
+}

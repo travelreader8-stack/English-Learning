@@ -1,0 +1,41 @@
+{
+  "lesson_id": 15,
+  "title": "Good news",
+  "question": "把今天课文里“以为是坏消息，结果听到好消息”的反转放进老师、家长、教练或社团负责人的小场景——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景各填一个空、用 word bank 里的短语。",
+  "example_answer": "I felt very nervous when my teacher asked me to stay after class. I thought my turn had come. Then she smiled and told me I had done very well.",
+  "word_bank": [
+    "secretary",
+    "Mr. Harmsworth",
+    "would see me",
+    "nervous",
+    "firm",
+    "salary",
+    "could not afford",
+    "my turn had come",
+    "weak voice",
+    "Don't interrupt",
+    "extra",
+    "Good news"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "老师谈话：老师很严肃地叫我留下，我以为自己有麻烦了",
+      "english_template": "I felt very ___ when my teacher asked me to stay after class.",
+      "expected_phrase": "nervous"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "误会加深：我听到前面的线索，以为这下轮到我倒霉了",
+      "english_template": "When I heard the serious news, I thought ___.",
+      "expected_phrase": "my turn had come"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "最后反转：对方笑了，告诉我其实是一个好消息",
+      "english_template": "Then she smiled and told me it was ___.",
+      "expected_phrase": "Good news"
+    }
+  ],
+  "mode": "all_fills"
+}

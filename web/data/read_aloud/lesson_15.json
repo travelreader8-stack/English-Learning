@@ -1,0 +1,119 @@
+{
+  "lesson_id": 15,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把坏消息预期、紧张语气和最后反转读出来。",
+  "sentences": [
+    {
+      "id": "l15_s1",
+      "text": "The secretary told me that Mr. Harmsworth would see me.",
+      "focus_zh": "told me that 是转述；would see me 表示老板要见我，读出消息突然来的感觉。",
+      "start": 257.507,
+      "end": 261.563,
+      "focus_words": [
+        "secretary",
+        "told",
+        "Harmsworth",
+        "would",
+        "see"
+      ]
+    },
+    {
+      "id": "l15_s2",
+      "text": "I felt very nervous when I went into his office.",
+      "focus_zh": "very nervous 要读出紧张和不确定，像被严肃地叫去谈话。",
+      "start": 261.913,
+      "end": 265.369,
+      "focus_words": [
+        "felt",
+        "very",
+        "nervous",
+        "office"
+      ]
+    },
+    {
+      "id": "l15_s3",
+      "text": "He did not look up from his desk when I entered.",
+      "focus_zh": "did not look up 是气氛变紧的动作，读得安静一点。",
+      "start": 265.719,
+      "end": 269.031,
+      "focus_words": [
+        "did",
+        "not",
+        "look",
+        "desk",
+        "entered"
+      ]
+    },
+    {
+      "id": "l15_s4",
+      "text": "He told me that the firm could not afford to pay such large salaries.",
+      "focus_zh": "firm 是公司；could not afford 是付不起，读出坏消息线索。",
+      "start": 273.762,
+      "end": 278.106,
+      "focus_words": [
+        "told",
+        "firm",
+        "could",
+        "not",
+        "afford",
+        "salaries"
+      ]
+    },
+    {
+      "id": "l15_s5",
+      "text": "Twenty people had already left.",
+      "focus_zh": "had already left 表示已经离开，给 my turn had come 做铺垫。",
+      "start": 278.456,
+      "end": 281.288,
+      "focus_words": [
+        "Twenty",
+        "people",
+        "had",
+        "already",
+        "left"
+      ]
+    },
+    {
+      "id": "l15_s6",
+      "text": "I knew that my turn had come.",
+      "focus_zh": "my turn had come 在这里是“坏事轮到我了”，语气要担心。",
+      "start": 281.638,
+      "end": 284.134,
+      "focus_words": [
+        "knew",
+        "my",
+        "turn",
+        "had",
+        "come"
+      ]
+    },
+    {
+      "id": "l15_s7",
+      "text": "\"Don't interrupt,\" he said.",
+      "focus_zh": "Don't interrupt 是短而硬的一句，读出老板打断他的压力。",
+      "start": 288.242,
+      "end": 290.594,
+      "focus_words": [
+        "Don't",
+        "interrupt",
+        "said"
+      ]
+    },
+    {
+      "id": "l15_s8",
+      "text": "Then he smiled and told me I would receive an extra thousand pounds a year!",
+      "focus_zh": "smiled 后语气转暖；extra thousand pounds a year 是最后的好消息。",
+      "start": 290.944,
+      "end": 295.696,
+      "focus_words": [
+        "smiled",
+        "told",
+        "would",
+        "receive",
+        "extra",
+        "thousand",
+        "year"
+      ]
+    }
+  ]
+}

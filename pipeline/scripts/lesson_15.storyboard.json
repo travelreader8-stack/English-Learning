@@ -1,0 +1,22 @@
+{
+  "lesson_id": 15,
+  "title": "Good news",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "A simple friendly office scene: a secretary at a desk gently passing a message to a worried employee that the boss wants to see him. The employee looks uncertain but not frightened, and the office feels modest and ordinary. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 2,
+      "prompt": "A nervous employee entering a quiet office while Mr. Harmsworth sits at a desk looking down at papers and not looking up. The atmosphere should be tense but gentle, like a small misunderstanding, not dark or cruel. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 3,
+      "prompt": "Inside the same modest office, the serious boss explains bad business while the employee sits anxiously, imagining lightly that many people have already left the company. Show worry through posture and expression, but keep it warm and child-friendly. No text, no letters, no captions, no readable signs, no visible words."
+    },
+    {
+      "frame": 4,
+      "prompt": "The boss smiles warmly across the desk and gives unexpected good news to the relieved employee, who looks surprised and happy. The office mood turns bright and friendly, clearly a positive reversal after tension. No text, no letters, no captions, no readable signs, no visible words."
+    }
+  ]
+}
