@@ -1,0 +1,1090 @@
+{
+  "total_duration": 544.057,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 14.136,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "想象你学了很久英语，终于到了"
+        },
+        {
+          "lang": "en",
+          "text": "London"
+        },
+        {
+          "lang": "zh",
+          "text": "，准备开口问路。你说得很认真、很清楚，可是第一个真正的 English speaker 却听不懂你；等他回答时，你又听不懂他。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 14.486,
+      "end": 38.829,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Do the English speak English?"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“英国人讲的是英语吗？”这里的"
+        },
+        {
+          "lang": "en",
+          "text": "the English"
+        },
+        {
+          "lang": "zh",
+          "text": "不是“英语这门语言”，而是 English people，也就是英格兰人。标题当然不是说英国人不会英语，它是在开一个温和的玩笑：真实世界里的英语，听起来可能和课堂里的英语很不一样。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 39.179,
+      "end": 61.459,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课发生在一个 old railway station。"
+        },
+        {
+          "lang": "en",
+          "text": "railway station"
+        },
+        {
+          "lang": "zh",
+          "text": "就是 train station。旧时伦敦的大车站可能很大、很暗，有铁架屋顶、烟雾、行李和很多赶路的人，所以课文说"
+        },
+        {
+          "lang": "en",
+          "text": "big, black and dark"
+        },
+        {
+          "lang": "zh",
+          "text": "，不是恐怖，而是又大又陌生。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 61.809,
+      "end": 79.425,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有一个词要先懂："
+        },
+        {
+          "lang": "en",
+          "text": "porter"
+        },
+        {
+          "lang": "zh",
+          "text": "。porter 是旧车站里帮旅客搬行李、指路、回答问题的工作人员。今天你可以把他想成 station staff、airport staff、hotel front desk 或 service counter 的人。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 79.774,
+      "end": 92.914,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这课最重要的不是嘲笑口音，也不是说 British English 很奇怪。它是在告诉你：听不懂真实英语，不代表你没学好，而是你正在从 classroom English 进入 real-world English。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 93.264,
+      "end": 113.592,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事一开始，叙述者终于到了"
+        },
+        {
+          "lang": "en",
+          "text": "London"
+        },
+        {
+          "lang": "zh",
+          "text": "："
+        },
+        {
+          "lang": "en",
+          "text": "I arrived in London at last."
+        },
+        {
+          "lang": "zh",
+          "text": "可是一进 railway station，他就被环境压住了。车站"
+        },
+        {
+          "lang": "en",
+          "text": "was big, black and dark"
+        },
+        {
+          "lang": "zh",
+          "text": "，又大又暗，他拖着小行李，心里想：我的 hotel 到底往哪走？"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 113.942,
+      "end": 131.173,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他决定问一位"
+        },
+        {
+          "lang": "en",
+          "text": "porter"
+        },
+        {
+          "lang": "zh",
+          "text": "："
+        },
+        {
+          "lang": "en",
+          "text": "I did not know the way to my hotel, so I asked a porter."
+        },
+        {
+          "lang": "zh",
+          "text": "他不是乱说，他非常努力："
+        },
+        {
+          "lang": "en",
+          "text": "I not only spoke English very carefully, but very clearly as well."
+        },
+        {
+          "lang": "zh",
+          "text": "不但认真，而且清楚。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 131.523,
+      "end": 152.563,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是现实很尴尬："
+        },
+        {
+          "lang": "en",
+          "text": "The porter, however, could not understand me."
+        },
+        {
+          "lang": "zh",
+          "text": "叙述者把问题"
+        },
+        {
+          "lang": "en",
+          "text": "repeated several times"
+        },
+        {
+          "lang": "zh",
+          "text": "，重复了好几次，porter 终于懂了。可是 porter 一回答，又轮到叙述者听不懂，因为他"
+        },
+        {
+          "lang": "en",
+          "text": "spoke neither slowly nor clearly"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 152.913,
+      "end": 176.136,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "叙述者解释："
+        },
+        {
+          "lang": "en",
+          "text": "I am a foreigner."
+        },
+        {
+          "lang": "zh",
+          "text": "foreigner 是外国人，在这里是中性的说法。porter 放慢了语速，可叙述者还是听不懂，他心里想："
+        },
+        {
+          "lang": "en",
+          "text": "My teacher never spoke English like that!"
+        },
+        {
+          "lang": "zh",
+          "text": "最后两个人看着彼此笑了。porter 说了一句他听懂的话："
+        },
+        {
+          "lang": "en",
+          "text": "You'll soon learn English!"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 176.486,
+      "end": 178.046,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "标题为什么好笑？"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 178.396,
+      "end": 185.065,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为 English people 当然 speak English，可是叙述者觉得他们说的英语和老师说的完全不一样。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 185.415,
+      "end": 198.203,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。"
+        },
+        {
+          "lang": "en",
+          "text": "the English"
+        },
+        {
+          "lang": "zh",
+          "text": "是“英格兰人”，不是“英语”。叙述者真正的问题不是课本学错了，而是真实场景里有 accent、speed、rhythm 和 connected speech。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 198.553,
+      "end": 200.982,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那 porter 是不是不友好？"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 201.332,
+      "end": 216.932,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。课程卡特别提醒我们不要把他演成 rude。他也在努力帮忙。先是没听懂，后来回答太快，最后他放慢，还和叙述者一起笑。这个笑不是嘲笑，是两个人都发现沟通不容易。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 217.282,
+      "end": 222.022,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "My teacher never spoke English like that"
+        },
+        {
+          "lang": "zh",
+          "text": "这句为什么重要？"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 222.372,
+      "end": 233.932,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为老师在课堂里通常会说得慢、清楚、标准。但真实的人在车站、机场、酒店前台说话，会有自己的口音和节奏。第一次听不懂很正常。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 234.282,
+      "end": 239.693,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "You'll soon learn English"
+        },
+        {
+          "lang": "zh",
+          "text": "不是说“你没学过英语”？"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 240.043,
+      "end": 250.303,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。porter 的意思更像：你会慢慢习惯 real English。你已经会 classroom English，现在要学会真实世界里英语怎么响。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 250.652,
+      "end": 253.316,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I arrived in London at last."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 253.666,
+      "end": 257.242,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The railway station was big, black and dark."
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 257.592,
+      "end": 261.696,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I did not know the way to my hotel, so I asked a porter."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 262.046,
+      "end": 266.678,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I not only spoke English very carefully, but very clearly as well."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 267.028,
+      "end": 270.46,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The porter, however, could not understand me."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 270.81,
+      "end": 275.106,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I repeated my question several times and at last he understood."
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 275.456,
+      "end": 279.296,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He answered me, but he spoke neither slowly nor clearly."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 279.646,
+      "end": 282.238,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'I am a foreigner,' I said."
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 282.587,
+      "end": 286.163,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Then he spoke slowly, but I could not understand him."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 286.513,
+      "end": 289.801,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "My teacher never spoke English like that!"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 290.151,
+      "end": 293.367,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The porter and I looked at each other and smiled."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 293.717,
+      "end": 296.765,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Then he said something and I understood it."
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 297.115,
+      "end": 299.851,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'You'll soon learn English!' he said."
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 300.201,
+      "end": 301.953,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I wonder."
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 302.303,
+      "end": 306.071,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In England, each person speaks a different language."
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 306.421,
+      "end": 310.669,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The English understand each other, but I don't understand them!"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 311.018,
+      "end": 313.442,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Do they speak English?"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 313.792,
+      "end": 316.288,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "porter"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "porter"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 316.638,
+      "end": 318.222,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "porter"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "porter"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 318.572,
+      "end": 338.704,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "porter"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "porter"
+        },
+        {
+          "lang": "zh",
+          "text": "是旧车站里的工作人员，会帮旅客搬行李、指路或回答实际问题。课文里"
+        },
+        {
+          "lang": "en",
+          "text": "I asked a porter"
+        },
+        {
+          "lang": "zh",
+          "text": "，不是随便问路人，而是问车站 staff。今天的对应场景可以是 airport staff、station staff、hotel front desk 或 service counter。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 339.054,
+      "end": 341.758,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "foreigner"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "foreigner"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 342.107,
+      "end": 343.931,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "foreigner"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "foreigner"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 344.281,
+      "end": 360.705,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "foreigner"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "foreigner"
+        },
+        {
+          "lang": "zh",
+          "text": "是外国人，意思是 a person from another country。这个词在这里是中性的、尊重的。叙述者说"
+        },
+        {
+          "lang": "en",
+          "text": "I am a foreigner"
+        },
+        {
+          "lang": "zh",
+          "text": "，是在解释：我不是本地人，请你说慢一点。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 361.055,
+      "end": 363.831,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "wonder"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "wonder"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 364.181,
+      "end": 365.861,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "wonder"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "wonder"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 366.211,
+      "end": 381.698,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "wonder"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "wonder"
+        },
+        {
+          "lang": "zh",
+          "text": "是心里觉得疑惑、在想“到底为什么”。课文最后"
+        },
+        {
+          "lang": "en",
+          "text": "I wonder"
+        },
+        {
+          "lang": "zh",
+          "text": "，不是随便发呆，而是在想：我能懂老师的英语，为什么到了 England 反而听不懂 English people？"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 382.048,
+      "end": 405.888,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 是两组配对结构，用来写“两个点同时成立”。第一组是"
+        },
+        {
+          "lang": "en",
+          "text": "not only A, but B as well"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思是“不但 A，而且 B”。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "I not only spoke English very carefully, but very clearly as well."
+        },
+        {
+          "lang": "zh",
+          "text": "他不但 very carefully，而且 very clearly，说明他真的努力了。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 406.238,
+      "end": 421.573,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组是"
+        },
+        {
+          "lang": "en",
+          "text": "neither A nor B"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思是“既不 A，也不 B”。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "he spoke neither slowly nor clearly"
+        },
+        {
+          "lang": "zh",
+          "text": "。不是 slowly，也不是 clearly，所以叙述者听起来很吃力。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 421.923,
+      "end": 439.863,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这两句刚好形成对比：叙述者做了两个 helpful things，carefully 加 clearly；但 porter 的回答少了两个 needed things，not slowly 加 not clearly。语法不是孤立背公式，而是在解释为什么沟通卡住了。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 440.213,
+      "end": 457.861,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有几个小连接词也要顺手抓住："
+        },
+        {
+          "lang": "en",
+          "text": "at last"
+        },
+        {
+          "lang": "zh",
+          "text": "是终于，"
+        },
+        {
+          "lang": "en",
+          "text": "several times"
+        },
+        {
+          "lang": "zh",
+          "text": "是好几次，"
+        },
+        {
+          "lang": "en",
+          "text": "however"
+        },
+        {
+          "lang": "zh",
+          "text": "是然而，专门用来把“我说得很清楚”和“他还是不懂”连成一个转折。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 458.21,
+      "end": 477.29,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天的车站问路放进你自己的真实生活。你可能在国外的大车站、机场、酒店前台，或地铁服务台，不知道 hotel、platform 或 exit 往哪走。你先礼貌开口，如果对方说得太快，就请他 repeat 或 speak more slowly。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 477.64,
+      "end": 498.872,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以照这个顺序说："
+        },
+        {
+          "lang": "en",
+          "text": "Excuse me. I don't know the way to my hotel. Could you say that again, please? I am a foreigner. Could you speak more slowly, please? Thank you."
+        },
+        {
+          "lang": "zh",
+          "text": "目标不是说得完美，而是在听不懂的时候还能礼貌地修复沟通。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 499.222,
+      "end": 544.057,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "I arrived in London at last"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "I asked a porter"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "not only spoke English very carefully"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "neither slowly nor clearly"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "I am a foreigner"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "The English understand each other"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。读完以后，再做 ① 生活场景，练习 ask for directions、ask someone to repeat、ask someone to speak more slowly；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。加油！"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 25
+}

@@ -1,0 +1,39 @@
+{
+  "lesson_id": 25,
+  "title": "Do the English speak English?",
+  "question": "把今天课文里“到了真实公共场所，听不懂也要礼貌修复沟通”的线索放进车站、机场或酒店前台场景——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景各填一个空、用 word bank 里的词或短语。",
+  "example_answer": "Excuse me. I don't know the way to my hotel. Could you say that again, please? I am a foreigner. Could you speak more slowly, please? Thank you.",
+  "word_bank": [
+    "way",
+    "porter",
+    "foreigner",
+    "say that again",
+    "speak more slowly",
+    "several times",
+    "at last",
+    "neither slowly nor clearly",
+    "the English",
+    "I wonder"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "刚到酒店：我不知道去酒店的路",
+      "english_template": "Excuse me. I don't know the ___ to my hotel.",
+      "expected_phrase": "way"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "车站服务台：对方说得太快，我请他再说一遍",
+      "english_template": "Could you ___, please?",
+      "expected_phrase": "say that again"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "机场问路：我解释自己是外国人，请对方说慢一点",
+      "english_template": "I am a foreigner. Could you ___, please?",
+      "expected_phrase": "speak more slowly"
+    }
+  ],
+  "mode": "all_fills"
+}

@@ -1,0 +1,23 @@
+{
+  "lesson_id": 25,
+  "title": "Do the English speak English?",
+  "visual_consistency": "A polite young Chinese learner arriving in London for the first time, short black hair, oval face, slim average build, navy travel jacket over a light shirt, small brown suitcase, notebook in hand, curious but nervous expression. A friendly older London railway porter with grey hair, dark station work jacket, dark cap, practical and kind face, helpful body language. Old London railway station with high iron arches, dark stone, warm lamps, busy travelers in the background. Keep both characters gentle and respectful, never caricature accents or nationality. Soft cinematic educational illustration, consistent character design, no readable text.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "The young Chinese learner stands inside a huge old London railway station, holding his small brown suitcase and notebook. The station feels big, black, and dark through high iron arches, dark stone, steam-like haze, warm lamps, and busy travelers, but the mood is safe rather than frightening. He looks around politely, unsure where his hotel is. No readable signs or text."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same young learner carefully asks the same friendly older London railway porter for directions. The learner points politely to a blank notebook or hotel address with no readable writing, speaking with deliberate concentration. The porter listens with a kind but slightly uncertain expression, showing that careful classroom English is still not immediately understood. Old station setting remains consistent, no readable text."
+    },
+    {
+      "frame": 3,
+      "prompt": "The porter is now trying to answer and gestures toward a station exit or city direction, speaking practically and perhaps too quickly. The young learner looks confused but calm, holding his notebook and suitcase, gently explaining that he is a foreigner. Show mutual effort and mild confusion, not conflict or mockery. Same old London railway station background, no readable text."
+    },
+    {
+      "frame": 4,
+      "prompt": "The young learner and the friendly older porter look at each other and smile warmly. The porter gives an encouraging gesture as if saying the learner will soon get used to real English. The learner looks relieved and thoughtful, still holding his small suitcase and notebook. The old London station feels warmer now, with soft lamps and travelers in the background, no readable text."
+    }
+  ]
+}

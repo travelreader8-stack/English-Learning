@@ -1,0 +1,111 @@
+{
+  "lesson_id": 25,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“到了伦敦、问路、认真说英语、真实英语听不懂、最后相视一笑”这条真实沟通线读顺。",
+  "sentences": [
+    {
+      "id": "l25_s1",
+      "text": "I arrived in London at last.",
+      "focus_zh": "at last 表示终于；London 是故事里真实英语世界的入口。",
+      "start": 250.652,
+      "end": 253.316,
+      "focus_words": [
+        "arrived",
+        "London",
+        "at",
+        "last"
+      ]
+    },
+    {
+      "id": "l25_s2",
+      "text": "I did not know the way to my hotel, so I asked a porter.",
+      "focus_zh": "the way to my hotel 是去酒店的路；porter 是旧车站里帮旅客的工作人员。",
+      "start": 257.592,
+      "end": 261.696,
+      "focus_words": [
+        "way",
+        "hotel",
+        "asked",
+        "porter"
+      ]
+    },
+    {
+      "id": "l25_s3",
+      "text": "I not only spoke English very carefully, but very clearly as well.",
+      "focus_zh": "not only... but... as well 表示不但认真，而且清楚，说明他很努力。",
+      "start": 262.046,
+      "end": 266.678,
+      "focus_words": [
+        "not",
+        "only",
+        "carefully",
+        "clearly"
+      ]
+    },
+    {
+      "id": "l25_s4",
+      "text": "I repeated my question several times and at last he understood.",
+      "focus_zh": "repeated several times 是重复好几次；at last 再次表示终于。",
+      "start": 270.81,
+      "end": 275.106,
+      "focus_words": [
+        "repeated",
+        "question",
+        "several",
+        "understood"
+      ]
+    },
+    {
+      "id": "l25_s5",
+      "text": "He answered me, but he spoke neither slowly nor clearly.",
+      "focus_zh": "neither... nor... 表示既不慢，也不清楚，是听不懂的原因。",
+      "start": 275.456,
+      "end": 279.296,
+      "focus_words": [
+        "answered",
+        "neither",
+        "slowly",
+        "clearly"
+      ]
+    },
+    {
+      "id": "l25_s6",
+      "text": "'I am a foreigner,' I said.",
+      "focus_zh": "foreigner 是外国人；这句话是在礼貌解释自己需要对方说慢一点。",
+      "start": 279.646,
+      "end": 282.238,
+      "focus_words": [
+        "I",
+        "am",
+        "foreigner",
+        "said"
+      ]
+    },
+    {
+      "id": "l25_s7",
+      "text": "My teacher never spoke English like that!",
+      "focus_zh": "这句是课堂英语和真实英语的对比；读出惊讶，但不要夸张成抱怨。",
+      "start": 286.513,
+      "end": 289.801,
+      "focus_words": [
+        "teacher",
+        "never",
+        "spoke",
+        "that"
+      ]
+    },
+    {
+      "id": "l25_s8",
+      "text": "The English understand each other, but I don't understand them!",
+      "focus_zh": "The English 是英格兰人，不是英语这门语言；but 后面读出温和的困惑。",
+      "start": 306.421,
+      "end": 310.669,
+      "focus_words": [
+        "English",
+        "understand",
+        "each",
+        "other"
+      ]
+    }
+  ]
+}
