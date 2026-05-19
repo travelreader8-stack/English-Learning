@@ -1,0 +1,1206 @@
+{
+  "total_duration": 527.639,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 11.22,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "想象一次 camping trip。傍晚的田野很安静，帐篷搭好了，饭也做好了，大家围着 campfire 讲故事、唱歌。看起来一切都很舒服。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 11.57,
+      "end": 21.09,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是到了半夜，帐篷里突然全是水。不是因为帐篷自己坏了，也不只是因为下雨，而是因为他们把帐篷搭在了错误的位置。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 21.44,
+      "end": 36.696,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "A wet night"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“雨夜”。这课不是鼓励小朋友自己跑到野地里露营，而是一个 outdoor judgment story：在户外，水会往低处走，你要会读懂地面。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 37.045,
+      "end": 58.657,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先把安全 bridge 说清楚。现代 camping 通常要在 campsite、park 或学校组织的活动里，有 adults、有 rules，还要看 weather forecast。课文里的"
+        },
+        {
+          "lang": "en",
+          "text": "open fire"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "campfire"
+        },
+        {
+          "lang": "zh",
+          "text": "，今天也必须有 permission、fire safety 和 adult supervision。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 59.007,
+      "end": 68.927,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以今天我们记住一句话：a field may look flat, but rainwater still finds the low path. 田野看起来平，不代表下雨时不会出现水流。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 69.277,
+      "end": 87.616,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事开始在傍晚："
+        },
+        {
+          "lang": "en",
+          "text": "Late in the afternoon, the boys put up their tent in the middle of a field."
+        },
+        {
+          "lang": "en",
+          "text": "put up a tent"
+        },
+        {
+          "lang": "zh",
+          "text": "就是搭帐篷。问题也埋在这里："
+        },
+        {
+          "lang": "en",
+          "text": "in the middle of a field"
+        },
+        {
+          "lang": "zh",
+          "text": "，田野中央看起来空，但不一定是安全的帐篷位置。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 87.966,
+      "end": 107.054,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As soon as this was done"
+        },
+        {
+          "lang": "zh",
+          "text": "，帐篷刚搭好，他们就"
+        },
+        {
+          "lang": "en",
+          "text": "cooked a meal over an open fire"
+        },
+        {
+          "lang": "zh",
+          "text": "。他们都饿了，食物"
+        },
+        {
+          "lang": "en",
+          "text": "smelled good"
+        },
+        {
+          "lang": "zh",
+          "text": "。饭后，他们围着"
+        },
+        {
+          "lang": "en",
+          "text": "campfire"
+        },
+        {
+          "lang": "zh",
+          "text": "讲故事、唱歌，整个晚上很 warm and happy。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 107.404,
+      "end": 128.183,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "过了一会儿，"
+        },
+        {
+          "lang": "en",
+          "text": "some time later it began to rain"
+        },
+        {
+          "lang": "zh",
+          "text": "。男孩们累了，所以他们"
+        },
+        {
+          "lang": "en",
+          "text": "put out the fire"
+        },
+        {
+          "lang": "zh",
+          "text": "，把火扑灭，然后"
+        },
+        {
+          "lang": "en",
+          "text": "crept into their tent"
+        },
+        {
+          "lang": "zh",
+          "text": "，钻进帐篷。睡袋"
+        },
+        {
+          "lang": "en",
+          "text": "warm and comfortable"
+        },
+        {
+          "lang": "zh",
+          "text": "，他们都"
+        },
+        {
+          "lang": "en",
+          "text": "slept soundly"
+        },
+        {
+          "lang": "zh",
+          "text": "，睡得很沉。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 128.533,
+      "end": 151.648,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "半夜，"
+        },
+        {
+          "lang": "en",
+          "text": "two boys woke up and began shouting"
+        },
+        {
+          "lang": "zh",
+          "text": "。为什么？"
+        },
+        {
+          "lang": "en",
+          "text": "The tent was full of water!"
+        },
+        {
+          "lang": "zh",
+          "text": "大家跳出睡袋，赶紧跑到外面。雨下得很大，他们发现"
+        },
+        {
+          "lang": "en",
+          "text": "a stream had formed in the field"
+        },
+        {
+          "lang": "zh",
+          "text": "。那条小溪弯弯曲曲穿过田野，最后"
+        },
+        {
+          "lang": "en",
+          "text": "flowed right under their tent"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 151.998,
+      "end": 157.118,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课最重要的问题是：他们为什么会有一个"
+        },
+        {
+          "lang": "en",
+          "text": "wet night"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 157.468,
+      "end": 158.882,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为下雨了？"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 159.232,
+      "end": 172.4,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下雨只是 trigger，真正的问题是 tent location。雨水聚在低处，临时形成一条"
+        },
+        {
+          "lang": "en",
+          "text": "stream"
+        },
+        {
+          "lang": "zh",
+          "text": "，而他们的帐篷正好在水流经过的位置。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 172.75,
+      "end": 177.277,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "a stream had formed"
+        },
+        {
+          "lang": "zh",
+          "text": "是什么意思？"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 177.627,
+      "end": 190.611,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "formed"
+        },
+        {
+          "lang": "zh",
+          "text": "是出现、形成。heavy rainwater gathers together，then follows lower ground。下大雨时，水聚起来，沿低处走，就可能临时形成一条小溪。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 190.961,
+      "end": 197.616,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "wound its way"
+        },
+        {
+          "lang": "zh",
+          "text": "呢？这个"
+        },
+        {
+          "lang": "en",
+          "text": "wound"
+        },
+        {
+          "lang": "zh",
+          "text": "是“伤口”吗？"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 197.966,
+      "end": 214.525,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。这里"
+        },
+        {
+          "lang": "en",
+          "text": "wound"
+        },
+        {
+          "lang": "zh",
+          "text": "是动词"
+        },
+        {
+          "lang": "en",
+          "text": "wind"
+        },
+        {
+          "lang": "zh",
+          "text": "的过去式，意思是弯弯曲曲地移动。读的时候不是 injury 的"
+        },
+        {
+          "lang": "en",
+          "text": "wound"
+        },
+        {
+          "lang": "zh",
+          "text": "，而是"
+        },
+        {
+          "lang": "en",
+          "text": "wind"
+        },
+        {
+          "lang": "zh",
+          "text": "的 past tense。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 214.875,
+      "end": 219.295,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "right under"
+        },
+        {
+          "lang": "zh",
+          "text": "是“正确地在下面”吗？"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 219.645,
+      "end": 232.861,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "也不是。这里"
+        },
+        {
+          "lang": "en",
+          "text": "right"
+        },
+        {
+          "lang": "zh",
+          "text": "是 exactly、directly，意思是正好、直接。"
+        },
+        {
+          "lang": "en",
+          "text": "right under their tent"
+        },
+        {
+          "lang": "zh",
+          "text": "就是正好从他们帐篷底下流过。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 233.211,
+      "end": 243.471,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这不是灾难故事，而是一次 outdoor lesson：fun plan 遇到 weather change，natural rule 出现了，preparation suddenly matters。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 243.82,
+      "end": 248.236,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Late in the afternoon, the boys put up their tent in the middle of a field."
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 248.586,
+      "end": 252.786,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As soon as this was done, they cooked a meal over an open fire."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 253.136,
+      "end": 256.328,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "They were all hungry and the food smelled good."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 256.678,
+      "end": 261.574,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "After a wonderful meal, they told stories and sang songs by the campfire."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 261.924,
+      "end": 264.972,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "But some time later it began to rain."
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 265.322,
+      "end": 269.69,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The boys felt tired so they put out the fire and crept into their tent."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 270.04,
+      "end": 274.552,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Their sleeping bags were warm and comfortable, so they all slept soundly."
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 274.902,
+      "end": 278.814,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In the middle of the night, two boys woke up and began shouting."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 279.164,
+      "end": 281.972,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The tent was full of water!"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 282.321,
+      "end": 286.113,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "They all leapt out of their sleeping bags and hurried outside."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 286.463,
+      "end": 290.807,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It was raining heavily and they found that a stream had formed in the field."
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 291.157,
+      "end": 295.957,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The stream wound its way across the field and then flowed right under their tent!"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 296.307,
+      "end": 298.779,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "tent"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "tent"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 299.129,
+      "end": 300.617,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "tent"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "tent"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 300.967,
+      "end": 315.966,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "tent"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "tent"
+        },
+        {
+          "lang": "zh",
+          "text": "是 camping 时用的便携式 shelter，通常用布或类似材料做，可以搭起来睡在里面。课文说"
+        },
+        {
+          "lang": "en",
+          "text": "the boys put up their tent"
+        },
+        {
+          "lang": "zh",
+          "text": "，也就是把帐篷搭起来。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 316.316,
+      "end": 319.188,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "campfire"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "campfire"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 319.538,
+      "end": 321.29,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "campfire"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "campfire"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 321.64,
+      "end": 338.032,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "campfire"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "campfire"
+        },
+        {
+          "lang": "zh",
+          "text": "是露营时在户外生的小火，可以取暖、做饭，也可以围坐聊天。今天要加一个 safety note：real campfire must follow campsite rules, fire bans, and adult supervision."
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 338.382,
+      "end": 341.23,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "stream"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "stream"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 341.58,
+      "end": 343.236,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "stream"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "stream"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 343.585,
+      "end": 360.801,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "stream"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "stream"
+        },
+        {
+          "lang": "zh",
+          "text": "是小溪、小股水流。课文里的 stream 不是原本就在那里，而是 heavy rain 之后"
+        },
+        {
+          "lang": "en",
+          "text": "had formed"
+        },
+        {
+          "lang": "zh",
+          "text": "，临时形成了。它沿着低处"
+        },
+        {
+          "lang": "en",
+          "text": "wound its way"
+        },
+        {
+          "lang": "zh",
+          "text": "，最后流到帐篷下面。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 361.151,
+      "end": 384.174,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 先看 time sequence。课文像一段短片："
+        },
+        {
+          "lang": "en",
+          "text": "Late in the afternoon"
+        },
+        {
+          "lang": "zh",
+          "text": "是开场，"
+        },
+        {
+          "lang": "en",
+          "text": "As soon as this was done"
+        },
+        {
+          "lang": "zh",
+          "text": "表示马上下一步，"
+        },
+        {
+          "lang": "en",
+          "text": "After a wonderful meal"
+        },
+        {
+          "lang": "zh",
+          "text": "是饭后，"
+        },
+        {
+          "lang": "en",
+          "text": "some time later"
+        },
+        {
+          "lang": "zh",
+          "text": "是后来，"
+        },
+        {
+          "lang": "en",
+          "text": "In the middle of the night"
+        },
+        {
+          "lang": "zh",
+          "text": "是半夜的 surprise。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 384.524,
+      "end": 396.244,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你只要跟住这些 time phrases，故事顺序就很清楚：put up the tent，cook a meal，tell stories and sing songs，rain begins，then the tent is full of water."
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 396.594,
+      "end": 411.541,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块是"
+        },
+        {
+          "lang": "en",
+          "text": "put up"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "put out"
+        },
+        {
+          "lang": "zh",
+          "text": "。注意它们长得像，但意思完全不同。"
+        },
+        {
+          "lang": "en",
+          "text": "put up a tent"
+        },
+        {
+          "lang": "zh",
+          "text": "是搭帐篷；"
+        },
+        {
+          "lang": "en",
+          "text": "put out the fire"
+        },
+        {
+          "lang": "zh",
+          "text": "是把火扑灭。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 411.891,
+      "end": 426.259,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块是 cause and discovery。课文说"
+        },
+        {
+          "lang": "en",
+          "text": "they found that a stream had formed in the field"
+        },
+        {
+          "lang": "zh",
+          "text": "。他们不是一开始就知道原因，而是跑到外面后才发现：water had found the low path."
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 426.609,
+      "end": 440.52,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一块是"
+        },
+        {
+          "lang": "en",
+          "text": "right under"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "right"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里是 exactly、directly。不是“正确”，而是“正好”。这就是 punchline：the stream flowed exactly under their tent."
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 440.87,
+      "end": 455.43,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天的 outdoor judgment 放到生活场景里。你和家人去 campsite，准备搭帐篷。地面看起来很空，但你发现中间有一条低低的 path。如果晚上可能下大雨，你要怎么提醒大家？"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 455.78,
+      "end": 472.284,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以这样说："
+        },
+        {
+          "lang": "en",
+          "text": "I don't think we should put the tent here. This place is too low. If it rains heavily, water may flow under the tent. Let's move it to higher ground. We must put out the fire before we sleep."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 472.634,
+      "end": 487.014,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这不是 scare people，而是 calm advice。先说问题："
+        },
+        {
+          "lang": "en",
+          "text": "too low"
+        },
+        {
+          "lang": "zh",
+          "text": "；再说原因："
+        },
+        {
+          "lang": "en",
+          "text": "water may flow here"
+        },
+        {
+          "lang": "zh",
+          "text": "；最后给 solution："
+        },
+        {
+          "lang": "en",
+          "text": "move it to higher ground"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 487.363,
+      "end": 527.639,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "put up their tent"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "over an open fire"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "put out the fire"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "slept soundly"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "a stream had formed"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "wound its way"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "right under their tent"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。读完以后，再做 ① 生活场景，练习安全选点和解释原因；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。加油！"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 27
+}

@@ -1,0 +1,39 @@
+{
+  "lesson_id": 27,
+  "title": "A wet night",
+  "question": "把今天课文里“户外活动很开心，但要判断地面和天气”的线索放进现代 campsite 或 outdoor picnic 场景——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个提醒各填一个空、用 word bank 里的词或短语。",
+  "example_answer": "I don't think we should put the tent here. This place is too low. If it rains heavily, water may flow under the tent. Let's move it to higher ground.",
+  "word_bank": [
+    "put up",
+    "tent",
+    "field",
+    "campfire",
+    "put out",
+    "sleeping bags",
+    "heavily",
+    "stream",
+    "formed",
+    "right under"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "选择帐篷位置：我建议不要在这块低地搭帐篷",
+      "english_template": "I don't think we should ___ the tent here.",
+      "expected_phrase": "put up"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "解释天气风险：如果雨下得很大，水可能会流到这里",
+      "english_template": "If it rains ___, water may flow here.",
+      "expected_phrase": "heavily"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说明真正原因：一条临时小溪可能正好从帐篷下面流过",
+      "english_template": "A stream may form and flow ___ the tent.",
+      "expected_phrase": "right under"
+    }
+  ],
+  "mode": "all_fills"
+}

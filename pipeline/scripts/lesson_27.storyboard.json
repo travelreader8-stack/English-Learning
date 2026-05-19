@@ -1,0 +1,23 @@
+{
+  "lesson_id": 27,
+  "title": "A wet night",
+  "visual_consistency": "A group of three friendly school-age boys on a supervised camping trip, consistent faces and clothing: one boy in a red rain jacket, one in a blue hoodie, one in a green sweater, small camping backpacks, curious energetic expressions, safe and storybook-like rather than reckless. A simple green tent in a grassy field, small controlled campfire in early scenes, camping gear, cloudy sky turning rainy, a subtle low path in the grass that later carries water. Gentle educational adventure tone, consistent character design, no readable text.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Late afternoon in a grassy field: the same three friendly school-age boys, one in a red rain jacket, one in a blue hoodie, one in a green sweater, put up a simple green tent in the middle of the field. Small backpacks and safe camping gear sit nearby. Show a subtle lower path or shallow grassy channel near the tent so the final water flow will make sense. The sky is calm with distant clouds, gentle supervised adventure mood. No readable text."
+    },
+    {
+      "frame": 2,
+      "prompt": "Evening near the same green tent: the same three boys sit safely near a small controlled campfire, cooking or eating a simple meal, then telling stories and singing with happy warm faces. Keep the campfire modest and contained, with camping gear nearby and no dangerous flames. The grassy field and subtle low path remain visible in the background, warm campfire light under a darkening cloudy sky. No readable text."
+    },
+    {
+      "frame": 3,
+      "prompt": "Later at night as rain begins: the same green tent glows softly from inside while the three boys sleep in warm sleeping bags. Outside, the campfire is completely out, rain falls gently but steadily, and water begins collecting along the subtle lower path in the grass beside the tent. The mood is cozy inside but with a clear outdoor clue outside, not frightening. No readable text."
+    },
+    {
+      "frame": 4,
+      "prompt": "Comic wet midnight reveal: the same three boys, still recognizable in red rain jacket, blue hoodie, and green sweater, leap out near the green tent with surprised but safe expressions. A shallow stream winds across the grassy field and flows directly under the tent, making the cause obvious. Rain falls heavily but this is a memorable outdoor lesson, not a dangerous flood. No readable text."
+    }
+  ]
+}

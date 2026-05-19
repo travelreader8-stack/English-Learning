@@ -1,0 +1,117 @@
+{
+  "lesson_id": 27,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“傍晚搭帐篷 -> 生火做饭 -> 雨开始 -> 扑灭火睡觉 -> 半夜发现水流”的时间顺序读顺。",
+  "sentences": [
+    {
+      "id": "l27_s1",
+      "text": "Late in the afternoon, the boys put up their tent in the middle of a field.",
+      "focus_zh": "Late in the afternoon 是时间开场；put up their tent 是搭起帐篷。",
+      "start": 243.82,
+      "end": 248.236,
+      "focus_words": [
+        "afternoon",
+        "boys",
+        "put up",
+        "tent",
+        "field"
+      ]
+    },
+    {
+      "id": "l27_s2",
+      "text": "As soon as this was done, they cooked a meal over an open fire.",
+      "focus_zh": "As soon as this was done 表示上一件事刚做完；open fire 要理解为户外明火。",
+      "start": 248.586,
+      "end": 252.786,
+      "focus_words": [
+        "soon",
+        "done",
+        "cooked",
+        "meal",
+        "open fire"
+      ]
+    },
+    {
+      "id": "l27_s3",
+      "text": "After a wonderful meal, they told stories and sang songs by the campfire.",
+      "focus_zh": "After a wonderful meal 是饭后的时间推进；campfire 是营火，要读成完整短语。",
+      "start": 256.678,
+      "end": 261.574,
+      "focus_words": [
+        "wonderful",
+        "meal",
+        "stories",
+        "songs",
+        "campfire"
+      ]
+    },
+    {
+      "id": "l27_s4",
+      "text": "The boys felt tired so they put out the fire and crept into their tent.",
+      "focus_zh": "put out the fire 是把火扑灭；crept into their tent 是小心钻进帐篷。",
+      "start": 265.322,
+      "end": 269.69,
+      "focus_words": [
+        "tired",
+        "put out",
+        "fire",
+        "crept",
+        "tent"
+      ]
+    },
+    {
+      "id": "l27_s5",
+      "text": "Their sleeping bags were warm and comfortable, so they all slept soundly.",
+      "focus_zh": "warm and comfortable 说明睡袋很舒服；slept soundly 是睡得很沉。",
+      "start": 270.04,
+      "end": 274.552,
+      "focus_words": [
+        "sleeping bags",
+        "warm",
+        "comfortable",
+        "slept",
+        "soundly"
+      ]
+    },
+    {
+      "id": "l27_s6",
+      "text": "The tent was full of water!",
+      "focus_zh": "full of water 是半夜反转，要读出惊讶，但不是灾难语气。",
+      "start": 279.164,
+      "end": 281.972,
+      "focus_words": [
+        "tent",
+        "full",
+        "water"
+      ]
+    },
+    {
+      "id": "l27_s7",
+      "text": "It was raining heavily and they found that a stream had formed in the field.",
+      "focus_zh": "raining heavily 是雨下得很大；a stream had formed 是一条小溪已经形成。",
+      "start": 286.463,
+      "end": 290.807,
+      "focus_words": [
+        "raining",
+        "heavily",
+        "found",
+        "stream",
+        "formed"
+      ]
+    },
+    {
+      "id": "l27_s8",
+      "text": "The stream wound its way across the field and then flowed right under their tent!",
+      "focus_zh": "wound its way 是弯弯曲曲地流过；right under 是正好、直接在下面。",
+      "start": 291.157,
+      "end": 295.957,
+      "focus_words": [
+        "stream",
+        "wound",
+        "across",
+        "flowed",
+        "right under"
+      ]
+    }
+  ]
+}
