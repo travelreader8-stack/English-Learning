@@ -1,0 +1,39 @@
+{
+  "lesson_id": 28,
+  "title": "No parking",
+  "question": "把今天课文里“入口被车堵住，标志没有效果，但现实中要冷静解决”的线索放进车库、小区入口或私家车位场景——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个提醒各填一个空、用 word bank 里的词或短语。",
+  "example_answer": "Someone has parked outside our gate. We can't get our car into the garage. The No Parking sign has not had any effect. We should ask the owner to move the car or call the property manager.",
+  "word_bank": [
+    "parked",
+    "outside our gate",
+    "garage",
+    "No Parking sign",
+    "effect",
+    "owner",
+    "property manager",
+    "move the car",
+    "Medusa",
+    "turned to stone"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说明问题：有人把车停在我们家大门外",
+      "english_template": "Someone has ___ outside our gate.",
+      "expected_phrase": "parked"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说明后果：我们没法把车开进车库",
+      "english_template": "We can't get our car into the ___.",
+      "expected_phrase": "garage"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "提出冷静办法：请车主移车，或者联系物业",
+      "english_template": "We should ask the owner to ___ or call the property manager.",
+      "expected_phrase": "move the car"
+    }
+  ],
+  "mode": "all_fills"
+}

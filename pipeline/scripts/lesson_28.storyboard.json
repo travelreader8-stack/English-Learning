@@ -1,0 +1,23 @@
+{
+  "lesson_id": 28,
+  "title": "No parking",
+  "visual_consistency": "Jasper White, a middle-aged city homeowner with neat grey-brown hair, round glasses, tan jacket, dark trousers, average build, slightly eccentric but kind expression, standing near a city townhouse gate and garage entrance. A narrow urban street with parked cars that can block the driveway. Warm educational illustration style, consistent character design, clear urban setting, no readable text.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Evening on a narrow city street: Jasper White, a middle-aged city homeowner with neat grey-brown hair, round glasses, tan jacket, dark trousers, average build, slightly eccentric but kind expression, returns to his city townhouse. A car is parked directly outside his gate, clearly blocking the driveway and the visible garage entrance behind the gate. Jasper stands beside his own small car, looking puzzled but not angry. Warm urban lighting, clear blocked-entrance composition, no readable text."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same city townhouse gate and garage entrance in daytime: Jasper White has put up simple no-parking style signs around the gate, shown as red circle and slash symbols without legible letters. Another car is still parked in front of the entrance, blocking the driveway. Jasper White, same grey-brown hair, round glasses, tan jacket and kind eccentric expression, looks frustrated and confused. The rule is visible but useless, humorous educational tone, no readable text."
+    },
+    {
+      "frame": 3,
+      "prompt": "The same Jasper White at the same city townhouse gate, carefully placing or pointing to a humorous ugly stone Medusa head above the gate for the first time. The stone head has snake-like stone hair and mythological features, with a goofy awkward expression rather than a frightening one. The blocked garage entrance and parked street cars remain visible below. Jasper White keeps the same neat grey-brown hair, round glasses, tan jacket, dark trousers, slightly eccentric hopeful expression. No horror lighting, no violence, no tongue-out monster face, no readable text."
+    },
+    {
+      "frame": 4,
+      "prompt": "Comic ending at the same city townhouse gate: the humorous stone Medusa head sits above the gate with a silly useless frown, while normal cars and normal owners are still parked nearby, not turned to stone. Jasper White, same grey-brown hair, round glasses, tan jacket and kind eccentric face, looks disappointed but wryly hopeful beside the blocked garage entrance. Make the joke clear: the myth has not worked yet. Friendly city-life comedy mood, no scary close-up, no horror expression, no readable text."
+    }
+  ]
+}

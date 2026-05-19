@@ -1,0 +1,1228 @@
+{
+  "total_duration": 563.882,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 14.64,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "想象一个很现实的 city problem：你家车库门口总被别人停车，车子挡住 entrance，你自己的车反而开不进去。你贴了"
+        },
+        {
+          "lang": "en",
+          "text": "No Parking"
+        },
+        {
+          "lang": "zh",
+          "text": "，可是别人还是停在那里。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 14.99,
+      "end": 32.55,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "No parking"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“禁止停车”。这课不是单纯讲交通标志，也不是讲 revenge，而是一个城市生活幽默故事：正常规则没用，Jasper 就搬出了一个古代神话里的帮手。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 32.899,
+      "end": 49.091,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先把房子结构说清楚。Jasper 有一所 city house，外面有"
+        },
+        {
+          "lang": "en",
+          "text": "gate"
+        },
+        {
+          "lang": "zh",
+          "text": "，门后是"
+        },
+        {
+          "lang": "en",
+          "text": "garage"
+        },
+        {
+          "lang": "zh",
+          "text": "，也就是放车的车库。如果别人把车停在 gate 外面，他就不能把自己的车开进 garage。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 49.441,
+      "end": 64.041,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个场景可以想成小区车库入口、地下车库坡道、学校门口、消防通道，或者你家的 private parking space 被占了。问题不是 Jasper 讨厌车，而是入口被堵住了。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 64.391,
+      "end": 80.654,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里还有一个 myth joke。"
+        },
+        {
+          "lang": "en",
+          "text": "Medusa"
+        },
+        {
+          "lang": "zh",
+          "text": "叫“美杜莎”，是 Greek myth 里有名的 Gorgon，常被画成蛇发女怪。传说中，看见她的人可能会"
+        },
+        {
+          "lang": "en",
+          "text": "turn to stone"
+        },
+        {
+          "lang": "zh",
+          "text": "，变成石头。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 81.004,
+      "end": 95.404,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以 Jasper 的办法很夸张：如果"
+        },
+        {
+          "lang": "en",
+          "text": "No Parking"
+        },
+        {
+          "lang": "zh",
+          "text": "signs 没有效果，那就把美杜莎石头像放在大门上，希望乱停车的人和车都变成石头。听起来很怪，也正是笑点。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 95.754,
+      "end": 108.786,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事开头说："
+        },
+        {
+          "lang": "en",
+          "text": "Jasper White is one of those rare people who believes in ancient myths."
+        },
+        {
+          "lang": "en",
+          "text": "rare"
+        },
+        {
+          "lang": "zh",
+          "text": "是少见的，"
+        },
+        {
+          "lang": "en",
+          "text": "ancient myths"
+        },
+        {
+          "lang": "zh",
+          "text": "是很古老的神话故事。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 109.136,
+      "end": 121.435,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他刚在城里买了一所新房子："
+        },
+        {
+          "lang": "en",
+          "text": "He has just bought a new house in the city."
+        },
+        {
+          "lang": "zh",
+          "text": "可是新家马上带来一个麻烦：他有 gate，有 garage，却常常被外面的车挡住入口。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 121.785,
+      "end": 134.769,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Ever since he moved in, he has had trouble with cars and their owners."
+        },
+        {
+          "lang": "en",
+          "text": "ever since"
+        },
+        {
+          "lang": "zh",
+          "text": "是从那时起一直到现在。这个 parking trouble 不是一次，是一直发生。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 135.119,
+      "end": 149.343,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "晚上他回家时，经常发现"
+        },
+        {
+          "lang": "en",
+          "text": "someone has parked a car outside his gate"
+        },
+        {
+          "lang": "zh",
+          "text": "。因为这样，他"
+        },
+        {
+          "lang": "en",
+          "text": "has not been able to get his own car into his garage even once"
+        },
+        {
+          "lang": "zh",
+          "text": "，甚至一次也没成功。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 149.692,
+      "end": 160.78,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Jasper 先用了正常办法："
+        },
+        {
+          "lang": "en",
+          "text": "Jasper has put up 'No Parking' signs outside his gate."
+        },
+        {
+          "lang": "en",
+          "text": "put up"
+        },
+        {
+          "lang": "zh",
+          "text": "是挂起、立起，让别人看见。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 161.13,
+      "end": 173.266,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但是"
+        },
+        {
+          "lang": "en",
+          "text": "these have not had any effect"
+        },
+        {
+          "lang": "zh",
+          "text": "。标志没有效果，车还是堵在 gate 外面。于是他把一个"
+        },
+        {
+          "lang": "en",
+          "text": "ugly stone head"
+        },
+        {
+          "lang": "zh",
+          "text": "放到了大门上方。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 173.616,
+      "end": 184.024,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "narrator 问他那是什么。Jasper 说："
+        },
+        {
+          "lang": "en",
+          "text": "It was Medusa, the Gorgon."
+        },
+        {
+          "lang": "zh",
+          "text": "也就是美杜莎，这个 Greek myth 里的蛇发女怪。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 184.373,
+      "end": 197.581,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Jasper 希望她能"
+        },
+        {
+          "lang": "en",
+          "text": "turn cars and their owners to stone"
+        },
+        {
+          "lang": "zh",
+          "text": "。可是结尾很幽默："
+        },
+        {
+          "lang": "en",
+          "text": "But none of them has been turned to stone yet!"
+        },
+        {
+          "lang": "zh",
+          "text": "到现在，没有一个真的变成石头。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 197.931,
+      "end": 199.451,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课为什么好笑？"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 199.801,
+      "end": 203.664,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为 Jasper 用神话怪物来解决停车问题？"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 204.014,
+      "end": 215.534,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。问题本身很 everyday：车堵住 gate，他进不了 garage。正常的"
+        },
+        {
+          "lang": "en",
+          "text": "No Parking"
+        },
+        {
+          "lang": "zh",
+          "text": "signs 应该能提醒别人，可是没有效果。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 215.884,
+      "end": 220.261,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "Medusa"
+        },
+        {
+          "lang": "zh",
+          "text": "是恐怖故事吗？"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 220.611,
+      "end": 238.21,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在这课里不是。我们只要知道 Medusa，美杜莎，是 Greek myth 里的 Gorgon，传说能让人"
+        },
+        {
+          "lang": "en",
+          "text": "turn to stone"
+        },
+        {
+          "lang": "zh",
+          "text": "。很多现代故事和电影也借用过她，比如"
+        },
+        {
+          "lang": "en",
+          "text": "Percy Jackson"
+        },
+        {
+          "lang": "zh",
+          "text": "，但今天不用展开讲神话课。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 238.56,
+      "end": 241.428,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那现实里可以这样解决吗？"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 241.778,
+      "end": 256.338,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不可以。现实里应该 calm and legal：找 property manager，联系车主，或者用清楚合法的 barrier 和 sign。Jasper 的 Medusa 是夸张笑话：modern parking problem meets ancient myth."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 256.688,
+      "end": 265.008,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以记住这个 contrast：the signs have not had any effect, and Medusa has not had any effect either. 这就是 punchline。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 265.357,
+      "end": 269.821,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Jasper White is one of those rare people who believes in ancient myths."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 270.171,
+      "end": 276.627,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He has just bought a new house in the city, but ever since he moved in, he has had trouble with cars and their owners."
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 276.977,
+      "end": 282.377,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When he returns home at night, he always finds that someone has parked a car outside his gate."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 282.727,
+      "end": 287.959,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Because of this, he has not been able to get his own car into his garage even once."
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 288.309,
+      "end": 293.757,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Jasper has put up 'No Parking' signs outside his gate, but these have not had any effect."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 294.107,
+      "end": 297.539,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Now he has put an ugly stone head over the gate."
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 297.889,
+      "end": 301.417,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It is one of the ugliest faces I have ever seen."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 301.767,
+      "end": 306.279,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I asked him what it was and he told me that it was Medusa, the Gorgon."
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 306.628,
+      "end": 310.66,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Jasper hopes that she will turn cars and their owners to stone."
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 311.01,
+      "end": 314.418,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "But none of them has been turned to stone yet!"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 314.768,
+      "end": 317.36,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "myth"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "myth"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 317.71,
+      "end": 319.174,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "myth"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "myth"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 319.524,
+      "end": 334.228,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "myth"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "myth"
+        },
+        {
+          "lang": "zh",
+          "text": "是神话，通常是很古老的 stories about gods, heroes, monsters, or magic。课文里说 Jasper believes in"
+        },
+        {
+          "lang": "en",
+          "text": "ancient myths"
+        },
+        {
+          "lang": "zh",
+          "text": "，他相信古代神话。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 334.577,
+      "end": 346.873,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "myth"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天只抓一个 myth bridge："
+        },
+        {
+          "lang": "en",
+          "text": "Medusa"
+        },
+        {
+          "lang": "zh",
+          "text": "，美杜莎，是 Greek myth 里有名的 Gorgon。她能把人变成石头这个设定，是 Jasper 笑话的关键。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 347.223,
+      "end": 349.927,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "garage"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "garage"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 350.277,
+      "end": 351.885,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "garage"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "garage"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 352.235,
+      "end": 367.339,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "garage"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "garage"
+        },
+        {
+          "lang": "zh",
+          "text": "是车库，a place where a car is kept。很多中国小朋友住在 apartment，不一定有独立车库，所以可以想成地下车库车位、车库坡道，或者 private parking space。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 367.689,
+      "end": 377.864,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "garage"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说"
+        },
+        {
+          "lang": "en",
+          "text": "He has not been able to get his own car into his garage even once."
+        },
+        {
+          "lang": "zh",
+          "text": "重点不是车库本身，而是入口被别人停车堵住了。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 378.214,
+      "end": 381.014,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "effect"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "effect"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 381.364,
+      "end": 382.948,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "effect"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "effect"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 383.298,
+      "end": 396.818,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "effect"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "effect"
+        },
+        {
+          "lang": "zh",
+          "text": "是效果、影响。一个 sign 有 effect，就是别人看见以后改变行为。比如"
+        },
+        {
+          "lang": "en",
+          "text": "No Parking"
+        },
+        {
+          "lang": "zh",
+          "text": "sign 有效果，就不会有人继续停在 gate 外面。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 397.168,
+      "end": 407.279,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "effect"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说"
+        },
+        {
+          "lang": "en",
+          "text": "These have not had any effect."
+        },
+        {
+          "lang": "zh",
+          "text": "这些标志没有任何效果。最后你会发现，Medusa 暂时也没有任何效果。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 407.629,
+      "end": 417.349,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 是 present perfect：过去发生的事，到现在仍然有结果。Jasper 的问题不是 yesterday only，而是还在继续。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 417.699,
+      "end": 427.899,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "has just bought"
+        },
+        {
+          "lang": "zh",
+          "text": "表示刚刚买了房子；"
+        },
+        {
+          "lang": "en",
+          "text": "ever since he moved in, he has had trouble"
+        },
+        {
+          "lang": "zh",
+          "text": "表示从搬进去到现在一直有麻烦。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 428.249,
+      "end": 440.905,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "has not been able to"
+        },
+        {
+          "lang": "zh",
+          "text": "很重要。它不是“那天没做到”，而是 up to now, not even once。到现在为止，他一次也没能把车开进 garage。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 441.255,
+      "end": 452.318,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "has put up No Parking signs"
+        },
+        {
+          "lang": "zh",
+          "text": "表示他已经尝试过立标志；"
+        },
+        {
+          "lang": "en",
+          "text": "have not had any effect"
+        },
+        {
+          "lang": "zh",
+          "text": "表示这个尝试到现在还没有解决问题。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 452.668,
+      "end": 467.34,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后的 joke 用 passive voice："
+        },
+        {
+          "lang": "en",
+          "text": "none of them has been turned to stone yet"
+        },
+        {
+          "lang": "zh",
+          "text": "。重点不是谁施了魔法，而是 cars and owners 到现在还没有“被变成石头”。"
+        },
+        {
+          "lang": "en",
+          "text": "yet"
+        },
+        {
+          "lang": "zh",
+          "text": "就是 up to now。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 467.69,
+      "end": 482.25,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天的故事放到生活场景里：你家的 garage entrance 或小区车库坡道被一辆车挡住了，旁边已经有"
+        },
+        {
+          "lang": "en",
+          "text": "No Parking"
+        },
+        {
+          "lang": "zh",
+          "text": "sign，可是 sign 没有起作用。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 482.6,
+      "end": 493.039,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你要先 explain the problem："
+        },
+        {
+          "lang": "en",
+          "text": "Someone has parked outside our gate."
+        },
+        {
+          "lang": "zh",
+          "text": "然后说 consequence："
+        },
+        {
+          "lang": "en",
+          "text": "We can't get our car into the garage."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 493.389,
+      "end": 505.261,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着说结果："
+        },
+        {
+          "lang": "en",
+          "text": "The No Parking sign has not had any effect."
+        },
+        {
+          "lang": "zh",
+          "text": "最后给 calm solution："
+        },
+        {
+          "lang": "en",
+          "text": "We should ask the owner to move the car or call the property manager."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 505.611,
+      "end": 516.491,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意，Jasper 的 Medusa 办法只是 joke。现实里我们不用吓人，不破坏车，也不 revenge；我们用 clear words and calm action 来解决问题。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 516.841,
+      "end": 542.332,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "ancient myths"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "outside his gate"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "into his garage"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "No Parking signs"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "any effect"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "Medusa, the Gorgon"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "turned to stone yet"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 542.682,
+      "end": 563.882,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习说明入口被堵和 calm solution；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的笑点：a modern parking problem meets an ancient myth."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 28
+}

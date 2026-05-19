@@ -1,0 +1,113 @@
+{
+  "lesson_id": 28,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“新房子 -> 车堵门口 -> No Parking 没效果 -> Medusa 笑话 -> 还没有变成石头”的问题链读顺。",
+  "sentences": [
+    {
+      "id": "l28_s1",
+      "text": "Jasper White is one of those rare people who believes in ancient myths.",
+      "focus_zh": "one of those rare people who... 要读成一组；ancient myths 是古代神话。",
+      "start": 265.357,
+      "end": 269.821,
+      "focus_words": [
+        "Jasper White",
+        "rare",
+        "believes",
+        "ancient myths"
+      ]
+    },
+    {
+      "id": "l28_s2",
+      "text": "He has just bought a new house in the city, but ever since he moved in, he has had trouble with cars and their owners.",
+      "focus_zh": "has just bought 读出最近发生；ever since he moved in 后面要稍停。",
+      "start": 270.171,
+      "end": 276.627,
+      "focus_words": [
+        "has just bought",
+        "ever since",
+        "moved in",
+        "trouble",
+        "owners"
+      ]
+    },
+    {
+      "id": "l28_s3",
+      "text": "When he returns home at night, he always finds that someone has parked a car outside his gate.",
+      "focus_zh": "When he returns home at night 是时间状语；outside his gate 是堵住入口的位置。",
+      "start": 276.977,
+      "end": 282.377,
+      "focus_words": [
+        "returns home",
+        "always finds",
+        "has parked",
+        "outside his gate"
+      ]
+    },
+    {
+      "id": "l28_s4",
+      "text": "Because of this, he has not been able to get his own car into his garage even once.",
+      "focus_zh": "Because of this 后面稍停；has not been able to 和 even once 要读出“到现在一次也没有”。",
+      "start": 282.727,
+      "end": 287.959,
+      "focus_words": [
+        "Because of this",
+        "has not been able to",
+        "garage",
+        "even once"
+      ]
+    },
+    {
+      "id": "l28_s5",
+      "text": "Jasper has put up 'No Parking' signs outside his gate, but these have not had any effect.",
+      "focus_zh": "put up signs 是立起标志；have not had any effect 是到现在仍然没有效果。",
+      "start": 288.309,
+      "end": 293.757,
+      "focus_words": [
+        "put up",
+        "No Parking",
+        "outside his gate",
+        "any effect"
+      ]
+    },
+    {
+      "id": "l28_s6",
+      "text": "I asked him what it was and he told me that it was Medusa, the Gorgon.",
+      "focus_zh": "Medusa, the Gorgon 是同位语，读成“美杜莎，这个 Gorgon”。",
+      "start": 301.767,
+      "end": 306.279,
+      "focus_words": [
+        "asked",
+        "told me",
+        "Medusa",
+        "Gorgon"
+      ]
+    },
+    {
+      "id": "l28_s7",
+      "text": "Jasper hopes that she will turn cars and their owners to stone.",
+      "focus_zh": "turn... to stone 是变成石头；cars and their owners 要连成一个对象组。",
+      "start": 306.628,
+      "end": 310.66,
+      "focus_words": [
+        "hopes",
+        "turn",
+        "cars",
+        "owners",
+        "stone"
+      ]
+    },
+    {
+      "id": "l28_s8",
+      "text": "But none of them has been turned to stone yet!",
+      "focus_zh": "has been turned 是被动语态；yet 放在句尾，读出“到现在还没有”的笑点。",
+      "start": 311.01,
+      "end": 314.418,
+      "focus_words": [
+        "none",
+        "has been turned",
+        "stone",
+        "yet"
+      ]
+    }
+  ]
+}
