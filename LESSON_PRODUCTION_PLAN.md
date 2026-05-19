@@ -62,10 +62,11 @@ Course design cards live in `lesson_plans/`:
 - `lesson_plans/lesson_024.md` - Lesson 24, `It could be worse`
 - `lesson_plans/lesson_025.md` - Lesson 25, `Do the English speak English?`
 - `lesson_plans/lesson_026.md` - Lesson 26, `The best art critics`
+- `lesson_plans/lesson_027.md` - Lesson 27, `A wet night`
 
 When future lessons are discussed, add one new file:
 
-- `lesson_plans/lesson_027.md`
+- `lesson_plans/lesson_028.md`
 - etc.
 
 Do not keep lesson-specific design cards in this root plan. This file is the
