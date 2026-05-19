@@ -1,0 +1,39 @@
+{
+  "lesson_id": 24,
+  "title": "It could be worse",
+  "question": "把今天课文里“丢了东西、有人理解但暂时帮不上、最后被诚实归还”的反转放进学校、酒店、商场或地铁失物招领场景——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景各填一个空、用 word bank 里的词或短语。",
+  "example_answer": "I had just lost my school card, and I felt very upset. The teacher was sympathetic, but she could do nothing. Then a classmate came in with my card. There is still some honesty in this world.",
+  "word_bank": [
+    "had just lost",
+    "upset",
+    "sympathetic",
+    "could do nothing",
+    "was interrupted by a knock",
+    "envelope",
+    "contained",
+    "honesty",
+    "It could be worse",
+    "wicked world"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "学校失物招领：我刚刚丢了饭卡，心里很烦恼",
+      "english_template": "I had just lost my school card, and I felt very ___.",
+      "expected_phrase": "upset"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "酒店前台：工作人员很理解我，但一开始也帮不上忙",
+      "english_template": "The hotel clerk was ___, but she could do nothing.",
+      "expected_phrase": "sympathetic"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "同学归还：有人把不属于自己的东西送了回来",
+      "english_template": "A classmate returned my card. There is still some ___ in this world.",
+      "expected_phrase": "honesty"
+    }
+  ],
+  "mode": "all_fills"
+}

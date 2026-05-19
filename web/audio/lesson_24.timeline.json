@@ -1,0 +1,992 @@
+{
+  "total_duration": 468.085,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 14.96,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "想象你在酒店、学校办公室、商场服务台，或者地铁失物招领那里说：“我刚刚丢了东西。”工作人员很理解你，但一开始也不能立刻解决。这种时候，人很容易觉得世界怎么这么糟。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 15.31,
+      "end": 28.926,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "It could be worse"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“不幸中之万幸”。意思不是“没事没事”，而是：事情已经不好了，可是还可能更糟；如果东西永远找不回来，那才更糟。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 29.276,
+      "end": 50.303,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课不是 hotel crime story，也不是讲危险。它是一个 lost-and-found 小故事：客人丢了钱，很"
+        },
+        {
+          "lang": "en",
+          "text": "upset"
+        },
+        {
+          "lang": "zh",
+          "text": "；经理很"
+        },
+        {
+          "lang": "en",
+          "text": "sympathetic"
+        },
+        {
+          "lang": "zh",
+          "text": "，但"
+        },
+        {
+          "lang": "en",
+          "text": "could do nothing"
+        },
+        {
+          "lang": "zh",
+          "text": "。他刚要抱怨"
+        },
+        {
+          "lang": "en",
+          "text": "this wicked world"
+        },
+        {
+          "lang": "zh",
+          "text": "，一阵敲门声就把他打断了。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 50.653,
+      "end": 64.461,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "wicked world"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里像中文里说“这个世界太糟了”，是一句夸张的抱怨。好玩的地方就在这里：经理正准备证明世界很坏，马上有人用诚实的行动证明相反。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 64.811,
+      "end": 84.158,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事一开始，叙述者走进"
+        },
+        {
+          "lang": "en",
+          "text": "the hotel manager's office"
+        },
+        {
+          "lang": "zh",
+          "text": "，也就是酒店经理的办公室，坐了下来。他"
+        },
+        {
+          "lang": "en",
+          "text": "had just lost"
+        },
+        {
+          "lang": "zh",
+          "text": "some money，所以"
+        },
+        {
+          "lang": "en",
+          "text": "felt very upset"
+        },
+        {
+          "lang": "zh",
+          "text": "。这不是很久以前的麻烦，而是刚刚发生的坏事。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 84.508,
+      "end": 104.755,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他解释说："
+        },
+        {
+          "lang": "en",
+          "text": "I left the money in my room, and it's not there now."
+        },
+        {
+          "lang": "zh",
+          "text": "钱之前在房间里，现在没有了。经理不是冷漠的人；"
+        },
+        {
+          "lang": "en",
+          "text": "The manager was sympathetic"
+        },
+        {
+          "lang": "zh",
+          "text": "，他理解客人的难受，可是"
+        },
+        {
+          "lang": "en",
+          "text": "he could do nothing"
+        },
+        {
+          "lang": "zh",
+          "text": "，一时也帮不上忙。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 105.105,
+      "end": 122.749,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "经理开始扩大抱怨："
+        },
+        {
+          "lang": "en",
+          "text": "Everyone's losing money these days."
+        },
+        {
+          "lang": "zh",
+          "text": "他正要 complain about"
+        },
+        {
+          "lang": "en",
+          "text": "this wicked world"
+        },
+        {
+          "lang": "zh",
+          "text": "，说这个世界太糟了，却"
+        },
+        {
+          "lang": "en",
+          "text": "was interrupted by a knock at the door"
+        },
+        {
+          "lang": "zh",
+          "text": "。就在这句话还没落地的时候，门响了。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 123.099,
+      "end": 141.058,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "一个姑娘走进来，把一个"
+        },
+        {
+          "lang": "en",
+          "text": "envelope"
+        },
+        {
+          "lang": "zh",
+          "text": "放在经理桌上。信封里"
+        },
+        {
+          "lang": "en",
+          "text": "contained"
+        },
+        {
+          "lang": "zh",
+          "text": "the missing money。她是在这位 gentleman 的房门外捡到的。于是结尾变成一句很亮的话："
+        },
+        {
+          "lang": "en",
+          "text": "There is still some honesty in this world!"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 141.408,
+      "end": 143.288,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课的反转在哪里？"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 143.638,
+      "end": 148.177,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "经理刚说 world is wicked，马上就有人把钱送回来了。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 148.527,
+      "end": 159.927,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。经理不是坏人，他只是累了、灰心了，所以开始 complain。可是故事用一个 knock at the door 打断他，让诚实的人立刻登场。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 160.277,
+      "end": 165.071,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "sympathetic"
+        },
+        {
+          "lang": "zh",
+          "text": "不是“已经解决了问题”？"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 165.421,
+      "end": 179.112,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。"
+        },
+        {
+          "lang": "en",
+          "text": "sympathetic"
+        },
+        {
+          "lang": "zh",
+          "text": "是理解别人的难处、替他难受。老师、前台、服务台工作人员都可能很 sympathetic，但暂时"
+        },
+        {
+          "lang": "en",
+          "text": "can do nothing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 179.462,
+      "end": 183.684,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "wicked"
+        },
+        {
+          "lang": "zh",
+          "text": "是不是很严重的坏？"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 184.034,
+      "end": 198.666,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词本来可以表示邪恶，但在"
+        },
+        {
+          "lang": "en",
+          "text": "this wicked world"
+        },
+        {
+          "lang": "zh",
+          "text": "里，它更像夸张抱怨：“这个世界怎么这么糟”。故事结尾正好告诉我们，不能因为一个坏时刻就给整个世界下结论。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 199.016,
+      "end": 203.483,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "标题"
+        },
+        {
+          "lang": "en",
+          "text": "It could be worse"
+        },
+        {
+          "lang": "zh",
+          "text": "怎么理解？"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 203.833,
+      "end": 215.921,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "钱丢了当然糟糕，但如果永远没人归还，就更糟。现在有人把 envelope 送回来，说明事情没有坏到底，也说明"
+        },
+        {
+          "lang": "en",
+          "text": "there is still some honesty in this world"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 216.271,
+      "end": 219.991,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I entered the hotel manager's office and sat down."
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 220.341,
+      "end": 224.301,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I had just lost $50 and I felt very upset."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 224.65,
+      "end": 228.778,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'I left the money in my room,' I said, 'and it's not there now.'"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 229.128,
+      "end": 232.92,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The manager was sympathetic, but he could do nothing."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 233.27,
+      "end": 236.51,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Everyone's losing money these days,' he said."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 236.86,
+      "end": 242.212,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He started to complain about this wicked world but was interrupted by a knock at the door."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 242.562,
+      "end": 245.994,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A girl came in and put an envelope on his desk."
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 246.344,
+      "end": 248.864,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It contained $50."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 249.214,
+      "end": 252.958,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'I found this outside this gentleman's room,' she said."
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 253.308,
+      "end": 257.82,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Well,' I said to the manager, 'there is still some honesty in this world!'"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 258.17,
+      "end": 260.881,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "upset"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "upset"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 261.231,
+      "end": 262.887,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "upset"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "upset"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 263.237,
+      "end": 281.109,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "upset"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "upset"
+        },
+        {
+          "lang": "zh",
+          "text": "是因为坏事发生而难过、担心、烦恼。丢了钱、丢了耳机、收到坏消息，都可能 make you upset。课文里"
+        },
+        {
+          "lang": "en",
+          "text": "I felt very upset"
+        },
+        {
+          "lang": "zh",
+          "text": "，是说他刚丢了钱，心里很不舒服。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 281.459,
+      "end": 284.403,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sympathetic"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "sympathetic"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 284.753,
+      "end": 286.649,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sympathetic"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "sympathetic"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 286.998,
+      "end": 303.342,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sympathetic"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "sympathetic"
+        },
+        {
+          "lang": "zh",
+          "text": "是理解别人的困难，并替他难受。它不等于“我一定能解决”。所以课文说"
+        },
+        {
+          "lang": "en",
+          "text": "The manager was sympathetic, but he could do nothing"
+        },
+        {
+          "lang": "zh",
+          "text": "：经理同情他，但暂时无能为力。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 303.692,
+      "end": 306.564,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "honesty"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "honesty"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 306.914,
+      "end": 308.57,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "honesty"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "honesty"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 308.92,
+      "end": 326.72,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "honesty"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "honesty"
+        },
+        {
+          "lang": "zh",
+          "text": "是诚实，尤其是把不属于自己的东西归还。捡到钱包、饭卡、耳机或信封，然后交给失物招领，这就是 honesty。课文最后说"
+        },
+        {
+          "lang": "en",
+          "text": "There is still some honesty in this world"
+        },
+        {
+          "lang": "zh",
+          "text": "，是整篇故事的亮点。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 327.069,
+      "end": 342.485,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 跟故事节奏绑在一起。第一步："
+        },
+        {
+          "lang": "en",
+          "text": "I had just lost $50"
+        },
+        {
+          "lang": "zh",
+          "text": "。这里"
+        },
+        {
+          "lang": "en",
+          "text": "had just lost"
+        },
+        {
+          "lang": "zh",
+          "text": "告诉你，进办公室之前，坏事刚刚发生，所以他很 upset。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 342.835,
+      "end": 362.123,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二步："
+        },
+        {
+          "lang": "en",
+          "text": "I left the money in my room, and it's not there now."
+        },
+        {
+          "lang": "zh",
+          "text": "earlier action 是 left the money in the room；现在的结果是 it is not there。第三步，经理"
+        },
+        {
+          "lang": "en",
+          "text": "could do nothing"
+        },
+        {
+          "lang": "zh",
+          "text": "，不是不想帮，而是 was not able to help at that moment。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 362.472,
+      "end": 386.736,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最关键的反转在这句："
+        },
+        {
+          "lang": "en",
+          "text": "He started to complain, but was interrupted by a knock at the door."
+        },
+        {
+          "lang": "en",
+          "text": "was interrupted by"
+        },
+        {
+          "lang": "zh",
+          "text": "把重点放在“被打断”的瞬间。然后信封"
+        },
+        {
+          "lang": "en",
+          "text": "contained"
+        },
+        {
+          "lang": "zh",
+          "text": "the money，说明里面装着丢失的钱。故事的 timing 就是：刚丢钱、刚抱怨、刚被敲门打断、马上发现 honesty。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 387.086,
+      "end": 402.806,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天这个“本来很糟，但有人诚实归还”的故事放进你自己的生活。可以是学校失物招领、酒店前台、商场服务台、地铁 lost-property office，也可以是同学捡到你的饭卡或耳机。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 403.156,
+      "end": 424.796,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以照这个句型想："
+        },
+        {
+          "lang": "en",
+          "text": "I had just lost my school card, and I felt very upset. The teacher was sympathetic, but she could do nothing. Then a classmate came in with my card. There is still some honesty in this world."
+        },
+        {
+          "lang": "zh",
+          "text": "下面练习里，把 upset、sympathetic、honesty 这条情绪线填出来。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 425.146,
+      "end": 468.085,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "had just lost"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "felt very upset"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "was sympathetic"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "was interrupted by a knock"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "It contained $50"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "There is still some honesty in this world"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。读完以后，再做 ① 生活场景，把“丢东西、有人理解、最后诚实归还”放进自己的例子；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。加油！"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 24
+}

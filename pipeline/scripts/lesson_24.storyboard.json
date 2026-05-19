@@ -1,0 +1,23 @@
+{
+  "lesson_id": 24,
+  "title": "It could be worse",
+  "visual_consistency": "Keep the same warm modest hotel manager's office and the same three characters across all four frames. The narrator is a polite adult hotel guest in his thirties with short dark hair, an oval face, average build, a navy travel jacket over a pale shirt, and a worried but gentle expression. The hotel manager is a middle-aged man with neat grey hair, round glasses, a dark waistcoat over a white shirt, and a sympathetic but weary expression. The girl is a young hotel staff helper with tidy dark hair, a simple light blue uniform, a calm honest expression, and a plain blank envelope as the key prop. The office has a wooden desk, two chairs, a door, warm afternoon light, and no readable text anywhere. Keep the mood calm, safe, relieved, and trust-restoring; no crime, police, panic, dark thriller lighting, readable money values, signs, letters, or labels.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "The narrator sits in the hotel manager's office, leaning forward with a worried upset expression as he explains that he has lost money. The hotel manager sits behind the wooden desk listening carefully. Show the office as calm and warm, with the envelope not yet present. No readable text, no visible money values, no signs."
+    },
+    {
+      "frame": 2,
+      "prompt": "Only the narrator and the hotel manager are present in the same warm office. The manager listens sympathetically but looks weary, raising one hand as if beginning to complain about the world. The narrator remains seated, still upset but hopeful. The wooden desk and closed door are visible. Do not show the girl yet, do not show an envelope yet, and do not show any extra person. Make the scene about helpless sympathy and exaggerated complaint, not cruelty. No readable text."
+    },
+    {
+      "frame": 3,
+      "prompt": "A knock at the office door interrupts the manager. The same young hotel staff helper enters quietly through the door carrying a plain blank envelope. The narrator and manager both turn toward her with surprised expressions. Keep the envelope clearly visible and important. No readable text, no split panels."
+    },
+    {
+      "frame": 4,
+      "prompt": "The young helper has returned the plain blank envelope to the narrator near the manager's desk. The narrator looks relieved and grateful, the manager looks gently surprised, and the girl looks calm and honest. The final mood should show trust restored and the idea that honesty still exists. Do not show readable money values or written words."
+    }
+  ]
+}

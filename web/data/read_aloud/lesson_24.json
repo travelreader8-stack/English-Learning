@@ -1,0 +1,114 @@
+{
+  "lesson_id": 24,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“刚丢钱 -> 很 upset -> 经理 sympathetic 但帮不上 -> 抱怨被敲门打断 -> 信封归还 -> honesty still exists”这条反转读顺。",
+  "sentences": [
+    {
+      "id": "l24_s1",
+      "text": "I entered the hotel manager's office and sat down.",
+      "focus_zh": "hotel manager's office 是酒店经理办公室，也可以联想到前台、服务台或失物招领。",
+      "start": 216.271,
+      "end": 219.991,
+      "focus_words": [
+        "entered",
+        "hotel",
+        "manager",
+        "office",
+        "sat"
+      ]
+    },
+    {
+      "id": "l24_s2",
+      "text": "I had just lost $50 and I felt very upset.",
+      "focus_zh": "had just lost 表示坏事刚刚发生；upset 是烦恼、难过、担心。",
+      "start": 220.341,
+      "end": 224.301,
+      "focus_words": [
+        "had",
+        "just",
+        "lost",
+        "felt",
+        "upset"
+      ]
+    },
+    {
+      "id": "l24_s3",
+      "text": "'I left the money in my room,' I said, 'and it's not there now.'",
+      "focus_zh": "left the money 是更早的动作；it's not there now 是现在发现钱不在了。",
+      "start": 224.65,
+      "end": 228.778,
+      "focus_words": [
+        "left",
+        "money",
+        "room",
+        "not",
+        "now"
+      ]
+    },
+    {
+      "id": "l24_s4",
+      "text": "The manager was sympathetic, but he could do nothing.",
+      "focus_zh": "sympathetic 是理解和同情；could do nothing 是当时没有办法帮忙。",
+      "start": 229.128,
+      "end": 232.92,
+      "focus_words": [
+        "manager",
+        "sympathetic",
+        "could",
+        "do",
+        "nothing"
+      ]
+    },
+    {
+      "id": "l24_s5",
+      "text": "He started to complain about this wicked world but was interrupted by a knock at the door.",
+      "focus_zh": "wicked world 是夸张抱怨；was interrupted by 是被敲门声打断，反转从这里开始。",
+      "start": 236.86,
+      "end": 242.212,
+      "focus_words": [
+        "complain",
+        "wicked",
+        "world",
+        "interrupted",
+        "knock"
+      ]
+    },
+    {
+      "id": "l24_s6",
+      "text": "A girl came in and put an envelope on his desk.",
+      "focus_zh": "envelope 是信封，故事里它是归还丢失钱的关键物件。",
+      "start": 242.562,
+      "end": 245.994,
+      "focus_words": [
+        "girl",
+        "came",
+        "envelope",
+        "desk"
+      ]
+    },
+    {
+      "id": "l24_s7",
+      "text": "It contained $50.",
+      "focus_zh": "contained 是里面装着；这句话揭示信封里正是丢失的钱。",
+      "start": 246.344,
+      "end": 248.864,
+      "focus_words": [
+        "contained"
+      ]
+    },
+    {
+      "id": "l24_s8",
+      "text": "'Well,' I said to the manager, 'there is still some honesty in this world!'",
+      "focus_zh": "still some honesty 是结尾的亮点：世界没有经理刚才说得那么坏。",
+      "start": 253.308,
+      "end": 257.82,
+      "focus_words": [
+        "Well",
+        "manager",
+        "still",
+        "honesty",
+        "world"
+      ]
+    }
+  ]
+}
