@@ -1,0 +1,111 @@
+{
+  "lesson_id": 30,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“Wayle 小河 -> 河岸 -> 孩子玩球 -> 河上划船 -> 球飞向船 -> 差点落水 -> 孩子跑掉 -> 球回到岸上”的动作路线读顺。",
+  "sentences": [
+    {
+      "id": "l30_s1",
+      "text": "The Wayle is a small river that cuts across the park near my home.",
+      "focus_zh": "The Wayle 是小河名；cuts across the park 要读成一条地点路线。",
+      "start": 306.548,
+      "end": 310.676,
+      "focus_words": [
+        "The Wayle",
+        "small river",
+        "cuts across",
+        "near my home"
+      ]
+    },
+    {
+      "id": "l30_s2",
+      "text": "It was warm last Sunday, so I went and sat on the river bank as usual.",
+      "focus_zh": "so 后面给出行动结果；river bank 是河岸，不是银行。",
+      "start": 314.784,
+      "end": 319.632,
+      "focus_words": [
+        "warm last Sunday",
+        "so",
+        "river bank",
+        "as usual"
+      ]
+    },
+    {
+      "id": "l30_s3",
+      "text": "Some children were playing games on the bank and there were some people rowing on the river.",
+      "focus_zh": "on the bank 和 on the river 对比清楚；rowing 是用桨划船。",
+      "start": 319.982,
+      "end": 325.022,
+      "focus_words": [
+        "children",
+        "on the bank",
+        "people rowing",
+        "on the river"
+      ]
+    },
+    {
+      "id": "l30_s4",
+      "text": "Suddenly, one of the children kicked a ball very hard and it went towards a passing boat.",
+      "focus_zh": "Suddenly 后面稍停；towards a passing boat 是球的运动方向。",
+      "start": 325.372,
+      "end": 330.7,
+      "focus_words": [
+        "Suddenly",
+        "kicked",
+        "very hard",
+        "towards",
+        "passing boat"
+      ]
+    },
+    {
+      "id": "l30_s5",
+      "text": "Some people on the bank called out to the man in the boat, but he did not hear them.",
+      "focus_zh": "called out 是大声提醒；but 后面读出提醒没有成功。",
+      "start": 331.049,
+      "end": 336.017,
+      "focus_words": [
+        "on the bank",
+        "called out",
+        "man in the boat",
+        "did not hear"
+      ]
+    },
+    {
+      "id": "l30_s6",
+      "text": "The ball struck him so hard that he nearly fell into the water.",
+      "focus_zh": "so hard that... 是原因加结果；nearly fell into the water 要读出“差点”。",
+      "start": 336.367,
+      "end": 340.447,
+      "focus_words": [
+        "struck",
+        "so hard that",
+        "nearly",
+        "fell into the water"
+      ]
+    },
+    {
+      "id": "l30_s7",
+      "text": "I turned to look at the children, but there weren't any in sight: they had all run away!",
+      "focus_zh": "in sight 是看得见；had all run away 表示在回头看之前已经跑掉了。",
+      "start": 340.797,
+      "end": 346.461,
+      "focus_words": [
+        "turned to look",
+        "in sight",
+        "had all run away"
+      ]
+    },
+    {
+      "id": "l30_s8",
+      "text": "He called out to the children and threw the ball back to the bank.",
+      "focus_zh": "back to the bank 是球回到岸上；这句收住标题笑点。",
+      "start": 350.545,
+      "end": 354.385,
+      "focus_words": [
+        "called out",
+        "children",
+        "threw the ball back",
+        "bank"
+      ]
+    }
+  ]
+}

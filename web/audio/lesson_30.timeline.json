@@ -1,0 +1,1534 @@
+{
+  "total_duration": 597.53,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 13.384,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Football or polo?"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“足球还是水球？”。先抓住这个 title joke：这不是体育规则课，也不是让你区分 football 和 real water polo。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 13.734,
+      "end": 27.174,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里，孩子们在河岸上玩球，球却飞向河上的小船。足球从 land 飞到 water scene，所以题目开玩笑地问：这是 football，还是变成了 water-side polo？"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 27.524,
+      "end": 38.675,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先把空间摆清楚。这里的"
+        },
+        {
+          "lang": "en",
+          "text": "bank"
+        },
+        {
+          "lang": "zh",
+          "text": "不是 money bank，不是银行，而是"
+        },
+        {
+          "lang": "en",
+          "text": "river bank"
+        },
+        {
+          "lang": "zh",
+          "text": "，河岸，也就是河边的土地。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 39.025,
+      "end": 55.117,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "一张小地图就是："
+        },
+        {
+          "lang": "en",
+          "text": "river"
+        },
+        {
+          "lang": "zh",
+          "text": "，旁边是"
+        },
+        {
+          "lang": "en",
+          "text": "bank"
+        },
+        {
+          "lang": "zh",
+          "text": "；children 在 bank 上玩球；people 在 river 上"
+        },
+        {
+          "lang": "en",
+          "text": "rowing"
+        },
+        {
+          "lang": "zh",
+          "text": "，划小船；ball 从 bank 飞向 a passing boat。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 55.466,
+      "end": 65.034,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The Wayle"
+        },
+        {
+          "lang": "zh",
+          "text": "是这条小河的名字。你不用查它是不是很有名，只要记住：The Wayle is the small river near the narrator's home."
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 65.384,
+      "end": 77.304,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这课的核心不是危险事故，而是一个轻轻的公园小插曲：quiet riverside afternoon，sudden flying ball，and a good-humoured man who throws the ball back."
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 77.654,
+      "end": 90.702,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事先给我们地点："
+        },
+        {
+          "lang": "en",
+          "text": "The Wayle is a small river that cuts across the park near my home."
+        },
+        {
+          "lang": "en",
+          "text": "cuts across"
+        },
+        {
+          "lang": "zh",
+          "text": "是横穿、穿过，像一条小河从公园中间经过。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 91.052,
+      "end": 102.028,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "narrator 喜欢这里："
+        },
+        {
+          "lang": "en",
+          "text": "I like sitting by the Wayle on fine afternoons."
+        },
+        {
+          "lang": "en",
+          "text": "fine afternoons"
+        },
+        {
+          "lang": "zh",
+          "text": "是天气好、适合坐在外面的下午。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 102.377,
+      "end": 116.833,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "上星期日很暖和，所以他"
+        },
+        {
+          "lang": "en",
+          "text": "went and sat on the river bank as usual"
+        },
+        {
+          "lang": "zh",
+          "text": "。注意"
+        },
+        {
+          "lang": "en",
+          "text": "as usual"
+        },
+        {
+          "lang": "zh",
+          "text": "，像往常一样；"
+        },
+        {
+          "lang": "en",
+          "text": "river bank"
+        },
+        {
+          "lang": "zh",
+          "text": "是河岸，不是银行。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 117.183,
+      "end": 124.983,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着画面变热闹："
+        },
+        {
+          "lang": "en",
+          "text": "Some children were playing games on the bank"
+        },
+        {
+          "lang": "zh",
+          "text": "。孩子们在岸上的草地玩游戏。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 125.332,
+      "end": 134.868,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "同时，"
+        },
+        {
+          "lang": "en",
+          "text": "there were some people rowing on the river"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "row"
+        },
+        {
+          "lang": "zh",
+          "text": "是用桨划小船，不是 motorboat，也不是大船。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 135.218,
+      "end": 144.938,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里一定要看出两个 activity zones：on the bank 是陆地上，on the river 是河面上。大家共享同一个公园空间。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 145.288,
+      "end": 153.296,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "突然事情来了："
+        },
+        {
+          "lang": "en",
+          "text": "One of the children kicked a ball very hard."
+        },
+        {
+          "lang": "zh",
+          "text": "一个孩子很用力地踢了一脚球。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 153.646,
+      "end": 165.437,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "球的路线是关键："
+        },
+        {
+          "lang": "en",
+          "text": "It went towards a passing boat."
+        },
+        {
+          "lang": "en",
+          "text": "towards"
+        },
+        {
+          "lang": "zh",
+          "text": "是朝着某个方向；"
+        },
+        {
+          "lang": "en",
+          "text": "passing boat"
+        },
+        {
+          "lang": "zh",
+          "text": "是正经过的小船。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 165.787,
+      "end": 176.387,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "岸上的人看见了，就"
+        },
+        {
+          "lang": "en",
+          "text": "called out to the man in the boat"
+        },
+        {
+          "lang": "zh",
+          "text": "，大声提醒船上的人。可是"
+        },
+        {
+          "lang": "en",
+          "text": "he did not hear them"
+        },
+        {
+          "lang": "zh",
+          "text": "，他没有听见。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 176.737,
+      "end": 190.072,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后出现整课最重要的句型："
+        },
+        {
+          "lang": "en",
+          "text": "The ball struck him so hard that he nearly fell into the water."
+        },
+        {
+          "lang": "en",
+          "text": "so hard that..."
+        },
+        {
+          "lang": "zh",
+          "text": "是“这么重，以至于……”，hit 的结果是 he nearly fell."
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 190.422,
+      "end": 203.846,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "narrator 转头看孩子们："
+        },
+        {
+          "lang": "en",
+          "text": "I turned to look at the children, but there weren't any in sight."
+        },
+        {
+          "lang": "en",
+          "text": "in sight"
+        },
+        {
+          "lang": "zh",
+          "text": "是看得见；not in sight 就是一个也看不见。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 204.196,
+      "end": 215.528,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么看不见？"
+        },
+        {
+          "lang": "en",
+          "text": "They had all run away!"
+        },
+        {
+          "lang": "zh",
+          "text": "这里用"
+        },
+        {
+          "lang": "en",
+          "text": "had run away"
+        },
+        {
+          "lang": "zh",
+          "text": "，说明在 narrator 回头看之前，孩子们已经跑掉了。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 215.878,
+      "end": 225.037,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后不是生气，而是一个 warm ending："
+        },
+        {
+          "lang": "en",
+          "text": "The man laughed when he realized what had happened."
+        },
+        {
+          "lang": "zh",
+          "text": "他明白发生了什么以后笑了。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 225.387,
+      "end": 235.871,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他"
+        },
+        {
+          "lang": "en",
+          "text": "called out to the children and threw the ball back to the bank"
+        },
+        {
+          "lang": "zh",
+          "text": "。球从 bank 飞到 boat，又被 thrown back to the bank，标题的玩笑也就完整了。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 236.221,
+      "end": 240.005,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课为什么叫"
+        },
+        {
+          "lang": "en",
+          "text": "Football or polo?"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 240.355,
+      "end": 245.206,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为足球飞到河上的小船那边，好像游戏跑到水上去了？"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 245.556,
+      "end": 254.036,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。不是在认真讲 water polo 规则，而是一个 playful title。football 本来在岸上，结果进入了 river-and-boat scene。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 254.386,
+      "end": 258.245,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "bank"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么要先讲？"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 258.595,
+      "end": 274.107,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为小朋友一看到"
+        },
+        {
+          "lang": "en",
+          "text": "bank"
+        },
+        {
+          "lang": "zh",
+          "text": "很容易想到银行。可这里是"
+        },
+        {
+          "lang": "en",
+          "text": "river bank"
+        },
+        {
+          "lang": "zh",
+          "text": "，河边的土地。children are on the bank, people are rowing on the river, and the ball goes towards the boat."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 274.457,
+      "end": 277.475,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "孩子们是不是故意欺负船上的人？"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 277.825,
+      "end": 289.065,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不要这样理解。他们是 careless and scared，不是 malicious。他们看到出事就跑了，有点心虚，但故事的 tone 是 mischievous and comic。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 289.415,
+      "end": 306.198,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "真正要记住的是这条 movement map："
+        },
+        {
+          "lang": "en",
+          "text": "river"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "bank"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "children"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "boat"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "ball"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "man"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "children gone"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "ball back"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 306.548,
+      "end": 310.676,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The Wayle is a small river that cuts across the park near my home."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 311.026,
+      "end": 314.434,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I like sitting by the Wayle on fine afternoons."
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 314.784,
+      "end": 319.632,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It was warm last Sunday, so I went and sat on the river bank as usual."
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 319.982,
+      "end": 325.022,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Some children were playing games on the bank and there were some people rowing on the river."
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 325.372,
+      "end": 330.7,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Suddenly, one of the children kicked a ball very hard and it went towards a passing boat."
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 331.049,
+      "end": 336.017,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Some people on the bank called out to the man in the boat, but he did not hear them."
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 336.367,
+      "end": 340.447,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The ball struck him so hard that he nearly fell into the water."
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 340.797,
+      "end": 346.461,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I turned to look at the children, but there weren't any in sight: they had all run away!"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 346.811,
+      "end": 350.195,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The man laughed when he realized what had happened."
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 350.545,
+      "end": 354.385,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He called out to the children and threw the ball back to the bank."
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 354.735,
+      "end": 357.231,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bank"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "bank"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 357.581,
+      "end": 359.021,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bank"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "bank"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 359.37,
+      "end": 372.242,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bank"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "bank"
+        },
+        {
+          "lang": "zh",
+          "text": "在这课里不是银行，而是河岸，the land beside a river。你可以说"
+        },
+        {
+          "lang": "en",
+          "text": "river bank"
+        },
+        {
+          "lang": "zh",
+          "text": "，也可以说 lake bank，都是水边的土地。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 372.592,
+      "end": 381.232,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bank"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说"
+        },
+        {
+          "lang": "en",
+          "text": "I went and sat on the river bank as usual."
+        },
+        {
+          "lang": "zh",
+          "text": "narrator 坐在河岸上，看见孩子们和划船的人。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 381.582,
+      "end": 384.118,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "row"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "row"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 384.468,
+      "end": 385.932,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "row"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "row"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 386.282,
+      "end": 395.897,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "row"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "row"
+        },
+        {
+          "lang": "zh",
+          "text": "是划船，用 oars，也就是船桨，让小船在水上移动。它不是开 motorboat，也不是驾驶大船。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 396.247,
+      "end": 406.647,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "row"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说"
+        },
+        {
+          "lang": "en",
+          "text": "There were some people rowing on the river."
+        },
+        {
+          "lang": "zh",
+          "text": "画面应该是安静的小河、公园、木头小船和划船的人。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 406.997,
+      "end": 409.773,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sight"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "sight"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 410.123,
+      "end": 411.611,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sight"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "sight"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 411.961,
+      "end": 420.904,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sight"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "sight"
+        },
+        {
+          "lang": "zh",
+          "text": "和“看见”有关。"
+        },
+        {
+          "lang": "en",
+          "text": "in sight"
+        },
+        {
+          "lang": "zh",
+          "text": "就是能看见；"
+        },
+        {
+          "lang": "en",
+          "text": "out of sight"
+        },
+        {
+          "lang": "zh",
+          "text": "就是看不见了。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 421.254,
+      "end": 431.566,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sight"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说"
+        },
+        {
+          "lang": "en",
+          "text": "There weren't any in sight."
+        },
+        {
+          "lang": "zh",
+          "text": "narrator 回头看孩子们，一个也看不见，因为"
+        },
+        {
+          "lang": "en",
+          "text": "they had all run away"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 431.916,
+      "end": 436.076,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 不要脱离画面，跟着球的路线学。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 436.426,
+      "end": 446.329,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块是"
+        },
+        {
+          "lang": "en",
+          "text": "so... that..."
+        },
+        {
+          "lang": "zh",
+          "text": "，原因和结果。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The ball struck him so hard that he nearly fell into the water."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 446.679,
+      "end": 460.319,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "so hard"
+        },
+        {
+          "lang": "zh",
+          "text": "是程度很重；"
+        },
+        {
+          "lang": "en",
+          "text": "that he nearly fell"
+        },
+        {
+          "lang": "zh",
+          "text": "是结果，差点掉进水里。你也可以说："
+        },
+        {
+          "lang": "en",
+          "text": "He kicked the ball so hard that it went towards the boat."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 460.669,
+      "end": 473.109,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块是"
+        },
+        {
+          "lang": "en",
+          "text": "had done"
+        },
+        {
+          "lang": "zh",
+          "text": "，过去的过去。narrator turned to look，是过去；孩子们跑掉发生得更早，所以说："
+        },
+        {
+          "lang": "en",
+          "text": "They had all run away."
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 473.458,
+      "end": 489.25,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块是 space words，帮助你背课文："
+        },
+        {
+          "lang": "en",
+          "text": "by the Wayle"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "on the bank"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "on the river"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "towards a passing boat"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "into the water"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "back to the bank"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 489.6,
+      "end": 498.9,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一条逻辑很简单：the ball moved from land to boat, the children moved out of sight, and the ball came back to land."
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 499.25,
+      "end": 510.93,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天的故事放到现代生活场景里。你和朋友在公园或者湖边踢球，旁边有人散步、骑车、坐着休息，甚至有人在划船。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 511.28,
+      "end": 526.527,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "一脚球踢得太用力，球"
+        },
+        {
+          "lang": "en",
+          "text": "went towards"
+        },
+        {
+          "lang": "zh",
+          "text": "someone。你先要 warning："
+        },
+        {
+          "lang": "en",
+          "text": "Watch out!"
+        },
+        {
+          "lang": "zh",
+          "text": "然后立刻 repair："
+        },
+        {
+          "lang": "en",
+          "text": "I'm sorry. Are you all right?"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 526.877,
+      "end": 534.013,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果对方没事，还拿到了球，你可以礼貌地说："
+        },
+        {
+          "lang": "en",
+          "text": "Could you throw the ball back, please?"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 534.363,
+      "end": 546.467,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后补一句 responsible plan："
+        },
+        {
+          "lang": "en",
+          "text": "We will play farther from the river."
+        },
+        {
+          "lang": "zh",
+          "text": "重点不是羞辱孩子，而是知道 public space is shared：玩得开心，也要看周围。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 546.816,
+      "end": 574.62,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "river bank"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "rowing on the river"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "towards a passing boat"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "called out"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "so hard that he nearly fell"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "in sight"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "had all run away"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "threw the ball back to the bank"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 574.97,
+      "end": 597.53,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习 warning, apology, and asking for the ball back；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的笑点：a football left the bank and almost joined the boat."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 30
+}

@@ -1,0 +1,39 @@
+{
+  "lesson_id": 30,
+  "title": "Football or polo?",
+  "question": "把今天课文里“球从河岸飞向小船，大家要提醒、道歉、再礼貌要回球”的线索放进现代公园场景——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个提醒各填一个空、用 word bank 里的词或短语。",
+  "example_answer": "Watch out! I'm sorry. The ball went towards you. Are you all right? Could you throw the ball back, please? We will play farther from the river.",
+  "word_bank": [
+    "Watch out",
+    "I'm sorry",
+    "towards you",
+    "Are you all right",
+    "throw the ball back",
+    "please",
+    "farther from the river",
+    "public space",
+    "river bank",
+    "rowing"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "提醒别人：球飞过去时先大声提醒",
+      "english_template": "___! The ball is coming.",
+      "expected_phrase": "Watch out"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "礼貌道歉：球差点碰到别人，先表达歉意",
+      "english_template": "___. The ball went towards you.",
+      "expected_phrase": "I'm sorry"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "请求归还：请对方把球扔回来",
+      "english_template": "Could you ___, please?",
+      "expected_phrase": "throw the ball back"
+    }
+  ],
+  "mode": "all_fills"
+}

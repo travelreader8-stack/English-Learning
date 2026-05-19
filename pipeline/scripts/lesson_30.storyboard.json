@@ -1,0 +1,23 @@
+{
+  "lesson_id": 30,
+  "title": "Football or polo?",
+  "visual_consistency": "A sunny park beside a small river called the Wayle, grassy river bank, gentle water, small wooden rowing boat. Calm Chinese narrator sitting on the bank with a book, a group of three school-age children playing with a football on the grass, one child in a red shirt, one in blue, one in yellow. Friendly adult man rowing a small boat, surprised but good-humoured. Warm educational illustration, light comic tone, consistent characters, no readable text.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Peaceful riverside park on a warm fine afternoon: the small river Wayle clearly cuts across the park, with a grassy river bank beside it. The calm Chinese narrator sits on the bank with a book, relaxed and observant. The small wooden rowing boat is visible farther along the gentle water, but the mood is quiet before the action begins. Make the bank visually clear as land beside the river, no readable text."
+    },
+    {
+      "frame": 2,
+      "prompt": "Shared public park space: the same three school-age children, one in a red shirt, one in blue, one in yellow, play with a football on the grassy river bank while the friendly adult man rows the same small wooden boat on the river. Show two zones in one clear composition: children on land, rower on water, narrator still watching from the bank. Sunny, playful, not dangerous, no readable text."
+    },
+    {
+      "frame": 3,
+      "prompt": "Sudden comic accident: the child in the red shirt has kicked the football very hard, and the ball flies from the grassy bank toward the passing wooden rowing boat. People on the bank gesture and call out to warn the friendly rower, who looks surprised and nearly loses balance without being injured. Keep the impact gentle and not painful, avoid a close-up hit to the face, no serious danger, no readable text."
+    },
+    {
+      "frame": 4,
+      "prompt": "Warm funny ending beside the Wayle: the three children are no longer in the open, partly hidden behind bushes out of sight on the river bank, looking sheepish. The friendly adult man in the wooden rowing boat laughs and throws the football back toward the grassy bank. The calm narrator watches the ball returning from water to land, making the title joke clear. Forgiving, light comic mood, no readable text."
+    }
+  ]
+}
