@@ -1,0 +1,1130 @@
+{
+  "total_duration": 530.728,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 12.72,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "想象你在学校 art corner 看到一张很特别的画。大人们都在讲它代表什么、情绪多复杂，可是一个小朋友认真看了一眼，说：等一下，它是不是挂倒了？"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 13.07,
+      "end": 31.902,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "The best art critics"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“最佳艺术评论家”。这里的"
+        },
+        {
+          "lang": "en",
+          "text": "critic"
+        },
+        {
+          "lang": "zh",
+          "text": "不是专门挑毛病的人，而是 someone who looks carefully and gives an opinion，也就是认真观察、再给出判断的人。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 32.251,
+      "end": 49.551,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有"
+        },
+        {
+          "lang": "en",
+          "text": "modern art"
+        },
+        {
+          "lang": "zh",
+          "text": "要先讲清楚。modern art 不一定像照片一样画一个清楚的人、房子或风景。它可能用 colour、shape、line、pattern、material、mood 或 idea 来表达。我们不要把它说成“乱画”。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 49.901,
+      "end": 66.893,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课真正的笑点不是“现代艺术没价值”，而是有些人会"
+        },
+        {
+          "lang": "en",
+          "text": "pretend"
+        },
+        {
+          "lang": "zh",
+          "text": "，假装自己很懂，讲很多漂亮话；小孩子没有这个包袱，反而真的在看。妹妹只问了一个简单问题："
+        },
+        {
+          "lang": "en",
+          "text": "But isn't it upside down?"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 67.243,
+      "end": 76.123,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以今天的核心是：big explanation 不一定等于 real seeing。最好的 critic，不一定用大词，而是会认真观察。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 76.473,
+      "end": 93.64,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事从叙述者的身份开始："
+        },
+        {
+          "lang": "en",
+          "text": "I am an art student and I paint a lot of pictures."
+        },
+        {
+          "lang": "zh",
+          "text": "他是一个学艺术的学生，常常画画。房间里有画布、颜料、画笔，还有一些看起来不太像普通风景的 modern pictures。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 93.99,
+      "end": 116.902,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "很多人看到 modern art，会"
+        },
+        {
+          "lang": "en",
+          "text": "pretend that they understand modern art"
+        },
+        {
+          "lang": "zh",
+          "text": "，假装自己懂。他们总是告诉你"
+        },
+        {
+          "lang": "en",
+          "text": "what a picture is about"
+        },
+        {
+          "lang": "zh",
+          "text": "。可是叙述者说，很多 picture 其实并不是 about 一个清楚的东西；它们可能只是"
+        },
+        {
+          "lang": "en",
+          "text": "pretty patterns"
+        },
+        {
+          "lang": "zh",
+          "text": "，像漂亮的"
+        },
+        {
+          "lang": "en",
+          "text": "curtain material"
+        },
+        {
+          "lang": "zh",
+          "text": "一样好看。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 117.252,
+      "end": 135.923,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "叙述者觉得"
+        },
+        {
+          "lang": "en",
+          "text": "young children often appreciate modern pictures better than anyone else"
+        },
+        {
+          "lang": "zh",
+          "text": "，因为孩子"
+        },
+        {
+          "lang": "en",
+          "text": "notice more"
+        },
+        {
+          "lang": "zh",
+          "text": "。他的妹妹只有 seven 岁，但她总会告诉他"
+        },
+        {
+          "lang": "en",
+          "text": "whether my pictures are good or not"
+        },
+        {
+          "lang": "zh",
+          "text": "，也就是好还是不好，她都会直接说。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 136.273,
+      "end": 164.144,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "昨天妹妹进了他的房间，问："
+        },
+        {
+          "lang": "en",
+          "text": "What are you doing?"
+        },
+        {
+          "lang": "zh",
+          "text": "他说："
+        },
+        {
+          "lang": "en",
+          "text": "I'm hanging this picture on the wall. It's a new one. Do you like it?"
+        },
+        {
+          "lang": "zh",
+          "text": "妹妹认真看了一会儿："
+        },
+        {
+          "lang": "en",
+          "text": "She looked at it critically for a moment."
+        },
+        {
+          "lang": "zh",
+          "text": "然后她说："
+        },
+        {
+          "lang": "en",
+          "text": "It's all right, but isn't it upside down?"
+        },
+        {
+          "lang": "zh",
+          "text": "叙述者再看一眼，发现："
+        },
+        {
+          "lang": "en",
+          "text": "She was right! It was!"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 164.494,
+      "end": 168.87,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么标题说妹妹是"
+        },
+        {
+          "lang": "en",
+          "text": "the best art critic"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 169.22,
+      "end": 174.375,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为她发现了别人没发现的问题：画挂倒了。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 174.725,
+      "end": 187.885,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。她不是 rude，也不是故意让哥哥难堪。她只是认真看，然后给了一个 honest opinion。一个 good critic 不是只会说坏话，而是能看见真正重要的东西。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 188.235,
+      "end": 191.238,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那课文是在笑 modern art 吗？"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 191.588,
+      "end": 207.268,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。modern art 可以很认真，也可以很美。有些画不是 about a house 或 a tree，而是 about colour、shape、pattern 或 feeling。课文在开玩笑的是：有些人没有认真看，却假装自己明白。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 207.618,
+      "end": 211.613,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "curtain material"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么会出现？"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 211.963,
+      "end": 227.899,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "curtain material 是做窗帘的布。叙述者说有些画像漂亮布料一样，重点是颜色和图案，不一定要讲一个故事。这就是"
+        },
+        {
+          "lang": "en",
+          "text": "in the same way that"
+        },
+        {
+          "lang": "zh",
+          "text": "的意思：我们喜欢它们的方式相似。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 228.249,
+      "end": 232.056,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "upside down"
+        },
+        {
+          "lang": "zh",
+          "text": "呢？"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 232.406,
+      "end": 245.486,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "upside down"
+        },
+        {
+          "lang": "zh",
+          "text": "就是上下颠倒，the top is at the bottom。最后的 punchline 要看见才好笑：大家都在解释画的意义，妹妹却先发现方向错了。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 245.835,
+      "end": 249.363,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I am an art student and I paint a lot of pictures."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 249.713,
+      "end": 253.481,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Many people pretend that they understand modern art."
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 253.831,
+      "end": 256.951,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "They always tell you what a picture is 'about'."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 257.301,
+      "end": 260.877,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Of course, many pictures are not 'about' anything."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 261.227,
+      "end": 263.723,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "They are just pretty patterns."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 264.073,
+      "end": 268.153,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "We like them in the same way that we like pretty curtain material."
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 268.503,
+      "end": 273.639,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I think that young children often appreciate modern pictures better than anyone else."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 273.989,
+      "end": 275.981,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "They notice more."
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 276.33,
+      "end": 281.514,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "My sister is only seven, but she always tells me whether my pictures are good or not."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 281.864,
+      "end": 284.576,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She came into my room yesterday."
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 284.926,
+      "end": 287.614,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'What are you doing?' she asked."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 287.964,
+      "end": 291.372,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'I'm hanging this picture on the wall,' I answered."
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 291.722,
+      "end": 295.226,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'It's a new one. Do you like it?'"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 295.576,
+      "end": 298.6,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She looked at it critically for a moment."
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 298.95,
+      "end": 302.766,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'It's all right,' she said, 'but isn't it upside down?'"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 303.116,
+      "end": 305.252,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I looked at it again."
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 305.601,
+      "end": 309.681,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She was right! It was!"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 310.031,
+      "end": 312.599,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "critic"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "critic"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 312.949,
+      "end": 314.461,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "critic"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "critic"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 314.811,
+      "end": 332.683,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "critic"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "critic"
+        },
+        {
+          "lang": "zh",
+          "text": "是认真看作品、再给出意见的人，可以评论 art、books、films 或 performances。它不是简单的“爱批评别人”。课文标题说"
+        },
+        {
+          "lang": "en",
+          "text": "the best art critics"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思是最会观察艺术的人。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 333.033,
+      "end": 335.784,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "pretend"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "pretend"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 336.134,
+      "end": 337.862,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "pretend"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "pretend"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 338.212,
+      "end": 354.036,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "pretend"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "pretend"
+        },
+        {
+          "lang": "zh",
+          "text": "是假装，act as if something is true when it is not。课文说"
+        },
+        {
+          "lang": "en",
+          "text": "Many people pretend that they understand modern art"
+        },
+        {
+          "lang": "zh",
+          "text": "，就是有些人其实没有认真看，却装作自己很懂。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 354.386,
+      "end": 357.402,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "appreciate"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "appreciate"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 357.752,
+      "end": 359.696,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "appreciate"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "appreciate"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 360.046,
+      "end": 379.125,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "appreciate"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "appreciate"
+        },
+        {
+          "lang": "zh",
+          "text": "是理解并欣赏某个东西的价值。你可以 appreciate a picture、a song、a good story，也可以 appreciate someone's help。课文说孩子们"
+        },
+        {
+          "lang": "en",
+          "text": "appreciate modern pictures better than anyone else"
+        },
+        {
+          "lang": "zh",
+          "text": "，因为他们更直接地观察。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 379.475,
+      "end": 398.527,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 有三块，都在帮我们看懂“观察”和“比较”。第一块是"
+        },
+        {
+          "lang": "en",
+          "text": "whether... or not"
+        },
+        {
+          "lang": "zh",
+          "text": "。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "she always tells me whether my pictures are good or not"
+        },
+        {
+          "lang": "zh",
+          "text": "。whether 后面接两种可能：good，or not good。她会告诉我到底好，还是不好。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 398.877,
+      "end": 417.172,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块是"
+        },
+        {
+          "lang": "en",
+          "text": "better than anyone else"
+        },
+        {
+          "lang": "zh",
+          "text": "。这是强比较，意思是比所有其他人都更好。叙述者说孩子"
+        },
+        {
+          "lang": "en",
+          "text": "appreciate modern pictures better than anyone else"
+        },
+        {
+          "lang": "zh",
+          "text": "，所以 title 才说他们可能是 best critics。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 417.522,
+      "end": 435.414,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块是"
+        },
+        {
+          "lang": "en",
+          "text": "in the same way that"
+        },
+        {
+          "lang": "zh",
+          "text": "。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "We like them in the same way that we like pretty curtain material."
+        },
+        {
+          "lang": "zh",
+          "text": "意思是我们喜欢这些画的方式，和喜欢漂亮窗帘布的方式相似：看 colour、pattern 和 feeling，不一定要找一个故事。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 435.764,
+      "end": 453.527,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "把三块合在一起：大人可能"
+        },
+        {
+          "lang": "en",
+          "text": "pretend that"
+        },
+        {
+          "lang": "zh",
+          "text": "they understand；妹妹会说"
+        },
+        {
+          "lang": "en",
+          "text": "whether"
+        },
+        {
+          "lang": "zh",
+          "text": "it is good or not；最后她用一句"
+        },
+        {
+          "lang": "en",
+          "text": "But isn't it upside down?"
+        },
+        {
+          "lang": "zh",
+          "text": "证明自己真的看了。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 453.877,
+      "end": 469.037,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天的“认真观察、礼貌指出问题”放进学校生活。你的班级正在准备一张 class poster，大家都在解释 design 的 meaning，可你发现其中一张 picture 好像 upside down。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 469.387,
+      "end": 490.351,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以这样说："
+        },
+        {
+          "lang": "en",
+          "text": "I think it is all right. The colours are nice. But isn't this picture upside down? Maybe this part should be at the top."
+        },
+        {
+          "lang": "zh",
+          "text": "注意语气：先承认它还不错，再用"
+        },
+        {
+          "lang": "en",
+          "text": "Maybe"
+        },
+        {
+          "lang": "zh",
+          "text": "或"
+        },
+        {
+          "lang": "en",
+          "text": "Isn't it...?"
+        },
+        {
+          "lang": "zh",
+          "text": "礼貌地说出观察。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 490.7,
+      "end": 530.728,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "pretend that they understand modern art"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "pretty patterns"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "better than anyone else"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "whether my pictures are good or not"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "looked at it critically"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "isn't it upside down"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。读完以后，再做 ① 生活场景，练习 polite observation；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。加油！"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 26
+}

@@ -1,0 +1,109 @@
+{
+  "lesson_id": 26,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“艺术学生 -> 假装懂现代艺术 -> 漂亮图案 -> 孩子更会观察 -> 妹妹发现画挂倒了”这条观察反转读顺。",
+  "sentences": [
+    {
+      "id": "l26_s1",
+      "text": "I am an art student and I paint a lot of pictures.",
+      "focus_zh": "art student 是学艺术的学生；paint a lot of pictures 是故事身份和场景的起点。",
+      "start": 245.835,
+      "end": 249.363,
+      "focus_words": [
+        "art",
+        "student",
+        "paint",
+        "pictures"
+      ]
+    },
+    {
+      "id": "l26_s2",
+      "text": "Many people pretend that they understand modern art.",
+      "focus_zh": "pretend that 是假装某事是真的；modern art 要读成一个完整短语。",
+      "start": 249.713,
+      "end": 253.481,
+      "focus_words": [
+        "people",
+        "pretend",
+        "understand",
+        "modern",
+        "art"
+      ]
+    },
+    {
+      "id": "l26_s3",
+      "text": "They are just pretty patterns.",
+      "focus_zh": "pretty patterns 是漂亮图案，不是说画没有价值，而是说它可能重在颜色和图案。",
+      "start": 261.227,
+      "end": 263.723,
+      "focus_words": [
+        "pretty",
+        "patterns"
+      ]
+    },
+    {
+      "id": "l26_s4",
+      "text": "I think that young children often appreciate modern pictures better than anyone else.",
+      "focus_zh": "appreciate 是理解并欣赏；better than anyone else 是比所有其他人都更好。",
+      "start": 268.503,
+      "end": 273.639,
+      "focus_words": [
+        "children",
+        "appreciate",
+        "modern",
+        "pictures",
+        "better"
+      ]
+    },
+    {
+      "id": "l26_s5",
+      "text": "She always tells me whether my pictures are good or not.",
+      "focus_zh": "whether... or not 表示两种可能：好，或者不好。",
+      "start": 276.33,
+      "end": 281.514,
+      "focus_words": [
+        "always",
+        "tells",
+        "whether",
+        "good",
+        "not"
+      ]
+    },
+    {
+      "id": "l26_s6",
+      "text": "'I'm hanging this picture on the wall,' I answered.",
+      "focus_zh": "hanging this picture on the wall 是把画挂到墙上，后面的 upside down 才有笑点。",
+      "start": 287.964,
+      "end": 291.372,
+      "focus_words": [
+        "hanging",
+        "picture",
+        "wall"
+      ]
+    },
+    {
+      "id": "l26_s7",
+      "text": "She looked at it critically for a moment.",
+      "focus_zh": "critically 在这里是认真观察、带判断地看，不是粗鲁地批评。",
+      "start": 295.576,
+      "end": 298.6,
+      "focus_words": [
+        "looked",
+        "critically",
+        "moment"
+      ]
+    },
+    {
+      "id": "l26_s8",
+      "text": "'It's all right,' she said, 'but isn't it upside down?'",
+      "focus_zh": "upside down 是上下颠倒；这句要读出温和的发现，不是嘲笑。",
+      "start": 298.95,
+      "end": 302.766,
+      "focus_words": [
+        "isn't",
+        "upside",
+        "down"
+      ]
+    }
+  ]
+}

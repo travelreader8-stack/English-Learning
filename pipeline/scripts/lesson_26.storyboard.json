@@ -1,0 +1,23 @@
+{
+  "lesson_id": 26,
+  "title": "The best art critics",
+  "visual_consistency": "A young Chinese art student in a casual light cream sweater with rolled sleeves, short black hair, kind expressive face, slim average build, holding a paintbrush, palette, or framed abstract painting, slightly proud but warm. His seven-year-old sister has shoulder-length black hair, bright curious eyes, a simple yellow cardigan over a white shirt, small build, observant and honest expression, never rude. Cozy art-student room with canvases, paint tubes, brushes, a wall for hanging pictures, colourful abstract patterns, soft daylight, warm educational illustration style, consistent character design, no readable text.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "The young Chinese art student paints in his cozy room, holding a paintbrush and palette near several bright abstract pictures leaning against the wall. The pictures use colour blocks, lines, shapes, and patterns rather than realistic objects. He looks sincere and slightly proud, surrounded by paint tubes, brushes, sketches, and soft daylight. No readable text."
+    },
+    {
+      "frame": 2,
+      "prompt": "In the same cozy art-student room, a few friendly adult visitors look at one colourful abstract painting and gesture as if explaining it with big ideas. The young art student listens nearby. The painting itself is attractive, with pretty patterns like curtain material, not ugly or meaningless. The mood is gently humorous, not mocking. No readable text."
+    },
+    {
+      "frame": 3,
+      "prompt": "The same seven-year-old sister enters quietly while the young art student is hanging a new framed abstract picture on the wall. The student holds the frame with both hands and looks hopeful, while the sister studies the picture carefully and critically with a curious, thoughtful face. The cozy room, paints, brushes, and canvases remain consistent. No readable text."
+    },
+    {
+      "frame": 4,
+      "prompt": "Warm punchline reveal: the seven-year-old sister gently points at the framed abstract picture on the wall, and the young art student looks again with amused surprise. Make the picture's orientation clearly upside down by showing a simple abstract motif with a visible top-bottom direction, such as shapes that should point upward but are pointing downward. Keep the sister kind and observant, the student lightly embarrassed but smiling. No readable text."
+    }
+  ]
+}

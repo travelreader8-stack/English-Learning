@@ -1,0 +1,39 @@
+{
+  "lesson_id": 26,
+  "title": "The best art critics",
+  "question": "把今天课文里“别人讲很多解释，但你认真观察、礼貌指出一个简单问题”的线索放进班级海报、艺术作业、幻灯片或照片展示场景——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个场景各填一个空、用 word bank 里的词或短语。",
+  "example_answer": "I think it is all right. The colours are nice. But isn't this picture upside down? Maybe this part should be at the top.",
+  "word_bank": [
+    "critic",
+    "pretend",
+    "appreciate",
+    "patterns",
+    "curtain material",
+    "whether",
+    "good or not",
+    "hanging",
+    "critically",
+    "upside down"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "看班级海报：我觉得它还不错，但想礼貌地评价",
+      "english_template": "I think it is all right. The colours and ___ are nice.",
+      "expected_phrase": "patterns"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "别人都在解释含义：我不想假装懂，只想认真看",
+      "english_template": "I don't want to ___ that I understand everything.",
+      "expected_phrase": "pretend"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "发现方向不对：我用疑问句礼貌指出画可能挂倒了",
+      "english_template": "But isn't this picture ___?",
+      "expected_phrase": "upside down"
+    }
+  ],
+  "mode": "all_fills"
+}
