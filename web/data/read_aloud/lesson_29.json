@@ -1,0 +1,114 @@
+{
+  "lesson_id": 29,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“飞行出租车 -> 小型瑞士飞机 -> 七名乘客 -> 特殊降落 -> 服务路线 -> 安全拒绝”的路线图读顺。",
+  "sentences": [
+    {
+      "id": "l29_s1",
+      "text": "Captain Ben Fawcett has bought an unusual taxi and has begun a new service.",
+      "focus_zh": "Captain Ben Fawcett 是人名；has bought 和 has begun 要读出这个服务已经开始。",
+      "start": 320.904,
+      "end": 325.848,
+      "focus_words": [
+        "Captain Ben Fawcett",
+        "has bought",
+        "unusual taxi",
+        "has begun",
+        "new service"
+      ]
+    },
+    {
+      "id": "l29_s2",
+      "text": "The 'taxi' is a small Swiss aeroplane called a 'Pilatus Porter'.",
+      "focus_zh": "called a Pilatus Porter 是同位说明；不要把飞机名字读成一串散音。",
+      "start": 326.197,
+      "end": 330.397,
+      "focus_words": [
+        "taxi",
+        "small Swiss aeroplane",
+        "called",
+        "Pilatus Porter"
+      ]
+    },
+    {
+      "id": "l29_s3",
+      "text": "This wonderful plane can carry seven passengers.",
+      "focus_zh": "can carry 是能力；seven passengers 要连成一个数量组。",
+      "start": 330.747,
+      "end": 334.467,
+      "focus_words": [
+        "wonderful plane",
+        "can carry",
+        "seven passengers"
+      ]
+    },
+    {
+      "id": "l29_s4",
+      "text": "It can land anywhere: on snow, water, or even on a ploughed field.",
+      "focus_zh": "冒号后面是三个降落地点；or even 要读出最后一项更惊讶。",
+      "start": 334.817,
+      "end": 342.113,
+      "focus_words": [
+        "can land anywhere",
+        "on snow",
+        "water",
+        "or even",
+        "ploughed field"
+      ]
+    },
+    {
+      "id": "l29_s5",
+      "text": "Captain Fawcett's first passenger was a doctor who flew from Birmingham to a lonely village in the Welsh mountains.",
+      "focus_zh": "from Birmingham to a lonely village 是路线；lonely 在这里偏向 remote / isolated。",
+      "start": 342.463,
+      "end": 348.919,
+      "focus_words": [
+        "first passenger",
+        "doctor",
+        "Birmingham",
+        "lonely village",
+        "Welsh mountains"
+      ]
+    },
+    {
+      "id": "l29_s6",
+      "text": "Since then, Captain Fawcett has flown passengers to many unusual places.",
+      "focus_zh": "Since then 后面稍停；has flown passengers 表示从那以后到现在的服务记录。",
+      "start": 349.269,
+      "end": 354.405,
+      "focus_words": [
+        "Since then",
+        "has flown",
+        "passengers",
+        "unusual places"
+      ]
+    },
+    {
+      "id": "l29_s7",
+      "text": "On another occasion, he landed in a deserted car park.",
+      "focus_zh": "On another occasion 是另一次；deserted car park 是空的停车场，不是 desert。",
+      "start": 354.755,
+      "end": 361.211,
+      "focus_words": [
+        "On another occasion",
+        "landed",
+        "deserted car park"
+      ]
+    },
+    {
+      "id": "l29_s8",
+      "text": "The man wanted to fly to Rockall, a lonely island in the Atlantic Ocean, but Captain Fawcett did not take him because the trip was too dangerous.",
+      "focus_zh": "Rockall, a lonely island in the Atlantic Ocean 是地点同位说明；because 后面给出安全理由。",
+      "start": 366.519,
+      "end": 374.511,
+      "focus_words": [
+        "Rockall",
+        "lonely island",
+        "Atlantic Ocean",
+        "did not take him",
+        "because",
+        "too dangerous"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1342 @@
+{
+  "total_duration": 626.722,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 11.32,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Taxi!"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“出租汽车”。但这节课的 joke 一上来就很特别：这辆 taxi 不在路上跑，它会飞。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 11.67,
+      "end": 28.597,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "平时"
+        },
+        {
+          "lang": "en",
+          "text": "taxi"
+        },
+        {
+          "lang": "zh",
+          "text": "是出租车服务，坐上车去某个地方。可课文里的"
+        },
+        {
+          "lang": "en",
+          "text": "taxi"
+        },
+        {
+          "lang": "zh",
+          "text": "是一架小型飞机，所以你可以把它想成"
+        },
+        {
+          "lang": "en",
+          "text": "air taxi"
+        },
+        {
+          "lang": "zh",
+          "text": "，空中的特殊交通服务。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 28.947,
+      "end": 49.659,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意，这不是 toy plane，也不是 fantasy vehicle，更不是豪华 private jet。Captain Ben Fawcett 是专业机长，他有一架小型 Swiss aeroplane，名字叫"
+        },
+        {
+          "lang": "en",
+          "text": "Pilatus Porter"
+        },
+        {
+          "lang": "zh",
+          "text": "。我们只要知道：它是小型瑞士飞机，可以载乘客，也能在很不普通的地方降落。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 50.009,
+      "end": 73.396,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课有很多陌生地名，不要一个一个硬背。把它记成一张 route map："
+        },
+        {
+          "lang": "en",
+          "text": "Captain Fawcett"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "Pilatus Porter"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "seven passengers"
+        },
+        {
+          "lang": "zh",
+          "text": "and"
+        },
+        {
+          "lang": "en",
+          "text": "land anywhere"
+        },
+        {
+          "lang": "zh",
+          "text": "-> doctor to Welsh mountains, roof, deserted car park ->"
+        },
+        {
+          "lang": "en",
+          "text": "Rockall"
+        },
+        {
+          "lang": "zh",
+          "text": "-> too dangerous."
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 73.746,
+      "end": 92.953,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先补一张小地图。"
+        },
+        {
+          "lang": "en",
+          "text": "Birmingham"
+        },
+        {
+          "lang": "zh",
+          "text": "是 England 的一个城市；"
+        },
+        {
+          "lang": "en",
+          "text": "Welsh mountains"
+        },
+        {
+          "lang": "zh",
+          "text": "是 Wales 的山区；"
+        },
+        {
+          "lang": "en",
+          "text": "Atlantic Ocean"
+        },
+        {
+          "lang": "zh",
+          "text": "是 Britain 西边的大西洋；"
+        },
+        {
+          "lang": "en",
+          "text": "Rockall"
+        },
+        {
+          "lang": "zh",
+          "text": "是大西洋里很远、很孤立的岩石小岛。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 93.303,
+      "end": 102.583,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以今天最重要的句子不是“这架飞机无所不能”，而是：a good pilot knows when to say no. 能做，不等于应该做。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 102.933,
+      "end": 117.833,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事一开始说："
+        },
+        {
+          "lang": "en",
+          "text": "Captain Ben Fawcett has bought an unusual taxi and has begun a new service."
+        },
+        {
+          "lang": "en",
+          "text": "has bought"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "has begun"
+        },
+        {
+          "lang": "zh",
+          "text": "都告诉我们：这个新服务已经开始了。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 118.183,
+      "end": 134.598,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但这个 taxi 很 unusual。课文马上解释："
+        },
+        {
+          "lang": "en",
+          "text": "The 'taxi' is a small Swiss aeroplane called a 'Pilatus Porter'."
+        },
+        {
+          "lang": "en",
+          "text": "called a Pilatus Porter"
+        },
+        {
+          "lang": "zh",
+          "text": "是“名叫 Pilatus Porter”，这是飞机的名字，不用背技术参数。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 134.948,
+      "end": 146.7,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这架飞机为什么 special？第一，它能载人："
+        },
+        {
+          "lang": "en",
+          "text": "This wonderful plane can carry seven passengers."
+        },
+        {
+          "lang": "en",
+          "text": "passenger"
+        },
+        {
+          "lang": "zh",
+          "text": "是乘客，不是驾驶员。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 147.05,
+      "end": 167.857,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二，它能在很特别的地方降落："
+        },
+        {
+          "lang": "en",
+          "text": "It can land anywhere: on snow, water, or even on a ploughed field."
+        },
+        {
+          "lang": "en",
+          "text": "land"
+        },
+        {
+          "lang": "zh",
+          "text": "是安全降落；"
+        },
+        {
+          "lang": "en",
+          "text": "ploughed field"
+        },
+        {
+          "lang": "zh",
+          "text": "是耕过、土被翻开的田地。"
+        },
+        {
+          "lang": "en",
+          "text": "or even"
+        },
+        {
+          "lang": "zh",
+          "text": "让最后一项更惊讶。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 168.207,
+      "end": 181.167,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个服务不是表演，它真的帮助过人。第一名乘客是一位 doctor："
+        },
+        {
+          "lang": "en",
+          "text": "Captain Fawcett's first passenger was a doctor who flew from Birmingham to a lonely village in the Welsh mountains."
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 181.517,
+      "end": 201.841,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里"
+        },
+        {
+          "lang": "en",
+          "text": "lonely village"
+        },
+        {
+          "lang": "zh",
+          "text": "不是“伤心的村庄”，而是 remote and isolated，偏远、孤立的村庄。后来他还去过很多 unusual places："
+        },
+        {
+          "lang": "en",
+          "text": "Once he landed on the roof of a block of flats and on another occasion, he landed in a deserted car park."
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 202.19,
+      "end": 212.542,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "block of flats"
+        },
+        {
+          "lang": "zh",
+          "text": "是公寓楼；"
+        },
+        {
+          "lang": "en",
+          "text": "deserted car park"
+        },
+        {
+          "lang": "zh",
+          "text": "是空空的、没人用的停车场，不是沙漠里的停车场。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 212.892,
+      "end": 223.284,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后来了一个 strange request。一位 businessman 想飞去"
+        },
+        {
+          "lang": "en",
+          "text": "Rockall"
+        },
+        {
+          "lang": "zh",
+          "text": "，也就是 Atlantic Ocean 里非常 remote 的岩石小岛。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 223.634,
+      "end": 236.134,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Captain Fawcett has just refused a strange request from a businessman."
+        },
+        {
+          "lang": "en",
+          "text": "has just refused"
+        },
+        {
+          "lang": "zh",
+          "text": "是刚刚拒绝。拒绝不是 rude，而是 professional judgment。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 236.483,
+      "end": 249.699,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结尾是安全判断："
+        },
+        {
+          "lang": "en",
+          "text": "Captain Fawcett did not take him because the trip was too dangerous."
+        },
+        {
+          "lang": "zh",
+          "text": "飞机 can land in many unusual places, but the pilot should not accept every trip."
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 250.049,
+      "end": 254.909,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课的题目为什么叫"
+        },
+        {
+          "lang": "en",
+          "text": "Taxi!"
+        },
+        {
+          "lang": "zh",
+          "text": "，还要加感叹号？"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 255.259,
+      "end": 258.647,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为它不是普通出租车，是一架小飞机？"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 258.997,
+      "end": 270.877,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。这个 title joke 很关键：你以为是 car taxi，结果是 air taxi。它像出租车一样服务乘客，但交通工具变成了 small aeroplane。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 271.227,
+      "end": 277.514,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "can land anywhere"
+        },
+        {
+          "lang": "zh",
+          "text": "是不是说明它真的可以去任何地方？"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 277.864,
+      "end": 292.112,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不完全是。课文用"
+        },
+        {
+          "lang": "en",
+          "text": "anywhere"
+        },
+        {
+          "lang": "zh",
+          "text": "表示它能力很强，可以在 snow, water, ploughed field 这些 unusual places 降落。但故事结尾立刻告诉你：ability has a limit."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 292.462,
+      "end": 295.774,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Rockall"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么不去？"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 296.124,
+      "end": 308.724,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为它 far out in the Atlantic Ocean, remote and risky。去那里不是普通 unusual landing，而是 too dangerous。Captain Fawcett 拒绝，是因为 safety is more important."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 309.074,
+      "end": 320.554,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这课的 memory map 是：who, plane, ability, places served, refused place, safety reason. 这样地名就不是一堆散词，而是一条路线。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 320.904,
+      "end": 325.848,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Captain Ben Fawcett has bought an unusual taxi and has begun a new service."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 326.197,
+      "end": 330.397,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The 'taxi' is a small Swiss aeroplane called a 'Pilatus Porter'."
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 330.747,
+      "end": 334.467,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "This wonderful plane can carry seven passengers."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 334.817,
+      "end": 342.113,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The most surprising thing about it, however, is that it can land anywhere: on snow, water, or even on a ploughed field."
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 342.463,
+      "end": 348.919,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Captain Fawcett's first passenger was a doctor who flew from Birmingham to a lonely village in the Welsh mountains."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 349.269,
+      "end": 354.405,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Since then, Captain Fawcett has flown passengers to many unusual places."
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 354.755,
+      "end": 361.211,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Once he landed on the roof of a block of flats and on another occasion, he landed in a deserted car park."
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 361.561,
+      "end": 366.169,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Captain Fawcett has just refused a strange request from a businessman."
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 366.519,
+      "end": 374.511,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The man wanted to fly to Rockall, a lonely island in the Atlantic Ocean, but Captain Fawcett did not take him because the trip was too dangerous."
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 374.86,
+      "end": 377.548,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "service"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "service"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 377.898,
+      "end": 379.602,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "service"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "service"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 379.952,
+      "end": 392.92,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "service"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "service"
+        },
+        {
+          "lang": "zh",
+          "text": "是服务，通常是为别人做某件事，可以是 taxi service、delivery service、medical service，也可以是今天的 air-taxi service。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 393.27,
+      "end": 404.854,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "service"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说"
+        },
+        {
+          "lang": "en",
+          "text": "has begun a new service"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思是 Captain Fawcett 开始提供一种新业务：用小飞机载乘客去普通交通不容易到的地方。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 405.204,
+      "end": 408.028,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "passenger"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "passenger"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 408.377,
+      "end": 410.081,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "passenger"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "passenger"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 410.431,
+      "end": 422.535,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "passenger"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "passenger"
+        },
+        {
+          "lang": "zh",
+          "text": "是乘客，a person who travels in a vehicle but does not drive or fly it。坐 taxi 的人、坐 bus 的人、坐 plane 的人，都可以是 passengers。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 422.885,
+      "end": 432.817,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "passenger"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说"
+        },
+        {
+          "lang": "en",
+          "text": "This wonderful plane can carry seven passengers."
+        },
+        {
+          "lang": "zh",
+          "text": "这里"
+        },
+        {
+          "lang": "en",
+          "text": "carry"
+        },
+        {
+          "lang": "zh",
+          "text": "不是抱起来，而是载客、运送。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 433.167,
+      "end": 436.158,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "dangerous"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "dangerous"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 436.508,
+      "end": 438.284,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "dangerous"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "dangerous"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 438.634,
+      "end": 448.066,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "dangerous"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "dangerous"
+        },
+        {
+          "lang": "zh",
+          "text": "是危险的，不安全的。A road can be dangerous, a storm can be dangerous, and a trip can be dangerous."
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 448.416,
+      "end": 460.456,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "dangerous"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文最后说"
+        },
+        {
+          "lang": "en",
+          "text": "the trip was too dangerous"
+        },
+        {
+          "lang": "zh",
+          "text": "。这不是说 Captain Fawcett 胆小，而是说 professional people must judge risk. Safety comes first."
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 460.806,
+      "end": 464.806,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 有三块，全部服务于这张 route map。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 465.156,
+      "end": 480.595,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块是 present perfect，表示这个服务从过去开始，到现在已经有了 history："
+        },
+        {
+          "lang": "en",
+          "text": "has bought"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "has begun"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "Since then, he has flown passengers"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "has just refused"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 480.945,
+      "end": 493.529,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Since then"
+        },
+        {
+          "lang": "zh",
+          "text": "特别重要，意思是 from that time until now。从第一位 doctor 乘客以后，到现在为止，他已经飞去过很多 unusual places。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 493.879,
+      "end": 509.158,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块是"
+        },
+        {
+          "lang": "en",
+          "text": "can"
+        },
+        {
+          "lang": "zh",
+          "text": "，表示能力："
+        },
+        {
+          "lang": "en",
+          "text": "can carry seven passengers"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "can land anywhere"
+        },
+        {
+          "lang": "zh",
+          "text": "。注意"
+        },
+        {
+          "lang": "en",
+          "text": "can"
+        },
+        {
+          "lang": "zh",
+          "text": "后面直接接动词原形 carry, land。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 509.508,
+      "end": 524.396,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块是"
+        },
+        {
+          "lang": "en",
+          "text": "because"
+        },
+        {
+          "lang": "zh",
+          "text": "，给出安全理由："
+        },
+        {
+          "lang": "en",
+          "text": "He did not take him because the trip was too dangerous."
+        },
+        {
+          "lang": "zh",
+          "text": "这句话把整课的价值观说清楚：can do is ability; should do is judgment."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 524.746,
+      "end": 536.946,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好，把今天的故事放到现代生活场景里。你经营一个 special transport service，你的交通工具可以去很多 unusual places，也可以载 several passengers。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 537.296,
+      "end": 547.656,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但是今天有位 customer 提出一个 risky request：天气不好，他还想去一个 unsafe place。你要礼貌拒绝，同时说明原因。"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 548.006,
+      "end": 562.901,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以这样说："
+        },
+        {
+          "lang": "en",
+          "text": "Our service can go to many unusual places. It can carry several passengers. But I cannot take you there today. The trip is too dangerous, and safety is more important."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 563.251,
+      "end": 575.779,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "重点不是说 no 很凶，而是把 no 说得 responsible：先说明能力，再说明边界，最后用"
+        },
+        {
+          "lang": "en",
+          "text": "because"
+        },
+        {
+          "lang": "zh",
+          "text": "或 safety reason 解释。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 576.129,
+      "end": 604.772,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "unusual taxi"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "small Swiss aeroplane"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "Pilatus Porter"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "seven passengers"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "land anywhere"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "lonely village in the Welsh mountains"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "deserted car park"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "too dangerous"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 605.122,
+      "end": 626.722,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习 special service 和 safe refusal；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心：a good pilot knows when to say no."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 29
+}

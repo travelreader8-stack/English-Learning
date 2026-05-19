@@ -1,0 +1,23 @@
+{
+  "lesson_id": 29,
+  "title": "Taxi!",
+  "visual_consistency": "Captain Ben Fawcett, a calm middle-aged pilot with short brown hair, navy pilot jacket, white shirt, confident but careful expression, average build, professional posture. A small Swiss propeller aeroplane used as an air taxi, compact body, high wings, sturdy landing gear, cream-and-blue paint, consistent design across frames. Warm cinematic educational illustration, adventurous but safe tone, consistent character and aircraft design, no readable text.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "A small rural airfield in Britain: Captain Ben Fawcett, a calm middle-aged pilot with short brown hair, navy pilot jacket, white shirt, confident but careful expression, stands beside his compact cream-and-blue high-wing propeller aeroplane used as an air taxi. A few passengers with small bags approach respectfully, making the plane feel like a professional transport service rather than a toy. Bright morning light, clean runway edge, safe adventurous reveal, no readable text."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same compact cream-and-blue high-wing propeller aeroplane gently landing on a broad ploughed field beside a calm stretch of water, with distant snowy hills in the background to suggest unusual landing ability. Captain Ben Fawcett is visible in the cockpit, careful and focused, and several passengers wait safely at a distance. Show a controlled professional landing, sturdy wheels, turned farm soil, no crash danger, no fantasy elements, no readable text."
+    },
+    {
+      "frame": 3,
+      "prompt": "A useful service stop near a remote Welsh mountain village: the same cream-and-blue propeller aeroplane is parked safely on a grassy mountain meadow. Captain Ben Fawcett, same navy pilot jacket and calm careful expression, helps a doctor passenger with a medical bag step down. Nearby, a simple unlabeled route-map board in the scene shows pictorial icons of mountains, a rooftop, and an empty car park without words, reinforcing service history while keeping one single scene. Warm helpful mood, no readable text."
+    },
+    {
+      "frame": 4,
+      "prompt": "A windy coastal airfield facing the distant Atlantic: the same Captain Ben Fawcett calmly refuses a businessman in a dark coat who points toward a far lonely rocky island on the horizon. The same compact cream-and-blue propeller aeroplane rests behind them with tied-down ropes, showing professional caution. The sea looks isolated and risky but not disastrous; no crash, no panic, no sensational danger. The mood is responsible safety judgment, no readable text."
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "lesson_id": 29,
+  "title": "Taxi!",
+  "question": "把今天课文里“特殊交通服务很厉害，但安全更重要”的线索放进现代场景——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个提醒各填一个空、用 word bank 里的词或短语。",
+  "example_answer": "Our service can go to many unusual places. It can carry several passengers. But I cannot take you there today. The trip is too dangerous, and safety is more important.",
+  "word_bank": [
+    "unusual service",
+    "carry",
+    "passengers",
+    "go to unusual places",
+    "cannot take you there",
+    "dangerous",
+    "safety",
+    "more important",
+    "request",
+    "because"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "介绍服务：这是一项不寻常的交通服务",
+      "english_template": "This is an ___.",
+      "expected_phrase": "unusual service"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说明能力：它可以载几名乘客，也可以去不寻常的地方",
+      "english_template": "It can carry several ___ and go to unusual places.",
+      "expected_phrase": "passengers"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "礼貌拒绝：今天不能带你去，因为那趟旅程太危险",
+      "english_template": "I cannot take you there today because the trip is ___.",
+      "expected_phrase": "dangerous"
+    }
+  ],
+  "mode": "all_fills"
+}
