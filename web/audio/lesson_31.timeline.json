@@ -1,0 +1,1720 @@
+{
+  "total_duration": 694.833,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 9.896,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Success story"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“成功者的故事”。但先别把它听成一篇“努力就会变有钱”的演讲。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 10.246,
+      "end": 23.35,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课真正好玩的地方，是一个人生闭环："
+        },
+        {
+          "lang": "en",
+          "text": "Frank Hawkins"
+        },
+        {
+          "lang": "zh",
+          "text": "从修自行车起步，后来做到一家大公司的负责人，最后家里还是请他去修一辆自行车。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 23.699,
+      "end": 45.859,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以记忆线不是“发财了”，而是："
+        },
+        {
+          "lang": "en",
+          "text": "small shop"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "repair bicycles"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "fourteen hours"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "saved money"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "own workshop"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "spare parts"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "two helpers"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "large factory"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "grandson's bicycle"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 46.209,
+      "end": 63.524,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先解释几个背景词。"
+        },
+        {
+          "lang": "en",
+          "text": "retired"
+        },
+        {
+          "lang": "zh",
+          "text": "是退休，不再全职工作；"
+        },
+        {
+          "lang": "en",
+          "text": "small shop"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里像一个小修理铺；"
+        },
+        {
+          "lang": "en",
+          "text": "workshop"
+        },
+        {
+          "lang": "zh",
+          "text": "是小作坊，小工作间；"
+        },
+        {
+          "lang": "en",
+          "text": "factory"
+        },
+        {
+          "lang": "zh",
+          "text": "是更大的工厂。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 63.874,
+      "end": 75.362,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有一个容易误会的语法："
+        },
+        {
+          "lang": "en",
+          "text": "used to"
+        },
+        {
+          "lang": "zh",
+          "text": "。它不是“用某个东西去做什么”，而是“过去经常这样，或者过去是这样，现在不是平常状态了”。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 75.711,
+      "end": 85.191,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后的自行车请求不是嘲笑 Frank。它很温暖：一个人走了很长的成功之路，但最早学会的本事，仍然能在家里派上用场。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 85.541,
+      "end": 99.573,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事从回忆开始："
+        },
+        {
+          "lang": "en",
+          "text": "Yesterday afternoon Frank Hawkins was telling me about his experiences as a young man."
+        },
+        {
+          "lang": "en",
+          "text": "experiences"
+        },
+        {
+          "lang": "zh",
+          "text": "是经历，是一个人经历过、记得住的事情。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 99.923,
+      "end": 112.411,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Before he retired, Frank was the head of a very large business company."
+        },
+        {
+          "lang": "en",
+          "text": "the head of"
+        },
+        {
+          "lang": "zh",
+          "text": "是负责人、领导者；"
+        },
+        {
+          "lang": "en",
+          "text": "business company"
+        },
+        {
+          "lang": "zh",
+          "text": "是商业公司。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 112.76,
+      "end": 124.096,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但是过去的 Frank 不是一开始就站在大公司里。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "As a boy he used to work in a small shop."
+        },
+        {
+          "lang": "zh",
+          "text": "小时候，他曾经在一家小店里工作。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 124.446,
+      "end": 135.734,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他的工作很实际："
+        },
+        {
+          "lang": "en",
+          "text": "It was his job to repair bicycles"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "repair"
+        },
+        {
+          "lang": "zh",
+          "text": "是修理，"
+        },
+        {
+          "lang": "en",
+          "text": "bicycle"
+        },
+        {
+          "lang": "zh",
+          "text": "就是 bike，自行车。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 136.084,
+      "end": 149.131,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那时他很辛苦："
+        },
+        {
+          "lang": "en",
+          "text": "At that time he used to work fourteen hours a day."
+        },
+        {
+          "lang": "zh",
+          "text": "注意这里两个"
+        },
+        {
+          "lang": "en",
+          "text": "used to"
+        },
+        {
+          "lang": "zh",
+          "text": "，都在讲过去的习惯和过去的生活状态。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 149.481,
+      "end": 158.905,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着是第一步成长："
+        },
+        {
+          "lang": "en",
+          "text": "He saved money for years."
+        },
+        {
+          "lang": "en",
+          "text": "save money"
+        },
+        {
+          "lang": "zh",
+          "text": "是攒钱、存钱，不是“救钱”。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 159.255,
+      "end": 170.903,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In 1958 he bought a small workshop of his own."
+        },
+        {
+          "lang": "en",
+          "text": "of his own"
+        },
+        {
+          "lang": "zh",
+          "text": "是属于他自己的。以前他在别人的小店做工，现在他有了自己的小作坊。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 171.253,
+      "end": 180.933,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里要看出画面变化：不是一夜暴富，而是 long practice, long hours, saved money, then a workshop of his own。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 181.282,
+      "end": 192.022,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "workshop"
+        },
+        {
+          "lang": "zh",
+          "text": "比"
+        },
+        {
+          "lang": "en",
+          "text": "factory"
+        },
+        {
+          "lang": "zh",
+          "text": "小得多，可以是修理、制作、加工的小地方。Frank 的路是从小地方开始的。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 192.372,
+      "end": 202.184,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再往上走一层："
+        },
+        {
+          "lang": "en",
+          "text": "In his twenties Frank used to make spare parts for aeroplanes."
+        },
+        {
+          "lang": "en",
+          "text": "in his twenties"
+        },
+        {
+          "lang": "zh",
+          "text": "是二十多岁的时候。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 202.534,
+      "end": 213.35,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "spare parts for aeroplanes"
+        },
+        {
+          "lang": "zh",
+          "text": "不需要讲成航空课。它就是给飞机使用的机器零件，可能用来维修，也可能用来制造。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 213.699,
+      "end": 220.875,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那时规模还小："
+        },
+        {
+          "lang": "en",
+          "text": "At that time he had two helpers."
+        },
+        {
+          "lang": "zh",
+          "text": "两个帮手，不是一大群员工。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 221.225,
+      "end": 234.017,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但几年后变化完成了："
+        },
+        {
+          "lang": "en",
+          "text": "In a few years the small workshop had become a large factory."
+        },
+        {
+          "lang": "en",
+          "text": "had become"
+        },
+        {
+          "lang": "zh",
+          "text": "表示到后来回头看时，小作坊已经变成大工厂了。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 234.367,
+      "end": 248.759,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个数字很关键："
+        },
+        {
+          "lang": "en",
+          "text": "The factory employed seven hundred and twenty-eight people."
+        },
+        {
+          "lang": "en",
+          "text": "employed"
+        },
+        {
+          "lang": "zh",
+          "text": "是雇用。two helpers 和 seven hundred and twenty-eight people 一对比，scale 就出来了。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 249.108,
+      "end": 255.78,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "到这里，Frank 的确有了"
+        },
+        {
+          "lang": "en",
+          "text": "a long road to success"
+        },
+        {
+          "lang": "zh",
+          "text": "，一条很长的成功之路。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 256.13,
+      "end": 268.366,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Frank smiled when he remembered his hard early years and the long road to success."
+        },
+        {
+          "lang": "zh",
+          "text": "他想起早年的艰难，也想起一路走来的成长，所以笑了。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 268.716,
+      "end": 275.452,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后故事突然回到生活里："
+        },
+        {
+          "lang": "en",
+          "text": "He was still smiling when the door opened and his wife came in."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 275.802,
+      "end": 287.761,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一击很轻，也很暖："
+        },
+        {
+          "lang": "en",
+          "text": "She wanted him to repair their grandson's bicycle!"
+        },
+        {
+          "lang": "zh",
+          "text": "孙子的自行车需要修，所以家人又想起了 Frank 最早的本事。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 288.111,
+      "end": 296.871,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这就是标题里的 human success story：成功没有抹掉起点，反而让起点变成一个家里人都会记得的技能。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 297.221,
+      "end": 299.741,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课为什么不能讲成普通成功学？"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 300.091,
+      "end": 303.853,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为它不是只说 Frank worked hard and became rich？"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 304.203,
+      "end": 316.923,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。hard work 很重要，但这课的 punchline 是 bicycle loop。开头他"
+        },
+        {
+          "lang": "en",
+          "text": "used to repair bicycles"
+        },
+        {
+          "lang": "zh",
+          "text": "，结尾妻子让他"
+        },
+        {
+          "lang": "en",
+          "text": "repair their grandson's bicycle"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 317.273,
+      "end": 319.686,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那妻子是在笑他吗？"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 320.035,
+      "end": 331.035,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。她不是 mocking him。这个结尾很 family, very warm。Frank 可能管理过很大的公司，但在家里，他还是那个会修自行车的人。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 331.385,
+      "end": 335.138,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "used to"
+        },
+        {
+          "lang": "zh",
+          "text": "是不是“用来做”的意思？"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 335.488,
+      "end": 348.456,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课里不是。"
+        },
+        {
+          "lang": "en",
+          "text": "He used to work in a small shop"
+        },
+        {
+          "lang": "zh",
+          "text": "是“他过去常在小店工作，现在不是这样”。"
+        },
+        {
+          "lang": "en",
+          "text": "He used to make spare parts"
+        },
+        {
+          "lang": "zh",
+          "text": "是“他二十多岁时曾经做这件事”。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 348.806,
+      "end": 354.98,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "workshop"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "factory"
+        },
+        {
+          "lang": "zh",
+          "text": "怎么分？"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 355.33,
+      "end": 371.59,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "workshop"
+        },
+        {
+          "lang": "zh",
+          "text": "是小作坊、小工作间；"
+        },
+        {
+          "lang": "en",
+          "text": "factory"
+        },
+        {
+          "lang": "zh",
+          "text": "是更大的生产场所，可以 employ many workers。Frank 从 two helpers 走到 seven hundred and twenty-eight people，这个对比就是成长。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 371.94,
+      "end": 380.86,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天背诵时，就把它当成 ladder with a loop：从 bicycle 起步，爬到 factory，最后又回到 grandson's bicycle。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 381.21,
+      "end": 386.658,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Yesterday afternoon Frank Hawkins was telling me about his experiences as a young man."
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 387.008,
+      "end": 393.944,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Before he retired, Frank was the head of a very large business company, but as a boy he used to work in a small shop."
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 394.294,
+      "end": 399.694,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It was his job to repair bicycles and at that time he used to work fourteen hours a day."
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 400.043,
+      "end": 405.323,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He saved money for years and in 1958 he bought a small workshop of his own."
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 405.673,
+      "end": 409.705,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In his twenties Frank used to make spare parts for aeroplanes."
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 410.055,
+      "end": 412.911,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "At that time he had two helpers."
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 413.261,
+      "end": 419.477,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In a few years the small workshop had become a large factory which employed seven hundred and twenty-eight people."
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 419.827,
+      "end": 424.915,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Frank smiled when he remembered his hard early years and the long road to success."
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 425.265,
+      "end": 429.105,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He was still smiling when the door opened and his wife came in."
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 429.455,
+      "end": 433.199,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She wanted him to repair their grandson's bicycle!"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 433.549,
+      "end": 436.332,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "workshop"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "workshop"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 436.682,
+      "end": 438.386,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "workshop"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "workshop"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 438.736,
+      "end": 451.816,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "workshop"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "workshop"
+        },
+        {
+          "lang": "zh",
+          "text": "是小作坊、小工作间，一个做东西、修东西、加工东西的小地方。它比"
+        },
+        {
+          "lang": "en",
+          "text": "factory"
+        },
+        {
+          "lang": "zh",
+          "text": "小，也更接近 Frank 的起点。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 452.166,
+      "end": 463.074,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "workshop"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "In 1958 he bought a small workshop of his own."
+        },
+        {
+          "lang": "zh",
+          "text": "这句话的重点是：经过多年攒钱，他终于有了属于自己的小地方。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 463.424,
+      "end": 466.152,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "employ"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "employ"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 466.501,
+      "end": 468.085,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "employ"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "employ"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 468.435,
+      "end": 477.203,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "employ"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "employ"
+        },
+        {
+          "lang": "zh",
+          "text": "是雇用，给别人一份工作并付工资。A company employs workers; a school employs teachers."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 477.553,
+      "end": 491.885,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "employ"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The factory employed seven hundred and twenty-eight people."
+        },
+        {
+          "lang": "zh",
+          "text": "从"
+        },
+        {
+          "lang": "en",
+          "text": "two helpers"
+        },
+        {
+          "lang": "zh",
+          "text": "到"
+        },
+        {
+          "lang": "en",
+          "text": "seven hundred and twenty-eight people"
+        },
+        {
+          "lang": "zh",
+          "text": "，这个数字让成功的规模变得很清楚。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 492.234,
+      "end": 495.106,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "retire"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "retire"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 495.456,
+      "end": 497.16,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "retire"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "retire"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 497.51,
+      "end": 505.022,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "retire"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "retire"
+        },
+        {
+          "lang": "zh",
+          "text": "是退休，通常是一个人经过很长职业生涯之后，不再全职工作。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 505.372,
+      "end": 516.6,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "retire"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Before he retired, Frank was the head of a very large business company."
+        },
+        {
+          "lang": "zh",
+          "text": "这句话先告诉我们后来的 Frank 很成功，再回头讲他小时候的起点。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 516.95,
+      "end": 520.11,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 要贴着 Frank 的人生时间线走。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 520.459,
+      "end": 534.443,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块是"
+        },
+        {
+          "lang": "en",
+          "text": "used to"
+        },
+        {
+          "lang": "zh",
+          "text": "。它表示过去经常发生，或者过去是某种状态，但现在不是平常状态。比如："
+        },
+        {
+          "lang": "en",
+          "text": "He used to work in a small shop."
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 534.793,
+      "end": 543.673,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再看："
+        },
+        {
+          "lang": "en",
+          "text": "He used to work fourteen hours a day."
+        },
+        {
+          "lang": "zh",
+          "text": "这不是一次工作十四小时，而是过去那段时间的 regular routine。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 544.023,
+      "end": 552.775,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三句："
+        },
+        {
+          "lang": "en",
+          "text": "Frank used to make spare parts for aeroplanes."
+        },
+        {
+          "lang": "zh",
+          "text": "这是二十多岁时的工作内容，不是现在正在做。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 553.124,
+      "end": 563.568,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块是"
+        },
+        {
+          "lang": "en",
+          "text": "had become"
+        },
+        {
+          "lang": "zh",
+          "text": "。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The small workshop had become a large factory."
+        },
+        {
+          "lang": "zh",
+          "text": "Frank 回忆的时候，这个变化已经完成了。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 563.918,
+      "end": 579.454,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块是 timeline words："
+        },
+        {
+          "lang": "en",
+          "text": "as a boy"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "at that time"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "in 1958"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "in his twenties"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "in a few years"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "before he retired"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 579.803,
+      "end": 589.283,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些时间词把课文串成一架梯子：past habit, saved money, own workshop, larger factory, and then the bicycle comes back."
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 589.633,
+      "end": 599.473,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进自己的生活里。你不需要编一个 728 人的大公司，只要讲一个 small skill grows bigger 的故事。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 599.823,
+      "end": 607.983,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "比如：someone used to fix bicycles, edit videos, bake cakes, draw pictures, code small games, or make models."
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 608.333,
+      "end": 618.425,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以这样开头："
+        },
+        {
+          "lang": "en",
+          "text": "When he was young, he used to repair bicycles."
+        },
+        {
+          "lang": "zh",
+          "text": "或者"
+        },
+        {
+          "lang": "en",
+          "text": "When she was young, she used to edit short videos."
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 618.775,
+      "end": 628.422,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中间加成长："
+        },
+        {
+          "lang": "en",
+          "text": "He worked hard and saved money for years."
+        },
+        {
+          "lang": "en",
+          "text": "In a few years, his small workshop had become a bigger project."
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 628.772,
+      "end": 636.028,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一定要回到温暖的小请求："
+        },
+        {
+          "lang": "en",
+          "text": "But one day, his family asked him to repair a bicycle again."
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 636.378,
+      "end": 643.538,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "重点不是 bragging，而是 continuity：最早的小技能，没有被成功丢掉，还能继续帮到别人。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 643.888,
+      "end": 672.883,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "used to work in a small shop"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "repair bicycles"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "fourteen hours a day"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "a small workshop of his own"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "spare parts for aeroplanes"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "employed seven hundred and twenty-eight people"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "grandson's bicycle"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 673.233,
+      "end": 694.833,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，讲一个 past skill grows bigger 的故事；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的笑点：Frank's success story starts with a bicycle and ends with a bicycle."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 31
+}

@@ -1,0 +1,23 @@
+{
+  "lesson_id": 31,
+  "title": "Success story",
+  "visual_consistency": "Frank Hawkins shown across time with consistent identity: young Frank has short dark hair, a kind determined oval face, average build, rolled-up sleeves, a simple blue-grey work shirt, brown work trousers, and bicycle repair tools nearby; older Frank has grey hair, the same kind face, a warm reflective smile, and a soft cardigan or modest suit jacket. Recurring motifs: bicycle wheel, hand tools, small workshop growing into a large factory, cozy family home. Gentle educational illustration, warm timeline feeling, no luxury imagery, no readable text.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Young Frank Hawkins with short dark hair, kind determined face, rolled-up sleeves, simple blue-grey work shirt and brown work trousers works in a humble small repair shop, carefully repairing a bicycle on a stand. Bicycle wheel, hand tools, worn wooden bench, and soft afternoon light show practical skill and long hours without making him look miserable. Warm grounded beginning, no readable text."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same young Frank Hawkins, short dark hair and rolled-up sleeves, now stands in a small workshop of his own with simple tools, a workbench, bicycle parts, and a hopeful expression. Show the feeling of a first owned workspace after years of saving money, modest and practical rather than wealthy. Keep the bicycle-wheel motif nearby, no readable text or numbers."
+    },
+    {
+      "frame": 3,
+      "prompt": "Frank Hawkins in early adulthood, clearly the same person with kind face and blue-grey work shirt under a work jacket, supervises a growing industrial workshop becoming a large factory. Show simple metal spare parts for aeroplanes on benches, two close helpers near him, and a larger factory space with many workers and machines in the background to imply big scale without crowding the image. Warm pride, no readable text or numbers."
+    },
+    {
+      "frame": 4,
+      "prompt": "Older Frank Hawkins with grey hair, same kind face, warm reflective smile, and a soft cardigan sits in a cozy home room remembering his long success story. His wife enters warmly beside a small child's bicycle that needs repair, echoing the first frame's bicycle wheel and tools. The mood is affectionate and lightly funny, not mocking, no luxury display, no readable text."
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "lesson_id": 31,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“Frank 回忆年轻经历 -> 小店修自行车 -> 攒钱买作坊 -> 做飞机零件 -> 工厂雇用 728 人 -> 回到孙子的自行车”的人生闭环读顺。",
+  "sentences": [
+    {
+      "id": "l31_s1",
+      "text": "Yesterday afternoon Frank Hawkins was telling me about his experiences as a young man.",
+      "focus_zh": "Yesterday afternoon 先给时间；experiences as a young man 要读成一段回忆的开头。",
+      "start": 381.21,
+      "end": 386.658,
+      "focus_words": [
+        "Yesterday afternoon",
+        "Frank Hawkins",
+        "experiences",
+        "as a young man"
+      ]
+    },
+    {
+      "id": "l31_s2",
+      "text": "Before he retired, Frank was the head of a very large business company, but as a boy he used to work in a small shop.",
+      "focus_zh": "Before he retired 和 as a boy 形成前后对比；used to 是过去常常，不是 use something。",
+      "start": 387.008,
+      "end": 393.944,
+      "focus_words": [
+        "Before he retired",
+        "head of",
+        "as a boy",
+        "used to"
+      ]
+    },
+    {
+      "id": "l31_s3",
+      "text": "It was his job to repair bicycles and at that time he used to work fourteen hours a day.",
+      "focus_zh": "repair bicycles 是起点；fourteen hours a day 要慢一点，读出过去的辛苦日常。",
+      "start": 394.294,
+      "end": 399.694,
+      "focus_words": [
+        "repair bicycles",
+        "at that time",
+        "used to work",
+        "fourteen hours"
+      ]
+    },
+    {
+      "id": "l31_s4",
+      "text": "He saved money for years and in 1958 he bought a small workshop of his own.",
+      "focus_zh": "saved money for years 不是一夜成功；of his own 表示属于他自己。",
+      "start": 400.043,
+      "end": 405.323,
+      "focus_words": [
+        "saved money",
+        "for years",
+        "in 1958",
+        "of his own"
+      ]
+    },
+    {
+      "id": "l31_s5",
+      "text": "In his twenties Frank used to make spare parts for aeroplanes.",
+      "focus_zh": "In his twenties 是二十多岁；spare parts for aeroplanes 连成机器零件的意思。",
+      "start": 405.673,
+      "end": 409.705,
+      "focus_words": [
+        "In his twenties",
+        "used to make",
+        "spare parts",
+        "aeroplanes"
+      ]
+    },
+    {
+      "id": "l31_s6",
+      "text": "In a few years the small workshop had become a large factory which employed seven hundred and twenty-eight people.",
+      "focus_zh": "had become 读出已经完成的变化；seven hundred and twenty-eight 要分组读清楚。",
+      "start": 413.261,
+      "end": 419.477,
+      "focus_words": [
+        "In a few years",
+        "had become",
+        "large factory",
+        "seven hundred and twenty-eight"
+      ]
+    },
+    {
+      "id": "l31_s7",
+      "text": "Frank smiled when he remembered his hard early years and the long road to success.",
+      "focus_zh": "hard early years 和 long road to success 要读成回忆，不要读成口号。",
+      "start": 419.827,
+      "end": 424.915,
+      "focus_words": [
+        "Frank smiled",
+        "remembered",
+        "hard early years",
+        "long road to success"
+      ]
+    },
+    {
+      "id": "l31_s8",
+      "text": "She wanted him to repair their grandson's bicycle!",
+      "focus_zh": "最后一句是温暖笑点；repair 和 grandson's bicycle 要稍微收住。",
+      "start": 429.455,
+      "end": 433.199,
+      "focus_words": [
+        "wanted him",
+        "repair",
+        "grandson's bicycle"
+      ]
+    }
+  ]
+}

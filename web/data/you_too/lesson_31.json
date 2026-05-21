@@ -1,0 +1,39 @@
+{
+  "lesson_id": 31,
+  "title": "Success story",
+  "question": "把今天课文里“小时候的简单技能 -> 多年练习和成长 -> 后来又回到家人朋友的小请求”的线索放进一个自己的生活场景——这一题不打分、老师只会鼓励 + 给一句小建议。把下面 3 个空补完整，用 word bank 里的词或短语。",
+  "example_answer": "When he was young, he used to repair bicycles. He worked very hard and saved money for years. In a few years, his small workshop had become a larger project. But one day, his family asked him to repair a bicycle again.",
+  "word_bank": [
+    "used to",
+    "repair bicycles",
+    "edit videos",
+    "code small games",
+    "saved money",
+    "of his own",
+    "in a few years",
+    "had become",
+    "family asked him",
+    "help again"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "过去习惯：小时候经常做的简单技能",
+      "english_template": "When he was young, he ___ repair bicycles.",
+      "expected_phrase": "used to"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "成长过程：几年后，小地方变成更大的项目",
+      "english_template": "In a few years, his small workshop ___ a larger project.",
+      "expected_phrase": "had become"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "温暖回环：家人又请他做最早那件小事",
+      "english_template": "But one day, his ___ to repair a bicycle again.",
+      "expected_phrase": "family asked him"
+    }
+  ],
+  "mode": "all_fills"
+}
