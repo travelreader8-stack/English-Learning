@@ -68,10 +68,11 @@ Course design cards live in `lesson_plans/`:
 - `lesson_plans/lesson_030.md` - Lesson 30, `Football or polo?`
 - `lesson_plans/lesson_031.md` - Lesson 31, `Success story`
 - `lesson_plans/lesson_032.md` - Lesson 32, `Shopping made easy`
+- `lesson_plans/lesson_033.md` - Lesson 33, `Out of the darkness`
 
 When future lessons are discussed, add one new file:
 
-- `lesson_plans/lesson_033.md`
+- `lesson_plans/lesson_034.md`
 - etc.
 
 Do not keep lesson-specific design cards in this root plan. This file is the
