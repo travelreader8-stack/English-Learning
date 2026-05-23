@@ -1,0 +1,23 @@
+{
+  "lesson_id": 35,
+  "title": "Stop thief!",
+  "visual_consistency": "A warm educational action illustration about Roy Trenton, a responsible adult bus driver in his forties with short dark hair, a neat blue bus-driver uniform, calm alert expression, sturdy build, and professional posture. A red city bus as the recurring vehicle. Two adult thieves in plain dark jackets, one carrying a tan money bag. A small green getaway car that becomes visibly battered at the rear. British-style city street with shopfront, pavement, road, bus, and car. Dynamic but safe tone, no graphic injury, no reckless hero glamour, consistent Roy, bus, thieves, money bag, and car across all frames.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "An everyday British city street at the start of a bus route: Roy Trenton, a responsible adult bus driver in his forties with short dark hair, neat blue bus-driver uniform, calm alert expression, and sturdy build, sits in the driver's area of a red city bus. A small taxi is visible farther back on the street to suggest his former job. The mood is ordinary but expectant, with passengers calm and safe, no readable text."
+    },
+    {
+      "frame": 2,
+      "prompt": "On the same British-style city street, outside a small shopfront, two adult thieves in plain dark jackets rush out toward a small green getaway car waiting by the curb; one carries a tan money bag. Roy Trenton, the same responsible bus driver in the red city bus, sees the sudden movement from a safe driver's viewpoint. Emphasize observation details: shop door, money bag, green car, direction of movement, dynamic but not glamorous, no readable text."
+    },
+    {
+      "frame": 3,
+      "prompt": "A controlled action moment on the road: the same red city bus driven by Roy Trenton blocks the getaway path from a safe distance, and the thief with the tan money bag is startled and drops the bag onto the pavement. Show surprise and the visible result, not injury. The two adult thieves remain plain and unglamorous, the small green car is nearby, pedestrians and passengers stay safely away, dynamic but age-appropriate, no readable text."
+    },
+    {
+      "frame": 4,
+      "prompt": "The consequence after the theft: the same small green getaway car is visibly battered at the rear and easy to recognize on the street. Roy Trenton has stopped the red city bus and is calmly using a phone to report to police from a safe position. In the distance, police safely stop the recognizable damaged car while the two adult thieves face consequences without close-up handcuffs or violence. Clear result, responsible safety mood, no readable text."
+    }
+  ]
+}

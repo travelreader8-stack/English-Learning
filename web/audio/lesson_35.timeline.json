@@ -1,0 +1,1586 @@
+{
+  "total_duration": 681.975,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 14.256,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Stop thief!"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“捉贼！”它不是完整的礼貌句子，而是一声很短、很急的 street cry：有人看到小偷跑走，就可能喊"
+        },
+        {
+          "lang": "en",
+          "text": "Stop thief!"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 14.606,
+      "end": 25.726,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先把安全边界说清楚。这课像一段老式街头动作镜头，但现实生活中，孩子不要追小偷，不要冲进马路，更不要模仿开车拦截别人。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 26.076,
+      "end": 39.396,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天更现代、更安全的做法是：move to a safe place，remember details，tell an adult or security staff，and call the police。真正处理危险的是 trained adults。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 39.745,
+      "end": 52.249,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事里的 Roy Trenton 是一个 adult bus driver。他原来开出租车，后来成了公交车司机，而且"
+        },
+        {
+          "lang": "en",
+          "text": "he has not regretted it"
+        },
+        {
+          "lang": "zh",
+          "text": "，因为新工作 far more exciting。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 52.599,
+      "end": 62.679,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "有一天，他沿着 Catford Street 开车，看见两个 thieves 从商店里 rush out，朝一辆 waiting car 跑去，其中一个还提着 a bag full of money。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 63.029,
+      "end": 77.829,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "整课记忆链是：taxi -> bus -> more exciting -> thieves rush out -> bag of money -> Roy acts quickly -> fright -> drops bag -> battered car -> easy to recognize -> police arrest。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 78.179,
+      "end": 83.739,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一幅画，是 Roy 的新工作。"
+        },
+        {
+          "lang": "en",
+          "text": "Roy Trenton used to drive a taxi."
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 84.089,
+      "end": 96.032,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "used to drive"
+        },
+        {
+          "lang": "zh",
+          "text": "表示过去常做，但现在情况变了。他过去开 taxi；"
+        },
+        {
+          "lang": "en",
+          "text": "A short while ago, however, he became a bus driver."
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 96.382,
+      "end": 102.606,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文接着说："
+        },
+        {
+          "lang": "en",
+          "text": "he has not regretted it"
+        },
+        {
+          "lang": "zh",
+          "text": "。意思是，他不后悔换工作。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 102.956,
+      "end": 113.268,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么不后悔？"
+        },
+        {
+          "lang": "en",
+          "text": "He is finding his new work far more exciting."
+        },
+        {
+          "lang": "en",
+          "text": "far more exciting"
+        },
+        {
+          "lang": "zh",
+          "text": "就是 much more exciting，刺激得多。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 113.618,
+      "end": 126.378,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以第一幅画要像普通公交路线的开头：Roy 穿着公交司机制服，坐在 red city bus 里，街道平常，但问题已经埋下了：为什么公交会比出租车更 exciting？"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 126.728,
+      "end": 137.615,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二幅画，突然事件出现："
+        },
+        {
+          "lang": "en",
+          "text": "When he was driving along Catford Street recently, he saw two thieves rush out of a shop and run towards a waiting car."
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 137.965,
+      "end": 147.769,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里"
+        },
+        {
+          "lang": "en",
+          "text": "When he was driving"
+        },
+        {
+          "lang": "zh",
+          "text": "是一个 moving action。Roy 正在开车的时候，看见 another action：two thieves rush out。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 148.119,
+      "end": 158.443,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "rush out"
+        },
+        {
+          "lang": "zh",
+          "text": "不是慢慢走出来，是突然、很快地冲出来。"
+        },
+        {
+          "lang": "en",
+          "text": "waiting car"
+        },
+        {
+          "lang": "zh",
+          "text": "是已经准备好让他们逃走的车。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 158.793,
+      "end": 164.841,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文还补了一条关键线索："
+        },
+        {
+          "lang": "en",
+          "text": "One of them was carrying a bag full of money."
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 165.19,
+      "end": 177.35,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这幅画不要拍成 crime game。重点是 observation：shop, two thieves, tan money bag, green car, direction。看清线索，比冲上去更重要。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 177.7,
+      "end": 184.588,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三幅画，是动作和结果："
+        },
+        {
+          "lang": "en",
+          "text": "Roy acted quickly and drove the bus straight at the thieves."
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 184.938,
+      "end": 194.178,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里再提醒一次：Roy 是故事里的成人司机，不是现实里的儿童行动模板。现实中不要追，不要撞，不要靠近危险。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 194.528,
+      "end": 201.168,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文最有画面感的一句来了："
+        },
+        {
+          "lang": "en",
+          "text": "The one with the money got such a fright that he dropped the bag."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 201.518,
+      "end": 210.766,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "fright"
+        },
+        {
+          "lang": "zh",
+          "text": "是突然的害怕。"
+        },
+        {
+          "lang": "en",
+          "text": "such a fright that he dropped the bag"
+        },
+        {
+          "lang": "zh",
+          "text": "的感觉是：这一吓，吓得他包都掉了。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 211.115,
+      "end": 220.315,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句不是只背公式。镜头先给 sudden fright，再给 visible result：the bag drops。你一听就知道这个 fright 很强。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 220.665,
+      "end": 234.177,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后 thieves 想逃："
+        },
+        {
+          "lang": "en",
+          "text": "As the thieves were trying to get away in their car, Roy drove his bus into the back of it."
+        },
+        {
+          "lang": "zh",
+          "text": "画面要控制，不要表现身体受伤，也不要把危险动作拍得很酷。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 234.527,
+      "end": 244.015,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四幅画，重点从动作转到结果："
+        },
+        {
+          "lang": "en",
+          "text": "While the battered car was moving away, Roy stopped his bus and telephoned the police."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 244.365,
+      "end": 251.845,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "battered"
+        },
+        {
+          "lang": "zh",
+          "text": "是被撞坏、受损的。car 被 damaged 以后，就有了 very visible clue。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 252.195,
+      "end": 261.742,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The thieves' car was badly damaged and easy to recognize."
+        },
+        {
+          "lang": "zh",
+          "text": "这就是故事的关键：easy to recognize，容易辨认。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 262.092,
+      "end": 268.104,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后："
+        },
+        {
+          "lang": "en",
+          "text": "Shortly afterwards, the police stopped the car and both men were arrested."
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 268.454,
+      "end": 277.894,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结尾不是 Roy 继续追，而是 police stop the car。Roy 的快速行动让 car easy to recognize，警察随后把两个人都 arrested。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 278.244,
+      "end": 280.724,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "我们把这个故事的价值观说清楚。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 281.074,
+      "end": 284.688,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Roy 很勇敢，所以我们也应该追小偷吗？"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 285.038,
+      "end": 295.398,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不应该。这是 old action story 的写法。今天的安全选择是 keep distance, remember details, tell an adult, and call the police。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 295.747,
+      "end": 300.241,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "Stop thief!"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么这么短？"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 300.591,
+      "end": 309.711,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为它是 emergency shout，不是正式对话。像中文“捉贼！”一样，重点是让旁边的人知道发生了什么。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 310.061,
+      "end": 315.957,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "such a fright that he dropped the bag"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么不用"
+        },
+        {
+          "lang": "en",
+          "text": "so frightened"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 316.306,
+      "end": 328.578,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "so frightened"
+        },
+        {
+          "lang": "zh",
+          "text": "更像描述他的状态：he was very frightened。"
+        },
+        {
+          "lang": "en",
+          "text": "got such a fright"
+        },
+        {
+          "lang": "zh",
+          "text": "更像拍到那一下 shock，本身强到产生结果：he dropped the bag。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 328.928,
+      "end": 337.966,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课还有"
+        },
+        {
+          "lang": "en",
+          "text": "when"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "as"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "while"
+        },
+        {
+          "lang": "zh",
+          "text": "，它们都在讲同时发生的动作吗？"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 338.316,
+      "end": 350.916,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。Roy was driving, the thieves were trying to get away, the battered car was moving away。三个连接词让故事像视频一样，一边动，一边出现结果。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 351.266,
+      "end": 354.242,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Roy Trenton used to drive a taxi."
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 354.591,
+      "end": 359.823,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A short while ago, however, he became a bus driver and he has not regretted it."
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 360.173,
+      "end": 363.485,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He is finding his new work far more exciting."
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 363.835,
+      "end": 370.531,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When he was driving along Catford Street recently, he saw two thieves rush out of a shop and run towards a waiting car."
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 370.881,
+      "end": 374.193,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "One of them was carrying a bag full of money."
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 374.543,
+      "end": 378.263,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Roy acted quickly and drove the bus straight at the thieves."
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 378.613,
+      "end": 382.405,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The one with the money got such a fright that he dropped the bag."
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 382.755,
+      "end": 387.939,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As the thieves were trying to get away in their car, Roy drove his bus into the back of it."
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 388.289,
+      "end": 393.473,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "While the battered car was moving away, Roy stopped his bus and telephoned the police."
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 393.822,
+      "end": 397.83,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The thieves' car was badly damaged and easy to recognize."
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 398.18,
+      "end": 403.004,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Shortly afterwards, the police stopped the car and both men were arrested."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 403.354,
+      "end": 405.97,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "rush"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "rush"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 406.32,
+      "end": 407.856,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "rush"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "rush"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 408.206,
+      "end": 415.862,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "rush"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "rush"
+        },
+        {
+          "lang": "zh",
+          "text": "是 move very quickly and suddenly，突然很快地冲、赶、奔。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 416.212,
+      "end": 424.624,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "rush"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "he saw two thieves rush out of a shop"
+        },
+        {
+          "lang": "zh",
+          "text": "。他们不是 walk out，而是 rush out，因为他们正在逃。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 424.973,
+      "end": 434.989,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "rush"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以把"
+        },
+        {
+          "lang": "en",
+          "text": "rush"
+        },
+        {
+          "lang": "zh",
+          "text": "记成动作镜头的开始：door opens, two people rush out, everyone suddenly looks."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 435.339,
+      "end": 437.971,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "fright"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "fright"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 438.321,
+      "end": 439.905,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "fright"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "fright"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 440.255,
+      "end": 445.207,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "fright"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "fright"
+        },
+        {
+          "lang": "zh",
+          "text": "是 sudden feeling of fear，突然受到惊吓。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 445.557,
+      "end": 450.336,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "fright"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The one with the money got such a fright that he dropped the bag."
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 450.686,
+      "end": 459.198,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "fright"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句的中文感觉是：这一吓可不得了，包都掉了。"
+        },
+        {
+          "lang": "en",
+          "text": "fright"
+        },
+        {
+          "lang": "zh",
+          "text": "不是长时间害怕，而是那一下 shock。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 459.548,
+      "end": 462.228,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "battered"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "battered"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 462.578,
+      "end": 464.186,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "battered"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "battered"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 464.536,
+      "end": 469.976,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "battered"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "battered"
+        },
+        {
+          "lang": "zh",
+          "text": "是 damaged by being hit，撞坏了、受损了。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 470.326,
+      "end": 475.561,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "battered"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "While the battered car was moving away, Roy stopped his bus."
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 475.911,
+      "end": 484.031,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "battered"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么这个词重要？Because a battered car is easy to recognize. 车尾明显受损，警察就更容易辨认它。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 484.381,
+      "end": 490.621,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 有两条线：moving actions，还有 strong cause -> visible result。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 490.971,
+      "end": 501.171,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一条线是"
+        },
+        {
+          "lang": "en",
+          "text": "when"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "as"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "while"
+        },
+        {
+          "lang": "zh",
+          "text": "。它们让两个动作在同一段时间里发生。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 501.521,
+      "end": 511.28,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When he was driving along Catford Street, he saw two thieves rush out."
+        },
+        {
+          "lang": "zh",
+          "text": "Roy 正在开车；就在这段动作中，他看见小偷冲出来。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 511.63,
+      "end": 521.43,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As the thieves were trying to get away, Roy drove his bus into the back of it."
+        },
+        {
+          "lang": "zh",
+          "text": "thieves 正在 trying to get away；同时 Roy 做出动作。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 521.78,
+      "end": 531.588,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "While the battered car was moving away, Roy stopped his bus and telephoned the police."
+        },
+        {
+          "lang": "zh",
+          "text": "car 正在 moving away；Roy 停车并报警。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 531.938,
+      "end": 540.026,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二条线是"
+        },
+        {
+          "lang": "en",
+          "text": "such a... that..."
+        },
+        {
+          "lang": "zh",
+          "text": "。核心句："
+        },
+        {
+          "lang": "en",
+          "text": "He got such a fright that he dropped the bag."
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 540.376,
+      "end": 552.863,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "比较一下："
+        },
+        {
+          "lang": "en",
+          "text": "He was so frightened that he dropped the bag."
+        },
+        {
+          "lang": "zh",
+          "text": "镜头在 his scared state。"
+        },
+        {
+          "lang": "en",
+          "text": "He got such a fright that he dropped the bag."
+        },
+        {
+          "lang": "zh",
+          "text": "镜头在那一下 fright event。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 553.213,
+      "end": 564.653,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以今天的语法板可以这样记：moving actions with when, as, while；strong shock with such a fright that；最后用 police result 收尾。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 565.003,
+      "end": 572.203,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事里的 fast action 很 exciting。但现实里的 safe action 是 observe, remember, report。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 572.553,
+      "end": 582.833,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进现代安全场景。你和大人在商店附近，看见两个人 suddenly rush out，朝一辆 car 跑去，其中一个 carrying a bag。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 583.183,
+      "end": 592.903,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你的任务不是 chase them。你的安全选择是 move to a safe place，remember details，and tell an adult or call the police。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 593.253,
+      "end": 601.493,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你要练三件事：say what you saw, give useful details, and say the safe action."
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 601.842,
+      "end": 606.178,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以这样说："
+        },
+        {
+          "lang": "en",
+          "text": "I saw two people rush out of the shop."
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 606.528,
+      "end": 613.36,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再补线索："
+        },
+        {
+          "lang": "en",
+          "text": "One of them was carrying a bag. They ran towards a green car."
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 613.71,
+      "end": 623.694,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后说安全行动："
+        },
+        {
+          "lang": "en",
+          "text": "I did not chase them. I moved to a safe place and told an adult. The car was easy to recognize."
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 624.044,
+      "end": 632.384,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这题的重点是 clear reporting，不是当英雄。真正勇敢的做法，有时候就是离危险远一点，把线索说清楚。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 632.734,
+      "end": 658.145,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "used to drive a taxi"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "rush out of a shop"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "a bag full of money"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "such a fright that he dropped the bag"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "While the battered car was moving away"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "easy to recognize"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 658.495,
+      "end": 681.975,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习 safe observation and reporting；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心：the story is exciting, but real safety means observe, remember, and report."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 35
+}

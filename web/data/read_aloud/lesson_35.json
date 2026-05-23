@@ -1,0 +1,110 @@
+{
+  "lesson_id": 35,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“新工作 -> 小偷冲出 -> 包和车的线索 -> 惊吓掉包 -> 报警和逮捕”的动作链读顺。注意 when、as、while 后面要小停顿。",
+  "sentences": [
+    {
+      "id": "l35_s1",
+      "text": "Roy Trenton used to drive a taxi.",
+      "focus_zh": "used to drive 表示过去常开；Roy Trenton 是人名，读成一个完整名字。",
+      "start": 351.266,
+      "end": 354.242,
+      "focus_words": [
+        "Roy Trenton",
+        "used to drive",
+        "taxi"
+      ]
+    },
+    {
+      "id": "l35_s2",
+      "text": "A short while ago, however, he became a bus driver and he has not regretted it.",
+      "focus_zh": "A short while ago 后面稍停；has not regretted it 要读出“不后悔这个改变”。",
+      "start": 354.591,
+      "end": 359.823,
+      "focus_words": [
+        "A short while ago",
+        "however",
+        "became a bus driver",
+        "has not regretted it"
+      ]
+    },
+    {
+      "id": "l35_s3",
+      "text": "When he was driving along Catford Street recently, he saw two thieves rush out of a shop and run towards a waiting car.",
+      "focus_zh": "When 从句后要小停顿；rush out 和 run towards 是连续动作，不要读散。",
+      "start": 363.835,
+      "end": 370.531,
+      "focus_words": [
+        "When he was driving",
+        "Catford Street",
+        "two thieves",
+        "rush out",
+        "waiting car"
+      ]
+    },
+    {
+      "id": "l35_s4",
+      "text": "Roy acted quickly and drove the bus straight at the thieves.",
+      "focus_zh": "acted quickly 是快速反应；straight at 表示直接朝向，读时连起来。",
+      "start": 374.543,
+      "end": 378.263,
+      "focus_words": [
+        "acted quickly",
+        "drove the bus",
+        "straight at",
+        "the thieves"
+      ]
+    },
+    {
+      "id": "l35_s5",
+      "text": "The one with the money got such a fright that he dropped the bag.",
+      "focus_zh": "such a fright that 是强烈惊吓造成结果；that he dropped the bag 要接住结果感。",
+      "start": 378.613,
+      "end": 382.405,
+      "focus_words": [
+        "the one with the money",
+        "such a fright",
+        "dropped the bag"
+      ]
+    },
+    {
+      "id": "l35_s6",
+      "text": "As the thieves were trying to get away in their car, Roy drove his bus into the back of it.",
+      "focus_zh": "As 引出正在逃跑的动作；get away 和 into the back of it 是本句的动作重点。",
+      "start": 382.755,
+      "end": 387.939,
+      "focus_words": [
+        "As",
+        "trying to get away",
+        "in their car",
+        "into the back of it"
+      ]
+    },
+    {
+      "id": "l35_s7",
+      "text": "While the battered car was moving away, Roy stopped his bus and telephoned the police.",
+      "focus_zh": "While 后面是车正在离开；battered car 和 telephoned the police 要读清楚。",
+      "start": 388.289,
+      "end": 393.473,
+      "focus_words": [
+        "While",
+        "battered car",
+        "moving away",
+        "telephoned the police"
+      ]
+    },
+    {
+      "id": "l35_s8",
+      "text": "Shortly afterwards, the police stopped the car and both men were arrested.",
+      "focus_zh": "Shortly afterwards 是“不久之后”；were arrested 是被动结尾，读出结果。",
+      "start": 398.18,
+      "end": 403.004,
+      "focus_words": [
+        "Shortly afterwards",
+        "the police stopped",
+        "both men",
+        "were arrested"
+      ]
+    }
+  ]
+}

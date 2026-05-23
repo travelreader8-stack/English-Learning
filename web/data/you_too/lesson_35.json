@@ -1,0 +1,39 @@
+{
+  "lesson_id": 35,
+  "title": "Stop thief!",
+  "question": "把今天课文里的“突然看到可疑事件 -> 记住线索 -> 不追赶 -> 告诉大人或报警”放进自己的安全场景。把下面 3 个空补完整，用 word bank 里的词或短语。",
+  "example_answer": "I saw two people rush out of the shop. One of them was carrying a bag. They ran towards a green car. I did not chase them. I moved to a safe place and told an adult. The car was easy to recognize.",
+  "word_bank": [
+    "rush out",
+    "carrying a bag",
+    "ran towards",
+    "green car",
+    "did not chase",
+    "safe place",
+    "told an adult",
+    "called the police",
+    "easy to recognize",
+    "remember details"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "描述看到的动作：两个人从商店冲出来",
+      "english_template": "I saw two people ___ of the shop.",
+      "expected_phrase": "rush out"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "描述可用线索：其中一个人提着包，并朝绿色汽车跑去",
+      "english_template": "One of them was carrying a bag, and they ran towards a ___.",
+      "expected_phrase": "green car"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "选择安全行动：不追赶，去安全地点并告诉大人",
+      "english_template": "I ___ them. I moved to a safe place and told an adult.",
+      "expected_phrase": "did not chase"
+    }
+  ],
+  "mode": "all_fills"
+}
