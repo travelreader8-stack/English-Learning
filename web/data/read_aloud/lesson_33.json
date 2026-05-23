@@ -1,0 +1,111 @@
+{
+  "lesson_id": 33,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“coast 出发 -> storm 和 rock -> 整夜游向 shore -> light ahead -> cliffs -> hospital”的求生路线读顺。",
+  "sentences": [
+    {
+      "id": "l33_s1",
+      "text": "Nearly a week passed before the girl was able to explain what had happened to her.",
+      "focus_zh": "Nearly a week passed 先给恢复后的时间；what had happened to her 是之前发生的事，要连成一组读。",
+      "start": 426.284,
+      "end": 431.132,
+      "focus_words": [
+        "Nearly a week",
+        "was able to explain",
+        "what had happened",
+        "to her"
+      ]
+    },
+    {
+      "id": "l33_s2",
+      "text": "One afternoon she set out from the coast in a small boat and was caught in a storm.",
+      "focus_zh": "One afternoon 开始故事；from the coast 和 in a small boat 是出发信息，was caught in a storm 要读出突然陷入风暴。",
+      "start": 431.482,
+      "end": 436.402,
+      "focus_words": [
+        "One afternoon",
+        "set out from",
+        "the coast",
+        "caught in a storm"
+      ]
+    },
+    {
+      "id": "l33_s3",
+      "text": "Towards evening, the boat struck a rock and the girl jumped into the sea.",
+      "focus_zh": "Towards evening 是接近傍晚；struck a rock 和 jumped into the sea 是事故链，要分清动作顺序。",
+      "start": 436.751,
+      "end": 441.215,
+      "focus_words": [
+        "Towards evening",
+        "struck a rock",
+        "jumped into",
+        "the sea"
+      ]
+    },
+    {
+      "id": "l33_s4",
+      "text": "Then she swam to the shore after spending the whole night in the water.",
+      "focus_zh": "swam to the shore 是方向；after spending the whole night in the water 很长，要自然分组。",
+      "start": 441.565,
+      "end": 445.669,
+      "focus_words": [
+        "swam to the shore",
+        "after spending",
+        "the whole night",
+        "in the water"
+      ]
+    },
+    {
+      "id": "l33_s5",
+      "text": "Early next morning, she saw a light ahead.",
+      "focus_zh": "Early next morning 是新的时间；a light ahead 是转折点，ahead 要读成“前方”。",
+      "start": 449.969,
+      "end": 453.233,
+      "focus_words": [
+        "Early next morning",
+        "saw",
+        "a light",
+        "ahead"
+      ]
+    },
+    {
+      "id": "l33_s6",
+      "text": "She knew she was near the shore because the light was high up on the cliffs.",
+      "focus_zh": "because 后面解释原因；near the shore 和 high up on the cliffs 都是位置短语。",
+      "start": 453.583,
+      "end": 457.855,
+      "focus_words": [
+        "near the shore",
+        "because",
+        "high up",
+        "on the cliffs"
+      ]
+    },
+    {
+      "id": "l33_s7",
+      "text": "On arriving at the shore, the girl struggled up the cliff towards the light she had seen.",
+      "focus_zh": "On arriving at the shore 先停一下；struggled up the cliff 和 towards the light she had seen 是艰难向光移动。",
+      "start": 458.205,
+      "end": 463.341,
+      "focus_words": [
+        "On arriving",
+        "struggled up",
+        "towards the light",
+        "had seen"
+      ]
+    },
+    {
+      "id": "l33_s8",
+      "text": "When she woke up a day later, she found herself in hospital.",
+      "focus_zh": "When she woke up a day later 是恢复后的时间；found herself in hospital 是醒来发现自己在医院。",
+      "start": 466.537,
+      "end": 470.545,
+      "focus_words": [
+        "woke up",
+        "a day later",
+        "found herself",
+        "in hospital"
+      ]
+    }
+  ]
+}

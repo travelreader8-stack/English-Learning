@@ -1,0 +1,39 @@
+{
+  "lesson_id": 33,
+  "title": "Out of the darkness",
+  "question": "把今天课文里的“天气变坏 -> 判断危险 -> 选择安全方向 -> 告诉大人”放进自己的生活场景：你和朋友在海边 school trip，朋友还想靠近水边。把下面 3 个空补完整，用 word bank 里的词或短语。",
+  "example_answer": "The weather is getting worse. We should not go near the water. The safe place is ahead, near the light. Let's move towards it and tell an adult. We need help.",
+  "word_bank": [
+    "getting worse",
+    "go near the water",
+    "small boat",
+    "ahead",
+    "near the light",
+    "towards it",
+    "tell an adult",
+    "need help",
+    "safe place",
+    "weather forecast"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "注意危险：天气正在变坏",
+      "english_template": "The weather is ___.",
+      "expected_phrase": "getting worse"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "安全判断：不要继续靠近水边",
+      "english_template": "We should not ___.",
+      "expected_phrase": "go near the water"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "方向和求助：朝安全地点走，并告诉大人",
+      "english_template": "The safe place is ahead. Let's move ___ and tell an adult.",
+      "expected_phrase": "towards it"
+    }
+  ],
+  "mode": "all_fills"
+}

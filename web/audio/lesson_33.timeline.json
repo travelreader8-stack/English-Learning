@@ -1,0 +1,2036 @@
+{
+  "total_duration": 772.643,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 8.904,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Out of the darkness"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“冲出黑暗”。但这不是恐怖故事，也不是鼓励大家去冒险。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 9.254,
+      "end": 29.353,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它是一条 survival route，求生路线：一个女孩从"
+        },
+        {
+          "lang": "en",
+          "text": "coast"
+        },
+        {
+          "lang": "zh",
+          "text": "出发，遇到"
+        },
+        {
+          "lang": "en",
+          "text": "storm"
+        },
+        {
+          "lang": "zh",
+          "text": "，船撞到"
+        },
+        {
+          "lang": "en",
+          "text": "rock"
+        },
+        {
+          "lang": "zh",
+          "text": "，她跳进"
+        },
+        {
+          "lang": "en",
+          "text": "sea"
+        },
+        {
+          "lang": "zh",
+          "text": "，游了一整夜，最后看见"
+        },
+        {
+          "lang": "en",
+          "text": "light ahead"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 29.703,
+      "end": 41.895,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这盏灯很关键。它不是装饰，它在高高的"
+        },
+        {
+          "lang": "en",
+          "text": "cliffs"
+        },
+        {
+          "lang": "zh",
+          "text": "上，告诉她：land is near, the shore is near, safety is near。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 42.245,
+      "end": 55.725,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先把现代安全桥说清楚：今天如果出海，要看天气预报，穿救生衣，带能联系人的设备，最好有 GPS 和 location sharing，不要一个人靠勇气硬撑。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 56.074,
+      "end": 69.474,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里的女孩很坚强，但我们学习的不是模仿危险行为。我们学习的是：danger -> no clear direction -> find a signal -> move toward safety -> recover。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 69.824,
+      "end": 90.611,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课还要先看一张小地图："
+        },
+        {
+          "lang": "en",
+          "text": "coast"
+        },
+        {
+          "lang": "zh",
+          "text": "是海边一带，"
+        },
+        {
+          "lang": "en",
+          "text": "shore"
+        },
+        {
+          "lang": "zh",
+          "text": "是水和陆地接触的岸边，"
+        },
+        {
+          "lang": "en",
+          "text": "rock"
+        },
+        {
+          "lang": "zh",
+          "text": "是海里的危险礁石，"
+        },
+        {
+          "lang": "en",
+          "text": "cliff"
+        },
+        {
+          "lang": "zh",
+          "text": "是海边很高很陡的峭壁，"
+        },
+        {
+          "lang": "en",
+          "text": "ahead"
+        },
+        {
+          "lang": "zh",
+          "text": "是在前方。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 90.961,
+      "end": 108.993,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天背诵就抓住这条路线："
+        },
+        {
+          "lang": "en",
+          "text": "coast"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "storm"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "rock"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "sea"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "whole night"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "eight miles"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "light"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "cliffs"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "hospital"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 109.342,
+      "end": 117.374,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一幅画，从时间差开始："
+        },
+        {
+          "lang": "en",
+          "text": "Nearly a week passed before the girl was able to explain what had happened to her."
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 117.724,
+      "end": 125.956,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她不是马上就能讲清楚。她经历了危险，休息和恢复之后，才说出"
+        },
+        {
+          "lang": "en",
+          "text": "what had happened to her"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 126.306,
+      "end": 132.618,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后故事回到那天下午："
+        },
+        {
+          "lang": "en",
+          "text": "One afternoon she set out from the coast in a small boat."
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 132.968,
+      "end": 141.864,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "set out from"
+        },
+        {
+          "lang": "zh",
+          "text": "是从某地出发，"
+        },
+        {
+          "lang": "en",
+          "text": "coast"
+        },
+        {
+          "lang": "zh",
+          "text": "是海岸地区，不只是脚边一小块沙子。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 142.213,
+      "end": 155.229,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "同一句里危险来了："
+        },
+        {
+          "lang": "en",
+          "text": "and was caught in a storm"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "was caught in a storm"
+        },
+        {
+          "lang": "zh",
+          "text": "不是“被人抓住”，而是突然陷入风暴，很难逃开。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 155.579,
+      "end": 162.979,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "画面里要看见：小船很小，海很大，天气开始变坏。This is not a safe plan today."
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 163.329,
+      "end": 171.433,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二幅画，时间往傍晚推："
+        },
+        {
+          "lang": "en",
+          "text": "Towards evening, the boat struck a rock and the girl jumped into the sea."
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 171.783,
+      "end": 180.519,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Towards evening"
+        },
+        {
+          "lang": "zh",
+          "text": "是接近傍晚，天色越来越暗。这个时间很重要，因为黑暗会让方向更难判断。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 180.869,
+      "end": 193.588,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "struck a rock"
+        },
+        {
+          "lang": "zh",
+          "text": "里的"
+        },
+        {
+          "lang": "en",
+          "text": "rock"
+        },
+        {
+          "lang": "zh",
+          "text": "不是路边小石头，而是海里的危险礁石。小船撞上去，就可能出大问题。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 193.938,
+      "end": 204.818,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "女孩跳进海里，这不是英雄动作，而是在危险中求生。我们不要把她画成 superhero，也不要把画面做成吓人的 disaster scene。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 205.168,
+      "end": 215.712,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "到这里，路线变成："
+        },
+        {
+          "lang": "en",
+          "text": "coast"
+        },
+        {
+          "lang": "zh",
+          "text": "出发，风暴中撞到"
+        },
+        {
+          "lang": "en",
+          "text": "rock"
+        },
+        {
+          "lang": "zh",
+          "text": "，然后进入"
+        },
+        {
+          "lang": "en",
+          "text": "sea"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 216.062,
+      "end": 224.485,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三幅画，是整课最难也最重要的一段："
+        },
+        {
+          "lang": "en",
+          "text": "Then she swam to the shore after spending the whole night in the water."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 224.835,
+      "end": 233.019,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "after spending the whole night in the water"
+        },
+        {
+          "lang": "zh",
+          "text": "要读成一整块：她不是游一会儿，而是在水里度过了整整一夜。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 233.369,
+      "end": 244.553,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文继续说："
+        },
+        {
+          "lang": "en",
+          "text": "During that time she covered a distance of eight miles."
+        },
+        {
+          "lang": "en",
+          "text": "covered a distance"
+        },
+        {
+          "lang": "zh",
+          "text": "这里是“走过或游过一段距离”，不是“盖住”。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 244.903,
+      "end": 251.487,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "到第二天清晨，转折出现："
+        },
+        {
+          "lang": "en",
+          "text": "Early next morning, she saw a light ahead."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 251.836,
+      "end": 258.844,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "ahead"
+        },
+        {
+          "lang": "zh",
+          "text": "是在她前方，在她移动的方向上。这个 light 给了她 direction。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 259.194,
+      "end": 268.434,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这幅画要安静一点：夜海之后，远处高处有灯。The darkness is still there, but now she has a way to move."
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 268.784,
+      "end": 276.32,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四幅画，把灯和陆地连起来："
+        },
+        {
+          "lang": "en",
+          "text": "She knew she was near the shore because the light was high up on the cliffs."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 276.67,
+      "end": 289.022,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "shore"
+        },
+        {
+          "lang": "zh",
+          "text": "是她终于能到达陆地的水边；"
+        },
+        {
+          "lang": "en",
+          "text": "cliffs"
+        },
+        {
+          "lang": "zh",
+          "text": "是岸边高高陡陡的峭壁。灯在高处，所以她知道陆地就在附近。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 289.372,
+      "end": 297.068,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着是最后一次努力："
+        },
+        {
+          "lang": "en",
+          "text": "On arriving at the shore, the girl struggled up the cliff towards the light she had seen."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 297.417,
+      "end": 306.657,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "On arriving at the shore"
+        },
+        {
+          "lang": "zh",
+          "text": "就是 when she arrived at the shore；"
+        },
+        {
+          "lang": "en",
+          "text": "struggled up"
+        },
+        {
+          "lang": "zh",
+          "text": "是非常吃力地往上爬。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 307.007,
+      "end": 315.759,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "the light she had seen"
+        },
+        {
+          "lang": "zh",
+          "text": "是她之前看到的那盏灯。先 saw the light，后来 struggled towards the same light。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 316.109,
+      "end": 320.437,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后记忆断在这里："
+        },
+        {
+          "lang": "en",
+          "text": "That was all she remembered."
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 320.787,
+      "end": 331.882,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结尾很轻："
+        },
+        {
+          "lang": "en",
+          "text": "When she woke up a day later, she found herself in hospital."
+        },
+        {
+          "lang": "zh",
+          "text": "她醒来时发现自己在医院里，说明她已经被救助，正在安全恢复。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 332.232,
+      "end": 335.656,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课为什么叫"
+        },
+        {
+          "lang": "en",
+          "text": "Out of the darkness"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 336.006,
+      "end": 338.693,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为她真的在黑夜里的海里？"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 339.043,
+      "end": 347.723,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，这是第一层，literal darkness，真的黑暗。还有第二层：她没有方向，也不知道离岸还有多远。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 348.073,
+      "end": 352.404,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "light ahead"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么这么重要？"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 352.754,
+      "end": 363.586,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为光在前方，而且在"
+        },
+        {
+          "lang": "en",
+          "text": "cliffs"
+        },
+        {
+          "lang": "zh",
+          "text": "上。它告诉她：那里有陆地，有方向，有希望。The light turns fear into a route."
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 363.936,
+      "end": 369.881,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "coast"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "shore"
+        },
+        {
+          "lang": "zh",
+          "text": "我总分不清。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 370.231,
+      "end": 383.239,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以这样记："
+        },
+        {
+          "lang": "en",
+          "text": "coast"
+        },
+        {
+          "lang": "zh",
+          "text": "是海边一大片地区，比如 coastal city；"
+        },
+        {
+          "lang": "en",
+          "text": "shore"
+        },
+        {
+          "lang": "zh",
+          "text": "是水碰到陆地的边。她从 coast 出发，最后游到 shore。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 383.589,
+      "end": 386.246,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "cliff"
+        },
+        {
+          "lang": "zh",
+          "text": "呢？"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 386.595,
+      "end": 396.699,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "cliff"
+        },
+        {
+          "lang": "zh",
+          "text": "是很高、很陡的岩壁，不是普通小山坡。灯在 cliff 上，所以她从水里能看见高处的 light。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 397.049,
+      "end": 399.594,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这故事听起来很危险。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 399.944,
+      "end": 413.944,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "是的，所以现代桥一定要说清楚。今天我们会用 weather forecast, life jacket, phone, GPS, emergency call, location sharing。课文讲的是求生和方向，不是让人去冒险。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 414.294,
+      "end": 425.934,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "背诵时把它当成 route map：from the coast, into the storm, into the sea, through the night, towards the light, up the cliff, and safe in hospital."
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 426.284,
+      "end": 431.132,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Nearly a week passed before the girl was able to explain what had happened to her."
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 431.482,
+      "end": 436.402,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "One afternoon she set out from the coast in a small boat and was caught in a storm."
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 436.751,
+      "end": 441.215,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Towards evening, the boat struck a rock and the girl jumped into the sea."
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 441.565,
+      "end": 445.669,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Then she swam to the shore after spending the whole night in the water."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 446.019,
+      "end": 449.619,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "During that time she covered a distance of eight miles."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 449.969,
+      "end": 453.233,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Early next morning, she saw a light ahead."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 453.583,
+      "end": 457.855,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She knew she was near the shore because the light was high up on the cliffs."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 458.205,
+      "end": 463.341,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "On arriving at the shore, the girl struggled up the cliff towards the light she had seen."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 463.691,
+      "end": 466.187,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "That was all she remembered."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 466.537,
+      "end": 470.545,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When she woke up a day later, she found herself in hospital."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 470.894,
+      "end": 473.462,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "coast"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "coast"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 473.812,
+      "end": 475.3,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "coast"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "coast"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 475.65,
+      "end": 488.018,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "coast"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "coast"
+        },
+        {
+          "lang": "zh",
+          "text": "是海岸地区，land beside the sea。它比一个 exact point 更大，可以说 coastal city, road along the coast, set out from the coast。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 488.368,
+      "end": 499.156,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "coast"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课的小地图是：女孩从"
+        },
+        {
+          "lang": "en",
+          "text": "coast"
+        },
+        {
+          "lang": "zh",
+          "text": "出发，船到海上，后来她要游回"
+        },
+        {
+          "lang": "en",
+          "text": "shore"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 499.506,
+      "end": 511.277,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "coast"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "One afternoon she set out from the coast in a small boat."
+        },
+        {
+          "lang": "zh",
+          "text": "这句话先告诉我们出发点，也提示我们：small boat and bad weather can be dangerous."
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 511.627,
+      "end": 514.211,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cliff"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "cliff"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 514.561,
+      "end": 516.049,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cliff"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "cliff"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 516.399,
+      "end": 525.423,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cliff"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "cliff"
+        },
+        {
+          "lang": "zh",
+          "text": "是峭壁，a high, steep rock face，常常在海边。它不是 beach，也不是 gentle hill。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 525.773,
+      "end": 535.016,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cliff"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在小地图上，水边是"
+        },
+        {
+          "lang": "en",
+          "text": "shore"
+        },
+        {
+          "lang": "zh",
+          "text": "，旁边可能有高高的"
+        },
+        {
+          "lang": "en",
+          "text": "cliff"
+        },
+        {
+          "lang": "zh",
+          "text": "，灯就在 cliff 上面。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 535.366,
+      "end": 542.186,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cliff"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The light was high up on the cliffs."
+        },
+        {
+          "lang": "zh",
+          "text": "这句话解释了为什么她知道自己离陆地近了。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 542.536,
+      "end": 545.336,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "struggle"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "struggle"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 545.686,
+      "end": 547.342,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "struggle"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "struggle"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 547.692,
+      "end": 556.452,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "struggle"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "struggle"
+        },
+        {
+          "lang": "zh",
+          "text": "是非常努力地做一件困难的事。不是轻松走上去，而是 tired, slow, hard。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 556.801,
+      "end": 563.705,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "struggle"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "女孩在水里待了一整夜，又游了很远，所以她上岸后只能"
+        },
+        {
+          "lang": "en",
+          "text": "struggle up the cliff"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 564.055,
+      "end": 572.979,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "struggle"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The girl struggled up the cliff towards the light."
+        },
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "towards"
+        },
+        {
+          "lang": "zh",
+          "text": "表示朝着某个方向移动。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 573.329,
+      "end": 587.48,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "struggle"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "把三个词放在图里看：from the"
+        },
+        {
+          "lang": "en",
+          "text": "coast"
+        },
+        {
+          "lang": "zh",
+          "text": ", to the"
+        },
+        {
+          "lang": "en",
+          "text": "shore"
+        },
+        {
+          "lang": "zh",
+          "text": ", up the"
+        },
+        {
+          "lang": "en",
+          "text": "cliff"
+        },
+        {
+          "lang": "zh",
+          "text": ", and she had to"
+        },
+        {
+          "lang": "en",
+          "text": "struggle"
+        },
+        {
+          "lang": "zh",
+          "text": "towards the light."
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 587.83,
+      "end": 592.75,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 不要抽象背规则，要顺着 survival timeline 走。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 593.1,
+      "end": 604.212,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块是 past perfect memory："
+        },
+        {
+          "lang": "en",
+          "text": "what had happened to her"
+        },
+        {
+          "lang": "zh",
+          "text": "。事情先发生，后来她才能解释。先 happened，later explained。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 604.562,
+      "end": 614.433,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个 past perfect 是："
+        },
+        {
+          "lang": "en",
+          "text": "the light she had seen"
+        },
+        {
+          "lang": "zh",
+          "text": "。她先 saw the light，后来才 climbed towards that same light。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 614.783,
+      "end": 629.063,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块是 time order："
+        },
+        {
+          "lang": "en",
+          "text": "One afternoon"
+        },
+        {
+          "lang": "zh",
+          "text": ","
+        },
+        {
+          "lang": "en",
+          "text": "Towards evening"
+        },
+        {
+          "lang": "zh",
+          "text": ","
+        },
+        {
+          "lang": "en",
+          "text": "Then"
+        },
+        {
+          "lang": "zh",
+          "text": ","
+        },
+        {
+          "lang": "en",
+          "text": "During that time"
+        },
+        {
+          "lang": "zh",
+          "text": ","
+        },
+        {
+          "lang": "en",
+          "text": "Early next morning"
+        },
+        {
+          "lang": "zh",
+          "text": ","
+        },
+        {
+          "lang": "en",
+          "text": "a day later"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 629.413,
+      "end": 636.893,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些时间词像路标，把故事从下午、傍晚、整夜、清晨、一天后串起来。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 637.242,
+      "end": 642.902,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块是"
+        },
+        {
+          "lang": "en",
+          "text": "after spending"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "On arriving"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 643.252,
+      "end": 653.556,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "after spending the whole night in the water"
+        },
+        {
+          "lang": "zh",
+          "text": "是“在水里度过整夜之后”；"
+        },
+        {
+          "lang": "en",
+          "text": "On arriving at the shore"
+        },
+        {
+          "lang": "zh",
+          "text": "是“一到岸边”。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 653.906,
+      "end": 662.794,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一块是"
+        },
+        {
+          "lang": "en",
+          "text": "found herself in hospital"
+        },
+        {
+          "lang": "zh",
+          "text": "。这不是她主动“找到了自己”，而是醒来后发现自己身在医院。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 663.143,
+      "end": 669.943,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以语法板可以这样背：past event, time words, direction words。They help us tell the route clearly."
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 670.293,
+      "end": 679.173,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进自己的生活里。你和朋友在海边参加 school trip，天气开始变坏，朋友还想继续靠近水边。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 679.523,
+      "end": 686.643,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你要练三件事：notice danger, choose a safe direction, and ask an adult for help。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 686.993,
+      "end": 690.809,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以先说天气："
+        },
+        {
+          "lang": "en",
+          "text": "The weather is getting worse."
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 691.159,
+      "end": 699.555,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再说安全判断："
+        },
+        {
+          "lang": "en",
+          "text": "We should not go near the water."
+        },
+        {
+          "lang": "zh",
+          "text": "或者"
+        },
+        {
+          "lang": "en",
+          "text": "We should not go out in a small boat."
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 699.904,
+      "end": 706.704,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后给方向："
+        },
+        {
+          "lang": "en",
+          "text": "The safe place is ahead, near the light."
+        },
+        {
+          "lang": "en",
+          "text": "Let's move towards it."
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 707.054,
+      "end": 712.59,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后求助："
+        },
+        {
+          "lang": "en",
+          "text": "We should tell an adult now."
+        },
+        {
+          "lang": "en",
+          "text": "We need help."
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 712.94,
+      "end": 723.14,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这题不让你表演危险游泳。它练的是 calm English under pressure：看清楚危险，用方向词说清楚安全路线，并且告诉大人。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 723.49,
+      "end": 750.253,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "what had happened to her"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "set out from the coast"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "was caught in a storm"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "after spending the whole night in the water"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "a light ahead"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "high up on the cliffs"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "found herself in hospital"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 750.603,
+      "end": 772.643,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习 safe direction and asking for help；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的路线：out of the darkness means moving towards the light, towards the shore, and towards safety."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 33
+}

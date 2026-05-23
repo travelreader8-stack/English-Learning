@@ -1,0 +1,24 @@
+{
+  "lesson_id": 33,
+  "title": "Out of the darkness",
+  "visual_consistency": "A realistic educational story about the same brave but exhausted teen girl with shoulder-length dark hair, a simple yellow rain jacket over practical dark clothes, and a small red scarf used as a recurring visual cue. Coastal setting with small boat, stormy sea, dangerous rock or reef, shore, high cliffs, and a warm light above the cliffs. Cinematic but age-appropriate illustration style, serious survival tone, no graphic injury, no horror mood, consistent girl appearance across all frames, no readable text.",
+  "vocabulary_diagram_direction": "The vocabulary teaching page should use a simple sea-to-land route diagram: coast as the wider land beside the sea, dangerous rock in the water, shore where water meets land, high cliff beside the shore, and light ahead at the top of the cliff. Labels should support coast 海岸地区, rock 礁石, shore 岸边, cliff 峭壁, and light ahead 前方的灯光.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "The same teen girl with shoulder-length dark hair, yellow rain jacket, practical dark clothes, and small red scarf sets out from the coast in a small boat. Show the coast behind her, open sea ahead, and weather beginning to change with darker clouds and stronger wind. The small boat should look vulnerable rather than adventurous, educational safety tone, no readable text."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same teen girl in yellow rain jacket and red scarf is caught in a storm at sea as the small boat has struck a dangerous rock or reef. Show rough waves, rain, the rock clearly visible near the damaged boat, and the girl moving into the water in a tense but non-graphic way. Serious survival mood, no superhero pose, no horror lighting, no readable text."
+    },
+    {
+      "frame": 3,
+      "prompt": "Early next morning after a long night in the water, the same exhausted teen girl with wet shoulder-length dark hair, yellow rain jacket, and red scarf sees a warm light ahead high up on distant cliffs. The sea is calmer at dawn, the shore and cliffs are visible enough to show direction and hope. Make the light the clear turning point, gentle serious tone, no readable text."
+    },
+    {
+      "frame": 4,
+      "prompt": "The same exhausted teen girl in yellow rain jacket and red scarf struggles up the steep cliff path toward the warm light, with the shore and sea below behind her. In the same single cinematic moment, imply later safety through a soft warm glow from a simple building or rescue place at the top, not a medical drama. Relief and recovery mood, no graphic injury, no readable text."
+    }
+  ]
+}
