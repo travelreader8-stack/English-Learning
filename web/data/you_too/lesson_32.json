@@ -1,0 +1,39 @@
+{
+  "lesson_id": 32,
+  "title": "Shopping made easy",
+  "question": "把今天课文里的“看起来像购物 -> 没有付钱就离开 -> 规则和诚实”放进自己的生活场景：你和朋友在大商店里，朋友说可以直接拿走一个东西。把下面 3 个空补完整，用 word bank 里的词或短语。",
+  "example_answer": "We can't take it without paying. It is not a free gift. The shop owns it, so we must go to the checkout first. It is better to be honest.",
+  "word_bank": [
+    "without paying",
+    "free gift",
+    "checkout",
+    "must pay",
+    "shop owns it",
+    "can't take it",
+    "better to be honest",
+    "give it away",
+    "receipt",
+    "rules"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "拒绝偷拿：不能不付钱就拿走",
+      "english_template": "We can't take it ___.",
+      "expected_phrase": "without paying"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "解释区别：这不是真正的免费礼物",
+      "english_template": "It is not a ___.",
+      "expected_phrase": "free gift"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "给出正确行动：先去付款处",
+      "english_template": "Let's go to the ___ first.",
+      "expected_phrase": "checkout"
+    }
+  ],
+  "mode": "all_fills"
+}

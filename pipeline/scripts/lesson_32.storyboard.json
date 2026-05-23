@@ -1,0 +1,23 @@
+{
+  "lesson_id": 32,
+  "title": "Shopping made easy",
+  "visual_consistency": "A large department store interior with clothing racks, dress display, wrapping counter, checkout area, and store exit. A calm store detective in plain clothes with observant posture, neat short dark hair, average build, muted navy jacket, small notebook or discreet badge. A well-dressed middle-aged woman with neat dark hair, composed oval face, cream coat, burgundy handbag, and small purchases. A young shop assistant behind the wrapping counter with similar facial features to the woman, tidy brown hair, teal shop uniform, calm but uneasy expression. Warm educational illustration style, clear store layout, calm detective-story tone, no readable text, no glamorized theft.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Monday morning in the large department store with fewer shoppers than usual. The calm store detective in plain clothes, muted navy jacket, small notebook, and observant posture watches the well-dressed middle-aged woman in a cream coat with a burgundy handbag as she enters near clothing racks. The young shop assistant in teal uniform is visible far in the background near a wrapping counter. Mood is quiet observation, not police drama, no readable text."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same well-dressed middle-aged woman in cream coat and burgundy handbag buys a few small articles at a display, then looks toward one of the most expensive dresses on a rack. The same calm store detective in plain clothes observes discreetly from another aisle. Show contrast between small purchases in her hand and the elegant expensive dress display. Normal-looking shopping with a subtle uneasy clue, no readable text."
+    },
+    {
+      "frame": 3,
+      "prompt": "At the wrapping counter, the same young shop assistant in teal uniform with similar facial features to the woman quickly wraps the expensive dress into a parcel. The well-dressed middle-aged woman takes the parcel and walks toward the store exit while bypassing the checkout area. The calm store detective notices from the side. Clear store layout with counter, checkout, and exit, ethically calm, no readable text."
+    },
+    {
+      "frame": 4,
+      "prompt": "The reveal inside the department store: the calm store detective has discovered the truth and speaks quietly with the well-dressed middle-aged woman in cream coat and the young shop assistant in teal uniform, whose similar facial features hint they are mother and daughter. The wrapped dress parcel sits on the counter between them, showing consequence and dishonesty being found out. Calm educational tone, no handcuffs close-up, no violence, no readable text."
+    }
+  ]
+}

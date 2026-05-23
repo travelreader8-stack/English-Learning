@@ -1,0 +1,1618 @@
+{
+  "total_duration": 666.799,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 10.224,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Shopping made easy"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文可以说“购物变得很方便”。但这不是购物技巧课，而是一个 irony，反讽标题。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 10.574,
+      "end": 19.054,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "正常意思是：shopping becomes easier。故事里的意思却是：一个女人让 shopping 变 easy，是因为她根本没有付钱。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 19.404,
+      "end": 28.884,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以先把 moral frame 放清楚：walk out of a shop without paying 是偷东西，是不诚实，也是不合法的。课文不是在夸她聪明。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 29.233,
+      "end": 39.661,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课里的"
+        },
+        {
+          "lang": "en",
+          "text": "detective"
+        },
+        {
+          "lang": "zh",
+          "text": "不是拿放大镜破案的 Sherlock Holmes，而更像商场里的 store detective，防损员，安保观察员。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 40.011,
+      "end": 50.907,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "assistant"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里是 shop assistant，售货员，店员；"
+        },
+        {
+          "lang": "en",
+          "text": "articles"
+        },
+        {
+          "lang": "zh",
+          "text": "是商店里的小商品，不是报纸杂志里的文章。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 51.257,
+      "end": 63.925,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "开头"
+        },
+        {
+          "lang": "en",
+          "text": "People are not so honest as they once were"
+        },
+        {
+          "lang": "zh",
+          "text": "，听起来像老派抱怨。我们不要理解成“现代人都不诚实”，只把它当作 narrator 引出这件 shoplifting story 的方式。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 64.274,
+      "end": 81.066,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的记忆链是：detective watches, woman enters, small articles, expensive dress, assistant wraps it, woman leaves without paying, arrested, assistant is daughter, and the word"
+        },
+        {
+          "lang": "en",
+          "text": "'gave'"
+        },
+        {
+          "lang": "zh",
+          "text": "has quotation marks."
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 81.416,
+      "end": 89.136,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一幅画，是一个大型商店的星期一上午。"
+        },
+        {
+          "lang": "en",
+          "text": "A detective recently watched a well-dressed woman."
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 89.486,
+      "end": 99.802,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "well-dressed"
+        },
+        {
+          "lang": "zh",
+          "text": "是穿着讲究。这个细节会制造反差：她看起来像普通顾客，甚至很体面，但 detective 已经在观察她。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 100.152,
+      "end": 110.816,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她不是偶然来一次。课文说她"
+        },
+        {
+          "lang": "en",
+          "text": "always went into a large store on Monday mornings"
+        },
+        {
+          "lang": "zh",
+          "text": "。always 和 Monday mornings 说明这是 repeated pattern。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 111.166,
+      "end": 120.613,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一天店里人少："
+        },
+        {
+          "lang": "en",
+          "text": "There were fewer people in the shop than usual."
+        },
+        {
+          "lang": "en",
+          "text": "fewer"
+        },
+        {
+          "lang": "zh",
+          "text": "是更少，修饰可数的人。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 120.963,
+      "end": 131.387,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "人少就带出下一句比较："
+        },
+        {
+          "lang": "en",
+          "text": "It was easier for the detective to watch her."
+        },
+        {
+          "lang": "zh",
+          "text": "fewer people makes watching easier。比较结构在帮故事往前走。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 131.737,
+      "end": 139.601,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二幅画，看起来还是 normal shopping。"
+        },
+        {
+          "lang": "en",
+          "text": "The woman first bought a few small articles."
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 139.951,
+      "end": 149.343,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "articles"
+        },
+        {
+          "lang": "zh",
+          "text": "这里就是 items for sale，小商品，小物件。她先买这些，是为了让自己看起来像普通顾客。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 149.692,
+      "end": 156.084,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "过了一会儿，动作变大了："
+        },
+        {
+          "lang": "en",
+          "text": "She chose one of the most expensive dresses in the shop."
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 156.434,
+      "end": 164.826,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "one of the most expensive dresses"
+        },
+        {
+          "lang": "zh",
+          "text": "是“最贵的裙子之一”。small articles 和 expensive dress 形成清楚对比。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 165.176,
+      "end": 173.336,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "画面里要记住 store path：entrance, small goods, dress rack。现在她已经从小商品走到了贵裙子。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 173.686,
+      "end": 182.058,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三幅画，关键人物出现："
+        },
+        {
+          "lang": "en",
+          "text": "She handed it to an assistant."
+        },
+        {
+          "lang": "zh",
+          "text": "这里的 assistant 是店员，不是办公室助理。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 182.408,
+      "end": 188.376,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "店员动作非常快："
+        },
+        {
+          "lang": "en",
+          "text": "The assistant wrapped it up for her as quickly as possible."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 188.725,
+      "end": 197.709,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "wrap up"
+        },
+        {
+          "lang": "zh",
+          "text": "是把东西包起来；"
+        },
+        {
+          "lang": "en",
+          "text": "as quickly as possible"
+        },
+        {
+          "lang": "zh",
+          "text": "是尽可能快。这个速度让事情显得不太正常。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 198.059,
+      "end": 204.571,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后最关键的一句来了："
+        },
+        {
+          "lang": "en",
+          "text": "The woman simply took the parcel and walked out of the shop without paying."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 204.921,
+      "end": 217.689,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "parcel"
+        },
+        {
+          "lang": "zh",
+          "text": "是包好的包裹；"
+        },
+        {
+          "lang": "en",
+          "text": "without paying"
+        },
+        {
+          "lang": "zh",
+          "text": "是没有付钱。不是忘记拿 receipt，不是 discount，也不是 free gift。她拿着商店的东西走了。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 218.038,
+      "end": 226.742,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四幅画是 reveal。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "When she was arrested, the detective found out that the shop assistant was her daughter."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 227.092,
+      "end": 236.828,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "was arrested"
+        },
+        {
+          "lang": "zh",
+          "text": "是被逮捕，被带走处理。我们不需要把画面做成警匪片，重点是 the truth was discovered。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 237.178,
+      "end": 242.138,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "真相是：那个飞快包裙子的 shop assistant，是这个女人的 daughter。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 242.488,
+      "end": 248.432,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一行有反讽："
+        },
+        {
+          "lang": "en",
+          "text": "The girl 'gave' her mother a free dress once a week!"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 248.782,
+      "end": 259.574,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么"
+        },
+        {
+          "lang": "en",
+          "text": "'gave'"
+        },
+        {
+          "lang": "zh",
+          "text": "要加引号？因为这不是一个真正的 gift。商店的裙子不是女儿自己的东西，她不能把它送给妈妈。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 259.923,
+      "end": 267.243,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以标题的反转是：shopping was made easy only because someone inside helped break the rule。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 267.593,
+      "end": 270.953,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "我们来把这课最容易误会的地方拆开。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 271.303,
+      "end": 276.788,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "题目说"
+        },
+        {
+          "lang": "en",
+          "text": "Shopping made easy"
+        },
+        {
+          "lang": "zh",
+          "text": "，是不是说买东西很方便？"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 277.138,
+      "end": 286.698,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "字面上是。但故事里是 irony。她让购物“方便”的方法，是不付钱就离开。所以这不是 tip，是 warning。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 287.048,
+      "end": 292.04,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "detective"
+        },
+        {
+          "lang": "zh",
+          "text": "是不是侦探小说里的侦探？"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 292.39,
+      "end": 299.19,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课更像 store detective，商场防损员。他在大商店里观察有没有人偷拿商品。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 299.54,
+      "end": 303.338,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "assistant"
+        },
+        {
+          "lang": "zh",
+          "text": "是店员，对吗？"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 303.688,
+      "end": 312.848,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。shop assistant 可以帮顾客拿衣服、包东西、指路，也可能收款。但她不能把商店的东西随便送给亲人。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 313.198,
+      "end": 317.195,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "article"
+        },
+        {
+          "lang": "zh",
+          "text": "我以前以为是文章。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 317.545,
+      "end": 328.673,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "很好，这里要换意思。在 shop 里，"
+        },
+        {
+          "lang": "en",
+          "text": "articles"
+        },
+        {
+          "lang": "zh",
+          "text": "是 items，商品。"
+        },
+        {
+          "lang": "en",
+          "text": "a few small articles"
+        },
+        {
+          "lang": "zh",
+          "text": "就是几样小商品。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 329.022,
+      "end": 333.594,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那最后的"
+        },
+        {
+          "lang": "en",
+          "text": "'gave'"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么有引号？"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 333.944,
+      "end": 343.344,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为 narrator 在提醒我们：这个 gave 不是真的 gave。A real gift is given by the owner. A shop assistant cannot give away the store's dress."
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 343.694,
+      "end": 355.734,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "背诵时别把它背成犯罪方法，要背成 observation chain：detective notices a repeated pattern, follows the shopping path, and discovers the hidden family arrangement."
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 356.084,
+      "end": 359.348,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "People are not so honest as they once were."
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 359.697,
+      "end": 364.449,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The temptation to steal is greater than ever before -- especially in large shops."
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 364.799,
+      "end": 370.751,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A detective recently watched a well-dressed woman who always went into a large store on Monday mornings."
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 371.101,
+      "end": 378.325,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "One Monday, there were fewer people in the shop than usual when the woman came in, so it was easier for the detective to watch her."
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 378.675,
+      "end": 382.083,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The woman first bought a few small articles."
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 382.433,
+      "end": 390.689,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "After a little time, she chose one of the most expensive dresses in the shop and handed it to an assistant who wrapped it up for her as quickly as possible."
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 391.039,
+      "end": 395.551,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Then the woman simply took the parcel and walked out of the shop without paying."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 395.901,
+      "end": 400.989,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When she was arrested, the detective found out that the shop assistant was her daughter."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 401.339,
+      "end": 405.059,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The girl 'gave' her mother a free dress once a week!"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 405.408,
+      "end": 408.288,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "temptation"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "temptation"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 408.638,
+      "end": 410.51,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "temptation"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "temptation"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 410.86,
+      "end": 424.82,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "temptation"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "temptation"
+        },
+        {
+          "lang": "zh",
+          "text": "是诱惑，尤其是想做一件不对、或者不明智的事的冲动。比如 temptation to steal, temptation to cheat, temptation to eat candy before dinner。"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 425.17,
+      "end": 436.566,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "temptation"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The temptation to steal is greater than ever before."
+        },
+        {
+          "lang": "zh",
+          "text": "narrator 用这个词引出大商店里偷东西的风险，但我们不把它讲成“大家都这样”。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 436.916,
+      "end": 439.548,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "article"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "article"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 439.897,
+      "end": 441.553,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "article"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "article"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 441.903,
+      "end": 454.207,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "article"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "article"
+        },
+        {
+          "lang": "zh",
+          "text": "最常见的意思可以是文章，但这课不是。这里"
+        },
+        {
+          "lang": "en",
+          "text": "articles"
+        },
+        {
+          "lang": "zh",
+          "text": "是商店里的物品，商品，items for sale。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 454.557,
+      "end": 462.521,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "article"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The woman first bought a few small articles."
+        },
+        {
+          "lang": "zh",
+          "text": "她先买几样小东西，让自己看起来像 normal shopper。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 462.871,
+      "end": 465.671,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "arrest"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "arrest"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 466.02,
+      "end": 467.628,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "arrest"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "arrest"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 467.978,
+      "end": 476.722,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "arrest"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "arrest"
+        },
+        {
+          "lang": "zh",
+          "text": "是逮捕，或者因为可能违法而被带走处理。课文用的是被动："
+        },
+        {
+          "lang": "en",
+          "text": "When she was arrested"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 477.072,
+      "end": 488.996,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "arrest"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "When she was arrested, the detective found out the truth."
+        },
+        {
+          "lang": "zh",
+          "text": "注意我们不强调吓人的画面，只强调 consequence：rule-breaking was discovered。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 489.346,
+      "end": 492.906,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 用一架 comparison ladder 串起来。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 493.256,
+      "end": 504.135,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一格："
+        },
+        {
+          "lang": "en",
+          "text": "not so honest as they once were"
+        },
+        {
+          "lang": "zh",
+          "text": "。这是把 narrator 眼里的现在和过去作比较，意思是“不像以前那样诚实”。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 504.485,
+      "end": 512.301,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二格："
+        },
+        {
+          "lang": "en",
+          "text": "greater than ever before"
+        },
+        {
+          "lang": "zh",
+          "text": "。这里 greater than 表示偷东西的诱惑比以前更大。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 512.651,
+      "end": 522.011,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三格："
+        },
+        {
+          "lang": "en",
+          "text": "fewer people in the shop than usual"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "fewer"
+        },
+        {
+          "lang": "zh",
+          "text": "修饰 people，因为 people 可以数。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 522.361,
+      "end": 530.744,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四格："
+        },
+        {
+          "lang": "en",
+          "text": "easier for the detective to watch her"
+        },
+        {
+          "lang": "zh",
+          "text": "。人更少，所以更容易观察她。cause and effect 很清楚。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 531.094,
+      "end": 540.126,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第五格："
+        },
+        {
+          "lang": "en",
+          "text": "one of the most expensive dresses"
+        },
+        {
+          "lang": "zh",
+          "text": "。one of the most 表示“最……之一”，不是随便一件普通裙子。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 540.476,
+      "end": 549.284,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第六格："
+        },
+        {
+          "lang": "en",
+          "text": "as quickly as possible"
+        },
+        {
+          "lang": "zh",
+          "text": "。as quickly as possible 就是 as fast as she can，尽可能快。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 549.634,
+      "end": 557.858,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有一个被动："
+        },
+        {
+          "lang": "en",
+          "text": "When she was arrested"
+        },
+        {
+          "lang": "zh",
+          "text": "。句子重点放在“她发生了什么”，不是把 arrest 的人放在前面。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 558.207,
+      "end": 570.039,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一块是 punctuation with meaning："
+        },
+        {
+          "lang": "en",
+          "text": "'gave'"
+        },
+        {
+          "lang": "zh",
+          "text": "的引号告诉我们，这个词不能按真实礼物理解。It was not a gift. It was theft helped from inside the store."
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 570.389,
+      "end": 579.069,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进今天的购物场景。你和朋友在一家大商店里，朋友说：“直接拿走吧，反正没人发现。”"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 579.419,
+      "end": 587.579,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你要练三件事：refuse the dishonest suggestion, explain the rule, and guide the person to the checkout。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 587.929,
+      "end": 591.785,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以这样说："
+        },
+        {
+          "lang": "en",
+          "text": "We can't take it without paying."
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 592.135,
+      "end": 599.015,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再说清楚："
+        },
+        {
+          "lang": "en",
+          "text": "It is not a free gift."
+        },
+        {
+          "lang": "zh",
+          "text": "A real free gift must come from the store or the owner."
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 599.364,
+      "end": 603.276,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后给行动："
+        },
+        {
+          "lang": "en",
+          "text": "Let's go to the checkout first."
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 603.626,
+      "end": 610.01,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果想说完整一点，可以用这一句："
+        },
+        {
+          "lang": "en",
+          "text": "The shop owns it, so we must pay for it first."
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 610.36,
+      "end": 618.32,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这题的重点不是吓人，而是把 trust 说清楚：shopping works because people pay before they leave."
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 618.67,
+      "end": 644.177,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "not so honest as they once were"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "greater than ever before"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "fewer people than usual"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "one of the most expensive dresses"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "as quickly as possible"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "without paying"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 644.527,
+      "end": 666.799,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习 honest checkout；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的反讽：the dress was not free, and the word"
+        },
+        {
+          "lang": "en",
+          "text": "'gave'"
+        },
+        {
+          "lang": "zh",
+          "text": "tells us the truth."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 32
+}

@@ -1,0 +1,106 @@
+{
+  "lesson_id": 32,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“比较结构 -> 商店侦探观察 -> 包好裙子 -> 没付钱离开 -> 女儿反转”的侦探链读顺。",
+  "sentences": [
+    {
+      "id": "l32_s1",
+      "text": "People are not so honest as they once were.",
+      "focus_zh": "not so... as 是比较结构；once were 要读成“以前是那样”的回看。",
+      "start": 356.084,
+      "end": 359.348,
+      "focus_words": [
+        "not so honest as",
+        "once were"
+      ]
+    },
+    {
+      "id": "l32_s2",
+      "text": "The temptation to steal is greater than ever before -- especially in large shops.",
+      "focus_zh": "temptation to steal 连成“偷东西的诱惑”；greater than ever before 要分组读清楚。",
+      "start": 359.697,
+      "end": 364.449,
+      "focus_words": [
+        "temptation to steal",
+        "greater than",
+        "ever before",
+        "large shops"
+      ]
+    },
+    {
+      "id": "l32_s3",
+      "text": "A detective recently watched a well-dressed woman who always went into a large store on Monday mornings.",
+      "focus_zh": "detective recently watched 先交代观察；well-dressed woman 和 Monday mornings 是人物与重复时间。",
+      "start": 364.799,
+      "end": 370.751,
+      "focus_words": [
+        "detective",
+        "recently watched",
+        "well-dressed woman",
+        "Monday mornings"
+      ]
+    },
+    {
+      "id": "l32_s4",
+      "text": "One Monday, there were fewer people in the shop than usual when the woman came in, so it was easier for the detective to watch her.",
+      "focus_zh": "fewer people than usual 和 easier for the detective 是因果；so 前后要有自然停顿。",
+      "start": 371.101,
+      "end": 378.325,
+      "focus_words": [
+        "fewer people",
+        "than usual",
+        "easier for",
+        "watch her"
+      ]
+    },
+    {
+      "id": "l32_s5",
+      "text": "The woman first bought a few small articles.",
+      "focus_zh": "first bought 引出正常购物假象；small articles 在这里是小商品，不是文章。",
+      "start": 378.675,
+      "end": 382.083,
+      "focus_words": [
+        "first bought",
+        "small articles"
+      ]
+    },
+    {
+      "id": "l32_s6",
+      "text": "After a little time, she chose one of the most expensive dresses in the shop and handed it to an assistant who wrapped it up for her as quickly as possible.",
+      "focus_zh": "长句要分块：After a little time；one of the most expensive dresses；assistant wrapped it up；as quickly as possible。",
+      "start": 382.433,
+      "end": 390.689,
+      "focus_words": [
+        "After a little time",
+        "one of the most expensive dresses",
+        "handed it to",
+        "as quickly as possible"
+      ]
+    },
+    {
+      "id": "l32_s7",
+      "text": "Then the woman simply took the parcel and walked out of the shop without paying.",
+      "focus_zh": "simply took the parcel 要读出“不做别的事”；without paying 是全句的关键。",
+      "start": 391.039,
+      "end": 395.551,
+      "focus_words": [
+        "simply took",
+        "parcel",
+        "walked out",
+        "without paying"
+      ]
+    },
+    {
+      "id": "l32_s8",
+      "text": "The girl 'gave' her mother a free dress once a week!",
+      "focus_zh": "gave 的引号有反讽；once a week 要收成最后的真相。",
+      "start": 401.339,
+      "end": 405.059,
+      "focus_words": [
+        "'gave'",
+        "free dress",
+        "once a week"
+      ]
+    }
+  ]
+}
