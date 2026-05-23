@@ -1,5 +1,5 @@
 {
-  "total_duration": 527.076,
+  "total_duration": 514.041,
   "lines": [
     {
       "i": 0,
@@ -604,7 +604,7 @@
     {
       "i": 30,
       "start": 296.046,
-      "end": 298.733,
+      "end": 298.734,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -825,7 +825,7 @@
     },
     {
       "i": 40,
-      "start": 370.711,
+      "start": 370.712,
       "end": 384.723,
       "speaker": "A",
       "scene": "grammar",
@@ -961,8 +961,8 @@
     },
     {
       "i": 44,
-      "start": 438.369,
-      "end": 455.929,
+      "start": 438.37,
+      "end": 455.93,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -976,33 +976,25 @@
     {
       "i": 45,
       "start": 456.279,
-      "end": 482.779,
+      "end": 469.743,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "关键句型是："
+          "text": "关键句型可以先听一个完整例子："
         },
         {
           "lang": "en",
-          "text": "I felt very nervous when ___ . I thought ___ . Then ___ smiled and told me ___ ."
-        },
-        {
-          "lang": "zh",
-          "text": "比如："
-        },
-        {
-          "lang": "en",
-          "text": "I felt very nervous when my teacher asked me to stay after class. I thought I was in trouble. Then she smiled and told me I had done very well."
+          "text": "I felt very nervous when my teacher asked me to stay after class. I thought my turn had come. Then she smiled and told me it was good news."
         }
       ]
     },
     {
       "i": 46,
-      "start": 483.129,
-      "end": 527.076,
+      "start": 470.093,
+      "end": 514.041,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},

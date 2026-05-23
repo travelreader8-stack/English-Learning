@@ -1,10 +1,10 @@
 {
-  "total_duration": 531.419,
+  "total_duration": 523.295,
   "lines": [
     {
       "i": 0,
       "start": 0.0,
-      "end": 9.64,
+      "end": 9.52,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
@@ -17,8 +17,8 @@
     },
     {
       "i": 1,
-      "start": 9.99,
-      "end": 26.062,
+      "start": 9.87,
+      "end": 25.942,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
@@ -39,8 +39,8 @@
     },
     {
       "i": 2,
-      "start": 26.412,
-      "end": 46.731,
+      "start": 26.292,
+      "end": 46.611,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
@@ -69,8 +69,8 @@
     },
     {
       "i": 3,
-      "start": 47.081,
-      "end": 65.481,
+      "start": 46.961,
+      "end": 65.361,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
@@ -83,8 +83,8 @@
     },
     {
       "i": 4,
-      "start": 65.831,
-      "end": 82.543,
+      "start": 65.711,
+      "end": 82.423,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
@@ -105,8 +105,8 @@
     },
     {
       "i": 5,
-      "start": 82.893,
-      "end": 107.86,
+      "start": 82.773,
+      "end": 107.74,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -145,8 +145,8 @@
     },
     {
       "i": 6,
-      "start": 108.21,
-      "end": 130.266,
+      "start": 108.09,
+      "end": 130.146,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -181,8 +181,8 @@
     },
     {
       "i": 7,
-      "start": 130.616,
-      "end": 150.111,
+      "start": 130.496,
+      "end": 149.991,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -205,8 +205,8 @@
     },
     {
       "i": 8,
-      "start": 150.461,
-      "end": 166.501,
+      "start": 150.341,
+      "end": 166.181,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -241,8 +241,8 @@
     },
     {
       "i": 9,
-      "start": 166.851,
-      "end": 181.65,
+      "start": 166.531,
+      "end": 181.25,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -273,8 +273,8 @@
     },
     {
       "i": 10,
-      "start": 182.0,
-      "end": 198.552,
+      "start": 181.6,
+      "end": 197.572,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -305,8 +305,8 @@
     },
     {
       "i": 11,
-      "start": 198.902,
-      "end": 202.262,
+      "start": 197.922,
+      "end": 201.282,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -319,8 +319,8 @@
     },
     {
       "i": 12,
-      "start": 202.612,
-      "end": 209.36,
+      "start": 201.632,
+      "end": 208.38,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -333,8 +333,8 @@
     },
     {
       "i": 13,
-      "start": 209.71,
-      "end": 221.75,
+      "start": 208.73,
+      "end": 220.77,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -347,8 +347,8 @@
     },
     {
       "i": 14,
-      "start": 222.1,
-      "end": 224.814,
+      "start": 221.12,
+      "end": 223.834,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -361,8 +361,8 @@
     },
     {
       "i": 15,
-      "start": 225.164,
-      "end": 238.804,
+      "start": 224.184,
+      "end": 237.824,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -375,8 +375,8 @@
     },
     {
       "i": 16,
-      "start": 239.154,
-      "end": 243.224,
+      "start": 238.174,
+      "end": 242.244,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -393,8 +393,8 @@
     },
     {
       "i": 17,
-      "start": 243.574,
-      "end": 254.966,
+      "start": 242.594,
+      "end": 253.986,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -415,8 +415,8 @@
     },
     {
       "i": 18,
-      "start": 255.316,
-      "end": 260.643,
+      "start": 254.336,
+      "end": 259.663,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -437,8 +437,8 @@
     },
     {
       "i": 19,
-      "start": 260.993,
-      "end": 274.425,
+      "start": 260.013,
+      "end": 273.445,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -455,8 +455,8 @@
     },
     {
       "i": 20,
-      "start": 274.775,
-      "end": 277.991,
+      "start": 273.795,
+      "end": 277.011,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -469,8 +469,8 @@
     },
     {
       "i": 21,
-      "start": 278.341,
-      "end": 283.477,
+      "start": 277.361,
+      "end": 282.497,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -483,8 +483,8 @@
     },
     {
       "i": 22,
-      "start": 283.827,
-      "end": 286.923,
+      "start": 282.847,
+      "end": 285.943,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -497,8 +497,8 @@
     },
     {
       "i": 23,
-      "start": 287.273,
-      "end": 290.081,
+      "start": 286.293,
+      "end": 289.101,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -511,8 +511,8 @@
     },
     {
       "i": 24,
-      "start": 290.431,
-      "end": 296.479,
+      "start": 289.451,
+      "end": 295.499,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -525,8 +525,8 @@
     },
     {
       "i": 25,
-      "start": 296.828,
-      "end": 300.86,
+      "start": 295.848,
+      "end": 299.88,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -539,8 +539,8 @@
     },
     {
       "i": 26,
-      "start": 301.21,
-      "end": 304.018,
+      "start": 300.23,
+      "end": 303.038,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -553,8 +553,8 @@
     },
     {
       "i": 27,
-      "start": 304.368,
-      "end": 310.296,
+      "start": 303.388,
+      "end": 309.316,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -567,8 +567,8 @@
     },
     {
       "i": 28,
-      "start": 310.646,
-      "end": 314.222,
+      "start": 309.666,
+      "end": 313.242,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -581,8 +581,8 @@
     },
     {
       "i": 29,
-      "start": 314.572,
-      "end": 317.548,
+      "start": 313.592,
+      "end": 316.568,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -605,8 +605,8 @@
     },
     {
       "i": 30,
-      "start": 317.898,
-      "end": 319.842,
+      "start": 316.918,
+      "end": 318.862,
       "speaker": "B",
       "scene": "vocab",
       "scene_meta": {
@@ -625,8 +625,8 @@
     },
     {
       "i": 31,
-      "start": 320.192,
-      "end": 338.879,
+      "start": 319.212,
+      "end": 337.899,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -653,8 +653,8 @@
     },
     {
       "i": 32,
-      "start": 339.229,
-      "end": 341.861,
+      "start": 338.249,
+      "end": 340.881,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -677,8 +677,8 @@
     },
     {
       "i": 33,
-      "start": 342.211,
-      "end": 343.699,
+      "start": 341.231,
+      "end": 342.719,
       "speaker": "B",
       "scene": "vocab",
       "scene_meta": {
@@ -697,8 +697,8 @@
     },
     {
       "i": 34,
-      "start": 344.049,
-      "end": 360.273,
+      "start": 343.069,
+      "end": 359.293,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -725,8 +725,8 @@
     },
     {
       "i": 35,
-      "start": 360.622,
-      "end": 363.59,
+      "start": 359.643,
+      "end": 362.61,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -749,8 +749,8 @@
     },
     {
       "i": 36,
-      "start": 363.94,
-      "end": 365.596,
+      "start": 362.96,
+      "end": 364.616,
       "speaker": "B",
       "scene": "vocab",
       "scene_meta": {
@@ -769,8 +769,8 @@
     },
     {
       "i": 37,
-      "start": 365.946,
-      "end": 381.834,
+      "start": 364.966,
+      "end": 380.854,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -797,8 +797,8 @@
     },
     {
       "i": 38,
-      "start": 382.184,
-      "end": 389.848,
+      "start": 381.204,
+      "end": 388.868,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -819,8 +819,8 @@
     },
     {
       "i": 39,
-      "start": 390.198,
-      "end": 403.905,
+      "start": 389.218,
+      "end": 402.925,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -845,8 +845,8 @@
     },
     {
       "i": 40,
-      "start": 404.255,
-      "end": 416.263,
+      "start": 403.275,
+      "end": 415.283,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -875,8 +875,8 @@
     },
     {
       "i": 41,
-      "start": 416.613,
-      "end": 431.008,
+      "start": 415.633,
+      "end": 430.029,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -897,8 +897,8 @@
     },
     {
       "i": 42,
-      "start": 431.358,
-      "end": 445.894,
+      "start": 430.378,
+      "end": 444.914,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -923,8 +923,8 @@
     },
     {
       "i": 43,
-      "start": 446.244,
-      "end": 461.684,
+      "start": 445.264,
+      "end": 460.704,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -937,19 +937,19 @@
     },
     {
       "i": 44,
-      "start": 462.034,
-      "end": 489.842,
+      "start": 461.054,
+      "end": 481.718,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "关键句型是："
+          "text": "关键句型可以先听一个完整例子："
         },
         {
           "lang": "en",
-          "text": "I thought ___ could only speak ___. So I said ___ in ___. Later, ___ asked me, \"Do you speak ___?\""
+          "text": "I thought the tourist could only speak French. So I said hello in French. Later, he asked me, \"Do you speak English?\""
         },
         {
           "lang": "zh",
@@ -959,8 +959,8 @@
     },
     {
       "i": 45,
-      "start": 490.192,
-      "end": 531.419,
+      "start": 482.068,
+      "end": 523.295,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},

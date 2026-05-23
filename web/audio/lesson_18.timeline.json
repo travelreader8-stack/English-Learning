@@ -1,5 +1,5 @@
 {
-  "total_duration": 695.809,
+  "total_duration": 688.017,
   "lines": [
     {
       "i": 0,
@@ -1111,7 +1111,7 @@
     },
     {
       "i": 44,
-      "start": 405.079,
+      "start": 405.08,
       "end": 420.655,
       "speaker": "A",
       "scene": "vocab",
@@ -1496,7 +1496,7 @@
     {
       "i": 55,
       "start": 513.424,
-      "end": 529.36,
+      "end": 529.24,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1541,8 +1541,8 @@
     },
     {
       "i": 56,
-      "start": 529.71,
-      "end": 542.629,
+      "start": 529.59,
+      "end": 542.509,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1575,8 +1575,8 @@
     },
     {
       "i": 57,
-      "start": 542.979,
-      "end": 557.215,
+      "start": 542.859,
+      "end": 557.095,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1617,8 +1617,8 @@
     },
     {
       "i": 58,
-      "start": 557.564,
-      "end": 575.688,
+      "start": 557.444,
+      "end": 575.568,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1659,8 +1659,8 @@
     },
     {
       "i": 59,
-      "start": 576.038,
-      "end": 586.51,
+      "start": 575.918,
+      "end": 586.39,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1689,8 +1689,8 @@
     },
     {
       "i": 60,
-      "start": 586.859,
-      "end": 604.223,
+      "start": 586.74,
+      "end": 604.103,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1743,26 +1743,26 @@
     },
     {
       "i": 61,
-      "start": 604.573,
-      "end": 633.765,
+      "start": 604.453,
+      "end": 625.973,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "关键不是编一个危险故事，而是说清楚顺序："
+          "text": "关键不是编一个危险故事，而是说清楚顺序。先听一个完整例子："
         },
         {
           "lang": "en",
-          "text": "I had left my ___ beside ___. Then I couldn't find it. I couldn't pay / go / leave because I hadn't got it. Later, ___ gave it back to me. A dog / little brother / friend had taken it to ___. He often does this!"
+          "text": "I had left my schoolbag beside the door. Then I couldn't find it, so I couldn't go to class. Later, my little brother gave it back to me. He had taken it to the sofa. He often does this!"
         }
       ]
     },
     {
       "i": 62,
-      "start": 634.115,
-      "end": 644.01,
+      "start": 626.323,
+      "end": 636.218,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1783,8 +1783,8 @@
     },
     {
       "i": 63,
-      "start": 644.36,
-      "end": 669.148,
+      "start": 636.568,
+      "end": 661.356,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
@@ -1845,8 +1845,8 @@
     },
     {
       "i": 64,
-      "start": 669.497,
-      "end": 695.809,
+      "start": 661.706,
+      "end": 688.017,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},

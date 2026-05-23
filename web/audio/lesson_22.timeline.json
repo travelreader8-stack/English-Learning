@@ -1,5 +1,5 @@
 {
-  "total_duration": 646.088,
+  "total_duration": 636.888,
   "lines": [
     {
       "i": 0,
@@ -571,7 +571,7 @@
     },
     {
       "i": 23,
-      "start": 264.491,
+      "start": 264.492,
       "end": 267.679,
       "speaker": "B",
       "scene": "discuss",
@@ -733,8 +733,8 @@
     },
     {
       "i": 34,
-      "start": 331.308,
-      "end": 335.004,
+      "start": 331.309,
+      "end": 335.005,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -834,7 +834,7 @@
     {
       "i": 39,
       "start": 357.042,
-      "end": 366.233,
+      "end": 366.234,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -917,8 +917,8 @@
     },
     {
       "i": 42,
-      "start": 381.214,
-      "end": 382.822,
+      "start": 381.215,
+      "end": 382.823,
       "speaker": "B",
       "scene": "vocab",
       "scene_meta": {
@@ -1013,7 +1013,7 @@
     },
     {
       "i": 46,
-      "start": 411.005,
+      "start": 411.006,
       "end": 414.021,
       "speaker": "A",
       "scene": "vocab",
@@ -1316,25 +1316,21 @@
     {
       "i": 58,
       "start": 536.854,
-      "end": 555.094,
+      "end": 545.894,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "今天的小框架是："
-        },
-        {
-          "lang": "en",
-          "text": "I never dreamed of receiving a message from ___. He or she is of my own age. Now we write to each other regularly. ___ costs a little more, but it travels faster."
+          "text": "今天的小框架是：先说你没想到会收到谁的消息，再说对方和你差不多大，然后说明你们现在怎样稳定联系。"
         }
       ]
     },
     {
       "i": 59,
-      "start": 555.443,
-      "end": 569.799,
+      "start": 546.244,
+      "end": 560.599,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1351,8 +1347,8 @@
     },
     {
       "i": 60,
-      "start": 570.149,
-      "end": 578.085,
+      "start": 560.949,
+      "end": 568.885,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1369,8 +1365,8 @@
     },
     {
       "i": 61,
-      "start": 578.435,
-      "end": 591.811,
+      "start": 569.235,
+      "end": 582.611,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1391,8 +1387,8 @@
     },
     {
       "i": 62,
-      "start": 592.161,
-      "end": 613.604,
+      "start": 582.961,
+      "end": 604.404,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
@@ -1445,8 +1441,8 @@
     },
     {
       "i": 63,
-      "start": 613.954,
-      "end": 629.994,
+      "start": 604.754,
+      "end": 620.794,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
@@ -1459,8 +1455,8 @@
     },
     {
       "i": 64,
-      "start": 630.344,
-      "end": 646.088,
+      "start": 621.144,
+      "end": 636.888,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},

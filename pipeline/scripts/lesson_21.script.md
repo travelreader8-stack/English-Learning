@@ -88,7 +88,7 @@ A: 所以这篇的被动不是为了复杂，而是为了讲清楚一件事：[E
 
 ## SCENE: you_too
 A: 好，把今天的故事放进自己的生活。你不一定要写机场，可以写外面的施工声、楼上的脚步声、反复出现的作业、练习、排队，或者一个让你很烦但你还想坚持的项目。
-A: 今天的小框架是：[EN]The ___ is driving me mad. I have been offered ___. But I am determined to ___. [/EN]
+A: 今天的小框架是：先说什么让你受不了，再说别人给了你什么选择，最后说你还是决定怎么做。
 A: 比如：[EN]The construction noise is driving me mad. I have been offered a quieter room. But I am determined to finish my homework.[/EN]
 A: 也可以轻一点：[EN]This homework is driving me mad, but I am determined to finish it.[/EN]
 A: 下面练习里，用 [EN]word bank[/EN] 填三个空，说清楚“什么让你受不了，别人给了你什么选择，你最后决定怎么做”。

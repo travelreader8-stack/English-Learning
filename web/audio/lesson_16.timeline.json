@@ -1,5 +1,5 @@
 {
-  "total_duration": 493.264,
+  "total_duration": 489.58,
   "lines": [
     {
       "i": 0,
@@ -950,18 +950,18 @@
     {
       "i": 47,
       "start": 425.726,
-      "end": 450.798,
+      "end": 447.114,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "关键模板是："
+          "text": "关键模板可以先听一个完整例子："
         },
         {
           "lang": "en",
-          "text": "Welcome to ___. This is a ___ area. You will ___ if you pay attention to ___. This note is only a reminder."
+          "text": "Welcome to our library. This is a quiet area. You will enjoy your reading if you pay attention to the signs. This note is only a reminder."
         },
         {
           "lang": "zh",
@@ -971,8 +971,8 @@
     },
     {
       "i": 48,
-      "start": 451.148,
-      "end": 493.264,
+      "start": 447.464,
+      "end": 489.58,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},

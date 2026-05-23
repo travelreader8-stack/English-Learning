@@ -68,7 +68,7 @@ A: 这三个 [EN]had done[/EN] 像三个“before that”小旗子：had left，
 
 ## SCENE: you_too
 A: 好，把今天的“语言误判”放进你自己的生活。下面三个场景都要填，word bank 里选短语。你可以写机场、酒店、餐厅、学校活动、线上游戏，或者遇到外国游客时的小误会。
-A: 关键句型是：[EN]I thought ___ could only speak ___. So I said ___ in ___. Later, ___ asked me, "Do you speak ___?"[/EN] 不需要真的去过外国，只要写一个轻松的小场景：一开始猜错语言，最后一个问题解开误会。
+A: 关键句型可以先听一个完整例子：[EN]I thought the tourist could only speak French. So I said hello in French. Later, he asked me, "Do you speak English?"[/EN] 不需要真的去过外国，只要写一个轻松的小场景：一开始猜错语言，最后一个问题解开误会。
 
 ## SCENE: outro
 A: 这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把 [EN]amusing experience[/EN]、[EN]asked me for a lift[/EN]、[EN]replied in the same language[/EN]、[EN]Neither of us spoke[/EN] 和 [EN]Do you speak English?[/EN] 读顺。读完以后，再做 ① 生活场景，写一个语言误判的小场景；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。加油，遇到不确定的语言场景，记得礼貌地问清楚！
