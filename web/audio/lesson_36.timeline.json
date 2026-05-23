@@ -1,0 +1,1710 @@
+{
+  "total_duration": 733.804,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 12.176,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Across the Channel"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“横渡海峡”。先别把"
+        },
+        {
+          "lang": "en",
+          "text": "Channel"
+        },
+        {
+          "lang": "zh",
+          "text": "想成电视台、视频频道或者 app 频道。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 12.526,
+      "end": 29.117,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "the English Channel"
+        },
+        {
+          "lang": "zh",
+          "text": "是英吉利海峡，也就是 France 和 England 中间的一片海。Debbie 要做的事情，是从"
+        },
+        {
+          "lang": "en",
+          "text": "the French coast"
+        },
+        {
+          "lang": "zh",
+          "text": "出发，横渡这片海，到"
+        },
+        {
+          "lang": "en",
+          "text": "the English coast"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 29.467,
+      "end": 41.683,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以先在脑子里画一张很简单的地图：左边是 France，右边是 England，中间是"
+        },
+        {
+          "lang": "en",
+          "text": "the English Channel"
+        },
+        {
+          "lang": "zh",
+          "text": "，箭头是"
+        },
+        {
+          "lang": "en",
+          "text": "France to England"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 42.033,
+      "end": 50.353,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Debbie Hart 只有 eleven years old。明天早上 five o'clock，她准备开始这次 long-distance open-water swim。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 50.702,
+      "end": 63.622,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但是这课不是“一个孩子突然热血冒险”。它更像一份认真计划：years of training，father in a small boat，short rests every two hours，friends waiting on the English coast。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 63.972,
+      "end": 80.212,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现实里，公开水域长距离游泳需要 professional training，adult support，support boat，weather judgment，还有完整安全计划。我们欣赏 Debbie 的目标感，但不能把它当成普通孩子可以自己模仿的挑战。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 80.562,
+      "end": 100.442,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "整课记忆链是：Channel -> French coast -> five a.m. -> eleven -> world record -> strong swimmer -> father boat -> trained for years -> anxious watch -> rests, drink, no solid food -> friends wait -> mother swam it too。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 100.792,
+      "end": 107.968,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一幅画，是路线和出发时间。"
+        },
+        {
+          "lang": "en",
+          "text": "Debbie Hart is going to swim across the English Channel tomorrow."
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 108.318,
+      "end": 121.358,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "across"
+        },
+        {
+          "lang": "zh",
+          "text": "是 from one side to the other，从一边到另一边。这里就是从 France 这一边，游过"
+        },
+        {
+          "lang": "en",
+          "text": "the English Channel"
+        },
+        {
+          "lang": "zh",
+          "text": "，到 England 那一边。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 121.708,
+      "end": 127.579,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文接着说："
+        },
+        {
+          "lang": "en",
+          "text": "She is going to set out from the French coast at five o'clock in the morning."
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 127.929,
+      "end": 139.233,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "set out"
+        },
+        {
+          "lang": "zh",
+          "text": "是 start a journey，出发。"
+        },
+        {
+          "lang": "en",
+          "text": "the French coast"
+        },
+        {
+          "lang": "zh",
+          "text": "是法国海岸，不是法国城市中心，而是靠海的边缘。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 139.583,
+      "end": 152.703,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以第一幅画要像一张儿童能看懂的小地图：French coast 在一边，English coast 在另一边，中间是一条蓝色海峡路线，Debbie 准备在清晨五点出发。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 153.053,
+      "end": 161.141,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二幅画，是目标和训练。"
+        },
+        {
+          "lang": "en",
+          "text": "Debbie is only eleven years old and she hopes to set up a new world record."
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 161.491,
+      "end": 170.242,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "record"
+        },
+        {
+          "lang": "zh",
+          "text": "是 world record，世界纪录，不是 recording audio，也不是 video record。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 170.592,
+      "end": 176.284,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "She is a strong swimmer and many people feel that she is sure to succeed."
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 176.634,
+      "end": 184.554,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "sure to succeed"
+        },
+        {
+          "lang": "zh",
+          "text": "的意思是 very likely to succeed，大家觉得她很可能成功。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 184.904,
+      "end": 193.448,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但这份信心不是从天上掉下来的。后面有一个关键原因："
+        },
+        {
+          "lang": "en",
+          "text": "Mr. Hart has trained his daughter for years."
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 193.798,
+      "end": 205.382,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "train"
+        },
+        {
+          "lang": "zh",
+          "text": "是训练、指导、练习，不是火车。Debbie 是 child with a big goal，但背后有 years of training。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 205.731,
+      "end": 211.915,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三幅画，是支持计划。"
+        },
+        {
+          "lang": "en",
+          "text": "Debbie's father will set out with her in a small boat."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 212.265,
+      "end": 222.665,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "父亲不是在岸上随便看热闹。他会坐 small support boat 跟着 Debbie，因为 open water 有 distance，cold water，waves，weather 和 boats。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 223.015,
+      "end": 229.427,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Tomorrow he will be watching her anxiously as she swims the long distance to England."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 229.777,
+      "end": 237.721,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "anxiously"
+        },
+        {
+          "lang": "zh",
+          "text": "不是不相信她，而是 care plus worry：他支持她，也担心她的安全。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 238.071,
+      "end": 243.871,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Debbie 自己也有计划："
+        },
+        {
+          "lang": "en",
+          "text": "Debbie intends to take short rests every two hours."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 244.22,
+      "end": 253.452,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She will have something to drink but she will not eat any solid food."
+        },
+        {
+          "lang": "zh",
+          "text": "这说明她不是乱游，她知道怎么分配体力、休息和补水。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 253.802,
+      "end": 262.29,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四幅画，是终点和家庭故事。"
+        },
+        {
+          "lang": "en",
+          "text": "Most of Debbie's school friends will be waiting for her on the English coast."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 262.64,
+      "end": 271.736,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "will be waiting"
+        },
+        {
+          "lang": "zh",
+          "text": "让我们想象：Debbie 还在海里游的时候，同学们已经在英国海岸一直等着她。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 272.086,
+      "end": 279.094,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一句很暖："
+        },
+        {
+          "lang": "en",
+          "text": "Among them will be Debbie's mother, who swam the Channel herself when she was a girl."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 279.444,
+      "end": 290.132,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Among them will be Debbie's mother"
+        },
+        {
+          "lang": "zh",
+          "text": "是一种比较正式的倒装句，意思是 her mother will be among them，她妈妈也在那群等待的人里面。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 290.481,
+      "end": 304.081,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结尾不是笑点，而是 family tradition：Debbie 的妈妈小时候也横渡过海峡。这个挑战很大，但它不是突然冒险，而是训练、支持和家庭传承连在一起。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 304.431,
+      "end": 309.951,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "我们先确认一个地理问题："
+        },
+        {
+          "lang": "en",
+          "text": "the English Channel"
+        },
+        {
+          "lang": "zh",
+          "text": "到底是什么？"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 310.301,
+      "end": 313.214,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "是一个电视台或者视频频道吗？"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 313.564,
+      "end": 321.467,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。这里的"
+        },
+        {
+          "lang": "en",
+          "text": "Channel"
+        },
+        {
+          "lang": "zh",
+          "text": "是海峡，英吉利海峡，在 England 和 France 中间。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 321.817,
+      "end": 330.357,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "the French coast"
+        },
+        {
+          "lang": "zh",
+          "text": "到"
+        },
+        {
+          "lang": "en",
+          "text": "the English coast"
+        },
+        {
+          "lang": "zh",
+          "text": "，就是从法国海岸到英国海岸？"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 330.707,
+      "end": 336.187,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。这个"
+        },
+        {
+          "lang": "en",
+          "text": "across"
+        },
+        {
+          "lang": "zh",
+          "text": "就是从一边到另一边。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 336.537,
+      "end": 340.043,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Debbie 只有 eleven years old，这会不会太危险？"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 340.393,
+      "end": 351.273,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以课文特别写了 support plan。她是 strong swimmer，父亲 has trained her for years，而且 father will set out with her in a small boat。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 351.623,
+      "end": 355.953,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "anxiously"
+        },
+        {
+          "lang": "zh",
+          "text": "是不是说明爸爸很害怕？"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 356.303,
+      "end": 364.783,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "更准确地说，是又支持又担心。父母有时候就是这样：they believe in you, but they still watch carefully。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 365.133,
+      "end": 368.794,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后妈妈也在岸边，这个细节为什么重要？"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 369.144,
+      "end": 381.344,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为她小时候也 swam the Channel herself。结尾让这件事从 world record 变成 family story：big goal, years of training, support team, and people waiting for you。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 381.694,
+      "end": 385.894,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Debbie Hart is going to swim across the English Channel tomorrow."
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 386.244,
+      "end": 390.66,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She is going to set out from the French coast at five o'clock in the morning."
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 391.009,
+      "end": 395.617,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Debbie is only eleven years old and she hopes to set up a new world record."
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 395.967,
+      "end": 400.599,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She is a strong swimmer and many people feel that she is sure to succeed."
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 400.949,
+      "end": 404.501,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Debbie's father will set out with her in a small boat."
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 404.851,
+      "end": 408.115,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Mr. Hart has trained his daughter for years."
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 408.465,
+      "end": 413.505,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Tomorrow he will be watching her anxiously as she swims the long distance to England."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 413.855,
+      "end": 417.551,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Debbie intends to take short rests every two hours."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 417.901,
+      "end": 422.077,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She will have something to drink but she will not eat any solid food."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 422.427,
+      "end": 427.011,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Most of Debbie's school friends will be waiting for her on the English coast."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 427.36,
+      "end": 432.424,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Among them will be Debbie's mother, who swam the Channel herself when she was a girl."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 432.774,
+      "end": 435.366,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "record"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "record"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 435.716,
+      "end": 437.444,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "record"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "record"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 437.794,
+      "end": 449.926,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "record"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在这一课里，"
+        },
+        {
+          "lang": "en",
+          "text": "record"
+        },
+        {
+          "lang": "zh",
+          "text": "是 officially best performance，正式记录下来的最好成绩，比如 world record，school record，personal record。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 450.276,
+      "end": 454.24,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "record"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "She hopes to set up a new world record."
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 454.589,
+      "end": 463.461,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "record"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意，这里的"
+        },
+        {
+          "lang": "en",
+          "text": "record"
+        },
+        {
+          "lang": "zh",
+          "text": "不是录音，也不是录像。Debbie 想创造的是新的 world record。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 463.811,
+      "end": 466.395,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "train"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "train"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 466.745,
+      "end": 468.257,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "train"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "train"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 468.607,
+      "end": 475.631,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "train"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "train"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里是训练、指导、练习，让一个人为运动或技能做准备。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 475.981,
+      "end": 480.185,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "train"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Mr. Hart has trained his daughter for years."
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 480.534,
+      "end": 488.174,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "train"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这不是 railway train，不是火车。它告诉我们：Debbie 的挑战背后，有父亲多年的训练和陪伴。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 488.524,
+      "end": 491.468,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "anxiously"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "anxiously"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 491.818,
+      "end": 493.594,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "anxiously"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "anxiously"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 493.944,
+      "end": 500.768,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "anxiously"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "anxiously"
+        },
+        {
+          "lang": "zh",
+          "text": "是 in a worried or nervous way，焦急地、担心地。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 501.118,
+      "end": 504.65,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "anxiously"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "He will be watching her anxiously."
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 505.0,
+      "end": 514.12,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "anxiously"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词很有人情味：Mr. Hart supports Debbie, but he worries about her safety. 他不是泼冷水，而是在认真保护她。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 514.469,
+      "end": 520.029,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 不是孤立背未来时，而是用 future language 讲一个 planned challenge。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 520.379,
+      "end": 531.911,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一类是 clear future plan："
+        },
+        {
+          "lang": "en",
+          "text": "Debbie Hart is going to swim across the English Channel tomorrow."
+        },
+        {
+          "lang": "zh",
+          "text": "还有"
+        },
+        {
+          "lang": "en",
+          "text": "She is going to set out from the French coast."
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 532.261,
+      "end": 538.061,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "is going to"
+        },
+        {
+          "lang": "zh",
+          "text": "说明这不是临时想法，而是已经安排好的明天计划。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 538.411,
+      "end": 550.206,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二类是 future support："
+        },
+        {
+          "lang": "en",
+          "text": "Debbie's father will set out with her in a small boat."
+        },
+        {
+          "lang": "zh",
+          "text": "还有"
+        },
+        {
+          "lang": "en",
+          "text": "She will have something to drink but she will not eat any solid food."
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 550.556,
+      "end": 558.796,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "will"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里把支持和安排说清楚：父亲会跟着，她会喝水，但不会吃固体食物。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 559.146,
+      "end": 568.194,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三类是 future-in-progress："
+        },
+        {
+          "lang": "en",
+          "text": "He will be watching her anxiously."
+        },
+        {
+          "lang": "en",
+          "text": "Her school friends will be waiting for her."
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 568.544,
+      "end": 579.316,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "will be watching"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "will be waiting"
+        },
+        {
+          "lang": "zh",
+          "text": "让画面持续起来：Debbie 在海里游的时候，父亲一直看着，同学们一直等着。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 579.665,
+      "end": 589.957,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有一个计划动词："
+        },
+        {
+          "lang": "en",
+          "text": "Debbie intends to take short rests every two hours."
+        },
+        {
+          "lang": "en",
+          "text": "intends to"
+        },
+        {
+          "lang": "zh",
+          "text": "就是 plans to，打算做。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 590.307,
+      "end": 600.035,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一句"
+        },
+        {
+          "lang": "en",
+          "text": "Among them will be Debbie's mother"
+        },
+        {
+          "lang": "zh",
+          "text": "比普通句子更正式，像镜头慢慢扫到人群里：among them，there is her mother。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 600.385,
+      "end": 610.065,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这课的语法板可以这样记：is going to for planned action；will for support；will be doing for continuing action；intends to for personal plan。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 610.415,
+      "end": 619.215,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结论很简单：A big goal sounds exciting. A real challenge needs training, support, and a safe plan."
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 619.565,
+      "end": 636.325,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进你的生活。你明天有一个 difficult but safe school challenge，可能是 sports day，swim meet，piano performance，exam plan，long bike ride with adults，或者一个 school project。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 636.674,
+      "end": 645.474,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你要向朋友解释四件事：what you are going to do, when and where you will start, who will support you, and how you will stay safe。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 645.824,
+      "end": 650.736,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以这样开头："
+        },
+        {
+          "lang": "en",
+          "text": "I am going to take part in a school challenge tomorrow."
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 651.086,
+      "end": 656.046,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着说时间和地点："
+        },
+        {
+          "lang": "en",
+          "text": "I am going to start at eight o'clock at school."
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 656.396,
+      "end": 660.476,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再说准备："
+        },
+        {
+          "lang": "en",
+          "text": "I have practised for many weeks."
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 660.826,
+      "end": 667.562,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后说支持："
+        },
+        {
+          "lang": "en",
+          "text": "My father will be watching me, and my friends will be waiting for me at the finish."
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 667.911,
+      "end": 673.871,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后说安全计划："
+        },
+        {
+          "lang": "en",
+          "text": "I intend to take short rests and follow the safety plan."
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 674.221,
+      "end": 685.541,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这不是让你把 Debbie 的海峡挑战搬到现实里，而是练习同一种表达：big goal, long preparation, support people, and safe plan。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 685.891,
+      "end": 710.654,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "across the English Channel"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "from the French coast"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "set up a new world record"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "will be watching her anxiously"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "every two hours"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "will be waiting for her"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 711.004,
+      "end": 733.804,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习 planned challenge and safety support；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心：a big goal is exciting, but a real challenge needs training, support, and a safe plan."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 36
+}

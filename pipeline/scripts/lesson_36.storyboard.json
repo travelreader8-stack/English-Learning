@@ -1,0 +1,23 @@
+{
+  "lesson_id": 36,
+  "title": "Across the Channel",
+  "visual_consistency": "A bright educational sports illustration about Debbie Hart, an eleven-year-old strong swimmer with a red swim cap, blue goggles, full-coverage navy wetsuit, youthful round face, and determined calm expression. Her father is a supportive middle-aged man with short brown hair in a yellow rain jacket in a small white support boat, watching anxiously but calmly. Her mother is a warm adult woman with shoulder-length brown hair and a teal coat waiting on the English coast with Debbie's school friends, with a subtle memory hint that she once swam the Channel herself. English Channel open-water setting between the French coast and English coast, clear route and support-boat cues, safe planned challenge tone, no panic, no storm danger, no fantasy superhero style, consistent Debbie, father, mother, support boat, and route across all frames.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "A simple child-readable map-style coastal scene at dawn: the French coast on the lower left, the English coast on the upper right, the English Channel as blue open water between them, and a clear curved route arrow across the water with a tiny swimmer icon and small white support boat beside the route. Debbie Hart, the same eleven-year-old strong swimmer with red swim cap, blue goggles, full-coverage navy wetsuit, youthful round face, and determined calm expression, prepares calmly near the French coast for a five o'clock morning start. No readable text, no labels, clear geography through shapes and symbols."
+    },
+    {
+      "frame": 2,
+      "prompt": "A disciplined training memory scene near a pool or sheltered seaside training lane: Debbie Hart, the same eleven-year-old strong swimmer with red swim cap, blue goggles, full-coverage navy wetsuit, youthful round face, and determined calm expression, swims steadily while her father, the same supportive middle-aged man with short brown hair in a yellow rain jacket, times and coaches her from the side with a clipboard and stopwatch. Show years of practice through neat training markers and a supportive calm mood, not superhero imagery, no readable text."
+    },
+    {
+      "frame": 3,
+      "prompt": "Open-water endurance swim in the English Channel: Debbie Hart, the same eleven-year-old strong swimmer with red swim cap, blue goggles, full-coverage navy wetsuit, youthful round face, and determined calm expression, swims steadily through safe blue water. Her father, the same supportive middle-aged man in a yellow rain jacket, follows close by in the same small white support boat, watching anxiously but calmly. Include a water bottle and small rest-plan cue in the boat, long-distance route feeling, no storm, no panic, no danger glamour, no readable text."
+    },
+    {
+      "frame": 4,
+      "prompt": "Hopeful finish-side scene on the English coast: Debbie Hart's school friends wait safely on the shore with warm excitement, and her mother, the same warm adult woman with shoulder-length brown hair and a teal coat, stands among them with a gentle proud expression. Add a subtle memory echo behind the mother, such as a soft faded image of a young swimmer crossing the Channel, while the same blue route and small white support boat remain visible in the distance. Family tradition and support-team mood, no readable text."
+    }
+  ]
+}

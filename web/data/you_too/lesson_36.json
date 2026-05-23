@@ -1,0 +1,40 @@
+{
+  "lesson_id": 36,
+  "title": "Across the Channel",
+  "question": "把今天课文里的“大目标 -> 长期准备 -> 支持的人 -> 安全计划”放进你自己的学校挑战。把下面 3 个空补完整，用 word bank 里的词或短语。",
+  "example_answer": "I am going to take part in a school challenge tomorrow. I am going to start at eight o'clock at school. I have practised for many weeks. My father will be watching me, and my friends will be waiting for me at the finish. I intend to take short rests and follow the safety plan.",
+  "word_bank": [
+    "am going to",
+    "start at eight o'clock",
+    "at school",
+    "have practised",
+    "for many weeks",
+    "will be watching",
+    "will be waiting",
+    "at the finish",
+    "intend to",
+    "take short rests",
+    "follow the safety plan"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说明明天的计划：参加一个安全的学校挑战",
+      "english_template": "I ___ take part in a school challenge tomorrow.",
+      "expected_phrase": "am going to"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说明准备：你已经练习了很多周",
+      "english_template": "I ___ for many weeks.",
+      "expected_phrase": "have practised"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说明支持和安全：家人会看着你，朋友会在终点等你",
+      "english_template": "My father ___ me, and my friends ___ for me at the finish.",
+      "expected_phrase": "will be watching / will be waiting"
+    }
+  ],
+  "mode": "all_fills"
+}

@@ -1,0 +1,112 @@
+{
+  "lesson_id": 36,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“路线 -> 出发 -> 目标 -> 多年训练 -> 父亲焦急看护 -> 休息计划 -> 同学等待 -> 妈妈也曾横渡”的计划链读顺。注意 future chunks 和 route phrases 后面要自然小停顿。",
+  "sentences": [
+    {
+      "id": "l36_s1",
+      "text": "Debbie Hart is going to swim across the English Channel tomorrow.",
+      "focus_zh": "is going to swim 是明天已经计划好的挑战；across the English Channel 要作为一个路线短语读完整。",
+      "start": 381.694,
+      "end": 385.894,
+      "focus_words": [
+        "Debbie Hart",
+        "is going to swim",
+        "across the English Channel",
+        "tomorrow"
+      ]
+    },
+    {
+      "id": "l36_s2",
+      "text": "She is going to set out from the French coast at five o'clock in the morning.",
+      "focus_zh": "set out 表示出发；from the French coast 和 at five o'clock 是地点与时间，读时分组清楚。",
+      "start": 386.244,
+      "end": 390.66,
+      "focus_words": [
+        "is going to set out",
+        "from the French coast",
+        "five o'clock",
+        "in the morning"
+      ]
+    },
+    {
+      "id": "l36_s3",
+      "text": "Debbie is only eleven years old and she hopes to set up a new world record.",
+      "focus_zh": "only eleven years old 后面小停；set up a new world record 要读出目标感。",
+      "start": 391.009,
+      "end": 395.617,
+      "focus_words": [
+        "only eleven years old",
+        "hopes to",
+        "set up",
+        "world record"
+      ]
+    },
+    {
+      "id": "l36_s4",
+      "text": "Mr. Hart has trained his daughter for years.",
+      "focus_zh": "has trained 表示训练从过去持续到现在；for years 不要漏读，说明这不是临时冒险。",
+      "start": 404.851,
+      "end": 408.115,
+      "focus_words": [
+        "Mr. Hart",
+        "has trained",
+        "his daughter",
+        "for years"
+      ]
+    },
+    {
+      "id": "l36_s5",
+      "text": "Tomorrow he will be watching her anxiously as she swims the long distance to England.",
+      "focus_zh": "will be watching 是持续看护；as she swims 后接长距离路线，语气要稳。",
+      "start": 408.465,
+      "end": 413.505,
+      "focus_words": [
+        "will be watching",
+        "anxiously",
+        "as she swims",
+        "the long distance",
+        "to England"
+      ]
+    },
+    {
+      "id": "l36_s6",
+      "text": "Debbie intends to take short rests every two hours.",
+      "focus_zh": "intends to 是打算；take short rests every two hours 要读成一个清楚的计划。",
+      "start": 413.855,
+      "end": 417.551,
+      "focus_words": [
+        "intends to",
+        "take short rests",
+        "every two hours"
+      ]
+    },
+    {
+      "id": "l36_s7",
+      "text": "Most of Debbie's school friends will be waiting for her on the English coast.",
+      "focus_zh": "will be waiting 表示同学们会一直等待；on the English coast 是终点地点。",
+      "start": 422.427,
+      "end": 427.011,
+      "focus_words": [
+        "school friends",
+        "will be waiting",
+        "for her",
+        "on the English coast"
+      ]
+    },
+    {
+      "id": "l36_s8",
+      "text": "Among them will be Debbie's mother, who swam the Channel herself when she was a girl.",
+      "focus_zh": "Among them will be 是正式倒装；最后一句要读成温暖的家庭故事揭示。",
+      "start": 427.36,
+      "end": 432.424,
+      "focus_words": [
+        "Among them",
+        "Debbie's mother",
+        "swam the Channel",
+        "herself",
+        "when she was a girl"
+      ]
+    }
+  ]
+}
