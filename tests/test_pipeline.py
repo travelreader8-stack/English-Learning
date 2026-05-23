@@ -221,6 +221,60 @@ def main() -> None:
     except ImportError as e:
         bad(f"无法 import _tts_common: {e}")
 
+    section("课程脚本英文朗读段不含填空占位")
+    scripts_dir = ROOT / "pipeline" / "scripts"
+    en_segment_re = re.compile(r"\[EN\](.*?)\[/EN\]")
+    slash_choice_re = re.compile(r"\b[\w'-]+(?:\s*/\s*[\w'-]+)+\b")
+    spoken_issues = []
+    if scripts_dir.exists():
+        for script_path in sorted(scripts_dir.glob("lesson_*.script.md")):
+            current_scene = ""
+            for line_no, line in enumerate(script_path.read_text(encoding="utf-8").splitlines(), 1):
+                stripped = line.strip()
+                if stripped.startswith("## SCENE:"):
+                    current_scene = stripped.split(":", 1)[1].strip().split()[0]
+                for match in en_segment_re.finditer(line):
+                    segment = match.group(1)
+                    reasons = []
+                    if "___" in segment:
+                        reasons.append("含 ___ 填空占位")
+                    if current_scene == "you_too" and slash_choice_re.search(segment):
+                        reasons.append("you_too 英文朗读含 slash choice")
+                    if reasons:
+                        rel = script_path.relative_to(ROOT)
+                        spoken_issues.append((str(rel), line_no, "、".join(reasons), segment))
+
+    timeline_issues = []
+    audio_dir = ROOT / "web" / "audio"
+    if audio_dir.exists():
+        for timeline_path in sorted(audio_dir.glob("lesson_*.timeline.json")):
+            try:
+                timeline = json.loads(timeline_path.read_text(encoding="utf-8"))
+            except json.JSONDecodeError as e:
+                timeline_issues.append((str(timeline_path.relative_to(ROOT)), 0, f"timeline JSON 解析失败: {e}", ""))
+                continue
+            for line in timeline.get("lines", []):
+                scene = line.get("scene", "")
+                for segment in line.get("segments", []):
+                    text = segment.get("text", "")
+                    reasons = []
+                    if "___" in text or "underscore" in text.lower():
+                        reasons.append("timeline 含填空占位或 underscore")
+                    if scene == "you_too" and slash_choice_re.search(text):
+                        reasons.append("you_too timeline 含 slash choice")
+                    if reasons:
+                        rel = timeline_path.relative_to(ROOT)
+                        timeline_issues.append((str(rel), line.get("i", "?"), "、".join(reasons), text))
+
+    all_spoken_issues = spoken_issues + timeline_issues
+    if all_spoken_issues:
+        for rel, line_no, reason, segment in all_spoken_issues[:12]:
+            bad(f"{rel}:{line_no} {reason}: {segment[:120]}")
+        if len(all_spoken_issues) > 12:
+            bad(f"还有 {len(all_spoken_issues) - 12} 个英文朗读占位问题未显示")
+    else:
+        ok("脚本和已有 timeline 的英文朗读段没有 ___ / underscore / you_too slash choice")
+
     # 总结
     section("总结")
     total = PASS + FAIL + WARN
