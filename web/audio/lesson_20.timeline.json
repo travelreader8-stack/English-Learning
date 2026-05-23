@@ -1,5 +1,5 @@
 {
-  "total_duration": 660.667,
+  "total_duration": 657.916,
   "lines": [
     {
       "i": 0,
@@ -574,7 +574,7 @@
     {
       "i": 23,
       "start": 242.931,
-      "end": 246.923,
+      "end": 246.924,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -819,8 +819,8 @@
     },
     {
       "i": 34,
-      "start": 329.908,
-      "end": 333.436,
+      "start": 329.909,
+      "end": 333.437,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1223,8 +1223,8 @@
     },
     {
       "i": 55,
-      "start": 432.826,
-      "end": 434.578,
+      "start": 432.827,
+      "end": 434.579,
       "speaker": "B",
       "scene": "vocab",
       "scene_meta": {
@@ -1537,7 +1537,7 @@
     },
     {
       "i": 65,
-      "start": 537.89,
+      "start": 537.891,
       "end": 554.25,
       "speaker": "A",
       "scene": "grammar",
@@ -1584,7 +1584,7 @@
     {
       "i": 66,
       "start": 554.6,
-      "end": 563.6,
+      "end": 563.32,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1597,8 +1597,8 @@
     },
     {
       "i": 67,
-      "start": 563.95,
-      "end": 576.209,
+      "start": 563.67,
+      "end": 576.289,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1627,26 +1627,26 @@
     },
     {
       "i": 68,
-      "start": 576.559,
-      "end": 588.719,
+      "start": 576.639,
+      "end": 587.295,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "关键句型是："
+          "text": "关键句型可以先听一个完整例子："
         },
         {
           "lang": "en",
-          "text": "I am not really interested in ___. I am only interested in ___ and ___ ."
+          "text": "I am not really interested in winning a prize. I am only interested in drawing quietly and relaxing."
         }
       ]
     },
     {
       "i": 69,
-      "start": 589.069,
-      "end": 597.897,
+      "start": 587.645,
+      "end": 595.225,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1657,14 +1657,14 @@
         },
         {
           "lang": "en",
-          "text": "My friends think it is a waste of time, but they don't realize that I enjoy ___."
+          "text": "My friends think it is a waste of time, but they don't realize that I enjoy the process."
         }
       ]
     },
     {
       "i": 70,
-      "start": 598.247,
-      "end": 606.943,
+      "start": 595.575,
+      "end": 604.591,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1685,8 +1685,8 @@
     },
     {
       "i": 71,
-      "start": 607.292,
-      "end": 630.904,
+      "start": 604.941,
+      "end": 628.552,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
@@ -1747,8 +1747,8 @@
     },
     {
       "i": 72,
-      "start": 631.254,
-      "end": 648.134,
+      "start": 628.902,
+      "end": 645.382,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
@@ -1761,8 +1761,8 @@
     },
     {
       "i": 73,
-      "start": 648.484,
-      "end": 660.667,
+      "start": 645.732,
+      "end": 657.916,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
