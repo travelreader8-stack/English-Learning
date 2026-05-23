@@ -1,0 +1,107 @@
+{
+  "lesson_id": 34,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“警察局来信 -> 去警察局 -> 自行车被找到 -> 正在运回 -> 二十年前被偷”的被动语态链条读顺。",
+  "sentences": [
+    {
+      "id": "l34_s1",
+      "text": "Dan Robinson has been worried all week.",
+      "focus_zh": "has been worried all week 表示这一周一直担心到现在，读的时候把 has been worried 连成一组。",
+      "start": 384.059,
+      "end": 387.107,
+      "focus_words": [
+        "has been worried",
+        "all week"
+      ]
+    },
+    {
+      "id": "l34_s2",
+      "text": "In the letter he was asked to call at the station.",
+      "focus_zh": "was asked 是被动；call at the station 这里是去警察局一趟，不是打电话。",
+      "start": 391.695,
+      "end": 395.103,
+      "focus_words": [
+        "In the letter",
+        "was asked",
+        "call at",
+        "the station"
+      ]
+    },
+    {
+      "id": "l34_s3",
+      "text": "Dan wondered why he was wanted by the police, but he went to the station yesterday and now he is not worried anymore.",
+      "focus_zh": "why he was wanted by the police 是 Dan 的担心；but 后面转到现在不再担心。",
+      "start": 395.453,
+      "end": 402.149,
+      "focus_words": [
+        "wondered why",
+        "was wanted",
+        "by the police",
+        "not worried anymore"
+      ]
+    },
+    {
+      "id": "l34_s4",
+      "text": "At the station, he was told by a smiling policeman that his bicycle had been found.",
+      "focus_zh": "was told 和 had been found 都是被动；a smiling policeman 说明这是好消息，不是吓人的场面。",
+      "start": 402.499,
+      "end": 407.779,
+      "focus_words": [
+        "At the station",
+        "was told",
+        "smiling policeman",
+        "had been found"
+      ]
+    },
+    {
+      "id": "l34_s5",
+      "text": "Five days ago, the policeman told him, the bicycle was picked up in a small village four hundred miles away.",
+      "focus_zh": "Five days ago 是发现时间；was picked up 是被发现并收起；four hundred miles away 要读出距离很远。",
+      "start": 408.128,
+      "end": 414.704,
+      "focus_words": [
+        "Five days ago",
+        "was picked up",
+        "small village",
+        "four hundred miles away"
+      ]
+    },
+    {
+      "id": "l34_s6",
+      "text": "It is now being sent to his home by train.",
+      "focus_zh": "is now being sent 表示现在正在被送回；by train 是运输方式，不是 police station 的 station。",
+      "start": 415.054,
+      "end": 418.198,
+      "focus_words": [
+        "is now being sent",
+        "to his home",
+        "by train"
+      ]
+    },
+    {
+      "id": "l34_s7",
+      "text": "Dan was most surprised when he heard the news. He was amused too, because he never expected the bicycle to be found.",
+      "focus_zh": "most surprised 这里是 very surprised；amused too 是觉得好笑；to be found 保持被动语态。",
+      "start": 418.548,
+      "end": 427.034,
+      "focus_words": [
+        "most surprised",
+        "heard the news",
+        "amused too",
+        "to be found"
+      ]
+    },
+    {
+      "id": "l34_s8",
+      "text": "It was stolen twenty years ago when Dan was a boy of fifteen!",
+      "focus_zh": "was stolen 是被动；twenty years ago 是笑点的时间差，读前可以稍微停一下。",
+      "start": 427.384,
+      "end": 431.944,
+      "focus_words": [
+        "was stolen",
+        "twenty years ago",
+        "a boy of fifteen"
+      ]
+    }
+  ]
+}

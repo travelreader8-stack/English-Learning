@@ -1,0 +1,1878 @@
+{
+  "total_duration": 745.187,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 9.464,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Quick work"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“破案‘神速’”。先说答案：这个标题是 irony，反讽。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 9.814,
+      "end": 22.909,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "正常的"
+        },
+        {
+          "lang": "en",
+          "text": "quick work"
+        },
+        {
+          "lang": "zh",
+          "text": "是做事很快。但课文里，警察找回的是 Dan 二十年前丢的自行车，所以这个"
+        },
+        {
+          "lang": "en",
+          "text": "quick"
+        },
+        {
+          "lang": "zh",
+          "text": "听起来就很幽默。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 23.259,
+      "end": 31.235,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Dan Robinson 收到当地警察局来信，第一反应不是开心，而是紧张："
+        },
+        {
+          "lang": "en",
+          "text": "Why do the police want me?"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 31.585,
+      "end": 41.145,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这很像今天突然收到学校办公室、派出所、物业、App 或短信通知：你还不知道原因，脑子已经开始自己编故事。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 41.495,
+      "end": 51.823,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但这课不是 serious crime drama。Dan 没做错事，警察也不是吓人的。关键人物是"
+        },
+        {
+          "lang": "en",
+          "text": "a smiling policeman"
+        },
+        {
+          "lang": "zh",
+          "text": "，他带来的是好消息。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 52.173,
+      "end": 68.012,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有一句要提前拆开："
+        },
+        {
+          "lang": "en",
+          "text": "call at the station"
+        },
+        {
+          "lang": "zh",
+          "text": "。这里的"
+        },
+        {
+          "lang": "en",
+          "text": "call at"
+        },
+        {
+          "lang": "zh",
+          "text": "不是打电话，而是去某个地方一趟；"
+        },
+        {
+          "lang": "en",
+          "text": "station"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里是 police station，警察局，不是 train station。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 68.362,
+      "end": 78.97,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文中文里有一句容易误会。意思不是“结果他一再担心了”，而是"
+        },
+        {
+          "lang": "en",
+          "text": "now he is not worried anymore"
+        },
+        {
+          "lang": "zh",
+          "text": "，现在他不再担心了。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 79.32,
+      "end": 92.92,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天记忆链很短：letter -> police station -> worry -> smiling policeman -> bicycle found -> four hundred miles away -> by train -> surprised and amused -> stolen twenty years ago。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 93.27,
+      "end": 99.582,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一幅画，从一封信开始："
+        },
+        {
+          "lang": "en",
+          "text": "Dan Robinson has been worried all week."
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 99.931,
+      "end": 106.011,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么 worried？因为"
+        },
+        {
+          "lang": "en",
+          "text": "Last Tuesday he received a letter from the local police."
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 106.361,
+      "end": 115.841,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "local police"
+        },
+        {
+          "lang": "zh",
+          "text": "是他自己所在地区的警察。收到这种 official letter，人很容易紧张，因为原因还没说清楚。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 116.191,
+      "end": 120.515,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "In the letter he was asked to call at the station."
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 120.865,
+      "end": 130.968,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意"
+        },
+        {
+          "lang": "en",
+          "text": "was asked"
+        },
+        {
+          "lang": "zh",
+          "text": "是被动：Dan 收到要求。"
+        },
+        {
+          "lang": "en",
+          "text": "call at the station"
+        },
+        {
+          "lang": "zh",
+          "text": "就是 go to the police station，去警察局一趟。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 131.318,
+      "end": 138.438,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这幅画里，Dan 在家拿着警察局来信，脸上有 worry bubble：Why do the police want me?"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 138.788,
+      "end": 145.3,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二幅画，是 Dan 的担心和转折："
+        },
+        {
+          "lang": "en",
+          "text": "Dan wondered why he was wanted by the police."
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 145.65,
+      "end": 154.482,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "was wanted by the police"
+        },
+        {
+          "lang": "zh",
+          "text": "听起来很严重，所以 Dan 才会 nervous。但这里是 Dan 的想象，不是事实。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 154.832,
+      "end": 160.824,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他还是去了："
+        },
+        {
+          "lang": "en",
+          "text": "but he went to the station yesterday and now he is not worried anymore."
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 161.174,
+      "end": 172.565,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句里的"
+        },
+        {
+          "lang": "en",
+          "text": "station"
+        },
+        {
+          "lang": "zh",
+          "text": "还是 police station。后面出现"
+        },
+        {
+          "lang": "en",
+          "text": "by train"
+        },
+        {
+          "lang": "zh",
+          "text": "，那是运自行车的方式，不要把两个 station 混在一起。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 172.915,
+      "end": 181.115,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "到了警察局，画风变轻："
+        },
+        {
+          "lang": "en",
+          "text": "At the station, he was told by a smiling policeman that his bicycle had been found."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 181.465,
+      "end": 192.049,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "smiling policeman"
+        },
+        {
+          "lang": "zh",
+          "text": "是信号：不是坏消息，是 found-item news，失物找回的消息。Dan 的 worry 开始变成 relief。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 192.399,
+      "end": 203.927,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三幅画，神奇的不是破案快，而是距离远："
+        },
+        {
+          "lang": "en",
+          "text": "Five days ago, the policeman told him, the bicycle was picked up in a small village four hundred miles away."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 204.276,
+      "end": 211.668,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "was picked up"
+        },
+        {
+          "lang": "zh",
+          "text": "是被人发现并收起来，finder 不重要，重要的是 bicycle was found。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 212.018,
+      "end": 221.874,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "four hundred miles away"
+        },
+        {
+          "lang": "zh",
+          "text": "很远。可以想象一辆旧自行车离开 Dan 的生活很久，突然从很远的小村庄冒出来。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 222.224,
+      "end": 226.904,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后课文说："
+        },
+        {
+          "lang": "en",
+          "text": "It is now being sent to his home by train."
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 227.254,
+      "end": 239.734,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "is being sent"
+        },
+        {
+          "lang": "zh",
+          "text": "表示现在正在被送回去。这里"
+        },
+        {
+          "lang": "en",
+          "text": "by train"
+        },
+        {
+          "lang": "zh",
+          "text": "是 transportation，用火车运，不是说 Dan 去了 train station。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 240.083,
+      "end": 250.803,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这幅画要有轻松的荒诞感：old blue bicycle, small village, long distance, train return。好像一件童年物品自己旅行了二十年。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 251.153,
+      "end": 257.413,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四幅画，笑点落地："
+        },
+        {
+          "lang": "en",
+          "text": "Dan was most surprised when he heard the news."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 257.763,
+      "end": 267.967,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里"
+        },
+        {
+          "lang": "en",
+          "text": "most"
+        },
+        {
+          "lang": "zh",
+          "text": "不是“世界上最惊讶的人”，而是 very，extremely。"
+        },
+        {
+          "lang": "en",
+          "text": "most surprised"
+        },
+        {
+          "lang": "zh",
+          "text": "就是非常惊讶。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 268.317,
+      "end": 274.829,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下一句更重要："
+        },
+        {
+          "lang": "en",
+          "text": "He was amused too, because he never expected the bicycle to be found."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 275.178,
+      "end": 283.65,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "amused"
+        },
+        {
+          "lang": "zh",
+          "text": "是觉得好笑，觉得这事有点离奇、有点有趣。Dan 不是害怕，也不是生气。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 284.0,
+      "end": 291.016,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一句揭开标题反讽："
+        },
+        {
+          "lang": "en",
+          "text": "It was stolen twenty years ago when Dan was a boy of fifteen!"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 291.366,
+      "end": 303.042,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "原来这不是“警察几天就破案”，而是“二十年前的自行车终于回来了”。所以"
+        },
+        {
+          "lang": "en",
+          "text": "Quick work"
+        },
+        {
+          "lang": "zh",
+          "text": "的"
+        },
+        {
+          "lang": "en",
+          "text": "quick"
+        },
+        {
+          "lang": "zh",
+          "text": "才好笑。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 303.392,
+      "end": 305.712,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "我们来把这个故事的笑点说清楚。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 306.061,
+      "end": 310.385,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Quick work"
+        },
+        {
+          "lang": "zh",
+          "text": "不是说警察真的很快吗？"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 310.735,
+      "end": 321.967,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "字面上是 very fast work。但故事里，自行车是 twenty years ago 被偷的，所以说"
+        },
+        {
+          "lang": "en",
+          "text": "quick"
+        },
+        {
+          "lang": "zh",
+          "text": "反而是在开玩笑。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 322.317,
+      "end": 324.908,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Dan 为什么担心一个星期？"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 325.258,
+      "end": 334.058,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为他只知道 local police 写信让他去 station，却不知道原因。Unknown official message makes people nervous。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 334.408,
+      "end": 338.1,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "call at the station"
+        },
+        {
+          "lang": "zh",
+          "text": "是打电话吗？"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 338.45,
+      "end": 348.493,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。"
+        },
+        {
+          "lang": "en",
+          "text": "call at"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里是 visit，go to a place。"
+        },
+        {
+          "lang": "en",
+          "text": "station"
+        },
+        {
+          "lang": "zh",
+          "text": "这里是 police station，警察局。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 348.843,
+      "end": 351.694,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可后面又有"
+        },
+        {
+          "lang": "en",
+          "text": "by train"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 352.044,
+      "end": 359.564,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，但那只是 bicycle is being sent by train，运送方式。课文没有说 Dan 去火车站。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 359.914,
+      "end": 364.649,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "most surprised"
+        },
+        {
+          "lang": "zh",
+          "text": "我能不能理解成“最惊讶”？"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 364.999,
+      "end": 373.319,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课里更自然的意思是 very surprised。它有一点正式、老派，跟这篇文章的幽默感很搭。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 373.669,
+      "end": 383.709,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "背诵时抓住情绪变化：worried all week, nervous at the station, relieved by the smiling policeman, surprised and amused by the twenty-year-old bicycle."
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 384.059,
+      "end": 387.107,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Dan Robinson has been worried all week."
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 387.457,
+      "end": 391.345,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Last Tuesday he received a letter from the local police."
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 391.695,
+      "end": 395.103,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In the letter he was asked to call at the station."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 395.453,
+      "end": 402.149,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Dan wondered why he was wanted by the police, but he went to the station yesterday and now he is not worried anymore."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 402.499,
+      "end": 407.779,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "At the station, he was told by a smiling policeman that his bicycle had been found."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 408.128,
+      "end": 414.704,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Five days ago, the policeman told him, the bicycle was picked up in a small village four hundred miles away."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 415.054,
+      "end": 418.198,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It is now being sent to his home by train."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 418.548,
+      "end": 421.908,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Dan was most surprised when he heard the news."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 422.258,
+      "end": 427.034,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He was amused too, because he never expected the bicycle to be found."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 427.384,
+      "end": 431.944,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It was stolen twenty years ago when Dan was a boy of fifteen!"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 432.294,
+      "end": 435.03,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "station"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "station"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 435.38,
+      "end": 437.084,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "station"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "station"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 437.433,
+      "end": 445.649,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "station"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "station"
+        },
+        {
+          "lang": "zh",
+          "text": "是站、所、局，要看搭配。police station 是警察局，train station 是火车站。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 445.999,
+      "end": 455.975,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "station"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课的"
+        },
+        {
+          "lang": "en",
+          "text": "call at the station"
+        },
+        {
+          "lang": "zh",
+          "text": "说的是 go to the police station，去警察局一趟，不是 make a phone call，也不是去火车站。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 456.325,
+      "end": 467.889,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "station"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "In the letter he was asked to call at the station."
+        },
+        {
+          "lang": "zh",
+          "text": "这句话解释了 Dan 为什么会紧张：a police station visit sounds serious before he knows the reason."
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 468.239,
+      "end": 470.895,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "most"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "most"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 471.244,
+      "end": 472.78,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "most"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "most"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 473.13,
+      "end": 484.274,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "most"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "most"
+        },
+        {
+          "lang": "zh",
+          "text": "常见意思是“最多、最”，但这课的"
+        },
+        {
+          "lang": "en",
+          "text": "most surprised"
+        },
+        {
+          "lang": "zh",
+          "text": "更像 very surprised，非常惊讶。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 484.624,
+      "end": 490.96,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "most"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这种用法有一点 formal，old-fashioned，可以理解成"
+        },
+        {
+          "lang": "en",
+          "text": "Dan was very surprised"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 491.31,
+      "end": 501.01,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "most"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Dan was most surprised when he heard the news."
+        },
+        {
+          "lang": "zh",
+          "text": "他惊讶，是因为这辆自行车不是刚丢的，而是 twenty years ago 被偷的。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 501.359,
+      "end": 504.231,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "amused"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "amused"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 504.581,
+      "end": 506.261,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "amused"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "amused"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 506.611,
+      "end": 513.443,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "amused"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "amused"
+        },
+        {
+          "lang": "zh",
+          "text": "是觉得好笑、觉得有趣，不是大笑到停不下来，也不是 mock someone。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 513.793,
+      "end": 522.913,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "amused"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Dan was amused because the whole situation is strange and funny: he worried about the police, but the police had found his old bicycle."
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 523.263,
+      "end": 532.955,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "amused"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "He was amused too, because he never expected the bicycle to be found."
+        },
+        {
+          "lang": "zh",
+          "text": "这句话把 surprise 和 humor 连在一起。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 533.304,
+      "end": 548.008,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "amused"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "三个词连起来看：Dan went to the"
+        },
+        {
+          "lang": "en",
+          "text": "station"
+        },
+        {
+          "lang": "zh",
+          "text": ", was"
+        },
+        {
+          "lang": "en",
+          "text": "most"
+        },
+        {
+          "lang": "zh",
+          "text": "surprised, and felt"
+        },
+        {
+          "lang": "en",
+          "text": "amused"
+        },
+        {
+          "lang": "zh",
+          "text": "when the old bicycle came back."
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 548.358,
+      "end": 555.518,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 是 passive voice，被动语态。不要只背公式，要看故事为什么需要被动。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 555.868,
+      "end": 561.348,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个故事关心的不是每个动作是谁做的，而是 Dan 和 bicycle 发生了什么。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 561.698,
+      "end": 575.961,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组是 Dan："
+        },
+        {
+          "lang": "en",
+          "text": "he was asked"
+        },
+        {
+          "lang": "zh",
+          "text": "，信要求他去；"
+        },
+        {
+          "lang": "en",
+          "text": "he was wanted by the police"
+        },
+        {
+          "lang": "zh",
+          "text": "，这是 Dan 担心的想法；"
+        },
+        {
+          "lang": "en",
+          "text": "he was told by a smiling policeman"
+        },
+        {
+          "lang": "zh",
+          "text": "，警察告诉他好消息。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 576.311,
+      "end": 591.742,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组是 bicycle："
+        },
+        {
+          "lang": "en",
+          "text": "his bicycle had been found"
+        },
+        {
+          "lang": "zh",
+          "text": "，在 Dan 到之前已经被找到；"
+        },
+        {
+          "lang": "en",
+          "text": "the bicycle was picked up"
+        },
+        {
+          "lang": "zh",
+          "text": "，有人发现并收起它；"
+        },
+        {
+          "lang": "en",
+          "text": "It is now being sent"
+        },
+        {
+          "lang": "zh",
+          "text": "，现在正在被送回家。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 592.092,
+      "end": 601.412,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一击是过去："
+        },
+        {
+          "lang": "en",
+          "text": "It was stolen twenty years ago"
+        },
+        {
+          "lang": "zh",
+          "text": "。谁偷的不重要，重要的是这辆车二十年前就离开了 Dan。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 601.762,
+      "end": 615.362,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以被动语态像一个 found-item report：Dan was asked, Dan was told, the bicycle had been found, the bicycle was picked up, it is being sent, and it was stolen long ago."
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 615.712,
+      "end": 629.239,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再看时间线："
+        },
+        {
+          "lang": "en",
+          "text": "all week"
+        },
+        {
+          "lang": "zh",
+          "text": ","
+        },
+        {
+          "lang": "en",
+          "text": "Last Tuesday"
+        },
+        {
+          "lang": "zh",
+          "text": ","
+        },
+        {
+          "lang": "en",
+          "text": "yesterday"
+        },
+        {
+          "lang": "zh",
+          "text": ","
+        },
+        {
+          "lang": "en",
+          "text": "Five days ago"
+        },
+        {
+          "lang": "zh",
+          "text": ","
+        },
+        {
+          "lang": "en",
+          "text": "now"
+        },
+        {
+          "lang": "zh",
+          "text": ","
+        },
+        {
+          "lang": "en",
+          "text": "twenty years ago"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 629.589,
+      "end": 637.389,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些时间词让反转更清楚：Dan 担心的是 this week，但真正的故事从 twenty years ago 就开始了。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 637.739,
+      "end": 645.779,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进自己的生活里。你收到学校办公室的信息，让你过去一趟。你不知道原因，所以有点担心。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 646.129,
+      "end": 653.089,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "到了以后，老师微笑着告诉你：你很久以前丢的 bicycle or schoolbag 被找到了。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 653.439,
+      "end": 660.719,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你要练三件事：say you received a message, explain the item was found, and describe your feeling."
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 661.069,
+      "end": 665.453,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以这样开头："
+        },
+        {
+          "lang": "en",
+          "text": "I received a message from the school office."
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 665.803,
+      "end": 670.259,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后用被动："
+        },
+        {
+          "lang": "en",
+          "text": "I was asked to go there, so I was worried."
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 670.608,
+      "end": 675.248,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再说好消息："
+        },
+        {
+          "lang": "en",
+          "text": "I was told that my bicycle had been found."
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 675.598,
+      "end": 682.142,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后点出感受："
+        },
+        {
+          "lang": "en",
+          "text": "I was very surprised and amused, because I never expected it to be found."
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 682.492,
+      "end": 692.372,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这题的重点是让 passive voice 有用：不是只会做语法题，而是能讲 lost item, found item, unexpected good news。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 692.722,
+      "end": 720.133,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "was asked to call at the station"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "was wanted by the police"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "was told by a smiling policeman"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "had been found"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "was picked up"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "is now being sent"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "was stolen twenty years ago"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 720.483,
+      "end": 745.187,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习 found-item notice；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的笑点：Dan thought the police wanted him, but they had found the bicycle he lost twenty years ago. That is the joke inside"
+        },
+        {
+          "lang": "en",
+          "text": "Quick work"
+        },
+        {
+          "lang": "zh",
+          "text": "."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 34
+}

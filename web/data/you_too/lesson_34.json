@@ -1,0 +1,39 @@
+{
+  "lesson_id": 34,
+  "title": "Quick work",
+  "question": "把今天课文里的“突然收到通知 -> 有点担心 -> 发现是失物找回 -> 又惊讶又觉得好笑”放进自己的生活场景：学校办公室告诉你一个很久以前丢的东西找到了。把下面 3 个空补完整，用 word bank 里的词或短语。",
+  "example_answer": "I received a message from the school office. I was asked to go there, so I was worried. Then I was told that my bicycle had been found. I was very surprised and amused, because I never expected it to be found.",
+  "word_bank": [
+    "received a message",
+    "was asked",
+    "school office",
+    "was worried",
+    "was told",
+    "had been found",
+    "picked up",
+    "being sent back",
+    "surprised and amused",
+    "expected it to be found"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说明收到通知：学校办公室发来消息",
+      "english_template": "I ___ from the school office.",
+      "expected_phrase": "received a message"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说明被叫过去：不知道原因，所以担心",
+      "english_template": "I ___ to go there, so I was worried.",
+      "expected_phrase": "was asked"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说明好消息：很久以前丢的自行车已经找到了",
+      "english_template": "I was told that my bicycle ___.",
+      "expected_phrase": "had been found"
+    }
+  ],
+  "mode": "all_fills"
+}

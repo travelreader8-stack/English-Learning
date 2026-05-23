@@ -1,0 +1,24 @@
+{
+  "lesson_id": 34,
+  "title": "Quick work",
+  "visual_consistency": "A warm educational illustration about Dan Robinson, an ordinary adult man in his mid-thirties with short brown hair, round glasses, a navy jacket over a white shirt, average build, and a friendly face that changes from anxious to relieved to amused. A helpful smiling local policeman in a neat friendly uniform. An old blue bicycle with a small silver bell and worn brown leather seat as the recurring object, shown both as a found bicycle and in Dan's teenage memory. Light comic mystery tone, clear police-station and train-return details, no frightening crime imagery, consistent Dan and bicycle across all frames, no readable text.",
+  "vocabulary_diagram_direction": "The vocabulary teaching page should use a simple found-item notice diagram: police station as the meaning of station in call at the station, most surprised meaning very surprised, and amused meaning quietly finding the situation funny. Include a small contrast between police station and train transport so station is not confused with train station.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Dan Robinson, the same ordinary adult man with short brown hair, round glasses, navy jacket over a white shirt, average build, and a worried friendly face, stands at home holding an official-looking letter from the local police. Show a calm home desk, an envelope, and Dan's anxious expression as he wonders why the police want him. The mood is light mystery, not danger, no handcuffs, no crime scene, no readable text."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same Dan Robinson arrives inside a friendly local police station, still wearing the navy jacket and round glasses. A helpful smiling local policeman in a neat uniform calmly tells him good news across a desk. Dan begins to look relieved and surprised. The police station should feel bright, safe, and ordinary, with no intimidating drama, no suspects, no handcuffs, no readable text."
+    },
+    {
+      "frame": 3,
+      "prompt": "The recurring old blue bicycle with a small silver bell and worn brown leather seat has been found in a small village far away. Show a humorous long-distance return idea: the bicycle near a quiet village lane, a subtle route line or map-like background suggesting four hundred miles, and a train or railway parcel area indicating it is being sent home by train. Light comic tone, no readable text."
+    },
+    {
+      "frame": 4,
+      "prompt": "The same adult Dan Robinson in navy jacket and round glasses looks very surprised and amused as he recognizes the old blue bicycle with the silver bell and worn brown leather seat. Include a soft memory vignette of fifteen-year-old Dan with the same bicycle twenty years ago, clearly the same object. The mood is warm and funny, showing the punchline that the bicycle was stolen long ago, no theft action, no scary imagery, no readable text."
+    }
+  ]
+}
