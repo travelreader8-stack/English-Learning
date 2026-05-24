@@ -1,0 +1,112 @@
+{
+  "lesson_id": 47,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按中文电影线记忆：买 pub、要卖、说闹鬼、夜里怪声、早上门被堵家具被挪、五个 whisky 空瓶、两种 must have done 推断、最后白送也不要。读的时候保持轻微神秘和喜剧感，不要读成恐怖故事。",
+  "sentences": [
+    {
+      "id": "l47_s1",
+      "text": "A public house which was recently bought by Mr. Ian Thompson is up for sale.",
+      "focus_zh": "中文锚点：Ian Thompson 先生最近买的小酒馆现在要出售。public house 不是公共房子，而是 British pub；up for sale 要连起来读。",
+      "start": 399.736,
+      "end": 404.824,
+      "focus_words": [
+        "A public house",
+        "recently bought",
+        "Mr. Ian Thompson",
+        "up for sale"
+      ]
+    },
+    {
+      "id": "l47_s2",
+      "text": "Mr. Thompson is going to sell it because it is haunted.",
+      "focus_zh": "中文锚点：他要卖掉它，因为他说那里闹鬼。haunted 是“被认为有鬼出没”，语气轻一点，不要恐怖化。",
+      "start": 405.174,
+      "end": 408.942,
+      "focus_words": [
+        "Mr. Thompson",
+        "is going to sell it",
+        "because",
+        "haunted"
+      ]
+    },
+    {
+      "id": "l47_s3",
+      "text": "He told me that he could not go to sleep one night because he heard a strange noise coming from the bar.",
+      "focus_zh": "中文锚点：有天夜里他睡不着，因为听到 bar 里传来怪声。could not go to sleep 和 a strange noise coming from the bar 要分块。",
+      "start": 409.291,
+      "end": 414.859,
+      "focus_words": [
+        "could not go to sleep",
+        "one night",
+        "a strange noise",
+        "coming from the bar"
+      ]
+    },
+    {
+      "id": "l47_s4",
+      "text": "The next morning, he found that the doors had been blocked by chairs and the furniture had been moved.",
+      "focus_zh": "中文锚点：第二天早上，门被椅子堵住，家具被移动。had been blocked 和 had been moved 是现场证据里的被动语态。",
+      "start": 415.209,
+      "end": 420.801,
+      "focus_words": [
+        "The next morning",
+        "doors had been blocked",
+        "by chairs",
+        "furniture had been moved"
+      ]
+    },
+    {
+      "id": "l47_s5",
+      "text": "Though Mr. Thompson had turned the lights off before he went to bed, they were on in the morning.",
+      "focus_zh": "中文锚点：虽然睡前关了灯，但早上灯亮着。Though 后面先让步，再读出 they were on in the morning 这个反常结果。",
+      "start": 421.151,
+      "end": 426.479,
+      "focus_words": [
+        "Though",
+        "turned the lights off",
+        "before he went to bed",
+        "were on in the morning"
+      ]
+    },
+    {
+      "id": "l47_s6",
+      "text": "He also said that he had found five empty whisky bottles which the ghost must have drunk the night before.",
+      "focus_zh": "中文锚点：他发现五个空 whisky 瓶子，认为鬼前一晚一定喝了。must have drunk 是对过去的强推断，不是“必须喝”。",
+      "start": 426.829,
+      "end": 432.805,
+      "focus_words": [
+        "five empty whisky bottles",
+        "the ghost",
+        "must have drunk",
+        "the night before"
+      ]
+    },
+    {
+      "id": "l47_s7",
+      "text": "When I suggested that some villagers must have come in for a free drink, Mr. Thompson shook his head.",
+      "focus_zh": "中文锚点：叙述者提出另一种解释：村民一定进来喝免费酒了，Thompson 摇头。suggested that 和 must have come in 要读成推断。",
+      "start": 433.155,
+      "end": 439.179,
+      "focus_words": [
+        "suggested that",
+        "some villagers",
+        "must have come in",
+        "for a free drink",
+        "shook his head"
+      ]
+    },
+    {
+      "id": "l47_s8",
+      "text": "The villagers have told him that they will not accept the pub even if he gives it away.",
+      "focus_zh": "中文锚点：村民说，即使白送也不要。accept 和 even if he gives it away 是最后笑点，要读出轻微荒唐感。",
+      "start": 439.529,
+      "end": 444.569,
+      "focus_words": [
+        "will not accept",
+        "the pub",
+        "even if",
+        "gives it away"
+      ]
+    }
+  ]
+}

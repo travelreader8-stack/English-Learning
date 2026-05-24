@@ -1,0 +1,23 @@
+{
+  "lesson_id": 47,
+  "title": "A thirsty ghost",
+  "visual_consistency": "A warm educational British village pub mystery illustration without any readable text, letters, pub signs, sale signs, bottle labels, label-like rectangles, colored label bands, captions, speech bubbles, documents, posters, UI panels, empty boxes, or blank label spaces. Mr. Ian Thompson is the recurring adult pub owner: late 40s to early 50s, light skin, tired oval face, short neatly combed brown-and-gray hair, average build, wearing a dark green cardigan over a cream shirt, brown trousers, and simple shoes. He looks worried, stubborn, and comic rather than frightened. The recurring setting is a cozy old British village pub with a wooden bar counter, tables, chairs, warm wall lights, and a modest village exterior. If bottles appear, they must be bare smooth glass silhouettes only, with no paper label shapes, no sticker shapes, no writing, and no decorative bands. The mood is lightly mysterious and humorous, never horror. Any ghost idea stays ambiguous as a non-human-shaped patch of light or shadow, never a visible ghost figure. Villagers, if shown, are ordinary and respectful, not caricatured or accused.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Outside and just inside the same cozy old British village pub, the recurring Mr. Ian Thompson in a dark green cardigan holds a key and looks worried beside the doorway and bar counter, as if he has bought the pub but already wants to sell it. The village pub has tables, chairs, warm lights, wooden surfaces, and no visible bottle shelves in this frame. Show no sale sign and no readable pub sign. Lightly mysterious, comic mood. No readable text, no letters, no signage, no labels, no bottle labels, no label-like rectangles, no captions, no speech bubbles, no documents, no posters, no UI panels, no empty boxes, and no blank label spaces."
+    },
+    {
+      "frame": 2,
+      "prompt": "At night inside the same British village pub, the recurring Mr. Ian Thompson in a dark green cardigan sits awake near a doorway, tired and uneasy, listening toward the dim bar area. The wooden bar counter, chairs, tables, and warm lights are consistent, with no visible bottle shelves in this frame. Suggest mystery only through a dim non-human-shaped patch of light or shadow on the wall or bar; do not draw a ghost, person-shaped mist, face, eyes, or figure. Suspenseful but not scary, with a humorous classroom-story feeling. No readable text, no letters, no signage, no labels, no bottle labels, no label-like rectangles, no captions, no speech bubbles, no documents, no posters, no UI panels, no empty boxes, and no blank label spaces."
+    },
+    {
+      "frame": 3,
+      "prompt": "The next morning inside the same British village pub, the recurring Mr. Ian Thompson in a dark green cardigan stands shocked at the strange evidence: chairs block the doors, furniture has been moved, lights are on, and exactly five bare smooth empty glass bottles sit on the bar. The bottles must have no paper labels, no label-like rectangles, no sticker shapes, no colored bands, and no writing. The scene shows evidence without explaining who did it. Keep the mood lightly mysterious and comic, not horror and not glamorous. No readable text, no letters, no pub sign, no bottle labels, no label-like rectangles, no captions, no speech bubbles, no documents, no posters, no UI panels, no empty boxes, and no blank label spaces."
+    },
+    {
+      "frame": 4,
+      "prompt": "In the same village pub setting during daytime, the recurring Mr. Ian Thompson in a dark green cardigan looks frustrated while a calm narrator figure gestures thoughtfully toward the bar counter and a small group of ordinary respectful villagers politely step back from a key being offered. Keep bottle shelves out of focus or absent in this frame so the scene is about refusal, not drinking. The image suggests two explanations and the final refusal of the pub even for free, without accusing villagers visually. Keep it warm, educational, and comic. No readable text, no letters, no signage, no labels, no bottle labels, no label-like rectangles, no captions, no speech bubbles, no documents, no posters, no UI panels, no empty boxes, and no blank label spaces."
+    }
+  ]
+}

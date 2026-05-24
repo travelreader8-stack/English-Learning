@@ -1,0 +1,55 @@
+{
+  "lesson_id": 47,
+  "title": "A thirsty ghost",
+  "question": "把今天的“证据 + 过去推断 + 另一种解释”放进教室场景：早上进教室，椅子被移动、灯亮着、零食盒空了。用 word bank 补完整 5 个空。",
+  "example_answer": "The chairs had been moved and the lights were on. The snack box was empty. Someone must have come in last night. I suggested that the club members must have had a meeting. Even if it is free, I will not take it.",
+  "word_bank": [
+    "had been moved",
+    "lights were on",
+    "snack box",
+    "was empty",
+    "must have come in",
+    "last night",
+    "suggested that",
+    "must have had",
+    "a meeting",
+    "Even if",
+    "free",
+    "will not take it",
+    "evidence",
+    "interpretation"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "用被动语态描述现场证据：椅子被移动了",
+      "english_template": "The chairs ___ and the lights were on.",
+      "expected_phrase": "had been moved"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说明另一个证据：零食盒是空的",
+      "english_template": "The ___ was empty.",
+      "expected_phrase": "snack box"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "用 must have done 做过去推断：昨晚一定有人进来过",
+      "english_template": "Someone ___ last night.",
+      "expected_phrase": "must have come in"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "用 suggested that... 提出另一种解释：我暗示社团成员一定开过会",
+      "english_template": "I ___ the club members must have had a meeting.",
+      "expected_phrase": "suggested that"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "用 even if 表达“即使免费，我也不要”",
+      "english_template": "___ it is free, I will not take it.",
+      "expected_phrase": "Even if"
+    }
+  ],
+  "mode": "all_fills"
+}

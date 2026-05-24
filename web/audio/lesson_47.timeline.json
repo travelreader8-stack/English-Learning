@@ -1,0 +1,2388 @@
+{
+  "total_duration": 782.638,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 11.072,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先别把这课当恐怖故事。这里的"
+        },
+        {
+          "lang": "en",
+          "text": "public house"
+        },
+        {
+          "lang": "zh",
+          "text": "不是公共房子，而是英国的"
+        },
+        {
+          "lang": "en",
+          "text": "pub"
+        },
+        {
+          "lang": "zh",
+          "text": "，小酒馆。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 11.422,
+      "end": 23.757,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Pub"
+        },
+        {
+          "lang": "zh",
+          "text": "是成年人聊天、聚会、喝东西的地方。这课里出现"
+        },
+        {
+          "lang": "en",
+          "text": "whisky"
+        },
+        {
+          "lang": "zh",
+          "text": "，是因为故事发生在酒馆，不是让孩子学喝酒。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 24.107,
+      "end": 29.227,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天真正要学的是：同一组证据，可能有不同解释。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 29.577,
+      "end": 39.209,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Mr. Ian Thompson"
+        },
+        {
+          "lang": "zh",
+          "text": "最近买了一个"
+        },
+        {
+          "lang": "en",
+          "text": "public house"
+        },
+        {
+          "lang": "zh",
+          "text": "，可是很快又要卖掉。"
+        },
+        {
+          "lang": "en",
+          "text": "It is up for sale."
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 39.559,
+      "end": 44.214,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他为什么要卖？他说那里"
+        },
+        {
+          "lang": "en",
+          "text": "haunted"
+        },
+        {
+          "lang": "zh",
+          "text": "，闹鬼。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 44.564,
+      "end": 52.692,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "有一天夜里，他睡不着，因为听到"
+        },
+        {
+          "lang": "en",
+          "text": "bar"
+        },
+        {
+          "lang": "zh",
+          "text": "里传来"
+        },
+        {
+          "lang": "en",
+          "text": "a strange noise"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 53.042,
+      "end": 63.466,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二天早上，现场很奇怪：门被椅子堵住，家具被移动，灯也亮着，还有五个"
+        },
+        {
+          "lang": "en",
+          "text": "empty whisky bottles"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 63.816,
+      "end": 73.063,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Mr. Thompson"
+        },
+        {
+          "lang": "zh",
+          "text": "的解释是："
+        },
+        {
+          "lang": "en",
+          "text": "the ghost must have drunk the whisky"
+        },
+        {
+          "lang": "zh",
+          "text": "，鬼昨天晚上一定喝了酒。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 73.413,
+      "end": 79.725,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "叙述者更现实一点：会不会是村民进来喝了"
+        },
+        {
+          "lang": "en",
+          "text": "a free drink"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 80.075,
+      "end": 86.859,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后反转来了。村民说，这个"
+        },
+        {
+          "lang": "en",
+          "text": "pub"
+        },
+        {
+          "lang": "zh",
+          "text": "就算白送，他们也不要。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 87.209,
+      "end": 96.977,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以题目"
+        },
+        {
+          "lang": "en",
+          "text": "A thirsty ghost"
+        },
+        {
+          "lang": "zh",
+          "text": "是笑话：不是证明真有鬼，而是说这个酒馆的名声差到离谱。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 97.327,
+      "end": 108.487,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天背诵先记中文电影线：买 pub、要卖、说闹鬼、夜里怪声、早上现场乱、空酒瓶、两种推断、白送也不要。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 108.836,
+      "end": 110.596,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一段，酒馆要卖。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 110.946,
+      "end": 118.458,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是："
+        },
+        {
+          "lang": "en",
+          "text": "Mr. Thompson"
+        },
+        {
+          "lang": "zh",
+          "text": "刚买的英国小酒馆又要卖，因为他说那里闹鬼。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 118.808,
+      "end": 126.424,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先挂住开头："
+        },
+        {
+          "lang": "en",
+          "text": "A public house"
+        },
+        {
+          "lang": "zh",
+          "text": "。这里就是英国的"
+        },
+        {
+          "lang": "en",
+          "text": "pub"
+        },
+        {
+          "lang": "zh",
+          "text": "，不是公共建筑。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 126.774,
+      "end": 131.277,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再看是谁买的："
+        },
+        {
+          "lang": "en",
+          "text": "recently bought by Mr. Ian Thompson"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 131.627,
+      "end": 136.227,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着是状态："
+        },
+        {
+          "lang": "en",
+          "text": "is up for sale"
+        },
+        {
+          "lang": "zh",
+          "text": "，现在要出售。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 136.577,
+      "end": 144.025,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "原因是："
+        },
+        {
+          "lang": "en",
+          "text": "because it is haunted"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "Haunted"
+        },
+        {
+          "lang": "zh",
+          "text": "是“被认为有鬼出没”。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 144.375,
+      "end": 149.535,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一段的中文电影线很短：刚买的 pub -> 又要卖 -> 因为他说闹鬼。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 149.885,
+      "end": 152.045,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二段，夜里怪声。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 152.394,
+      "end": 157.554,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：他夜里睡不着，听到酒吧里传来奇怪的声音。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 157.904,
+      "end": 165.504,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先看动作："
+        },
+        {
+          "lang": "en",
+          "text": "he could not go to sleep one night"
+        },
+        {
+          "lang": "zh",
+          "text": "。不是普通地晚睡，而是那晚怎么也睡不着。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 165.854,
+      "end": 171.422,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "原因是："
+        },
+        {
+          "lang": "en",
+          "text": "he heard a strange noise"
+        },
+        {
+          "lang": "zh",
+          "text": "，他听到一阵奇怪的响声。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 171.772,
+      "end": 177.34,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "声音从哪里来？"
+        },
+        {
+          "lang": "en",
+          "text": "coming from the bar"
+        },
+        {
+          "lang": "zh",
+          "text": "，从酒吧间传来。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 177.689,
+      "end": 184.417,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Bar"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里是酒馆里供应饮品的柜台或房间，不是巧克力棒。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 184.767,
+      "end": 192.127,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一段先不要急着相信“鬼”。我们只知道：夜里、睡不着、bar 里有怪声。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 192.477,
+      "end": 194.397,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三段，早上的证据。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 194.747,
+      "end": 201.947,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：第二天早上，门被椅子堵住，家具被挪动，灯明明关了却亮着。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 202.297,
+      "end": 207.217,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先看第一组证据："
+        },
+        {
+          "lang": "en",
+          "text": "the doors had been blocked by chairs"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 207.567,
+      "end": 212.983,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Blocked"
+        },
+        {
+          "lang": "zh",
+          "text": "是堵住、挡住。门被椅子堵上了。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 213.332,
+      "end": 219.236,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组证据："
+        },
+        {
+          "lang": "en",
+          "text": "the furniture had been moved"
+        },
+        {
+          "lang": "zh",
+          "text": "。家具被移动过。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 219.586,
+      "end": 226.426,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些句子用被动语态，因为现在重点是现场发生了什么，不是马上说谁做的。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 226.776,
+      "end": 233.968,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再看灯："
+        },
+        {
+          "lang": "en",
+          "text": "Though Mr. Thompson had turned the lights off before he went to bed, they were on in the morning."
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 234.318,
+      "end": 240.118,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这就是侦探故事的现场：门、家具、灯，都像证据一样摆在眼前。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 240.468,
+      "end": 243.948,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四段，两种推断和最后反转。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 244.298,
+      "end": 254.338,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：五个 whisky 空瓶出现，Thompson 说鬼一定喝了，叙述者说村民可能进来喝免费酒，但村民说白送也不要。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 254.687,
+      "end": 261.199,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先看证据："
+        },
+        {
+          "lang": "en",
+          "text": "five empty whisky bottles"
+        },
+        {
+          "lang": "zh",
+          "text": "，五个空的威士忌瓶子。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 261.549,
+      "end": 268.741,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Whisky"
+        },
+        {
+          "lang": "zh",
+          "text": "是酒精饮品，属于成人背景。我们学的是故事里的证据，不是饮酒。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 269.091,
+      "end": 275.811,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Mr. Thompson"
+        },
+        {
+          "lang": "zh",
+          "text": "的推断是："
+        },
+        {
+          "lang": "en",
+          "text": "the ghost must have drunk them the night before"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 276.161,
+      "end": 283.78,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里"
+        },
+        {
+          "lang": "en",
+          "text": "must have drunk"
+        },
+        {
+          "lang": "zh",
+          "text": "不是“必须喝”，而是“过去一定喝过”。他是在根据证据做强推断。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 284.13,
+      "end": 290.394,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "叙述者提出另一种解释："
+        },
+        {
+          "lang": "en",
+          "text": "some villagers must have come in for a free drink"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 290.744,
+      "end": 295.68,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但是"
+        },
+        {
+          "lang": "en",
+          "text": "Mr. Thompson shook his head"
+        },
+        {
+          "lang": "zh",
+          "text": "，他摇头不同意。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 296.03,
+      "end": 301.158,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一击是："
+        },
+        {
+          "lang": "en",
+          "text": "they will not accept the pub even if he gives it away"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 301.508,
+      "end": 309.028,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Even if"
+        },
+        {
+          "lang": "zh",
+          "text": "是“即使”。连免费送，村民都不要，这才是荒唐笑点。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 309.377,
+      "end": 315.266,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，题目叫"
+        },
+        {
+          "lang": "en",
+          "text": "A thirsty ghost"
+        },
+        {
+          "lang": "zh",
+          "text": "，真的有口渴的鬼吗？"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 315.615,
+      "end": 325.927,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文没有证明真有鬼。题目是在开玩笑：如果空酒瓶是鬼造成的，那就是一个会喝"
+        },
+        {
+          "lang": "en",
+          "text": "whisky"
+        },
+        {
+          "lang": "zh",
+          "text": "的“口渴鬼”。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 326.277,
+      "end": 330.799,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "public house"
+        },
+        {
+          "lang": "zh",
+          "text": "是公共房子吗？"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 331.149,
+      "end": 340.78,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。"
+        },
+        {
+          "lang": "en",
+          "text": "Public house"
+        },
+        {
+          "lang": "zh",
+          "text": "是"
+        },
+        {
+          "lang": "en",
+          "text": "pub"
+        },
+        {
+          "lang": "zh",
+          "text": "的完整说法，英国小酒馆。它是成年人社交的地方。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 341.13,
+      "end": 345.931,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "whisky"
+        },
+        {
+          "lang": "zh",
+          "text": "是因为地点在酒馆。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 346.281,
+      "end": 352.241,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。我们不把喝酒当成学生生活场景。今天要学的是证据和推断。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 352.59,
+      "end": 357.384,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "证据是门被堵、家具被挪、灯亮着、瓶子空了。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 357.734,
+      "end": 363.014,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "很好。这些是"
+        },
+        {
+          "lang": "en",
+          "text": "evidence"
+        },
+        {
+          "lang": "zh",
+          "text": "。可是解释有两种。"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 363.364,
+      "end": 369.543,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Mr. Thompson"
+        },
+        {
+          "lang": "zh",
+          "text": "说："
+        },
+        {
+          "lang": "en",
+          "text": "the ghost must have drunk the whisky"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 369.893,
+      "end": 375.037,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "叙述者说："
+        },
+        {
+          "lang": "en",
+          "text": "some villagers must have come in for a free drink"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 375.386,
+      "end": 378.643,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "两句都有"
+        },
+        {
+          "lang": "en",
+          "text": "must have done"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 378.992,
+      "end": 385.592,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。它表示对过去的强推断：根据现在看到的证据，猜过去一定发生了什么。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 385.942,
+      "end": 389.852,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但最后村民说白送也不要，就很搞笑。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 390.202,
+      "end": 399.386,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "是的。最后一句让故事变成喜剧：不是鬼多可怕，而是这个"
+        },
+        {
+          "lang": "en",
+          "text": "pub"
+        },
+        {
+          "lang": "zh",
+          "text": "的名声太差。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 399.736,
+      "end": 404.824,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A public house which was recently bought by Mr. Ian Thompson is up for sale."
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 405.174,
+      "end": 408.942,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Mr. Thompson is going to sell it because it is haunted."
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 409.291,
+      "end": 414.859,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He told me that he could not go to sleep one night because he heard a strange noise coming from the bar."
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 415.209,
+      "end": 420.801,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The next morning, he found that the doors had been blocked by chairs and the furniture had been moved."
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 421.151,
+      "end": 426.479,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Though Mr. Thompson had turned the lights off before he went to bed, they were on in the morning."
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 426.829,
+      "end": 432.805,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He also said that he had found five empty whisky bottles which the ghost must have drunk the night before."
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 433.155,
+      "end": 439.179,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When I suggested that some villagers must have come in for a free drink, Mr. Thompson shook his head."
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 439.529,
+      "end": 444.569,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The villagers have told him that they will not accept the pub even if he gives it away."
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 444.919,
+      "end": 448.087,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "public_house"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词组："
+        },
+        {
+          "lang": "en",
+          "text": "public house"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 448.436,
+      "end": 450.332,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "public_house"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "public house"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 450.682,
+      "end": 456.078,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "public_house"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A public house means a pub in British English"
+        },
+        {
+          "lang": "zh",
+          "text": "，也就是英国小酒馆。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 456.428,
+      "end": 460.508,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "public_house"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意，它不是“公共房子”，也不是政府公共建筑。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 460.858,
+      "end": 467.522,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "public_house"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文句子是："
+        },
+        {
+          "lang": "en",
+          "text": "A public house which was recently bought by Mr. Ian Thompson is up for sale."
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 467.872,
+      "end": 477.175,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "public_house"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为地点是"
+        },
+        {
+          "lang": "en",
+          "text": "pub"
+        },
+        {
+          "lang": "zh",
+          "text": "，所以后面才会出现"
+        },
+        {
+          "lang": "en",
+          "text": "bar"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "whisky"
+        },
+        {
+          "lang": "zh",
+          "text": "和空瓶子。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 477.525,
+      "end": 484.405,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "public_house"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对学生来说，重点不是酒，而是这个成人场所里出现了一组奇怪证据。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 484.755,
+      "end": 487.411,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "haunted"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "haunted"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 487.761,
+      "end": 489.393,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "haunted"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "haunted"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 489.743,
+      "end": 494.303,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "haunted"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Haunted means believed to have a ghost"
+        },
+        {
+          "lang": "zh",
+          "text": "，被认为闹鬼。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 494.653,
+      "end": 499.36,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "haunted"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Mr. Thompson is going to sell it because it is haunted."
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 499.71,
+      "end": 506.662,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "haunted"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里是"
+        },
+        {
+          "lang": "en",
+          "text": "Mr. Thompson"
+        },
+        {
+          "lang": "zh",
+          "text": "的说法，不等于课文已经证明真有鬼。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 507.012,
+      "end": 513.852,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "haunted"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这就像推理故事：有人先给出一个解释，我们再看看证据是不是也能有别的解释。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 514.202,
+      "end": 519.562,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "haunted"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "题目里的"
+        },
+        {
+          "lang": "en",
+          "text": "thirsty ghost"
+        },
+        {
+          "lang": "zh",
+          "text": "也带着幽默，不是恐怖气氛。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 519.912,
+      "end": 522.952,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "suggest"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "suggest"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 523.301,
+      "end": 525.149,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "suggest"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "suggest"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 525.499,
+      "end": 532.811,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "suggest"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Suggest means offer a possible idea or explanation"
+        },
+        {
+          "lang": "zh",
+          "text": "，提出一种可能的想法或解释。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 533.161,
+      "end": 541.241,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "suggest"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文句子是："
+        },
+        {
+          "lang": "en",
+          "text": "When I suggested that some villagers must have come in for a free drink, Mr. Thompson shook his head."
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 541.591,
+      "end": 545.831,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "suggest"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "叙述者没有直接说“你错了”，而是提出另一种解释。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 546.181,
+      "end": 553.721,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "suggest"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Some villagers must have come in"
+        },
+        {
+          "lang": "zh",
+          "text": "也是"
+        },
+        {
+          "lang": "en",
+          "text": "must have done"
+        },
+        {
+          "lang": "zh",
+          "text": "，表示对过去的推断。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 554.07,
+      "end": 559.662,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "suggest"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "生活里你可以说："
+        },
+        {
+          "lang": "en",
+          "text": "I suggested that someone must have moved the chairs."
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 560.012,
+      "end": 564.876,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的"
+        },
+        {
+          "lang": "en",
+          "text": "grammar board"
+        },
+        {
+          "lang": "zh",
+          "text": "叫：证据和推断。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 565.226,
+      "end": 579.226,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先看中文电影线：买 pub 后又要卖 -> 夜里 bar 里有怪声 -> 早上门被堵、家具被挪、灯亮着 -> 五个 whisky 空瓶 -> 两种推断 -> 白送也不要。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 579.576,
+      "end": 585.136,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块是证据里的被动语态："
+        },
+        {
+          "lang": "en",
+          "text": "the doors had been blocked by chairs"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 585.486,
+      "end": 588.99,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再看："
+        },
+        {
+          "lang": "en",
+          "text": "the furniture had been moved"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 589.339,
+      "end": 597.939,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些句子把焦点放在现场变化上。谁做的还不知道，所以先说“门被堵了，家具被挪了”。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 598.289,
+      "end": 601.353,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块是"
+        },
+        {
+          "lang": "en",
+          "text": "must have done"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 601.703,
+      "end": 609.607,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Must have done"
+        },
+        {
+          "lang": "zh",
+          "text": "不是“必须做”，而是“过去一定做过”。它表达根据证据做出的强推断。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 609.957,
+      "end": 616.785,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The ghost must have drunk the whisky"
+        },
+        {
+          "lang": "zh",
+          "text": "，这是"
+        },
+        {
+          "lang": "en",
+          "text": "Mr. Thompson"
+        },
+        {
+          "lang": "zh",
+          "text": "的推断。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 617.134,
+      "end": 622.698,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Some villagers must have come in for a free drink"
+        },
+        {
+          "lang": "zh",
+          "text": "，这是叙述者的推断。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 623.048,
+      "end": 626.168,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "同一组证据，可以有不同解释。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 626.518,
+      "end": 629.518,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块是"
+        },
+        {
+          "lang": "en",
+          "text": "even if"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 629.868,
+      "end": 636.276,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "They will not accept the pub even if he gives it away"
+        },
+        {
+          "lang": "zh",
+          "text": "，即使他白送，他们也不接受。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 636.626,
+      "end": 646.209,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Even if"
+        },
+        {
+          "lang": "zh",
+          "text": "让最后一句更强：问题不是价钱，而是这个"
+        },
+        {
+          "lang": "en",
+          "text": "pub"
+        },
+        {
+          "lang": "zh",
+          "text": "的名声太糟。"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 646.559,
+      "end": 654.159,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以今天的核心不是鬼知识，而是：看证据，分清事实和解释，再用英语表达推断。"
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 654.509,
+      "end": 663.661,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进你的生活。场景换成适合学生的教室，不用酒馆，也不用"
+        },
+        {
+          "lang": "en",
+          "text": "whisky"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "start": 664.011,
+      "end": 671.883,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "想象你早上走进"
+        },
+        {
+          "lang": "en",
+          "text": "classroom"
+        },
+        {
+          "lang": "zh",
+          "text": "，发现椅子被移动，灯还亮着，一盒零食也空了。"
+        }
+      ]
+    },
+    {
+      "i": 103,
+      "start": 672.233,
+      "end": 677.057,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先描述证据："
+        },
+        {
+          "lang": "en",
+          "text": "The chairs had been moved and the lights were on."
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "start": 677.406,
+      "end": 681.814,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再说另一个证据："
+        },
+        {
+          "lang": "en",
+          "text": "The snack box was empty."
+        }
+      ]
+    },
+    {
+      "i": 105,
+      "start": 682.164,
+      "end": 686.788,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后做过去推断："
+        },
+        {
+          "lang": "en",
+          "text": "Someone must have come in last night."
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "start": 687.138,
+      "end": 693.41,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你也可以提出更合理的解释："
+        },
+        {
+          "lang": "en",
+          "text": "I suggested that the club members must have had a meeting."
+        }
+      ]
+    },
+    {
+      "i": 107,
+      "start": 693.76,
+      "end": 702.304,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果你不想要某个东西，即使免费也不要，可以说："
+        },
+        {
+          "lang": "en",
+          "text": "Even if it is free, I will not take it."
+        }
+      ]
+    },
+    {
+      "i": 108,
+      "start": 702.654,
+      "end": 720.35,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "连起来就是："
+        },
+        {
+          "lang": "en",
+          "text": "The chairs had been moved and the lights were on. The snack box was empty. Someone must have come in last night. I suggested that the club members must have had a meeting. Even if it is free, I will not take it."
+        }
+      ]
+    },
+    {
+      "i": 109,
+      "start": 720.699,
+      "end": 728.019,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 110,
+      "start": 728.369,
+      "end": 738.009,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓中文线：买 pub、要卖、说闹鬼、夜里怪声、早上现场乱、空酒瓶、两种推断、白送也不要。"
+        }
+      ]
+    },
+    {
+      "i": 111,
+      "start": 738.359,
+      "end": 760.57,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再把"
+        },
+        {
+          "lang": "en",
+          "text": "English chunks"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺："
+        },
+        {
+          "lang": "en",
+          "text": "public house"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "is up for sale"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "because it is haunted"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "doors had been blocked"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "furniture had been moved"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "must have drunk"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "must have come in"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "even if he gives it away"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 112,
+      "start": 760.92,
+      "end": 771.52,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习用证据做合理推断；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 113,
+      "start": 771.87,
+      "end": 782.638,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "Evidence is what you see. Interpretation is what you think it means."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 47
+}
