@@ -1,0 +1,105 @@
+{
+  "lesson_id": 44,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“picnic -> edge of forest -> rushed up -> strap broke -> in their possession -> ran through trees -> ran after them -> out of breath -> caught up -> contents -> such a fright -> needs mending”的动作链读顺。长句要按动作分意群，so...that 和 such...that 要读出原因推动结果，最后一句要读得平静一点。",
+  "sentences": [
+    {
+      "id": "l44_s1",
+      "text": "Mrs. Anne Sterling did not think of the risk she was taking when she ran through a forest after two men.",
+      "focus_zh": "Mrs. Anne Sterling 后轻停；risk she was taking 是“正在冒的风险”；ran through a forest after two men 要读出危险动作，但不要喊。",
+      "start": 371.863,
+      "end": 377.791,
+      "focus_words": [
+        "Mrs. Anne Sterling",
+        "risk",
+        "ran through",
+        "after two men"
+      ]
+    },
+    {
+      "id": "l44_s2",
+      "text": "They had rushed up to her while she was having a picnic at the edge of a forest with her children and tried to steal her handbag.",
+      "focus_zh": "rushed up to her 是突然冲上前；picnic at the edge of a forest 要连成野餐地点；tried to steal her handbag 是动作结果。",
+      "start": 378.141,
+      "end": 384.813,
+      "focus_words": [
+        "rushed up to her",
+        "having a picnic",
+        "edge of a forest",
+        "steal her handbag"
+      ]
+    },
+    {
+      "id": "l44_s3",
+      "text": "In the struggle, the strap broke and, with the bag in their possession, both men started running through the trees.",
+      "focus_zh": "In the struggle 后轻停；strap broke 要读清楚；with the bag in their possession 是包的位置变化；running through the trees 是逃跑路线。",
+      "start": 385.163,
+      "end": 391.715,
+      "focus_words": [
+        "In the struggle",
+        "strap broke",
+        "possession",
+        "through the trees"
+      ]
+    },
+    {
+      "id": "l44_s4",
+      "text": "Mrs. Sterling got so angry that she ran after them.",
+      "focus_zh": "so angry that 是“气到所以”；ran after them 是追上去。把 so 和 that 的因果关系读出来。",
+      "start": 392.065,
+      "end": 395.881,
+      "focus_words": [
+        "so angry that",
+        "ran after them"
+      ]
+    },
+    {
+      "id": "l44_s5",
+      "text": "She was soon out of breath, but she continued to run.",
+      "focus_zh": "out of breath 是上气不接下气，要作为一个短语读；but she continued to run 是转折后的继续动作。",
+      "start": 396.23,
+      "end": 400.094,
+      "focus_words": [
+        "out of breath",
+        "continued to run"
+      ]
+    },
+    {
+      "id": "l44_s6",
+      "text": "When she caught up with them, she saw that they had sat down and were going through the contents of the bag, so she ran straight at them.",
+      "focus_zh": "caught up with them 是追上；going through the contents 是翻看包里的东西；ran straight at them 是径直冲过去。长句按三段读。",
+      "start": 400.444,
+      "end": 407.356,
+      "focus_words": [
+        "caught up with",
+        "going through",
+        "contents",
+        "straight at them"
+      ]
+    },
+    {
+      "id": "l44_s7",
+      "text": "The men got such a fright that they dropped the bag and ran away.",
+      "focus_zh": "such a fright that 是“吓了这么一大跳所以”；dropped the bag and ran away 是两个连续结果。",
+      "start": 407.706,
+      "end": 411.69,
+      "focus_words": [
+        "such a fright that",
+        "dropped the bag",
+        "ran away"
+      ]
+    },
+    {
+      "id": "l44_s8",
+      "text": "'The strap needs mending,' said Mrs. Sterling later, 'but they did not steal anything.'",
+      "focus_zh": "needs mending 意思是需要修理；最后一句语气要平静、实际，读出课文结尾的 dry humor。",
+      "start": 412.04,
+      "end": 417.272,
+      "focus_words": [
+        "strap",
+        "needs mending",
+        "did not steal anything"
+      ]
+    }
+  ]
+}

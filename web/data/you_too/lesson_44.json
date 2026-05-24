@@ -1,0 +1,53 @@
+{
+  "lesson_id": 44,
+  "title": "Through the forest",
+  "question": "把今天课文里的“动作链写作法”和现实安全选择放进公园场景：有人抢包逃跑时，你不追，而是呼救、找保安，并描述发生了什么。用 word bank 补完整 5 个空。",
+  "example_answer": "Two people rushed up to a woman and tried to steal her bag. The strap broke, and they ran through the trees. I was so surprised that I shouted for help. I did not run after them. I told a security guard which way they ran.",
+  "word_bank": [
+    "rushed up to",
+    "tried to steal",
+    "strap broke",
+    "ran through",
+    "so surprised that",
+    "shouted for help",
+    "run after",
+    "security guard",
+    "which way",
+    "safe",
+    "action chain",
+    "do not chase"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "用 rushed up to 描述突然冲到某人跟前：两个人冲到一位女士跟前",
+      "english_template": "Two people ___ a woman and tried to steal her bag.",
+      "expected_phrase": "rushed up to"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "用 ran through 描述逃跑路线：他们穿过树林跑",
+      "english_template": "The strap broke, and they ___ the trees.",
+      "expected_phrase": "ran through"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "用 so...that 描述强烈反应导致动作：我太惊讶了，于是呼救",
+      "english_template": "I was ___ I shouted for help.",
+      "expected_phrase": "so surprised that"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "表达现实安全选择：我没有追他们",
+      "english_template": "I did not ___ them.",
+      "expected_phrase": "run after"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "表达安全报告：我告诉保安他们往哪个方向跑了",
+      "english_template": "I told a security guard ___ they ran.",
+      "expected_phrase": "which way"
+    }
+  ],
+  "mode": "all_fills"
+}

@@ -1,0 +1,1946 @@
+{
+  "total_duration": 759.137,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 5.552,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Through the forest"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“穿过森林”。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 5.902,
+      "end": 16.062,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先说清楚一个 safety boundary：课文里的 Mrs. Sterling 很勇敢，但现实里如果有人抢包、抢手机、抢钱包，孩子绝对不要追。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 16.412,
+      "end": 29.252,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "真实生活里，第一件事是 protect yourself and other people，保护自己和身边的人；然后 shout for help，往人多的地方走，找大人、保安，或者 call the police。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 29.601,
+      "end": 37.761,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以今天我们学的不是“怎样追坏人”，而是怎样用英语把一串动作讲得像电影镜头一样清楚。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 38.111,
+      "end": 50.399,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事从一个 calm picnic 开始。"
+        },
+        {
+          "lang": "en",
+          "text": "Picnic"
+        },
+        {
+          "lang": "zh",
+          "text": "是 outdoor meal，户外野餐；"
+        },
+        {
+          "lang": "en",
+          "text": "at the edge of a forest"
+        },
+        {
+          "lang": "zh",
+          "text": "是在森林边上，不是在森林深处。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 50.749,
+      "end": 61.989,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以想象：open grass，野餐垫，孩子，旁边就是 trees。突然，two men rush up，想抢 Mrs. Sterling 的 handbag。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 62.339,
+      "end": 76.259,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后动作链一格一格推进：rushed up -> tried to steal -> strap broke -> ran through the trees -> ran after them -> out of breath -> caught up -> went through the contents -> dropped the bag。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 76.609,
+      "end": 84.209,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结尾反而很 calm：包带坏了，需要修；但 nothing was stolen，什么也没被偷走。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 84.558,
+      "end": 105.278,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天记忆链是：picnic -> edge of forest -> rushed up -> tried to steal -> strap broke -> bag in their possession -> ran through trees -> ran after them -> out of breath -> caught up -> contents of the bag -> ran straight at them -> fright -> dropped the bag -> strap needs mending。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 105.628,
+      "end": 115.82,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一幅画，是 forest edge picnic。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Mrs. Anne Sterling did not think of the risk she was taking when she ran through a forest after two men."
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 116.17,
+      "end": 122.082,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Risk"
+        },
+        {
+          "lang": "zh",
+          "text": "是 danger，风险。她后来追进森林，其实很危险。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 122.432,
+      "end": 131.968,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着课文倒回去解释事情怎么开始："
+        },
+        {
+          "lang": "en",
+          "text": "They had rushed up to her while she was having a picnic at the edge of a forest with her children."
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 132.318,
+      "end": 143.606,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意"
+        },
+        {
+          "lang": "en",
+          "text": "at the edge of a forest"
+        },
+        {
+          "lang": "zh",
+          "text": "，不是 deep in the forest。她和孩子们是在森林边上的开放区域野餐，旁边有树，所以后面两个人可以跑进树林。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 143.955,
+      "end": 152.075,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一帧要先安静：blanket，food，children，trees。越 calm，后面的 sudden action 越明显。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 152.425,
+      "end": 161.585,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二幅画，是 sudden grab and broken strap。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "They had rushed up to her and tried to steal her handbag."
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 161.935,
+      "end": 170.247,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Rush up to her"
+        },
+        {
+          "lang": "zh",
+          "text": "是突然快速冲到她跟前；"
+        },
+        {
+          "lang": "en",
+          "text": "steal"
+        },
+        {
+          "lang": "zh",
+          "text": "是拿走不属于自己的东西。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 170.597,
+      "end": 178.085,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文没有直接说 a long fight，只给了关键动作："
+        },
+        {
+          "lang": "en",
+          "text": "In the struggle, the strap broke."
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 178.435,
+      "end": 187.242,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Struggle"
+        },
+        {
+          "lang": "zh",
+          "text": "是争抢、拉扯；"
+        },
+        {
+          "lang": "en",
+          "text": "strap"
+        },
+        {
+          "lang": "zh",
+          "text": "是包带；"
+        },
+        {
+          "lang": "en",
+          "text": "broke"
+        },
+        {
+          "lang": "zh",
+          "text": "是断了。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 187.592,
+      "end": 196.644,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后 bag 的位置变了："
+        },
+        {
+          "lang": "en",
+          "text": "with the bag in their possession"
+        },
+        {
+          "lang": "zh",
+          "text": "，包落到他们手里。这个物品位置变化，就是 chase 的开关。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 196.994,
+      "end": 206.37,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三幅画，是 through the trees。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "With the bag in their possession, both men started running through the trees."
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 206.72,
+      "end": 212.495,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "through"
+        },
+        {
+          "lang": "zh",
+          "text": "是穿过、在树林之间跑过去。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 212.845,
+      "end": 219.621,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Mrs. Sterling 的情绪推动下一步："
+        },
+        {
+          "lang": "en",
+          "text": "Mrs. Sterling got so angry that she ran after them."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 219.971,
+      "end": 227.155,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "So angry that"
+        },
+        {
+          "lang": "zh",
+          "text": "表示“气到某种程度，所以做了后面的动作”。她气得追了上去。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 227.505,
+      "end": 233.785,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但课文也马上让你看到风险："
+        },
+        {
+          "lang": "en",
+          "text": "She was soon out of breath, but she continued to run."
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 234.135,
+      "end": 243.87,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Out of breath"
+        },
+        {
+          "lang": "zh",
+          "text": "是上气不接下气。她已经喘了，可是还继续跑。电影感来自动作一个接一个，不是来自夸张打斗。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 244.22,
+      "end": 253.932,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四幅画，是 such a fright。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "When she caught up with them, she saw that they had sat down and were going through the contents of the bag."
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 254.282,
+      "end": 260.834,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Catch up with"
+        },
+        {
+          "lang": "zh",
+          "text": "是追上；"
+        },
+        {
+          "lang": "en",
+          "text": "contents"
+        },
+        {
+          "lang": "zh",
+          "text": "是里面的东西。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 261.184,
+      "end": 272.176,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里有一个重要短语："
+        },
+        {
+          "lang": "en",
+          "text": "go through the contents"
+        },
+        {
+          "lang": "zh",
+          "text": "。它不是“穿过内容”，而是 search，look through，翻看包里的东西。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 272.526,
+      "end": 276.805,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后最后一串动作来了："
+        },
+        {
+          "lang": "en",
+          "text": "She ran straight at them."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 277.155,
+      "end": 281.499,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The men got such a fright that they dropped the bag and ran away."
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 281.849,
+      "end": 290.537,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Such a fright that"
+        },
+        {
+          "lang": "zh",
+          "text": "表示“吓了这么一大跳，所以产生了后面的结果”。他们把包扔下，跑了。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 290.887,
+      "end": 301.335,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一行很有 New Concept 的 dry humor："
+        },
+        {
+          "lang": "en",
+          "text": "The strap needs mending, but they did not steal anything."
+        },
+        {
+          "lang": "zh",
+          "text": "包带要修，但东西没丢。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 301.685,
+      "end": 304.525,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这篇课文最容易学错的地方是什么？"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 304.875,
+      "end": 309.49,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "会不会觉得 Mrs. Sterling 很勇敢，所以现实里也应该追？"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 309.84,
+      "end": 319.44,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，这个一定不能学错。故事里她很 brave，但 real life safety 不一样。现实里不要 chase thieves，不要 fight for a bag。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 319.79,
+      "end": 321.956,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那应该怎么办？"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 322.306,
+      "end": 334.266,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Keep yourself safe，保护孩子或者身边的人，shout for help，move toward other people，找大人、保安或者报警，还可以记住他们往哪个方向跑、穿什么衣服。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 334.616,
+      "end": 336.518,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那我们主要学什么？"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 336.868,
+      "end": 346.228,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "学 action chain writing，动作链写作法。课文不是总结一句"
+        },
+        {
+          "lang": "en",
+          "text": "She got her handbag back."
+        },
+        {
+          "lang": "zh",
+          "text": "，而是让你看见每一步。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 346.577,
+      "end": 351.289,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "比如 rushed up，strap broke，ran through the trees，ran after them？"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 351.639,
+      "end": 360.319,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Yes. 再加上 out of breath，caught up，going through the contents，ran straight at them，dropped the bag and ran away。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 360.669,
+      "end": 362.563,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以像短电影一样？"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 362.913,
+      "end": 371.513,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Exactly. A calm picnic turns into a fast action scene, and then ends with one very practical sentence about the broken strap."
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 371.863,
+      "end": 377.791,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Mrs. Anne Sterling did not think of the risk she was taking when she ran through a forest after two men."
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 378.141,
+      "end": 384.813,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "They had rushed up to her while she was having a picnic at the edge of a forest with her children and tried to steal her handbag."
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 385.163,
+      "end": 391.715,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In the struggle, the strap broke and, with the bag in their possession, both men started running through the trees."
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 392.065,
+      "end": 395.881,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Mrs. Sterling got so angry that she ran after them."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 396.23,
+      "end": 400.094,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She was soon out of breath, but she continued to run."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 400.444,
+      "end": 407.356,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When she caught up with them, she saw that they had sat down and were going through the contents of the bag, so she ran straight at them."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 407.706,
+      "end": 411.69,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The men got such a fright that they dropped the bag and ran away."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 412.04,
+      "end": 417.272,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'The strap needs mending,' said Mrs. Sterling later, 'but they did not steal anything.'"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 417.622,
+      "end": 420.214,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "risk"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "risk"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 420.564,
+      "end": 422.1,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "risk"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "risk"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 422.45,
+      "end": 431.162,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "risk"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Risk"
+        },
+        {
+          "lang": "zh",
+          "text": "means danger, or the possibility that something bad may happen，风险，危险的可能。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 431.511,
+      "end": 436.435,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "risk"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Mrs. Anne Sterling did not think of the risk she was taking."
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 436.785,
+      "end": 444.241,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "risk"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Take a risk"
+        },
+        {
+          "lang": "zh",
+          "text": "是冒险。她追两个男人穿过森林，这件事本身有 danger。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 444.591,
+      "end": 452.711,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "risk"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这个词也帮我们放住 safety boundary：we can admire the story, but we should not copy the risky chase."
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 453.061,
+      "end": 455.813,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "possession"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "possession"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 456.163,
+      "end": 457.867,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "possession"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "possession"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 458.216,
+      "end": 467.208,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "possession"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Possession"
+        },
+        {
+          "lang": "zh",
+          "text": "means having or holding something, or having it under your control，占有，拿在手里，控制着。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 467.558,
+      "end": 470.85,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "possession"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "with the bag in their possession"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 471.2,
+      "end": 480.12,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "possession"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这不是说包真的属于他们，而是说 at that moment they had the bag。包从 Mrs. Sterling 手里，到了 the two men's hands。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 480.47,
+      "end": 484.43,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "possession"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "物品位置一变，故事就从 struggle 进入 chase。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 484.78,
+      "end": 487.772,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "contents"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "contents"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 488.122,
+      "end": 489.85,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "contents"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "contents"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 490.2,
+      "end": 499.431,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "contents"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Contents"
+        },
+        {
+          "lang": "zh",
+          "text": "means the things inside a container, a bag, a box, a book, or a message，里面的东西，内容物。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 499.781,
+      "end": 503.721,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "contents"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "They were going through the contents of the bag."
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 504.071,
+      "end": 510.843,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "contents"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里"
+        },
+        {
+          "lang": "en",
+          "text": "go through"
+        },
+        {
+          "lang": "zh",
+          "text": "means search or look through，翻看、搜查。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 511.193,
+      "end": 525.472,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "contents"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "同一个"
+        },
+        {
+          "lang": "en",
+          "text": "through"
+        },
+        {
+          "lang": "zh",
+          "text": "在今天有两个意思："
+        },
+        {
+          "lang": "en",
+          "text": "run through the trees"
+        },
+        {
+          "lang": "zh",
+          "text": "是穿过树林；"
+        },
+        {
+          "lang": "en",
+          "text": "go through the contents"
+        },
+        {
+          "lang": "zh",
+          "text": "是翻看包里的东西。Context decides the meaning."
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 525.822,
+      "end": 529.742,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar board 分四块，全部贴着 action chain。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 530.092,
+      "end": 553.923,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块，是 action verbs。课文把故事拍成镜头："
+        },
+        {
+          "lang": "en",
+          "text": "rushed up to her"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "tried to steal her handbag"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "the strap broke"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "started running through the trees"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "ran after them"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "caught up with them"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "ran straight at them"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "dropped the bag and ran away"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 554.273,
+      "end": 561.653,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这就是 Action Chain Writing，动作链写作法。不要只说 result，要 show actions。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 562.003,
+      "end": 576.995,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "比如 summary 是："
+        },
+        {
+          "lang": "en",
+          "text": "She got her handbag back."
+        },
+        {
+          "lang": "zh",
+          "text": "Scene writing 是："
+        },
+        {
+          "lang": "en",
+          "text": "The strap broke. The men ran through the trees. Mrs. Sterling ran after them. She caught up with them."
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 577.345,
+      "end": 585.617,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块，是"
+        },
+        {
+          "lang": "en",
+          "text": "so...that"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "Mrs. Sterling got so angry that she ran after them."
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 585.966,
+      "end": 593.558,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Pattern 是"
+        },
+        {
+          "lang": "en",
+          "text": "so + adjective + that + result"
+        },
+        {
+          "lang": "zh",
+          "text": "。Feeling 很强，所以后面发生了 action。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 593.908,
+      "end": 601.836,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块，是"
+        },
+        {
+          "lang": "en",
+          "text": "such...that"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "The men got such a fright that they dropped the bag and ran away."
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 602.186,
+      "end": 613.438,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Pattern 是"
+        },
+        {
+          "lang": "en",
+          "text": "such + noun phrase + that + result"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "A fright"
+        },
+        {
+          "lang": "zh",
+          "text": "是一个名词短语，所以用"
+        },
+        {
+          "lang": "en",
+          "text": "such a fright"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 613.787,
+      "end": 619.655,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四块，是"
+        },
+        {
+          "lang": "en",
+          "text": "go through"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "needs mending"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 620.005,
+      "end": 629.797,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Go through the forest"
+        },
+        {
+          "lang": "zh",
+          "text": "是 pass through the forest；"
+        },
+        {
+          "lang": "en",
+          "text": "go through the contents of the bag"
+        },
+        {
+          "lang": "zh",
+          "text": "是 search the things inside the bag。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 630.147,
+      "end": 642.594,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The strap needs mending"
+        },
+        {
+          "lang": "zh",
+          "text": "意思是包带需要修。"
+        },
+        {
+          "lang": "en",
+          "text": "Mending"
+        },
+        {
+          "lang": "zh",
+          "text": "is repairing。今天更日常可以说："
+        },
+        {
+          "lang": "en",
+          "text": "The strap needs fixing."
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 642.944,
+      "end": 648.664,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住今天的原则：write the action chain clearly, but make the real-life choice safely."
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 649.014,
+      "end": 655.574,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进你的生活。想象你在 park 里，看见有人 grab a bag and run away。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 655.924,
+      "end": 663.036,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以用动作链描述发生了什么："
+        },
+        {
+          "lang": "en",
+          "text": "Two people rushed up to a woman and tried to steal her bag."
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 663.386,
+      "end": 669.218,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着说物品变化："
+        },
+        {
+          "lang": "en",
+          "text": "The strap broke, and they ran through the trees."
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 669.568,
+      "end": 674.583,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后加入真实安全选择："
+        },
+        {
+          "lang": "en",
+          "text": "I did not run after them."
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 674.933,
+      "end": 682.973,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以用"
+        },
+        {
+          "lang": "en",
+          "text": "so...that"
+        },
+        {
+          "lang": "zh",
+          "text": "表达反应："
+        },
+        {
+          "lang": "en",
+          "text": "I was so surprised that I shouted for help."
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 683.323,
+      "end": 688.147,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "也可以报告结果："
+        },
+        {
+          "lang": "en",
+          "text": "I told a security guard which way they ran."
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 688.497,
+      "end": 696.633,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最重要的一句是："
+        },
+        {
+          "lang": "en",
+          "text": "In real life, I should not chase thieves. I should keep myself safe and ask for help."
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 696.983,
+      "end": 705.103,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这样你既能把 sudden event 讲成清楚的 action scene，又不会把课文里的 risky chase 当成现实建议。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 705.452,
+      "end": 712.772,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 713.122,
+      "end": 735.957,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时把"
+        },
+        {
+          "lang": "en",
+          "text": "risk"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "picnic"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "edge of a forest"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "rushed up"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "strap broke"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "in their possession"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "out of breath"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "contents of the bag"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "such a fright"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "needs mending"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 736.307,
+      "end": 747.467,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习安全优先的 action-chain reporting；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 747.817,
+      "end": 759.137,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心：A calm picnic becomes a fast action chain, but real-life safety comes first."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 44
+}

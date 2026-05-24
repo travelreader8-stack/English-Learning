@@ -1,0 +1,23 @@
+{
+  "lesson_id": 44,
+  "title": "Through the forest",
+  "visual_consistency": "A warm educational action-story illustration at the edge of a forest. Mrs. Anne Sterling is a determined adult mother in her late 30s, average build, oval face, light skin, dark brown hair tied back, wearing a soft blue cardigan over a white blouse and practical khaki trousers. She looks protective, angry, and brave but realistic, not superhero-like. Her two children stay safe in the background near a red picnic blanket. The two thieves are generic adult men in plain neutral outdoor jackets, with indistinct non-stereotyped faces, carrying or dropping the same tan handbag with a clearly broken strap. The setting stays consistent: open grassy picnic area beside trees, forest edge, visible chase path. Dynamic and cinematic but safe for children, no weapons, injury, terrifying close-ups, or readable text.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "The same Mrs. Anne Sterling, determined adult mother with dark brown hair tied back, blue cardigan, white blouse, and khaki trousers, has a calm picnic with her two children on a red blanket at the edge of a forest. Show an open grassy area beside tall trees so the forest boundary is clear. The same tan handbag with a strap rests beside her on the blanket. Mood is ordinary and calm, with a subtle sense that something could suddenly happen, no readable text."
+    },
+    {
+      "frame": 2,
+      "prompt": "At the same forest-edge picnic scene, the same two generic adult men in plain neutral outdoor jackets rush up and try to grab the same tan handbag from Mrs. Anne Sterling. Show the struggle safely without violence: the handbag strap has just snapped and the broken strap is visible. Mrs. Sterling looks shocked and protective while her children stay safely back near the picnic blanket. Dynamic action pose, no weapons, no injury, no frightening close-up, no readable text."
+    },
+    {
+      "frame": 3,
+      "prompt": "The same two generic adult men run through the trees carrying the same tan handbag with the broken strap, while the same Mrs. Anne Sterling runs after them along a clear forest path. She looks angry and out of breath but realistic, not superhero-like. Use motion and spacing to show rushed escape, chase, and effort; her children are far behind and safe near the open picnic area. Cinematic but child-safe, no violence, no weapons, no readable text."
+    },
+    {
+      "frame": 4,
+      "prompt": "The same Mrs. Anne Sterling has caught up near the trees and runs straight toward the same two generic adult men, who are startled and dropping the same tan handbag with its broken strap before running away. Show generic bag contents only as simple harmless items near the bag, with the recovered handbag as the focus. Mood is relieved and slightly funny after tension, no physical fight, no injury, no weapons, no readable text."
+    }
+  ]
+}
