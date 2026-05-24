@@ -1,0 +1,1836 @@
+{
+  "total_duration": 739.015,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 6.88,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Everything except the weather"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“唯独没有考虑到天气”。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 7.23,
+      "end": 19.07,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这不是一个简单的“天气不好”故事。它讲的是 dream life 和 daily life 的落差：一个人计划了退休、乡村、房子，却忘了每天都会碰到的气候。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 19.42,
+      "end": 32.355,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Harrison had lived in the Mediterranean for many years before he returned to England."
+        },
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "Mediterranean"
+        },
+        {
+          "lang": "zh",
+          "text": "不是一个国家，而是地中海周围的一片地区。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 32.705,
+      "end": 46.785,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里的 Mediterranean 让人想到 sunshine, warm days, sea views, walking outside, outdoor cafes。天气不是背景板，它会改变人的衣服、出门、心情和日常 routine。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 47.135,
+      "end": 55.855,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Harrison 在这种 sunshine 里住了很多年，所以他回英国乡村时，不只是换了一个地址，而是换回了另一种 daily climate。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 56.205,
+      "end": 64.005,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他 dreamed of retiring in England，planned to settle down in the country，还很快 bought a house。听起来一切都想好了。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 64.355,
+      "end": 70.219,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是现实来得很快："
+        },
+        {
+          "lang": "en",
+          "text": "Almost immediately he began to complain about the weather."
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 70.569,
+      "end": 83.168,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课的三个情绪词特别重要："
+        },
+        {
+          "lang": "en",
+          "text": "immediately"
+        },
+        {
+          "lang": "zh",
+          "text": "是几乎马上，"
+        },
+        {
+          "lang": "en",
+          "text": "continually"
+        },
+        {
+          "lang": "zh",
+          "text": "是一直反复，"
+        },
+        {
+          "lang": "en",
+          "text": "bitterly"
+        },
+        {
+          "lang": "zh",
+          "text": "是冷得刺人。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 83.518,
+      "end": 100.358,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "整课记忆链是：Mediterranean -> dreamed of England -> settle down -> bought house -> immediately complained -> continually rained -> bitterly cold -> shock -> could not bear -> sold house -> dream ended -> except the weather。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 100.708,
+      "end": 110.74,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一幅画，是 Harrison 的 long dream。"
+        },
+        {
+          "lang": "en",
+          "text": "My old friend, Harrison, had lived in the Mediterranean for many years before he returned to England."
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 111.09,
+      "end": 117.954,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "had lived"
+        },
+        {
+          "lang": "zh",
+          "text": "是 past perfect，说明他回英国以前，已经在 Mediterranean 住了很多年。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 118.303,
+      "end": 127.463,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那里的 sunshine 不只是好看的阳光，也是一种生活方式：可以散步、坐在外面、靠近海边，衣服和日程都比较轻松。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 127.813,
+      "end": 134.453,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文接着说："
+        },
+        {
+          "lang": "en",
+          "text": "He had often dreamed of retiring in England and had planned to settle down in the country."
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 134.803,
+      "end": 143.971,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "retire"
+        },
+        {
+          "lang": "zh",
+          "text": "是工作多年后退休；"
+        },
+        {
+          "lang": "en",
+          "text": "settle down"
+        },
+        {
+          "lang": "zh",
+          "text": "是在一个地方安顿下来，过稳定生活。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 144.321,
+      "end": 153.201,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以第一幅画要看见这个对比：Harrison 身在地中海阳光里，脑子里想的是 English country retirement。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 153.551,
+      "end": 161.063,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二幅画，是梦想变成行动。"
+        },
+        {
+          "lang": "en",
+          "text": "He had no sooner returned than he bought a house and went to live there."
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 161.412,
+      "end": 169.068,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "no sooner... than..."
+        },
+        {
+          "lang": "zh",
+          "text": "的感觉是“一刚发生 A，就发生 B”。他刚回英国，就买房住了进去。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 169.418,
+      "end": 175.978,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这说明 Harrison 很确定自己想要什么：retirement, country house, quiet life。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 176.328,
+      "end": 184.848,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但这也是问题所在。他 planned the place, but not the climate。他看见了 country house 的画面，却没有认真想 daily weather。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 185.198,
+      "end": 198.958,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以把这一步想成现代生活里看视频做决定：一个地方看起来 beautiful, peaceful, perfect，可是还没有检查交通、学校、食物、朋友、网络，还有天气。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 199.308,
+      "end": 210.612,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三幅画，是 weather shock。"
+        },
+        {
+          "lang": "en",
+          "text": "Almost immediately he began to complain about the weather, for even though it was still summer, it rained continually and it was often bitterly cold."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 210.962,
+      "end": 218.57,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "immediately"
+        },
+        {
+          "lang": "zh",
+          "text": "不是普通的 soon，而是 almost at once。梦想刚落地，现实就开始打脸。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 218.919,
+      "end": 228.959,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "continually"
+        },
+        {
+          "lang": "zh",
+          "text": "不是 one rainy afternoon，而是雨一直下、反复下，影响 walking, clothes, travel, outdoor plans, and mood。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 229.309,
+      "end": 240.141,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "bitterly cold"
+        },
+        {
+          "lang": "zh",
+          "text": "也不是 a little cold。它是冷得刺人、冷得发苦，尤其对一个住惯了 sunshine 的人来说，非常难受。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 240.491,
+      "end": 245.775,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "After so many years of sunshine, Harrison got a shock."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 246.125,
+      "end": 252.285,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个 shock 不是说英国不好，而是说 Harrison 的身体和习惯已经被另一种 climate 改变了。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 252.635,
+      "end": 258.947,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四幅画，是梦想结束。"
+        },
+        {
+          "lang": "en",
+          "text": "He acted as if he had never lived in England before."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 259.296,
+      "end": 267.232,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "as if"
+        },
+        {
+          "lang": "zh",
+          "text": "是 as though，好像怎样。Harrison 的反应像是从来没在英国生活过一样。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 267.582,
+      "end": 275.97,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "In the end, it was more than he could bear."
+        },
+        {
+          "lang": "en",
+          "text": "bear"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里是 endure，忍受。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 276.32,
+      "end": 283.344,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后来了很快的反转："
+        },
+        {
+          "lang": "en",
+          "text": "He had hardly had time to settle down when he sold the house and left the country."
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 283.694,
+      "end": 292.182,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "hardly... when..."
+        },
+        {
+          "lang": "zh",
+          "text": "的感觉是“几乎还没来得及 A，就 B 了”。他还没真正安顿下来，就卖房离开了。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 292.531,
+      "end": 297.707,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后的 punchline 是："
+        },
+        {
+          "lang": "en",
+          "text": "Harrison had thought of everything except the weather."
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 298.057,
+      "end": 307.705,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他计划了 dream picture，却忘了 daily feeling。标题里的"
+        },
+        {
+          "lang": "en",
+          "text": "except"
+        },
+        {
+          "lang": "zh",
+          "text": "就是 not including，唯独漏掉的那一项。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 308.055,
+      "end": 310.575,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课最容易误会的地方是什么？"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 310.925,
+      "end": 314.124,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "以为它是在说 England has bad weather？"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 314.474,
+      "end": 325.834,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，但我们不要这样讲。问题不是 England bad，而是 Harrison 从 Mediterranean sunshine 回到 cool, wet, changeable weather，落差太大。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 326.184,
+      "end": 328.624,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么要解释 Mediterranean？"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 328.974,
+      "end": 338.454,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为它不是一个国家名。课文用它来带出 climate and lifestyle：sunshine, warmer days, outdoor life, sea-side feeling。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 338.804,
+      "end": 343.532,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那 weather 为什么这么重要？不就是下雨和冷吗？"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 343.882,
+      "end": 354.962,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对游客来说可能只是一天的感受。对 resident 来说，weather 会决定穿什么、怎么出门、能不能散步、心情怎么样、每天的 routine 怎么安排。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 355.312,
+      "end": 357.2,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "三个 adverbs 呢？"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 357.55,
+      "end": 371.229,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它们是这课的 language feel。"
+        },
+        {
+          "lang": "en",
+          "text": "immediately"
+        },
+        {
+          "lang": "zh",
+          "text": "让现实来得很快；"
+        },
+        {
+          "lang": "en",
+          "text": "continually"
+        },
+        {
+          "lang": "zh",
+          "text": "让雨变成 daily pressure；"
+        },
+        {
+          "lang": "en",
+          "text": "bitterly"
+        },
+        {
+          "lang": "zh",
+          "text": "让冷有身体上的刺痛感。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 371.579,
+      "end": 373.841,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以 Harrison 是傻吗？"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 374.191,
+      "end": 383.071,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。他的错误很 human：他记得 the idea of England，却忘了 actually living there every day 的感觉。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 383.421,
+      "end": 389.565,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "My old friend, Harrison, had lived in the Mediterranean for many years before he returned to England."
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 389.915,
+      "end": 394.955,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He had often dreamed of retiring in England and had planned to settle down in the country."
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 395.305,
+      "end": 399.601,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He had no sooner returned than he bought a house and went to live there."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 399.951,
+      "end": 408.327,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Almost immediately he began to complain about the weather, for even though it was still summer, it rained continually and it was often bitterly cold."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 408.676,
+      "end": 412.732,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "After so many years of sunshine, Harrison got a shock."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 413.082,
+      "end": 416.778,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He acted as if he had never lived in England before."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 417.128,
+      "end": 420.272,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In the end, it was more than he could bear."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 420.622,
+      "end": 425.422,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He had hardly had time to settle down when he sold the house and left the country."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 425.772,
+      "end": 429.348,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The dream he had had for so many years ended there."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 429.698,
+      "end": 433.178,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Harrison had thought of everything except the weather."
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 433.528,
+      "end": 436.336,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "immediately"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "immediately"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 436.686,
+      "end": 438.486,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "immediately"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "immediately"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 438.835,
+      "end": 444.843,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "immediately"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "immediately"
+        },
+        {
+          "lang": "zh",
+          "text": "是 at once, almost no delay，几乎马上。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 445.193,
+      "end": 449.877,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "immediately"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Almost immediately he began to complain about the weather."
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 450.227,
+      "end": 459.875,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "immediately"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "immediately"
+        },
+        {
+          "lang": "zh",
+          "text": "不只是时间快，还带一点讽刺：他刚把退休梦搬进现实，现实马上就开始反击。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 460.225,
+      "end": 467.12,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "immediately"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它也呼应前面的"
+        },
+        {
+          "lang": "en",
+          "text": "no sooner... than..."
+        },
+        {
+          "lang": "zh",
+          "text": "。他买房很快，开始抱怨也很快。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 467.47,
+      "end": 470.39,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "continually"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "continually"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 470.74,
+      "end": 472.684,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "continually"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "continually"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 473.034,
+      "end": 481.154,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "continually"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "continually"
+        },
+        {
+          "lang": "zh",
+          "text": "是 happening again and again, or without stopping for long，一直反复、没完没了。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 481.504,
+      "end": 484.604,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "continually"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "It rained continually."
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 484.954,
+      "end": 495.314,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "continually"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "一场雨不是问题。Continual rain 会改变日常生活：出门要带伞，路是湿的，衣服不容易干，walking 和 outdoor plans 都会被打断。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 495.664,
+      "end": 502.803,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "continually"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "continually"
+        },
+        {
+          "lang": "zh",
+          "text": "让 weather 从一个场景，变成每天都压在生活上的 pressure。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 503.153,
+      "end": 505.905,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bitterly"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "bitterly"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 506.255,
+      "end": 507.887,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bitterly"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "bitterly"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 508.237,
+      "end": 517.029,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bitterly"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "bitterly"
+        },
+        {
+          "lang": "zh",
+          "text": "是 extremely and unpleasantly，尤其常用来形容 cold，冷得刺人。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 517.379,
+      "end": 520.815,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bitterly"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "It was often bitterly cold."
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 521.164,
+      "end": 531.568,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bitterly"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "bitterly cold"
+        },
+        {
+          "lang": "zh",
+          "text": "比"
+        },
+        {
+          "lang": "en",
+          "text": "very cold"
+        },
+        {
+          "lang": "zh",
+          "text": "更有身体感觉：damp, sharp, unpleasant，让人不想在外面久待。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 531.918,
+      "end": 540.638,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bitterly"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词和"
+        },
+        {
+          "lang": "en",
+          "text": "sunshine"
+        },
+        {
+          "lang": "zh",
+          "text": "形成强烈对比，也解释了为什么 Harrison finally could not bear it。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 540.988,
+      "end": 548.548,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 不要背成机械时态表。它其实在讲 long-before dream and quick-after collapse。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 548.898,
+      "end": 561.277,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组是 long-before dream："
+        },
+        {
+          "lang": "en",
+          "text": "had lived"
+        },
+        {
+          "lang": "zh",
+          "text": ","
+        },
+        {
+          "lang": "en",
+          "text": "had often dreamed"
+        },
+        {
+          "lang": "zh",
+          "text": ","
+        },
+        {
+          "lang": "en",
+          "text": "had planned"
+        },
+        {
+          "lang": "zh",
+          "text": ", 还有"
+        },
+        {
+          "lang": "en",
+          "text": "the dream he had had"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 561.627,
+      "end": 571.387,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Past perfect 说明这些事情都在主要故事动作之前已经存在：他住过很多年，梦想了很多年，计划也早就形成了。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 571.737,
+      "end": 577.201,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组是 too fast："
+        },
+        {
+          "lang": "en",
+          "text": "He had no sooner returned than he bought a house."
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 577.551,
+      "end": 585.031,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句话让动作非常快：returned, bought, went to live there。决定太快，检查太少。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 585.381,
+      "end": 591.501,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组也是 too fast："
+        },
+        {
+          "lang": "en",
+          "text": "He had hardly had time to settle down when he sold the house."
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 591.85,
+      "end": 597.978,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "hardly... when..."
+        },
+        {
+          "lang": "zh",
+          "text": "表示几乎还没来得及安顿，就已经卖房离开。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 598.328,
+      "end": 607.168,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中间的 weather feel 用三个词推动故事："
+        },
+        {
+          "lang": "en",
+          "text": "immediately"
+        },
+        {
+          "lang": "zh",
+          "text": ","
+        },
+        {
+          "lang": "en",
+          "text": "continually"
+        },
+        {
+          "lang": "zh",
+          "text": ","
+        },
+        {
+          "lang": "en",
+          "text": "bitterly"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 607.518,
+      "end": 614.01,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后用"
+        },
+        {
+          "lang": "en",
+          "text": "except"
+        },
+        {
+          "lang": "zh",
+          "text": "收住："
+        },
+        {
+          "lang": "en",
+          "text": "He had thought of everything except the weather."
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 614.36,
+      "end": 627.5,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以语法板可以这样记：had lived / had dreamed / had planned 是多年梦想；no sooner 和 hardly 是崩塌太快；except 是最后漏掉的 daily detail。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 627.849,
+      "end": 637.969,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进你的生活。想象你看到一个 beautiful place 的视频，很想搬去那里，或者参加一个 new school, camp, or activity。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 638.319,
+      "end": 644.159,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你不能只说 it looks beautiful。你要像 Harrison 的反面一样，检查 daily details。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 644.509,
+      "end": 648.533,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以这样开头："
+        },
+        {
+          "lang": "en",
+          "text": "I have dreamed of living near the sea."
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 648.883,
+      "end": 653.235,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着说你的计划："
+        },
+        {
+          "lang": "en",
+          "text": "I have planned the house and the school."
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 653.585,
+      "end": 658.753,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后提醒自己不要太快决定："
+        },
+        {
+          "lang": "en",
+          "text": "But I should not decide immediately."
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 659.102,
+      "end": 666.886,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你还要检查 daily factors："
+        },
+        {
+          "lang": "en",
+          "text": "I must think about the weather, transport, food, friends, and routine."
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 667.236,
+      "end": 675.532,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果天气会影响生活，可以说："
+        },
+        {
+          "lang": "en",
+          "text": "If it rains continually or is bitterly cold, daily life may be different."
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 675.882,
+      "end": 681.45,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后用标题句型收住："
+        },
+        {
+          "lang": "en",
+          "text": "I should not think of everything except the weather."
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 681.8,
+      "end": 687.28,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这道练习不是叫你不要做梦，而是让 dream picture 加上 real daily life。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 687.63,
+      "end": 716.665,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "Mediterranean"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "had lived"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "had dreamed"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "no sooner returned than"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "immediately"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "continually"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "bitterly cold"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "hardly had time"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "everything except the weather"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 717.015,
+      "end": 739.015,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习 beautiful place plus daily details；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心：Harrison planned the dream picture, but forgot the daily climate."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 38
+}

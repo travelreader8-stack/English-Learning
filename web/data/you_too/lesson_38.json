@@ -1,0 +1,47 @@
+{
+  "lesson_id": 38,
+  "title": "Everything except the weather",
+  "question": "把今天课文里的“梦想地点 -> 计划 -> 日常现实 -> 漏掉的因素”放进你自己的选择场景。用 word bank 补完整 4 个空。",
+  "example_answer": "I have dreamed of living near the sea. I have planned the house and the school. But I should not decide immediately. I must think about the weather, transport, food, friends, and routine. If it rains continually or is bitterly cold, daily life may be different. I should not think of everything except the weather.",
+  "word_bank": [
+    "have dreamed of living near the sea",
+    "have planned the house and the school",
+    "should not decide immediately",
+    "must think about the weather",
+    "transport",
+    "food",
+    "friends",
+    "routine",
+    "rains continually",
+    "bitterly cold",
+    "daily life may be different",
+    "everything except the weather"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说明你的梦想地点：你一直梦想住在海边",
+      "english_template": "I ___.",
+      "expected_phrase": "have dreamed of living near the sea"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说明你已经做过的计划：房子和学校都想好了",
+      "english_template": "I ___.",
+      "expected_phrase": "have planned the house and the school"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "提醒自己不要太快决定",
+      "english_template": "But I ___.",
+      "expected_phrase": "should not decide immediately"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "补上最容易漏掉的日常因素：天气也要考虑",
+      "english_template": "I ___.",
+      "expected_phrase": "must think about the weather"
+    }
+  ],
+  "mode": "all_fills"
+}

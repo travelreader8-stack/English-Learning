@@ -1,0 +1,114 @@
+{
+  "lesson_id": 38,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“地中海阳光 -> 英国退休梦 -> 快速买房 -> 天气冲击 -> 梦想结束”的故事链读顺。注意 past perfect 的 had lived / had dreamed / had planned，也要读出 immediately、continually、bitterly 的情绪变化。",
+  "sentences": [
+    {
+      "id": "l38_s1",
+      "text": "My old friend, Harrison, had lived in the Mediterranean for many years before he returned to England.",
+      "focus_zh": "had lived 表示回英国以前已经住了很多年；Mediterranean 要读成一个完整地名。",
+      "start": 383.421,
+      "end": 389.565,
+      "focus_words": [
+        "My old friend, Harrison",
+        "had lived",
+        "in the Mediterranean",
+        "for many years",
+        "before he returned"
+      ]
+    },
+    {
+      "id": "l38_s2",
+      "text": "He had often dreamed of retiring in England and had planned to settle down in the country.",
+      "focus_zh": "had dreamed 和 had planned 读出长期梦想；settle down 是安顿下来。",
+      "start": 389.915,
+      "end": 394.955,
+      "focus_words": [
+        "had often dreamed",
+        "retiring in England",
+        "had planned",
+        "settle down",
+        "in the country"
+      ]
+    },
+    {
+      "id": "l38_s3",
+      "text": "He had no sooner returned than he bought a house and went to live there.",
+      "focus_zh": "no sooner... than... 表示一回来就买房，动作非常快。",
+      "start": 395.305,
+      "end": 399.601,
+      "focus_words": [
+        "had no sooner returned",
+        "than",
+        "bought a house",
+        "went to live there"
+      ]
+    },
+    {
+      "id": "l38_s4",
+      "text": "Almost immediately he began to complain about the weather, for even though it was still summer, it rained continually and it was often bitterly cold.",
+      "focus_zh": "长句要在 weather 后小停；immediately、continually、bitterly 是这课的情绪中心。",
+      "start": 399.951,
+      "end": 408.327,
+      "focus_words": [
+        "Almost immediately",
+        "complain about the weather",
+        "even though",
+        "rained continually",
+        "bitterly cold"
+      ]
+    },
+    {
+      "id": "l38_s5",
+      "text": "After so many years of sunshine, Harrison got a shock.",
+      "focus_zh": "After so many years of sunshine 先读成原因背景；got a shock 是吃了一惊。",
+      "start": 408.676,
+      "end": 412.732,
+      "focus_words": [
+        "After so many years",
+        "sunshine",
+        "Harrison",
+        "got a shock"
+      ]
+    },
+    {
+      "id": "l38_s6",
+      "text": "He acted as if he had never lived in England before.",
+      "focus_zh": "as if 是好像；had never lived 要读出他的反应很夸张。",
+      "start": 413.082,
+      "end": 416.778,
+      "focus_words": [
+        "acted as if",
+        "had never lived",
+        "in England before"
+      ]
+    },
+    {
+      "id": "l38_s7",
+      "text": "In the end, it was more than he could bear. He had hardly had time to settle down when he sold the house and left the country.",
+      "focus_zh": "more than he could bear 表示超过能忍受的程度；hardly... when... 表示几乎还没安顿就离开。",
+      "start": 417.128,
+      "end": 425.422,
+      "focus_words": [
+        "In the end",
+        "more than he could bear",
+        "had hardly had time",
+        "settle down",
+        "left the country"
+      ]
+    },
+    {
+      "id": "l38_s8",
+      "text": "The dream he had had for so many years ended there. Harrison had thought of everything except the weather.",
+      "focus_zh": "the dream he had had 是多年梦想；最后一句要读成安静的讽刺 punchline。",
+      "start": 425.772,
+      "end": 433.178,
+      "focus_words": [
+        "The dream he had had",
+        "ended there",
+        "had thought of everything",
+        "except the weather"
+      ]
+    }
+  ]
+}

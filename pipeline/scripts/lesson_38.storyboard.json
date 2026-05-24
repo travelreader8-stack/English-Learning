@@ -1,0 +1,23 @@
+{
+  "lesson_id": 38,
+  "title": "Everything except the weather",
+  "visual_consistency": "A warm ironic educational illustration about Harrison, an older retired English man with silver hair, round glasses, a beige cardigan, brown coat, neat trousers, and a thoughtful gentle expression. Keep the same face, glasses, clothing colors, slim average build, and reserved posture across all frames. He appears first relaxed in Mediterranean sunshine near a coastal outdoor cafe, then hopeful at an English country house, then uncomfortable in continual rain and bitter cold, then rueful as he sells the house and leaves. Clear contrast between sunny Mediterranean outdoor lifestyle and damp English countryside weather, gentle humor, no harsh caricature.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "A warm educational illustration of the same Harrison, an older retired English man with silver hair, round glasses, a beige cardigan, brown coat folded over one arm, neat trousers, slim average build, and a thoughtful gentle expression. He sits near a Mediterranean coastal outdoor cafe in golden sunshine, with sea view, light clothing around him, walking path, and relaxed outdoor life. In a soft thought bubble he imagines a charming English countryside retirement house. Emphasize sunny daily lifestyle versus dream location, gentle irony, no map-heavy geography, no beach-poster glamour."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same Harrison with silver hair, round glasses, beige cardigan, brown coat, neat trousers, and gentle hopeful expression stands outside a charming English country house he has just bought. A suitcase and house key show the quick move, the countryside looks attractive, but grey clouds and a damp path hint at changeable weather. Keep the house hopeful rather than ugly, show he planned the place but not the climate, clear readable composition, no harsh mockery."
+    },
+    {
+      "frame": 3,
+      "prompt": "The same Harrison with silver hair, round glasses, beige cardigan under a brown coat, neat trousers, and now an uncomfortable shocked expression stands by the same English country house in continual rain and bitter cold. Show grey sky, wet road, umbrella, raindrops, damp coat, cold breath, and closed outdoor chair, with a small contrast memory of Mediterranean sunshine in the corner. Emphasize immediately, continually, and bitterly as physical weather feelings through visuals, no readable tiny labels, no national stereotype."
+    },
+    {
+      "frame": 4,
+      "prompt": "The same Harrison with silver hair, round glasses, beige cardigan, brown coat, neat trousers, and a rueful gentle expression leaves the rainy English country house with a suitcase. A sold sign, wet road, and departing car or train in the background show the dream ending quietly. Include a subtle visual contrast: a fading sunny Mediterranean memory versus the damp English countryside. The title idea lands as he thought of everything except the weather, warm irony, not tragic, no harsh caricature."
+    }
+  ]
+}
