@@ -1,52 +1,112 @@
 {
-  "total_duration": 702.796,
+  "total_duration": 856.194,
   "lines": [
     {
       "i": 0,
       "start": 0.0,
-      "end": 5.2,
+      "end": 6.62,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "想象一个小村庄。村里有个大家都认识的人，叫 Sam Benton。"
+          "text": "想象一个小村庄。村里有个大家都认识的人，叫"
+        },
+        {
+          "lang": "en",
+          "text": "Sam Benton"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 1,
-      "start": 5.55,
-      "end": 14.55,
+      "start": 6.97,
+      "end": 18.642,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
       "segments": [
         {
+          "lang": "en",
+          "text": "Sam"
+        },
+        {
           "lang": "zh",
-          "text": "Sam 是本地 butcher，也就是卖肉的店主。这样的人在小村庄里不是陌生人，大家买东西会见到他，路上也会打招呼。"
+          "text": "是本地"
+        },
+        {
+          "lang": "en",
+          "text": "butcher"
+        },
+        {
+          "lang": "zh",
+          "text": "，也就是卖肉的店主。这样的人在小村庄里不是陌生人，大家买东西会见到他，路上也会打招呼。"
         }
       ]
     },
     {
       "i": 2,
-      "start": 14.9,
-      "end": 26.54,
+      "start": 18.991,
+      "end": 36.971,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "有一天，Sam 带着自己攒下来的 savings 去 post office。这里的 savings 是存款，post office 在老式社区里也可能处理一些钱款服务。"
+          "text": "有一天，"
+        },
+        {
+          "lang": "en",
+          "text": "Sam"
+        },
+        {
+          "lang": "zh",
+          "text": "带着自己攒下来的"
+        },
+        {
+          "lang": "en",
+          "text": "savings"
+        },
+        {
+          "lang": "zh",
+          "text": "去"
+        },
+        {
+          "lang": "en",
+          "text": "post office"
+        },
+        {
+          "lang": "zh",
+          "text": "。这里的"
+        },
+        {
+          "lang": "en",
+          "text": "savings"
+        },
+        {
+          "lang": "zh",
+          "text": "是存款，"
+        },
+        {
+          "lang": "en",
+          "text": "post office"
+        },
+        {
+          "lang": "zh",
+          "text": "在老式社区里也可能处理一些钱款服务。"
         }
       ]
     },
     {
       "i": 3,
-      "start": 26.89,
-      "end": 31.69,
+      "start": 37.32,
+      "end": 42.12,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
@@ -59,92 +119,140 @@
     },
     {
       "i": 4,
-      "start": 32.039,
-      "end": 36.92,
+      "start": 42.47,
+      "end": 48.158,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "村子很小，消息很快传开：Sam 的钱不见了。"
+          "text": "村子很小，消息很快传开："
+        },
+        {
+          "lang": "en",
+          "text": "Sam"
+        },
+        {
+          "lang": "zh",
+          "text": "的钱不见了。"
         }
       ]
     },
     {
       "i": 5,
-      "start": 37.269,
-      "end": 45.829,
+      "start": 48.508,
+      "end": 58.656,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
       "segments": [
         {
+          "lang": "en",
+          "text": "Sam"
+        },
+        {
           "lang": "zh",
-          "text": "Sam 心里也明白，这钱包大概不是掉进河里了，而是被村里某个人捡到了。可是，没有人来还。"
+          "text": "心里也明白，这钱包大概不是掉进河里了，而是被村里某个人捡到了。可是，没有人来还。"
         }
       ]
     },
     {
       "i": 6,
-      "start": 46.179,
-      "end": 53.059,
+      "start": 59.006,
+      "end": 67.294,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "三个月后，一个早晨，Sam 打开门，发现门口放着一个用报纸包起来的钱包。"
+          "text": "三个月后，一个早晨，"
+        },
+        {
+          "lang": "en",
+          "text": "Sam"
+        },
+        {
+          "lang": "zh",
+          "text": "打开门，发现门口放着一个用报纸包起来的钱包。"
         }
       ]
     },
     {
       "i": 7,
-      "start": 53.409,
-      "end": 65.409,
+      "start": 67.644,
+      "end": 80.003,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "钱包回来了，但里面只有一半的钱，还有一张纸条。那个人好像在跟自己的良心谈判：我是小偷，是的，但我只是 50 per cent a thief。"
+          "text": "钱包回来了，但里面只有一半的钱，还有一张纸条。那个人好像在跟自己的良心谈判：我是小偷，是的，但我只是"
+        },
+        {
+          "lang": "en",
+          "text": "50 per cent a thief"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 8,
-      "start": 65.759,
-      "end": 71.319,
+      "start": 80.353,
+      "end": 85.441,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "这就是今天的题目：A clear conscience，问心无愧。"
+          "text": "这就是今天的题目："
+        },
+        {
+          "lang": "en",
+          "text": "A clear conscience"
+        },
+        {
+          "lang": "zh",
+          "text": "，问心无愧。"
         }
       ]
     },
     {
       "i": 9,
-      "start": 71.669,
-      "end": 79.629,
+      "start": 85.791,
+      "end": 96.167,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
       "segments": [
         {
+          "lang": "en",
+          "text": "Conscience"
+        },
+        {
           "lang": "zh",
-          "text": "Conscience 可以理解成心里的良心声音。A clear conscience 就是心里没有亏欠，晚上能睡得踏实。"
+          "text": "可以理解成心里的良心声音。"
+        },
+        {
+          "lang": "en",
+          "text": "A clear conscience"
+        },
+        {
+          "lang": "zh",
+          "text": "就是心里没有亏欠，晚上能睡得踏实。"
         }
       ]
     },
     {
       "i": 10,
-      "start": 79.979,
-      "end": 87.699,
+      "start": 96.517,
+      "end": 104.237,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
@@ -157,22 +265,70 @@
     },
     {
       "i": 11,
-      "start": 88.049,
-      "end": 109.089,
+      "start": 104.587,
+      "end": 136.062,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "今天背诵不要先硬背一长串英文。先记中文电影线：全村知道丢钱 -> Sam 丢钱包 -> 带 savings 去 post office -> 觉得有人捡了但没还 -> 三个月后钱包回来一半 -> 50% 小偷 -> 又还一些 -> 25% 小偷 -> 最后全还清 -> 100% honest。"
+          "text": "今天背诵不要先硬背一长串英文。先记中文电影线：全村知道丢钱 ->"
+        },
+        {
+          "lang": "en",
+          "text": "Sam"
+        },
+        {
+          "lang": "zh",
+          "text": "丢钱包 -> 带"
+        },
+        {
+          "lang": "en",
+          "text": "savings"
+        },
+        {
+          "lang": "zh",
+          "text": "去"
+        },
+        {
+          "lang": "en",
+          "text": "post office"
+        },
+        {
+          "lang": "zh",
+          "text": "-> 觉得有人捡了但没还 -> 三个月后钱包回来一半 ->"
+        },
+        {
+          "lang": "en",
+          "text": "50%"
+        },
+        {
+          "lang": "zh",
+          "text": "小偷 -> 又还一些 ->"
+        },
+        {
+          "lang": "en",
+          "text": "25%"
+        },
+        {
+          "lang": "zh",
+          "text": "小偷 -> 最后全还清 ->"
+        },
+        {
+          "lang": "en",
+          "text": "100% honest"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 12,
-      "start": 109.438,
-      "end": 111.758,
+      "start": 136.412,
+      "end": 138.732,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -187,8 +343,8 @@
     },
     {
       "i": 13,
-      "start": 112.108,
-      "end": 116.988,
+      "start": 139.081,
+      "end": 144.789,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -197,14 +353,22 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "中文锚点是：全村都知道，Sam 丢了一大笔钱。"
+          "text": "中文锚点是：全村都知道，"
+        },
+        {
+          "lang": "en",
+          "text": "Sam"
+        },
+        {
+          "lang": "zh",
+          "text": "丢了一大笔钱。"
         }
       ]
     },
     {
       "i": 14,
-      "start": 117.338,
-      "end": 124.018,
+      "start": 145.139,
+      "end": 153.575,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -213,14 +377,30 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "对应的英文块是：The whole village soon learnt，还有 a large sum of money had been lost。"
+          "text": "对应的英文块是："
+        },
+        {
+          "lang": "en",
+          "text": "The whole village soon learnt"
+        },
+        {
+          "lang": "zh",
+          "text": "，还有"
+        },
+        {
+          "lang": "en",
+          "text": "a large sum of money had been lost"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 15,
-      "start": 124.368,
-      "end": 131.748,
+      "start": 153.925,
+      "end": 165.396,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -228,15 +408,27 @@
       },
       "segments": [
         {
+          "lang": "en",
+          "text": "A large sum of money"
+        },
+        {
           "lang": "zh",
-          "text": "A large sum of money 是一大笔钱。Had been lost 是过去完成被动，重点放在钱已经丢了这个结果上。"
+          "text": "是一大笔钱。"
+        },
+        {
+          "lang": "en",
+          "text": "Had been lost"
+        },
+        {
+          "lang": "zh",
+          "text": "是过去完成被动，重点放在钱已经丢了这个结果上。"
         }
       ]
     },
     {
       "i": 16,
-      "start": 132.098,
-      "end": 137.978,
+      "start": 165.746,
+      "end": 171.41,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -245,14 +437,22 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "然后人物出现：Sam Benton, the local butcher, had lost his wallet。"
+          "text": "然后人物出现："
+        },
+        {
+          "lang": "en",
+          "text": "Sam Benton, the local butcher, had lost his wallet"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 17,
-      "start": 138.328,
-      "end": 146.688,
+      "start": 171.76,
+      "end": 181.616,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -260,15 +460,19 @@
       },
       "segments": [
         {
+          "lang": "en",
+          "text": "Local butcher"
+        },
+        {
           "lang": "zh",
-          "text": "Local butcher 是本地卖肉的店主。这个背景很重要，因为小村庄里大家认识他，所以消息会传得很快。"
+          "text": "是本地卖肉的店主。这个背景很重要，因为小村庄里大家认识他，所以消息会传得很快。"
         }
       ]
     },
     {
       "i": 18,
-      "start": 147.038,
-      "end": 149.358,
+      "start": 181.966,
+      "end": 184.286,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -283,8 +487,8 @@
     },
     {
       "i": 19,
-      "start": 149.708,
-      "end": 157.228,
+      "start": 184.636,
+      "end": 197.019,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -293,14 +497,38 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "中文锚点是：Sam 带着 savings 去 post office，觉得钱包肯定被村民捡到了，可是没人还。"
+          "text": "中文锚点是："
+        },
+        {
+          "lang": "en",
+          "text": "Sam"
+        },
+        {
+          "lang": "zh",
+          "text": "带着"
+        },
+        {
+          "lang": "en",
+          "text": "savings"
+        },
+        {
+          "lang": "zh",
+          "text": "去"
+        },
+        {
+          "lang": "en",
+          "text": "post office"
+        },
+        {
+          "lang": "zh",
+          "text": "，觉得钱包肯定被村民捡到了，可是没人还。"
         }
       ]
     },
     {
       "i": 20,
-      "start": 157.578,
-      "end": 164.498,
+      "start": 197.369,
+      "end": 205.533,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -309,14 +537,30 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "先挂住两个英文块：while taking his savings to the post office，和 must have been found。"
+          "text": "先挂住两个英文块："
+        },
+        {
+          "lang": "en",
+          "text": "while taking his savings to the post office"
+        },
+        {
+          "lang": "zh",
+          "text": "，和"
+        },
+        {
+          "lang": "en",
+          "text": "must have been found"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 21,
-      "start": 164.847,
-      "end": 174.287,
+      "start": 205.883,
+      "end": 216.571,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -324,15 +568,27 @@
       },
       "segments": [
         {
+          "lang": "en",
+          "text": "Must have been found"
+        },
+        {
           "lang": "zh",
-          "text": "Must have been found 的意思是：Sam 没看见是谁捡的，但他很肯定，钱包一定已经被人捡到了。"
+          "text": "的意思是："
+        },
+        {
+          "lang": "en",
+          "text": "Sam"
+        },
+        {
+          "lang": "zh",
+          "text": "没看见是谁捡的，但他很肯定，钱包一定已经被人捡到了。"
         }
       ]
     },
     {
       "i": 22,
-      "start": 174.637,
-      "end": 180.757,
+      "start": 216.92,
+      "end": 224.992,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -341,14 +597,22 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "形式是 must have been 加过去分词，表示对过去被动事件的高把握推测。"
+          "text": "形式是"
+        },
+        {
+          "lang": "en",
+          "text": "must have been"
+        },
+        {
+          "lang": "zh",
+          "text": "加过去分词，表示对过去被动事件的高把握推测。"
         }
       ]
     },
     {
       "i": 23,
-      "start": 181.107,
-      "end": 186.867,
+      "start": 225.342,
+      "end": 231.558,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -357,14 +621,22 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "后面还有一句很关键：it was not returned to him。钱包没有被还给他。"
+          "text": "后面还有一句很关键："
+        },
+        {
+          "lang": "en",
+          "text": "it was not returned to him"
+        },
+        {
+          "lang": "zh",
+          "text": "。钱包没有被还给他。"
         }
       ]
     },
     {
       "i": 24,
-      "start": 187.217,
-      "end": 192.297,
+      "start": 231.908,
+      "end": 239.004,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -373,14 +645,22 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "这就是本课的 mystery grammar：我们知道发生了什么，却不知道是谁做的。"
+          "text": "这就是本课的"
+        },
+        {
+          "lang": "en",
+          "text": "mystery grammar"
+        },
+        {
+          "lang": "zh",
+          "text": "：我们知道发生了什么，却不知道是谁做的。"
         }
       ]
     },
     {
       "i": 25,
-      "start": 192.647,
-      "end": 196.127,
+      "start": 239.354,
+      "end": 242.834,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -395,8 +675,8 @@
     },
     {
       "i": 26,
-      "start": 196.477,
-      "end": 204.677,
+      "start": 243.183,
+      "end": 253.591,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -405,14 +685,22 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "中文锚点是：三个月后，钱包出现在 Sam 家门口，被报纸包着，里面只有一半的钱和一张纸条。"
+          "text": "中文锚点是：三个月后，钱包出现在"
+        },
+        {
+          "lang": "en",
+          "text": "Sam"
+        },
+        {
+          "lang": "zh",
+          "text": "家门口，被报纸包着，里面只有一半的钱和一张纸条。"
         }
       ]
     },
     {
       "i": 27,
-      "start": 205.027,
-      "end": 212.987,
+      "start": 253.941,
+      "end": 265.621,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -421,14 +709,46 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "对应英文块是：Three months passed，outside his front door，wrapped up in newspaper，contained half the money。"
+          "text": "对应英文块是："
+        },
+        {
+          "lang": "en",
+          "text": "Three months passed"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "outside his front door"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "wrapped up in newspaper"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "contained half the money"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 28,
-      "start": 213.336,
-      "end": 221.056,
+      "start": 265.971,
+      "end": 273.522,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -436,15 +756,27 @@
       },
       "segments": [
         {
+          "lang": "en",
+          "text": "Wrapped up in newspaper"
+        },
+        {
           "lang": "zh",
-          "text": "Wrapped up in newspaper 是用报纸包起来。Contained half the money 是里面有一半的钱。"
+          "text": "是用报纸包起来。"
+        },
+        {
+          "lang": "en",
+          "text": "Contained half the money"
+        },
+        {
+          "lang": "zh",
+          "text": "是里面有一半的钱。"
         }
       ]
     },
     {
       "i": 29,
-      "start": 221.406,
-      "end": 226.446,
+      "start": 273.872,
+      "end": 280.44,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -453,14 +785,18 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "接下来纸条出现了：A thief, yes, but only 50 per cent a thief!"
+          "text": "接下来纸条出现了："
+        },
+        {
+          "lang": "en",
+          "text": "A thief, yes, but only 50 per cent a thief!"
         }
       ]
     },
     {
       "i": 30,
-      "start": 226.796,
-      "end": 236.036,
+      "start": 280.79,
+      "end": 291.962,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -469,14 +805,22 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "这句话的中文意思不是说偷东西可以原谅，而是在制造一个荒唐笑点：他还了一半钱，就说自己只是 50% 小偷。"
+          "text": "这句话的中文意思不是说偷东西可以原谅，而是在制造一个荒唐笑点：他还了一半钱，就说自己只是"
+        },
+        {
+          "lang": "en",
+          "text": "50%"
+        },
+        {
+          "lang": "zh",
+          "text": "小偷。"
         }
       ]
     },
     {
       "i": 31,
-      "start": 236.386,
-      "end": 242.666,
+      "start": 292.312,
+      "end": 299.7,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -485,14 +829,22 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "但 returning half is not enough。还一半不是诚实，只是开始补错。"
+          "text": "但"
+        },
+        {
+          "lang": "en",
+          "text": "returning half is not enough"
+        },
+        {
+          "lang": "zh",
+          "text": "。还一半不是诚实，只是开始补错。"
         }
       ]
     },
     {
       "i": 32,
-      "start": 243.016,
-      "end": 245.056,
+      "start": 300.05,
+      "end": 302.09,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -507,8 +859,8 @@
     },
     {
       "i": 33,
-      "start": 245.406,
-      "end": 255.526,
+      "start": 302.439,
+      "end": 314.959,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -517,14 +869,30 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "中文锚点是：又过两个月，又有一些钱送来；最后 Sam 的钱全还清了，那个人说自己 100% honest。"
+          "text": "中文锚点是：又过两个月，又有一些钱送来；最后"
+        },
+        {
+          "lang": "en",
+          "text": "Sam"
+        },
+        {
+          "lang": "zh",
+          "text": "的钱全还清了，那个人说自己"
+        },
+        {
+          "lang": "en",
+          "text": "100% honest"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 34,
-      "start": 255.876,
-      "end": 260.796,
+      "start": 315.309,
+      "end": 321.581,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -533,14 +901,30 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "先记 Two months later，再记 some more money was sent。"
+          "text": "先记"
+        },
+        {
+          "lang": "en",
+          "text": "Two months later"
+        },
+        {
+          "lang": "zh",
+          "text": "，再记"
+        },
+        {
+          "lang": "en",
+          "text": "some more money was sent"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 35,
-      "start": 261.146,
-      "end": 265.346,
+      "start": 321.931,
+      "end": 327.747,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -548,15 +932,19 @@
       },
       "segments": [
         {
+          "lang": "en",
+          "text": "Was sent"
+        },
+        {
           "lang": "zh",
-          "text": "Was sent 还是被动语态，因为送来钱的人继续匿名。"
+          "text": "还是被动语态，因为送来钱的人继续匿名。"
         }
       ]
     },
     {
       "i": 36,
-      "start": 265.696,
-      "end": 269.616,
+      "start": 328.096,
+      "end": 333.032,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -565,14 +953,18 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "第二张纸条说：Only 25 per cent a thief now!"
+          "text": "第二张纸条说："
+        },
+        {
+          "lang": "en",
+          "text": "Only 25 per cent a thief now!"
         }
       ]
     },
     {
       "i": 37,
-      "start": 269.965,
-      "end": 277.165,
+      "start": 333.382,
+      "end": 341.626,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -581,14 +973,26 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "最后是 all Sam's money was paid back，还有 I am 100 per cent honest now!"
+          "text": "最后是"
+        },
+        {
+          "lang": "en",
+          "text": "all Sam's money was paid back"
+        },
+        {
+          "lang": "zh",
+          "text": "，还有"
+        },
+        {
+          "lang": "en",
+          "text": "I am 100 per cent honest now!"
         }
       ]
     },
     {
       "i": 38,
-      "start": 277.515,
-      "end": 282.555,
+      "start": 341.976,
+      "end": 349.272,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -597,14 +1001,22 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "这个结尾很 New Concept：有点干，有点好笑，也有点刺人。"
+          "text": "这个结尾很"
+        },
+        {
+          "lang": "en",
+          "text": "New Concept"
+        },
+        {
+          "lang": "zh",
+          "text": "：有点干，有点好笑，也有点刺人。"
         }
       ]
     },
     {
       "i": 39,
-      "start": 282.905,
-      "end": 288.365,
+      "start": 349.622,
+      "end": 355.082,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -619,8 +1031,8 @@
     },
     {
       "i": 40,
-      "start": 288.715,
-      "end": 292.997,
+      "start": 355.431,
+      "end": 359.714,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -633,8 +1045,8 @@
     },
     {
       "i": 41,
-      "start": 293.347,
-      "end": 300.387,
+      "start": 360.064,
+      "end": 367.104,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -647,8 +1059,8 @@
     },
     {
       "i": 42,
-      "start": 300.737,
-      "end": 304.427,
+      "start": 367.453,
+      "end": 371.144,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -661,8 +1073,8 @@
     },
     {
       "i": 43,
-      "start": 304.777,
-      "end": 312.617,
+      "start": 371.493,
+      "end": 379.333,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -675,50 +1087,90 @@
     },
     {
       "i": 44,
-      "start": 312.967,
-      "end": 315.347,
+      "start": 379.683,
+      "end": 383.216,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
       "segments": [
         {
+          "lang": "en",
+          "text": "Honesty"
+        },
+        {
           "lang": "zh",
-          "text": "Honesty 不是考试分数。"
+          "text": "不是考试分数。"
         }
       ]
     },
     {
       "i": 45,
-      "start": 315.697,
-      "end": 324.297,
+      "start": 383.565,
+      "end": 397.917,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
       "segments": [
         {
+          "lang": "en",
+          "text": "Exactly. Honesty is not a percentage score"
+        },
+        {
           "lang": "zh",
-          "text": "Exactly. Honesty is not a percentage score。诚实不是 50%、25%、100% 这样算出来的。"
+          "text": "。诚实不是"
+        },
+        {
+          "lang": "en",
+          "text": "50%"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "25%"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "100%"
+        },
+        {
+          "lang": "zh",
+          "text": "这样算出来的。"
         }
       ]
     },
     {
       "i": 46,
-      "start": 324.647,
-      "end": 327.275,
+      "start": 398.267,
+      "end": 402.504,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "那 clear conscience 到底是什么？"
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "clear conscience"
+        },
+        {
+          "lang": "zh",
+          "text": "到底是什么？"
         }
       ]
     },
     {
       "i": 47,
-      "start": 327.625,
-      "end": 334.985,
+      "start": 402.854,
+      "end": 410.214,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -731,8 +1183,8 @@
     },
     {
       "i": 48,
-      "start": 335.335,
-      "end": 338.159,
+      "start": 410.564,
+      "end": 413.389,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -745,22 +1197,54 @@
     },
     {
       "i": 49,
-      "start": 338.509,
-      "end": 350.149,
+      "start": 413.739,
+      "end": 431.086,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "因为做事的人一直躲在故事背后。钱 had been lost，钱包 must have been found，钱 was sent，最后 was paid back。我们看见结果，却看不见那个人。"
+          "text": "因为做事的人一直躲在故事背后。钱"
+        },
+        {
+          "lang": "en",
+          "text": "had been lost"
+        },
+        {
+          "lang": "zh",
+          "text": "，钱包"
+        },
+        {
+          "lang": "en",
+          "text": "must have been found"
+        },
+        {
+          "lang": "zh",
+          "text": "，钱"
+        },
+        {
+          "lang": "en",
+          "text": "was sent"
+        },
+        {
+          "lang": "zh",
+          "text": "，最后"
+        },
+        {
+          "lang": "en",
+          "text": "was paid back"
+        },
+        {
+          "lang": "zh",
+          "text": "。我们看见结果，却看不见那个人。"
         }
       ]
     },
     {
       "i": 50,
-      "start": 350.499,
-      "end": 353.473,
+      "start": 431.436,
+      "end": 434.409,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -773,22 +1257,30 @@
     },
     {
       "i": 51,
-      "start": 353.822,
-      "end": 364.902,
+      "start": 434.759,
+      "end": 447.103,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "立刻完整归还。交给老师、前台、保安、警察或者 lost-and-found office。不要只还一部分，更不要给自己算诚实百分比。"
+          "text": "立刻完整归还。交给老师、前台、保安、警察或者"
+        },
+        {
+          "lang": "en",
+          "text": "lost-and-found office"
+        },
+        {
+          "lang": "zh",
+          "text": "。不要只还一部分，更不要给自己算诚实百分比。"
         }
       ]
     },
     {
       "i": 52,
-      "start": 365.252,
-      "end": 368.515,
+      "start": 447.453,
+      "end": 451.653,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -801,8 +1293,8 @@
     },
     {
       "i": 53,
-      "start": 368.865,
-      "end": 374.406,
+      "start": 452.003,
+      "end": 457.907,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -815,8 +1307,8 @@
     },
     {
       "i": 54,
-      "start": 374.756,
-      "end": 380.122,
+      "start": 458.257,
+      "end": 464.281,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -829,8 +1321,8 @@
     },
     {
       "i": 55,
-      "start": 380.472,
-      "end": 385.396,
+      "start": 464.631,
+      "end": 469.911,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -843,8 +1335,8 @@
     },
     {
       "i": 56,
-      "start": 385.746,
-      "end": 394.938,
+      "start": 470.261,
+      "end": 479.477,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -857,8 +1349,8 @@
     },
     {
       "i": 57,
-      "start": 395.288,
-      "end": 401.174,
+      "start": 479.826,
+      "end": 486.33,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -871,8 +1363,8 @@
     },
     {
       "i": 58,
-      "start": 401.524,
-      "end": 404.667,
+      "start": 486.68,
+      "end": 490.52,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -885,8 +1377,8 @@
     },
     {
       "i": 59,
-      "start": 405.017,
-      "end": 408.384,
+      "start": 490.87,
+      "end": 495.022,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -899,8 +1391,8 @@
     },
     {
       "i": 60,
-      "start": 408.734,
-      "end": 410.694,
+      "start": 495.372,
+      "end": 498.18,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -909,14 +1401,22 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "第一个词：conscience。"
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "conscience"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 61,
-      "start": 411.044,
-      "end": 412.521,
+      "start": 498.53,
+      "end": 500.234,
       "speaker": "B",
       "scene": "vocab",
       "scene_meta": {
@@ -924,15 +1424,19 @@
       },
       "segments": [
         {
+          "lang": "en",
+          "text": "conscience"
+        },
+        {
           "lang": "zh",
-          "text": "conscience。"
+          "text": "。"
         }
       ]
     },
     {
       "i": 62,
-      "start": 412.871,
-      "end": 419.711,
+      "start": 500.584,
+      "end": 506.592,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -940,15 +1444,19 @@
       },
       "segments": [
         {
+          "lang": "en",
+          "text": "Conscience means the inner sense of right and wrong"
+        },
+        {
           "lang": "zh",
-          "text": "Conscience means the inner sense of right and wrong，心里判断对错的良心声音。"
+          "text": "，心里判断对错的良心声音。"
         }
       ]
     },
     {
       "i": 63,
-      "start": 420.061,
-      "end": 427.781,
+      "start": 506.942,
+      "end": 516.093,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -957,14 +1465,30 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "课文标题是 A clear conscience。Clear 在这里不是透明，而是没有内疚、没有亏欠。"
+          "text": "课文标题是"
+        },
+        {
+          "lang": "en",
+          "text": "A clear conscience"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "Clear"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里不是透明，而是没有内疚、没有亏欠。"
         }
       ]
     },
     {
       "i": 64,
-      "start": 428.131,
-      "end": 435.491,
+      "start": 516.443,
+      "end": 524.459,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -973,14 +1497,22 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "故事里的匿名人一开始 conscience is not clear。他一点一点还钱，是因为心里不踏实。"
+          "text": "故事里的匿名人一开始"
+        },
+        {
+          "lang": "en",
+          "text": "conscience is not clear"
+        },
+        {
+          "lang": "zh",
+          "text": "。他一点一点还钱，是因为心里不踏实。"
         }
       ]
     },
     {
       "i": 65,
-      "start": 435.84,
-      "end": 442.68,
+      "start": 524.809,
+      "end": 533.137,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -989,14 +1521,22 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "但真正的 clear conscience 不是靠写百分比纸条得到的，而是靠及时、完整地做对的事。"
+          "text": "但真正的"
+        },
+        {
+          "lang": "en",
+          "text": "clear conscience"
+        },
+        {
+          "lang": "zh",
+          "text": "不是靠写百分比纸条得到的，而是靠及时、完整地做对的事。"
         }
       ]
     },
     {
       "i": 66,
-      "start": 443.03,
-      "end": 444.87,
+      "start": 533.487,
+      "end": 536.406,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1005,14 +1545,22 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "第二个词：savings。"
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "savings"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 67,
-      "start": 445.22,
-      "end": 446.789,
+      "start": 536.756,
+      "end": 538.532,
       "speaker": "B",
       "scene": "vocab",
       "scene_meta": {
@@ -1020,15 +1568,19 @@
       },
       "segments": [
         {
+          "lang": "en",
+          "text": "savings"
+        },
+        {
           "lang": "zh",
-          "text": "savings。"
+          "text": "。"
         }
       ]
     },
     {
       "i": 68,
-      "start": 447.139,
-      "end": 452.859,
+      "start": 538.882,
+      "end": 544.578,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1036,15 +1588,19 @@
       },
       "segments": [
         {
+          "lang": "en",
+          "text": "Savings means money that someone has saved"
+        },
+        {
           "lang": "zh",
-          "text": "Savings means money that someone has saved，存下来的钱，存款。"
+          "text": "，存下来的钱，存款。"
         }
       ]
     },
     {
       "i": 69,
-      "start": 453.209,
-      "end": 459.129,
+      "start": 544.928,
+      "end": 550.476,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1053,14 +1609,22 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "课文说：Sam had lost his wallet while taking his savings to the post office。"
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Sam had lost his wallet while taking his savings to the post office"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 70,
-      "start": 459.479,
-      "end": 463.799,
+      "start": 550.826,
+      "end": 557.034,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1069,14 +1633,22 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "这句说明 Sam 丢的不是随手零钱，而是重要的钱。"
+          "text": "这句说明"
+        },
+        {
+          "lang": "en",
+          "text": "Sam"
+        },
+        {
+          "lang": "zh",
+          "text": "丢的不是随手零钱，而是重要的钱。"
         }
       ]
     },
     {
       "i": 71,
-      "start": 464.149,
-      "end": 475.829,
+      "start": 557.384,
+      "end": 578.135,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1085,14 +1657,78 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "今天我们常用 bank card、banking app、Alipay、WeChat Pay 或 online transfer，但课文里的时代更依赖 cash、wallet 和 post office。"
+          "text": "今天我们常用"
+        },
+        {
+          "lang": "en",
+          "text": "bank card"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "banking app"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "Alipay"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "WeChat Pay"
+        },
+        {
+          "lang": "zh",
+          "text": "或"
+        },
+        {
+          "lang": "en",
+          "text": "online transfer"
+        },
+        {
+          "lang": "zh",
+          "text": "，但课文里的时代更依赖"
+        },
+        {
+          "lang": "en",
+          "text": "cash"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "wallet"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "post office"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 72,
-      "start": 476.179,
-      "end": 477.979,
+      "start": 578.484,
+      "end": 581.452,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1101,14 +1737,22 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "第三个词：villager。"
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "villager"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 73,
-      "start": 478.328,
-      "end": 479.71,
+      "start": 581.802,
+      "end": 583.65,
       "speaker": "B",
       "scene": "vocab",
       "scene_meta": {
@@ -1116,15 +1760,19 @@
       },
       "segments": [
         {
+          "lang": "en",
+          "text": "villager"
+        },
+        {
           "lang": "zh",
-          "text": "villager。"
+          "text": "。"
         }
       ]
     },
     {
       "i": 74,
-      "start": 480.06,
-      "end": 484.26,
+      "start": 584.0,
+      "end": 588.44,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1132,15 +1780,19 @@
       },
       "segments": [
         {
+          "lang": "en",
+          "text": "Villager means a person who lives in a village"
+        },
+        {
           "lang": "zh",
-          "text": "Villager means a person who lives in a village，村民。"
+          "text": "，村民。"
         }
       ]
     },
     {
       "i": 75,
-      "start": 484.61,
-      "end": 488.81,
+      "start": 588.79,
+      "end": 593.402,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1149,14 +1801,22 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "课文说：the wallet must have been found by one of the villagers。"
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "the wallet must have been found by one of the villagers"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 76,
-      "start": 489.16,
-      "end": 495.96,
+      "start": 593.752,
+      "end": 602.48,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1165,14 +1825,22 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "这个词让故事更 personal。不是大城市里完全陌生的人海，而是一个熟人小社区。"
+          "text": "这个词让故事更"
+        },
+        {
+          "lang": "en",
+          "text": "personal"
+        },
+        {
+          "lang": "zh",
+          "text": "。不是大城市里完全陌生的人海，而是一个熟人小社区。"
         }
       ]
     },
     {
       "i": 77,
-      "start": 496.31,
-      "end": 501.23,
+      "start": 602.829,
+      "end": 610.037,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1181,112 +1849,156 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "也正因为是小村庄，Sam 才会觉得钱包很可能被村里某个人捡到了。"
+          "text": "也正因为是小村庄，"
+        },
+        {
+          "lang": "en",
+          "text": "Sam"
+        },
+        {
+          "lang": "zh",
+          "text": "才会觉得钱包很可能被村里某个人捡到了。"
         }
       ]
     },
     {
       "i": 78,
-      "start": 501.58,
-      "end": 506.34,
+      "start": 610.387,
+      "end": 616.891,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "今天的 grammar board 叫：被动语态等于匿名故事的语法。"
+          "text": "今天的"
+        },
+        {
+          "lang": "en",
+          "text": "grammar board"
+        },
+        {
+          "lang": "zh",
+          "text": "叫：被动语态等于匿名故事的语法。"
         }
       ]
     },
     {
       "i": 79,
-      "start": 506.69,
-      "end": 512.05,
+      "start": 617.241,
+      "end": 622.625,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "先看这条链：a large sum of money had been lost，钱已经丢了。"
+          "text": "先看这条链："
+        },
+        {
+          "lang": "en",
+          "text": "a large sum of money had been lost"
+        },
+        {
+          "lang": "zh",
+          "text": "，钱已经丢了。"
         }
       ]
     },
     {
       "i": 80,
-      "start": 512.4,
-      "end": 516.36,
+      "start": 622.975,
+      "end": 627.71,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
       "segments": [
         {
+          "lang": "en",
+          "text": "The wallet must have been found"
+        },
+        {
           "lang": "zh",
-          "text": "The wallet must have been found，钱包一定已经被捡到了。"
+          "text": "，钱包一定已经被捡到了。"
         }
       ]
     },
     {
       "i": 81,
-      "start": 516.71,
-      "end": 520.189,
+      "start": 628.06,
+      "end": 631.82,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
       "segments": [
         {
+          "lang": "en",
+          "text": "It was not returned"
+        },
+        {
           "lang": "zh",
-          "text": "It was not returned，它没有被还回来。"
+          "text": "，它没有被还回来。"
         }
       ]
     },
     {
       "i": 82,
-      "start": 520.539,
-      "end": 522.859,
+      "start": 632.17,
+      "end": 635.746,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
       "segments": [
         {
+          "lang": "en",
+          "text": "It had been wrapped up"
+        },
+        {
           "lang": "zh",
-          "text": "It had been wrapped up，它被包起来。"
+          "text": "，它被包起来。"
         }
       ]
     },
     {
       "i": 83,
-      "start": 523.209,
-      "end": 526.769,
+      "start": 636.096,
+      "end": 640.128,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
       "segments": [
         {
+          "lang": "en",
+          "text": "Some more money was sent"
+        },
+        {
           "lang": "zh",
-          "text": "Some more money was sent，又有钱被送来。"
+          "text": "，又有钱被送来。"
         }
       ]
     },
     {
       "i": 84,
-      "start": 527.119,
-      "end": 531.319,
+      "start": 640.478,
+      "end": 645.15,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
       "segments": [
         {
+          "lang": "en",
+          "text": "All Sam's money was paid back"
+        },
+        {
           "lang": "zh",
-          "text": "All Sam's money was paid back，所有钱被还清。"
+          "text": "，所有钱被还清。"
         }
       ]
     },
     {
       "i": 85,
-      "start": 531.669,
-      "end": 537.469,
+      "start": 645.5,
+      "end": 651.3,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1299,36 +2011,92 @@
     },
     {
       "i": 86,
-      "start": 537.819,
-      "end": 544.239,
+      "start": 651.649,
+      "end": 663.373,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "课文把重点放在 wallet、money、note 和 result 上，而不是放在匿名人的脸上。"
+          "text": "课文把重点放在"
+        },
+        {
+          "lang": "en",
+          "text": "wallet"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "money"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "note"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "result"
+        },
+        {
+          "lang": "zh",
+          "text": "上，而不是放在匿名人的脸上。"
         }
       ]
     },
     {
       "i": 87,
-      "start": 544.589,
-      "end": 550.829,
+      "start": 663.723,
+      "end": 672.37,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "再看 must have been found。Pattern 是 must have been 加过去分词。"
+          "text": "再看"
+        },
+        {
+          "lang": "en",
+          "text": "must have been found"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "Pattern"
+        },
+        {
+          "lang": "zh",
+          "text": "是"
+        },
+        {
+          "lang": "en",
+          "text": "must have been"
+        },
+        {
+          "lang": "zh",
+          "text": "加过去分词。"
         }
       ]
     },
     {
       "i": 88,
-      "start": 551.179,
-      "end": 558.459,
+      "start": 672.72,
+      "end": 680.0,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1341,190 +2109,306 @@
     },
     {
       "i": 89,
-      "start": 558.808,
-      "end": 563.168,
+      "start": 680.35,
+      "end": 685.994,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "比如：The door is open. It must have been opened by someone."
+          "text": "比如："
+        },
+        {
+          "lang": "en",
+          "text": "The door is open. It must have been opened by someone."
         }
       ]
     },
     {
       "i": 90,
-      "start": 563.518,
-      "end": 567.678,
+      "start": 686.344,
+      "end": 691.616,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "再比如：The cake is gone. It must have been eaten."
+          "text": "再比如："
+        },
+        {
+          "lang": "en",
+          "text": "The cake is gone. It must have been eaten."
         }
       ]
     },
     {
       "i": 91,
-      "start": 568.028,
-      "end": 575.388,
+      "start": 691.966,
+      "end": 701.765,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "最后看百分比笑点：50 per cent a thief，25 per cent a thief，100 per cent honest。"
+          "text": "最后看百分比笑点："
+        },
+        {
+          "lang": "en",
+          "text": "50 per cent a thief"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "25 per cent a thief"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "100 per cent honest"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 92,
-      "start": 575.738,
-      "end": 582.378,
+      "start": 702.115,
+      "end": 713.795,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
       "segments": [
         {
+          "lang": "en",
+          "text": "British English"
+        },
+        {
           "lang": "zh",
-          "text": "British English 里 per cent 常常分成两个词；现代日常也会看到 percent 或百分号。"
+          "text": "里"
+        },
+        {
+          "lang": "en",
+          "text": "per cent"
+        },
+        {
+          "lang": "zh",
+          "text": "常常分成两个词；现代日常也会看到"
+        },
+        {
+          "lang": "en",
+          "text": "percent"
+        },
+        {
+          "lang": "zh",
+          "text": "或百分号。"
         }
       ]
     },
     {
       "i": 93,
-      "start": 582.728,
-      "end": 591.648,
+      "start": 714.145,
+      "end": 723.993,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "可是在这个故事里，百分比不是数学重点，而是 moral joke。钱可以分期还，诚实不能分期算。"
+          "text": "可是在这个故事里，百分比不是数学重点，而是"
+        },
+        {
+          "lang": "en",
+          "text": "moral joke"
+        },
+        {
+          "lang": "zh",
+          "text": "。钱可以分期还，诚实不能分期算。"
         }
       ]
     },
     {
       "i": 94,
-      "start": 591.998,
-      "end": 598.638,
+      "start": 724.342,
+      "end": 734.798,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "现在把这课放进你的生活。想象你在 school gate 附近发现了一个 wallet，但不知道是谁的。"
+          "text": "现在把这课放进你的生活。想象你在"
+        },
+        {
+          "lang": "en",
+          "text": "school gate"
+        },
+        {
+          "lang": "zh",
+          "text": "附近发现了一个"
+        },
+        {
+          "lang": "en",
+          "text": "wallet"
+        },
+        {
+          "lang": "zh",
+          "text": "，但不知道是谁的。"
         }
       ]
     },
     {
       "i": 95,
-      "start": 598.988,
-      "end": 605.108,
+      "start": 735.148,
+      "end": 740.844,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "你可以先用被动语态报告物品：This wallet was found near the school gate."
+          "text": "你可以先用被动语态报告物品："
+        },
+        {
+          "lang": "en",
+          "text": "This wallet was found near the school gate."
         }
       ]
     },
     {
       "i": 96,
-      "start": 605.458,
-      "end": 610.778,
+      "start": 741.194,
+      "end": 747.862,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "再用 must have been 做推测：It must have been left by a student."
+          "text": "再用"
+        },
+        {
+          "lang": "en",
+          "text": "must have been"
+        },
+        {
+          "lang": "zh",
+          "text": "做推测："
+        },
+        {
+          "lang": "en",
+          "text": "It must have been left by a student."
         }
       ]
     },
     {
       "i": 97,
-      "start": 611.128,
-      "end": 616.008,
+      "start": 748.211,
+      "end": 752.507,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "然后说正确做法：I have given it to the school office."
+          "text": "然后说正确做法："
+        },
+        {
+          "lang": "en",
+          "text": "I have given it to the school office."
         }
       ]
     },
     {
       "i": 98,
-      "start": 616.357,
-      "end": 620.677,
+      "start": 752.857,
+      "end": 757.137,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "如果东西都在里面，可以说：Everything is inside."
+          "text": "如果东西都在里面，可以说："
+        },
+        {
+          "lang": "en",
+          "text": "Everything is inside."
         }
       ]
     },
     {
       "i": 99,
-      "start": 621.027,
-      "end": 625.867,
+      "start": 757.487,
+      "end": 762.287,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "最后加上今天的核心：I want to have a clear conscience."
+          "text": "最后加上今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "I want to have a clear conscience."
         }
       ]
     },
     {
       "i": 100,
-      "start": 626.217,
-      "end": 633.537,
+      "start": 762.637,
+      "end": 770.685,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "这和课文里的匿名人不一样。你不是偷偷分期归还，而是 quickly and completely return lost property。"
+          "text": "这和课文里的匿名人不一样。你不是偷偷分期归还，而是"
+        },
+        {
+          "lang": "en",
+          "text": "quickly and completely return lost property"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 101,
-      "start": 633.887,
-      "end": 646.167,
+      "start": 771.035,
+      "end": 786.546,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "连起来就是：This wallet was found near the school gate. It must have been left by a student. I have given it to the school office. Everything is inside. I want to have a clear conscience."
+          "text": "连起来就是："
+        },
+        {
+          "lang": "en",
+          "text": "This wallet was found near the school gate. It must have been left by a student. I have given it to the school office. Everything is inside. I want to have a clear conscience."
         }
       ]
     },
     {
       "i": 102,
-      "start": 646.517,
-      "end": 653.837,
+      "start": 786.896,
+      "end": 794.216,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
@@ -1537,57 +2421,157 @@
     },
     {
       "i": 103,
-      "start": 654.187,
-      "end": 668.547,
+      "start": 794.566,
+      "end": 814.246,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "跟读时先抓中文线：全村知道丢钱 -> Sam 丢钱包 -> 没有人还 -> 钱包包着报纸回来一半 -> 50% 小偷 -> 25% 小偷 -> 最后 100% honest。"
+          "text": "跟读时先抓中文线：全村知道丢钱 ->"
+        },
+        {
+          "lang": "en",
+          "text": "Sam"
+        },
+        {
+          "lang": "zh",
+          "text": "丢钱包 -> 没有人还 -> 钱包包着报纸回来一半 ->"
+        },
+        {
+          "lang": "en",
+          "text": "50%"
+        },
+        {
+          "lang": "zh",
+          "text": "小偷 ->"
+        },
+        {
+          "lang": "en",
+          "text": "25%"
+        },
+        {
+          "lang": "zh",
+          "text": "小偷 -> 最后"
+        },
+        {
+          "lang": "en",
+          "text": "100% honest"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 104,
-      "start": 668.897,
-      "end": 678.097,
+      "start": 814.596,
+      "end": 831.607,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "再把 English chunks 读顺：had been lost，must have been found，was not returned，wrapped up in newspaper，was sent，was paid back。"
+          "text": "再把"
+        },
+        {
+          "lang": "en",
+          "text": "English chunks"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺："
+        },
+        {
+          "lang": "en",
+          "text": "had been lost"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "must have been found"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "was not returned"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "wrapped up in newspaper"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "was sent"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "was paid back"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
         }
       ]
     },
     {
       "i": 105,
-      "start": 678.446,
-      "end": 690.446,
+      "start": 831.957,
+      "end": 843.997,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "跟读完以后，再做 ① 生活场景，练习 honest lost-property return；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。"
+          "text": "跟读完以后，再做 ① 生活场景，练习"
+        },
+        {
+          "lang": "en",
+          "text": "honest lost-property return"
+        },
+        {
+          "lang": "zh",
+          "text": "；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。"
         }
       ]
     },
     {
       "i": 106,
-      "start": 690.796,
-      "end": 702.796,
+      "start": 844.346,
+      "end": 856.194,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心：Return what you find, make things right quickly, and do not turn honesty into a percentage game."
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "Return what you find, make things right quickly, and do not turn honesty into a percentage game."
         }
       ]
     }

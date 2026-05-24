@@ -28,6 +28,8 @@ import os
 import re
 import sys
 import time
+import urllib.error
+import urllib.request
 from pathlib import Path
 
 from pydub import AudioSegment
@@ -66,12 +68,6 @@ from _tts_common import (  # type: ignore
     scene_voice_overrides,
     xml_escape,
 )
-
-# Azure SDK
-try:
-    import azure.cognitiveservices.speech as speechsdk
-except ImportError:
-    sys.exit("缺少 Azure Speech SDK：pip install azure-cognitiveservices-speech")
 
 # 腾讯云 SDK
 try:
@@ -158,20 +154,70 @@ def tencent_synth(text: str, voice_id: int, speed: int = 0, volume: int = 5, sam
             raise
 
 
-# ─── Azure SDK ──────────────────────────────────────
+# ─── Azure REST TTS ─────────────────────────────────
+_azure_last_request_at = 0.0
+
+
+def _retry_after_seconds(headers) -> float | None:
+    raw = headers.get("Retry-After") if headers else None
+    if not raw:
+        return None
+    try:
+        return max(0.0, float(raw))
+    except ValueError:
+        return None
+
+
 def _azure_synth(ssml: str, key: str, region: str) -> bytes:
-    config = speechsdk.SpeechConfig(subscription=key, region=region)
-    config.set_speech_synthesis_output_format(
-        speechsdk.SpeechSynthesisOutputFormat.Audio24Khz96KBitRateMonoMp3
-    )
-    synth = speechsdk.SpeechSynthesizer(speech_config=config, audio_config=None)
-    result = synth.speak_ssml_async(ssml).get()
-    if result.reason == speechsdk.ResultReason.SynthesizingAudioCompleted:
-        return result.audio_data
-    if result.reason == speechsdk.ResultReason.Canceled:
-        cd = result.cancellation_details
-        raise RuntimeError(f"Azure TTS 失败：{cd.reason} — {cd.error_details}")
-    raise RuntimeError(f"Azure TTS 异常：{result.reason}")
+    """Azure TTS via REST, with throttling/backoff for many short EN segments."""
+    global _azure_last_request_at
+
+    url = f"https://{region}.tts.speech.microsoft.com/cognitiveservices/v1"
+    data = ssml.encode("utf-8")
+    headers = {
+        "Ocp-Apim-Subscription-Key": key,
+        "Content-Type": "application/ssml+xml; charset=utf-8",
+        "X-Microsoft-OutputFormat": "audio-24khz-96kbitrate-mono-mp3",
+        "User-Agent": "English-Learning-HybridTTS",
+    }
+    max_attempts = int(os.environ.get("AZURE_TTS_MAX_ATTEMPTS", "6"))
+    min_interval = float(os.environ.get("AZURE_TTS_MIN_INTERVAL_SEC", "0.4"))
+    retryable = {408, 409, 429, 500, 502, 503, 504}
+
+    for attempt in range(max_attempts):
+        elapsed = time.monotonic() - _azure_last_request_at
+        if elapsed < min_interval:
+            time.sleep(min_interval - elapsed)
+
+        req = urllib.request.Request(url, data=data, headers=headers, method="POST")
+        try:
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                _azure_last_request_at = time.monotonic()
+                audio = resp.read()
+                if audio:
+                    return audio
+                raise RuntimeError("Azure TTS 返回空 audio")
+        except urllib.error.HTTPError as e:
+            _azure_last_request_at = time.monotonic()
+            body = e.read().decode("utf-8", errors="replace")
+            if e.code in retryable and attempt < max_attempts - 1:
+                wait = _retry_after_seconds(e.headers)
+                if wait is None:
+                    wait = min(45.0, 2.0 * (attempt + 1) ** 2)
+                print(f"  ↻ Azure TTS HTTP {e.code}，{wait:.1f}s 后重试")
+                time.sleep(wait)
+                continue
+            raise RuntimeError(f"Azure TTS 失败：HTTP {e.code} — {body[:240]}") from e
+        except urllib.error.URLError as e:
+            _azure_last_request_at = time.monotonic()
+            if attempt < max_attempts - 1:
+                wait = min(30.0, 1.5 * (attempt + 1) ** 2)
+                print(f"  ↻ Azure TTS 网络错误，{wait:.1f}s 后重试：{e}")
+                time.sleep(wait)
+                continue
+            raise RuntimeError(f"Azure TTS 网络错误：{e}") from e
+
+    raise RuntimeError("Azure TTS 超过最大重试次数")
 
 
 def build_azure_ssml_for_en(text: str, voice_name: str, rate: str) -> str:
@@ -269,7 +315,7 @@ def render_lesson(script_path: Path, out_mp3: Path, timeline_out: Path,
         if not lang_segments:
             continue
 
-        # 合成各子段：单段失败 → 跳过该子段、整行其余部分继续
+        # 合成各子段：任何失败都让本课失败，避免静默产出缺英文的音轨。
         line_audio: AudioSegment | None = None
         for j, (lang, seg_text) in enumerate(lang_segments):
             # 跳过纯标点 zh 子段（腾讯云会 InvalidText 拒掉）
@@ -278,8 +324,7 @@ def render_lesson(script_path: Path, out_mp3: Path, timeline_out: Path,
             try:
                 sub = synth_segment(lang, seg_text, cfg, scene, azure_key, azure_region)
             except Exception as e:
-                print(f"  ⚠️ 子段失败 [{lang}] \"{seg_text[:40]}\" — {e}")
-                continue
+                raise RuntimeError(f"子段失败 [{lang}] \"{seg_text[:80]}\" — {e}") from e
             if line_audio is None:
                 line_audio = sub
             else:
