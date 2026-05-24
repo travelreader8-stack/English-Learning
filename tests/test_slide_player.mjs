@@ -164,6 +164,11 @@ async function main() {
   } else {
     bad('hook 没有接入第 1 帧插画');
   }
+  if (!stage._innerHTML.includes('hook-kicker') && !stage._innerHTML.includes('hook-title')) {
+    ok('hook 不重复显示 Lesson 编号和标题');
+  } else {
+    bad('hook 仍重复显示 Lesson 编号或标题');
+  }
 
   section('3. vocab word fallback — 即使 scene_meta 损坏也能渲染');
   // 制造一个缺 scene_meta.word 的 vocab 行（模拟 pipeline bug）
