@@ -1,0 +1,113 @@
+{
+  "lesson_id": 46,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按中文电影线记忆：飞机从 London 到 Sydney -> 工人卸 wooden boxes -> 一个箱子 extremely heavy -> 工人想到 open up the box -> 箱里有人 -> 他承认 hiding in the box -> 被 confined 超过十八小时 -> 最后 $3,500 比 $2,000 更贵。读的时候把 cargo-discovery 的停顿读清楚，最后价格对比要带一点反讽。",
+  "sentences": [
+    {
+      "id": "l46_s1",
+      "text": "When a plane from London arrived at Sydney airport, workers began to unload a number of wooden boxes which contained clothing.",
+      "focus_zh": "中文锚点：伦敦来的飞机到了悉尼，工人开始卸装衣服的木箱。When 引导时间背景；unload 和 wooden boxes 要读清楚。",
+      "start": 463.129,
+      "end": 470.281,
+      "focus_words": [
+        "When a plane from London",
+        "Sydney airport",
+        "unload",
+        "wooden boxes",
+        "contained clothing"
+      ]
+    },
+    {
+      "id": "l46_s2",
+      "text": "No one could account for the fact that one of the boxes was extremely heavy.",
+      "focus_zh": "中文锚点：没人解释得清为什么一个箱子特别重。account for 是解释原因；extremely heavy 要读出“重得不正常”。",
+      "start": 470.631,
+      "end": 475.335,
+      "focus_words": [
+        "No one could account for",
+        "the fact that",
+        "one of the boxes",
+        "extremely heavy"
+      ]
+    },
+    {
+      "id": "l46_s3",
+      "text": "It suddenly occurred to one of the workers to open up the box.",
+      "focus_zh": "中文锚点：一个工人突然想到打开看看。It occurred to... 是“突然想到”；to open up the box 是真正想到的动作。",
+      "start": 475.685,
+      "end": 479.861,
+      "focus_words": [
+        "It suddenly occurred to",
+        "one of the workers",
+        "open up the box"
+      ]
+    },
+    {
+      "id": "l46_s4",
+      "text": "A man was lying in the box on top of a pile of woolen goods.",
+      "focus_zh": "中文锚点：一个人躺在箱子里的一堆毛织品上。was lying 是正在躺着；on top of a pile of woolen goods 是位置和背景。",
+      "start": 483.441,
+      "end": 487.665,
+      "focus_words": [
+        "A man was lying",
+        "in the box",
+        "on top of",
+        "a pile of woolen goods"
+      ]
+    },
+    {
+      "id": "l46_s5",
+      "text": "He was so surprised at being discovered that he did not even try to run away.",
+      "focus_zh": "中文锚点：他被发现后太吃惊，连跑都没跑。being discovered 是“被发现”；so...that... 要读出因果关系。",
+      "start": 488.014,
+      "end": 492.862,
+      "focus_words": [
+        "so surprised",
+        "being discovered",
+        "did not even try",
+        "run away"
+      ]
+    },
+    {
+      "id": "l46_s6",
+      "text": "After he was arrested, the man admitted hiding in the box before the plane left London.",
+      "focus_zh": "中文锚点：被逮捕后，他承认在飞机离开伦敦前躲进箱子。After 后轻停；admitted hiding 是 admit doing。",
+      "start": 493.212,
+      "end": 498.66,
+      "focus_words": [
+        "After he was arrested",
+        "admitted hiding",
+        "in the box",
+        "before the plane left London"
+      ]
+    },
+    {
+      "id": "l46_s7",
+      "text": "He had had a long and uncomfortable trip, for he had been confined to the wooden box for over eighteen hours.",
+      "focus_zh": "中文锚点：他经历了漫长难受的旅行，因为被困在木箱里超过十八小时。第一个 had 是助动词，第二个 had 是经历；had been confined 是被困住。",
+      "start": 499.01,
+      "end": 505.418,
+      "focus_words": [
+        "had had",
+        "long and uncomfortable trip",
+        "had been confined",
+        "wooden box",
+        "over eighteen hours"
+      ]
+    },
+    {
+      "id": "l46_s8",
+      "text": "The man was ordered to pay $3,500 for the cost of the trip. The normal price of a ticket is $2,000!",
+      "focus_zh": "中文锚点：他被要求付 3500 美元，而正常票价才 2000 美元。was ordered to pay 是被要求付钱；两个价格要读成 three thousand five hundred dollars 和 two thousand dollars。",
+      "start": 505.768,
+      "end": 515.046,
+      "focus_words": [
+        "was ordered to pay",
+        "$3,500",
+        "cost of the trip",
+        "normal price",
+        "$2,000"
+      ]
+    }
+  ]
+}

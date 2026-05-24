@@ -1,0 +1,2476 @@
+{
+  "total_duration": 869.593,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 7.672,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "想象一下，"
+        },
+        {
+          "lang": "en",
+          "text": "Sydney airport"
+        },
+        {
+          "lang": "zh",
+          "text": "到了一架从"
+        },
+        {
+          "lang": "en",
+          "text": "London"
+        },
+        {
+          "lang": "zh",
+          "text": "飞来的飞机。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 8.022,
+      "end": 17.669,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "飞机不只运乘客，也运货物。"
+        },
+        {
+          "lang": "en",
+          "text": "Cargo"
+        },
+        {
+          "lang": "zh",
+          "text": "就是货物；"
+        },
+        {
+          "lang": "en",
+          "text": "airport cargo"
+        },
+        {
+          "lang": "zh",
+          "text": "是机场里的货运部分。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 18.019,
+      "end": 31.895,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "工人们开始"
+        },
+        {
+          "lang": "en",
+          "text": "unload"
+        },
+        {
+          "lang": "zh",
+          "text": "，也就是把货物从飞机上卸下来。他们卸的是一批"
+        },
+        {
+          "lang": "en",
+          "text": "wooden boxes"
+        },
+        {
+          "lang": "zh",
+          "text": "，木箱，里面装着"
+        },
+        {
+          "lang": "en",
+          "text": "clothing"
+        },
+        {
+          "lang": "zh",
+          "text": "，服装。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 32.244,
+      "end": 36.964,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这时，一个箱子特别奇怪：它重得不正常。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 37.314,
+      "end": 45.45,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "按理说，装衣服的箱子不会这么沉。可是"
+        },
+        {
+          "lang": "en",
+          "text": "No one could account for"
+        },
+        {
+          "lang": "zh",
+          "text": "这件事，没有人解释得清楚。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 45.8,
+      "end": 52.84,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "一个工人突然想到：打开看看。"
+        },
+        {
+          "lang": "en",
+          "text": "It suddenly occurred to one of the workers to open up the box."
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 53.19,
+      "end": 62.538,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "箱子一打开，他吓了一跳。里面不是多出来的衣服，而是一个人，正躺在一堆"
+        },
+        {
+          "lang": "en",
+          "text": "woolen goods"
+        },
+        {
+          "lang": "zh",
+          "text": "上。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 62.888,
+      "end": 72.568,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里先说清楚：躲进货箱、行李区、集装箱或者货舱，不是冒险游戏，是违法而且极其危险的事。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 72.917,
+      "end": 83.597,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可能缺氧、失温、受伤、被压到，甚至有生命危险。所以这课不是教人逃票，而是在讽刺一个很愚蠢、很危险的选择。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 83.947,
+      "end": 97.291,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个人本来想省一张机票，结果在木箱里被困了 18 个多小时，最后还被要求付"
+        },
+        {
+          "lang": "en",
+          "text": "$3,500"
+        },
+        {
+          "lang": "zh",
+          "text": "。正常机票才"
+        },
+        {
+          "lang": "en",
+          "text": "$2,000"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 97.641,
+      "end": 111.965,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "英文课文这里用的是 dollars。你如果看到中文译文里写英镑，今天练习仍然跟英文原文走：读成"
+        },
+        {
+          "lang": "en",
+          "text": "three thousand five hundred dollars"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "two thousand dollars"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 112.315,
+      "end": 118.018,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以题目叫"
+        },
+        {
+          "lang": "en",
+          "text": "Expensive and uncomfortable"
+        },
+        {
+          "lang": "zh",
+          "text": "：又贵，又受罪。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 118.368,
+      "end": 133.428,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天背诵先不要背一条全英文链。先记中文电影线：飞机到悉尼 -> 工人卸木箱 -> 一个箱子异常重 -> 打开看 -> 箱里有人 -> 承认躲进去 -> 被困 18 小时 -> 最后付得更贵。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 133.778,
+      "end": 135.898,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一段，机场卸货。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 136.248,
+      "end": 142.448,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：伦敦来的飞机到了悉尼，工人开始卸装衣服的木箱。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 142.798,
+      "end": 148.19,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先挂住英文块："
+        },
+        {
+          "lang": "en",
+          "text": "When a plane from London arrived at Sydney airport"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 148.54,
+      "end": 158.387,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后是动作："
+        },
+        {
+          "lang": "en",
+          "text": "workers began to unload"
+        },
+        {
+          "lang": "zh",
+          "text": "。这里的"
+        },
+        {
+          "lang": "en",
+          "text": "unload"
+        },
+        {
+          "lang": "zh",
+          "text": "是把货物从飞机上卸下来。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 158.737,
+      "end": 163.913,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后是货物："
+        },
+        {
+          "lang": "en",
+          "text": "a number of wooden boxes which contained clothing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 164.263,
+      "end": 173.511,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Wooden boxes"
+        },
+        {
+          "lang": "zh",
+          "text": "不是乘客的行李箱，而是货运木箱。"
+        },
+        {
+          "lang": "en",
+          "text": "Contained clothing"
+        },
+        {
+          "lang": "zh",
+          "text": "是里面装着衣服。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 173.861,
+      "end": 178.701,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文电影线先走清楚：飞机到、工人卸、木箱装衣服。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 179.05,
+      "end": 181.81,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二段，异常沉重的箱子。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 182.16,
+      "end": 188.88,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：有一个箱子特别重，没人解释得清，工人想到打开看看。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 189.23,
+      "end": 195.366,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先看这句："
+        },
+        {
+          "lang": "en",
+          "text": "No one could account for the fact that one of the boxes was extremely heavy."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 195.716,
+      "end": 205.556,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Account for"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里不是账户，而是解释原因。"
+        },
+        {
+          "lang": "en",
+          "text": "No one could account for"
+        },
+        {
+          "lang": "zh",
+          "text": "就是没有人解释得了。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 205.906,
+      "end": 211.402,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Extremely heavy"
+        },
+        {
+          "lang": "zh",
+          "text": "是非常非常重，不是普通的有点重。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 211.751,
+      "end": 218.391,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着关键动作出现："
+        },
+        {
+          "lang": "en",
+          "text": "It suddenly occurred to one of the workers to open up the box."
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 218.741,
+      "end": 226.693,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It occurred to him"
+        },
+        {
+          "lang": "zh",
+          "text": "的意思不是“发生在他身上”，而是“他突然想到”。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 227.043,
+      "end": 233.123,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一段的中文线是：箱子太重 -> 解释不了 -> 有人突然想到打开。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 233.473,
+      "end": 235.673,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三段，箱子里的人。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 236.023,
+      "end": 243.103,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：箱子里躺着一个人，他被发现后太吃惊，连跑都没跑。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 243.453,
+      "end": 247.797,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "工人看到之后："
+        },
+        {
+          "lang": "en",
+          "text": "He was astonished at what he found."
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 248.146,
+      "end": 255.17,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Astonished"
+        },
+        {
+          "lang": "zh",
+          "text": "是非常吃惊，比"
+        },
+        {
+          "lang": "en",
+          "text": "surprised"
+        },
+        {
+          "lang": "zh",
+          "text": "更强。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 255.52,
+      "end": 261.072,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "画面是："
+        },
+        {
+          "lang": "en",
+          "text": "A man was lying in the box on top of a pile of woolen goods."
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 261.422,
+      "end": 277.433,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A pile of woolen goods"
+        },
+        {
+          "lang": "zh",
+          "text": "是一堆羊毛制品或者毛织品。"
+        },
+        {
+          "lang": "en",
+          "text": "Woolen"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "woollen"
+        },
+        {
+          "lang": "zh",
+          "text": "都是“羊毛的”，一个常见于美式拼写，一个是英式拼写，不用紧张。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 277.783,
+      "end": 284.287,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后课文说："
+        },
+        {
+          "lang": "en",
+          "text": "He was so surprised at being discovered that he did not even try to run away."
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 284.637,
+      "end": 292.241,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Being discovered"
+        },
+        {
+          "lang": "zh",
+          "text": "是“被发现”。他不是成功逃跑的人，而是被发现后吓住了的人。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 292.591,
+      "end": 294.951,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四段，又贵又受罪。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 295.301,
+      "end": 302.021,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：他承认自己躲进箱子，被困 18 个多小时，最后付得比正常票价还多。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 302.371,
+      "end": 309.283,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先看："
+        },
+        {
+          "lang": "en",
+          "text": "After he was arrested, the man admitted hiding in the box before the plane left London."
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 309.632,
+      "end": 319.24,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Admitted hiding"
+        },
+        {
+          "lang": "zh",
+          "text": "是承认躲进箱子。注意是"
+        },
+        {
+          "lang": "en",
+          "text": "admit doing"
+        },
+        {
+          "lang": "zh",
+          "text": "，不是"
+        },
+        {
+          "lang": "en",
+          "text": "admit to do"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 319.59,
+      "end": 325.158,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着是痛苦的旅程："
+        },
+        {
+          "lang": "en",
+          "text": "He had had a long and uncomfortable trip"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 325.508,
+      "end": 338.356,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里两个"
+        },
+        {
+          "lang": "en",
+          "text": "had"
+        },
+        {
+          "lang": "zh",
+          "text": "连在一起，第一个是过去完成时助动词，第二个是“经历”。意思是：他经历了一次漫长又不舒服的旅行。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 338.706,
+      "end": 344.817,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么不舒服？"
+        },
+        {
+          "lang": "en",
+          "text": "He had been confined to the wooden box for over eighteen hours."
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 345.167,
+      "end": 353.559,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Confined"
+        },
+        {
+          "lang": "zh",
+          "text": "是被限制在一个很小的空间里。他不是坐在座位上，而是被困在木箱里。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 353.909,
+      "end": 360.917,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后反讽来了："
+        },
+        {
+          "lang": "en",
+          "text": "The man was ordered to pay $3,500 for the cost of the trip."
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 361.267,
+      "end": 366.095,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "而"
+        },
+        {
+          "lang": "en",
+          "text": "The normal price of a ticket is $2,000!"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 366.445,
+      "end": 372.285,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他想免费坐飞机，结果得到的是最差的座位、最长的折磨、最贵的账单。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 372.635,
+      "end": 377.827,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，这个人是不是很聪明？他真的躲进飞机了。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 378.177,
+      "end": 383.617,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不聪明。这个故事不是夸他，而是在讽刺他。他做的是违法又危险的事。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 383.967,
+      "end": 386.124,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可他好像想省钱。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 386.474,
+      "end": 396.306,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，他想省机票钱，但结果更糟。他被困在货运木箱里超过 18 小时，还要付"
+        },
+        {
+          "lang": "en",
+          "text": "$3,500"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 396.656,
+      "end": 401.969,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "正常票才"
+        },
+        {
+          "lang": "en",
+          "text": "$2,000"
+        },
+        {
+          "lang": "zh",
+          "text": "，所以更贵。"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 402.319,
+      "end": 412.43,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "也更难受，更危险。"
+        },
+        {
+          "lang": "en",
+          "text": "Expensive"
+        },
+        {
+          "lang": "zh",
+          "text": "是钱更贵，"
+        },
+        {
+          "lang": "en",
+          "text": "uncomfortable"
+        },
+        {
+          "lang": "zh",
+          "text": "是身体和心理都受罪。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 412.78,
+      "end": 416.923,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Wooden boxes"
+        },
+        {
+          "lang": "zh",
+          "text": "是不是像旅行箱？"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 417.273,
+      "end": 427.781,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。这里是"
+        },
+        {
+          "lang": "en",
+          "text": "cargo boxes"
+        },
+        {
+          "lang": "zh",
+          "text": "，货运木箱，装的是"
+        },
+        {
+          "lang": "en",
+          "text": "clothing"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "woolen goods"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 428.131,
+      "end": 432.653,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那如果我发现一个箱子特别奇怪，应该自己打开吗？"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 433.003,
+      "end": 443.763,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不要。现实里如果包裹、箱子、储藏室或者行李看起来不安全，学生应该找老师、家长、工作人员或者保安帮忙。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 444.113,
+      "end": 447.77,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的英语结构也都和“被动后果”有关。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 448.12,
+      "end": 462.779,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。他"
+        },
+        {
+          "lang": "en",
+          "text": "was discovered"
+        },
+        {
+          "lang": "zh",
+          "text": "，然后"
+        },
+        {
+          "lang": "en",
+          "text": "was arrested"
+        },
+        {
+          "lang": "zh",
+          "text": "，后来"
+        },
+        {
+          "lang": "en",
+          "text": "had been confined"
+        },
+        {
+          "lang": "zh",
+          "text": "，最后"
+        },
+        {
+          "lang": "en",
+          "text": "was ordered to pay"
+        },
+        {
+          "lang": "zh",
+          "text": "。他想控制局面，结果处处被动。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 463.129,
+      "end": 470.281,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When a plane from London arrived at Sydney airport, workers began to unload a number of wooden boxes which contained clothing."
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 470.631,
+      "end": 475.335,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "No one could account for the fact that one of the boxes was extremely heavy."
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 475.685,
+      "end": 479.861,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It suddenly occurred to one of the workers to open up the box."
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 480.211,
+      "end": 483.091,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He was astonished at what he found."
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 483.441,
+      "end": 487.665,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A man was lying in the box on top of a pile of woolen goods."
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 488.014,
+      "end": 492.862,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He was so surprised at being discovered that he did not even try to run away."
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 493.212,
+      "end": 498.66,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "After he was arrested, the man admitted hiding in the box before the plane left London."
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 499.01,
+      "end": 505.418,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He had had a long and uncomfortable trip, for he had been confined to the wooden box for over eighteen hours."
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 505.768,
+      "end": 510.904,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The man was ordered to pay $3,500 for the cost of the trip."
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 511.254,
+      "end": 515.046,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The normal price of a ticket is $2,000!"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 515.396,
+      "end": 518.66,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "account_for"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词组："
+        },
+        {
+          "lang": "en",
+          "text": "account for"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 519.01,
+      "end": 520.954,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "account_for"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "account for"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 521.304,
+      "end": 526.095,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "account_for"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Account for means explain the reason for something"
+        },
+        {
+          "lang": "zh",
+          "text": "，解释原因。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 526.445,
+      "end": 532.701,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "account_for"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文句子是："
+        },
+        {
+          "lang": "en",
+          "text": "No one could account for the fact that one of the boxes was extremely heavy."
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 533.051,
+      "end": 537.091,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "account_for"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文意思是：没人能解释，为什么其中一个箱子特别重。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 537.441,
+      "end": 547.017,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "account_for"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Account"
+        },
+        {
+          "lang": "zh",
+          "text": "平时可以是账户，但"
+        },
+        {
+          "lang": "en",
+          "text": "account for"
+        },
+        {
+          "lang": "zh",
+          "text": "是动词短语，要按“解释原因”来理解。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 547.367,
+      "end": 552.158,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "account_for"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你也可以说："
+        },
+        {
+          "lang": "en",
+          "text": "No one could account for the strange noise."
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 552.508,
+      "end": 555.188,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "occur"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "occur"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 555.538,
+      "end": 557.194,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "occur"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "occur"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 557.544,
+      "end": 565.944,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "occur"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天最重要的不是"
+        },
+        {
+          "lang": "en",
+          "text": "occur"
+        },
+        {
+          "lang": "zh",
+          "text": "等于发生，而是这个句型："
+        },
+        {
+          "lang": "en",
+          "text": "It occurred to someone to do something."
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 566.294,
+      "end": 569.934,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "occur"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它的意思是：某人突然想到要做某事。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 570.284,
+      "end": 575.963,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "occur"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文句子是："
+        },
+        {
+          "lang": "en",
+          "text": "It suddenly occurred to one of the workers to open up the box."
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 576.313,
+      "end": 580.833,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "occur"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "也就是说，一个工人突然想到：不如把箱子打开看看。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 581.183,
+      "end": 586.023,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "occur"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "生活里可以说："
+        },
+        {
+          "lang": "en",
+          "text": "It occurred to me to ask a teacher for help."
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 586.373,
+      "end": 589.317,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "confine"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "confine"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 589.667,
+      "end": 591.371,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "confine"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "confine"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 591.721,
+      "end": 599.593,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "confine"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Confine means keep someone or something inside a limited space"
+        },
+        {
+          "lang": "zh",
+          "text": "，把人或东西限制在一个小空间里。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 599.942,
+      "end": 605.154,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "confine"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "He had been confined to the wooden box for over eighteen hours."
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 605.504,
+      "end": 611.584,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "confine"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句话听起来就很不舒服：超过 18 个小时，他都被困在木箱里。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 611.934,
+      "end": 618.118,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "confine"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Confine"
+        },
+        {
+          "lang": "zh",
+          "text": "不只是“待在里面”，而是空间受限、行动受限。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 618.468,
+      "end": 624.404,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "confine"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以标题里的"
+        },
+        {
+          "lang": "en",
+          "text": "uncomfortable"
+        },
+        {
+          "lang": "zh",
+          "text": "不是一点点不舒服，而是真的受罪。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 624.754,
+      "end": 631.417,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的"
+        },
+        {
+          "lang": "en",
+          "text": "grammar board"
+        },
+        {
+          "lang": "zh",
+          "text": "叫：发现问题，承认错误，承担后果。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 631.767,
+      "end": 643.807,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先看中文电影线：飞机到悉尼 -> 工人卸木箱 -> 一个箱子异常重 -> 工人想到打开 -> 箱里躺着一个人 -> 被困十八小时 -> 最后付得更贵。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 644.157,
+      "end": 651.693,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块："
+        },
+        {
+          "lang": "en",
+          "text": "account for"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "No one could account for the fact"
+        },
+        {
+          "lang": "zh",
+          "text": "，没有人解释得清楚。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 652.043,
+      "end": 661.719,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里后面接"
+        },
+        {
+          "lang": "en",
+          "text": "the fact that..."
+        },
+        {
+          "lang": "zh",
+          "text": "，把“解释不了的事实”说出来："
+        },
+        {
+          "lang": "en",
+          "text": "one of the boxes was extremely heavy"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 662.068,
+      "end": 670.988,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块："
+        },
+        {
+          "lang": "en",
+          "text": "It occurred to..."
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "It occurred to one worker to open the box"
+        },
+        {
+          "lang": "zh",
+          "text": "，一个工人突然想到打开箱子。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 671.338,
+      "end": 676.986,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个句型很地道，主语用"
+        },
+        {
+          "lang": "en",
+          "text": "It"
+        },
+        {
+          "lang": "zh",
+          "text": "，真正的想法放在后面。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 677.336,
+      "end": 685.056,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块："
+        },
+        {
+          "lang": "en",
+          "text": "admit doing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "The man admitted hiding in the box"
+        },
+        {
+          "lang": "zh",
+          "text": "，他承认躲进箱子。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 685.405,
+      "end": 693.137,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住："
+        },
+        {
+          "lang": "en",
+          "text": "admit hiding"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "admit making a mistake"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "admit breaking the cup"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 693.487,
+      "end": 704.391,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四块，被动后果："
+        },
+        {
+          "lang": "en",
+          "text": "being discovered"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "was arrested"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "had been confined"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "was ordered to pay"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 704.741,
+      "end": 715.021,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些被动语态和故事很配：他原本想偷偷掌控行程，结果一路都是“被发现、被逮捕、被困、被要求付钱”。"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 715.37,
+      "end": 731.006,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后看标题笑点："
+        },
+        {
+          "lang": "en",
+          "text": "Expensive"
+        },
+        {
+          "lang": "zh",
+          "text": "是"
+        },
+        {
+          "lang": "en",
+          "text": "$3,500"
+        },
+        {
+          "lang": "zh",
+          "text": "比"
+        },
+        {
+          "lang": "en",
+          "text": "$2,000"
+        },
+        {
+          "lang": "zh",
+          "text": "还贵；"
+        },
+        {
+          "lang": "en",
+          "text": "uncomfortable"
+        },
+        {
+          "lang": "zh",
+          "text": "是在木箱里超过 18 小时。"
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 731.356,
+      "end": 739.556,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这课的核心不是“逃票技巧”，而是：危险的捷径不值得，最后会更贵，也更痛苦。"
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "start": 739.906,
+      "end": 748.426,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进你的生活。场景不是机场逃票，而是安全地解释一个奇怪发现。"
+        }
+      ]
+    },
+    {
+      "i": 103,
+      "start": 748.775,
+      "end": 756.263,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "想象你和老师在学校储藏室发现一个"
+        },
+        {
+          "lang": "en",
+          "text": "delivery box"
+        },
+        {
+          "lang": "zh",
+          "text": "。它比预想重很多。"
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "start": 756.613,
+      "end": 761.493,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你不要自己打开危险或可疑的东西，而是找老师一起处理。"
+        }
+      ]
+    },
+    {
+      "i": 105,
+      "start": 761.843,
+      "end": 767.323,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以说："
+        },
+        {
+          "lang": "en",
+          "text": "No one could account for the fact that the box was extremely heavy."
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "start": 767.673,
+      "end": 772.953,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后说你的安全做法："
+        },
+        {
+          "lang": "en",
+          "text": "It occurred to me to ask a teacher for help."
+        }
+      ]
+    },
+    {
+      "i": 107,
+      "start": 773.303,
+      "end": 778.118,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再说明没有独自冒险："
+        },
+        {
+          "lang": "en",
+          "text": "We did not open it alone."
+        }
+      ]
+    },
+    {
+      "i": 108,
+      "start": 778.468,
+      "end": 786.324,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果后来有人承认了，可以用今天的句型："
+        },
+        {
+          "lang": "en",
+          "text": "A student admitted putting extra books in the box."
+        }
+      ]
+    },
+    {
+      "i": 109,
+      "start": 786.674,
+      "end": 790.938,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后加判断："
+        },
+        {
+          "lang": "en",
+          "text": "It was dangerous and not worth it."
+        }
+      ]
+    },
+    {
+      "i": 110,
+      "start": 791.288,
+      "end": 809.848,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "连起来就是："
+        },
+        {
+          "lang": "en",
+          "text": "No one could account for the fact that the box was extremely heavy. It occurred to me to ask a teacher for help. We did not open it alone. A student admitted putting extra books in the box. It was dangerous and not worth it."
+        }
+      ]
+    },
+    {
+      "i": 111,
+      "start": 810.198,
+      "end": 817.518,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 112,
+      "start": 817.868,
+      "end": 829.188,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓中文线：飞机到悉尼 -> 工人卸木箱 -> 一个箱子异常重 -> 打开看 -> 箱里有人 -> 承认躲进去 -> 被困 18 小时 -> 最后付得更贵。"
+        }
+      ]
+    },
+    {
+      "i": 113,
+      "start": 829.538,
+      "end": 844.837,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再把"
+        },
+        {
+          "lang": "en",
+          "text": "English chunks"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺："
+        },
+        {
+          "lang": "en",
+          "text": "account for"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "It occurred to one of the workers"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "admitted hiding"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "had been confined"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "was ordered to pay"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 114,
+      "start": 845.187,
+      "end": 856.387,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习安全地解释奇怪发现；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 115,
+      "start": 856.737,
+      "end": 869.593,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "A dangerous shortcut is not clever. It can become expensive, uncomfortable, and truly unsafe."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 46
+}

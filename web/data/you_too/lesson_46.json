@@ -1,0 +1,53 @@
+{
+  "lesson_id": 46,
+  "title": "Expensive and uncomfortable",
+  "question": "把今天的“奇怪发现 + 安全求助 + 解释原因”放进学校储藏室场景：你和老师发现一个 delivery box 特别重，不独自打开，而是说明情况。用 word bank 补完整 5 个空。",
+  "example_answer": "No one could account for the fact that the box was extremely heavy. It occurred to me to ask a teacher for help. We did not open it alone. Later, a student admitted putting extra books in the box. It was dangerous and not worth it.",
+  "word_bank": [
+    "account for",
+    "extremely heavy",
+    "occurred to me",
+    "teacher",
+    "open it alone",
+    "admitted putting",
+    "extra books",
+    "dangerous",
+    "not worth it",
+    "delivery box",
+    "school storage room",
+    "ask for help"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "用 account for 表达没人解释得清：没人能解释为什么这个箱子特别重",
+      "english_template": "No one could ___ the fact that the box was extremely heavy.",
+      "expected_phrase": "account for"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "用 It occurred to me to... 表达“我突然想到去找老师帮忙”",
+      "english_template": "It ___ to ask a teacher for help.",
+      "expected_phrase": "occurred to me"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说明安全边界：我们没有独自打开它",
+      "english_template": "We did not ___ .",
+      "expected_phrase": "open it alone"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "用 admit doing 表达承认做过某事：后来，一个学生承认把额外的书放进箱子里",
+      "english_template": "Later, a student ___ extra books in the box.",
+      "expected_phrase": "admitted putting"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "给出判断：这很危险，不值得",
+      "english_template": "It was dangerous and ___ .",
+      "expected_phrase": "not worth it"
+    }
+  ],
+  "mode": "all_fills"
+}

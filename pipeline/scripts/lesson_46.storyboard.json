@@ -1,0 +1,23 @@
+{
+  "lesson_id": 46,
+  "title": "Expensive and uncomfortable",
+  "visual_consistency": "A warm educational airport cargo discovery illustration without any readable text, price labels, speech bubbles, captions, documents, signs, or blank label panels. The recurring setting is a Sydney airport cargo area with a plane in the background, professional cargo workers in dusty teal uniforms and yellow safety vests, sturdy wooden cargo crates, bundles of clothing, and woolen goods. The discovered man appears only after the box is opened in frames 3 and 4: a tired embarrassed adult in his early 30s, average build, oval face, light-to-medium skin, short dark hair, wrinkled gray jacket, navy trousers, and scuffed shoes. He looks cramped, surprised, foolish, and safe, not injured or heroic. The same workers, wooden crates, cargo area, and discovered man stay consistent when they appear. Open crates show cloth bundles inside; no readable markings or empty label spaces.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "At a Sydney airport cargo area before the discovery, the same professional cargo workers in dusty teal uniforms and yellow safety vests unload sturdy wooden cargo crates from a plane that has just arrived. Some crates are open enough to show only folded clothing bundles and soft woolen goods inside. Do not show any man inside a crate, hiding near a crate, or being discovered yet. The scene feels orderly and realistic, with the plane and cargo equipment in the background. No readable airport signs, no crate labels, no text, no letters, no captions, no speech bubbles, no documents, and no blank label panels."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same airport cargo workers pause around one unusually heavy wooden cargo crate before opening it. The man is not visible yet. Two workers try to move the closed crate while another worker gestures thoughtfully toward the lid, curious and concerned rather than panicked. Nearby crates contain visible clothing bundles, and the cargo area remains bright and safe. No readable signs, no markings, no price labels, no text, no letters, no captions, no speech bubbles, no documents, and no blank label panels."
+    },
+    {
+      "frame": 3,
+      "prompt": "The unusually heavy wooden cargo crate is now open, filled with clothing and woolen goods. The same tired embarrassed adult man in a wrinkled gray jacket and navy trousers lies cramped on top of the soft goods, surprised and ashamed but not injured. The same cargo workers step back astonished, professional and calm. The scene should make the hiding choice look foolish, uncomfortable, and unsafe, not adventurous. No readable signs, no crate labels, no text, no letters, no captions, no speech bubbles, no documents, and no blank label panels."
+    },
+    {
+      "frame": 4,
+      "prompt": "After discovery, the same tired embarrassed man stands in a safe official airport cargo-office setting beside a worker and an officer-like staff member. A plain counter, closed folders, and a wooden crate with visible cloth bundles suggest formal consequences, but no paper shows writing. The man looks uncomfortable and regretful; the adults look calm and serious. The image should support the idea that the attempted free trip became costly and foolish, without showing any readable price text. No readable signs, no labels, no text, no letters, no captions, no speech bubbles, no readable documents, and no blank label panels."
+    }
+  ]
+}
