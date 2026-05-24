@@ -1,0 +1,23 @@
+{
+  "lesson_id": 39,
+  "title": "Am I all right?",
+  "visual_consistency": "A warm educational hospital comedy illustration about John Gilbert, an adult male patient in his early forties with short brown hair, round glasses, an oval face, blue hospital pajamas, a light robe, average build, alert anxious eyes, and a bedside telephone as his key prop. Doctor Millington is a calm middle-aged doctor with neat dark-gray hair, a white coat, and a professional slightly puzzled expression. Keep John and Doctor Millington visually consistent across all four frames. Clean bright hospital room, old-fashioned bedside phone and simple hospital exchange / switchboard motif, gentle comic tone, no surgery scene, no blood, no needles, no frightening medical imagery, no readable text.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "John Gilbert, the same adult male patient with short brown hair, round glasses, blue hospital pajamas, light robe, average build, and anxious alert eyes, sits upright in a clean hospital bed and asks Doctor Millington about his operation. Doctor Millington, the same calm middle-aged doctor in a white coat with neat dark-gray hair, stands beside the bed and gently refuses to answer directly. Show worry and blocked direct communication through body language, bedside table and calm hospital room, no surgery tools, no blood, no scary imagery."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same John Gilbert sits alone in the same clean hospital bed the following day, holding an old-fashioned bedside telephone with a clever but nervous expression. A simple visual path shows the call going from his bed to a friendly hospital exchange / switchboard connection point, without readable labels or technical clutter. Keep the same blue pajamas, round glasses, light robe, bedside setting, gentle comic mood, no modern smartphone, no surgery imagery."
+    },
+    {
+      "frame": 3,
+      "prompt": "The same John Gilbert speaks formally into the bedside telephone, looking polite and slightly sly, while the same Doctor Millington answers a phone in a small doctor's office connected visually by the hospital exchange / switchboard motif. Show that John is asking about a certain patient named himself through a tasteful identity-card-like silhouette or patient folder shape with no readable text. Doctor looks professional and mildly puzzled. Gentle old phone comedy, consistent characters, no privacy-bypass celebration, no scary medical imagery."
+    },
+    {
+      "frame": 4,
+      "prompt": "The same Doctor Millington on the phone looks surprised and amused as he realizes the caller is the patient, while the same John Gilbert in blue hospital pajamas and round glasses gives a calm small smile from his hospital bed with the bedside telephone. Use a clear visual reveal: caller and patient are the same person, shown by matching John on the phone and in bed as one continuous moment, not a multi-panel comic. Warm gentle punchline, clean bright hospital room, no readable text, no surgery scene, no blood, no frightening medical imagery."
+    }
+  ]
+}

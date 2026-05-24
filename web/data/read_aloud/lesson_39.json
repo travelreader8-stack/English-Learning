@@ -1,0 +1,111 @@
+{
+  "lesson_id": 39,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“医生拒绝 -> 床头电话 -> 医院总机 -> 正式询问某位病人 -> 手术成功 -> 什么时候能回家 -> 亲属吗 -> 我就是 John Gilbert”的电话反转链读顺。注意 whether / if / when 引导的间接问句，最后一句要轻轻停顿后再揭示身份。",
+  "sentences": [
+    {
+      "id": "l39_s1",
+      "text": "While John Gilbert was in hospital, he asked his doctor to tell him whether his operation had been successful, but the doctor refused to do so.",
+      "focus_zh": "长句先在 in hospital 后小停；whether his operation had been successful 是间接问句，refused to do so 要读出医生拒绝告诉他。",
+      "start": 403.034,
+      "end": 410.93,
+      "focus_words": [
+        "While John Gilbert was in hospital",
+        "asked his doctor",
+        "whether his operation had been successful",
+        "refused to do so"
+      ]
+    },
+    {
+      "id": "l39_s2",
+      "text": "The following day, the patient asked for a bedside telephone.",
+      "focus_zh": "The following day 是第二天；bedside telephone 是床头电话，读成一个清楚的旧医院物件。",
+      "start": 411.28,
+      "end": 415.384,
+      "focus_words": [
+        "The following day",
+        "the patient",
+        "asked for",
+        "a bedside telephone"
+      ]
+    },
+    {
+      "id": "l39_s3",
+      "text": "When he was alone, he telephoned the hospital exchange and asked for Doctor Millington.",
+      "focus_zh": "alone 表示房里只有他一个人；hospital exchange 是医院总机，不是交换东西。",
+      "start": 415.734,
+      "end": 421.014,
+      "focus_words": [
+        "When he was alone",
+        "telephoned",
+        "the hospital exchange",
+        "asked for Doctor Millington"
+      ]
+    },
+    {
+      "id": "l39_s4",
+      "text": "When the doctor answered the phone, Mr. Gilbert said he was inquiring about a certain patient, a Mr. John Gilbert.",
+      "focus_zh": "inquiring about 是正式询问；a certain patient 要读得稍微神秘一点，因为他其实在说自己。",
+      "start": 421.363,
+      "end": 428.275,
+      "focus_words": [
+        "answered the phone",
+        "was inquiring about",
+        "a certain patient",
+        "a Mr. John Gilbert"
+      ]
+    },
+    {
+      "id": "l39_s5",
+      "text": "He asked if Mr. Gilbert's operation had been successful and the doctor told him that it had been.",
+      "focus_zh": "if Mr. Gilbert's operation had been successful 是间接问句；that it had been 表示手术已经成功。",
+      "start": 428.625,
+      "end": 434.217,
+      "focus_words": [
+        "He asked if",
+        "Mr. Gilbert's operation",
+        "had been successful",
+        "it had been"
+      ]
+    },
+    {
+      "id": "l39_s6",
+      "text": "He then asked when Mr. Gilbert would be allowed to go home and the doctor told him that he would have to stay in hospital for another two weeks.",
+      "focus_zh": "when Mr. Gilbert would be allowed to go home 是间接问句；another two weeks 是还要再两个星期。",
+      "start": 434.567,
+      "end": 441.791,
+      "focus_words": [
+        "He then asked when",
+        "would be allowed to go home",
+        "would have to stay",
+        "another two weeks"
+      ]
+    },
+    {
+      "id": "l39_s7",
+      "text": "Then Dr. Millington asked the caller if he was a relative of the patient.",
+      "focus_zh": "caller 是打电话的人；relative 是亲属，这一句要读出医生在确认身份。",
+      "start": 442.141,
+      "end": 446.725,
+      "focus_words": [
+        "Dr. Millington",
+        "the caller",
+        "if he was a relative",
+        "of the patient"
+      ]
+    },
+    {
+      "id": "l39_s8",
+      "text": "'No,' the patient answered, 'I am Mr. John Gilbert.'",
+      "focus_zh": "最后一句是身份揭示；No 后停一下，I am Mr. John Gilbert 要读得清楚平静。",
+      "start": 447.075,
+      "end": 450.987,
+      "focus_words": [
+        "No",
+        "the patient answered",
+        "I am",
+        "Mr. John Gilbert"
+      ]
+    }
+  ]
+}

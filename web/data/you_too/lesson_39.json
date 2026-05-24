@@ -1,0 +1,47 @@
+{
+  "lesson_id": 39,
+  "title": "Am I all right?",
+  "question": "把今天课文里的“说明身份 -> 礼貌询问结果 -> 询问什么时候被允许做某事 -> 尊重隐私”放进学校办公室电话场景。用 word bank 补完整 4 个空。",
+  "example_answer": "Hello, I am calling about my activity result. My name is Li Ming. Could you tell me whether my application was successful? Could you also tell me when I will be allowed to join the activity? Do you need to check my identity? I understand that this information is private.",
+  "word_bank": [
+    "am calling about my activity result",
+    "My name is Li Ming",
+    "Could you tell me whether",
+    "my application was successful",
+    "Could you also tell me when",
+    "I will be allowed to join the activity",
+    "check my identity",
+    "this information is private",
+    "I understand",
+    "school office",
+    "appointment",
+    "activity result"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说明来电目的：你在询问自己的活动结果",
+      "english_template": "Hello, I ___.",
+      "expected_phrase": "am calling about my activity result"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "礼貌询问结果：我的申请是否成功",
+      "english_template": "Could you tell me whether ___?",
+      "expected_phrase": "my application was successful"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "询问什么时候被允许参加活动",
+      "english_template": "Could you also tell me when ___?",
+      "expected_phrase": "I will be allowed to join the activity"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "表达隐私意识：我理解这些信息是私人的",
+      "english_template": "I understand that ___.",
+      "expected_phrase": "this information is private"
+    }
+  ],
+  "mode": "all_fills"
+}

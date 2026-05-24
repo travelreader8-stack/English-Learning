@@ -1,0 +1,1706 @@
+{
+  "total_duration": 735.315,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 14.104,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Am I all right?"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“我是否痊愈？”这里的"
+        },
+        {
+          "lang": "en",
+          "text": "all right"
+        },
+        {
+          "lang": "zh",
+          "text": "不是“好吧”，而是 am I okay, am I medically fine。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 14.454,
+      "end": 24.694,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课不是医学知识课，也不是教人套医生的话。它是一个 old hospital phone comedy，一个旧式医院电话时代的小反转。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 25.043,
+      "end": 40.267,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "John Gilbert 住院以后，想知道自己的"
+        },
+        {
+          "lang": "en",
+          "text": "operation"
+        },
+        {
+          "lang": "zh",
+          "text": "有没有成功。"
+        },
+        {
+          "lang": "en",
+          "text": "operation"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里是 surgery，手术，不是 computer operation，也不是 business operation。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 40.617,
+      "end": 48.953,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他直接问医生："
+        },
+        {
+          "lang": "en",
+          "text": "Was my operation successful?"
+        },
+        {
+          "lang": "zh",
+          "text": "可是医生 refused to tell him，拒绝告诉他。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 49.303,
+      "end": 61.262,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二天，他要了一部"
+        },
+        {
+          "lang": "en",
+          "text": "bedside telephone"
+        },
+        {
+          "lang": "zh",
+          "text": "，也就是 hospital bed 旁边的电话。那个年代没有今天这样的 mobile phone, hospital app, or online record。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 61.612,
+      "end": 73.924,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他打给"
+        },
+        {
+          "lang": "en",
+          "text": "the hospital exchange"
+        },
+        {
+          "lang": "zh",
+          "text": "。这里的"
+        },
+        {
+          "lang": "en",
+          "text": "exchange"
+        },
+        {
+          "lang": "zh",
+          "text": "不是交换东西，也不是换钱，而是医院电话总机，负责把电话接到医生那里。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 74.274,
+      "end": 83.114,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天医院更重视 privacy。医生通常要确认 identity and authorization，不能随便把病人的手术情况告诉电话里的人。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 83.464,
+      "end": 94.984,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这课的笑点不是“学会骗医生”，而是 old phone system 里发生了一个 misunderstanding：caller 看起来像在问别人，其实他就是 patient 本人。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 95.334,
+      "end": 112.534,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "整课记忆链是：doctor refuses -> bedside telephone -> hospital exchange -> Doctor Millington -> certain patient -> operation successful -> allowed to go home -> two more weeks -> relative? -> I am John Gilbert。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 112.884,
+      "end": 129.771,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "另外，源数据里英文 hosptial 是"
+        },
+        {
+          "lang": "en",
+          "text": "hospital"
+        },
+        {
+          "lang": "zh",
+          "text": "的拼写错误，中文“手术中否成功”按“手术是否成功”理解。我们不改共享数据，但朗读和讲解都按正确意思走。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 130.121,
+      "end": 136.561,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一幅画，是 direct question refused。John Gilbert is in hospital，他想知道手术结果。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 136.911,
+      "end": 145.167,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文开头说："
+        },
+        {
+          "lang": "en",
+          "text": "While John Gilbert was in hospital, he asked his doctor to tell him whether his operation had been successful."
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 145.517,
+      "end": 155.421,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里已经不是直接问句了，而是 reported question："
+        },
+        {
+          "lang": "en",
+          "text": "whether his operation had been successful"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思是“他的手术是否已经成功”。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 155.771,
+      "end": 165.394,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是后半句来了："
+        },
+        {
+          "lang": "en",
+          "text": "but the doctor refused to do so."
+        },
+        {
+          "lang": "en",
+          "text": "refused to do so"
+        },
+        {
+          "lang": "zh",
+          "text": "就是 refused to tell him，医生拒绝告诉他。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 165.744,
+      "end": 173.124,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以第一幅画的情绪是 anxious and blocked：John 很想知道答案，但 face to face 的直接路线被关上了。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 173.474,
+      "end": 182.162,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二幅画，是 another route。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The following day, the patient asked for a bedside telephone."
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 182.512,
+      "end": 190.904,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The following day"
+        },
+        {
+          "lang": "zh",
+          "text": "就是 the next day。"
+        },
+        {
+          "lang": "en",
+          "text": "asked for"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里是 requested，要了一部电话。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 191.254,
+      "end": 198.049,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着："
+        },
+        {
+          "lang": "en",
+          "text": "When he was alone, he telephoned the hospital exchange and asked for Doctor Millington."
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 198.399,
+      "end": 209.959,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "alone"
+        },
+        {
+          "lang": "zh",
+          "text": "是房里只有他一个人。"
+        },
+        {
+          "lang": "en",
+          "text": "hospital exchange"
+        },
+        {
+          "lang": "zh",
+          "text": "是医院总机，operator or switchboard 会把电话接到医生那里。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 210.309,
+      "end": 221.309,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "画面可以记成一条 call path：John in bed -> hospital exchange -> Doctor Millington。直接问不行，他换成电话里的 formal route。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 221.659,
+      "end": 228.739,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三幅画，是 a formal inquiry。医生接电话以后，John 没有说 “I am John.” 他开始装得很正式。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 229.089,
+      "end": 237.445,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "When the doctor answered the phone, Mr. Gilbert said he was inquiring about a certain patient, a Mr. John Gilbert."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 237.794,
+      "end": 249.234,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "inquire about"
+        },
+        {
+          "lang": "zh",
+          "text": "是 ask for information about something，比较正式。"
+        },
+        {
+          "lang": "en",
+          "text": "a certain patient"
+        },
+        {
+          "lang": "zh",
+          "text": "是某一位病人，也带一点故意神秘的感觉。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 249.584,
+      "end": 260.488,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他问："
+        },
+        {
+          "lang": "en",
+          "text": "if Mr. Gilbert's operation had been successful"
+        },
+        {
+          "lang": "zh",
+          "text": "。医生以为这个 caller 是别人，就告诉他："
+        },
+        {
+          "lang": "en",
+          "text": "it had been"
+        },
+        {
+          "lang": "zh",
+          "text": "，手术成功了。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 260.838,
+      "end": 271.358,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的 grammar 跟 trick 合在一起：他不是直接问 “Was my operation successful?” 而是间接问 “if Mr. Gilbert's operation had been successful.”"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 271.708,
+      "end": 278.755,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四幅画，是 the reveal。John 又问："
+        },
+        {
+          "lang": "en",
+          "text": "when Mr. Gilbert would be allowed to go home"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 279.105,
+      "end": 291.313,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "be allowed to"
+        },
+        {
+          "lang": "zh",
+          "text": "是 have permission to，被允许做某事。医生告诉他，他还得在医院再待"
+        },
+        {
+          "lang": "en",
+          "text": "another two weeks"
+        },
+        {
+          "lang": "zh",
+          "text": "，也就是 two more weeks。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 291.663,
+      "end": 298.439,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后医生问了关键问题："
+        },
+        {
+          "lang": "en",
+          "text": "Dr. Millington asked the caller if he was a relative of the patient."
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 298.789,
+      "end": 308.26,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "caller"
+        },
+        {
+          "lang": "zh",
+          "text": "是打电话的人。"
+        },
+        {
+          "lang": "en",
+          "text": "relative"
+        },
+        {
+          "lang": "zh",
+          "text": "是 family member，亲属。医生以为打电话的人可能是家属。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 308.61,
+      "end": 314.226,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一秒反转："
+        },
+        {
+          "lang": "en",
+          "text": "'No,' the patient answered, 'I am Mr. John Gilbert.'"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 314.576,
+      "end": 325.296,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他听起来像 caller asking about a patient；其实 he was the patient。这个故事的 punchline 就落在 patient 和 caller 的身份重合上。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 325.646,
+      "end": 328.166,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课最容易误会的地方是什么？"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 328.516,
+      "end": 331.497,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "以为 John 在教我们怎么绕过医生？"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 331.847,
+      "end": 344.487,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，所以要先说清楚：这是旧时代电话场景里的幽默反转。今天医院通常会保护 private medical information，医生不会随便在电话里告诉别人手术结果。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 344.837,
+      "end": 349.447,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "hospital exchange"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么重要？"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 349.797,
+      "end": 359.637,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为它解释了旧场景。John 不是直接用手机打医生微信，也不是查 app。他先打给医院总机，再让总机接 Doctor Millington。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 359.986,
+      "end": 363.747,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "exchange"
+        },
+        {
+          "lang": "zh",
+          "text": "听起来像“交换”。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 364.097,
+      "end": 372.297,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在这课里不是。它是 telephone exchange, switchboard，总机。我们可以把它想成 old phone routing desk。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 372.647,
+      "end": 375.908,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么这课 indirect questions 这么多？"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 376.258,
+      "end": 386.058,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为整个计划都是 indirect 的。他不直接问 “Am I all right?” 而是正式地问 whether, if, when，把自己说成 another patient。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 386.408,
+      "end": 390.862,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后医生问"
+        },
+        {
+          "lang": "en",
+          "text": "relative"
+        },
+        {
+          "lang": "zh",
+          "text": "是什么意思？"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 391.212,
+      "end": 402.684,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "relative"
+        },
+        {
+          "lang": "zh",
+          "text": "是 family member。医生问 caller 是不是病人的亲属，John 才揭示：不是亲属，我就是 John Gilbert。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 403.034,
+      "end": 410.93,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "While John Gilbert was in hospital, he asked his doctor to tell him whether his operation had been successful, but the doctor refused to do so."
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 411.28,
+      "end": 415.384,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The following day, the patient asked for a bedside telephone."
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 415.734,
+      "end": 421.014,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When he was alone, he telephoned the hospital exchange and asked for Doctor Millington."
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 421.363,
+      "end": 428.275,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When the doctor answered the phone, Mr. Gilbert said he was inquiring about a certain patient, a Mr. John Gilbert."
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 428.625,
+      "end": 434.217,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He asked if Mr. Gilbert's operation had been successful and the doctor told him that it had been."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 434.567,
+      "end": 441.791,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He then asked when Mr. Gilbert would be allowed to go home and the doctor told him that he would have to stay in hospital for another two weeks."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 442.141,
+      "end": 446.725,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Then Dr. Millington asked the caller if he was a relative of the patient."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 447.075,
+      "end": 450.987,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'No,' the patient answered, 'I am Mr. John Gilbert.'"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 451.337,
+      "end": 454.169,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "operation"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "operation"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 454.519,
+      "end": 456.367,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "operation"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "operation"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 456.716,
+      "end": 461.588,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "operation"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "operation"
+        },
+        {
+          "lang": "zh",
+          "text": "在这课里是 surgery，医生做的手术。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 461.938,
+      "end": 468.182,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "operation"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "whether his operation had been successful"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思是手术是否成功。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 468.532,
+      "end": 478.132,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "operation"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词也可以表示 computer operation, business operation, or math operation，但在医院故事里，它就是 medical operation。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 478.482,
+      "end": 481.402,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "exchange"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "exchange"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 481.752,
+      "end": 483.576,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "exchange"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "exchange"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 483.926,
+      "end": 490.685,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "exchange"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "exchange"
+        },
+        {
+          "lang": "zh",
+          "text": "在这课里是 telephone exchange，医院电话总机或 switchboard。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 491.035,
+      "end": 501.127,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "exchange"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "he telephoned the hospital exchange"
+        },
+        {
+          "lang": "zh",
+          "text": "。他不是去交换东西，也不是换钱，而是打给总机，请总机帮他接到 Doctor Millington。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 501.477,
+      "end": 509.317,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "exchange"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这课里的"
+        },
+        {
+          "lang": "en",
+          "text": "exchange"
+        },
+        {
+          "lang": "zh",
+          "text": "可以记成 old phone connection point，老式电话系统里的连接点。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 509.667,
+      "end": 512.659,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "relative"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "relative"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 513.009,
+      "end": 514.785,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "relative"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "relative"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 515.134,
+      "end": 524.726,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "relative"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "relative"
+        },
+        {
+          "lang": "zh",
+          "text": "是 family member，亲属，比如 parent, child, brother, sister, uncle, aunt。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 525.076,
+      "end": 530.432,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "relative"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Dr. Millington asked the caller if he was a relative of the patient."
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 530.782,
+      "end": 540.822,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "relative"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "医生想确认 caller 和 patient 的关系。这个词也连接到今天的 privacy rule：不是谁打电话来，都有权知道病人的 private information。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 541.172,
+      "end": 548.572,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 是 indirect questions and reported questions，但不要背成干表格。它正好解释这个 phone trick。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 548.922,
+      "end": 558.602,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "直接问题是："
+        },
+        {
+          "lang": "en",
+          "text": "Was my operation successful?"
+        },
+        {
+          "lang": "zh",
+          "text": "课文变成："
+        },
+        {
+          "lang": "en",
+          "text": "whether his operation had been successful"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 558.951,
+      "end": 569.951,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "电话里的问题是："
+        },
+        {
+          "lang": "en",
+          "text": "Has Mr. Gilbert's operation been successful?"
+        },
+        {
+          "lang": "zh",
+          "text": "课文变成："
+        },
+        {
+          "lang": "en",
+          "text": "if Mr. Gilbert's operation had been successful"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 570.301,
+      "end": 581.525,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "直接问“什么时候能回家”是："
+        },
+        {
+          "lang": "en",
+          "text": "When can Mr. Gilbert go home?"
+        },
+        {
+          "lang": "zh",
+          "text": "课文变成："
+        },
+        {
+          "lang": "en",
+          "text": "when Mr. Gilbert would be allowed to go home"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 581.875,
+      "end": 590.346,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "医生的问题是："
+        },
+        {
+          "lang": "en",
+          "text": "Are you a relative?"
+        },
+        {
+          "lang": "zh",
+          "text": "课文变成："
+        },
+        {
+          "lang": "en",
+          "text": "if he was a relative of the patient"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 590.696,
+      "end": 601.544,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你会发现，indirect question 里不再用普通疑问句语序。不是"
+        },
+        {
+          "lang": "en",
+          "text": "when would he be allowed"
+        },
+        {
+          "lang": "zh",
+          "text": "，而是"
+        },
+        {
+          "lang": "en",
+          "text": "when he would be allowed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 601.894,
+      "end": 611.534,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事里也一样：John 不再直接站在病床边问 doctor。他绕了一圈，用 formal phone inquiry 问 about a certain patient。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 611.884,
+      "end": 624.284,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以语法板可以这样记：direct question refused；indirect phone question answered；caller equals patient。句子是 indirect，整个电话也是 indirect。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 624.634,
+      "end": 634.074,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进你的生活。想象你打电话给 school office，询问自己的 activity result or appointment。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 634.424,
+      "end": 642.984,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你要做的是 polite and privacy-aware inquiry，不是假装别人，也不询问别人的私人信息。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 643.333,
+      "end": 648.389,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以这样开头："
+        },
+        {
+          "lang": "en",
+          "text": "Hello, I am calling about my activity result."
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 648.739,
+      "end": 652.259,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先说明身份："
+        },
+        {
+          "lang": "en",
+          "text": "My name is Li Ming."
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 652.609,
+      "end": 658.169,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "礼貌询问结果："
+        },
+        {
+          "lang": "en",
+          "text": "Could you tell me whether my application was successful?"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 658.519,
+      "end": 664.423,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再问时间安排："
+        },
+        {
+          "lang": "en",
+          "text": "Could you also tell me when I will be allowed to join the activity?"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 664.773,
+      "end": 670.456,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果对方需要确认身份，可以说："
+        },
+        {
+          "lang": "en",
+          "text": "Do you need to check my identity?"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 670.806,
+      "end": 676.902,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后补上一句隐私意识："
+        },
+        {
+          "lang": "en",
+          "text": "I understand that this information is private."
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 677.252,
+      "end": 685.292,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这道练习的核心不是“聪明绕路”，而是用 if, whether, and when 把问题问得 polite, clear, and responsible。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 685.642,
+      "end": 711.725,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "whether his operation had been successful"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "hospital exchange"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "inquiring about a certain patient"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "would be allowed to go home"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "another two weeks"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "a relative of the patient"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 712.075,
+      "end": 735.315,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习 polite and privacy-aware phone inquiry；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心：John sounded like a caller asking about a patient, but the patient was John himself."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 39
+}
