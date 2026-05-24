@@ -40,9 +40,12 @@ const renderers = {
   hook(line, ctx) {
     return `
       <div class="scene scene-hook">
-        <div class="scene-deco">🤔</div>
-        <div class="scene-lesson-no">Lesson ${ctx.lesson.id} — ${escapeHtml(ctx.lesson.title)}</div>
-        <p class="hook-question">${joinSegmentsHtml(line.segments)}</p>
+        <div class="hook-cover">
+          <div class="hook-kicker">Lesson ${ctx.lesson.id}</div>
+          <h2 class="hook-title">${escapeHtml(ctx.lesson.title)}</h2>
+          ${ctx.lesson.title_zh ? `<div class="hook-title-zh">${escapeHtml(ctx.lesson.title_zh)}</div>` : ""}
+          <p class="hook-question">${joinSegmentsHtml(line.segments)}</p>
+        </div>
       </div>
     `;
   },
