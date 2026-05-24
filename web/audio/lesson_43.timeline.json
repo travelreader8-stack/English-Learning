@@ -1,0 +1,2116 @@
+{
+  "total_duration": 863.648,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 5.848,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Over the South Pole"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“飞越南极”。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 6.198,
+      "end": 15.598,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这不是一课普通 airplane travel，也不是“坐飞机去旅行”。这是 1929 年的 polar flight exploration，早期极地飞行探险。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 15.948,
+      "end": 30.619,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先把地图放清楚：地球有两个 poles。"
+        },
+        {
+          "lang": "en",
+          "text": "North Pole"
+        },
+        {
+          "lang": "zh",
+          "text": "是地轴最北端；"
+        },
+        {
+          "lang": "en",
+          "text": "South Pole"
+        },
+        {
+          "lang": "zh",
+          "text": "是地轴最南端，在"
+        },
+        {
+          "lang": "en",
+          "text": "Antarctica"
+        },
+        {
+          "lang": "zh",
+          "text": "，南极洲。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 30.969,
+      "end": 40.161,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "South Pole"
+        },
+        {
+          "lang": "zh",
+          "text": "不是城市，不是国家，也不是 airport。它是南极洲冰原上的一个 geographic point，地理点。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 40.511,
+      "end": 50.111,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天飞机有卫星、无线电、天气预报、导航和救援系统；但 1929 年，这些条件都弱得多。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 50.461,
+      "end": 61.701,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以 Byrd 的 flight 更像把一架早期飞机当成 explorer's tool。飞机飞过白色荒原和高山，人在空中拍照、记录、判断危险。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 62.05,
+      "end": 73.854,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事的紧张点很简单：飞机太重，爬不上足够高度；前面是 mountains；如果不能升到"
+        },
+        {
+          "lang": "en",
+          "text": "10,000 feet"
+        },
+        {
+          "lang": "zh",
+          "text": "，大约三千米，就可能撞山。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 74.204,
+      "end": 81.604,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Byrd 立刻命令助手扔掉 two heavy food sacks。飞机变轻，终于 rise and clear the mountains。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 81.954,
+      "end": 100.754,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "整课记忆链是：1929 -> North Pole three years earlier -> R.E. Byrd -> South Pole -> photographs -> mountains below -> serious trouble -> crash danger -> 10,000 feet -> food sacks out -> cleared by 400 feet -> 300 miles -> endless white plains。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 101.104,
+      "end": 116.928,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一幅画，是 map and early polar flight。课文开头说："
+        },
+        {
+          "lang": "en",
+          "text": "In 1929, three years after his flight over the North Pole, the American explorer, R.E. Byrd, successfully flew over the South Pole for the first time."
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 117.278,
+      "end": 121.558,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里先抓三个信息：time, person, place。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 121.908,
+      "end": 136.851,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In 1929"
+        },
+        {
+          "lang": "zh",
+          "text": "是很早的航空时代；"
+        },
+        {
+          "lang": "en",
+          "text": "R.E. Byrd"
+        },
+        {
+          "lang": "zh",
+          "text": "是 American explorer，探险家；"
+        },
+        {
+          "lang": "en",
+          "text": "South Pole"
+        },
+        {
+          "lang": "zh",
+          "text": "是地球最南端，在南极洲。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 137.201,
+      "end": 151.881,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说 three years after his flight over the North Pole，意思是他之前已经有北极飞行背景。我们不展开传记，也不讲后来争议，今天只聚焦课文里的 1929 South Pole flight。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 152.231,
+      "end": 164.411,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "画面要像 globe -> North Pole -> South Pole -> Antarctica。学生先知道飞机不是飞去一个城市，而是在飞越一片遥远、寒冷、很难救援的极地。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 164.761,
+      "end": 178.929,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二幅画，是 photographs of mountains below。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Though, at first, Byrd and his men were able to take a great many photographs of the mountains that lay below, they soon ran into serious trouble."
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 179.279,
+      "end": 188.646,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Photograph"
+        },
+        {
+          "lang": "zh",
+          "text": "是 photo 的完整说法，更正式、更书面。今天我们平时更常说"
+        },
+        {
+          "lang": "en",
+          "text": "photo"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 188.996,
+      "end": 201.108,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但在这课里，"
+        },
+        {
+          "lang": "en",
+          "text": "take a great many photographs"
+        },
+        {
+          "lang": "zh",
+          "text": "听起来像 explorer's report。他们不是随手拍朋友圈，而是在空中记录当时很难到达的 mountains。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 201.458,
+      "end": 212.278,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The mountains that lay below"
+        },
+        {
+          "lang": "zh",
+          "text": "意思是那些山在飞机下面。"
+        },
+        {
+          "lang": "en",
+          "text": "Lay below"
+        },
+        {
+          "lang": "zh",
+          "text": "这里不是“放下”，而是 were located below。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 212.628,
+      "end": 224.204,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "开头很美：能拍照，能观察，像 exploration 成功展开。可是转折来了："
+        },
+        {
+          "lang": "en",
+          "text": "they soon ran into serious trouble"
+        },
+        {
+          "lang": "zh",
+          "text": "，他们很快遇到严重麻烦。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 224.553,
+      "end": 233.337,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三幅画，是 serious trouble。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "At one point, it seemed certain that their plane would crash."
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 233.687,
+      "end": 244.935,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "At one point"
+        },
+        {
+          "lang": "zh",
+          "text": "是在某个时刻；"
+        },
+        {
+          "lang": "en",
+          "text": "seemed certain"
+        },
+        {
+          "lang": "zh",
+          "text": "是看起来几乎确定；"
+        },
+        {
+          "lang": "en",
+          "text": "crash"
+        },
+        {
+          "lang": "zh",
+          "text": "是飞机撞上去、坠毁。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 245.285,
+      "end": 256.413,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "危险的原因不是天气戏剧化，也不是飞行员慌了。课文给了一个 hard condition："
+        },
+        {
+          "lang": "en",
+          "text": "It could only get over the mountains if it rose to 10,000 feet."
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 256.762,
+      "end": 267.514,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Could only ... if ..."
+        },
+        {
+          "lang": "zh",
+          "text": "表示只有满足一个条件，结果才可能发生。飞机只有升到"
+        },
+        {
+          "lang": "en",
+          "text": "10,000 feet"
+        },
+        {
+          "lang": "zh",
+          "text": "，才能越过山。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 267.864,
+      "end": 275.344,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但是飞机太重，爬升困难。飞机不是想飞多高就立刻飞多高。越重，越难 climb。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 275.694,
+      "end": 284.086,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以 Byrd 做出很 practical 的决定："
+        },
+        {
+          "lang": "en",
+          "text": "Byrd at once ordered his men to throw out two heavy food sacks."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 284.436,
+      "end": 300.339,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "At once"
+        },
+        {
+          "lang": "zh",
+          "text": "是 immediately；"
+        },
+        {
+          "lang": "en",
+          "text": "throw out"
+        },
+        {
+          "lang": "zh",
+          "text": "是从飞机里扔出去；"
+        },
+        {
+          "lang": "en",
+          "text": "food sacks"
+        },
+        {
+          "lang": "zh",
+          "text": "是装食物的袋子。这个动作不是浪费，而是 emergency weight reduction，紧急减重。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 300.689,
+      "end": 311.409,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四幅画，是 clear the mountains and white plains。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The plane was then able to rise and it cleared the mountains by 400 feet."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 311.759,
+      "end": 324.391,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意"
+        },
+        {
+          "lang": "en",
+          "text": "clear the mountains"
+        },
+        {
+          "lang": "zh",
+          "text": "不是 clean the mountains，不是打扫山。这里的"
+        },
+        {
+          "lang": "en",
+          "text": "clear"
+        },
+        {
+          "lang": "zh",
+          "text": "是 pass over without hitting，越过而没有撞上。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 324.74,
+      "end": 334.692,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "400 feet"
+        },
+        {
+          "lang": "zh",
+          "text": "大约 120 米。听起来比一座楼高很多，可是在飞机过山的危险时刻，这不是特别大的安全余量。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 335.042,
+      "end": 344.154,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文继续："
+        },
+        {
+          "lang": "en",
+          "text": "Byrd now knew that he would be able to reach the South Pole which was 300 miles away, for there were no more mountains in sight."
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 344.504,
+      "end": 355.336,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "300 miles"
+        },
+        {
+          "lang": "zh",
+          "text": "大约 480 公里。重点不是背换算，而是知道：前面还有很远，但没有更多 mountains in sight。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 355.686,
+      "end": 363.054,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一句让情绪放松："
+        },
+        {
+          "lang": "en",
+          "text": "The aircraft was able to fly over the endless white plains without difficulty."
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 363.404,
+      "end": 372.644,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "故事从 beautiful photographs 进入 mountain danger，又因为 two food sacks 被扔出而转危为安，最后来到 open white plains。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 372.994,
+      "end": 374.614,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课最容易误会什么？"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 374.963,
+      "end": 379.296,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "以为 South Pole 是一个城市，或者这是普通坐飞机旅行？"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 379.646,
+      "end": 392.23,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。先要把 geography 立住。"
+        },
+        {
+          "lang": "en",
+          "text": "South Pole"
+        },
+        {
+          "lang": "zh",
+          "text": "是地球最南端的点，在"
+        },
+        {
+          "lang": "en",
+          "text": "Antarctica"
+        },
+        {
+          "lang": "zh",
+          "text": "，不是 city, country, or airport。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 392.58,
+      "end": 395.875,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那为什么 1929 年特别重要？"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 396.224,
+      "end": 405.344,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为当时的 polar flight 还很 early and experimental。导航、天气信息、发动机可靠性和救援条件都比今天弱很多。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 405.694,
+      "end": 408.49,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以拍照片也不是旅游自拍？"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 408.84,
+      "end": 424.148,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。课文里的"
+        },
+        {
+          "lang": "en",
+          "text": "photographs"
+        },
+        {
+          "lang": "zh",
+          "text": "更像 exploration records。今天我们说"
+        },
+        {
+          "lang": "en",
+          "text": "photos"
+        },
+        {
+          "lang": "zh",
+          "text": "很日常；这里用"
+        },
+        {
+          "lang": "en",
+          "text": "photographs"
+        },
+        {
+          "lang": "zh",
+          "text": "，更正式，也更有记录感。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 424.498,
+      "end": 427.193,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "飞机为什么差点出事？"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 427.543,
+      "end": 434.686,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它需要升到"
+        },
+        {
+          "lang": "en",
+          "text": "10,000 feet"
+        },
+        {
+          "lang": "zh",
+          "text": "才能越过 mountains，但它太重，爬升不够。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 435.036,
+      "end": 437.787,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "扔掉 food sacks 为什么有用？"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 438.137,
+      "end": 446.105,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为减轻重量以后，plane was able to rise。它终于"
+        },
+        {
+          "lang": "en",
+          "text": "cleared the mountains by 400 feet"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 446.454,
+      "end": 450.419,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这课的情绪不是恐怖，而是 tension and release？"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 450.768,
+      "end": 457.368,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Exactly. Tense mountain crossing first, calm endless white plains after."
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 457.718,
+      "end": 466.982,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In 1929, three years after his flight over the North Pole, the American explorer, R.E. Byrd, successfully flew over the South Pole for the first time."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 467.332,
+      "end": 475.3,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Though, at first, Byrd and his men were able to take a great many photographs of the mountains that lay below, they soon ran into serious trouble."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 475.65,
+      "end": 479.514,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "At one point, it seemed certain that their plane would crash."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 479.864,
+      "end": 484.16,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It could only get over the mountains if it rose to 10,000 feet."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 484.51,
+      "end": 488.662,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Byrd at once ordered his men to throw out two heavy food sacks."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 489.012,
+      "end": 493.716,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The plane was then able to rise and it cleared the mountains by 400 feet."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 494.066,
+      "end": 501.218,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Byrd now knew that he would be able to reach the South Pole which was 300 miles away, for there were no more mountains in sight."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 501.568,
+      "end": 506.416,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The aircraft was able to fly over the endless white plains without difficulty."
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 506.765,
+      "end": 509.597,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "explorer"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "explorer"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 509.947,
+      "end": 511.819,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "explorer"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "explorer"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 512.169,
+      "end": 520.441,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "explorer"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Explorer"
+        },
+        {
+          "lang": "zh",
+          "text": "means a person who travels to difficult or unknown places to learn about them，探险家。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 520.791,
+      "end": 524.923,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "explorer"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "the American explorer, R.E. Byrd"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 525.273,
+      "end": 535.153,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "explorer"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他不是 ordinary passenger，不是普通乘客。他把 aircraft 用作 exploration tool，去观察、记录、穿越很难到达的 polar area。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 535.502,
+      "end": 544.006,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "explorer"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记这个词时，把人和任务连在一起："
+        },
+        {
+          "lang": "en",
+          "text": "explorer -> difficult place -> learn and record"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 544.356,
+      "end": 547.036,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "crash"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "crash"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 547.386,
+      "end": 548.946,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "crash"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "crash"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 549.296,
+      "end": 559.896,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "crash"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Crash"
+        },
+        {
+          "lang": "zh",
+          "text": "means to hit something violently, especially a vehicle or aircraft，猛烈撞击，尤其是车辆或飞机出事故。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 560.246,
+      "end": 564.234,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "crash"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "it seemed certain that their plane would crash"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 564.584,
+      "end": 574.544,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "crash"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里不要画成吓人的灾难场面。我们只要理解危险：飞机前面是 mountains，它必须 rise high enough，才不会 crash。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 574.893,
+      "end": 581.773,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "crash"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词的重点是 danger, not drama。故事里真正的解决动作是减重，让飞机能够 climb。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 582.123,
+      "end": 584.755,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "clear"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "clear"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 585.105,
+      "end": 586.617,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "clear"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "clear"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 586.967,
+      "end": 595.239,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "clear"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Clear"
+        },
+        {
+          "lang": "zh",
+          "text": "在这课里 means to pass over an obstacle without hitting it，越过障碍而没有碰到。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 595.589,
+      "end": 599.649,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "clear"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "it cleared the mountains by 400 feet"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 599.999,
+      "end": 606.438,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "clear"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "clear the mountains"
+        },
+        {
+          "lang": "zh",
+          "text": "不是 clean the mountains，不是把山清理干净。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 606.788,
+      "end": 615.132,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "clear"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以想象一个 drone over a hill。如果它飞得足够高，you can say："
+        },
+        {
+          "lang": "en",
+          "text": "The drone cleared the hill."
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 615.482,
+      "end": 620.242,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "clear"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词把 danger 和 relief 连起来：not hit the mountains, but pass over them safely."
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 620.592,
+      "end": 630.756,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar board 要贴着飞行危险走，不要把"
+        },
+        {
+          "lang": "en",
+          "text": "can"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "be able to"
+        },
+        {
+          "lang": "zh",
+          "text": "干背成同义词。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 631.105,
+      "end": 637.617,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块，是 beginning ability："
+        },
+        {
+          "lang": "en",
+          "text": "Byrd and his men were able to take a great many photographs."
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 637.967,
+      "end": 641.807,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这时候他们能拍照片，探索看起来顺利。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 642.157,
+      "end": 649.045,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块，是 hard condition："
+        },
+        {
+          "lang": "en",
+          "text": "It could only get over the mountains if it rose to 10,000 feet."
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 649.395,
+      "end": 657.283,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Could only ... if ..."
+        },
+        {
+          "lang": "zh",
+          "text": "的意思是：只有这个条件成立，事情才可能成功。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 657.633,
+      "end": 667.076,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以换成生活句："
+        },
+        {
+          "lang": "en",
+          "text": "We can only finish if everyone helps."
+        },
+        {
+          "lang": "zh",
+          "text": "或者"
+        },
+        {
+          "lang": "en",
+          "text": "The drone can only clear the hill if it rises higher."
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 667.426,
+      "end": 673.274,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块，是 emergency decision："
+        },
+        {
+          "lang": "en",
+          "text": "throw out two heavy food sacks"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 673.624,
+      "end": 680.144,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "飞机变轻以后，ability changes："
+        },
+        {
+          "lang": "en",
+          "text": "The plane was then able to rise."
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 680.494,
+      "end": 690.942,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四块，是 result："
+        },
+        {
+          "lang": "en",
+          "text": "it cleared the mountains by 400 feet"
+        },
+        {
+          "lang": "zh",
+          "text": "，然后 Byrd knew he"
+        },
+        {
+          "lang": "en",
+          "text": "would be able to reach the South Pole"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 691.292,
+      "end": 697.939,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后，aircraft"
+        },
+        {
+          "lang": "en",
+          "text": "was able to fly over the endless white plains without difficulty"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 698.289,
+      "end": 707.817,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课还给一个现代词汇桥："
+        },
+        {
+          "lang": "en",
+          "text": "photograph"
+        },
+        {
+          "lang": "zh",
+          "text": "是完整正式词；"
+        },
+        {
+          "lang": "en",
+          "text": "photo"
+        },
+        {
+          "lang": "zh",
+          "text": "是日常短词。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 708.167,
+      "end": 732.51,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "英语里很多词会变短："
+        },
+        {
+          "lang": "en",
+          "text": "telephone -> phone"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "airplane -> plane"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "television -> TV"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "refrigerator -> fridge"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "examination -> exam"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "laboratory -> lab"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "application -> app"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 732.86,
+      "end": 744.028,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以课文的"
+        },
+        {
+          "lang": "en",
+          "text": "photographs"
+        },
+        {
+          "lang": "zh",
+          "text": "有 explorer report 的正式感；今天你和朋友更可能说："
+        },
+        {
+          "lang": "en",
+          "text": "We took many photos of the mountains."
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 744.378,
+      "end": 750.178,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进你的生活。想象你在做一个 drone mission，无人机任务。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 750.528,
+      "end": 755.688,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你们想飞过一座 hill，拍几张 photos。一开始 everything is easy。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 756.038,
+      "end": 760.845,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以先说："
+        },
+        {
+          "lang": "en",
+          "text": "At first, we were able to take photos of the hill."
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 761.195,
+      "end": 765.867,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后来遇到问题："
+        },
+        {
+          "lang": "en",
+          "text": "Then we ran into serious trouble."
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 766.217,
+      "end": 772.241,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "只有一个 hard condition："
+        },
+        {
+          "lang": "en",
+          "text": "The drone could only get over the hill if it rose higher."
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 772.591,
+      "end": 780.199,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "于是你们做了 practical decision，不是乱着急："
+        },
+        {
+          "lang": "en",
+          "text": "At once, we took off the heavy camera cover."
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 780.549,
+      "end": 786.181,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结果可以这样说："
+        },
+        {
+          "lang": "en",
+          "text": "The drone was then able to rise and it cleared the hill."
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 786.53,
+      "end": 802.01,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个生活场景要练的不是南极知识，而是一个表达模式：At first we were able to do something. Then we ran into trouble. We could only succeed if one condition was met. We made a decision. Then we were able to clear the obstacle."
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 802.36,
+      "end": 809.68,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 810.03,
+      "end": 835.705,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时把"
+        },
+        {
+          "lang": "en",
+          "text": "North Pole"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "South Pole"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "explorer"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "photographs"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "serious trouble"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "crash"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "10,000 feet"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "food sacks"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "cleared the mountains"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "300 miles"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "endless white plains"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 836.055,
+      "end": 851.579,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习"
+        },
+        {
+          "lang": "en",
+          "text": "were able to"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "could only ... if ..."
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "clear"
+        },
+        {
+          "lang": "zh",
+          "text": "；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 851.928,
+      "end": 863.648,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心：A dangerous mountain crossing turns into a calm flight over endless white plains."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 43
+}

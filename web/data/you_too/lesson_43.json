@@ -1,0 +1,55 @@
+{
+  "lesson_id": 43,
+  "title": "Over the South Pole",
+  "question": "把今天课文里的“先能做到 -> 遇到严重麻烦 -> 只有满足条件才行 -> 立刻做决定 -> 越过障碍”放进无人机飞越小山的场景。用 word bank 补完整 5 个空。",
+  "example_answer": "At first, we were able to take photos of the hill. Then we ran into serious trouble. The drone could only get over the hill if it rose higher. At once, we took off the heavy camera cover. The drone was then able to rise and it cleared the hill.",
+  "word_bank": [
+    "were able to",
+    "take photos",
+    "ran into serious trouble",
+    "could only get over",
+    "if it rose higher",
+    "At once",
+    "took off",
+    "heavy camera cover",
+    "able to rise",
+    "cleared the hill",
+    "photo",
+    "photograph",
+    "practical decision",
+    "hard condition"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "用 were able to 描述一开始能做到的事：我们能够拍小山的照片",
+      "english_template": "At first, we ___ take photos of the hill.",
+      "expected_phrase": "were able to"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "用 ran into serious trouble 表达：后来遇到了严重麻烦",
+      "english_template": "Then we ___.",
+      "expected_phrase": "ran into serious trouble"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "用 could only...if... 表达硬条件：无人机只有升得更高才能越过小山",
+      "english_template": "The drone ___ the hill if it rose higher.",
+      "expected_phrase": "could only get over"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "用 At once 推出立刻的决定：我们马上取下沉重的相机外壳",
+      "english_template": "___, we took off the heavy camera cover.",
+      "expected_phrase": "At once"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "用 clear 表达越过障碍：无人机越过了小山",
+      "english_template": "The drone was then able to rise and it ___.",
+      "expected_phrase": "cleared the hill"
+    }
+  ],
+  "mode": "all_fills"
+}

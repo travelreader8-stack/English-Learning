@@ -1,0 +1,23 @@
+{
+  "lesson_id": 43,
+  "title": "Over the South Pole",
+  "visual_consistency": "A warm educational early-aviation polar exploration illustration set over Antarctica in 1929. R.E. Byrd is a calm focused American explorer-aviator in period flight clothing: leather flight jacket, tan scarf, fur-lined cap, goggles pushed up, square face, light skin, average sturdy build, steady leadership expression. His small crew wears matching period aviator coats, wool scarves, and leather caps inside or beside the same old-fashioned propeller aircraft. The aircraft is a sturdy vintage multi-engine propeller plane with cream and muted red markings, not a modern jet. The polar landscape is snowy Antarctic mountains, blue-gray ice, and endless white plains. Adventurous and tense but safe for children, no crash, no fire, no disaster imagery, no readable text.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "The same R.E. Byrd, calm focused American explorer-aviator in a leather flight jacket, tan scarf, fur-lined cap, and raised goggles, prepares for a 1929 South Pole flight with the same small crew and the same sturdy vintage propeller aircraft. Show a simple visual globe-map composition through picture shapes only: the top polar region, the bottom Antarctic region, and the aircraft heading toward the icy south. Include snowy Antarctic mountains far below and a feeling of early exploration, no readable labels, no letters, no modern jet."
+    },
+    {
+      "frame": 2,
+      "prompt": "Inside and beside the same vintage propeller aircraft in flight, the same R.E. Byrd and crew look down calmly while taking photographs of snowy Antarctic mountains lying below. Use old-fashioned box cameras and notebooks to show exploration records, not casual tourism. The mountains below are beautiful and vast, blue shadows on snow, with the same aircraft wing visible. Mood is wonder and careful observation, no readable text or captions."
+    },
+    {
+      "frame": 3,
+      "prompt": "The same vintage propeller aircraft approaches high snowy Antarctic mountains and seems too low and heavy to climb, but show the danger safely without impact. Inside the aircraft, the same R.E. Byrd gives a firm calm order while the crew throws out two heavy food sacks through an open hatch; the sacks fall away below the aircraft, making the plane lighter. The crew faces are tense but controlled, no crash, no fire, no panic, no readable labels."
+    },
+    {
+      "frame": 4,
+      "prompt": "The same vintage propeller aircraft has risen and safely cleared the snowy mountains, with a visible gap between the plane and the mountain ridge, then open endless white Antarctic plains stretching ahead. The same R.E. Byrd and crew look relieved and calm inside the aircraft. The composition contrasts the mountains behind with the wide white plains ahead, cinematic release after danger, no readable text, no captions."
+    }
+  ]
+}
