@@ -1,0 +1,111 @@
+{
+  "lesson_id": 42,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“Old Delhi markets -> square rest -> snake charmer -> two baskets -> coin-covered pipe -> first glimpse -> followed movements -> jazz and pop -> not very musical”的旅行观察链读顺。注意 had had 不要慌，As、As soon as、When 后面要分好意群，however 前后要有轻微转折，最后一句要读出一点好笑的发现。",
+  "sentences": [
+    {
+      "id": "l42_s1",
+      "text": "As we had had a long walk through one of the markets of old Delhi, we stopped at a square to have a rest.",
+      "focus_zh": "As 引出背景和原因；had had 两个 had 功能不同，但朗读时都清楚带过。through one of the markets of old Delhi 是长地点短语，要连成一组。",
+      "start": 440.827,
+      "end": 446.803,
+      "focus_words": [
+        "As we had had",
+        "a long walk",
+        "old Delhi",
+        "have a rest"
+      ]
+    },
+    {
+      "id": "l42_s2",
+      "text": "After a time, we noticed a snake charmer with two large baskets at the other side of the square, so we went to have a look at him.",
+      "focus_zh": "After a time 后面轻停；snake charmer、two large baskets、at the other side of the square 是画面链，要读出“看见 -> 走过去看”的顺序。",
+      "start": 447.153,
+      "end": 454.281,
+      "focus_words": [
+        "After a time",
+        "snake charmer",
+        "two large baskets",
+        "have a look"
+      ]
+    },
+    {
+      "id": "l42_s3",
+      "text": "As soon as he saw us, he picked up a long pipe which was covered with coins and opened one of the baskets.",
+      "focus_zh": "As soon as 表示马上行动；picked up、covered with coins、opened one of the baskets 三个动作要读得清楚，不要把 which 从句读散。",
+      "start": 454.631,
+      "end": 460.559,
+      "focus_words": [
+        "As soon as",
+        "picked up",
+        "long pipe",
+        "covered with coins"
+      ]
+    },
+    {
+      "id": "l42_s4",
+      "text": "When he began to play a tune, we had our first glimpse of the snake.",
+      "focus_zh": "When 引出蛇出现的时刻；first glimpse 是第一次短短看见，要读出“刚看到”的感觉。",
+      "start": 460.908,
+      "end": 465.084,
+      "focus_words": [
+        "When he began",
+        "play a tune",
+        "first glimpse",
+        "the snake"
+      ]
+    },
+    {
+      "id": "l42_s5",
+      "text": "It rose out of the basket and began to follow the movements of the pipe.",
+      "focus_zh": "rose out of the basket 是慢慢升出来；follow the movements of the pipe 是本课科学纠偏的关键，要把 movements 读清楚。",
+      "start": 465.434,
+      "end": 469.658,
+      "focus_words": [
+        "rose out of",
+        "the basket",
+        "follow the movements",
+        "the pipe"
+      ]
+    },
+    {
+      "id": "l42_s6",
+      "text": "We were very much surprised when the snake charmer suddenly began to play jazz and modern pop songs.",
+      "focus_zh": "very much surprised 读出惊讶但不要夸张；suddenly began to play 后面接 jazz and modern pop songs，说明音乐风格变了。",
+      "start": 470.008,
+      "end": 475.912,
+      "focus_words": [
+        "very much surprised",
+        "suddenly began",
+        "jazz",
+        "modern pop songs"
+      ]
+    },
+    {
+      "id": "l42_s7",
+      "text": "The snake, however, continued to 'dance' slowly.",
+      "focus_zh": "however 前后要有轻微停顿，读出转折；continued to 'dance' slowly 要读得慢一点，因为蛇的动作没有跟着音乐风格改变。",
+      "start": 476.262,
+      "end": 479.862,
+      "focus_words": [
+        "The snake",
+        "however",
+        "continued",
+        "dance slowly"
+      ]
+    },
+    {
+      "id": "l42_s8",
+      "text": "It obviously could not tell the difference between Indian music and jazz!",
+      "focus_zh": "obviously 是显然；tell the difference between A and B 是分辨两者区别。最后要有一点 amused tone，因为标题笑点在这里落下。",
+      "start": 480.212,
+      "end": 484.964,
+      "focus_words": [
+        "obviously",
+        "tell the difference",
+        "Indian music",
+        "jazz"
+      ]
+    }
+  ]
+}

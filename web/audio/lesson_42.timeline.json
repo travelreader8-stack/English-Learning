@@ -1,0 +1,1930 @@
+{
+  "total_duration": 805.765,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 5.984,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Not very musical"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“并非很懂音乐”。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 6.334,
+      "end": 18.494,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这不是一课讲 snake magic，也不是把印度说成神秘或落后。它是一课 travel scene comedy：游客看到一场街头表演，先惊讶，后来发现真正的笑点很科学。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 18.844,
+      "end": 26.804,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先给地图："
+        },
+        {
+          "lang": "en",
+          "text": "India -> Delhi -> Old Delhi -> market -> square"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 27.153,
+      "end": 41.061,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Delhi"
+        },
+        {
+          "lang": "zh",
+          "text": "是印度的一座大城市，也是首都区域。"
+        },
+        {
+          "lang": "en",
+          "text": "Old Delhi"
+        },
+        {
+          "lang": "zh",
+          "text": "是更老的历史城区，常让人想到市场、窄街、历史建筑和热闹的公共生活。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 41.411,
+      "end": 55.243,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "New Delhi"
+        },
+        {
+          "lang": "zh",
+          "text": "是后来规划出来的首都行政区，政府建筑和宽路更多。课文在"
+        },
+        {
+          "lang": "en",
+          "text": "old Delhi"
+        },
+        {
+          "lang": "zh",
+          "text": "，所以 market, square, street performance 都自然出现。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 55.593,
+      "end": 64.993,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课的气质和前面很多英国家里、商店里、医院里的故事不一样。这里更 open, noisy, colorful, street-based。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 65.342,
+      "end": 78.182,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但我们要保持两个现代边界：第一，尊重不同城市节奏，不把一个街头表演当成整个文化；第二，今天看动物表演，也要想到 animal welfare，动物保护。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 78.532,
+      "end": 89.372,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有一个科学纠偏：蛇不是像人一样欣赏旋律。它更可能是在跟着 pipe 的 movement，管子的移动、表演者动作和周围震动。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 89.722,
+      "end": 102.846,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以标题"
+        },
+        {
+          "lang": "en",
+          "text": "Not very musical"
+        },
+        {
+          "lang": "zh",
+          "text": "是幽默 understatement。蛇不是音乐鉴赏家，当然分不出"
+        },
+        {
+          "lang": "en",
+          "text": "Indian music"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "jazz"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 103.196,
+      "end": 121.556,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "整课记忆链是：Old Delhi markets -> square rest -> snake charmer -> two baskets -> long pipe with coins -> tune -> first glimpse -> snake rose -> followed movements -> jazz and pop songs -> continued to dance -> could not tell the difference。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 121.906,
+      "end": 133.442,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一幅画，是 Old Delhi market and rest。课文开头说："
+        },
+        {
+          "lang": "en",
+          "text": "As we had had a long walk through one of the markets of old Delhi, we stopped at a square to have a rest."
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 133.791,
+      "end": 140.927,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里给 reason and background：因为他们已经走了很久，所以停下来休息。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 141.277,
+      "end": 158.581,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Had had"
+        },
+        {
+          "lang": "zh",
+          "text": "看起来像重复，其实不是写错。第一个"
+        },
+        {
+          "lang": "en",
+          "text": "had"
+        },
+        {
+          "lang": "zh",
+          "text": "是 past perfect helper，语法帮手；第二个"
+        },
+        {
+          "lang": "en",
+          "text": "had"
+        },
+        {
+          "lang": "zh",
+          "text": "是 main verb，意思是 experienced or taken。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 158.931,
+      "end": 165.974,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "had had a long walk"
+        },
+        {
+          "lang": "zh",
+          "text": "就是：在他们停下以前，他们已经走了很长一段路。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 166.324,
+      "end": 177.364,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "画面上要有市场、老城区的街道、游客有点累、走到 square 休息。故事不是直接从蛇开始，而是从一段长长的城市步行开始。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 177.714,
+      "end": 190.298,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二幅画，是 the performer across the square。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "After a time, we noticed a snake charmer with two large baskets at the other side of the square, so we went to have a look at him."
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 190.648,
+      "end": 197.392,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "After a time"
+        },
+        {
+          "lang": "zh",
+          "text": "把时间往前推一点；"
+        },
+        {
+          "lang": "en",
+          "text": "noticed"
+        },
+        {
+          "lang": "zh",
+          "text": "是注意到。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 197.742,
+      "end": 208.638,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Snake charmer"
+        },
+        {
+          "lang": "zh",
+          "text": "是一种传统街头表演者，看起来像用管乐器让蛇移动。这里要说成文化场景，不要说成整个印度的代表。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 208.987,
+      "end": 217.123,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "At the other side of the square"
+        },
+        {
+          "lang": "zh",
+          "text": "就是在广场另一边；"
+        },
+        {
+          "lang": "en",
+          "text": "have a look at him"
+        },
+        {
+          "lang": "zh",
+          "text": "是走过去看一看。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 217.473,
+      "end": 224.593,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这幅画的重点是 two large baskets 和一个问题：What is in the basket?"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 224.943,
+      "end": 237.775,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三幅画，是 first glimpse of the snake。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "As soon as he saw us, he picked up a long pipe which was covered with coins and opened one of the baskets."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 238.125,
+      "end": 248.829,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As soon as"
+        },
+        {
+          "lang": "zh",
+          "text": "表示一看见他们，马上行动。动作很快：saw us -> picked up the pipe -> opened one basket。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 249.178,
+      "end": 257.37,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意"
+        },
+        {
+          "lang": "en",
+          "text": "pipe"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里不是水管，而是 snake charmer 的 wind instrument，一支长长的管乐器。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 257.72,
+      "end": 264.808,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Covered with coins"
+        },
+        {
+          "lang": "zh",
+          "text": "是上面装饰着硬币。这个细节让 pipe 在画面里很显眼。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 265.158,
+      "end": 271.27,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着课文说："
+        },
+        {
+          "lang": "en",
+          "text": "When he began to play a tune, we had our first glimpse of the snake."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 271.62,
+      "end": 280.388,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Glimpse"
+        },
+        {
+          "lang": "zh",
+          "text": "是 brief quick look，第一次短短地看见。蛇不是突然扑出来，而是慢慢从篮子里出现。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 280.738,
+      "end": 286.514,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文继续："
+        },
+        {
+          "lang": "en",
+          "text": "It rose out of the basket and began to follow the movements of the pipe."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 286.863,
+      "end": 295.171,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里最关键的词是"
+        },
+        {
+          "lang": "en",
+          "text": "movements"
+        },
+        {
+          "lang": "zh",
+          "text": "。学生要看到：snake follows movement, not music style。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 295.521,
+      "end": 306.201,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四幅画，是 the music switch。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "We were very much surprised when the snake charmer suddenly began to play jazz and modern pop songs."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 306.551,
+      "end": 312.831,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "人会听出 style 变了：Indian music, jazz, modern pop songs，耳朵觉得很不一样。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 313.181,
+      "end": 318.949,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但是课文马上转折："
+        },
+        {
+          "lang": "en",
+          "text": "The snake, however, continued to 'dance' slowly."
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 319.299,
+      "end": 328.562,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "However"
+        },
+        {
+          "lang": "zh",
+          "text": "是 contrast marker，表示“可是”。它提醒你：人觉得音乐变了，可蛇的反应没有变。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 328.912,
+      "end": 337.648,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Dance"
+        },
+        {
+          "lang": "zh",
+          "text": "放在引号里，因为它不是像人一样真的跳舞，只是跟着 pipe 的移动慢慢摆动。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 337.998,
+      "end": 345.542,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一句是 punchline："
+        },
+        {
+          "lang": "en",
+          "text": "It obviously could not tell the difference between Indian music and jazz!"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 345.892,
+      "end": 356.66,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Tell the difference between A and B"
+        },
+        {
+          "lang": "zh",
+          "text": "就是分辨 A 和 B 的区别。蛇当然分不出印度音乐和爵士乐，因为它并不是在当音乐听众。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 357.01,
+      "end": 358.63,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课最容易误会什么？"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 358.98,
+      "end": 363.084,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "以为是在说印度很奇怪，或者蛇真的听懂了音乐？"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 363.434,
+      "end": 369.514,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，所以我们先把 tone 放正。Old Delhi 是一座城市的历史层，不是“落后”的标签。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 369.864,
+      "end": 373.266,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那这个街头表演怎么讲比较好？"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 373.616,
+      "end": 385.096,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以说它是 travelers 在公共空间里看到的一种 traditional street performance。市场、广场、游客、表演者、音乐和动物都在同一个街头空间里。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 385.446,
+      "end": 388.296,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "和前面很多课有什么不同？"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 388.646,
+      "end": 399.206,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "前面很多故事在家里、商店、餐桌、医院、车站。这一课更 public, more sensory, more colorful。城市气质不同，不是哪个文化更好。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 399.555,
+      "end": 401.828,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那 animal welfare 呢？"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 402.178,
+      "end": 414.258,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "很重要。课文记录的是旧教材里的传统表演场景。今天我们可以理解文本，同时知道现代社会会更关注动物保护，不鼓励模仿动物表演。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 414.608,
+      "end": 417.339,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "科学上，蛇真的听音乐吗？"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 417.689,
+      "end": 427.88,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它不是像人一样欣赏旋律。课文已经给了线索："
+        },
+        {
+          "lang": "en",
+          "text": "follow the movements of the pipe"
+        },
+        {
+          "lang": "zh",
+          "text": "。movement 比 music style 更关键。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 428.23,
+      "end": 431.407,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以好笑的点不是“印度很神秘”。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 431.757,
+      "end": 440.477,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。好笑的是：人听出了 jazz 和 pop，可蛇的 movement 还是一样。It is not very musical."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 440.827,
+      "end": 446.803,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As we had had a long walk through one of the markets of old Delhi, we stopped at a square to have a rest."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 447.153,
+      "end": 454.281,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "After a time, we noticed a snake charmer with two large baskets at the other side of the square, so we went to have a look at him."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 454.631,
+      "end": 460.559,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As soon as he saw us, he picked up a long pipe which was covered with coins and opened one of the baskets."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 460.908,
+      "end": 465.084,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When he began to play a tune, we had our first glimpse of the snake."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 465.434,
+      "end": 469.658,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It rose out of the basket and began to follow the movements of the pipe."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 470.008,
+      "end": 475.912,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "We were very much surprised when the snake charmer suddenly began to play jazz and modern pop songs."
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 476.262,
+      "end": 479.862,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The snake, however, continued to 'dance' slowly."
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 480.212,
+      "end": 484.964,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It obviously could not tell the difference between Indian music and jazz!"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 485.314,
+      "end": 488.29,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "snake_charmer"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "snake charmer"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 488.64,
+      "end": 490.584,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "snake_charmer"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "snake charmer"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 490.934,
+      "end": 499.229,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "snake_charmer"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Snake charmer"
+        },
+        {
+          "lang": "zh",
+          "text": "means a traditional street performer who appears to make a snake move by playing a pipe，耍蛇人。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 499.579,
+      "end": 504.239,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "snake_charmer"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "We noticed a snake charmer with two large baskets."
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 504.589,
+      "end": 514.589,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "snake_charmer"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里要记住两层：文本里它是旅行者看到的街头表演；现代看法里，我们也会想到 animal welfare and science。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 514.939,
+      "end": 523.979,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "snake_charmer"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这个词不要带着猎奇感学。把它放回具体场景：Old Delhi square, two baskets, long pipe, curious travelers。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 524.329,
+      "end": 526.937,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "glimpse"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "glimpse"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 527.287,
+      "end": 528.799,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "glimpse"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "glimpse"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 529.149,
+      "end": 533.636,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "glimpse"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Glimpse"
+        },
+        {
+          "lang": "zh",
+          "text": "means a quick brief look，短短的一眼。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 533.986,
+      "end": 537.71,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "glimpse"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "We had our first glimpse of the snake."
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 538.06,
+      "end": 546.98,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "glimpse"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词很有画面感：蛇刚从篮子里慢慢升起来，游客第一次看见，不是看了很久，而是 first quick look。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 547.33,
+      "end": 555.238,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "glimpse"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你也可以说："
+        },
+        {
+          "lang": "en",
+          "text": "I caught a glimpse of the performer across the square."
+        },
+        {
+          "lang": "zh",
+          "text": "我在广场另一边瞥见了那个表演者。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 555.588,
+      "end": 558.484,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "difference"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "difference"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 558.834,
+      "end": 560.49,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "difference"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "difference"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 560.839,
+      "end": 566.695,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "difference"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Difference"
+        },
+        {
+          "lang": "zh",
+          "text": "means how two things are not the same，区别。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 567.045,
+      "end": 574.333,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "difference"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天最重要的搭配是："
+        },
+        {
+          "lang": "en",
+          "text": "tell the difference between A and B"
+        },
+        {
+          "lang": "zh",
+          "text": "，分辨 A 和 B 的区别。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 574.683,
+      "end": 580.423,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "difference"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "It obviously could not tell the difference between Indian music and jazz."
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 580.773,
+      "end": 591.128,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "difference"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个结构很实用。你可以说："
+        },
+        {
+          "lang": "en",
+          "text": "tell the difference between British English and American English"
+        },
+        {
+          "lang": "zh",
+          "text": "，或者"
+        },
+        {
+          "lang": "en",
+          "text": "tell the difference between real and fake"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 591.478,
+      "end": 595.838,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar board 不要散背，要贴着这条 travel sequence。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 596.188,
+      "end": 599.804,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块："
+        },
+        {
+          "lang": "en",
+          "text": "As we had had a long walk..."
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 600.154,
+      "end": 616.202,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As"
+        },
+        {
+          "lang": "zh",
+          "text": "给背景和原因；第一个"
+        },
+        {
+          "lang": "en",
+          "text": "had"
+        },
+        {
+          "lang": "zh",
+          "text": "是 past perfect helper，第二个"
+        },
+        {
+          "lang": "en",
+          "text": "had"
+        },
+        {
+          "lang": "zh",
+          "text": "是 main verb。意思是：他们已经走了很久，所以停下来休息。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 616.551,
+      "end": 625.039,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块，是 time connectors："
+        },
+        {
+          "lang": "en",
+          "text": "After a time"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "As soon as"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "When"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 625.389,
+      "end": 629.701,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "After a time, we noticed..."
+        },
+        {
+          "lang": "zh",
+          "text": "时间往前走一点。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 630.051,
+      "end": 637.027,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As soon as he saw us, he picked up a long pipe..."
+        },
+        {
+          "lang": "zh",
+          "text": "表示 immediately，一看见就拿起。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 637.377,
+      "end": 644.713,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When he began to play a tune, we had our first glimpse..."
+        },
+        {
+          "lang": "zh",
+          "text": "表示那个动作发生的时候，蛇出现了。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 645.062,
+      "end": 651.35,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块，是 contrast："
+        },
+        {
+          "lang": "en",
+          "text": "The snake, however, continued to 'dance' slowly."
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 651.7,
+      "end": 660.644,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "However"
+        },
+        {
+          "lang": "zh",
+          "text": "把人的惊讶和蛇的不变反应放在一起。音乐变了，movement 没变，所以蛇还是慢慢动。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 660.994,
+      "end": 665.762,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一块，是"
+        },
+        {
+          "lang": "en",
+          "text": "tell the difference between A and B"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 666.112,
+      "end": 670.504,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It could not tell the difference between Indian music and jazz."
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 670.854,
+      "end": 680.057,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以把 A 和 B 换掉："
+        },
+        {
+          "lang": "en",
+          "text": "tell the difference between two similar words"
+        },
+        {
+          "lang": "zh",
+          "text": "，或者"
+        },
+        {
+          "lang": "en",
+          "text": "tell the difference between real and fake"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 680.407,
+      "end": 691.719,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课的标题为什么好笑？"
+        },
+        {
+          "lang": "en",
+          "text": "Musical"
+        },
+        {
+          "lang": "zh",
+          "text": "可以表示对音乐敏感、懂音乐。The snake is not very musical, because it follows movement, not music style."
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 692.069,
+      "end": 700.229,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进你的生活。想象你去一个不同城市的 market, festival, museum, or street performance。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 700.579,
+      "end": 712.779,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "一开始你看到某个表演，觉得 magical。后来你仔细观察，发现也许不是魔法，而是 movement, timing, skill, or another simple explanation。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 713.129,
+      "end": 720.841,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以用今天的顺序说："
+        },
+        {
+          "lang": "en",
+          "text": "As we had walked through the market for a long time, we stopped at a square to have a rest."
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 721.191,
+      "end": 726.958,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后说你注意到了什么："
+        },
+        {
+          "lang": "en",
+          "text": "After a time, we noticed a street performer."
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 727.308,
+      "end": 733.196,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着说第一眼："
+        },
+        {
+          "lang": "en",
+          "text": "When the music began, we had our first glimpse of the performance."
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 733.546,
+      "end": 740.338,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后加上清醒观察："
+        },
+        {
+          "lang": "en",
+          "text": "Later, I realized it followed the performer's movements."
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 740.688,
+      "end": 747.792,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果要表达“分辨区别”，就用："
+        },
+        {
+          "lang": "en",
+          "text": "I could not tell the difference between the music and the movement at first."
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 748.142,
+      "end": 756.942,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这道练习不是让你嘲笑别的文化，而是练习 respectful curiosity：先看见，再理解，再用清楚的英文说出来。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 757.292,
+      "end": 783.895,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "had had a long walk"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "Old Delhi"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "snake charmer"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "first glimpse"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "follow the movements"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "however"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "continued to dance"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "tell the difference"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 784.245,
+      "end": 805.765,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习描述一个新地方里的观察和理解；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心：The people hear music styles, but the snake follows movement."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 42
+}

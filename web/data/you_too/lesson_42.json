@@ -1,0 +1,53 @@
+{
+  "lesson_id": 42,
+  "title": "Not very musical",
+  "question": "把今天课文里的“新地方 -> 第一眼惊讶 -> 仔细观察 -> 清楚解释”放进一个市场或街头表演场景。用 word bank 补完整 5 个空。",
+  "example_answer": "As we had walked through the market for a long time, we stopped at a square to have a rest. After a time, we noticed a street performer. When the music began, we had our first glimpse of the performance. Later, I realized it followed the performer's movements. At first, I could not tell the difference between the music and the movement.",
+  "word_bank": [
+    "we stopped at a square",
+    "a street performer",
+    "our first glimpse",
+    "the performer's movements",
+    "tell the difference",
+    "through the market",
+    "have a rest",
+    "After a time",
+    "When the music began",
+    "Later, I realized",
+    "respectful curiosity",
+    "movement"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "用 As 交代背景：我们已经在市场里走了很久，所以停在广场休息",
+      "english_template": "As we had walked through the market for a long time, ___.",
+      "expected_phrase": "we stopped at a square"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "用 After a time 推进时间：过了一会儿，我们注意到一个街头表演者",
+      "english_template": "After a time, we noticed ___.",
+      "expected_phrase": "a street performer"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "用 glimpse 描述第一眼：音乐响起时，我们第一次看到表演",
+      "english_template": "When the music began, we had ___ of the performance.",
+      "expected_phrase": "our first glimpse"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "用 Later, I realized 说清楚后来理解的原因：它跟着表演者的动作",
+      "english_template": "Later, I realized it followed ___.",
+      "expected_phrase": "the performer's movements"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "用 tell the difference 表达：一开始我分不清音乐和动作的区别",
+      "english_template": "At first, I could not ___ between the music and the movement.",
+      "expected_phrase": "tell the difference"
+    }
+  ],
+  "mode": "all_fills"
+}

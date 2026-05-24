@@ -1,0 +1,23 @@
+{
+  "lesson_id": 42,
+  "title": "Not very musical",
+  "visual_consistency": "A warm educational travel illustration set in Old Delhi, India. Two curious travelers are consistent across all frames: an adult woman in a light blue shirt, cream travel trousers, small tan backpack, shoulder-length dark hair, oval face, average build, and an adult man in a white linen shirt, olive travel vest, dark trousers, short dark hair, rectangular glasses, average build. The respectful traditional street performer is consistent across all frames: an older adult man seated calmly near two large woven baskets, wearing a soft off-white kurta, muted saffron scarf, trimmed gray beard, kind focused eyes, and holding a long pipe decorated with small coins. The snake is calm, stylized, non-threatening, with smooth muted green-brown coloring, no fangs, no aggression, rising slowly and following the pipe's movement. Old Delhi market and square atmosphere is busy, public, colorful, and sensory, but not exoticized or caricatured. No readable text, no captions, no dangerous close-ups.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "The same two curious travelers walk through a colorful Old Delhi market and arrive at a public square to rest after a long walk. The adult woman in a light blue shirt and cream travel trousers leans slightly on her small tan backpack, tired but curious; the adult man in a white linen shirt, olive vest, dark trousers, and rectangular glasses looks across the square. Show layered market stalls, warm fabric colors, historic building hints, people moving in the background, and a simple map-like travel feeling through composition only, with no readable labels or letters."
+    },
+    {
+      "frame": 2,
+      "prompt": "Across the same public square, the same respectful traditional street performer sits calmly with two large woven baskets beside him and picks up his long pipe decorated with small coins. The same two travelers approach from the other side, curious and polite. Make the two baskets visually important, with one still closed, creating the question of what is inside. The square remains busy but readable, warm and respectful, no caricature, no readable signs or text."
+    },
+    {
+      "frame": 3,
+      "prompt": "The same performer begins to play the coin-covered pipe while opening one basket. The calm stylized snake rises slowly from the basket, non-threatening, and clearly follows the curved movement of the pipe. The same travelers watch their first glimpse with quiet surprise, standing at a safe distance. Emphasize the visual movement line from pipe to snake through graceful composition and motion, not scary action, no fangs, no bites, no readable text."
+    },
+    {
+      "frame": 4,
+      "prompt": "The same performer changes musical style while still moving the coin-covered pipe in the same slow pattern. Use visual music-note shapes and subtle different instrument-color motifs without readable text to suggest Indian music, jazz, and modern pop songs. The same travelers look surprised because the music style has changed, while the same calm stylized snake continues to move slowly in the same way, following the pipe movement rather than the music. Warm respectful punchline, no captions, no readable words, no danger."
+    }
+  ]
+}
