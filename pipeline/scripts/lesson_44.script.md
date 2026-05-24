@@ -92,7 +92,9 @@ A: 同一个 [EN]through[/EN] 在今天有两个意思：[EN]run through the tre
 
 ## SCENE: grammar
 A: 今天的 grammar board 分四块，全部贴着 action chain。
-A: 第一块，是 action verbs。课文把故事拍成镜头：[EN]rushed up to her[/EN]，[EN]tried to steal her handbag[/EN]，[EN]the strap broke[/EN]，[EN]started running through the trees[/EN]，[EN]ran after them[/EN]，[EN]caught up with them[/EN]，[EN]ran straight at them[/EN]，[EN]dropped the bag and ran away[/EN]。
+A: 第一块，是 action verbs。课文把故事拍成镜头，每个短语都要带着中文意思记。
+A: 前半段动作链是：[EN]rushed up to her[/EN]，冲到她跟前；[EN]tried to steal her handbag[/EN]，试图偷她的手提包；[EN]the strap broke[/EN]，包带断了；[EN]started running through the trees[/EN]，开始穿过树林跑。
+A: 后半段动作链是：[EN]ran after them[/EN]，追赶他们；[EN]caught up with them[/EN]，赶上他们；[EN]ran straight at them[/EN]，径直向他们冲过去；[EN]dropped the bag and ran away[/EN]，扔下包逃跑。
 A: 这就是 Action Chain Writing，动作链写作法。不要只说 result，要 show actions。
 A: 比如 summary 是：[EN]She got her handbag back.[/EN] Scene writing 是：[EN]The strap broke. The men ran through the trees. Mrs. Sterling ran after them. She caught up with them.[/EN]
 A: 第二块，是 [EN]so...that[/EN]。[EN]Mrs. Sterling got so angry that she ran after them.[/EN]

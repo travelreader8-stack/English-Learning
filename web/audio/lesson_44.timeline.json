@@ -1,5 +1,5 @@
 {
-  "total_duration": 759.137,
+  "total_duration": 776.036,
   "lines": [
     {
       "i": 0,
@@ -1334,14 +1334,28 @@
     {
       "i": 70,
       "start": 530.092,
-      "end": 553.923,
+      "end": 537.052,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "第一块，是 action verbs。课文把故事拍成镜头："
+          "text": "第一块，是 action verbs。课文把故事拍成镜头，每个短语都要带着中文意思记。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 537.402,
+      "end": 554.713,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "前半段动作链是："
         },
         {
           "lang": "en",
@@ -1349,7 +1363,7 @@
         },
         {
           "lang": "zh",
-          "text": "，"
+          "text": "，冲到她跟前；"
         },
         {
           "lang": "en",
@@ -1357,7 +1371,7 @@
         },
         {
           "lang": "zh",
-          "text": "，"
+          "text": "，试图偷她的手提包；"
         },
         {
           "lang": "en",
@@ -1365,7 +1379,7 @@
         },
         {
           "lang": "zh",
-          "text": "，"
+          "text": "，包带断了；"
         },
         {
           "lang": "en",
@@ -1373,7 +1387,21 @@
         },
         {
           "lang": "zh",
-          "text": "，"
+          "text": "，开始穿过树林跑。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 555.063,
+      "end": 570.822,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后半段动作链是："
         },
         {
           "lang": "en",
@@ -1381,7 +1409,7 @@
         },
         {
           "lang": "zh",
-          "text": "，"
+          "text": "，追赶他们；"
         },
         {
           "lang": "en",
@@ -1389,7 +1417,7 @@
         },
         {
           "lang": "zh",
-          "text": "，"
+          "text": "，赶上他们；"
         },
         {
           "lang": "en",
@@ -1397,7 +1425,7 @@
         },
         {
           "lang": "zh",
-          "text": "，"
+          "text": "，径直向他们冲过去；"
         },
         {
           "lang": "en",
@@ -1405,14 +1433,14 @@
         },
         {
           "lang": "zh",
-          "text": "。"
+          "text": "，扔下包逃跑。"
         }
       ]
     },
     {
-      "i": 71,
-      "start": 554.273,
-      "end": 561.653,
+      "i": 73,
+      "start": 571.172,
+      "end": 578.552,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1424,9 +1452,9 @@
       ]
     },
     {
-      "i": 72,
-      "start": 562.003,
-      "end": 576.995,
+      "i": 74,
+      "start": 578.902,
+      "end": 593.894,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1450,9 +1478,9 @@
       ]
     },
     {
-      "i": 73,
-      "start": 577.345,
-      "end": 585.617,
+      "i": 75,
+      "start": 594.244,
+      "end": 602.516,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1476,9 +1504,9 @@
       ]
     },
     {
-      "i": 74,
-      "start": 585.966,
-      "end": 593.558,
+      "i": 76,
+      "start": 602.866,
+      "end": 610.457,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1498,9 +1526,9 @@
       ]
     },
     {
-      "i": 75,
-      "start": 593.908,
-      "end": 601.836,
+      "i": 77,
+      "start": 610.807,
+      "end": 618.735,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1524,9 +1552,9 @@
       ]
     },
     {
-      "i": 76,
-      "start": 602.186,
-      "end": 613.438,
+      "i": 78,
+      "start": 619.085,
+      "end": 630.337,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1562,9 +1590,9 @@
       ]
     },
     {
-      "i": 77,
-      "start": 613.787,
-      "end": 619.655,
+      "i": 79,
+      "start": 630.686,
+      "end": 636.554,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1592,9 +1620,9 @@
       ]
     },
     {
-      "i": 78,
-      "start": 620.005,
-      "end": 629.797,
+      "i": 80,
+      "start": 636.904,
+      "end": 646.696,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1618,9 +1646,9 @@
       ]
     },
     {
-      "i": 79,
-      "start": 630.147,
-      "end": 642.594,
+      "i": 81,
+      "start": 647.046,
+      "end": 659.493,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1648,9 +1676,9 @@
       ]
     },
     {
-      "i": 80,
-      "start": 642.944,
-      "end": 648.664,
+      "i": 82,
+      "start": 659.843,
+      "end": 665.563,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1662,9 +1690,9 @@
       ]
     },
     {
-      "i": 81,
-      "start": 649.014,
-      "end": 655.574,
+      "i": 83,
+      "start": 665.913,
+      "end": 672.473,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1676,9 +1704,9 @@
       ]
     },
     {
-      "i": 82,
-      "start": 655.924,
-      "end": 663.036,
+      "i": 84,
+      "start": 672.823,
+      "end": 679.935,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1694,9 +1722,9 @@
       ]
     },
     {
-      "i": 83,
-      "start": 663.386,
-      "end": 669.218,
+      "i": 85,
+      "start": 680.285,
+      "end": 686.117,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1712,9 +1740,9 @@
       ]
     },
     {
-      "i": 84,
-      "start": 669.568,
-      "end": 674.583,
+      "i": 86,
+      "start": 686.467,
+      "end": 691.483,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1730,9 +1758,9 @@
       ]
     },
     {
-      "i": 85,
-      "start": 674.933,
-      "end": 682.973,
+      "i": 87,
+      "start": 691.832,
+      "end": 699.872,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1756,9 +1784,9 @@
       ]
     },
     {
-      "i": 86,
-      "start": 683.323,
-      "end": 688.147,
+      "i": 88,
+      "start": 700.222,
+      "end": 705.046,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1774,9 +1802,9 @@
       ]
     },
     {
-      "i": 87,
-      "start": 688.497,
-      "end": 696.633,
+      "i": 89,
+      "start": 705.396,
+      "end": 713.532,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1792,9 +1820,9 @@
       ]
     },
     {
-      "i": 88,
-      "start": 696.983,
-      "end": 705.103,
+      "i": 90,
+      "start": 713.882,
+      "end": 722.002,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1806,9 +1834,9 @@
       ]
     },
     {
-      "i": 89,
-      "start": 705.452,
-      "end": 712.772,
+      "i": 91,
+      "start": 722.352,
+      "end": 729.672,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
@@ -1820,9 +1848,9 @@
       ]
     },
     {
-      "i": 90,
-      "start": 713.122,
-      "end": 735.957,
+      "i": 92,
+      "start": 730.021,
+      "end": 752.856,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
@@ -1914,9 +1942,9 @@
       ]
     },
     {
-      "i": 91,
-      "start": 736.307,
-      "end": 747.467,
+      "i": 93,
+      "start": 753.206,
+      "end": 764.366,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
@@ -1928,9 +1956,9 @@
       ]
     },
     {
-      "i": 92,
-      "start": 747.817,
-      "end": 759.137,
+      "i": 94,
+      "start": 764.716,
+      "end": 776.036,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
