@@ -180,7 +180,8 @@ textarea { resize: vertical; min-height: 100px; line-height: 1.7; }
 .loading { color: var(--ink-faint); }
 
 /* ─── Lesson ─────────────────────────────── */
-.lesson-header { margin-bottom: 16px; }
+.lesson-header { margin-bottom: 10px; }
+#lesson-title { display: none; }
 .back-link { font-size: 14px; color: var(--ink-soft); }
 
 /* Stepper */
