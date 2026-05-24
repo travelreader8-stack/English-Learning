@@ -158,6 +158,12 @@ async function main() {
       bad(`${name} 渲染抛错: ${e.message}`);
     }
   }
+  player.goTo(lineIndices.hook);
+  if (stage._innerHTML.includes('lesson_1_frame_1.webp') && stage._innerHTML.includes('hook-art')) {
+    ok('hook 从开场就显示第 1 帧插画');
+  } else {
+    bad('hook 没有接入第 1 帧插画');
+  }
 
   section('3. vocab word fallback — 即使 scene_meta 损坏也能渲染');
   // 制造一个缺 scene_meta.word 的 vocab 行（模拟 pipeline bug）

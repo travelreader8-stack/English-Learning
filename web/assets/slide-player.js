@@ -34,12 +34,23 @@ function findZhSegment(segments) {
   return segments.filter(s => s.lang === "zh").map(s => s.text).join(" ");
 }
 
+function storyFrameUrl(lessonId, frame = 1) {
+  return `/audio/lesson_${lessonId}_frame_${frame}.webp`;
+}
+
 // ─── Scene renderers ───────────────────────────────────────
 const renderers = {
   // 新框架：钩子 — 抓注意力的悬念问题
   hook(line, ctx) {
+    const imgUrl = storyFrameUrl(ctx.lesson.id, 1);
     return `
       <div class="scene scene-hook">
+        <div class="hook-art-wrap">
+          <img class="hook-art" src="${imgUrl}" alt="Lesson ${ctx.lesson.id} 开场插画" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
+          <div class="hook-art-fallback" style="display:none">
+            <span>第 1 帧图片正在生成</span>
+          </div>
+        </div>
         <div class="hook-cover">
           <div class="hook-kicker">Lesson ${ctx.lesson.id}</div>
           <h2 class="hook-title">${escapeHtml(ctx.lesson.title)}</h2>
@@ -79,7 +90,7 @@ const renderers = {
   retell(line, ctx) {
     const c = CHARACTERS[line.speaker];
     const frame = Number(line.scene_meta?.frame ?? 1);
-    const imgUrl = `/audio/lesson_${ctx.lesson.id}_frame_${frame}.webp`;
+    const imgUrl = storyFrameUrl(ctx.lesson.id, frame);
     return `
       <div class="scene scene-retell">
         <div class="retell-image-wrap">
@@ -453,6 +464,7 @@ export class SlidePlayer {
     this._lastScene = line.scene;
     this._lastVocabWord = line.scene === "vocab" ? line.scene_meta?.word : null;
     // stage--discuss / stage--retell 类用于解除 16:9 锁、给特殊场景独立的 flex 布局
+    this.stageEl.classList.toggle("stage--hook", line.scene === "hook");
     this.stageEl.classList.toggle("stage--discuss", line.scene === "discuss");
     this.stageEl.classList.toggle("stage--retell", line.scene === "retell");
     this.stageEl.classList.remove("fade-in");
