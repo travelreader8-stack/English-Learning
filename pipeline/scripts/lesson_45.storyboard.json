@@ -1,40 +1,23 @@
 {
   "lesson_id": 45,
   "title": "A clear conscience",
-  "visual_consistency": "A warm educational village mystery illustration. Sam Benton is a friendly local butcher in his early 40s, average build, round face, light skin, short dark brown hair, clean white butcher apron over a muted green shirt and brown trousers. He looks worried, puzzled, then relieved. The same old-fashioned village street, butcher shop, post office, front door, brown leather wallet, newspaper-wrapped parcel, cash, handwritten notes, and playful conscience meter appear across the sequence. The anonymous finder is never clearly identified, shown only as a distant shadow, gloved hand, envelope, or indistinct figure. Child-safe, thoughtful, lightly comic, no frightening crime imagery.",
+  "visual_consistency": "A warm educational village mystery illustration without any readable text or empty label boxes. Sam Benton is a friendly local butcher in his early 40s, average build, round face, light skin, short dark brown hair, clean white butcher apron over a muted green shirt and brown trousers. He looks worried, puzzled, then relieved. The small old-fashioned village setting stays consistent across the sequence: quiet street, unmarked meat shop atmosphere, post office route, front door, brown leather wallet, newspaper-wrapped parcel, cash, envelopes, and a small folded paper note with no writing visible. The anonymous returner is never clearly identified, shown only through off-screen delivery, a distant shadow, a hand near the door, or envelopes. No readable signs, no letters, no captions, no speech bubbles, no handwriting, no blank cards, no empty panels, no label placeholders, no UI boxes.",
   "frames": [
     {
       "frame": 1,
-      "prompt": "The same Sam Benton, friendly local butcher in white apron, muted green shirt, and brown trousers, stands worried between his small butcher shop and the village post office. His brown leather wallet is missing while villagers nearby react to the news. Show an old-fashioned small village street where everyone seems to know each other. Leave clean space for two small floating label boxes near the wallet path and Sam's hand, intended labels: 'had been lost' and 'savings'. Warm mystery mood, no clear thief.",
-      "overlay_labels": [
-        "had been lost",
-        "savings"
-      ]
+      "prompt": "The same Sam Benton, friendly local butcher in white apron, muted green shirt, and brown trousers, stands worried on a small old-fashioned village street after losing his brown leather wallet while carrying cash savings toward a post office route. Nearby villagers react with concern in a familiar small-community way. Include an unmarked meat-shop storefront atmosphere with hanging goods but no readable shop sign, no written notices, no labels, no speech bubbles, and no empty boxes. The missing wallet is suggested by Sam checking an empty pocket and scattered concern, not by any text."
     },
     {
       "frame": 2,
-      "prompt": "The same Sam Benton looks worried in the village street, imagining that the same brown leather wallet must have been found by someone in the village, but no one returns it. Show a distant anonymous shadow or indistinct figure near a lane, with no identifiable villain face. Leave clean space for two small floating label boxes near the shadow and the empty doorway, intended labels: 'must have been found' and 'was not returned'. Quiet anonymous mystery, child-safe.",
-      "overlay_labels": [
-        "must have been found",
-        "was not returned"
-      ]
+      "prompt": "The same Sam Benton looks puzzled and uneasy on the same quiet village street, realizing that his brown leather wallet is still missing and has not been returned. His hands are empty, his apron pocket is turned out, and there is no wallet, parcel, cash, envelope, or note visible in the foreground. Show an anonymous possibility only as a distant indistinct shadow near a lane corner, with no identifiable face and no threatening crime imagery. The mood is warm mystery, not danger. No readable text anywhere, no signs, no handwriting, no labels, no captions, no speech bubbles, no blank cards, and no empty placeholder boxes."
     },
     {
       "frame": 3,
-      "prompt": "Three months later, the same Sam Benton opens his front door and finds the same brown leather wallet wrapped in newspaper on the doorstep. Half the cash is visible and a small note lies beside it. Sam looks surprised, puzzled, and slightly amused. Leave clean space for two floating label boxes near the parcel and note, intended labels: 'wrapped up in newspaper' and '50 per cent a thief'. Warm doorstep mystery, no visible thief.",
-      "overlay_labels": [
-        "wrapped up in newspaper",
-        "50 per cent a thief"
-      ]
+      "prompt": "Three months later, the same Sam Benton opens his front door and discovers the brown leather wallet wrapped in newspaper on the doorstep. Some cash is visible, and a small folded paper note is present but turned so no writing can be seen. Sam looks surprised, puzzled, and faintly amused. Keep the scene cozy and mysterious. The newspaper should have painterly texture without readable words. No readable text, no letters, no labels, no captions, no speech bubbles, no blank cards, and no empty boxes."
     },
     {
       "frame": 4,
-      "prompt": "The same Sam Benton stands near his front door with returned money, several small envelopes, and handwritten notes, looking relieved but amused. Include a simple playful conscience meter as a visual prop moving from thief to honest, while the anonymous returner remains unseen. Leave clean space for three floating label boxes around the notes and meter, intended labels: '25 per cent a thief', 'all money was paid back', and '100 per cent honest'. Light comic ending, thoughtful not preachy.",
-      "overlay_labels": [
-        "25 per cent a thief",
-        "all money was paid back",
-        "100 per cent honest"
-      ]
+      "prompt": "The same Sam Benton stands near his front door or kitchen table with the recovered brown leather wallet, returned cash, and several envelopes showing that more money has arrived over time. A final small folded paper note is visible but has no writing visible. Sam looks relieved and amused, as if the mystery has a dry comic ending. The anonymous returner remains off-screen. No conscience meter with labels, no readable text, no handwriting, no signs, no captions, no speech bubbles, no blank cards, no empty panels, and no label boxes."
     }
   ]
 }

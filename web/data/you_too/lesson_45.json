@@ -1,7 +1,7 @@
 {
   "lesson_id": 45,
   "title": "A clear conscience",
-  "question": "把今天的“失物归还”和 passive voice 放进校园场景：你在校门口发现一个钱包，交给学校办公室，并说明自己想问心无愧。用 word bank 补完整 5 个空。",
+  "question": "把今天的“失物完整归还”和 mystery passive voice 放进校园场景：你在校门口发现一个钱包，交给学校办公室，并说明自己想问心无愧。用 word bank 补完整 5 个空。",
   "example_answer": "This wallet was found near the school gate. It must have been left by a student. I have given it to the school office. Everything is inside. I want to have a clear conscience.",
   "word_bank": [
     "was found",
@@ -38,7 +38,7 @@
     },
     {
       "label": "D",
-      "scenario_zh": "说明没有只还一部分：所有东西都在里面",
+      "scenario_zh": "说明完整归还，不是只还一部分：所有东西都在里面",
       "english_template": "___.",
       "expected_phrase": "Everything is inside"
     },
