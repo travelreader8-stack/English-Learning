@@ -1,5 +1,5 @@
 {
-  "total_duration": 798.679,
+  "total_duration": 795.039,
   "lines": [
     {
       "i": 0,
@@ -80,14 +80,14 @@
     {
       "i": 4,
       "start": 34.675,
-      "end": 46.643,
+      "end": 45.523,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "所以 narrator 被安排坐在 Mrs. Rumbold 旁边。他不认识她，只好做一件很英语的事："
+          "text": "所以主人公被安排坐在 Mrs. Rumbold 旁边。他不认识她，只好做一件很英语的事："
         },
         {
           "lang": "en",
@@ -101,8 +101,8 @@
     },
     {
       "i": 5,
-      "start": 46.993,
-      "end": 55.721,
+      "start": 45.873,
+      "end": 54.601,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
@@ -119,8 +119,8 @@
     },
     {
       "i": 6,
-      "start": 56.071,
-      "end": 64.391,
+      "start": 54.951,
+      "end": 63.271,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
@@ -133,15 +133,15 @@
     },
     {
       "i": 7,
-      "start": 64.74,
-      "end": 77.604,
+      "start": 63.62,
+      "end": 76.484,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "Narrator 连续递出三个 polite future questions："
+          "text": "主人公连续递出三个 polite future questions："
         },
         {
           "lang": "en",
@@ -167,8 +167,8 @@
     },
     {
       "i": 8,
-      "start": 77.954,
-      "end": 81.65,
+      "start": 76.834,
+      "end": 80.53,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
@@ -185,8 +185,8 @@
     },
     {
       "i": 9,
-      "start": 82.0,
-      "end": 91.28,
+      "start": 80.88,
+      "end": 90.16,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
@@ -199,8 +199,8 @@
     },
     {
       "i": 10,
-      "start": 91.63,
-      "end": 108.39,
+      "start": 90.51,
+      "end": 107.27,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
@@ -213,8 +213,8 @@
     },
     {
       "i": 11,
-      "start": 108.74,
-      "end": 118.428,
+      "start": 107.62,
+      "end": 117.308,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -233,8 +233,8 @@
     },
     {
       "i": 12,
-      "start": 118.777,
-      "end": 124.945,
+      "start": 117.657,
+      "end": 123.825,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -253,8 +253,8 @@
     },
     {
       "i": 13,
-      "start": 125.295,
-      "end": 133.287,
+      "start": 124.175,
+      "end": 131.287,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -267,14 +267,14 @@
         },
         {
           "lang": "zh",
-          "text": "是女主人，她安排座位，所以 narrator 被请去坐在 Mrs. Rumbold 旁边。"
+          "text": "是女主人，她安排座位，所以主人公被请去坐在 Mrs. Rumbold 旁边。"
         }
       ]
     },
     {
       "i": 14,
-      "start": 133.637,
-      "end": 141.877,
+      "start": 131.637,
+      "end": 139.877,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -289,8 +289,8 @@
     },
     {
       "i": 15,
-      "start": 142.227,
-      "end": 153.627,
+      "start": 140.227,
+      "end": 151.627,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -305,8 +305,8 @@
     },
     {
       "i": 16,
-      "start": 153.977,
-      "end": 163.193,
+      "start": 151.977,
+      "end": 161.193,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -325,8 +325,8 @@
     },
     {
       "i": 17,
-      "start": 163.543,
-      "end": 177.662,
+      "start": 161.543,
+      "end": 175.662,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -357,8 +357,8 @@
     },
     {
       "i": 18,
-      "start": 178.012,
-      "end": 183.38,
+      "start": 176.012,
+      "end": 181.38,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -377,8 +377,8 @@
     },
     {
       "i": 19,
-      "start": 183.73,
-      "end": 189.586,
+      "start": 181.73,
+      "end": 187.586,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -405,8 +405,8 @@
     },
     {
       "i": 20,
-      "start": 189.936,
-      "end": 197.799,
+      "start": 187.936,
+      "end": 195.799,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -425,8 +425,8 @@
     },
     {
       "i": 21,
-      "start": 198.149,
-      "end": 207.789,
+      "start": 196.149,
+      "end": 205.789,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -453,8 +453,8 @@
     },
     {
       "i": 22,
-      "start": 208.139,
-      "end": 215.179,
+      "start": 206.139,
+      "end": 213.179,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -469,8 +469,8 @@
     },
     {
       "i": 23,
-      "start": 215.529,
-      "end": 223.265,
+      "start": 213.529,
+      "end": 221.265,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -489,8 +489,8 @@
     },
     {
       "i": 24,
-      "start": 223.615,
-      "end": 230.402,
+      "start": 221.615,
+      "end": 228.542,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -499,7 +499,7 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "Narrator 先找了一个安全话题：theatre。他说："
+          "text": "主人公先找了一个安全话题：theatre。他说："
         },
         {
           "lang": "en",
@@ -509,8 +509,8 @@
     },
     {
       "i": 25,
-      "start": 230.752,
-      "end": 241.552,
+      "start": 228.892,
+      "end": 239.692,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -537,8 +537,8 @@
     },
     {
       "i": 26,
-      "start": 241.902,
-      "end": 256.39,
+      "start": 240.042,
+      "end": 254.53,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -569,8 +569,8 @@
     },
     {
       "i": 27,
-      "start": 256.74,
-      "end": 264.931,
+      "start": 254.88,
+      "end": 263.071,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -593,8 +593,8 @@
     },
     {
       "i": 28,
-      "start": 265.281,
-      "end": 267.817,
+      "start": 263.421,
+      "end": 265.957,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -613,8 +613,8 @@
     },
     {
       "i": 29,
-      "start": 268.167,
-      "end": 277.755,
+      "start": 266.307,
+      "end": 275.895,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -641,8 +641,8 @@
     },
     {
       "i": 30,
-      "start": 278.105,
-      "end": 280.561,
+      "start": 276.245,
+      "end": 278.701,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -661,8 +661,8 @@
     },
     {
       "i": 31,
-      "start": 280.91,
-      "end": 285.55,
+      "start": 279.05,
+      "end": 283.69,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -681,8 +681,8 @@
     },
     {
       "i": 32,
-      "start": 285.9,
-      "end": 288.356,
+      "start": 284.04,
+      "end": 286.496,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -701,8 +701,8 @@
     },
     {
       "i": 33,
-      "start": 288.706,
-      "end": 297.186,
+      "start": 286.846,
+      "end": 295.326,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -717,8 +717,8 @@
     },
     {
       "i": 34,
-      "start": 297.536,
-      "end": 305.968,
+      "start": 295.676,
+      "end": 304.108,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -737,8 +737,8 @@
     },
     {
       "i": 35,
-      "start": 306.318,
-      "end": 314.494,
+      "start": 304.458,
+      "end": 312.634,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -757,8 +757,8 @@
     },
     {
       "i": 36,
-      "start": 314.844,
-      "end": 322.115,
+      "start": 312.984,
+      "end": 320.255,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -777,8 +777,8 @@
     },
     {
       "i": 37,
-      "start": 322.465,
-      "end": 330.713,
+      "start": 320.605,
+      "end": 328.853,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -797,8 +797,8 @@
     },
     {
       "i": 38,
-      "start": 331.063,
-      "end": 338.223,
+      "start": 329.203,
+      "end": 336.363,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -813,8 +813,8 @@
     },
     {
       "i": 39,
-      "start": 338.573,
-      "end": 345.173,
+      "start": 336.713,
+      "end": 343.313,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -829,8 +829,8 @@
     },
     {
       "i": 40,
-      "start": 345.523,
-      "end": 353.203,
+      "start": 343.663,
+      "end": 351.343,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -845,8 +845,8 @@
     },
     {
       "i": 41,
-      "start": 353.553,
-      "end": 356.073,
+      "start": 351.693,
+      "end": 354.213,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -859,8 +859,8 @@
     },
     {
       "i": 42,
-      "start": 356.423,
-      "end": 359.628,
+      "start": 354.563,
+      "end": 357.768,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -873,8 +873,8 @@
     },
     {
       "i": 43,
-      "start": 359.978,
-      "end": 369.138,
+      "start": 358.118,
+      "end": 367.278,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -887,22 +887,22 @@
     },
     {
       "i": 44,
-      "start": 369.488,
-      "end": 372.185,
+      "start": 367.628,
+      "end": 369.945,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "那 narrator 做错了吗？"
+          "text": "那主人公做错了吗？"
         }
       ]
     },
     {
       "i": 45,
-      "start": 372.535,
-      "end": 381.783,
+      "start": 370.295,
+      "end": 379.543,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -923,8 +923,8 @@
     },
     {
       "i": 46,
-      "start": 382.133,
-      "end": 385.094,
+      "start": 379.893,
+      "end": 382.855,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -945,8 +945,8 @@
     },
     {
       "i": 47,
-      "start": 385.444,
-      "end": 393.244,
+      "start": 383.205,
+      "end": 391.005,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -959,8 +959,8 @@
     },
     {
       "i": 48,
-      "start": 393.594,
-      "end": 399.894,
+      "start": 391.355,
+      "end": 397.654,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -981,8 +981,8 @@
     },
     {
       "i": 49,
-      "start": 400.244,
-      "end": 411.268,
+      "start": 398.004,
+      "end": 409.028,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -1003,8 +1003,8 @@
     },
     {
       "i": 50,
-      "start": 411.617,
-      "end": 417.3,
+      "start": 409.378,
+      "end": 415.06,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -1025,8 +1025,8 @@
     },
     {
       "i": 51,
-      "start": 417.65,
-      "end": 425.03,
+      "start": 415.41,
+      "end": 422.79,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -1039,8 +1039,8 @@
     },
     {
       "i": 52,
-      "start": 425.38,
-      "end": 429.435,
+      "start": 423.14,
+      "end": 427.196,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -1053,8 +1053,8 @@
     },
     {
       "i": 53,
-      "start": 429.785,
-      "end": 438.865,
+      "start": 427.546,
+      "end": 436.626,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -1067,8 +1067,8 @@
     },
     {
       "i": 54,
-      "start": 439.215,
-      "end": 444.279,
+      "start": 436.976,
+      "end": 442.04,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1081,8 +1081,8 @@
     },
     {
       "i": 55,
-      "start": 444.629,
-      "end": 449.333,
+      "start": 442.389,
+      "end": 447.093,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1095,8 +1095,8 @@
     },
     {
       "i": 56,
-      "start": 449.683,
-      "end": 453.403,
+      "start": 447.443,
+      "end": 451.163,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1109,8 +1109,8 @@
     },
     {
       "i": 57,
-      "start": 453.753,
-      "end": 458.409,
+      "start": 451.513,
+      "end": 456.169,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1123,8 +1123,8 @@
     },
     {
       "i": 58,
-      "start": 458.759,
-      "end": 461.327,
+      "start": 456.519,
+      "end": 459.087,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1137,8 +1137,8 @@
     },
     {
       "i": 59,
-      "start": 461.677,
-      "end": 465.181,
+      "start": 459.437,
+      "end": 462.941,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1151,8 +1151,8 @@
     },
     {
       "i": 60,
-      "start": 465.53,
-      "end": 467.714,
+      "start": 463.291,
+      "end": 465.475,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1165,8 +1165,8 @@
     },
     {
       "i": 61,
-      "start": 468.064,
-      "end": 470.2,
+      "start": 465.825,
+      "end": 467.961,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1179,8 +1179,8 @@
     },
     {
       "i": 62,
-      "start": 470.55,
-      "end": 475.662,
+      "start": 468.311,
+      "end": 473.423,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1193,8 +1193,8 @@
     },
     {
       "i": 63,
-      "start": 476.012,
-      "end": 478.148,
+      "start": 473.772,
+      "end": 475.908,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1207,8 +1207,8 @@
     },
     {
       "i": 64,
-      "start": 478.498,
-      "end": 482.578,
+      "start": 476.258,
+      "end": 480.338,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1221,8 +1221,8 @@
     },
     {
       "i": 65,
-      "start": 482.928,
-      "end": 485.064,
+      "start": 480.688,
+      "end": 482.824,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1235,8 +1235,8 @@
     },
     {
       "i": 66,
-      "start": 485.414,
-      "end": 489.494,
+      "start": 483.174,
+      "end": 487.254,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1249,8 +1249,8 @@
     },
     {
       "i": 67,
-      "start": 489.844,
-      "end": 495.124,
+      "start": 487.604,
+      "end": 492.884,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1263,8 +1263,8 @@
     },
     {
       "i": 68,
-      "start": 495.473,
-      "end": 498.185,
+      "start": 493.234,
+      "end": 495.946,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1287,8 +1287,8 @@
     },
     {
       "i": 69,
-      "start": 498.535,
-      "end": 500.191,
+      "start": 496.296,
+      "end": 497.952,
       "speaker": "B",
       "scene": "vocab",
       "scene_meta": {
@@ -1307,8 +1307,8 @@
     },
     {
       "i": 70,
-      "start": 500.541,
-      "end": 507.773,
+      "start": 498.302,
+      "end": 505.533,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1327,8 +1327,8 @@
     },
     {
       "i": 71,
-      "start": 508.123,
-      "end": 512.735,
+      "start": 505.883,
+      "end": 510.495,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1351,8 +1351,8 @@
     },
     {
       "i": 72,
-      "start": 513.085,
-      "end": 521.645,
+      "start": 510.845,
+      "end": 519.285,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1361,14 +1361,14 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "这说明 narrator 的座位不是随便坐的，是 hostess 安排的。正式聚餐里，座位安排会把故事推到陌生人寒暄。"
+          "text": "这说明主人公的座位不是随便坐的，是 hostess 安排的。正式聚餐里，座位安排会把故事推到陌生人寒暄。"
         }
       ]
     },
     {
       "i": 73,
-      "start": 521.995,
-      "end": 528.258,
+      "start": 519.635,
+      "end": 525.899,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1391,8 +1391,8 @@
     },
     {
       "i": 74,
-      "start": 528.608,
-      "end": 532.136,
+      "start": 526.249,
+      "end": 529.777,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1415,8 +1415,8 @@
     },
     {
       "i": 75,
-      "start": 532.486,
-      "end": 534.622,
+      "start": 530.126,
+      "end": 532.262,
       "speaker": "B",
       "scene": "vocab",
       "scene_meta": {
@@ -1435,8 +1435,8 @@
     },
     {
       "i": 76,
-      "start": 534.972,
-      "end": 543.26,
+      "start": 532.612,
+      "end": 540.9,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1455,8 +1455,8 @@
     },
     {
       "i": 77,
-      "start": 543.61,
-      "end": 547.046,
+      "start": 541.25,
+      "end": 544.686,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1475,8 +1475,8 @@
     },
     {
       "i": 78,
-      "start": 547.396,
-      "end": 559.476,
+      "start": 545.036,
+      "end": 557.116,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1491,8 +1491,8 @@
     },
     {
       "i": 79,
-      "start": 559.825,
-      "end": 567.705,
+      "start": 557.466,
+      "end": 565.346,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1507,8 +1507,8 @@
     },
     {
       "i": 80,
-      "start": 568.055,
-      "end": 570.951,
+      "start": 565.696,
+      "end": 568.592,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1531,8 +1531,8 @@
     },
     {
       "i": 81,
-      "start": 571.301,
-      "end": 572.981,
+      "start": 568.941,
+      "end": 570.621,
       "speaker": "B",
       "scene": "vocab",
       "scene_meta": {
@@ -1551,8 +1551,8 @@
     },
     {
       "i": 82,
-      "start": 573.331,
-      "end": 580.507,
+      "start": 570.971,
+      "end": 578.147,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1571,8 +1571,8 @@
     },
     {
       "i": 83,
-      "start": 580.857,
-      "end": 585.829,
+      "start": 578.497,
+      "end": 583.469,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1591,8 +1591,8 @@
     },
     {
       "i": 84,
-      "start": 586.178,
-      "end": 596.754,
+      "start": 583.819,
+      "end": 593.755,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1609,14 +1609,14 @@
         },
         {
           "lang": "zh",
-          "text": "，narrator 实在不知道还能问什么。"
+          "text": "，主人公实在不知道还能问什么。"
         }
       ]
     },
     {
       "i": 85,
-      "start": 597.104,
-      "end": 604.1,
+      "start": 594.105,
+      "end": 601.1,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1639,8 +1639,8 @@
     },
     {
       "i": 86,
-      "start": 604.45,
-      "end": 614.47,
+      "start": 601.45,
+      "end": 611.47,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1661,8 +1661,8 @@
     },
     {
       "i": 87,
-      "start": 614.82,
-      "end": 621.171,
+      "start": 611.82,
+      "end": 618.172,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1683,8 +1683,8 @@
     },
     {
       "i": 88,
-      "start": 621.521,
-      "end": 628.393,
+      "start": 618.522,
+      "end": 625.394,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1705,8 +1705,8 @@
     },
     {
       "i": 89,
-      "start": 628.743,
-      "end": 633.391,
+      "start": 625.743,
+      "end": 630.391,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1723,8 +1723,8 @@
     },
     {
       "i": 90,
-      "start": 633.741,
-      "end": 638.749,
+      "start": 630.741,
+      "end": 635.749,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1741,8 +1741,8 @@
     },
     {
       "i": 91,
-      "start": 639.099,
-      "end": 643.099,
+      "start": 636.099,
+      "end": 640.099,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1759,8 +1759,8 @@
     },
     {
       "i": 92,
-      "start": 643.448,
-      "end": 647.448,
+      "start": 640.449,
+      "end": 644.449,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1777,8 +1777,8 @@
     },
     {
       "i": 93,
-      "start": 647.798,
-      "end": 656.042,
+      "start": 644.799,
+      "end": 653.042,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1799,8 +1799,8 @@
     },
     {
       "i": 94,
-      "start": 656.392,
-      "end": 666.608,
+      "start": 653.392,
+      "end": 662.968,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1815,14 +1815,14 @@
         },
         {
           "lang": "zh",
-          "text": "告诉 narrator：topic not accepted。"
+          "text": "告诉主人公：topic not accepted。"
         }
       ]
     },
     {
       "i": 95,
-      "start": 666.958,
-      "end": 673.694,
+      "start": 663.318,
+      "end": 670.054,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1839,8 +1839,8 @@
     },
     {
       "i": 96,
-      "start": 674.043,
-      "end": 680.883,
+      "start": 670.404,
+      "end": 677.244,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1853,8 +1853,8 @@
     },
     {
       "i": 97,
-      "start": 681.233,
-      "end": 693.481,
+      "start": 677.594,
+      "end": 689.842,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1875,8 +1875,8 @@
     },
     {
       "i": 98,
-      "start": 693.831,
-      "end": 702.111,
+      "start": 690.191,
+      "end": 698.471,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1889,8 +1889,8 @@
     },
     {
       "i": 99,
-      "start": 702.461,
-      "end": 712.061,
+      "start": 698.821,
+      "end": 708.421,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1903,8 +1903,8 @@
     },
     {
       "i": 100,
-      "start": 712.411,
-      "end": 715.907,
+      "start": 708.771,
+      "end": 712.267,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1921,8 +1921,8 @@
     },
     {
       "i": 101,
-      "start": 716.257,
-      "end": 721.056,
+      "start": 712.617,
+      "end": 717.417,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1939,8 +1939,8 @@
     },
     {
       "i": 102,
-      "start": 721.406,
-      "end": 726.294,
+      "start": 717.767,
+      "end": 722.655,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1957,8 +1957,8 @@
     },
     {
       "i": 103,
-      "start": 726.644,
-      "end": 730.764,
+      "start": 723.005,
+      "end": 727.125,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1971,8 +1971,8 @@
     },
     {
       "i": 104,
-      "start": 731.114,
-      "end": 737.97,
+      "start": 727.474,
+      "end": 734.33,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1989,8 +1989,8 @@
     },
     {
       "i": 105,
-      "start": 738.32,
-      "end": 745.56,
+      "start": 734.68,
+      "end": 741.92,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2003,8 +2003,8 @@
     },
     {
       "i": 106,
-      "start": 745.91,
-      "end": 774.121,
+      "start": 742.27,
+      "end": 770.481,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
@@ -2081,8 +2081,8 @@
     },
     {
       "i": 107,
-      "start": 774.471,
-      "end": 798.679,
+      "start": 770.831,
+      "end": 795.039,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},

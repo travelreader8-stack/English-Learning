@@ -9,19 +9,19 @@ A: 还要分清 [EN]play[/EN] 和 [EN]performance[/EN]。[EN]play[/EN] 是一部
 A: 所以这课的笑点是：票是真的，机会也像是真的，可是它救不了今晚这一场。今天要抓住这条链：[EN]late for play, sold out, returned tickets, sudden hope, wrong performance, sad choice[/EN]。
 
 ## SCENE: retell frame=1
-A: 第一帧，[EN]narrator[/EN] 和 [EN]Susan[/EN] 匆匆赶向剧院。他说：[EN]The play may begin at any moment.[/EN]
+A: 第一帧，主人公和 [EN]Susan[/EN] 匆匆赶向剧院。他说：[EN]The play may begin at any moment.[/EN]
 A: [EN]at any moment[/EN] 是随时、马上就可能发生。这里的 [EN]may begin[/EN] 不是请求，而是猜测：这场戏可能马上开始。
 A: [EN]Susan[/EN] 更担心，她回答：[EN]It may have begun already.[/EN] 这句话是在猜一个更早的可能：也许它已经开始了。
 
 ## SCENE: retell frame=2
-A: 第二帧，[EN]narrator[/EN] 赶到 [EN]ticket office[/EN]。这是一个实体售票窗口，不是手机 App。
+A: 第二帧，主人公赶到 [EN]ticket office[/EN]。这是一个实体售票窗口，不是手机 App。
 A: 他很礼貌地问：[EN]May I have two tickets please?[/EN] 这里的 [EN]May I have[/EN] 是礼貌请求，意思是“请卖给我两张票，可以吗？”
 A: 但窗口后的 [EN]girl[/EN] 说：[EN]I'm sorry, we've sold out.[/EN] [EN]sold out[/EN] 就是所有票都卖完了，一张也不剩。[EN]Susan[/EN] 只好说：[EN]What a pity![/EN]
 
 ## SCENE: retell frame=3
 A: 第三帧，事情突然转向。课文说：[EN]Just then, a man hurried to the ticket office.[/EN] 正在这时，一个人也匆匆跑到售票窗口。
 A: 他问：[EN]Can I return these two tickets?[/EN] 注意这里的 [EN]return[/EN] 不是“回来”，而是把票退回去，可能是退票、退款，或者至少把这两张票交还给售票处。
-A: [EN]narrator[/EN] 一听到有两张票被退回来，马上看到了希望。他 [EN]went back to the ticket office at once[/EN]，然后问：[EN]Could I have those two tickets please?[/EN]
+A: 主人公一听到有两张票被退回来，马上看到了希望。他 [EN]went back to the ticket office at once[/EN]，然后问：[EN]Could I have those two tickets please?[/EN]
 
 ## SCENE: retell frame=4
 A: 第四帧，希望又被戳破了。那位 [EN]girl[/EN] 说：[EN]Certainly, but they're for next Wednesday's performance.[/EN]
@@ -61,7 +61,7 @@ B: [EN]"I might as well have them," I said sadly.[/EN]
 A: 第一个词：[EN]ticket[/EN]。
 B: [EN]ticket[/EN]。
 A: [EN]ticket[/EN] 是票，表示你可以进入某个地方或参加某个活动。以前可能是一张纸票，现在也可能是手机里的二维码票。
-A: 电影票可以说 [EN]a movie ticket[/EN]，火车票是 [EN]a train ticket[/EN]，演出票是 [EN]a theatre ticket[/EN]。课文里 [EN]narrator[/EN] 问：[EN]May I have two tickets please?[/EN]
+A: 电影票可以说 [EN]a movie ticket[/EN]，火车票是 [EN]a train ticket[/EN]，演出票是 [EN]a theatre ticket[/EN]。课文里主人公问：[EN]May I have two tickets please?[/EN]
 
 ## SCENE: vocab word=return
 A: 第二个词：[EN]return[/EN]。

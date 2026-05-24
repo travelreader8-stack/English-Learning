@@ -10,7 +10,7 @@ A: 换成今天的生活，你可以想成：有人玩 [EN]Minecraft[/EN] 不一
 A: 所以今天抓住这条链：[EN]no fish, empty bag, friends' scoreboard, quiet boat time[/EN]。朋友看“有没有鱼”，他自己要的是“坐在船上，什么也不做”。
 
 ## SCENE: retell frame=1
-A: 第一帧，清晨的河面很安静。[EN]narrator[/EN] 坐在一只小木船里，带着鱼竿和一个 [EN]fishing bag[/EN]。
+A: 第一帧，清晨的河面很安静。主人公坐在一只小木船里，带着鱼竿和一个 [EN]fishing bag[/EN]。
 A: 他一开头说：[EN]Fishing is my favourite sport.[/EN] 这里的 [EN]favourite sport[/EN] 可以理解成“我最喜欢的休闲活动”。
 A: 接着他说：[EN]I often fish for hours without catching anything.[/EN] [EN]without catching anything[/EN] 是“没有钓到任何东西”。可是下一句很关键：[EN]But this does not worry me.[/EN]
 A: 他没有着急，也没有生气。因为对他来说，坐在船上的安静时间已经很重要。

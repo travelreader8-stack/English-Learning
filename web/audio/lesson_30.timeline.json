@@ -1,5 +1,5 @@
 {
-  "total_duration": 597.53,
+  "total_duration": 595.05,
   "lines": [
     {
       "i": 0,
@@ -108,7 +108,7 @@
     {
       "i": 4,
       "start": 55.466,
-      "end": 65.034,
+      "end": 64.554,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
@@ -119,14 +119,14 @@
         },
         {
           "lang": "zh",
-          "text": "是这条小河的名字。你不用查它是不是很有名，只要记住：The Wayle is the small river near the narrator's home."
+          "text": "是这条小河的名字。你不用查它是不是很有名，只要记住：The Wayle 是主人公家附近的小河。"
         }
       ]
     },
     {
       "i": 5,
-      "start": 65.384,
-      "end": 77.304,
+      "start": 64.904,
+      "end": 76.824,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
@@ -139,8 +139,8 @@
     },
     {
       "i": 6,
-      "start": 77.654,
-      "end": 90.702,
+      "start": 77.174,
+      "end": 90.222,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -167,8 +167,8 @@
     },
     {
       "i": 7,
-      "start": 91.052,
-      "end": 102.028,
+      "start": 90.572,
+      "end": 101.468,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -177,7 +177,7 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "narrator 喜欢这里："
+          "text": "主人公喜欢这里："
         },
         {
           "lang": "en",
@@ -195,8 +195,8 @@
     },
     {
       "i": 8,
-      "start": 102.377,
-      "end": 116.833,
+      "start": 101.817,
+      "end": 116.273,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -235,8 +235,8 @@
     },
     {
       "i": 9,
-      "start": 117.183,
-      "end": 124.983,
+      "start": 116.623,
+      "end": 124.423,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -259,8 +259,8 @@
     },
     {
       "i": 10,
-      "start": 125.332,
-      "end": 134.868,
+      "start": 124.772,
+      "end": 134.308,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -291,8 +291,8 @@
     },
     {
       "i": 11,
-      "start": 135.218,
-      "end": 144.938,
+      "start": 134.658,
+      "end": 144.378,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -307,8 +307,8 @@
     },
     {
       "i": 12,
-      "start": 145.288,
-      "end": 153.296,
+      "start": 144.728,
+      "end": 152.736,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -331,8 +331,8 @@
     },
     {
       "i": 13,
-      "start": 153.646,
-      "end": 165.437,
+      "start": 153.086,
+      "end": 164.877,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -367,8 +367,8 @@
     },
     {
       "i": 14,
-      "start": 165.787,
-      "end": 176.387,
+      "start": 165.227,
+      "end": 175.827,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -399,8 +399,8 @@
     },
     {
       "i": 15,
-      "start": 176.737,
-      "end": 190.072,
+      "start": 176.177,
+      "end": 189.512,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -427,8 +427,8 @@
     },
     {
       "i": 16,
-      "start": 190.422,
-      "end": 203.846,
+      "start": 189.862,
+      "end": 202.566,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -437,7 +437,7 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "narrator 转头看孩子们："
+          "text": "主人公转头看孩子们："
         },
         {
           "lang": "en",
@@ -455,8 +455,8 @@
     },
     {
       "i": 17,
-      "start": 204.196,
-      "end": 215.528,
+      "start": 202.916,
+      "end": 213.688,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -481,14 +481,14 @@
         },
         {
           "lang": "zh",
-          "text": "，说明在 narrator 回头看之前，孩子们已经跑掉了。"
+          "text": "，说明在主人公回头看之前，孩子们已经跑掉了。"
         }
       ]
     },
     {
       "i": 18,
-      "start": 215.878,
-      "end": 225.037,
+      "start": 214.038,
+      "end": 223.197,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -511,8 +511,8 @@
     },
     {
       "i": 19,
-      "start": 225.387,
-      "end": 235.871,
+      "start": 223.547,
+      "end": 234.031,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -535,8 +535,8 @@
     },
     {
       "i": 20,
-      "start": 236.221,
-      "end": 240.005,
+      "start": 234.381,
+      "end": 238.165,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -557,8 +557,8 @@
     },
     {
       "i": 21,
-      "start": 240.355,
-      "end": 245.206,
+      "start": 238.515,
+      "end": 243.366,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -571,8 +571,8 @@
     },
     {
       "i": 22,
-      "start": 245.556,
-      "end": 254.036,
+      "start": 243.716,
+      "end": 252.196,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -585,8 +585,8 @@
     },
     {
       "i": 23,
-      "start": 254.386,
-      "end": 258.245,
+      "start": 252.546,
+      "end": 256.405,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -607,8 +607,8 @@
     },
     {
       "i": 24,
-      "start": 258.595,
-      "end": 274.107,
+      "start": 256.755,
+      "end": 272.267,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -637,8 +637,8 @@
     },
     {
       "i": 25,
-      "start": 274.457,
-      "end": 277.475,
+      "start": 272.617,
+      "end": 275.635,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -651,8 +651,8 @@
     },
     {
       "i": 26,
-      "start": 277.825,
-      "end": 289.065,
+      "start": 275.985,
+      "end": 287.225,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -665,8 +665,8 @@
     },
     {
       "i": 27,
-      "start": 289.415,
-      "end": 306.198,
+      "start": 287.575,
+      "end": 304.358,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -743,8 +743,8 @@
     },
     {
       "i": 28,
-      "start": 306.548,
-      "end": 310.676,
+      "start": 304.708,
+      "end": 308.836,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -757,8 +757,8 @@
     },
     {
       "i": 29,
-      "start": 311.026,
-      "end": 314.434,
+      "start": 309.186,
+      "end": 312.594,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -771,8 +771,8 @@
     },
     {
       "i": 30,
-      "start": 314.784,
-      "end": 319.632,
+      "start": 312.944,
+      "end": 317.792,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -785,8 +785,8 @@
     },
     {
       "i": 31,
-      "start": 319.982,
-      "end": 325.022,
+      "start": 318.142,
+      "end": 323.182,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -799,8 +799,8 @@
     },
     {
       "i": 32,
-      "start": 325.372,
-      "end": 330.7,
+      "start": 323.532,
+      "end": 328.86,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -813,8 +813,8 @@
     },
     {
       "i": 33,
-      "start": 331.049,
-      "end": 336.017,
+      "start": 329.209,
+      "end": 334.177,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -827,8 +827,8 @@
     },
     {
       "i": 34,
-      "start": 336.367,
-      "end": 340.447,
+      "start": 334.527,
+      "end": 338.607,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -841,8 +841,8 @@
     },
     {
       "i": 35,
-      "start": 340.797,
-      "end": 346.461,
+      "start": 338.957,
+      "end": 344.621,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -855,8 +855,8 @@
     },
     {
       "i": 36,
-      "start": 346.811,
-      "end": 350.195,
+      "start": 344.971,
+      "end": 348.355,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -869,8 +869,8 @@
     },
     {
       "i": 37,
-      "start": 350.545,
-      "end": 354.385,
+      "start": 348.705,
+      "end": 352.545,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -883,8 +883,8 @@
     },
     {
       "i": 38,
-      "start": 354.735,
-      "end": 357.231,
+      "start": 352.895,
+      "end": 355.391,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -907,8 +907,8 @@
     },
     {
       "i": 39,
-      "start": 357.581,
-      "end": 359.021,
+      "start": 355.741,
+      "end": 357.181,
       "speaker": "B",
       "scene": "vocab",
       "scene_meta": {
@@ -927,8 +927,8 @@
     },
     {
       "i": 40,
-      "start": 359.37,
-      "end": 372.242,
+      "start": 357.53,
+      "end": 370.402,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -955,8 +955,8 @@
     },
     {
       "i": 41,
-      "start": 372.592,
-      "end": 381.232,
+      "start": 370.752,
+      "end": 379.112,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -973,14 +973,14 @@
         },
         {
           "lang": "zh",
-          "text": "narrator 坐在河岸上，看见孩子们和划船的人。"
+          "text": "主人公坐在河岸上，看见孩子们和划船的人。"
         }
       ]
     },
     {
       "i": 42,
-      "start": 381.582,
-      "end": 384.118,
+      "start": 379.462,
+      "end": 381.998,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1003,8 +1003,8 @@
     },
     {
       "i": 43,
-      "start": 384.468,
-      "end": 385.932,
+      "start": 382.348,
+      "end": 383.812,
       "speaker": "B",
       "scene": "vocab",
       "scene_meta": {
@@ -1023,8 +1023,8 @@
     },
     {
       "i": 44,
-      "start": 386.282,
-      "end": 395.897,
+      "start": 384.161,
+      "end": 393.777,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1043,8 +1043,8 @@
     },
     {
       "i": 45,
-      "start": 396.247,
-      "end": 406.647,
+      "start": 394.127,
+      "end": 404.527,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1067,8 +1067,8 @@
     },
     {
       "i": 46,
-      "start": 406.997,
-      "end": 409.773,
+      "start": 404.877,
+      "end": 407.653,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1091,8 +1091,8 @@
     },
     {
       "i": 47,
-      "start": 410.123,
-      "end": 411.611,
+      "start": 408.003,
+      "end": 409.491,
       "speaker": "B",
       "scene": "vocab",
       "scene_meta": {
@@ -1111,8 +1111,8 @@
     },
     {
       "i": 48,
-      "start": 411.961,
-      "end": 420.904,
+      "start": 409.841,
+      "end": 418.784,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1147,8 +1147,8 @@
     },
     {
       "i": 49,
-      "start": 421.254,
-      "end": 431.566,
+      "start": 419.134,
+      "end": 428.926,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1165,7 +1165,7 @@
         },
         {
           "lang": "zh",
-          "text": "narrator 回头看孩子们，一个也看不见，因为"
+          "text": "主人公回头看孩子们，一个也看不见，因为"
         },
         {
           "lang": "en",
@@ -1179,8 +1179,8 @@
     },
     {
       "i": 50,
-      "start": 431.916,
-      "end": 436.076,
+      "start": 429.276,
+      "end": 433.436,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1193,8 +1193,8 @@
     },
     {
       "i": 51,
-      "start": 436.426,
-      "end": 446.329,
+      "start": 433.786,
+      "end": 443.689,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1219,8 +1219,8 @@
     },
     {
       "i": 52,
-      "start": 446.679,
-      "end": 460.319,
+      "start": 444.039,
+      "end": 457.679,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1249,8 +1249,8 @@
     },
     {
       "i": 53,
-      "start": 460.669,
-      "end": 473.109,
+      "start": 458.029,
+      "end": 470.628,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1265,7 +1265,7 @@
         },
         {
           "lang": "zh",
-          "text": "，过去的过去。narrator turned to look，是过去；孩子们跑掉发生得更早，所以说："
+          "text": "，过去的过去。主人公转头看，是过去；孩子们跑掉发生得更早，所以说："
         },
         {
           "lang": "en",
@@ -1275,8 +1275,8 @@
     },
     {
       "i": 54,
-      "start": 473.458,
-      "end": 489.25,
+      "start": 470.978,
+      "end": 486.77,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1337,8 +1337,8 @@
     },
     {
       "i": 55,
-      "start": 489.6,
-      "end": 498.9,
+      "start": 487.12,
+      "end": 496.42,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1351,8 +1351,8 @@
     },
     {
       "i": 56,
-      "start": 499.25,
-      "end": 510.93,
+      "start": 496.77,
+      "end": 508.45,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1365,8 +1365,8 @@
     },
     {
       "i": 57,
-      "start": 511.28,
-      "end": 526.527,
+      "start": 508.8,
+      "end": 524.047,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1399,8 +1399,8 @@
     },
     {
       "i": 58,
-      "start": 526.877,
-      "end": 534.013,
+      "start": 524.397,
+      "end": 531.533,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1417,8 +1417,8 @@
     },
     {
       "i": 59,
-      "start": 534.363,
-      "end": 546.467,
+      "start": 531.883,
+      "end": 543.987,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -1439,8 +1439,8 @@
     },
     {
       "i": 60,
-      "start": 546.816,
-      "end": 574.62,
+      "start": 544.336,
+      "end": 572.14,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
@@ -1517,8 +1517,8 @@
     },
     {
       "i": 61,
-      "start": 574.97,
-      "end": 597.53,
+      "start": 572.49,
+      "end": 595.05,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},

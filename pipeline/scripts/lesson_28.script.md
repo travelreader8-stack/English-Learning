@@ -22,7 +22,7 @@ A: Jasper 先用了正常办法：[EN]Jasper has put up 'No Parking' signs outsi
 A: 但是 [EN]these have not had any effect[/EN]。标志没有效果，车还是堵在 gate 外面。于是他把一个 [EN]ugly stone head[/EN] 放到了大门上方。
 
 ## SCENE: retell frame=4
-A: narrator 问他那是什么。Jasper 说：[EN]It was Medusa, the Gorgon.[/EN] 也就是美杜莎，这个 Greek myth 里的蛇发女怪。
+A: 主人公问他那是什么。Jasper 说：[EN]It was Medusa, the Gorgon.[/EN] 也就是美杜莎，这个 Greek myth 里的蛇发女怪。
 A: Jasper 希望她能 [EN]turn cars and their owners to stone[/EN]。可是结尾很幽默：[EN]But none of them has been turned to stone yet![/EN] 到现在，没有一个真的变成石头。
 
 ## SCENE: discuss
