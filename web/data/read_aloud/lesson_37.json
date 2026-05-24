@@ -1,0 +1,114 @@
+{
+  "lesson_id": 37,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“未来事件 -> 游客到来 -> 建设计划 -> Olympic City -> 道路和体育场 deadline -> 建筑设计 -> 第一次举办”的项目时间线读顺。注意在 in four years' time、by the end of this year、by the end of next year 后面自然小停顿。",
+  "sentences": [
+    {
+      "id": "l37_s1",
+      "text": "The Olympic Games will be held in our country in four years' time.",
+      "focus_zh": "will be held 是未来被动；in four years' time 是四年后，读成一个清楚的时间短语。",
+      "start": 386.457,
+      "end": 390.633,
+      "focus_words": [
+        "The Olympic Games",
+        "will be held",
+        "in our country",
+        "in four years' time"
+      ]
+    },
+    {
+      "id": "l37_s2",
+      "text": "As a great many people will be visiting the country, the government will be building new hotels, an immense stadium, and a new Olympic-standard swimming pool.",
+      "focus_zh": "这是长句，要在 visiting the country 后小停；will be visiting 和 will be building 都表示未来某段时间正在发生。",
+      "start": 390.983,
+      "end": 399.815,
+      "focus_words": [
+        "a great many people",
+        "will be visiting",
+        "the government",
+        "will be building",
+        "Olympic-standard swimming pool"
+      ]
+    },
+    {
+      "id": "l37_s3",
+      "text": "They will also be building new roads and a special railway line.",
+      "focus_zh": "also 要读出补充关系；new roads 和 a special railway line 是交通基础设施。",
+      "start": 400.164,
+      "end": 404.196,
+      "focus_words": [
+        "will also be building",
+        "new roads",
+        "a special railway line"
+      ]
+    },
+    {
+      "id": "l37_s4",
+      "text": "The Games will be held just outside the capital and the whole area will be called 'Olympic City'.",
+      "focus_zh": "just outside the capital 是地点；will be called 是未来被动，说明这个区域将被叫作 Olympic City。",
+      "start": 404.546,
+      "end": 410.09,
+      "focus_words": [
+        "will be held",
+        "just outside the capital",
+        "the whole area",
+        "will be called",
+        "Olympic City"
+      ]
+    },
+    {
+      "id": "l37_s5",
+      "text": "Workers will have completed the new roads by the end of this year.",
+      "focus_zh": "will have completed 是未来完成时；by the end of this year 是截止日期，读清楚。",
+      "start": 410.44,
+      "end": 414.688,
+      "focus_words": [
+        "Workers",
+        "will have completed",
+        "the new roads",
+        "by the end of this year"
+      ]
+    },
+    {
+      "id": "l37_s6",
+      "text": "By the end of next year, they will have finished work on the new stadium.",
+      "focus_zh": "先读 deadline，再读结果；will have finished work on the new stadium 表示到明年年底已经完成体育场工程。",
+      "start": 415.038,
+      "end": 419.43,
+      "focus_words": [
+        "By the end of next year",
+        "will have finished",
+        "work on",
+        "the new stadium"
+      ]
+    },
+    {
+      "id": "l37_s7",
+      "text": "The fantastic modern buildings have been designed by Kurt Gunter. Everybody will be watching anxiously as the new buildings go up.",
+      "focus_zh": "have been designed 表示已经被设计好；will be watching anxiously 要读出大家紧张关注建设进度。",
+      "start": 419.78,
+      "end": 428.506,
+      "focus_words": [
+        "fantastic modern buildings",
+        "have been designed",
+        "Kurt Gunter",
+        "will be watching anxiously",
+        "go up"
+      ]
+    },
+    {
+      "id": "l37_s8",
+      "text": "We are all very excited and are looking forward to the Olympic Games because they have never been held before in this country.",
+      "focus_zh": "looking forward to 表示期待；have never been held before 点出这是这个国家第一次举办奥运会。",
+      "start": 428.856,
+      "end": 435.6,
+      "focus_words": [
+        "very excited",
+        "looking forward to",
+        "the Olympic Games",
+        "have never been held before",
+        "in this country"
+      ]
+    }
+  ]
+}

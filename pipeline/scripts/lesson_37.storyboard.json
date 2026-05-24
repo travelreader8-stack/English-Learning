@@ -1,0 +1,23 @@
+{
+  "lesson_id": 37,
+  "title": "The Olympic Games",
+  "visual_consistency": "A bright educational city-planning illustration centered on the same emerging Olympic City just outside a modern capital: an immense oval stadium, a blue Olympic-standard swimming pool building, new hotels, wide roads, a special railway line, cranes, workers in safety helmets, planners with rolled maps, an architect figure, and excited citizens. Keep the same map-like Olympic City layout across all frames, optimistic public-project tone, clean modern architecture, practical construction countdown mood, no political rally imagery, no dense unreadable labels, no random sports montage.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "A wide map-like city-planning illustration of the same emerging Olympic City just outside a modern capital. Show the capital skyline in the distance, an empty future Olympic City site nearby, a faint oval stadium footprint, a blue swimming pool footprint, hotel blocks, roads and railway route sketched in, cranes waiting, and imagined streams of international visitors arriving in four years. Optimistic planning mood, large readable visual shapes instead of tiny labels, no political rally, no sports montage."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same Olympic City layout now as an organized construction plan: workers in safety helmets, government planners with rolled maps, cranes, new hotel buildings rising, an immense oval stadium under construction, a blue Olympic-standard swimming pool building, wide roads, and a special railway line. Keep the city map perspective consistent with frame 1, practical infrastructure focus, cheerful but orderly public-project mood, no dense text, no random individual sports scenes."
+    },
+    {
+      "frame": 3,
+      "prompt": "The same Olympic City layout with a clear visual deadline timeline made from simple progress markers: new roads nearly complete in the foreground, the immense stadium halfway built, railway line connected toward the capital, workers checking plans, cranes lifting materials. Use big symbolic calendar blocks and progress bars without readable small text. Emphasize roads completed this year and stadium finished next year through visual progress, consistent buildings and routes from previous frames."
+    },
+    {
+      "frame": 4,
+      "prompt": "The same Olympic City layout with fantastic modern buildings going up: the immense stadium, blue Olympic-standard swimming pool building, hotels, roads, railway line, cranes, architect figure, workers, and citizens watching anxiously but excitedly from a safe viewing area. The country is looking forward to its first Olympic Games, but construction is still in progress. Warm anticipation, practical city-building mood, no finished victory parade, no political staging, no unreadable labels."
+    }
+  ]
+}

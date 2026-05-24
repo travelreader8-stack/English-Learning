@@ -1,0 +1,47 @@
+{
+  "lesson_id": 37,
+  "title": "The Olympic Games",
+  "question": "把今天课文里的“大事件 -> 很多来访者 -> 准备设施 -> 截止日期 -> 大家期待”放进学校 open day 场景。把下面 4 个空补完整，用 word bank 里的词或短语。",
+  "example_answer": "Our school open day will be held next month. A great many people will be visiting our school. We will be preparing classrooms, signs, and a small stage. By the end of this week, we will have completed the signs. By the end of next week, we will have finished the stage. Everybody is looking forward to it.",
+  "word_bank": [
+    "will be held next month",
+    "a great many people",
+    "will be visiting",
+    "will be preparing",
+    "classrooms",
+    "signs",
+    "a small stage",
+    "by the end of this week",
+    "will have completed",
+    "by the end of next week",
+    "will have finished",
+    "is looking forward to it"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说明未来活动：学校 open day 下个月举行",
+      "english_template": "Our school open day ___.",
+      "expected_phrase": "will be held next month"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说明来访原因：很多人会来学校",
+      "english_template": "A great many people ___ our school.",
+      "expected_phrase": "will be visiting"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说明准备过程：大家会准备教室、标识和小舞台",
+      "english_template": "We ___ classrooms, signs, and a small stage.",
+      "expected_phrase": "will be preparing"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说明截止日期：本周末之前完成标识",
+      "english_template": "By the end of this week, we ___ the signs.",
+      "expected_phrase": "will have completed"
+    }
+  ],
+  "mode": "all_fills"
+}

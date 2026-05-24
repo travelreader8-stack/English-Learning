@@ -1,0 +1,1694 @@
+{
+  "total_duration": 739.99,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 9.336,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "The Olympic Games"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“奥林匹克运动会”。但这课不是让我们背一堆 Olympic sports。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 9.686,
+      "end": 17.086,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它更像一张 city-building countdown，奥运会还有 four years，可是整座城市现在就要开始准备。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 17.436,
+      "end": 27.34,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The Olympic Games will be held in our country in four years' time."
+        },
+        {
+          "lang": "zh",
+          "text": "这句话先给出未来的大事件：四年后，奥运会要在这个国家举行。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 27.689,
+      "end": 38.185,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么要提前这么久？因为"
+        },
+        {
+          "lang": "en",
+          "text": "a great many people"
+        },
+        {
+          "lang": "zh",
+          "text": "will visit the country。Athletes, teams, reporters, and visitors 都要来。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 38.535,
+      "end": 53.495,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以城市要有 hotels 给游客住，要有 an immense stadium 给比赛用，要有 an"
+        },
+        {
+          "lang": "en",
+          "text": "Olympic-standard"
+        },
+        {
+          "lang": "zh",
+          "text": "swimming pool，也要有 roads and a railway line 让人群移动。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 53.845,
+      "end": 62.525,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Olympic-standard"
+        },
+        {
+          "lang": "zh",
+          "text": "不是“像奥运一样好看”，而是 good enough to meet Olympic requirements，达到奥运会要求的标准。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 62.875,
+      "end": 77.075,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以把这课看成一张地图加时间线：capital 旁边有 Olympic City；now 开始建；by the end of this year roads 完成；by the end of next year stadium 完成；in four years' time the Games arrive。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 77.424,
+      "end": 94.984,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "整课记忆链是：four years -> visitors -> government -> hotels, stadium, pool -> roads, railway -> Olympic City -> roads this year -> stadium next year -> designed buildings -> watch anxiously -> look forward -> never held before。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 95.334,
+      "end": 102.998,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一幅画，是未来事件和城市问题。"
+        },
+        {
+          "lang": "en",
+          "text": "The Olympic Games will be held in our country in four years' time."
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 103.348,
+      "end": 113.62,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "will be held"
+        },
+        {
+          "lang": "zh",
+          "text": "是 future passive，意思是“将会举行”。不是某个人一个人办，而是这个国家会承办这件大事。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 113.97,
+      "end": 121.994,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文马上解释原因："
+        },
+        {
+          "lang": "en",
+          "text": "As a great many people will be visiting the country"
+        },
+        {
+          "lang": "zh",
+          "text": "，会有大量的人来到这里。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 122.344,
+      "end": 134.24,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "a great many people"
+        },
+        {
+          "lang": "zh",
+          "text": "就是 a very large number of people。奥运会来的不只是运动员，还有 team members, reporters, volunteers, and visitors。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 134.589,
+      "end": 141.029,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以第一幅画要问：如果全世界的人四年后要来，一座城市现在需要准备什么？"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 141.379,
+      "end": 150.811,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二幅画，是政府的建设计划。"
+        },
+        {
+          "lang": "en",
+          "text": "The government will be building new hotels, an immense stadium, and a new Olympic-standard swimming pool."
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 151.161,
+      "end": 161.769,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "government"
+        },
+        {
+          "lang": "zh",
+          "text": "不要讲成政治话题。它就是组织公共项目的 public authority，可以修路、建体育馆、安排交通。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 162.119,
+      "end": 170.287,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "will be building"
+        },
+        {
+          "lang": "zh",
+          "text": "表示 future work in progress。四年之前的这段时间里，建设会一直进行。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 170.637,
+      "end": 184.632,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "new hotels"
+        },
+        {
+          "lang": "zh",
+          "text": "是给 visitors 住的；"
+        },
+        {
+          "lang": "en",
+          "text": "an immense stadium"
+        },
+        {
+          "lang": "zh",
+          "text": "是巨大的体育场；"
+        },
+        {
+          "lang": "en",
+          "text": "Olympic-standard swimming pool"
+        },
+        {
+          "lang": "zh",
+          "text": "是达到奥运要求的游泳池。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 184.982,
+      "end": 196.238,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文又说："
+        },
+        {
+          "lang": "en",
+          "text": "They will also be building new roads and a special railway line."
+        },
+        {
+          "lang": "zh",
+          "text": "大事件不只要场馆，也要 transport，让人能到达、离开、换乘。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 196.588,
+      "end": 205.18,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三幅画，是地点和 deadline。"
+        },
+        {
+          "lang": "en",
+          "text": "The Games will be held just outside the capital and the whole area will be called 'Olympic City'."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 205.53,
+      "end": 215.849,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "just outside the capital"
+        },
+        {
+          "lang": "zh",
+          "text": "是 near the capital, but not inside it。这个新区域会被叫作"
+        },
+        {
+          "lang": "en",
+          "text": "Olympic City"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 216.199,
+      "end": 224.679,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接下来是两条项目 deadline。第一条："
+        },
+        {
+          "lang": "en",
+          "text": "Workers will have completed the new roads by the end of this year."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 225.029,
+      "end": 233.605,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "will have completed"
+        },
+        {
+          "lang": "zh",
+          "text": "是 future perfect，意思是到了未来某个截止点时，这件事已经完成。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 233.955,
+      "end": 239.955,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二条："
+        },
+        {
+          "lang": "en",
+          "text": "By the end of next year, they will have finished work on the new stadium."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 240.305,
+      "end": 249.345,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这就是项目经理的英语：by this year, roads done；by next year, stadium done。语法跟着建设时间表走。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 249.694,
+      "end": 257.262,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四幅画，是建筑升起和大家等待。"
+        },
+        {
+          "lang": "en",
+          "text": "The fantastic modern buildings have been designed by Kurt Gunter."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 257.612,
+      "end": 267.684,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "have been designed"
+        },
+        {
+          "lang": "zh",
+          "text": "是 present perfect passive，说明这些建筑已经有设计师了，workers 正在把设计变成真实建筑。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 268.034,
+      "end": 273.294,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Everybody will be watching anxiously as the new buildings go up."
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 273.644,
+      "end": 285.8,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "go up"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里是 buildings are being built，建筑慢慢建起来。"
+        },
+        {
+          "lang": "en",
+          "text": "anxiously"
+        },
+        {
+          "lang": "zh",
+          "text": "不是恐慌，而是又期待又紧张地盯着进度。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 286.15,
+      "end": 295.149,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一层情绪来了："
+        },
+        {
+          "lang": "en",
+          "text": "We are all very excited and are looking forward to the Olympic Games because they have never been held before in this country."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 295.499,
+      "end": 308.379,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这课的落点不是“奥运会很热闹”，而是：a huge future event becomes a real city project, with buildings, transport, deadlines, and public expectation。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 308.729,
+      "end": 311.249,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课最容易误会的地方是什么？"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 311.599,
+      "end": 315.902,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "以为它是在介绍奥运会项目，比如 running, swimming, football？"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 316.252,
+      "end": 324.592,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。但课文真正讲的是 hosting the Games。一个国家第一次办奥运会，城市要提前几年准备。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 324.942,
+      "end": 328.296,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么先讲"
+        },
+        {
+          "lang": "en",
+          "text": "a great many people"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 328.645,
+      "end": 339.845,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为 visitors 是建设的原因。人来了，就需要 hotels；比赛来了，就需要 stadium and pool；人群移动，就需要 roads and railway line。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 340.195,
+      "end": 344.153,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Olympic City"
+        },
+        {
+          "lang": "zh",
+          "text": "是一个真的城市吗？"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 344.503,
+      "end": 352.503,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在这课里，它是 capital 外面的一个 Olympic area。可以理解成专门为奥运会准备的新区域。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 352.853,
+      "end": 359.51,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "will have completed"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "will have finished"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么重要？"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 359.86,
+      "end": 371.58,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为它们把 deadline 说清楚：到今年年底，道路已经完成；到明年年底，体育场工程已经完成。Future perfect 就是“到那个未来时间点，已经做完”。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 371.93,
+      "end": 376.357,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "anxiously"
+        },
+        {
+          "lang": "zh",
+          "text": "是坏情绪吗？"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 376.707,
+      "end": 386.107,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是坏情绪。大家很 excited，但这么大的项目必须按期完成，所以会认真、焦急地 watching as the buildings go up。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 386.457,
+      "end": 390.633,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The Olympic Games will be held in our country in four years' time."
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 390.983,
+      "end": 399.815,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As a great many people will be visiting the country, the government will be building new hotels, an immense stadium, and a new Olympic-standard swimming pool."
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 400.164,
+      "end": 404.196,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "They will also be building new roads and a special railway line."
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 404.546,
+      "end": 410.09,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The Games will be held just outside the capital and the whole area will be called 'Olympic City'."
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 410.44,
+      "end": 414.688,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Workers will have completed the new roads by the end of this year."
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 415.038,
+      "end": 419.43,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "By the end of next year, they will have finished work on the new stadium."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 419.78,
+      "end": 424.1,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The fantastic modern buildings have been designed by Kurt Gunter."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 424.45,
+      "end": 428.506,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Everybody will be watching anxiously as the new buildings go up."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 428.856,
+      "end": 435.6,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "We are all very excited and are looking forward to the Olympic Games because they have never been held before in this country."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 435.95,
+      "end": 438.638,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "government"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "government"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 438.987,
+      "end": 440.739,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "government"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "government"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 441.089,
+      "end": 450.577,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "government"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "government"
+        },
+        {
+          "lang": "zh",
+          "text": "是 the public authority that runs a country or city and organizes public decisions，政府、公共管理机构。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 450.927,
+      "end": 461.119,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "government"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在这课里它不是政治讨论，而是 large public project organizer。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "the government will be building new hotels"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 461.469,
+      "end": 470.909,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "government"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为 hotels, roads, railway lines, and stadiums 都不是一个人能随便完成的小事，需要公共规划和很多团队合作。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 471.259,
+      "end": 474.059,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "stadium"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "stadium"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 474.409,
+      "end": 476.137,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "stadium"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "stadium"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 476.486,
+      "end": 484.726,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "stadium"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "stadium"
+        },
+        {
+          "lang": "zh",
+          "text": "是 a large sports building or open structure where many people watch events，体育场。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 485.076,
+      "end": 492.08,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "stadium"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "an immense stadium"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        },
+        {
+          "lang": "en",
+          "text": "immense"
+        },
+        {
+          "lang": "zh",
+          "text": "是 very large，非常巨大。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 492.43,
+      "end": 501.59,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "stadium"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以把 school sports field 想象成小版本；Olympic stadium 是能容纳大量观众、运动员和设备的大型场馆。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 501.94,
+      "end": 504.788,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "design"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "design"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 505.138,
+      "end": 506.674,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "design"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "design"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 507.023,
+      "end": 515.871,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "design"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "design"
+        },
+        {
+          "lang": "zh",
+          "text": "是 plan how a building or object will look and work before it is made，设计。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 516.221,
+      "end": 521.529,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "design"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The fantastic modern buildings have been designed by Kurt Gunter."
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 521.879,
+      "end": 530.879,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "design"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先有 architect or designer 的 plan，后有 workers 按照设计把 buildings 建起来。所以 design 连接了想法和真实建筑。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 531.229,
+      "end": 544.289,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 要像 project manager 一样看。第一类是 future event："
+        },
+        {
+          "lang": "en",
+          "text": "The Olympic Games will be held in our country."
+        },
+        {
+          "lang": "zh",
+          "text": "还有"
+        },
+        {
+          "lang": "en",
+          "text": "the whole area will be called 'Olympic City'."
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 544.638,
+      "end": 555.146,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "will be held"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "will be called"
+        },
+        {
+          "lang": "zh",
+          "text": "都是 future passive，重点是“事情将会发生，区域将会被叫作某个名字”。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 555.496,
+      "end": 564.832,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二类是 future work in progress："
+        },
+        {
+          "lang": "en",
+          "text": "will be visiting"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "will be building"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "will be watching"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 565.182,
+      "end": 573.862,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些形式让未来变成一段持续画面：visitors will be visiting，government will be building，everybody will be watching。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 574.212,
+      "end": 581.012,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三类是 future deadline："
+        },
+        {
+          "lang": "en",
+          "text": "Workers will have completed the new roads by the end of this year."
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 581.361,
+      "end": 586.701,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有："
+        },
+        {
+          "lang": "en",
+          "text": "By the end of next year, they will have finished work on the new stadium."
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 587.051,
+      "end": 595.887,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "will have completed"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "will have finished"
+        },
+        {
+          "lang": "zh",
+          "text": "的意思是：到那个未来截止时间，事情已经做完。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 596.237,
+      "end": 609.86,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后两句是 already and never before："
+        },
+        {
+          "lang": "en",
+          "text": "The buildings have been designed."
+        },
+        {
+          "lang": "zh",
+          "text": "说明已经被设计好了；"
+        },
+        {
+          "lang": "en",
+          "text": "the Games have never been held before in this country"
+        },
+        {
+          "lang": "zh",
+          "text": "说明这是第一次。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 610.21,
+      "end": 624.21,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以语法板很清楚：future event, future work, future deadline, already designed, never before。The Games are four years away, but the city must be built step by step before then。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 624.56,
+      "end": 633.24,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进你的生活。想象 your school open day will be held next month，很多 parents and visitors 会来学校。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 633.59,
+      "end": 644.11,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你要像一个 small project planner 一样解释：what will be held, who will be visiting, what people will be preparing, and what will have been finished by a deadline。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 644.46,
+      "end": 649.06,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以这样开头："
+        },
+        {
+          "lang": "en",
+          "text": "Our school open day will be held next month."
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 649.41,
+      "end": 654.09,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "说明原因："
+        },
+        {
+          "lang": "en",
+          "text": "A great many people will be visiting our school."
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 654.44,
+      "end": 661.319,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "说明正在准备的东西："
+        },
+        {
+          "lang": "en",
+          "text": "We will be preparing classrooms, signs, and a small stage."
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 661.669,
+      "end": 667.349,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "说明 deadline："
+        },
+        {
+          "lang": "en",
+          "text": "By the end of this week, we will have completed the signs."
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 667.699,
+      "end": 673.939,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再说明下一个 deadline："
+        },
+        {
+          "lang": "en",
+          "text": "By the end of next week, we will have finished the stage."
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 674.289,
+      "end": 678.793,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后给出情绪："
+        },
+        {
+          "lang": "en",
+          "text": "Everybody is looking forward to it."
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 679.143,
+      "end": 689.303,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这道练习不是背奥运会知识，而是练习同一种表达：big event, many visitors, preparation, deadlines, and people looking forward to it。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 689.653,
+      "end": 715.24,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "will be held"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "will be building"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "Olympic-standard swimming pool"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "will have completed"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "will have finished"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "have been designed"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "have never been held before"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 715.59,
+      "end": 739.99,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习 school open day project plan；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心：a huge future event needs buildings, transport, deadlines, and people working before the big day arrives."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 37
+}
