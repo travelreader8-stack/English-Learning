@@ -1,0 +1,1614 @@
+{
+  "total_duration": 804.493,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 4.4,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是 A clear conscience，中文是“问心无愧”。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 4.75,
+      "end": 10.03,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Conscience 可以理解成心里的“良心声音”：它会提醒你，这件事做得对不对。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 10.38,
+      "end": 15.22,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "A clear conscience 就是心里没有亏欠，晚上能睡得踏实。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 15.57,
+      "end": 24.53,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课不是侦探抓小偷的故事，也不是教人怎样偷了再还。Stealing is wrong，偷东西就是错的。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 24.88,
+      "end": 33.76,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好笑的地方在这里：有人拿了 Sam 的钱，后来一点一点还回来，还给自己的诚实程度打分。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 34.109,
+      "end": 43.109,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他先说自己只是 50 per cent a thief，后来变成 25 per cent a thief，最后宣布 100 per cent honest。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 43.459,
+      "end": 50.839,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这就像给良心做分期付款：half paid back，心里轻一点；more paid back，心里再轻一点。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 51.189,
+      "end": 57.069,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但真正的诚实不是数学题。你不能只还一半，然后说：“我现在只是一半的小偷。”"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 57.419,
+      "end": 64.739,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "背景也要先放清楚：这是一个 old village story，小村庄里大家互相认识，消息传得快。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 65.089,
+      "end": 74.129,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Sam Benton 是 the local butcher，本地卖肉的店主；他拿着 savings，也就是存下来的钱，去 the post office。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 74.479,
+      "end": 88.239,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天你可能想到 bank card、banking app、Alipay、WeChat Pay，或者 online transfer；但课文里的世界更依赖 cash、wallet 和 post office。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 88.589,
+      "end": 110.709,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天记忆链是：whole village -> large sum lost -> Sam the butcher -> savings to post office -> must have been found -> not returned -> three months -> wrapped in newspaper -> half the money -> 50 per cent thief -> two months later -> 25 per cent thief -> all money paid back -> 100 per cent honest。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 111.058,
+      "end": 120.218,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一幅画，是 the whole village learns。课文说：The whole village soon learnt that a large sum of money had been lost."
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 120.568,
+      "end": 126.168,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "A large sum of money 是一大笔钱；had been lost 是“已经被弄丢了”。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 126.518,
+      "end": 135.958,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意这里是 passive voice，被动语态。句子先告诉我们 money had been lost，但不急着告诉是谁弄丢、谁捡到。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 136.308,
+      "end": 144.748,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着人物出现：Sam Benton, the local butcher, had lost his wallet while taking his savings to the post office."
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 145.098,
+      "end": 152.378,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Butcher 是卖肉的人；savings 是存款；post office 在老式社区里也可能和钱款服务有关。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 152.728,
+      "end": 163.088,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一帧要看见小村庄、butcher shop、post office、Sam 的 empty wallet，还有浮动提示框：had been lost 和 savings。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 163.438,
+      "end": 172.878,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二幅画，是 the hidden finder。课文说：Sam was sure that the wallet must have been found by one of the villagers, but it was not returned to him."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 173.228,
+      "end": 176.188,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里最重要的是 must have been found。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 176.538,
+      "end": 184.258,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Must have been found 表示 Sam 没亲眼看见，但他很确定：钱包一定已经被某个村民捡到了。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 184.607,
+      "end": 192.607,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "形式是 must have been + past participle，用来表达对过去事情的高把握推测，而且还是被动。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 192.957,
+      "end": 199.477,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么被动语态特别适合这课？因为 doer is hidden，做事的人藏起来了。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 199.827,
+      "end": 210.107,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "我们看到结果：wallet was found，wallet was not returned；但不知道是谁 found it，也不知道是谁 kept it。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 210.457,
+      "end": 221.537,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一帧不要画清楚坏人的脸。可以有影子、背影、匿名的人群，还有两个浮动提示框：must have been found 和 was not returned。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 221.887,
+      "end": 232.147,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三幅画，是 the first repayment。课文说：Three months passed, and then one morning, Sam found his wallet outside his front door."
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 232.497,
+      "end": 240.617,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "三个月以后，钱包突然出现在 front door 外面。这个画面像 mystery delivery，神秘投递。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 240.967,
+      "end": 248.367,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文继续说：It had been wrapped up in newspaper and it contained half the money he had lost, together with a note."
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 248.716,
+      "end": 256.877,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Wrapped up in newspaper 是用报纸包起来；contained 是里面装着；together with a note 是还附着一张纸条。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 257.226,
+      "end": 262.266,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后 punchline 来了：A thief, yes, but only 50 per cent a thief!"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 262.616,
+      "end": 271.056,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这张纸条好笑，是因为这个人好像在算道德百分比：还了一半，所以自己只剩 50% thief。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 271.406,
+      "end": 278.486,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但我们要记住：returning half is not enough。还一半不是诚实，只是开始把错事补回来。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 278.836,
+      "end": 288.516,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一帧要看到 newspaper-wrapped wallet、half the money、note，以及浮动提示框：wrapped up in newspaper 和 50 per cent a thief。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 288.866,
+      "end": 300.106,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四幅画，是 the conscience meter。课文说：Two months later, some more money was sent to Sam with another note: 'Only 25 per cent a thief now!'"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 300.456,
+      "end": 307.256,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Some more money was sent 还是被动语态。有人寄来了更多钱，但身份继续隐藏。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 307.606,
+      "end": 314.366,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二张纸条说自己变成 25 per cent a thief。他的 guilty conscience 好像越来越轻。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 314.716,
+      "end": 320.436,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文最后说：In time, all Sam's money was paid back in this way."
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 320.785,
+      "end": 326.425,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "In time 是 eventually，过了一段时间以后；was paid back 是被还清。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 326.775,
+      "end": 331.295,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一张纸条说：I am 100 per cent honest now!"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 331.645,
+      "end": 338.685,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结尾的笑点是：他把 honesty 当成了 progress bar。钱还清了，他就给自己打满分。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 339.035,
+      "end": 348.835,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是故事真正想让你看见的是：a guilty conscience pushes him to make things right，良心不安，才逼着他把钱还回来。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 349.185,
+      "end": 360.705,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一帧可以有 honesty meter，从 50% thief 到 25% thief，再到 100% honest，同时记住：real honesty is not a percentage。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 361.055,
+      "end": 365.29,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，这个人最后把钱都还了，那是不是就没事了？"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 365.64,
+      "end": 376.12,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这是这课最值得讨论的地方。He made things right，最后把钱还了，这是对的；but stealing was still wrong，偷钱这件事一开始就是错的。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 376.47,
+      "end": 379.508,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那为什么课文写得这么好笑？"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 379.858,
+      "end": 387.538,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为纸条的逻辑太荒唐了。他像做数学题一样算诚实：50%，25%，100%。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 387.888,
+      "end": 390.201,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是 honest 不是百分比。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 390.551,
+      "end": 398.351,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Exactly. Honesty is not a percentage score。诚实不是考试分数，也不是分期付款。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 398.7,
+      "end": 401.552,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那 a clear conscience 是什么意思？"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 401.902,
+      "end": 409.902,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "就是你知道自己没有亏欠，或者你已经把错事认真补好了，所以心里干净、踏实。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 410.252,
+      "end": 413.484,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课为什么有这么多 passive voice？"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 413.834,
+      "end": 424.634,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为 the doer is hidden。我们不知道是谁捡到钱包，谁不还，谁包起来，谁寄钱。课文就用 passive voice 把焦点放在 wallet 和 money 上。"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 424.983,
+      "end": 428.075,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以 grammar 和 story 是配在一起的？"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 428.425,
+      "end": 436.765,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Yes. The hidden person makes the passive voice useful。语法不是干巴巴的表格，它帮故事保持 mystery。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 437.115,
+      "end": 440.099,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果现实里捡到别人的东西呢？"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 440.449,
+      "end": 454.089,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Return it completely and quickly。交给老师、前台、保安、警察或者 lost-and-found office。不要只还一部分，更不要给自己算“我现在百分之多少 honest”。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 454.439,
+      "end": 457.701,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The whole village soon learnt that a large sum of money had been lost."
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 458.051,
+      "end": 463.592,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Sam Benton, the local butcher, had lost his wallet while taking his savings to the post office."
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 463.942,
+      "end": 469.309,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Sam was sure that the wallet must have been found by one of the villagers, but it was not returned to him."
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 469.658,
+      "end": 474.582,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Three months passed, and then one morning, Sam found his wallet outside his front door."
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 474.932,
+      "end": 484.124,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It had been wrapped up in newspaper and it contained half the money he had lost, together with a note which said: 'A thief, yes, but only 50 per cent a thief!'"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 484.474,
+      "end": 490.36,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Two months later, some more money was sent to Sam with another note: 'Only 25 per cent a thief now!'"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 490.71,
+      "end": 493.853,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In time, all Sam's money was paid back in this way."
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 494.203,
+      "end": 497.57,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The last note said: 'I am 100 per cent honest now!'"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 497.92,
+      "end": 499.88,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "conscience"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词：conscience。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 500.23,
+      "end": 501.707,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "conscience"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "conscience。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 502.057,
+      "end": 508.897,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "conscience"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Conscience means the inner sense of right and wrong，心里判断对错的良心声音。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 509.247,
+      "end": 512.487,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "conscience"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文标题是 A clear conscience。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 512.837,
+      "end": 518.157,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "conscience"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Clear 在这里不是“透明”，而是 free from guilt，没有内疚、没有亏欠。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 518.507,
+      "end": 526.987,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "conscience"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个人一开始 conscience is not clear，因为他拿了 Sam 的钱。后来他一点点还钱，是想让自己的 conscience 变轻。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 527.337,
+      "end": 529.177,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "savings"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词：savings。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 529.526,
+      "end": 531.095,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "savings"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "savings。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 531.445,
+      "end": 537.165,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "savings"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Savings means money that someone has saved，存下来的钱，存款。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 537.515,
+      "end": 542.915,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "savings"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说：Sam Benton had lost his wallet while taking his savings to the post office."
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 543.265,
+      "end": 551.585,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "savings"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句帮助我们理解老式背景：Sam 不是随便掉了几枚硬币，而是带着一笔 saved money 去 post office。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 551.935,
+      "end": 558.735,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "savings"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天我们可能用 bank card 或手机支付，但课文里的 cash savings 让这个 wallet 很重要。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 559.085,
+      "end": 560.885,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "villager"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词：villager。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 561.235,
+      "end": 562.617,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "villager"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "villager。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 562.967,
+      "end": 567.167,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "villager"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Villager means a person who lives in a village，村民。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 567.516,
+      "end": 572.156,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "villager"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说：The wallet must have been found by one of the villagers."
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 572.506,
+      "end": 580.586,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "villager"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "小村庄里 people know one another，所以 Sam 觉得钱包很可能是被本村某个人捡到的。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 580.936,
+      "end": 589.016,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "villager"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词也让故事更 personal：不是大城市里完全匿名的人海，而是熟人社区里的 hidden finder。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 589.366,
+      "end": 593.806,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar board 叫 Passive mystery，被动语态的谜案。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 594.156,
+      "end": 605.156,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组是 passive chain：a large sum of money had been lost，钱已经被弄丢；the wallet must have been found，钱包一定已经被捡到。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 605.506,
+      "end": 619.946,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着是：it was not returned，它没有被归还；it had been wrapped up，它被包起来；some more money was sent，更多钱被送来；all Sam's money was paid back，所有钱被还清。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 620.296,
+      "end": 626.936,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么这些句子用 passive voice？因为 we know what happened, but we do not know who did it。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 627.286,
+      "end": 635.726,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文把 spotlight 放在 wallet、money、notes 和 result 上，而不是放在 anonymous person 的脸上。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 636.076,
+      "end": 639.156,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块是 must have been found。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 639.505,
+      "end": 649.745,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Pattern 是 must have been + past participle。意思是：我没有亲眼看见，但我非常确定过去发生了这件事，而且它是被动发生的。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 650.095,
+      "end": 654.575,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "例子：The door is open. It must have been opened by someone."
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 654.925,
+      "end": 659.085,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再比如：The cake is gone. It must have been eaten."
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 659.435,
+      "end": 666.675,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里 Sam 的逻辑是：The wallet is missing. It must have been found by someone in the village."
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 667.025,
+      "end": 676.265,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块是 percentage joke。Per cent 在英式写法里常常分成两个词；现代日常也常见 percent 或符号 %。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 676.615,
+      "end": 683.035,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里的 50 per cent、25 per cent、100 per cent 不是数学重点，而是笑点。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 683.385,
+      "end": 689.545,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那个人用百分比给 thief 和 honest 打分，好像良心可以变成 progress bar。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 689.894,
+      "end": 699.534,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住今天的原则：passive voice hides the doer, percentage notes reveal the joke, and a clear conscience cannot be bought in installments。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 699.884,
+      "end": 706.684,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进你的生活。想象你在 school gate 附近发现了一个 wallet，但你不知道是谁的。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 707.034,
+      "end": 712.634,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以先用 passive voice 报告物品：This wallet was found near the school gate."
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 712.984,
+      "end": 719.784,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后用 must have been 做一个有把握的推测：It must have been left by a student."
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 720.134,
+      "end": 724.334,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着说明正确做法：I have given it to the school office."
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 724.684,
+      "end": 729.004,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果东西都在里面，可以说：Everything is inside."
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 729.354,
+      "end": 734.194,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后加上今天的核心：I want to have a clear conscience."
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "start": 734.544,
+      "end": 744.184,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这和课文里的 anonymous returner 不一样。你不是偷偷分期还钱，而是 quickly and completely return lost property。"
+        }
+      ]
+    },
+    {
+      "i": 103,
+      "start": 744.534,
+      "end": 758.334,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以今天的生活句可以连起来说：This wallet was found near the school gate. It must have been left by a student. I have given it to the school office. Everything is inside. I want to have a clear conscience."
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "start": 758.683,
+      "end": 766.003,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 105,
+      "start": 766.353,
+      "end": 780.793,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时把 conscience、savings、villager、had been lost、must have been found、was not returned、wrapped up in newspaper、50 per cent、25 per cent 和 100 per cent honest 读顺。"
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "start": 781.143,
+      "end": 792.143,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习 lost-property reporting；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 107,
+      "start": 792.493,
+      "end": 804.493,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心：Return what you find, make things right quickly, and do not turn honesty into a percentage game."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 45
+}

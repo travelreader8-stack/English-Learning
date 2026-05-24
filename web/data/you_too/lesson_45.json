@@ -1,0 +1,53 @@
+{
+  "lesson_id": 45,
+  "title": "A clear conscience",
+  "question": "把今天的“失物归还”和 passive voice 放进校园场景：你在校门口发现一个钱包，交给学校办公室，并说明自己想问心无愧。用 word bank 补完整 5 个空。",
+  "example_answer": "This wallet was found near the school gate. It must have been left by a student. I have given it to the school office. Everything is inside. I want to have a clear conscience.",
+  "word_bank": [
+    "was found",
+    "school gate",
+    "must have been left",
+    "student",
+    "school office",
+    "Everything is inside",
+    "clear conscience",
+    "honest",
+    "lost-and-found",
+    "return it quickly",
+    "passive voice",
+    "not a percentage"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "用被动语态说明钱包被发现的位置：这个钱包是在校门口附近被发现的",
+      "english_template": "This wallet ___ near the school gate.",
+      "expected_phrase": "was found"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "用 must have been 表达有把握的推测：它一定是某个学生落下的",
+      "english_template": "It ___ by a student.",
+      "expected_phrase": "must have been left"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说明正确归还方式：我已经把它交给学校办公室了",
+      "english_template": "I have given it to the ___.",
+      "expected_phrase": "school office"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说明没有只还一部分：所有东西都在里面",
+      "english_template": "___.",
+      "expected_phrase": "Everything is inside"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "用 clear conscience 表达问心无愧：我想问心无愧",
+      "english_template": "I want to have a ___.",
+      "expected_phrase": "clear conscience"
+    }
+  ],
+  "mode": "all_fills"
+}

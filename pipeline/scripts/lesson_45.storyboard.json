@@ -1,0 +1,40 @@
+{
+  "lesson_id": 45,
+  "title": "A clear conscience",
+  "visual_consistency": "A warm educational village mystery illustration. Sam Benton is a friendly local butcher in his early 40s, average build, round face, light skin, short dark brown hair, clean white butcher apron over a muted green shirt and brown trousers. He looks worried, puzzled, then relieved. The same old-fashioned village street, butcher shop, post office, front door, brown leather wallet, newspaper-wrapped parcel, cash, handwritten notes, and playful conscience meter appear across the sequence. The anonymous finder is never clearly identified, shown only as a distant shadow, gloved hand, envelope, or indistinct figure. Child-safe, thoughtful, lightly comic, no frightening crime imagery.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "The same Sam Benton, friendly local butcher in white apron, muted green shirt, and brown trousers, stands worried between his small butcher shop and the village post office. His brown leather wallet is missing while villagers nearby react to the news. Show an old-fashioned small village street where everyone seems to know each other. Leave clean space for two small floating label boxes near the wallet path and Sam's hand, intended labels: 'had been lost' and 'savings'. Warm mystery mood, no clear thief.",
+      "overlay_labels": [
+        "had been lost",
+        "savings"
+      ]
+    },
+    {
+      "frame": 2,
+      "prompt": "The same Sam Benton looks worried in the village street, imagining that the same brown leather wallet must have been found by someone in the village, but no one returns it. Show a distant anonymous shadow or indistinct figure near a lane, with no identifiable villain face. Leave clean space for two small floating label boxes near the shadow and the empty doorway, intended labels: 'must have been found' and 'was not returned'. Quiet anonymous mystery, child-safe.",
+      "overlay_labels": [
+        "must have been found",
+        "was not returned"
+      ]
+    },
+    {
+      "frame": 3,
+      "prompt": "Three months later, the same Sam Benton opens his front door and finds the same brown leather wallet wrapped in newspaper on the doorstep. Half the cash is visible and a small note lies beside it. Sam looks surprised, puzzled, and slightly amused. Leave clean space for two floating label boxes near the parcel and note, intended labels: 'wrapped up in newspaper' and '50 per cent a thief'. Warm doorstep mystery, no visible thief.",
+      "overlay_labels": [
+        "wrapped up in newspaper",
+        "50 per cent a thief"
+      ]
+    },
+    {
+      "frame": 4,
+      "prompt": "The same Sam Benton stands near his front door with returned money, several small envelopes, and handwritten notes, looking relieved but amused. Include a simple playful conscience meter as a visual prop moving from thief to honest, while the anonymous returner remains unseen. Leave clean space for three floating label boxes around the notes and meter, intended labels: '25 per cent a thief', 'all money was paid back', and '100 per cent honest'. Light comic ending, thoughtful not preachy.",
+      "overlay_labels": [
+        "25 per cent a thief",
+        "all money was paid back",
+        "100 per cent honest"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "lesson_id": 45,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“whole village -> savings -> must have been found -> not returned -> wrapped wallet -> 50 per cent -> 25 per cent -> paid back -> 100 per cent honest”的良心分期付款链读顺。被动语态要读清楚，百分比纸条要轻一点、带一点荒唐的幽默感。",
+  "sentences": [
+    {
+      "id": "l45_s1",
+      "text": "The whole village soon learnt that a large sum of money had been lost.",
+      "focus_zh": "The whole village 后轻停；a large sum of money 是一大笔钱；had been lost 是过去完成被动，要读成一个结果。",
+      "start": 454.439,
+      "end": 457.701,
+      "focus_words": [
+        "whole village",
+        "large sum of money",
+        "had been lost"
+      ]
+    },
+    {
+      "id": "l45_s2",
+      "text": "Sam Benton, the local butcher, had lost his wallet while taking his savings to the post office.",
+      "focus_zh": "Sam Benton 和 the local butcher 是同位说明；savings 是存款；to the post office 要自然连读。",
+      "start": 458.051,
+      "end": 463.592,
+      "focus_words": [
+        "Sam Benton",
+        "local butcher",
+        "wallet",
+        "savings",
+        "post office"
+      ]
+    },
+    {
+      "id": "l45_s3",
+      "text": "Sam was sure that the wallet must have been found by one of the villagers, but it was not returned to him.",
+      "focus_zh": "must have been found 是对过去被动事件的高把握推测；but it was not returned 要读出转折和 mystery。",
+      "start": 463.942,
+      "end": 469.309,
+      "focus_words": [
+        "was sure",
+        "must have been found",
+        "villagers",
+        "was not returned"
+      ]
+    },
+    {
+      "id": "l45_s4",
+      "text": "Three months passed, and then one morning, Sam found his wallet outside his front door.",
+      "focus_zh": "Three months passed 后停顿，拉出时间跨度；outside his front door 是钱包突然出现的位置。",
+      "start": 469.658,
+      "end": 474.582,
+      "focus_words": [
+        "Three months passed",
+        "one morning",
+        "outside his front door"
+      ]
+    },
+    {
+      "id": "l45_s5",
+      "text": "It had been wrapped up in newspaper and it contained half the money he had lost, together with a note which said: 'A thief, yes, but only 50 per cent a thief!'",
+      "focus_zh": "had been wrapped up 是被动；half the money 和 together with a note 要分清；纸条部分要读得轻松一点，像荒唐自辩。",
+      "start": 474.932,
+      "end": 484.124,
+      "focus_words": [
+        "had been wrapped up",
+        "newspaper",
+        "half the money",
+        "together with a note",
+        "50 per cent"
+      ]
+    },
+    {
+      "id": "l45_s6",
+      "text": "Two months later, some more money was sent to Sam with another note: 'Only 25 per cent a thief now!'",
+      "focus_zh": "Two months later 是新的时间点；was sent 是被动；25 per cent 的纸条要读出越来越荒唐的百分比幽默。",
+      "start": 484.474,
+      "end": 490.36,
+      "focus_words": [
+        "Two months later",
+        "some more money",
+        "was sent",
+        "25 per cent"
+      ]
+    },
+    {
+      "id": "l45_s7",
+      "text": "In time, all Sam's money was paid back in this way.",
+      "focus_zh": "In time 是 eventually；all Sam's money 要读出全部还清；was paid back 是被动结果。",
+      "start": 490.71,
+      "end": 493.853,
+      "focus_words": [
+        "In time",
+        "all Sam's money",
+        "was paid back",
+        "in this way"
+      ]
+    },
+    {
+      "id": "l45_s8",
+      "text": "The last note said: 'I am 100 per cent honest now!'",
+      "focus_zh": "The last note said 后停顿；100 per cent honest 要读得自豪但有点荒唐，体现结尾笑点。",
+      "start": 494.203,
+      "end": 497.57,
+      "focus_words": [
+        "last note",
+        "100 per cent",
+        "honest"
+      ]
+    }
+  ]
+}
