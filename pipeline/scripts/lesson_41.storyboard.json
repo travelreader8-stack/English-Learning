@@ -1,0 +1,23 @@
+{
+  "lesson_id": 41,
+  "title": "Do you call that a hat?",
+  "visual_consistency": "A warm educational shopping-comedy illustration set in a classic British hat shop. The wife is a dignified adult woman in her thirties with neat shoulder-length dark hair, an oval face, calm confident eyes, a tailored emerald green dress, average build, and expressive but composed posture while trying on dramatic formal hats. The husband is an adult man in his thirties with short dark brown hair, a slim average build, a navy jacket, white shirt, and a slightly questionable colorful tie with clashing stripes; he looks impatient, then embarrassed, but never cruel. The hat shop has mirrors, hat stands, elegant display shelves, warm indoor lighting, and one modern perforated chair with visible round holes. The final hat is tall and lighthouse-inspired, decorative and funny but wearable. Consistent husband and wife across all frames, playful respectful humor, no body-shaming, no gender mockery, no readable text.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "The same dignified wife in an emerald green dress stands in front of a tall mirror in the classic British hat shop, trying on a dramatic formal hat and looking confident. The same husband in a navy jacket and clashing colorful tie stands nearby with an impatient sarcastic expression, as if he has just made a too-direct comment. Hat stands and elegant shelves surround them, warm respectful shopping comedy, no mocking body language, no readable speech bubbles or captions."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same husband in a navy jacket and clashing colorful tie sits impatiently on a modern perforated chair with visible round holes inside the same classic British hat shop. The same wife in the emerald green dress is still in front of the mirror in the background, calmly considering a hat. Show the feeling of a long half-hour wait through his posture and a few hats displayed around the room, playful but not cruel, no readable clocks or text."
+    },
+    {
+      "frame": 3,
+      "prompt": "The same husband in the navy jacket has just realized his careless rule about unnecessary shopping sounded rude; he looks regretful while his clashing colorful tie is clearly visible. The same dignified wife in the emerald green dress calmly points toward or glances at his questionable tie with a clever comeback expression. They remain in the elegant hat shop beside mirrors and hat stands, respectful humorous argument about taste, no readable text."
+    },
+    {
+      "frame": 4,
+      "prompt": "The same husband and wife walk out of the classic British hat shop together. The wife in the emerald green dress wears a tall lighthouse-inspired formal hat, decorative, striped, and gently glowing in style but still wearable as fashion; she looks calmly victorious and dignified. The husband in the navy jacket and clashing tie looks surprised and slightly defeated. Shop door, hat displays, and warm street light visible, joyful respectful punchline, no readable signs or captions."
+    }
+  ]
+}

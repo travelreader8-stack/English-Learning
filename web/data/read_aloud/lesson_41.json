@@ -1,0 +1,110 @@
+{
+  "lesson_id": 41,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“hat shop -> mirror -> rude question -> waiting chair -> mustn't -> regretted -> needn't have said -> terrible tie -> too many ties and hats -> lighthouse hat”的帽店争论链读顺。注意 title 要有一点讽刺但不要喊，needn't、mustn't、needn't have said 要读清楚，妻子的 comeback 要自信平稳。",
+  "sentences": [
+    {
+      "id": "l41_s1",
+      "text": "'Do you call that a hat?' I said to my wife.",
+      "focus_zh": "这句不是普通提问，而是 sarcastic question。Do you call that a hat 要读出轻微讽刺，但不要变成大喊。",
+      "start": 422.509,
+      "end": 426.853,
+      "focus_words": [
+        "Do you call that",
+        "a hat",
+        "my wife"
+      ]
+    },
+    {
+      "id": "l41_s2",
+      "text": "'You needn't be so rude about it,' my wife answered as she looked at herself in the mirror.",
+      "focus_zh": "needn't 是 don't need to；rude 是不礼貌。后半句 as she looked at herself in the mirror 要读成她一边照镜子一边回答。",
+      "start": 427.203,
+      "end": 432.267,
+      "focus_words": [
+        "needn't",
+        "so rude",
+        "looked at herself",
+        "in the mirror"
+      ]
+    },
+    {
+      "id": "l41_s3",
+      "text": "I sat down on one of those modern chairs with holes in it and waited.",
+      "focus_zh": "modern chairs with holes in it 是有洞的新式椅子；sat down 和 waited 要读出坐下等人的动作。",
+      "start": 432.617,
+      "end": 436.865,
+      "focus_words": [
+        "sat down",
+        "modern chairs",
+        "holes",
+        "waited"
+      ]
+    },
+    {
+      "id": "l41_s4",
+      "text": "We had been in the hat shop for half an hour and my wife was still in front of the mirror.",
+      "focus_zh": "had been in the hat shop 表示已经待了一段时间；half an hour 是三十分钟；still in front of the mirror 读出等待已经很久。",
+      "start": 437.214,
+      "end": 442.23,
+      "focus_words": [
+        "had been",
+        "hat shop",
+        "half an hour",
+        "still in front of the mirror"
+      ]
+    },
+    {
+      "id": "l41_s5",
+      "text": "'We mustn't buy things we don't need,' I remarked suddenly. I regretted saying it almost at once.",
+      "focus_zh": "mustn't 比 needn't 更强，像规则或警告；remarked suddenly 后要让语气突然一点；regretted saying it almost at once 读出马上后悔。",
+      "start": 442.58,
+      "end": 449.986,
+      "focus_words": [
+        "mustn't buy",
+        "things we don't need",
+        "remarked suddenly",
+        "regretted saying it"
+      ]
+    },
+    {
+      "id": "l41_s6",
+      "text": "'You needn't have said that,' my wife answered. 'I needn't remind you of that terrible tie you bought yesterday.'",
+      "focus_zh": "needn't have said 表示话已经说出口，但本来没必要说；remind you of that terrible tie 是妻子的反击，语气要稳。",
+      "start": 450.336,
+      "end": 457.934,
+      "focus_words": [
+        "needn't have said",
+        "my wife answered",
+        "needn't remind you",
+        "terrible tie"
+      ]
+    },
+    {
+      "id": "l41_s7",
+      "text": "'I find it beautiful,' I said. 'A man can never have too many ties.' 'And a woman can't have too many hats,' she answered.",
+      "focus_zh": "I find it beautiful 是我觉得它好看；can never have too many 是夸张说法。最后 hats 和 ties 的对称要读出 comeback 的节奏。",
+      "start": 458.284,
+      "end": 468.536,
+      "focus_words": [
+        "find it beautiful",
+        "can never have too many",
+        "ties",
+        "hats"
+      ]
+    },
+    {
+      "id": "l41_s8",
+      "text": "Ten minutes later we walked out of the shop together. My wife was wearing a hat that looked like a lighthouse!",
+      "focus_zh": "Ten minutes later 是结尾时间跳转；looked like a lighthouse 是画面笑点。lighthouse 要读清楚，像海边给船指路的灯塔。",
+      "start": 468.885,
+      "end": 476.603,
+      "focus_words": [
+        "Ten minutes later",
+        "walked out",
+        "wearing a hat",
+        "looked like a lighthouse"
+      ]
+    }
+  ]
+}

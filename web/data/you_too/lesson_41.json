@@ -1,0 +1,47 @@
+{
+  "lesson_id": 41,
+  "title": "Do you call that a hat?",
+  "question": "把今天课文里的“审美不同 -> 避免直接讽刺 -> 用 needn't 软化 -> 用 mustn't 说规则 -> 用 needn't have said 道歉”放进购物场景。用 word bank 补完整 4 个空。",
+  "example_answer": "It is not really my style, but you can try it on. You needn't worry about my opinion. We mustn't spend more than our budget. Sorry, I needn't have said it so directly.",
+  "word_bank": [
+    "not really my style",
+    "you can try it on",
+    "You needn't worry",
+    "about my opinion",
+    "We mustn't spend",
+    "more than our budget",
+    "I needn't have said",
+    "it so directly",
+    "polite disagreement",
+    "rude",
+    "taste",
+    "shopping"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "礼貌表达不喜欢：说这不是我的风格，但可以试试",
+      "english_template": "It is ___, but ___.",
+      "expected_phrase": "not really my style"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "用 needn't 安慰对方：不用太担心我的意见",
+      "english_template": "___ about my opinion.",
+      "expected_phrase": "You needn't worry"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "用 mustn't 说清楚规则：不能超过预算",
+      "english_template": "___ more than our budget.",
+      "expected_phrase": "We mustn't spend"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "刚才太直接后道歉：本来没必要说得那么直",
+      "english_template": "Sorry. ___ it so directly.",
+      "expected_phrase": "I needn't have said"
+    }
+  ],
+  "mode": "all_fills"
+}
