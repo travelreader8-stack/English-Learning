@@ -1,0 +1,110 @@
+{
+  "lesson_id": 40,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再把“dinner party -> hostess -> 坐在 Mrs. Rumbold 旁边 -> eyes fixed on her plate -> make conversation -> 三个 Will you be doing...? 问题 -> in despair -> eat more and talk less”的餐桌寒暄链读顺。注意礼貌问题要轻轻上扬，Mrs. Rumbold 的短回答要短而平，最后一句要 dry and pointed。",
+  "sentences": [
+    {
+      "id": "l40_s1",
+      "text": "Last week at a dinner party, the hostess asked me to sit next to Mrs. Rumbold.",
+      "focus_zh": "dinner party 是正式聚餐；hostess 是女主人。先在 dinner party 后小停，再把 asked me to sit next to 读成一个安排座位的动作。",
+      "start": 439.215,
+      "end": 444.279,
+      "focus_words": [
+        "Last week",
+        "a dinner party",
+        "the hostess",
+        "sit next to Mrs. Rumbold"
+      ]
+    },
+    {
+      "id": "l40_s2",
+      "text": "Mrs. Rumbold was a large, unsmiling lady in a tight black dress.",
+      "focus_zh": "unsmiling 是表情严肃、不微笑；tight black dress 是她的服装描写，读得客观尊重，不要夸张。",
+      "start": 444.629,
+      "end": 449.333,
+      "focus_words": [
+        "Mrs. Rumbold",
+        "large",
+        "unsmiling lady",
+        "tight black dress"
+      ]
+    },
+    {
+      "id": "l40_s3",
+      "text": "She did not even look up when I took my seat beside her.",
+      "focus_zh": "not even look up 要读出她完全没有接话的信号；took my seat beside her 是在她旁边坐下。",
+      "start": 449.683,
+      "end": 453.403,
+      "focus_words": [
+        "did not even look up",
+        "took my seat",
+        "beside her"
+      ]
+    },
+    {
+      "id": "l40_s4",
+      "text": "Her eyes were fixed on her plate and in a short time, she was busy eating.",
+      "focus_zh": "fixed on her plate 表示眼睛一直盯着盘子；in a short time 是 soon，后半句读出她专心吃饭。",
+      "start": 453.753,
+      "end": 458.409,
+      "focus_words": [
+        "eyes were fixed",
+        "on her plate",
+        "in a short time",
+        "busy eating"
+      ]
+    },
+    {
+      "id": "l40_s5",
+      "text": "I tried to make conversation. 'A new play is coming to \"The Globe\" soon,' I said. 'Will you be seeing it?'",
+      "focus_zh": "make conversation 是礼貌找话题；The Globe 是剧场名；Will you be seeing it? 要用轻柔上扬的寒暄语气。",
+      "start": 458.759,
+      "end": 467.714,
+      "focus_words": [
+        "make conversation",
+        "a new play",
+        "The Globe",
+        "Will you be seeing it"
+      ]
+    },
+    {
+      "id": "l40_s6",
+      "text": "'Will you be spending your holidays abroad this year?' I asked.",
+      "focus_zh": "Will you be spending...? 是礼貌询问未来安排；abroad 是在国外，your holidays abroad 要连顺。",
+      "start": 470.55,
+      "end": 475.662,
+      "focus_words": [
+        "Will you be spending",
+        "your holidays",
+        "abroad",
+        "this year"
+      ]
+    },
+    {
+      "id": "l40_s7",
+      "text": "'Will you be staying in England?' I asked.",
+      "focus_zh": "第三个问题仍然用 Will you be doing...?；staying in England 是留在英国，读出礼貌但已经有点尴尬的节奏。",
+      "start": 478.498,
+      "end": 482.578,
+      "focus_words": [
+        "Will you be staying",
+        "in England",
+        "I asked"
+      ]
+    },
+    {
+      "id": "l40_s8",
+      "text": "In despair, I asked her whether she was enjoying her dinner. 'Young man,' she answered, 'if you ate more and talked less, we would both enjoy our dinner!'",
+      "focus_zh": "In despair 是社交上没招了；whether she was enjoying 是间接问句；最后 eat more and talked less 要读出干脆、尖一点但不发火的收尾。",
+      "start": 485.414,
+      "end": 495.124,
+      "focus_words": [
+        "In despair",
+        "whether she was enjoying",
+        "Young man",
+        "ate more and talked less",
+        "we would both enjoy"
+      ]
+    }
+  ]
+}

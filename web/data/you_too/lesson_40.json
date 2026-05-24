@@ -1,0 +1,47 @@
+{
+  "lesson_id": 40,
+  "title": "Food and talk",
+  "question": "把今天课文里的“正式餐桌 -> 礼貌打开话题 -> 用 Will you be doing...? 问未来安排 -> 看懂短回答 -> 礼貌结束”放进学校晚餐场景。用 word bank 补完整 4 个空。",
+  "example_answer": "Hi, I'm Li Ming. Will you be joining the activity tomorrow? Will you be watching the school show this weekend? I see. Enjoy your dinner.",
+  "word_bank": [
+    "I'm Li Ming",
+    "Will you be joining",
+    "the activity tomorrow",
+    "Will you be watching",
+    "the school show this weekend",
+    "I see",
+    "Enjoy your dinner",
+    "make conversation",
+    "short answers",
+    "polite small talk",
+    "future arrangement",
+    "stop politely"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "礼貌开场：说明你是谁",
+      "english_template": "Hi, ___.",
+      "expected_phrase": "I'm Li Ming"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "用 Will you be doing...? 问明天是否参加活动",
+      "english_template": "___ the activity tomorrow?",
+      "expected_phrase": "Will you be joining"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "换一个轻话题：问周末是否会看学校演出",
+      "english_template": "___ the school show this weekend?",
+      "expected_phrase": "Will you be watching"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "看懂对方短回答后，礼貌结束",
+      "english_template": "I see. ___.",
+      "expected_phrase": "Enjoy your dinner"
+    }
+  ],
+  "mode": "all_fills"
+}

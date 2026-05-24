@@ -1,0 +1,23 @@
+{
+  "lesson_id": 40,
+  "title": "Food and talk",
+  "visual_consistency": "A warm educational dinner-party comedy illustration. The narrator is a polite young adult man in his late twenties with short dark brown hair, an oval face, a neat navy jacket, white shirt, slim average build, and a slightly nervous but friendly expression. Mrs. Rumbold is a dignified adult woman in a simple black dress, serious and reserved, with neat dark hair, a calm unsmiling face, average adult build, and her attention focused on her dinner plate; she is never mocked or exaggerated. A friendly hostess is an adult woman in a soft teal dress who arranges seating at a formal dinner table. Warm indoor lighting, plates, glasses, cutlery, and napkins visible, elegant but not fancy, lightly comic social awkwardness, consistent narrator and Mrs. Rumbold across all frames, no body-shaming, no cruel caricature, no readable text.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "The same friendly hostess in a soft teal dress politely asks the same young adult narrator in a neat navy jacket to sit beside the same dignified Mrs. Rumbold in a simple black dress at a formal dinner-party table. The narrator looks ready to chat but slightly nervous, while Mrs. Rumbold sits reservedly beside the empty place. Show arranged seating, warm table setting, invited guests in the background, respectful social comedy, no readable place cards or captions."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same young adult narrator has taken his seat beside the same dignified Mrs. Rumbold. Mrs. Rumbold does not look up; her eyes are calmly fixed on her plate and she is busy eating. The narrator turns slightly toward her with polite uncertainty. Show plates, cutlery, warm dinner lighting, quiet awkwardness, serious reserved mood, no mockery of her body or clothing, no exaggerated eating, no readable text."
+    },
+    {
+      "frame": 3,
+      "prompt": "The same young adult narrator tries to make polite conversation with the same dignified Mrs. Rumbold at the dinner table. Around him are three small tasteful icon bubbles with no letters: a theatre curtain, a travel suitcase with a plane silhouette, and an English countryside window. Mrs. Rumbold gives very short reserved responses through body language, still focused on her plate. The mood is awkward but polite, not mean, no readable speech bubbles or captions."
+    },
+    {
+      "frame": 4,
+      "prompt": "The same young adult narrator looks surprised after asking whether Mrs. Rumbold is enjoying her dinner, while the same dignified Mrs. Rumbold finally looks toward him with a calm dry expression, one hand near her plate as if making a pointed but controlled final remark. The dinner table remains warm and elegant, the punchline is eat more and talk less, shown through his surprised face and her composed boundary, respectful humor, no readable text."
+    }
+  ]
+}

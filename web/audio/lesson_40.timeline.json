@@ -1,0 +1,2106 @@
+{
+  "total_duration": 798.679,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 5.576,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的题目是"
+        },
+        {
+          "lang": "en",
+          "text": "Food and talk"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是“进餐与交谈”。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 5.926,
+      "end": 15.606,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课不是 food lesson，也不是评价谁吃饭好不好看。它是一场 dinner-table small talk comedy，餐桌寒暄喜剧。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 15.956,
+      "end": 25.303,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里的"
+        },
+        {
+          "lang": "en",
+          "text": "dinner party"
+        },
+        {
+          "lang": "zh",
+          "text": "不是普通晚饭，而是比较正式的 invited meal，有客人、有座位、有 hostess。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 25.653,
+      "end": 34.325,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "hostess"
+        },
+        {
+          "lang": "zh",
+          "text": "是女主人，the woman who invites and looks after guests。她可能会安排客人坐在哪里。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 34.675,
+      "end": 46.643,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以 narrator 被安排坐在 Mrs. Rumbold 旁边。他不认识她，只好做一件很英语的事："
+        },
+        {
+          "lang": "en",
+          "text": "make conversation"
+        },
+        {
+          "lang": "zh",
+          "text": "，礼貌地找话题。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 46.993,
+      "end": 55.721,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Make conversation"
+        },
+        {
+          "lang": "zh",
+          "text": "不是审问，也不是考试，而是递一个轻一点的话题，看对方愿不愿意接。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 56.071,
+      "end": 64.391,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是 Mrs. Rumbold 很 serious and reserved。她没有抬头，眼睛一直看着盘子，很快就开始吃饭。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 64.74,
+      "end": 77.604,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Narrator 连续递出三个 polite future questions："
+        },
+        {
+          "lang": "en",
+          "text": "Will you be seeing it?"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "Will you be spending your holidays abroad?"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "Will you be staying in England?"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 77.954,
+      "end": 81.65,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "每一次，她都只回答："
+        },
+        {
+          "lang": "en",
+          "text": "No."
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 82.0,
+      "end": 91.28,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后他 desperate 了，问她饭吃得开不开心。她终于说了一整句：如果你多吃点、少说点，我们两个都会更享受这顿饭。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 91.63,
+      "end": 108.39,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "整课记忆链是：dinner party -> hostess -> sit next to Mrs. Rumbold -> eyes fixed on plate -> busy eating -> make conversation -> The Globe -> holidays abroad -> staying in England -> in despair -> ate more and talked less。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 108.74,
+      "end": 118.428,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一幅画，是 seat arranged。课文一开始说："
+        },
+        {
+          "lang": "en",
+          "text": "Last week at a dinner party, the hostess asked me to sit next to Mrs. Rumbold."
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 118.777,
+      "end": 124.945,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "dinner party"
+        },
+        {
+          "lang": "zh",
+          "text": "是 formal meal with guests，不是随便在家吃一顿。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 125.295,
+      "end": 133.287,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "hostess"
+        },
+        {
+          "lang": "zh",
+          "text": "是女主人，她安排座位，所以 narrator 被请去坐在 Mrs. Rumbold 旁边。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 133.637,
+      "end": 141.877,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个开头很重要：他不是主动去打扰陌生人，而是在正式聚餐里被安排坐到一个不熟的人旁边。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 142.227,
+      "end": 153.627,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这种场景今天也会发生：school dinner, camp meal, parents' friends' gathering, or host-family dinner。你坐在不熟的人旁边，就会需要 polite small talk。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 153.977,
+      "end": 163.193,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二幅画，是 eyes on the plate。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Mrs. Rumbold was a large, unsmiling lady in a tight black dress."
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 163.543,
+      "end": 177.662,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "我们要尊重地理解这个描写。"
+        },
+        {
+          "lang": "en",
+          "text": "unsmiling"
+        },
+        {
+          "lang": "zh",
+          "text": "是 not smiling，表情严肃；"
+        },
+        {
+          "lang": "en",
+          "text": "tight black dress"
+        },
+        {
+          "lang": "zh",
+          "text": "是她穿着贴身黑裙，不是拿外貌开玩笑。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 178.012,
+      "end": 183.38,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着课文说："
+        },
+        {
+          "lang": "en",
+          "text": "She did not even look up when I took my seat beside her."
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 183.73,
+      "end": 189.586,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "look up"
+        },
+        {
+          "lang": "zh",
+          "text": "是抬头看；"
+        },
+        {
+          "lang": "en",
+          "text": "beside"
+        },
+        {
+          "lang": "zh",
+          "text": "就是 next to。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 189.936,
+      "end": 197.799,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她的注意力在哪里？课文很清楚："
+        },
+        {
+          "lang": "en",
+          "text": "Her eyes were fixed on her plate and in a short time, she was busy eating."
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 198.149,
+      "end": 207.789,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "fixed on"
+        },
+        {
+          "lang": "zh",
+          "text": "表示一直盯着；"
+        },
+        {
+          "lang": "en",
+          "text": "in a short time"
+        },
+        {
+          "lang": "zh",
+          "text": "是 soon。不久，她就忙着吃起来了。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 208.139,
+      "end": 215.179,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这幅画的重点不是“她不好”，而是 she is not inviting conversation。她可能只想安静吃饭。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 215.529,
+      "end": 223.265,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三幅画，是 polite questions, short answers。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "I tried to make conversation."
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 223.615,
+      "end": 230.402,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Narrator 先找了一个安全话题：theatre。他说："
+        },
+        {
+          "lang": "en",
+          "text": "A new play is coming to \"The Globe\" soon."
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 230.752,
+      "end": 241.552,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "play"
+        },
+        {
+          "lang": "zh",
+          "text": "这里是 theatre performance，舞台剧，不是 play a game。"
+        },
+        {
+          "lang": "en",
+          "text": "The Globe"
+        },
+        {
+          "lang": "zh",
+          "text": "是剧场名字。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 241.902,
+      "end": 256.39,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "小提醒："
+        },
+        {
+          "lang": "en",
+          "text": "globe"
+        },
+        {
+          "lang": "zh",
+          "text": "小写时可以是 earth, world, or a round model of the earth；但"
+        },
+        {
+          "lang": "en",
+          "text": "The Globe"
+        },
+        {
+          "lang": "zh",
+          "text": "大写时，在这课里就是 proper name，剧场名。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 256.74,
+      "end": 264.931,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后他问："
+        },
+        {
+          "lang": "en",
+          "text": "Will you be seeing it?"
+        },
+        {
+          "lang": "zh",
+          "text": "这里不是问眼睛会不会看见，而是 will you go to see the play?"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 265.281,
+      "end": 267.817,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她回答："
+        },
+        {
+          "lang": "en",
+          "text": "No."
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 268.167,
+      "end": 277.755,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他又换 travel 话题："
+        },
+        {
+          "lang": "en",
+          "text": "Will you be spending your holidays abroad this year?"
+        },
+        {
+          "lang": "en",
+          "text": "abroad"
+        },
+        {
+          "lang": "zh",
+          "text": "是 in another country，在国外。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 278.105,
+      "end": 280.561,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她还是："
+        },
+        {
+          "lang": "en",
+          "text": "No."
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 280.91,
+      "end": 285.55,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他再换一个更近的话题："
+        },
+        {
+          "lang": "en",
+          "text": "Will you be staying in England?"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 285.9,
+      "end": 288.356,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她还是："
+        },
+        {
+          "lang": "en",
+          "text": "No."
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 288.706,
+      "end": 297.186,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你能听见这个尴尬节奏：polite topic -> No；new polite topic -> No；one more topic -> No。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 297.536,
+      "end": 305.968,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四幅画，是 final line。课文说："
+        },
+        {
+          "lang": "en",
+          "text": "In despair, I asked her whether she was enjoying her dinner."
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 306.318,
+      "end": 314.494,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "despair"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里不是悲剧式绝望，而是 social despair：他已经没有话题可递了。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 314.844,
+      "end": 322.115,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "whether she was enjoying her dinner"
+        },
+        {
+          "lang": "zh",
+          "text": "是 indirect question，意思是她饭吃得是否愉快。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 322.465,
+      "end": 330.713,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后 Mrs. Rumbold 终于说了一整句："
+        },
+        {
+          "lang": "en",
+          "text": "Young man, if you ate more and talked less, we would both enjoy our dinner!"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 331.063,
+      "end": 338.223,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句话先听意思，不要先上重语法：多吃点，少说点，我们两个都会开心。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 338.573,
+      "end": 345.173,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "反转就在这里：he thought conversation would make dinner better；she thought silence would make dinner better。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 345.523,
+      "end": 353.203,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这课不是教你一直聊，而是教你：politeness includes speaking, and also noticing when to stop。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 353.553,
+      "end": 356.073,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课最容易误会的地方是什么？"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 356.423,
+      "end": 359.628,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "以为 Mrs. Rumbold 是被拿来嘲笑的人？"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 359.978,
+      "end": 369.138,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，所以我们要守住 tone。她是 serious, reserved, focused on eating，不是 caricature，不是外貌笑话。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 369.488,
+      "end": 372.185,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那 narrator 做错了吗？"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 372.535,
+      "end": 381.783,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他一开始没有错。他在 dinner party 被安排坐在陌生人旁边，试着"
+        },
+        {
+          "lang": "en",
+          "text": "make conversation"
+        },
+        {
+          "lang": "zh",
+          "text": "，这是礼貌。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 382.133,
+      "end": 385.094,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是她一直回答"
+        },
+        {
+          "lang": "en",
+          "text": "No"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 385.444,
+      "end": 393.244,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，这就是社交信号。Short answers often mean the topic is not working, or the person does not want to continue."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 393.594,
+      "end": 399.894,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Will you be seeing it?"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么不直接说"
+        },
+        {
+          "lang": "en",
+          "text": "Will you see it?"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 400.244,
+      "end": 411.268,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这就是今天的 language point。加上"
+        },
+        {
+          "lang": "en",
+          "text": "be doing"
+        },
+        {
+          "lang": "zh",
+          "text": "，问题听起来像在问“这会不会是你的安排之一”，而不是硬问“你到底做不做”。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 411.617,
+      "end": 417.3,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "Will you be doing...?"
+        },
+        {
+          "lang": "zh",
+          "text": "比较像 gentle small-talk question？"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 417.65,
+      "end": 425.03,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Exactly. It is useful when you want to ask about future plans softly, especially with someone you do not know well."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 425.38,
+      "end": 429.435,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那最后她说 eat more and talk less，是不是很 rude？"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 429.785,
+      "end": 438.865,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "有一点 sharp，所以它才是 punchline。但我们也要看见她的边界：she did not want more talk at dinner."
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 439.215,
+      "end": 444.279,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Last week at a dinner party, the hostess asked me to sit next to Mrs. Rumbold."
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 444.629,
+      "end": 449.333,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Mrs. Rumbold was a large, unsmiling lady in a tight black dress."
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 449.683,
+      "end": 453.403,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She did not even look up when I took my seat beside her."
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 453.753,
+      "end": 458.409,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Her eyes were fixed on her plate and in a short time, she was busy eating."
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 458.759,
+      "end": 461.327,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I tried to make conversation."
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 461.677,
+      "end": 465.181,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'A new play is coming to \"The Globe\" soon,' I said."
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 465.53,
+      "end": 467.714,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Will you be seeing it?'"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 468.064,
+      "end": 470.2,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'No,' she answered."
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 470.55,
+      "end": 475.662,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Will you be spending your holidays abroad this year?' I asked."
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 476.012,
+      "end": 478.148,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'No,' she answered."
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 478.498,
+      "end": 482.578,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Will you be staying in England?' I asked."
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 482.928,
+      "end": 485.064,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'No,' she answered."
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 485.414,
+      "end": 489.494,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In despair, I asked her whether she was enjoying her dinner."
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 489.844,
+      "end": 495.124,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Young man,' she answered, 'if you ate more and talked less, we would both enjoy our dinner!'"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 495.473,
+      "end": 498.185,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "hostess"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "hostess"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 498.535,
+      "end": 500.191,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "hostess"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "hostess"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 500.541,
+      "end": 507.773,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "hostess"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "hostess"
+        },
+        {
+          "lang": "zh",
+          "text": "是 the woman who invites and looks after guests at a meal or event，女主人。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 508.123,
+      "end": 512.735,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "hostess"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "the hostess asked me to sit next to Mrs. Rumbold"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 513.085,
+      "end": 521.645,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "hostess"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这说明 narrator 的座位不是随便坐的，是 hostess 安排的。正式聚餐里，座位安排会把故事推到陌生人寒暄。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 521.995,
+      "end": 528.258,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "hostess"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "也顺手记住"
+        },
+        {
+          "lang": "en",
+          "text": "sit next to"
+        },
+        {
+          "lang": "zh",
+          "text": "，就是 sit beside，坐在旁边。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 528.608,
+      "end": 532.136,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "make"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词组："
+        },
+        {
+          "lang": "en",
+          "text": "make conversation"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 532.486,
+      "end": 534.622,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "make"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "make conversation"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 534.972,
+      "end": 543.26,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "make"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Make conversation"
+        },
+        {
+          "lang": "zh",
+          "text": "是 make light, polite talk，找一点轻松礼貌的话题，尤其是和不太熟的人。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 543.61,
+      "end": 547.046,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "make"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "I tried to make conversation."
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 547.396,
+      "end": 559.476,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "make"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它不是 serious interview，也不是连续追问。更像把一个话题递出去：play, holiday, travel, school event, sports, shared activity。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 559.825,
+      "end": 567.705,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "make"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果对方只给 very short answers，你就要判断：maybe this topic is not working, or maybe this person wants quiet."
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 568.055,
+      "end": 570.951,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "despair"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "despair"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 571.301,
+      "end": 572.981,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "despair"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "despair"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 573.331,
+      "end": 580.507,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "despair"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "despair"
+        },
+        {
+          "lang": "zh",
+          "text": "是 the feeling that nothing is working and you are almost giving up，觉得没办法了。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 580.857,
+      "end": 585.829,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "despair"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "In despair, I asked her whether she was enjoying her dinner."
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 586.178,
+      "end": 596.754,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "despair"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里不是 life tragedy，而是 social despair。三个话题都只得到"
+        },
+        {
+          "lang": "en",
+          "text": "No"
+        },
+        {
+          "lang": "zh",
+          "text": "，narrator 实在不知道还能问什么。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 597.104,
+      "end": 604.1,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "despair"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "despair"
+        },
+        {
+          "lang": "zh",
+          "text": "帮我们听见他的尴尬，也帮最后一句 punchline 更响。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 604.45,
+      "end": 614.47,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的 grammar 是 future continuous in polite questions，也就是"
+        },
+        {
+          "lang": "en",
+          "text": "will be doing"
+        },
+        {
+          "lang": "zh",
+          "text": "用来温和地问未来安排。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 614.82,
+      "end": 621.171,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "直接一点的问法是："
+        },
+        {
+          "lang": "en",
+          "text": "Will you see it?"
+        },
+        {
+          "lang": "zh",
+          "text": "这像是在问“你会不会去看？”"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 621.521,
+      "end": 628.393,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "更柔和的寒暄是："
+        },
+        {
+          "lang": "en",
+          "text": "Will you be seeing it?"
+        },
+        {
+          "lang": "zh",
+          "text": "感觉像“这会不会在你的计划里？”"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 628.743,
+      "end": 633.391,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "直接一点是："
+        },
+        {
+          "lang": "en",
+          "text": "Will you spend your holidays abroad?"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 633.741,
+      "end": 638.749,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "柔和一点是："
+        },
+        {
+          "lang": "en",
+          "text": "Will you be spending your holidays abroad this year?"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 639.099,
+      "end": 643.099,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "直接一点是："
+        },
+        {
+          "lang": "en",
+          "text": "Will you stay in England?"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 643.448,
+      "end": 647.448,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "柔和一点是："
+        },
+        {
+          "lang": "en",
+          "text": "Will you be staying in England?"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 647.798,
+      "end": 656.042,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个"
+        },
+        {
+          "lang": "en",
+          "text": "be doing"
+        },
+        {
+          "lang": "zh",
+          "text": "让问题不那么像逼对方立刻决定，而是像轻轻询问 a future arrangement。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 656.392,
+      "end": 666.608,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但语法再 polite，也不能保证对方想聊。Mrs. Rumbold 的三个"
+        },
+        {
+          "lang": "en",
+          "text": "No"
+        },
+        {
+          "lang": "zh",
+          "text": "告诉 narrator：topic not accepted。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 666.958,
+      "end": 673.694,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后的 conditional 也先听意思："
+        },
+        {
+          "lang": "en",
+          "text": "If you ate more and talked less, we would both enjoy our dinner."
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 674.043,
+      "end": 680.883,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这不是今天的重点语法课，而是 punchline：Please stop talking and let us eat."
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 681.233,
+      "end": 693.481,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以今天的板书可以记成：small talk question ="
+        },
+        {
+          "lang": "en",
+          "text": "Will you be doing...?"
+        },
+        {
+          "lang": "zh",
+          "text": "；social signal = short answer；polite ending = know when to stop."
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 693.831,
+      "end": 702.111,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进你的生活。想象你在 school dinner or camp meal，坐在一个不太熟的同学旁边。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 702.461,
+      "end": 712.061,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你的目标不是一直讲话，而是 open politely, try one or two light topics, and stop politely if the person gives very short answers。"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 712.411,
+      "end": 715.907,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以这样开头："
+        },
+        {
+          "lang": "en",
+          "text": "Hi, I'm Li Ming."
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 716.257,
+      "end": 721.056,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个轻话题："
+        },
+        {
+          "lang": "en",
+          "text": "Will you be joining the activity tomorrow?"
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "start": 721.406,
+      "end": 726.294,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个轻话题："
+        },
+        {
+          "lang": "en",
+          "text": "Will you be watching the school show this weekend?"
+        }
+      ]
+    },
+    {
+      "i": 103,
+      "start": 726.644,
+      "end": 730.764,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果对方回答很短，你可以换一次话题，但不要强推。"
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "start": 731.114,
+      "end": 737.97,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果对方还是不想聊，可以礼貌结束："
+        },
+        {
+          "lang": "en",
+          "text": "I see. Enjoy your dinner."
+        }
+      ]
+    },
+    {
+      "i": 105,
+      "start": 738.32,
+      "end": 745.56,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这道练习要练的是 polite small talk plus social boundary。会开口是礼貌，会停下来也是礼貌。"
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "start": 745.91,
+      "end": 774.121,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈，把"
+        },
+        {
+          "lang": "en",
+          "text": "dinner party"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "hostess"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "make conversation"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "The Globe"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "Will you be seeing it?"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "Will you be spending your holidays abroad?"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "Will you be staying in England?"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "In despair"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺。"
+        }
+      ]
+    },
+    {
+      "i": 107,
+      "start": 774.471,
+      "end": 798.679,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习用"
+        },
+        {
+          "lang": "en",
+          "text": "Will you be doing...?"
+        },
+        {
+          "lang": "zh",
+          "text": "礼貌打开轻话题；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心：He thought talk would help dinner. She thought less talk would help dinner."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 40
+}
