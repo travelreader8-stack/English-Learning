@@ -1,0 +1,23 @@
+{
+  "lesson_id": 48,
+  "title": "Did you want to tell me something?",
+  "visual_consistency": "A warm educational dental-office comedy illustration without any readable text, letters, clinic signs, charts, speech bubbles, captions, UI panels, empty boxes, blank label spaces, or fake writing. The recurring adult patient is in his early 30s, light skin, short neat black hair, oval face, average build, wearing a sky-blue sweater under a soft gray cardigan and dark trousers. He sits in the same dental chair with cotton wool in his mouth, expressive worried eyes, gentle hand gestures, and a comic but safe mood. The recurring friendly dentist is in her late 40s, light skin, short warm brown hair, round face, average build, wearing a clean white dental coat over a teal shirt, professional and chatty rather than malicious. The setting is the same clean bright dental practice room with a reclined chair, soft overhead lamp, simple non-threatening dental equipment in the background, no blood, no extracted tooth close-ups, no frightening tools, and no readable text anywhere.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "In the same clean bright dental practice room, the recurring adult patient in a sky-blue sweater and gray cardigan sits reclined in the dental chair with cotton wool in his mouth, trying to speak with wide expressive eyes and one raised hand. The recurring friendly dentist in a white coat over a teal shirt stands nearby, calm and professional after treatment. Keep the scene safe, comic, and non-scary, with simple background equipment and soft lighting. No blood, no extracted tooth close-ups, no frightening instruments, no readable text, no letters, no clinic signs, no charts, no labels, no speech bubbles, no captions, no UI panels, no empty boxes, and no blank label spaces."
+    },
+    {
+      "frame": 2,
+      "prompt": "In the same dental practice room, the recurring friendly dentist in the white coat chats warmly beside the dental chair, using relaxed open-hand gestures. The recurring adult patient with cotton wool in his mouth can only nod and make a small helpless gesture, his eyes showing that he cannot answer clearly. Show the mismatch between the relaxed dentist and the silent patient in a light educational comedy style. No blood, no extracted tooth close-ups, no frightening instruments, no readable text, no letters, no clinic signs, no charts, no labels, no speech bubbles, no captions, no UI panels, no empty boxes, and no blank label spaces."
+    },
+    {
+      "frame": 3,
+      "prompt": "In the same dental practice room, the recurring adult patient still sits in the dental chair with cotton wool in his mouth, suddenly looking worried as one hand gently touches his cheek and his eyes widen, implying he is internally checking where the tooth had been without showing inside the mouth. The recurring friendly dentist remains nearby, unaware and still calm. The mood is double-track comedy: outside calm, inside alarm. No blood, no extracted tooth close-ups, no open-mouth close-up, no frightening instruments, no readable text, no letters, no clinic signs, no charts, no labels, no speech bubbles, no captions, no UI panels, no empty boxes, and no blank label spaces."
+    },
+    {
+      "frame": 4,
+      "prompt": "In the same dental practice room, the same recurring female dentist from the earlier frames, late 40s with short warm brown hair, round face, white dental coat, and teal shirt, has just removed the cotton wool safely. The same recurring adult male patient in the sky-blue sweater and gray cardigan can finally speak, pointing gently toward his cheek with surprised urgent eyes. The female dentist reacts with a mild startled expression, professional and non-threatening. The image suggests the comic wrong-tooth reveal through expressions only; the lesson UI will provide the words outside the image. No blood, no extracted tooth close-ups, no frightening instruments, no readable text, no letters, no clinic signs, no charts, no labels, no speech bubbles, no captions, no UI panels, no empty boxes, and no blank label spaces."
+    }
+  ]
+}

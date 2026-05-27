@@ -1,0 +1,2592 @@
+{
+  "total_duration": 866.833,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 10.28,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天这课先不要想成牙科恐怖故事。它其实是一个很尴尬的误会笑话：牙医一直在聊天，病人却完全说不了话。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 10.63,
+      "end": 21.838,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "想象你刚刚拔完牙，嘴里塞着"
+        },
+        {
+          "lang": "en",
+          "text": "cotton wool"
+        },
+        {
+          "lang": "zh",
+          "text": "，药棉。你很想说一句重要的话，可是一开口只能发出含糊的声音。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 22.188,
+      "end": 31.164,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个时候，牙医偏偏很热情，开始问问题。"
+        },
+        {
+          "lang": "en",
+          "text": "Dentists always ask questions when it is impossible for you to answer."
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 31.513,
+      "end": 45.433,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在中国，很多孩子想到看牙，会先想到医院口腔科。课文里的"
+        },
+        {
+          "lang": "en",
+          "text": "dentist"
+        },
+        {
+          "lang": "zh",
+          "text": "更像预约制牙科诊所里的牙医，甚至知道病人的收藏、哥哥和新工作。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 45.783,
+      "end": 52.743,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以他的提问像熟人闲聊，不是坏心眼。真正好笑的是：聊天的时机完全错了。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 53.093,
+      "end": 59.837,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他刚刚"
+        },
+        {
+          "lang": "en",
+          "text": "pulled out one of my teeth"
+        },
+        {
+          "lang": "zh",
+          "text": "，让我"
+        },
+        {
+          "lang": "en",
+          "text": "rest for a while"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 60.187,
+      "end": 65.722,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "我想说点什么，但是"
+        },
+        {
+          "lang": "en",
+          "text": "my mouth was full of cotton wool"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 66.072,
+      "end": 77.896,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他又问我的"
+        },
+        {
+          "lang": "en",
+          "text": "match boxes"
+        },
+        {
+          "lang": "zh",
+          "text": "收藏是不是越来越多。这里中文资料里有个字看起来像误写，我们按英文理解成火柴盒。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 78.246,
+      "end": 91.99,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Match boxes"
+        },
+        {
+          "lang": "zh",
+          "text": "是装火柴的小盒子。以前有人会收集不同地方、不同图案的火柴盒，就像今天有孩子收集贴纸、卡牌、徽章、小卡或者游戏周边。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 92.34,
+      "end": 96.86,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后牙医又问我哥哥怎么样，问我喜不喜欢伦敦的新工作。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 97.21,
+      "end": 103.986,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "我只能"
+        },
+        {
+          "lang": "en",
+          "text": "either nodded or made strange noises"
+        },
+        {
+          "lang": "zh",
+          "text": "，不是点头，就是发出奇怪声音。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 104.335,
+      "end": 111.527,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是另一条线同时发生了："
+        },
+        {
+          "lang": "en",
+          "text": "Meanwhile"
+        },
+        {
+          "lang": "zh",
+          "text": "，我的舌头在找刚拔牙留下的洞。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 111.877,
+      "end": 120.917,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "外面是牙医闲聊，里面是病人警报。最后药棉拿出来，我终于能说话了：他拔错牙了。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 121.267,
+      "end": 129.787,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现实中，牙医应该在治疗前确认牙位。课文最后一句是老课文里的夸张笑点，不是医学建议。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 130.137,
+      "end": 141.817,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天背诵先记中文电影线：拔牙后嘴里塞药棉、牙医闲聊、病人只能点头、舌头发现不对、最后说拔错牙。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 142.167,
+      "end": 144.327,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一段，无法回答。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 144.677,
+      "end": 149.397,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：牙医总是在病人无法回答时问问题。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 149.747,
+      "end": 154.266,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先挂住开头句："
+        },
+        {
+          "lang": "en",
+          "text": "Dentists always ask questions"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 154.616,
+      "end": 159.968,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后面接原因场景："
+        },
+        {
+          "lang": "en",
+          "text": "when it is impossible for you to answer"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 160.318,
+      "end": 167.958,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句话不是认真统计所有牙医，而是在吐槽：偏偏在最不能说话的时候，他开始问问题。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 168.308,
+      "end": 173.572,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着进入具体故事："
+        },
+        {
+          "lang": "en",
+          "text": "My dentist had just pulled out one of my teeth"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 173.922,
+      "end": 179.21,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Had just pulled out"
+        },
+        {
+          "lang": "zh",
+          "text": "说明动作刚刚完成。牙已经拔完了。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 179.56,
+      "end": 184.359,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "牙医还告诉我："
+        },
+        {
+          "lang": "en",
+          "text": "to rest for a while"
+        },
+        {
+          "lang": "zh",
+          "text": "，休息一会儿。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 184.709,
+      "end": 191.869,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一段中文电影线是：牙医总问问题 -> 刚拔完牙 -> 让我休息 -> 可我有话要说。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 192.219,
+      "end": 195.219,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二段，嘴里塞满药棉。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 195.569,
+      "end": 201.529,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：我想说话，但嘴里全是药棉，所以根本说不清。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 201.879,
+      "end": 207.447,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先看动作："
+        },
+        {
+          "lang": "en",
+          "text": "I tried to say something"
+        },
+        {
+          "lang": "zh",
+          "text": "。我努力想说点什么。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 207.797,
+      "end": 212.037,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但是转折来了："
+        },
+        {
+          "lang": "en",
+          "text": "but my mouth was full of cotton wool"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 212.386,
+      "end": 220.674,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Cotton wool"
+        },
+        {
+          "lang": "zh",
+          "text": "就是软软的药棉。拔牙后嘴里塞着药棉，正常说话会变得很困难。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 221.024,
+      "end": 225.344,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以病人不是不礼貌，也不是不想回答。他是真的说不了话。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 225.694,
+      "end": 230.214,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一段要读出无奈感：想说，却说不出来。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 230.564,
+      "end": 233.084,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三段，牙医开始闲聊。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 233.434,
+      "end": 242.674,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：牙医知道我的火柴盒收藏，又问我的哥哥和伦敦新工作；我只能点头或发怪声。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 243.024,
+      "end": 246.968,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先看收藏："
+        },
+        {
+          "lang": "en",
+          "text": "He knew I collected match boxes"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 247.318,
+      "end": 259.973,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Collected"
+        },
+        {
+          "lang": "zh",
+          "text": "是“收集”。"
+        },
+        {
+          "lang": "en",
+          "text": "Match boxes"
+        },
+        {
+          "lang": "zh",
+          "text": "是旧生活里的小收藏物，可以想成今天的贴纸、卡牌、小卡或游戏周边。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 260.323,
+      "end": 264.403,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "牙医问的是："
+        },
+        {
+          "lang": "en",
+          "text": "whether my collection was growing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 264.753,
+      "end": 272.013,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里"
+        },
+        {
+          "lang": "en",
+          "text": "whether"
+        },
+        {
+          "lang": "zh",
+          "text": "引出间接问题，不是直接说"
+        },
+        {
+          "lang": "en",
+          "text": "Is your collection growing?"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 272.363,
+      "end": 275.506,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他又问："
+        },
+        {
+          "lang": "en",
+          "text": "how my brother was"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 275.856,
+      "end": 279.748,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还问："
+        },
+        {
+          "lang": "en",
+          "text": "whether I liked my new job in London"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 280.098,
+      "end": 286.538,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些问题平时都很普通，像熟人关心近况。可是现在时机完全不对。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 286.888,
+      "end": 292.14,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "我的回答只剩两种："
+        },
+        {
+          "lang": "en",
+          "text": "I either nodded or made strange noises"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 292.49,
+      "end": 299.138,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Either...or..."
+        },
+        {
+          "lang": "zh",
+          "text": "表示二选一：要么点头，要么发出奇怪声音。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 299.488,
+      "end": 301.768,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四段，内心警报。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 302.117,
+      "end": 309.997,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：与此同时，舌头在找牙洞；我突然发现不对，却说不出来；最后才说拔错牙。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 310.347,
+      "end": 313.699,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "关键转场词是："
+        },
+        {
+          "lang": "en",
+          "text": "Meanwhile"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 314.049,
+      "end": 320.721,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Meanwhile"
+        },
+        {
+          "lang": "zh",
+          "text": "的意思是“与此同时”。它把两个画面并排放在一起。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 321.071,
+      "end": 329.151,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "外线是牙医在闲聊，内线是病人的舌头在检查："
+        },
+        {
+          "lang": "en",
+          "text": "my tongue was busy searching out the hole"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 329.501,
+      "end": 338.428,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Searching out"
+        },
+        {
+          "lang": "zh",
+          "text": "是仔细找出来。"
+        },
+        {
+          "lang": "en",
+          "text": "The hole where the tooth had been"
+        },
+        {
+          "lang": "zh",
+          "text": "是那颗牙原来在的位置。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 338.778,
+      "end": 343.442,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后心理变化来了："
+        },
+        {
+          "lang": "en",
+          "text": "I suddenly felt very worried"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 343.792,
+      "end": 348.576,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但问题仍然没有解决："
+        },
+        {
+          "lang": "en",
+          "text": "but could not say anything"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 348.926,
+      "end": 354.926,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后牙医终于把药棉拿出来："
+        },
+        {
+          "lang": "en",
+          "text": "removed the cotton wool from my mouth"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 355.276,
+      "end": 359.54,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "我终于能告诉他："
+        },
+        {
+          "lang": "en",
+          "text": "he had pulled out the wrong tooth"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 359.89,
+      "end": 367.725,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里"
+        },
+        {
+          "lang": "en",
+          "text": "had pulled out"
+        },
+        {
+          "lang": "zh",
+          "text": "说明错误已经发生了，所以最后一句才突然有冲击力。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 368.075,
+      "end": 373.487,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，这课听起来会不会很吓人？拔错牙好像很严重。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 373.837,
+      "end": 383.517,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现实里当然很严重，所以我们要先说清楚：真正的牙科治疗应该提前确认牙位。这篇课文把它写成夸张笑点。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 383.867,
+      "end": 387.981,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以不是学医学流程，是学这个误会怎么发生。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 388.331,
+      "end": 394.371,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。笑点不是牙医坏，而是牙医在最不适合聊天的时候一直聊天。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 394.721,
+      "end": 397.965,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他为什么知道病人的收藏和哥哥？"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 398.315,
+      "end": 409.699,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里的"
+        },
+        {
+          "lang": "en",
+          "text": "dentist"
+        },
+        {
+          "lang": "zh",
+          "text": "更像牙科诊所里的熟人式牙医。他知道病人"
+        },
+        {
+          "lang": "en",
+          "text": "collected match boxes"
+        },
+        {
+          "lang": "zh",
+          "text": "，也知道他的家庭和工作。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 410.049,
+      "end": 414.798,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "match boxes"
+        },
+        {
+          "lang": "zh",
+          "text": "是火柴盒收藏？"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 415.147,
+      "end": 425.907,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。以前火柴盒很常见，不同地方的盒子可能有不同图案。今天可以联想到收集贴纸、卡牌、徽章、小卡或者游戏道具。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 426.257,
+      "end": 429.58,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "牙医问的问题在语法上有什么重点？"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 429.93,
+      "end": 438.994,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "重点是间接问题。他没有直接原样问出来，叙述者转述成："
+        },
+        {
+          "lang": "en",
+          "text": "asked me whether my collection was growing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 439.344,
+      "end": 442.643,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有"
+        },
+        {
+          "lang": "en",
+          "text": "asked me how my brother was"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 442.993,
+      "end": 447.185,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，还有："
+        },
+        {
+          "lang": "en",
+          "text": "whether I liked my new job in London"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 447.535,
+      "end": 452.111,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些都像闲聊，可病人嘴里有"
+        },
+        {
+          "lang": "en",
+          "text": "cotton wool"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 452.461,
+      "end": 458.117,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "正是这个错位。病人只能"
+        },
+        {
+          "lang": "en",
+          "text": "either nodded or made strange noises"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 458.467,
+      "end": 461.809,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Meanwhile"
+        },
+        {
+          "lang": "zh",
+          "text": "是另一条线？"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 462.159,
+      "end": 470.571,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "很好。"
+        },
+        {
+          "lang": "en",
+          "text": "Meanwhile"
+        },
+        {
+          "lang": "zh",
+          "text": "把外线和内线连起来。外线是牙医问问题，内线是舌头在找牙洞。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 470.92,
+      "end": 477.465,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后"
+        },
+        {
+          "lang": "en",
+          "text": "he had pulled out the wrong tooth"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么用"
+        },
+        {
+          "lang": "en",
+          "text": "had pulled out"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 477.815,
+      "end": 485.695,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为病人能说话的时候，错误已经发生了。过去完成时让最后一句变成“糟了，事情已经做完了”的 punchline。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 486.045,
+      "end": 490.773,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Dentists always ask questions when it is impossible for you to answer."
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 491.122,
+      "end": 496.018,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "My dentist had just pulled out one of my teeth and had told me to rest for a while."
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 496.368,
+      "end": 500.376,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I tried to say something, but my mouth was full of cotton wool."
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 500.726,
+      "end": 505.526,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He knew I collected match boxes and asked me whether my collection was growing."
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 505.876,
+      "end": 510.58,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He then asked me how my brother was and whether I liked my new job in London."
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 510.93,
+      "end": 515.25,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In answer to these questions I either nodded or made strange noises."
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 515.6,
+      "end": 520.136,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Meanwhile, my tongue was busy searching out the hole where the tooth had been."
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 520.486,
+      "end": 524.566,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I suddenly felt very worried, but could not say anything."
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 524.916,
+      "end": 531.516,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When the dentist at last removed the cotton wool from my mouth, I was able to tell him that he had pulled out the wrong tooth."
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 531.865,
+      "end": 534.913,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cotton_wool"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词组："
+        },
+        {
+          "lang": "en",
+          "text": "cotton wool"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 535.263,
+      "end": 537.159,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cotton_wool"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "cotton wool"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 537.509,
+      "end": 543.653,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cotton_wool"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Cotton wool means soft cotton material"
+        },
+        {
+          "lang": "zh",
+          "text": "，这里就是拔牙后放在嘴里的药棉。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 544.003,
+      "end": 548.099,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cotton_wool"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文句子是："
+        },
+        {
+          "lang": "en",
+          "text": "My mouth was full of cotton wool."
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 548.449,
+      "end": 552.609,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cotton_wool"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词非常关键，因为它解释了为什么病人不能正常回答。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 552.959,
+      "end": 560.519,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cotton_wool"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意语气要轻松安全。我们不讲血腥细节，只记住：嘴里有药棉，说话不清楚。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 560.868,
+      "end": 563.644,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "collection"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "collection"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 563.994,
+      "end": 565.77,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "collection"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "collection"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 566.12,
+      "end": 571.224,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "collection"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A collection is a group of things someone collects"
+        },
+        {
+          "lang": "zh",
+          "text": "，一组收藏品。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 571.574,
+      "end": 576.222,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "collection"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文句子是："
+        },
+        {
+          "lang": "en",
+          "text": "He asked me whether my collection was growing."
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 576.572,
+      "end": 585.396,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "collection"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的收藏是"
+        },
+        {
+          "lang": "en",
+          "text": "match boxes"
+        },
+        {
+          "lang": "zh",
+          "text": "，火柴盒。以前有些火柴盒有不同图案，所以有人会收集。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 585.745,
+      "end": 594.909,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "collection"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天可以想成："
+        },
+        {
+          "lang": "en",
+          "text": "a card collection"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "a sticker collection"
+        },
+        {
+          "lang": "zh",
+          "text": "，或者"
+        },
+        {
+          "lang": "en",
+          "text": "a keychain collection"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 595.259,
+      "end": 599.099,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "collection"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "牙医知道这个收藏，说明他是在熟人式闲聊。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 599.449,
+      "end": 602.441,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "meanwhile"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "meanwhile"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 602.791,
+      "end": 604.495,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "meanwhile"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "meanwhile"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 604.844,
+      "end": 608.78,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "meanwhile"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Meanwhile means at the same time"
+        },
+        {
+          "lang": "zh",
+          "text": "，与此同时。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 609.13,
+      "end": 614.426,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "meanwhile"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文句子是："
+        },
+        {
+          "lang": "en",
+          "text": "Meanwhile, my tongue was busy searching out the hole."
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 614.776,
+      "end": 621.536,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "meanwhile"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词把故事切成两条线：外面牙医继续问问题，里面病人越来越紧张。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 621.886,
+      "end": 628.658,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "meanwhile"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "读"
+        },
+        {
+          "lang": "en",
+          "text": "Meanwhile"
+        },
+        {
+          "lang": "zh",
+          "text": "后面可以稍微停一下，让听的人感觉画面切换了。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 629.008,
+      "end": 635.231,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的"
+        },
+        {
+          "lang": "en",
+          "text": "grammar board"
+        },
+        {
+          "lang": "zh",
+          "text": "叫：外线闲聊，内线警报。"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 635.581,
+      "end": 648.221,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先看中文电影线：牙医刚拔完牙 -> 病人嘴里塞药棉 -> 牙医问收藏、哥哥和工作 -> 病人只能点头或发怪声 -> 舌头找牙洞 -> 最后说拔错牙。"
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 648.571,
+      "end": 650.651,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块是间接问题。"
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "start": 651.001,
+      "end": 654.889,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "直接问可以是："
+        },
+        {
+          "lang": "en",
+          "text": "Is your collection growing?"
+        }
+      ]
+    },
+    {
+      "i": 103,
+      "start": 655.239,
+      "end": 660.663,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "叙述者转述时变成："
+        },
+        {
+          "lang": "en",
+          "text": "asked me whether my collection was growing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "start": 661.013,
+      "end": 664.589,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再看："
+        },
+        {
+          "lang": "en",
+          "text": "asked me how my brother was"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 105,
+      "start": 664.938,
+      "end": 668.67,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有："
+        },
+        {
+          "lang": "en",
+          "text": "whether I liked my new job in London"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "start": 669.02,
+      "end": 672.42,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些句子都在讲牙医的 friendly small talk。"
+        }
+      ]
+    },
+    {
+      "i": 107,
+      "start": 672.77,
+      "end": 675.978,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块是"
+        },
+        {
+          "lang": "en",
+          "text": "either...or..."
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 108,
+      "start": 676.328,
+      "end": 679.88,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I either nodded or made strange noises."
+        }
+      ]
+    },
+    {
+      "i": 109,
+      "start": 680.23,
+      "end": 685.31,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "意思是我只有两个选择：要么点头，要么发出奇怪声音。"
+        }
+      ]
+    },
+    {
+      "i": 110,
+      "start": 685.66,
+      "end": 690.716,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "生活里可以说："
+        },
+        {
+          "lang": "en",
+          "text": "I either wrote a note or pointed to the picture."
+        }
+      ]
+    },
+    {
+      "i": 111,
+      "start": 691.065,
+      "end": 694.137,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块是"
+        },
+        {
+          "lang": "en",
+          "text": "Meanwhile"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 112,
+      "start": 694.487,
+      "end": 701.119,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Meanwhile"
+        },
+        {
+          "lang": "zh",
+          "text": "不只是“然后”。它强调同一时间另一件事正在发生。"
+        }
+      ]
+    },
+    {
+      "i": 113,
+      "start": 701.469,
+      "end": 708.149,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课里，它让我们看到：牙医以为在聊天，病人心里已经响起警报。"
+        }
+      ]
+    },
+    {
+      "i": 114,
+      "start": 708.499,
+      "end": 713.603,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一块是过去完成时："
+        },
+        {
+          "lang": "en",
+          "text": "he had pulled out the wrong tooth"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 115,
+      "start": 713.953,
+      "end": 723.089,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Had pulled out"
+        },
+        {
+          "lang": "zh",
+          "text": "说明拔错这件事已经发生。病人不是在提醒“别拔错”，而是在说“你已经拔错了”。"
+        }
+      ]
+    },
+    {
+      "i": 116,
+      "start": 723.438,
+      "end": 736.686,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以今天的核心是：用间接问题呈现外部闲聊，用"
+        },
+        {
+          "lang": "en",
+          "text": "Meanwhile"
+        },
+        {
+          "lang": "zh",
+          "text": "切到内部警报，最后用"
+        },
+        {
+          "lang": "en",
+          "text": "had pulled out"
+        },
+        {
+          "lang": "zh",
+          "text": "落下 punchline。"
+        }
+      ]
+    },
+    {
+      "i": 117,
+      "start": 737.036,
+      "end": 745.236,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进生活场景。你在牙医诊所、校医室，或者刚做完检查，暂时不能正常说话。"
+        }
+      ]
+    },
+    {
+      "i": 118,
+      "start": 745.586,
+      "end": 752.106,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以用点头、手势、写字或者手机备忘录来表达重要信息。"
+        }
+      ]
+    },
+    {
+      "i": 119,
+      "start": 752.456,
+      "end": 758.856,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先说不能回答："
+        },
+        {
+          "lang": "en",
+          "text": "I could not answer clearly because my mouth was full of cotton wool."
+        }
+      ]
+    },
+    {
+      "i": 120,
+      "start": 759.206,
+      "end": 764.91,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再转述别人问你的问题："
+        },
+        {
+          "lang": "en",
+          "text": "The dentist asked me whether I felt better."
+        }
+      ]
+    },
+    {
+      "i": 121,
+      "start": 765.259,
+      "end": 770.211,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着用二选一："
+        },
+        {
+          "lang": "en",
+          "text": "I either nodded or wrote a note."
+        }
+      ]
+    },
+    {
+      "i": 122,
+      "start": 770.561,
+      "end": 778.853,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再用"
+        },
+        {
+          "lang": "en",
+          "text": "Meanwhile"
+        },
+        {
+          "lang": "zh",
+          "text": "切到你正在做的事："
+        },
+        {
+          "lang": "en",
+          "text": "Meanwhile, I pointed to the tooth that still hurt."
+        }
+      ]
+    },
+    {
+      "i": 123,
+      "start": 779.203,
+      "end": 784.923,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后把重要信息写出来："
+        },
+        {
+          "lang": "en",
+          "text": "I wrote that the pain was on the left side."
+        }
+      ]
+    },
+    {
+      "i": 124,
+      "start": 785.273,
+      "end": 804.336,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "连起来就是："
+        },
+        {
+          "lang": "en",
+          "text": "I could not answer clearly because my mouth was full of cotton wool. The dentist asked me whether I felt better. I either nodded or wrote a note. Meanwhile, I pointed to the tooth that still hurt. I wrote that the pain was on the left side."
+        }
+      ]
+    },
+    {
+      "i": 125,
+      "start": 804.686,
+      "end": 812.006,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 126,
+      "start": 812.356,
+      "end": 821.796,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓中文线：拔牙后嘴里塞药棉、牙医闲聊、病人只能点头、舌头发现不对、最后说拔错牙。"
+        }
+      ]
+    },
+    {
+      "i": 127,
+      "start": 822.146,
+      "end": 844.037,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再把"
+        },
+        {
+          "lang": "en",
+          "text": "English chunks"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺："
+        },
+        {
+          "lang": "en",
+          "text": "impossible for you to answer"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "full of cotton wool"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "whether my collection was growing"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "either nodded or made strange noises"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "Meanwhile"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "searching out the hole"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "pulled out the wrong tooth"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 128,
+      "start": 844.387,
+      "end": 856.387,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习不能正常说话时如何表达重要信息；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 129,
+      "start": 856.737,
+      "end": 866.833,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "The dentist is chatting outside, but the patient is alarmed inside."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 48
+}

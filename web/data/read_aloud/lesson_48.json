@@ -1,0 +1,111 @@
+{
+  "lesson_id": 48,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按中文电影线记忆：牙医刚拔完牙、嘴里塞满 cotton wool、牙医问收藏和家人工作、病人只能点头或发怪声、Meanwhile 切到舌头找牙洞、最后发现拔错牙。读的时候保持轻微着急和喜剧感，不要读成恐怖故事。",
+  "sentences": [
+    {
+      "id": "l48_s1",
+      "text": "Dentists always ask questions when it is impossible for you to answer.",
+      "focus_zh": "中文锚点：牙医总在你无法回答时问问题。Dentists always ask questions 是吐槽式开头，when it is impossible 要连成一个条件场景。",
+      "start": 486.045,
+      "end": 490.773,
+      "focus_words": [
+        "Dentists",
+        "always ask questions",
+        "impossible",
+        "answer"
+      ]
+    },
+    {
+      "id": "l48_s2",
+      "text": "My dentist had just pulled out one of my teeth and had told me to rest for a while.",
+      "focus_zh": "中文锚点：牙医刚拔完一颗牙，并让我休息一会儿。had just pulled out 和 had told me 是过去完成时，说明动作已经发生。",
+      "start": 491.122,
+      "end": 496.018,
+      "focus_words": [
+        "had just pulled out",
+        "one of my teeth",
+        "had told me",
+        "rest for a while"
+      ]
+    },
+    {
+      "id": "l48_s3",
+      "text": "I tried to say something, but my mouth was full of cotton wool.",
+      "focus_zh": "中文锚点：我想说话，但嘴里塞满药棉。tried to say something 后面要读出 but 的转折，cotton wool 是这课的关键原因。",
+      "start": 496.368,
+      "end": 500.376,
+      "focus_words": [
+        "tried to say something",
+        "but",
+        "my mouth",
+        "cotton wool"
+      ]
+    },
+    {
+      "id": "l48_s4",
+      "text": "He knew I collected match boxes and asked me whether my collection was growing. He then asked me how my brother was and whether I liked my new job in London.",
+      "focus_zh": "中文锚点：牙医问火柴盒收藏、哥哥和伦敦新工作。whether my collection was growing、how my brother was、whether I liked... 都是间接问题。",
+      "start": 500.726,
+      "end": 510.58,
+      "focus_words": [
+        "collected match boxes",
+        "whether my collection was growing",
+        "how my brother was",
+        "new job in London"
+      ]
+    },
+    {
+      "id": "l48_s5",
+      "text": "In answer to these questions I either nodded or made strange noises.",
+      "focus_zh": "中文锚点：对这些问题，我不是点头，就是发出奇怪声音。either...or... 表示两个选择，nodded 和 made strange noises 要分清。",
+      "start": 510.93,
+      "end": 515.25,
+      "focus_words": [
+        "In answer to",
+        "either",
+        "nodded",
+        "made strange noises"
+      ]
+    },
+    {
+      "id": "l48_s6",
+      "text": "Meanwhile, my tongue was busy searching out the hole where the tooth had been.",
+      "focus_zh": "中文锚点：与此同时，舌头在忙着找牙洞。Meanwhile 后稍微停一下，让外线闲聊切到内线警报；searching out 是仔细找。",
+      "start": 515.6,
+      "end": 520.136,
+      "focus_words": [
+        "Meanwhile",
+        "my tongue",
+        "searching out",
+        "where the tooth had been"
+      ]
+    },
+    {
+      "id": "l48_s7",
+      "text": "I suddenly felt very worried, but could not say anything.",
+      "focus_zh": "中文锚点：我突然很担心，却什么也说不出来。suddenly felt very worried 读出突然的紧张，but could not say anything 是无奈。",
+      "start": 520.486,
+      "end": 524.566,
+      "focus_words": [
+        "suddenly",
+        "felt very worried",
+        "but",
+        "could not say anything"
+      ]
+    },
+    {
+      "id": "l48_s8",
+      "text": "When the dentist at last removed the cotton wool from my mouth, I was able to tell him that he had pulled out the wrong tooth.",
+      "focus_zh": "中文锚点：牙医终于取出药棉，我才能说他拔错了牙。at last 和 was able to 表示终于能说，had pulled out the wrong tooth 是最后笑点。",
+      "start": 524.916,
+      "end": 531.516,
+      "focus_words": [
+        "at last removed",
+        "cotton wool",
+        "was able to tell him",
+        "wrong tooth"
+      ]
+    }
+  ]
+}

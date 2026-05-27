@@ -1,0 +1,56 @@
+{
+  "lesson_id": 48,
+  "title": "Did you want to tell me something?",
+  "question": "把今天的“暂时不能正常说话 + 用动作或文字沟通 + 间接问题”放进诊所或校医室场景：你嘴里有药棉，不能说清楚，但要表达重要信息。用 word bank 补完整 5 个空。",
+  "example_answer": "I could not answer clearly because my mouth was full of cotton wool. The dentist asked me whether I felt better. I either nodded or wrote a note. Meanwhile, I pointed to the tooth that still hurt. I wrote that the pain was on the left side.",
+  "word_bank": [
+    "answer",
+    "clearly",
+    "cotton wool",
+    "dentist",
+    "whether",
+    "felt better",
+    "either",
+    "nodded",
+    "wrote",
+    "a note",
+    "Meanwhile",
+    "pointed to",
+    "still hurt",
+    "on",
+    "left side"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说明你暂时不能清楚回答：我不能清楚回答，因为嘴里塞着药棉",
+      "english_template": "I could not ___ clearly because my mouth was full of cotton wool.",
+      "expected_phrase": "answer"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "用间接问题转述牙医的问题：牙医问我是否感觉好一点",
+      "english_template": "The dentist asked me ___ I felt better.",
+      "expected_phrase": "whether"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "用 either...or... 表达两种沟通方式：我不是点头，就是写纸条",
+      "english_template": "I either nodded or ___ a note.",
+      "expected_phrase": "wrote"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "用 Meanwhile 切到同时发生的动作：与此同时，我指向还在疼的那颗牙",
+      "english_template": "___, I pointed to the tooth that still hurt.",
+      "expected_phrase": "Meanwhile"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "写出重要信息：疼痛在左边",
+      "english_template": "I wrote that the pain was ___ the left side.",
+      "expected_phrase": "on"
+    }
+  ],
+  "mode": "all_fills"
+}
