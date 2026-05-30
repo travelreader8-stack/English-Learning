@@ -1,0 +1,111 @@
+{
+  "lesson_id": 49,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按中文圆形线记忆：睡地板睡烦了、攒钱买真床、天热搬上屋顶、第三晚风暴来了、床碎人没事、床垫回到地板。读的时候注意长句分块，动作链不要抢，Although 的反差要读清楚。",
+  "sentences": [
+    {
+      "id": "l49_s1",
+      "text": "Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed.",
+      "focus_zh": "中文锚点：他睡地板睡烦了，攒了很多年钱买真床。Tired of sleeping on the floor 后稍停，saved up for years 要读出长期积攒。",
+      "start": 524.556,
+      "end": 530.292,
+      "focus_words": [
+        "Tired of sleeping",
+        "on the floor",
+        "saved up for years",
+        "real bed"
+      ]
+    },
+    {
+      "id": "l49_s2",
+      "text": "For the first time in his life, he became the proud owner of a bed which had springs and a mattress.",
+      "focus_zh": "中文锚点：他平生第一次自豪地拥有了一张有弹簧和床垫的床。For the first time in his life 要读出重要感，which had... 是补充床的细节。",
+      "start": 530.642,
+      "end": 536.354,
+      "focus_words": [
+        "For the first time",
+        "proud owner",
+        "which had",
+        "springs and a mattress"
+      ]
+    },
+    {
+      "id": "l49_s3",
+      "text": "Because the weather was very hot, he carried the bed on to the roof of his house.",
+      "focus_zh": "中文锚点：因为天气很热，他把床搬到了屋顶。Because 引出原因，carried the bed on to the roof 是故事背景动作，不是现代安全建议。",
+      "start": 536.704,
+      "end": 541.72,
+      "focus_words": [
+        "Because",
+        "very hot",
+        "carried the bed",
+        "roof"
+      ]
+    },
+    {
+      "id": "l49_s4",
+      "text": "He slept very well for the first two nights, but on the third night, a storm blew up.",
+      "focus_zh": "中文锚点：前两晚很好，第三晚风暴来了。first two nights 和 third night 要形成时间节奏，but 后面读出转折。",
+      "start": 542.07,
+      "end": 547.398,
+      "focus_words": [
+        "first two nights",
+        "but",
+        "third night",
+        "storm blew up"
+      ]
+    },
+    {
+      "id": "l49_s5",
+      "text": "A gust of wind swept the bed off the roof and sent it crashing into the courtyard below.",
+      "focus_zh": "中文锚点：一阵风把床刮下屋顶，摔进下面的院子。gust、swept、off the roof、crashing into... 是连续动作，读的时候不要糊成一团。",
+      "start": 547.748,
+      "end": 553.004,
+      "focus_words": [
+        "A gust of wind",
+        "swept",
+        "off the roof",
+        "courtyard below"
+      ]
+    },
+    {
+      "id": "l49_s6",
+      "text": "The young man did not wake up until the bed had struck the ground.",
+      "focus_zh": "中文锚点：他直到床撞到地上才醒。did not wake up until 是“直到……才”，had struck the ground 表示撞地已经发生。",
+      "start": 553.353,
+      "end": 557.505,
+      "focus_words": [
+        "did not wake up",
+        "until",
+        "had struck",
+        "the ground"
+      ]
+    },
+    {
+      "id": "l49_s7",
+      "text": "Although the bed was smashed to pieces, the man was miraculously unhurt. When he woke up, he was still on the mattress.",
+      "focus_zh": "中文锚点：虽然床碎了，人却奇迹般没受伤，醒来时还在床垫上。Although 后面读出反差，miraculously unhurt 是喜剧转折，不要读得恐怖。",
+      "start": 557.855,
+      "end": 566.461,
+      "focus_words": [
+        "Although",
+        "smashed to pieces",
+        "miraculously unhurt",
+        "still on the mattress"
+      ]
+    },
+    {
+      "id": "l49_s8",
+      "text": "Glancing at the bits of wood and metal that lay around him, the man sadly picked up the mattress and carried it into his house. After he had put it on the floor, he promptly went to sleep again.",
+      "focus_zh": "中文锚点：他看了看碎木片和金属片，捡起床垫拿回屋，放回地板马上又睡了。Glancing at 是快速看一眼，promptly 是最后笑点。",
+      "start": 566.811,
+      "end": 578.369,
+      "focus_words": [
+        "Glancing at",
+        "bits of wood and metal",
+        "picked up the mattress",
+        "promptly went to sleep again"
+      ]
+    }
+  ]
+}

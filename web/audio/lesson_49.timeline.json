@@ -1,0 +1,2694 @@
+{
+  "total_duration": 955.5,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 9.6,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天这课先别急着问：为什么有人会把床搬到屋顶上睡？这个问题问得对，但要先放到课文的旧生活背景里看。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 9.95,
+      "end": 26.238,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里的"
+        },
+        {
+          "lang": "en",
+          "text": "Teheran"
+        },
+        {
+          "lang": "zh",
+          "text": "是旧拼法；现在通常写"
+        },
+        {
+          "lang": "en",
+          "text": "Tehran"
+        },
+        {
+          "lang": "zh",
+          "text": "，中文是德黑兰。这里不用记很多地理知识，只要知道：那里可以很热，一些传统房子有平屋顶和院子。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 26.587,
+      "end": 36.707,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在没有现代空调的时候，屋顶或院子晚上可能比屋里凉。所以这个年轻人把床搬到屋顶，不是为了冒险，而是想凉快一点。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 37.057,
+      "end": 45.577,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但今天我们当然不会模仿这种做法。现在有电扇、空调和更安全的睡觉方式。这只是课文里的旧生活场景。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 45.927,
+      "end": 56.047,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "真正的故事不是“屋顶危险动作”，而是一个圆形喜剧：一个人睡地板睡烦了，好不容易买了真床，最后又回到地板上睡。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 56.397,
+      "end": 64.273,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "开头先抓住这个感受："
+        },
+        {
+          "lang": "en",
+          "text": "Tired of sleeping on the floor"
+        },
+        {
+          "lang": "zh",
+          "text": "。这里不是困了，而是受够了睡地板。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 64.623,
+      "end": 72.186,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他"
+        },
+        {
+          "lang": "en",
+          "text": "saved up for years"
+        },
+        {
+          "lang": "zh",
+          "text": "，攒了很多年钱，终于买了"
+        },
+        {
+          "lang": "en",
+          "text": "a real bed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 72.536,
+      "end": 79.808,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这张床对他来说像梦想："
+        },
+        {
+          "lang": "en",
+          "text": "springs and a mattress"
+        },
+        {
+          "lang": "zh",
+          "text": "，有弹簧，也有床垫。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 80.158,
+      "end": 89.774,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "前两晚很好。第三晚，风暴来了："
+        },
+        {
+          "lang": "en",
+          "text": "a storm blew up"
+        },
+        {
+          "lang": "zh",
+          "text": "。一阵风把床从屋顶刮下去，摔进院子。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 90.124,
+      "end": 101.107,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最妙的是：床"
+        },
+        {
+          "lang": "en",
+          "text": "was smashed to pieces"
+        },
+        {
+          "lang": "zh",
+          "text": "，碎了；人却"
+        },
+        {
+          "lang": "en",
+          "text": "was miraculously unhurt"
+        },
+        {
+          "lang": "zh",
+          "text": "，奇迹般没受伤。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 101.457,
+      "end": 107.233,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后他捡起床垫，放回地板，然后"
+        },
+        {
+          "lang": "en",
+          "text": "promptly went to sleep again"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 107.583,
+      "end": 115.863,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以今天记中文圆形线：睡地板 -> 买真床 -> 搬上屋顶 -> 风暴刮下去 -> 床碎人没事 -> 床垫回到地板。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 116.213,
+      "end": 118.653,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一段，从地板到真床。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 119.003,
+      "end": 125.443,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：他睡地板睡烦了，攒了很多年钱，终于买了一张真正的床。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 125.793,
+      "end": 130.529,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先听开头压缩："
+        },
+        {
+          "lang": "en",
+          "text": "Tired of sleeping on the floor"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 130.879,
+      "end": 136.119,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这不是说他今天很 sleepy，而是说他已经受够了 sleeping on the floor。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 136.468,
+      "end": 141.356,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后面接动作："
+        },
+        {
+          "lang": "en",
+          "text": "a young man in Teheran saved up for years"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 141.706,
+      "end": 147.418,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Saved up for years"
+        },
+        {
+          "lang": "zh",
+          "text": "要读出“慢慢攒、攒了很久”的感觉。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 147.768,
+      "end": 151.152,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "目的是什么？"
+        },
+        {
+          "lang": "en",
+          "text": "to buy a real bed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 151.502,
+      "end": 158.294,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A real bed"
+        },
+        {
+          "lang": "zh",
+          "text": "在故事里不是普通家具，而是他多年攒钱换来的梦想。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 158.644,
+      "end": 163.364,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一段中文电影线是：睡地板睡烦了 -> 攒很多年 -> 买真床。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 163.713,
+      "end": 167.073,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二段，第一次拥有梦想中的床。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 167.423,
+      "end": 175.703,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：他平生第一次拥有了一张有弹簧和床垫的床，非常自豪。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 176.053,
+      "end": 180.669,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "开头很有仪式感："
+        },
+        {
+          "lang": "en",
+          "text": "For the first time in his life"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 181.019,
+      "end": 184.779,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句话提醒我们：这件事对他来说很重要。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 185.129,
+      "end": 189.601,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他成了什么？"
+        },
+        {
+          "lang": "en",
+          "text": "the proud owner"
+        },
+        {
+          "lang": "zh",
+          "text": "，自豪的主人。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 189.951,
+      "end": 194.671,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是随便拥有，而是 proud owner。他觉得这张床来之不易。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 195.02,
+      "end": 200.116,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这张床具体好在哪里？"
+        },
+        {
+          "lang": "en",
+          "text": "a bed which had springs and a mattress"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 200.466,
+      "end": 209.746,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Which had"
+        },
+        {
+          "lang": "zh",
+          "text": "补充说明这是一张什么样的床。不是地板，不是薄垫子，而是有弹簧和床垫的真床。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 210.096,
+      "end": 215.456,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一段要读出小小的骄傲：终于轮到我睡一张真正的床了。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 215.806,
+      "end": 218.406,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三段，天热、屋顶、风暴。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 218.756,
+      "end": 227.076,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：天气太热，他把床搬到屋顶。前两晚很好，第三晚风暴来了。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 227.426,
+      "end": 231.362,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "原因先来："
+        },
+        {
+          "lang": "en",
+          "text": "Because the weather was very hot"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 231.711,
+      "end": 240.431,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文不是让我们学他这样做，而是解释当时的背景：在炎热地区、平屋顶房子里，屋顶晚上可能更凉。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 240.781,
+      "end": 244.841,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以他"
+        },
+        {
+          "lang": "en",
+          "text": "carried the bed on to the roof of his house"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 245.191,
+      "end": 251.583,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意这里的"
+        },
+        {
+          "lang": "en",
+          "text": "roof"
+        },
+        {
+          "lang": "zh",
+          "text": "是房子的顶部，不是今天高楼阳台。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 251.933,
+      "end": 260.901,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "时间节奏很简单："
+        },
+        {
+          "lang": "en",
+          "text": "for the first two nights"
+        },
+        {
+          "lang": "zh",
+          "text": "，前两晚；"
+        },
+        {
+          "lang": "en",
+          "text": "on the third night"
+        },
+        {
+          "lang": "zh",
+          "text": "，第三晚。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 261.25,
+      "end": 265.226,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三晚发生变化："
+        },
+        {
+          "lang": "en",
+          "text": "a storm blew up"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 265.576,
+      "end": 272.424,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Blew up"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里不是爆炸，而是风暴突然来了、发展起来。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 272.774,
+      "end": 279.174,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一段中文电影线是：太热 -> 搬上屋顶 -> 前两晚好睡 -> 第三晚风暴来了。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 279.524,
+      "end": 283.804,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四段，床碎了，人没事，又睡了。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 284.154,
+      "end": 295.394,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：一阵风把床刮下屋顶，床摔碎了，但他奇迹般没受伤。最后他把床垫拿回屋，放在地板上又睡着了。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 295.744,
+      "end": 303.512,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "动作链先听完整："
+        },
+        {
+          "lang": "en",
+          "text": "A gust of wind swept the bed off the roof and sent it crashing into the courtyard below."
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 303.861,
+      "end": 308.141,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A gust of wind"
+        },
+        {
+          "lang": "zh",
+          "text": "是一阵突然很强的风。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 308.491,
+      "end": 313.563,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Swept the bed off the roof"
+        },
+        {
+          "lang": "zh",
+          "text": "是把床从屋顶刮了下去。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 313.913,
+      "end": 319.633,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Sent it crashing into the courtyard below"
+        },
+        {
+          "lang": "zh",
+          "text": "是让它摔进下面的院子里。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 319.983,
+      "end": 325.639,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后是时间点："
+        },
+        {
+          "lang": "en",
+          "text": "The young man did not wake up until the bed had struck the ground."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 325.989,
+      "end": 334.94,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Did not wake up until"
+        },
+        {
+          "lang": "zh",
+          "text": "的中文是“直到……才醒”。他一直没醒，直到床撞到地上。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 335.29,
+      "end": 342.65,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接下来出现反差："
+        },
+        {
+          "lang": "en",
+          "text": "Although the bed was smashed to pieces, the man was miraculously unhurt."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 343.0,
+      "end": 350.504,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Although"
+        },
+        {
+          "lang": "zh",
+          "text": "先给出可怕结果：床碎了；后面给出意外反转：人没伤。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 350.854,
+      "end": 358.334,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他醒来时还在"
+        },
+        {
+          "lang": "en",
+          "text": "the mattress"
+        },
+        {
+          "lang": "zh",
+          "text": "上。周围是"
+        },
+        {
+          "lang": "en",
+          "text": "bits of wood and metal"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 358.684,
+      "end": 364.307,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后他"
+        },
+        {
+          "lang": "en",
+          "text": "sadly picked up the mattress"
+        },
+        {
+          "lang": "zh",
+          "text": "，把床垫拿回屋。"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 364.657,
+      "end": 370.961,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结尾特别干："
+        },
+        {
+          "lang": "en",
+          "text": "After he had put it on the floor, he promptly went to sleep again."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 371.311,
+      "end": 379.791,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这就是标题的双关：拥有真床的 dream 结束了；他这个睡觉的 dream 也被风暴叫醒，又继续睡。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 380.141,
+      "end": 384.85,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，我还是觉得奇怪。为什么床会在屋顶上？"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 385.2,
+      "end": 398.847,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个奇怪感正是这课要先解决的。课文里的地点是"
+        },
+        {
+          "lang": "en",
+          "text": "Teheran"
+        },
+        {
+          "lang": "zh",
+          "text": "，现在常写"
+        },
+        {
+          "lang": "en",
+          "text": "Tehran"
+        },
+        {
+          "lang": "zh",
+          "text": "，天气可以很热。一些传统房子可能有平屋顶和院子。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 399.197,
+      "end": 401.998,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以屋顶晚上可能比屋里凉？"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 402.348,
+      "end": 408.988,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。放到旧生活背景里，就比较能理解。不过今天我们不模仿，安全边界要清楚。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 409.338,
+      "end": 414.566,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课的故事是不是有点惨？他攒了好多年才买床。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 414.915,
+      "end": 426.035,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "有一点 sad，但课文处理成 dry humor。最关键的是圆形结构：地板开始，真床实现，风暴打断，床垫回到地板。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 426.385,
+      "end": 430.737,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The end of a dream"
+        },
+        {
+          "lang": "zh",
+          "text": "是说梦想结束？"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 431.087,
+      "end": 440.687,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，也有睡觉的双关。他梦见拥有真床，最后真床坏了；他也真的在睡觉，摔到地上才醒，又马上睡着。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 441.036,
+      "end": 446.061,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "开头"
+        },
+        {
+          "lang": "en",
+          "text": "Tired of sleeping on the floor"
+        },
+        {
+          "lang": "zh",
+          "text": "怎么理解？"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 446.411,
+      "end": 456.803,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以展开成："
+        },
+        {
+          "lang": "en",
+          "text": "He was tired of sleeping on the floor."
+        },
+        {
+          "lang": "zh",
+          "text": "然后压缩到句首："
+        },
+        {
+          "lang": "en",
+          "text": "Tired of sleeping on the floor, he saved up for years."
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 457.153,
+      "end": 463.284,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Saved up for years"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "saved money"
+        },
+        {
+          "lang": "zh",
+          "text": "不一样？"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 463.634,
+      "end": 474.582,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。"
+        },
+        {
+          "lang": "en",
+          "text": "Saved money"
+        },
+        {
+          "lang": "zh",
+          "text": "只是省钱或存钱。"
+        },
+        {
+          "lang": "en",
+          "text": "Saved up for years"
+        },
+        {
+          "lang": "zh",
+          "text": "是为了买某个东西，慢慢攒到够。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 474.932,
+      "end": 476.806,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "风暴那句好长。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 477.156,
+      "end": 484.443,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句是动作链："
+        },
+        {
+          "lang": "en",
+          "text": "A gust of wind swept the bed off the roof and sent it crashing into the courtyard below."
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 484.793,
+      "end": 488.062,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "就是风是主语，连续做了两件事？"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 488.412,
+      "end": 495.092,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "很好。风把床刮离屋顶，又让它摔进院子。方向和结果都在一句里。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 495.442,
+      "end": 498.795,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "not wake up until"
+        },
+        {
+          "lang": "zh",
+          "text": "呢？"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 499.144,
+      "end": 508.088,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文顺序是：直到床撞到地上，他才醒。英语是："
+        },
+        {
+          "lang": "en",
+          "text": "did not wake up until the bed had struck the ground"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 508.438,
+      "end": 512.544,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后"
+        },
+        {
+          "lang": "en",
+          "text": "promptly"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么好笑？"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 512.894,
+      "end": 524.206,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为按理说经历这种意外会很久睡不着，但他把床垫放回地板后，竟然立刻又睡着了。这个"
+        },
+        {
+          "lang": "en",
+          "text": "promptly"
+        },
+        {
+          "lang": "zh",
+          "text": "把笑点收住了。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 524.556,
+      "end": 530.292,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Tired of sleeping on the floor, a young man in Teheran saved up for years to buy a real bed."
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 530.642,
+      "end": 536.354,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "For the first time in his life, he became the proud owner of a bed which had springs and a mattress."
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 536.704,
+      "end": 541.72,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Because the weather was very hot, he carried the bed on to the roof of his house."
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 542.07,
+      "end": 547.398,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He slept very well for the first two nights, but on the third night, a storm blew up."
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 547.748,
+      "end": 553.004,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A gust of wind swept the bed off the roof and sent it crashing into the courtyard below."
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 553.353,
+      "end": 557.505,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The young man did not wake up until the bed had struck the ground."
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 557.855,
+      "end": 562.775,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Although the bed was smashed to pieces, the man was miraculously unhurt."
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 563.125,
+      "end": 566.461,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When he woke up, he was still on the mattress."
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 566.811,
+      "end": 573.699,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Glancing at the bits of wood and metal that lay around him, the man sadly picked up the mattress and carried it into his house."
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 574.049,
+      "end": 578.369,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "After he had put it on the floor, he promptly went to sleep again."
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 578.719,
+      "end": 581.599,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "mattress"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "mattress"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 581.949,
+      "end": 583.677,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "mattress"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "mattress"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 584.026,
+      "end": 591.194,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "mattress"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A mattress is the soft thick part of a bed."
+        },
+        {
+          "lang": "zh",
+          "text": "它是床上软软厚厚、让人躺着睡的部分。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 591.544,
+      "end": 596.32,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "mattress"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里这点很关键："
+        },
+        {
+          "lang": "en",
+          "text": "he was still on the mattress"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 596.67,
+      "end": 603.334,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "mattress"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "床架摔碎了，但是床垫还在。他最后捡起的也是"
+        },
+        {
+          "lang": "en",
+          "text": "the mattress"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 603.684,
+      "end": 611.284,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "mattress"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这也解释了圆形结尾：一开始睡地板，后来有真床，最后只剩床垫回到地板。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 611.634,
+      "end": 614.266,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "gust"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "gust"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 614.616,
+      "end": 616.128,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "gust"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "gust"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 616.477,
+      "end": 622.109,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "gust"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A gust is a sudden strong push of wind."
+        },
+        {
+          "lang": "zh",
+          "text": "就是一阵突然很强的风。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 622.459,
+      "end": 627.203,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "gust"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文句子是："
+        },
+        {
+          "lang": "en",
+          "text": "A gust of wind swept the bed off the roof."
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 627.553,
+      "end": 636.813,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "gust"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "swept"
+        },
+        {
+          "lang": "zh",
+          "text": "是"
+        },
+        {
+          "lang": "en",
+          "text": "sweep"
+        },
+        {
+          "lang": "zh",
+          "text": "的过去式，意思是快速把东西推走、刮走。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 637.162,
+      "end": 642.002,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "gust"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后面接结果："
+        },
+        {
+          "lang": "en",
+          "text": "sent it crashing into the courtyard below"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 642.352,
+      "end": 650.16,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "gust"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Courtyard"
+        },
+        {
+          "lang": "zh",
+          "text": "是院子，不是楼道。理解这个词，就能看懂床从屋顶到院子的运动路线。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 650.51,
+      "end": 653.382,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "promptly"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "promptly"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 653.732,
+      "end": 655.436,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "promptly"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "promptly"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 655.786,
+      "end": 661.554,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "promptly"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Promptly means quickly and without delay."
+        },
+        {
+          "lang": "zh",
+          "text": "立刻，马上，不拖延。"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 661.904,
+      "end": 666.435,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "promptly"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文最后一句是："
+        },
+        {
+          "lang": "en",
+          "text": "he promptly went to sleep again"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 666.785,
+      "end": 678.609,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "promptly"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词是笑点。床"
+        },
+        {
+          "lang": "en",
+          "text": "was smashed to pieces"
+        },
+        {
+          "lang": "zh",
+          "text": "，人"
+        },
+        {
+          "lang": "en",
+          "text": "was miraculously unhurt"
+        },
+        {
+          "lang": "zh",
+          "text": "，他看了一眼碎木片和金属片，就马上又睡了。"
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "start": 678.959,
+      "end": 688.615,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "promptly"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里还可以记"
+        },
+        {
+          "lang": "en",
+          "text": "glancing at"
+        },
+        {
+          "lang": "zh",
+          "text": "，快速看一眼。不是认真研究损失，而是看一眼，捡起床垫，继续睡。"
+        }
+      ]
+    },
+    {
+      "i": 103,
+      "start": 688.965,
+      "end": 695.588,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的"
+        },
+        {
+          "lang": "en",
+          "text": "grammar board"
+        },
+        {
+          "lang": "zh",
+          "text": "叫：把圆形故事压缩成好记的英文。"
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "start": 695.938,
+      "end": 700.466,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块："
+        },
+        {
+          "lang": "en",
+          "text": "Tired of doing, subject plus action."
+        }
+      ]
+    },
+    {
+      "i": 105,
+      "start": 700.816,
+      "end": 709.344,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "展开是："
+        },
+        {
+          "lang": "en",
+          "text": "He was tired of sleeping on the floor."
+        },
+        {
+          "lang": "zh",
+          "text": "加上："
+        },
+        {
+          "lang": "en",
+          "text": "He saved up for years to buy a real bed."
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "start": 709.694,
+      "end": 716.654,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "压缩后就是："
+        },
+        {
+          "lang": "en",
+          "text": "Tired of sleeping on the floor, he saved up for years to buy a real bed."
+        }
+      ]
+    },
+    {
+      "i": 107,
+      "start": 717.004,
+      "end": 721.484,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文思路很简单：因为受够了睡地板，所以攒钱买床。"
+        }
+      ]
+    },
+    {
+      "i": 108,
+      "start": 721.833,
+      "end": 725.737,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块："
+        },
+        {
+          "lang": "en",
+          "text": "saved up for years to buy"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 109,
+      "start": 726.087,
+      "end": 736.687,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Save up"
+        },
+        {
+          "lang": "zh",
+          "text": "不是随手存一点，而是为了目标慢慢攒够。生活里可以说："
+        },
+        {
+          "lang": "en",
+          "text": "I saved up for months to buy a new chair."
+        }
+      ]
+    },
+    {
+      "i": 110,
+      "start": 737.037,
+      "end": 739.877,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块："
+        },
+        {
+          "lang": "en",
+          "text": "which had"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 111,
+      "start": 740.227,
+      "end": 748.498,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A bed which had springs and a mattress"
+        },
+        {
+          "lang": "zh",
+          "text": "，就是在"
+        },
+        {
+          "lang": "en",
+          "text": "a bed"
+        },
+        {
+          "lang": "zh",
+          "text": "后面补充“这张床有什么”。"
+        }
+      ]
+    },
+    {
+      "i": 112,
+      "start": 748.848,
+      "end": 752.36,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四块："
+        },
+        {
+          "lang": "en",
+          "text": "did not wake up until"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 113,
+      "start": 752.71,
+      "end": 760.774,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文先想：直到床撞地，他才醒。英语用："
+        },
+        {
+          "lang": "en",
+          "text": "did not wake up until the bed had struck the ground"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 114,
+      "start": 761.124,
+      "end": 764.068,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第五块："
+        },
+        {
+          "lang": "en",
+          "text": "Although"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 115,
+      "start": 764.418,
+      "end": 769.818,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Although the bed was smashed to pieces, the man was miraculously unhurt."
+        }
+      ]
+    },
+    {
+      "i": 116,
+      "start": 770.168,
+      "end": 777.231,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Although"
+        },
+        {
+          "lang": "zh",
+          "text": "前面放“按理说很糟糕”的情况，后面放出乎意料的结果。"
+        }
+      ]
+    },
+    {
+      "i": 117,
+      "start": 777.581,
+      "end": 779.461,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第六块是动作链。"
+        }
+      ]
+    },
+    {
+      "i": 118,
+      "start": 779.811,
+      "end": 785.619,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A gust of wind swept the bed off the roof and sent it crashing into the courtyard below."
+        }
+      ]
+    },
+    {
+      "i": 119,
+      "start": 785.969,
+      "end": 795.849,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句值得慢读：主语是一阵风，动作是 swept，方向是 off the roof，结果是 crashing into the courtyard below。"
+        }
+      ]
+    },
+    {
+      "i": 120,
+      "start": 796.199,
+      "end": 807.599,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天背诵不要先背一长串英文。先记中文镜头：地板、真床、屋顶、风暴、院子、床垫、地板，再把英文短语挂上去。"
+        }
+      ]
+    },
+    {
+      "i": 121,
+      "start": 807.949,
+      "end": 814.029,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进一个安全的现代生活场景，不去屋顶，也不搬重家具。"
+        }
+      ]
+    },
+    {
+      "i": 122,
+      "start": 814.379,
+      "end": 831.979,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "场景是：你写作业时总觉得旧椅子不舒服，于是攒钱买了一把新椅子。天气很热，你把椅子搬到窗边。忽然一阵风把作业纸吹得到处都是。你把纸捡回来，又马上继续写。"
+        }
+      ]
+    },
+    {
+      "i": 123,
+      "start": 832.329,
+      "end": 837.768,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先说“受够了旧椅子”："
+        },
+        {
+          "lang": "en",
+          "text": "I was tired of using the old chair."
+        }
+      ]
+    },
+    {
+      "i": 124,
+      "start": 838.118,
+      "end": 843.03,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再说攒钱："
+        },
+        {
+          "lang": "en",
+          "text": "I saved up for months to buy a new one."
+        }
+      ]
+    },
+    {
+      "i": 125,
+      "start": 843.38,
+      "end": 848.844,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "给出原因："
+        },
+        {
+          "lang": "en",
+          "text": "Because the room was very hot, I moved it near the window."
+        }
+      ]
+    },
+    {
+      "i": 126,
+      "start": 849.194,
+      "end": 854.562,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "用今天的动作链："
+        },
+        {
+          "lang": "en",
+          "text": "A gust of wind swept my homework off the desk."
+        }
+      ]
+    },
+    {
+      "i": 127,
+      "start": 854.912,
+      "end": 860.112,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再用反差："
+        },
+        {
+          "lang": "en",
+          "text": "Although the papers were everywhere, nothing was lost."
+        }
+      ]
+    },
+    {
+      "i": 128,
+      "start": 860.462,
+      "end": 865.309,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后收束："
+        },
+        {
+          "lang": "en",
+          "text": "I picked them up and promptly went back to work."
+        }
+      ]
+    },
+    {
+      "i": 129,
+      "start": 865.659,
+      "end": 888.779,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "连起来就是："
+        },
+        {
+          "lang": "en",
+          "text": "I was tired of using the old chair. I saved up for months to buy a new one. Because the room was very hot, I moved it near the window. A gust of wind swept my homework off the desk. Although the papers were everywhere, nothing was lost. I picked them up and promptly went back to work."
+        }
+      ]
+    },
+    {
+      "i": 130,
+      "start": 889.129,
+      "end": 896.449,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 131,
+      "start": 896.799,
+      "end": 903.999,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓中文圆形线：地板 -> 真床 -> 屋顶 -> 风暴 -> 院子 -> 床垫 -> 地板。"
+        }
+      ]
+    },
+    {
+      "i": 132,
+      "start": 904.349,
+      "end": 930.928,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再把"
+        },
+        {
+          "lang": "en",
+          "text": "English chunks"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺："
+        },
+        {
+          "lang": "en",
+          "text": "Tired of sleeping on the floor"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "saved up for years"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "For the first time in his life"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "a bed which had springs and a mattress"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "A gust of wind swept the bed off the roof"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "did not wake up until"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "miraculously unhurt"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "promptly went to sleep again"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 133,
+      "start": 931.278,
+      "end": 944.598,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习 tired of、saved up、gust、swept 和 promptly；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 134,
+      "start": 944.948,
+      "end": 955.5,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "The dream starts on the floor, reaches a real bed, and ends back on the floor."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 49
+}

@@ -1,0 +1,56 @@
+{
+  "lesson_id": 49,
+  "title": "A Windy Homework Day",
+  "question": "把今天的“受够了某件事 + 攒钱买新东西 + 一阵风造成小意外 + 立刻继续”放进安全的写作业场景：你换了一把新椅子，坐到窗边，风把作业纸吹散了。用 word bank 补完整 5 个空。",
+  "example_answer": "I was tired of using the old chair. I saved up for months to buy a new one. Because the room was very hot, I moved it near the window. A gust of wind swept my homework off the desk. Although the papers were everywhere, nothing was lost. I picked them up and promptly went back to work.",
+  "word_bank": [
+    "tired of",
+    "using",
+    "old chair",
+    "saved up",
+    "months",
+    "new one",
+    "Because",
+    "very hot",
+    "near",
+    "window",
+    "gust",
+    "swept",
+    "homework",
+    "Although",
+    "promptly"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说明你受够了旧椅子：我已经厌倦了用那把旧椅子",
+      "english_template": "I was ___ using the old chair.",
+      "expected_phrase": "tired of"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说明你慢慢攒钱买新椅子：我攒了几个月的钱买了一把新的",
+      "english_template": "I ___ for months to buy a new one.",
+      "expected_phrase": "saved up"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "给出原因：因为房间很热，我把它搬到窗边",
+      "english_template": "___ the room was very hot, I moved it near the window.",
+      "expected_phrase": "Because"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "用动作链描述一阵风：一阵风把我的作业从桌上吹了下去",
+      "english_template": "A gust of wind ___ my homework off the desk.",
+      "expected_phrase": "swept"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "用 promptly 收尾：我把它们捡起来，马上回去写作业",
+      "english_template": "I picked them up and ___ went back to work.",
+      "expected_phrase": "promptly"
+    }
+  ],
+  "mode": "all_fills"
+}

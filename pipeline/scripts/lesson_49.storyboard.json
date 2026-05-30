@@ -1,0 +1,23 @@
+{
+  "lesson_id": 49,
+  "title": "The end of a dream",
+  "visual_consistency": "A warm educational rooftop-and-courtyard comedy illustration without any readable text, letters, city labels, shop signs, map labels, speech bubbles, captions, UI panels, empty boxes, blank label spaces, or fake writing. The recurring young adult man from Tehran is in his mid-20s, medium-light olive skin, short wavy dark hair, long oval face, slim average build, wearing simple pale blue sleep shirt and loose sand-colored trousers; he looks ordinary, kind, sleepy, and gently comic, never caricatured. The recurring bed is a modest wooden bed frame with a cream mattress and simple visible metal springs, the same design in every frame; after the storm, the same cream mattress remains recognizable while bits of the wooden frame and metal springs are scattered. The setting is an old but respectful flat-roof house with a small courtyard below, warm walls, simple doorway, night heat atmosphere, and gentle child-safe staging. The mood is dry humor and surprise, never frightening, violent, graphic, or exoticized.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Inside the same simple warm room of the flat-roof house, the recurring young adult man in a pale blue sleep shirt and sand-colored trousers stands beside his newly bought modest wooden bed with the cream mattress and visible simple springs. He looks proud and happy, touching the bed gently as if it is a precious achievement after years of saving. The room is sparse and ordinary so the bed feels valuable. Warm evening light, gentle comic pride, respectful old-life setting. No readable text, no letters, no price tags, no store signs, no labels, no speech bubbles, no captions, no UI panels, no empty boxes, and no blank label spaces."
+    },
+    {
+      "frame": 2,
+      "prompt": "On the flat roof of the same house on a hot calm night, the same modest wooden bed with cream mattress is set up within the story world, and the recurring young man sleeps comfortably on it in his pale blue sleep shirt and sand-colored trousers. The roof is clearly part of a low traditional house, with the small courtyard visible below and warm walls around the scene, not a modern high-rise balcony. The mood is still, hot, and understandable rather than adventurous. No readable text, no letters, no city labels, no signs, no labels, no speech bubbles, no captions, no UI panels, no empty boxes, and no blank label spaces."
+    },
+    {
+      "frame": 3,
+      "prompt": "A sudden night storm reaches the same flat-roof house in a safe comic way. Strong wind sweeps the same wooden bed frame away from the roof edge while the cream mattress is shown cushioning the sleepy young man in a non-frightening, cartoon-gentle moment; the courtyard below is visible enough to understand where the bed is going. Keep the young man's body pose relaxed and protected, with no scary fall, no panic close-up, no injury, and no disaster-movie mood. Wind, cloth movement, and tilted bed pieces show the action. No readable text, no letters, no signs, no labels, no speech bubbles, no captions, no UI panels, no empty boxes, and no blank label spaces."
+    },
+    {
+      "frame": 4,
+      "prompt": "After the storm in the courtyard and doorway area of the same house, broken bits of the same wooden bed frame and simple metal springs lie scattered safely around the recognizable cream mattress. The recurring young man is unhurt, sleepy, and sadly comic, carrying or dragging the cream mattress back toward the room, with a hint that he will sleep on the floor again. The scene should feel like a dry comic ending: the dream bed is gone, but he is ready to sleep. No blood, no injury, no tragic expression, no readable text, no letters, no signs, no labels, no speech bubbles, no captions, no UI panels, no empty boxes, and no blank label spaces."
+    }
+  ]
+}
