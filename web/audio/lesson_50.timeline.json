@@ -1,0 +1,3040 @@
+{
+  "total_duration": 1020.687,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 10.876,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天这课先从一个孩子可能没见过的公交场景开始：车上不只有"
+        },
+        {
+          "lang": "en",
+          "text": "driver"
+        },
+        {
+          "lang": "zh",
+          "text": "，还有"
+        },
+        {
+          "lang": "en",
+          "text": "conductor"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 11.226,
+      "end": 20.241,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Driver"
+        },
+        {
+          "lang": "zh",
+          "text": "坐在前面开车；"
+        },
+        {
+          "lang": "en",
+          "text": "conductor"
+        },
+        {
+          "lang": "zh",
+          "text": "在车厢里走动，卖票、查票，也照看乘客。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 20.591,
+      "end": 29.191,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "conductor"
+        },
+        {
+          "lang": "zh",
+          "text": "不是音乐会上挥棒的人，而是旧式公交车上的售票员和乘客管理员。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 29.541,
+      "end": 38.661,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在我们坐车，可能刷卡、扫码、听自动报站，或者看手机地图。可是课文像是一个没有手机导航、没有自动报站的时代。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 39.011,
+      "end": 50.346,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以主人公上车后不是乱坐。他一上车就告诉"
+        },
+        {
+          "lang": "en",
+          "text": "conductor"
+        },
+        {
+          "lang": "zh",
+          "text": "：我要去"
+        },
+        {
+          "lang": "en",
+          "text": "Woodford Green"
+        },
+        {
+          "lang": "zh",
+          "text": "，但我不知道在哪里下车。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 50.696,
+      "end": 59.152,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Woodford Green"
+        },
+        {
+          "lang": "zh",
+          "text": "是一个地名，不用翻译成一片绿色草地。只要记住：这是他想去的地方。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 59.502,
+      "end": 67.358,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Conductor"
+        },
+        {
+          "lang": "zh",
+          "text": "答应他说："
+        },
+        {
+          "lang": "en",
+          "text": "I'll tell you where to get off."
+        },
+        {
+          "lang": "zh",
+          "text": "到了该下车的地方，我会告诉你。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 67.708,
+      "end": 75.5,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "于是主人公放心了，坐到车前面看乡间风景："
+        },
+        {
+          "lang": "en",
+          "text": "to get a good view of the countryside"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 75.85,
+      "end": 81.25,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "问题来了：他看风景看得太投入，负责提醒他的人也忘了提醒。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 81.599,
+      "end": 87.239,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "等车停下来，他一看，车上只剩自己一个乘客。公交车已经到终点了。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 87.589,
+      "end": 97.893,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Conductor"
+        },
+        {
+          "lang": "zh",
+          "text": "这才想起："
+        },
+        {
+          "lang": "en",
+          "text": "I forgot to put you off."
+        },
+        {
+          "lang": "zh",
+          "text": "这里不是“我让你不喜欢了”，而是“我忘了提醒你下车”。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 98.243,
+      "end": 109.715,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "车马上要往回开，主人公一想：既然这样，我还不如下次坐回去。所以他说："
+        },
+        {
+          "lang": "en",
+          "text": "In that case, I prefer to stay on the bus."
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 110.065,
+      "end": 122.825,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天先记中文电影线：上车问 conductor -> conductor 答应提醒 -> 他看风景 -> 车到终点 -> conductor 才发现忘了叫他下车 -> 车要返回 -> 他继续坐。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 123.175,
+      "end": 126.335,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一段，喜欢旅行，但怕迷路。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 126.684,
+      "end": 133.884,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：他喜欢在乡间旅行，但不喜欢迷路；最近一次短途旅行比预想更久。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 134.234,
+      "end": 138.002,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "开头是："
+        },
+        {
+          "lang": "en",
+          "text": "I love travelling in the country"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 138.352,
+      "end": 147.776,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "the country"
+        },
+        {
+          "lang": "zh",
+          "text": "不是“某个国家里面”，而是"
+        },
+        {
+          "lang": "en",
+          "text": "the countryside"
+        },
+        {
+          "lang": "zh",
+          "text": "，乡间、农村地区。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 148.126,
+      "end": 152.918,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后面马上有一个反差："
+        },
+        {
+          "lang": "en",
+          "text": "but I don't like losing my way"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 153.268,
+      "end": 160.803,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Losing my way"
+        },
+        {
+          "lang": "zh",
+          "text": "是自然的英文，不是丢了道路，而是迷路、不知道该往哪里走。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 161.153,
+      "end": 165.345,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着他说："
+        },
+        {
+          "lang": "en",
+          "text": "I went on an excursion recently"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 165.695,
+      "end": 174.735,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "An excursion"
+        },
+        {
+          "lang": "zh",
+          "text": "是一次短途游、短途旅行，比"
+        },
+        {
+          "lang": "en",
+          "text": "trip"
+        },
+        {
+          "lang": "zh",
+          "text": "听起来正式一点。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 175.085,
+      "end": 179.397,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结果呢？"
+        },
+        {
+          "lang": "en",
+          "text": "my trip took me longer than I expected"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 179.746,
+      "end": 185.458,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句生活里特别好用："
+        },
+        {
+          "lang": "en",
+          "text": "The homework took me longer than I expected."
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 185.808,
+      "end": 193.368,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一段中文电影线是：喜欢乡间旅行 -> 不喜欢迷路 -> 去短途旅行 -> 花的时间比想象更久。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 193.718,
+      "end": 196.078,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二段，上车求助 conductor。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 196.428,
+      "end": 205.068,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：他上车时告诉 conductor 自己要去 Woodford Green，但不知道在哪下车；conductor 说会提醒他。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 205.418,
+      "end": 209.37,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先看动作时间："
+        },
+        {
+          "lang": "en",
+          "text": "as I got on the bus"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 209.72,
+      "end": 213.984,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里就是 when，一上车的时候。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 214.334,
+      "end": 218.005,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他对谁说？"
+        },
+        {
+          "lang": "en",
+          "text": "I said to the conductor"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 218.355,
+      "end": 226.055,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个"
+        },
+        {
+          "lang": "en",
+          "text": "conductor"
+        },
+        {
+          "lang": "zh",
+          "text": "在旧式公交上管乘客和车票，所以他可以帮忙提醒乘客下车。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 226.405,
+      "end": 232.285,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "主人公说："
+        },
+        {
+          "lang": "en",
+          "text": "I'm going to Woodford Green"
+        },
+        {
+          "lang": "zh",
+          "text": "，我要去 Woodford Green。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 232.635,
+      "end": 241.019,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后补一句："
+        },
+        {
+          "lang": "en",
+          "text": "but I don't know where it is"
+        },
+        {
+          "lang": "zh",
+          "text": "。意思不是他完全没问路，而是他不知道哪一站下车。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 241.368,
+      "end": 245.984,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "conductor 的回答很关键："
+        },
+        {
+          "lang": "en",
+          "text": "I'll tell you where to get off."
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 246.334,
+      "end": 258.174,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Where to get off"
+        },
+        {
+          "lang": "zh",
+          "text": "是“在哪里下车”。这个结构还能变成："
+        },
+        {
+          "lang": "en",
+          "text": "where to wait"
+        },
+        {
+          "lang": "zh",
+          "text": "，在哪里等；"
+        },
+        {
+          "lang": "en",
+          "text": "where to buy tickets"
+        },
+        {
+          "lang": "zh",
+          "text": "，在哪里买票。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 258.524,
+      "end": 265.884,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一段中文电影线是：一上车 -> 说明目的地 -> 不知道在哪下 -> conductor 答应提醒。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 266.234,
+      "end": 268.474,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三段，看风景看过站。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 268.823,
+      "end": 276.143,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：他坐在车前面看乡间风景，过了一会儿车停了，他才发现车上只剩自己。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 276.493,
+      "end": 279.997,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他坐在哪里？"
+        },
+        {
+          "lang": "en",
+          "text": "in the front of the bus"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 280.347,
+      "end": 284.979,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么坐前面？"
+        },
+        {
+          "lang": "en",
+          "text": "to get a good view of the countryside"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 285.329,
+      "end": 292.929,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "to get"
+        },
+        {
+          "lang": "zh",
+          "text": "表示目的。坐前排不是随便坐，是为了看得清楚。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 293.279,
+      "end": 297.558,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "时间推进："
+        },
+        {
+          "lang": "en",
+          "text": "After some time"
+        },
+        {
+          "lang": "zh",
+          "text": "，过了一会儿。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 297.908,
+      "end": 301.38,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后车停了："
+        },
+        {
+          "lang": "en",
+          "text": "the bus stopped"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 301.73,
+      "end": 307.002,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接下来课文把动作压缩得很漂亮："
+        },
+        {
+          "lang": "en",
+          "text": "Looking round"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 307.352,
+      "end": 310.672,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文先想：他环顾四周，一看周围。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 311.022,
+      "end": 317.086,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他发现什么？"
+        },
+        {
+          "lang": "en",
+          "text": "I realized with a shock that I was the only passenger left on the bus."
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 317.436,
+      "end": 325.395,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "With a shock"
+        },
+        {
+          "lang": "zh",
+          "text": "是很吃惊；"
+        },
+        {
+          "lang": "en",
+          "text": "the only passenger left"
+        },
+        {
+          "lang": "zh",
+          "text": "是剩下的唯一乘客。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 325.745,
+      "end": 334.705,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一段笑点开始出现：他想避免迷路，所以请 conductor 帮忙；结果因为太放心，反而坐过了站。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 335.055,
+      "end": 338.095,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四段，忘了提醒，只好多坐。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 338.445,
+      "end": 347.365,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：conductor 说车到终点了，才想起忘了叫他下车；车要开回去，他干脆继续坐。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 347.715,
+      "end": 351.627,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "conductor 先说："
+        },
+        {
+          "lang": "en",
+          "text": "You'll have to get off here."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 351.977,
+      "end": 355.736,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后解释原因："
+        },
+        {
+          "lang": "en",
+          "text": "This is as far as we go."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 356.086,
+      "end": 363.39,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As far as we go"
+        },
+        {
+          "lang": "zh",
+          "text": "的意思是“我们的车最远就到这里”，也就是路线到终点了。"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 363.74,
+      "end": 367.524,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "主人公问："
+        },
+        {
+          "lang": "en",
+          "text": "Is this Woodford Green?"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 367.874,
+      "end": 371.858,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这时 conductor 才突然想起来："
+        },
+        {
+          "lang": "en",
+          "text": "Oh dear"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 372.208,
+      "end": 376.312,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最重要的一句来了："
+        },
+        {
+          "lang": "en",
+          "text": "I forgot to put you off."
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 376.662,
+      "end": 384.477,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在这个旧式公交语境里，"
+        },
+        {
+          "lang": "en",
+          "text": "put you off"
+        },
+        {
+          "lang": "zh",
+          "text": "不是让你讨厌什么，而是“提醒你下车、让你下车”。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 384.827,
+      "end": 390.227,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "主人公先说："
+        },
+        {
+          "lang": "en",
+          "text": "It doesn't matter. I'll get off here."
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 390.577,
+      "end": 394.241,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但是 conductor 又说："
+        },
+        {
+          "lang": "en",
+          "text": "We're going back now."
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 394.591,
+      "end": 402.647,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "既然车要往回开，主人公改变决定："
+        },
+        {
+          "lang": "en",
+          "text": "Well, in that case, I prefer to stay on the bus."
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 402.997,
+      "end": 410.5,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In that case"
+        },
+        {
+          "lang": "zh",
+          "text": "是“既然这样”；"
+        },
+        {
+          "lang": "en",
+          "text": "prefer to stay"
+        },
+        {
+          "lang": "zh",
+          "text": "是“更愿意继续待着”。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 410.85,
+      "end": 419.05,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一段中文电影线是：到终点 -> 才发现忘了提醒 -> 准备下车 -> 车要返回 -> 继续坐。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 419.4,
+      "end": 427.189,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，为什么公交车上会有"
+        },
+        {
+          "lang": "en",
+          "text": "conductor"
+        },
+        {
+          "lang": "zh",
+          "text": "？现在公交车上一般只有司机吧。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 427.538,
+      "end": 443.814,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，所以这课必须先搭旧场景。现在很多公交车有刷卡、扫码、自动报站和手机地图；课文里的公交车更旧，车上有"
+        },
+        {
+          "lang": "en",
+          "text": "driver"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "conductor"
+        },
+        {
+          "lang": "zh",
+          "text": "两个角色。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 444.164,
+      "end": 450.385,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Driver"
+        },
+        {
+          "lang": "zh",
+          "text": "开车，"
+        },
+        {
+          "lang": "en",
+          "text": "conductor"
+        },
+        {
+          "lang": "zh",
+          "text": "管乘客和车票？"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 450.735,
+      "end": 456.775,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "正是。conductor 可以卖票、查票，也可能告诉乘客在哪里下车。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 457.125,
+      "end": 461.076,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那主人公不是完全没准备，他其实问过了？"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 461.425,
+      "end": 471.345,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "很好。他一上车就说："
+        },
+        {
+          "lang": "en",
+          "text": "I'm going to Woodford Green, but I don't know where it is."
+        },
+        {
+          "lang": "zh",
+          "text": "他是在请 conductor 做一个人肉到站提醒。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 471.695,
+      "end": 476.741,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Woodford Green"
+        },
+        {
+          "lang": "zh",
+          "text": "是什么？一片绿色木头地吗？"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 477.09,
+      "end": 483.13,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不要这么翻译。它就是一个地名。这里不用讲复杂地理，只要知道这是他的目的地。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 483.48,
+      "end": 485.548,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "conductor 答应了什么？"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 485.898,
+      "end": 496.074,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I'll tell you where to get off."
+        },
+        {
+          "lang": "zh",
+          "text": "这句话里面的"
+        },
+        {
+          "lang": "en",
+          "text": "where to get off"
+        },
+        {
+          "lang": "zh",
+          "text": "很实用，也可以说"
+        },
+        {
+          "lang": "en",
+          "text": "Please tell me where to wait."
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 496.424,
+      "end": 499.49,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后来他为什么没有发现坐过站？"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 499.84,
+      "end": 509.992,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他坐在车前面，"
+        },
+        {
+          "lang": "en",
+          "text": "to get a good view of the countryside"
+        },
+        {
+          "lang": "zh",
+          "text": "。他被乡间风景吸引了，其他乘客也陆续下车，最后只剩他一个。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 510.342,
+      "end": 515.097,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "This is as far as we go"
+        },
+        {
+          "lang": "zh",
+          "text": "是说他们走不动了吗？"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 515.447,
+      "end": 520.907,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。它是公交线路的意思：我们的车最远就到这里。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 521.257,
+      "end": 525.586,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I forgot to put you off"
+        },
+        {
+          "lang": "zh",
+          "text": "听起来有点怪。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 525.936,
+      "end": 534.976,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "是这课最要小心的一句。在这里，它不是“让你不喜欢了”，而是 conductor 忘了提醒他在正确地点下车。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 535.326,
+      "end": 540.033,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "标题"
+        },
+        {
+          "lang": "en",
+          "text": "Taken for a ride"
+        },
+        {
+          "lang": "zh",
+          "text": "是不是也有玩笑？"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 540.383,
+      "end": 552.903,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。这个短语可以有“被骗”的意思。但这篇里不是恶意欺骗，而是字面上的“被带着多坐了一程”。标题是在开一个温和的小玩笑。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 553.253,
+      "end": 555.462,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后他为什么不下车？"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 555.811,
+      "end": 567.067,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为车要开回去："
+        },
+        {
+          "lang": "en",
+          "text": "We're going back now."
+        },
+        {
+          "lang": "zh",
+          "text": "所以他说："
+        },
+        {
+          "lang": "en",
+          "text": "In that case, I prefer to stay on the bus."
+        },
+        {
+          "lang": "zh",
+          "text": "既然如此，我还是坐着回去吧。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 567.417,
+      "end": 571.713,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I love travelling in the country, but I don't like losing my way."
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 572.063,
+      "end": 577.151,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I went on an excursion recently, but my trip took me longer than I expected."
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 577.501,
+      "end": 583.525,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'I'm going to Woodford Green,' I said to the conductor as I got on the bus, 'but I don't know where it is.'"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 583.875,
+      "end": 587.355,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'I'll tell you where to get off.' answered the conductor."
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 587.704,
+      "end": 591.952,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I sat in the front of the bus to get a good view of the countryside."
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 592.302,
+      "end": 595.206,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "After some time, the bus stopped."
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 595.556,
+      "end": 600.98,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Looking round, I realized with a shock that I was the only passenger left on the bus."
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 601.33,
+      "end": 604.618,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'You'll have to get off here,' the conductor said."
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 604.968,
+      "end": 607.416,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'This is as far as we go.'"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 607.766,
+      "end": 611.75,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Is this Woodford Green?' I asked."
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 612.1,
+      "end": 615.244,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Oh dear,' said the conductor suddenly."
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 615.594,
+      "end": 618.042,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'I forgot to put you off.'"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 618.391,
+      "end": 620.983,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'It doesn't matter,' I said."
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 621.333,
+      "end": 623.397,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'I'll get off here.'"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 623.747,
+      "end": 626.939,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'We're going back now,' said the conductor."
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 627.289,
+      "end": 631.585,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Well, in that case, I prefer to stay on the bus,' I answered."
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 631.935,
+      "end": 634.695,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "conductor"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "conductor"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 635.045,
+      "end": 636.869,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "conductor"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "conductor"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 637.219,
+      "end": 644.578,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "conductor"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在这课里，"
+        },
+        {
+          "lang": "en",
+          "text": "a conductor is a person on an old bus who sells or checks tickets and helps passengers."
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 644.928,
+      "end": 651.488,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "conductor"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词不要先想到音乐会。这里是旧式公交车上的售票员、查票员、乘客管理员。"
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 651.838,
+      "end": 660.238,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "conductor"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里主人公一上车就对"
+        },
+        {
+          "lang": "en",
+          "text": "the conductor"
+        },
+        {
+          "lang": "zh",
+          "text": "说话，因为 conductor 可以告诉他哪里下车。"
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "start": 660.588,
+      "end": 665.788,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "conductor"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后笑点也和这个职责有关：conductor 答应提醒，却忘了提醒。"
+        }
+      ]
+    },
+    {
+      "i": 103,
+      "start": 666.138,
+      "end": 669.058,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "excursion"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "excursion"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "start": 669.408,
+      "end": 671.184,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "excursion"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "excursion"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 105,
+      "start": 671.534,
+      "end": 679.573,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "excursion"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "An excursion is a short trip, often for pleasure."
+        },
+        {
+          "lang": "zh",
+          "text": "通常是为了玩、参观、散心的一次短途旅行。"
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "start": 679.923,
+      "end": 684.235,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "excursion"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文句子是："
+        },
+        {
+          "lang": "en",
+          "text": "I went on an excursion recently."
+        }
+      ]
+    },
+    {
+      "i": 107,
+      "start": 684.585,
+      "end": 688.905,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "excursion"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它不是每天上学那种固定通勤，而是一次出门游玩。"
+        }
+      ]
+    },
+    {
+      "i": 108,
+      "start": 689.255,
+      "end": 697.127,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "excursion"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后面接："
+        },
+        {
+          "lang": "en",
+          "text": "my trip took me longer than I expected"
+        },
+        {
+          "lang": "zh",
+          "text": "，说明这次短途旅行花的时间比想象久。"
+        }
+      ]
+    },
+    {
+      "i": 109,
+      "start": 697.477,
+      "end": 700.301,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "prefer"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "prefer"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 110,
+      "start": 700.65,
+      "end": 702.33,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "prefer"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "prefer"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 111,
+      "start": 702.68,
+      "end": 708.152,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "prefer"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Prefer means to choose one thing because you like it better or it works better for you."
+        }
+      ]
+    },
+    {
+      "i": 112,
+      "start": 708.502,
+      "end": 712.406,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "prefer"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文结尾是："
+        },
+        {
+          "lang": "en",
+          "text": "I prefer to stay on the bus."
+        }
+      ]
+    },
+    {
+      "i": 113,
+      "start": 712.756,
+      "end": 716.516,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "prefer"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他不是特别喜欢坐错车，而是在新的情况下做选择。"
+        }
+      ]
+    },
+    {
+      "i": 114,
+      "start": 716.866,
+      "end": 727.202,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "prefer"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为 conductor 说"
+        },
+        {
+          "lang": "en",
+          "text": "We're going back now"
+        },
+        {
+          "lang": "zh",
+          "text": "，车要往回开，所以他说："
+        },
+        {
+          "lang": "en",
+          "text": "In that case, I prefer to stay on the bus."
+        }
+      ]
+    },
+    {
+      "i": 115,
+      "start": 727.552,
+      "end": 732.679,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "prefer"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "生活里也可以说："
+        },
+        {
+          "lang": "en",
+          "text": "If it is raining, I prefer to stay inside."
+        }
+      ]
+    },
+    {
+      "i": 116,
+      "start": 733.029,
+      "end": 740.573,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的"
+        },
+        {
+          "lang": "en",
+          "text": "grammar board"
+        },
+        {
+          "lang": "zh",
+          "text": "叫：把“旅行、求助、反转”说清楚。"
+        }
+      ]
+    },
+    {
+      "i": 117,
+      "start": 740.923,
+      "end": 746.503,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块："
+        },
+        {
+          "lang": "en",
+          "text": "love doing"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "don't like doing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 118,
+      "start": 746.853,
+      "end": 752.701,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文句子是："
+        },
+        {
+          "lang": "en",
+          "text": "I love travelling in the country, but I don't like losing my way."
+        }
+      ]
+    },
+    {
+      "i": 119,
+      "start": 753.05,
+      "end": 759.37,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文先记：喜欢乡间旅行，但不喜欢迷路。这个反差直接把故事推出来。"
+        }
+      ]
+    },
+    {
+      "i": 120,
+      "start": 759.72,
+      "end": 763.672,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块："
+        },
+        {
+          "lang": "en",
+          "text": "take plus person plus time"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 121,
+      "start": 764.022,
+      "end": 771.494,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "My trip took me longer than I expected."
+        },
+        {
+          "lang": "zh",
+          "text": "不是我拿走了旅行，而是这趟旅行花了我更久时间。"
+        }
+      ]
+    },
+    {
+      "i": 122,
+      "start": 771.844,
+      "end": 776.396,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以套用："
+        },
+        {
+          "lang": "en",
+          "text": "The homework took me longer than I expected."
+        }
+      ]
+    },
+    {
+      "i": 123,
+      "start": 776.746,
+      "end": 780.138,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块："
+        },
+        {
+          "lang": "en",
+          "text": "as I got on the bus"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 124,
+      "start": 780.487,
+      "end": 788.151,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里是“当……的时候”。中文可以想成：我一上车就对 conductor 说。"
+        }
+      ]
+    },
+    {
+      "i": 125,
+      "start": 788.501,
+      "end": 791.701,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四块："
+        },
+        {
+          "lang": "en",
+          "text": "where to plus verb"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 126,
+      "start": 792.051,
+      "end": 802.531,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Where to get off"
+        },
+        {
+          "lang": "zh",
+          "text": "是在哪里下车；"
+        },
+        {
+          "lang": "en",
+          "text": "where to wait"
+        },
+        {
+          "lang": "zh",
+          "text": "是在哪里等；"
+        },
+        {
+          "lang": "en",
+          "text": "where to buy tickets"
+        },
+        {
+          "lang": "zh",
+          "text": "是在哪里买票。"
+        }
+      ]
+    },
+    {
+      "i": 127,
+      "start": 802.88,
+      "end": 806.28,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第五块："
+        },
+        {
+          "lang": "en",
+          "text": "to get a good view"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 128,
+      "start": 806.63,
+      "end": 813.63,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "To get"
+        },
+        {
+          "lang": "zh",
+          "text": "表示目的：他坐在车前面，是为了看清楚乡间风景。"
+        }
+      ]
+    },
+    {
+      "i": 129,
+      "start": 813.98,
+      "end": 818.5,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第六块："
+        },
+        {
+          "lang": "en",
+          "text": "Looking round, I realized with a shock"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 130,
+      "start": 818.85,
+      "end": 827.602,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "英文先用"
+        },
+        {
+          "lang": "en",
+          "text": "Looking round"
+        },
+        {
+          "lang": "zh",
+          "text": "压缩一个小动作，再说主要发现：他震惊地发现车上只剩自己。"
+        }
+      ]
+    },
+    {
+      "i": 131,
+      "start": 827.952,
+      "end": 831.632,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第七块："
+        },
+        {
+          "lang": "en",
+          "text": "This is as far as we go"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 132,
+      "start": 831.981,
+      "end": 836.341,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句表示路线终点：我们的车最远就到这里。"
+        }
+      ]
+    },
+    {
+      "i": 133,
+      "start": 836.691,
+      "end": 841.323,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第八块："
+        },
+        {
+          "lang": "en",
+          "text": "In that case, I prefer to stay on the bus."
+        }
+      ]
+    },
+    {
+      "i": 134,
+      "start": 841.673,
+      "end": 849.169,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In that case"
+        },
+        {
+          "lang": "zh",
+          "text": "是“既然这样”；"
+        },
+        {
+          "lang": "en",
+          "text": "prefer to"
+        },
+        {
+          "lang": "zh",
+          "text": "是“更愿意做某事”。"
+        }
+      ]
+    },
+    {
+      "i": 135,
+      "start": 849.519,
+      "end": 860.639,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天背诵不要先背英文长串。先记中文镜头：问 conductor -> 答应提醒 -> 看风景 -> 到终点 -> 忘提醒 -> 要返回 -> 继续坐。"
+        }
+      ]
+    },
+    {
+      "i": 136,
+      "start": 860.989,
+      "end": 869.709,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把这课放进一个现代但安全的生活场景：你去一个很大的公园参加活动，要坐景区接驳车。"
+        }
+      ]
+    },
+    {
+      "i": 137,
+      "start": 870.058,
+      "end": 881.054,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现代公交车通常没有 conductor，所以这里用"
+        },
+        {
+          "lang": "en",
+          "text": "attendant"
+        },
+        {
+          "lang": "zh",
+          "text": "或"
+        },
+        {
+          "lang": "en",
+          "text": "staff member"
+        },
+        {
+          "lang": "zh",
+          "text": "，也就是车上的工作人员。"
+        }
+      ]
+    },
+    {
+      "i": 138,
+      "start": 881.404,
+      "end": 888.82,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你不熟悉路线，上车时请工作人员提醒你在哪里下车："
+        },
+        {
+          "lang": "en",
+          "text": "Please tell me where to get off."
+        }
+      ]
+    },
+    {
+      "i": 139,
+      "start": 889.17,
+      "end": 894.018,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你坐到前排看风景："
+        },
+        {
+          "lang": "en",
+          "text": "I sat in the front to get a good view."
+        }
+      ]
+    },
+    {
+      "i": 140,
+      "start": 894.368,
+      "end": 902.448,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结果工作人员一忙忘了提醒。车到终点时，你才发现只剩自己一个乘客。"
+        }
+      ]
+    },
+    {
+      "i": 141,
+      "start": 902.797,
+      "end": 907.181,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "工作人员说："
+        },
+        {
+          "lang": "en",
+          "text": "I forgot to tell you where to get off."
+        }
+      ]
+    },
+    {
+      "i": 142,
+      "start": 907.531,
+      "end": 912.495,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后他说车现在要开回去："
+        },
+        {
+          "lang": "en",
+          "text": "We're going back now."
+        }
+      ]
+    },
+    {
+      "i": 143,
+      "start": 912.845,
+      "end": 918.197,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你就用今天的结尾："
+        },
+        {
+          "lang": "en",
+          "text": "In that case, I prefer to stay on the bus."
+        }
+      ]
+    },
+    {
+      "i": 144,
+      "start": 918.547,
+      "end": 945.027,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "连起来就是："
+        },
+        {
+          "lang": "en",
+          "text": "I love visiting big parks, but I don't like losing my way. I got on the shuttle bus and spoke to the attendant. Please tell me where to get off. I sat in the front to get a good view. After some time, I realized with a shock that I was the only passenger left. We're going back now. In that case, I prefer to stay on the bus."
+        }
+      ]
+    },
+    {
+      "i": 145,
+      "start": 945.377,
+      "end": 952.697,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 146,
+      "start": 953.046,
+      "end": 966.186,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓中文电影线：上车问 conductor -> conductor 答应提醒 -> 他坐前排看风景 -> 车到终点 -> conductor 忘了提醒 -> 车要返回 -> 他继续坐。"
+        }
+      ]
+    },
+    {
+      "i": 147,
+      "start": 966.536,
+      "end": 992.267,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再把"
+        },
+        {
+          "lang": "en",
+          "text": "English chunks"
+        },
+        {
+          "lang": "zh",
+          "text": "挂上去："
+        },
+        {
+          "lang": "en",
+          "text": "I love travelling in the country"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "losing my way"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "an excursion"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "where to get off"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "the only passenger left"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "This is as far as we go"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "I forgot to put you off"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "in that case"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "I prefer to stay on the bus"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 148,
+      "start": 992.617,
+      "end": 1008.657,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，练习 where to get off、took me longer than I expected、only passenger left 和 in that case；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 149,
+      "start": 1009.007,
+      "end": 1020.687,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "The passenger asked for help, trusted the conductor, missed the stop, and chose to ride back."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 50
+}

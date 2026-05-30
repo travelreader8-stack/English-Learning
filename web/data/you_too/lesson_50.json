@@ -1,0 +1,56 @@
+{
+  "lesson_id": 50,
+  "title": "A Shuttle Ride",
+  "question": "把今天的“喜欢出行但怕迷路 + 请工作人员提醒下车 + 看风景坐过站 + 既然车要返回就继续坐”放进公园接驳车场景。用 word bank 补完整 5 个空。",
+  "example_answer": "I love visiting big parks, but I don't like losing my way. I got on the shuttle bus and spoke to the attendant. Please tell me where to get off. I sat in the front to get a good view. After some time, I realized with a shock that I was the only passenger left. We're going back now. In that case, I prefer to stay on the bus.",
+  "word_bank": [
+    "love",
+    "visiting",
+    "big parks",
+    "losing my way",
+    "shuttle bus",
+    "attendant",
+    "where to get off",
+    "front",
+    "good view",
+    "After some time",
+    "with a shock",
+    "only passenger left",
+    "going back",
+    "In that case",
+    "prefer to stay"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说出你喜欢去大公园，但不喜欢迷路",
+      "english_template": "I love visiting big parks, but I don't like ___.",
+      "expected_phrase": "losing my way"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "请车上的工作人员告诉你在哪里下车",
+      "english_template": "Please tell me ___.",
+      "expected_phrase": "where to get off"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说明你坐在前面是为了好好看风景",
+      "english_template": "I sat in the front to get a ___.",
+      "expected_phrase": "good view"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说你震惊地发现自己是车上剩下的唯一乘客",
+      "english_template": "I realized with a shock that I was the ___.",
+      "expected_phrase": "only passenger left"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "既然车要返回，你宁愿继续坐在车上",
+      "english_template": "In that case, I ___.",
+      "expected_phrase": "prefer to stay"
+    }
+  ],
+  "mode": "all_fills"
+}

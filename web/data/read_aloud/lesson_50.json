@@ -1,0 +1,108 @@
+{
+  "lesson_id": 50,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按中文电影线记忆：喜欢乡间旅行但怕迷路、上车请 conductor 提醒、坐前排看风景、发现只剩自己、车到终点、conductor 忘了提醒、车要返回、他决定继续坐。读的时候注意对话节奏，where to get off 和 I forgot to put you off 要慢一点。",
+  "sentences": [
+    {
+      "id": "l50_s1",
+      "text": "I love travelling in the country, but I don't like losing my way.",
+      "focus_zh": "中文锚点：他喜欢乡间旅行，但不喜欢迷路。in the country 是乡间，losing my way 是迷路，but 后面要读出反差。",
+      "start": 567.417,
+      "end": 571.713,
+      "focus_words": [
+        "travelling in the country",
+        "but",
+        "losing my way"
+      ]
+    },
+    {
+      "id": "l50_s2",
+      "text": "I went on an excursion recently, but my trip took me longer than I expected.",
+      "focus_zh": "中文锚点：最近他去了一次短途旅行，但比预想花得更久。excursion 慢读，took me longer than I expected 是整句核心。",
+      "start": 572.063,
+      "end": 577.151,
+      "focus_words": [
+        "went on an excursion",
+        "recently",
+        "took me longer",
+        "than I expected"
+      ]
+    },
+    {
+      "id": "l50_s3",
+      "text": "'I'm going to Woodford Green,' I said to the conductor as I got on the bus, 'but I don't know where it is.' 'I'll tell you where to get off.' answered the conductor.",
+      "focus_zh": "中文锚点：他一上车就告诉 conductor 自己要去 Woodford Green，但不知道在哪下车；conductor 答应提醒。Woodford Green 当作地名读，where to get off 要清楚。",
+      "start": 577.501,
+      "end": 587.355,
+      "focus_words": [
+        "Woodford Green",
+        "conductor",
+        "as I got on the bus",
+        "where to get off"
+      ]
+    },
+    {
+      "id": "l50_s4",
+      "text": "I sat in the front of the bus to get a good view of the countryside.",
+      "focus_zh": "中文锚点：他坐在车前面，为了好好看看乡间风景。to get a good view 表示目的，countryside 三部分读清楚。",
+      "start": 587.704,
+      "end": 591.952,
+      "focus_words": [
+        "in the front",
+        "to get a good view",
+        "countryside"
+      ]
+    },
+    {
+      "id": "l50_s5",
+      "text": "After some time, the bus stopped. Looking round, I realized with a shock that I was the only passenger left on the bus.",
+      "focus_zh": "中文锚点：过了一会儿车停了，他环顾四周，震惊地发现车上只剩自己。Looking round 后稍停，only passenger left 是画面重点。",
+      "start": 592.302,
+      "end": 600.98,
+      "focus_words": [
+        "After some time",
+        "Looking round",
+        "with a shock",
+        "only passenger left"
+      ]
+    },
+    {
+      "id": "l50_s6",
+      "text": "'You'll have to get off here,' the conductor said. 'This is as far as we go.'",
+      "focus_zh": "中文锚点：conductor 说你得在这里下车，因为车最远就到这里。as far as we go 表示路线终点，不是人走不动。",
+      "start": 601.33,
+      "end": 607.416,
+      "focus_words": [
+        "have to get off",
+        "conductor said",
+        "as far as we go"
+      ]
+    },
+    {
+      "id": "l50_s7",
+      "text": "'Is this Woodford Green?' I asked. 'Oh dear,' said the conductor suddenly. 'I forgot to put you off.'",
+      "focus_zh": "中文锚点：他问这里是不是 Woodford Green，conductor 才突然想起忘了提醒他下车。I forgot to put you off 是这课重点，put you off 在这里不是让人讨厌。",
+      "start": 607.766,
+      "end": 618.042,
+      "focus_words": [
+        "Is this Woodford Green",
+        "Oh dear",
+        "suddenly",
+        "put you off"
+      ]
+    },
+    {
+      "id": "l50_s8",
+      "text": "'It doesn't matter,' I said. 'I'll get off here.' 'We're going back now,' said the conductor. 'Well, in that case, I prefer to stay on the bus,' I answered.",
+      "focus_zh": "中文锚点：他先说没关系要下车，但听到车要返回，就决定继续坐。In that case 表示既然这样，prefer to stay 是新的选择。",
+      "start": 618.391,
+      "end": 631.585,
+      "focus_words": [
+        "It doesn't matter",
+        "going back now",
+        "in that case",
+        "prefer to stay"
+      ]
+    }
+  ]
+}
