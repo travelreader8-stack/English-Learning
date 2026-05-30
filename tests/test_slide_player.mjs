@@ -7,7 +7,8 @@
  *   2. vocab word fallback 链工作（即使 scene_meta 缺失也能找到 word）
  *   3. 同 vocab word 内多行不重渲染（A→B→A 优化）
  *   4. 连续 passage 行只更新高亮、不重建 DOM
- *   5. retell 各帧切图正确
+ *   5. 同一插画内换台词不重建 DOM
+ *   6. retell 各帧切图正确
  */
 import fs from 'node:fs/promises';
 import path from 'node:path';
@@ -232,6 +233,43 @@ async function main() {
     }
   } else {
     bad(`期望 >=3 passage 行、实际 ${passageLines.length}`);
+  }
+
+  section('5.1 hook / retell 同图换台词：只更新文案、不重建插画 DOM');
+  const timeline49 = JSON.parse(
+    await fs.readFile(path.join(ROOT, 'web/audio/lesson_49.timeline.json'), 'utf8')
+  );
+  const lesson49 = lessons.find(L => L.id === 49);
+  const stage41 = makeStubElement();
+  const player41 = new playerMod.SlidePlayer({ stageEl: stage41, audioEl: null, timeline: timeline49, lesson: lesson49 });
+  const hookLines = timeline49.lines.filter(l => l.scene === 'hook');
+  if (hookLines.length >= 2) {
+    player41.goTo(hookLines[0].i);
+    const hookNode1 = stage41.firstElementChild;
+    player41.goTo(hookLines[1].i);
+    const hookNode2 = stage41.firstElementChild;
+    if (hookNode1 === hookNode2) {
+      ok('hook 连续台词：插画 DOM 未重建');
+    } else {
+      bad('hook 连续台词：DOM 被重建，插画可能闪烁');
+    }
+  } else {
+    bad(`期望 >=2 hook 行、实际 ${hookLines.length}`);
+  }
+
+  const retellFrame1Lines = timeline49.lines.filter(l => l.scene === 'retell' && l.scene_meta?.frame === '1');
+  if (retellFrame1Lines.length >= 2) {
+    player41.goTo(retellFrame1Lines[0].i);
+    const retellNode1 = stage41.firstElementChild;
+    player41.goTo(retellFrame1Lines[1].i);
+    const retellNode2 = stage41.firstElementChild;
+    if (retellNode1 === retellNode2) {
+      ok('retell 同一帧连续台词：插画 DOM 未重建');
+    } else {
+      bad('retell 同一帧连续台词：DOM 被重建，插画可能闪烁');
+    }
+  } else {
+    bad(`期望 retell frame=1 >=2 行、实际 ${retellFrame1Lines.length}`);
   }
 
   section('6. passage 句子带 data-line-idx（点击跳读）');

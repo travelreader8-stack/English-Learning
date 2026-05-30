@@ -440,7 +440,24 @@ export class SlidePlayer {
       }
     }
 
-    // 优化 2：同一个 vocab 段（A→B→A）内多行不重渲染——避免 [EN]private[/EN] 时单词卡片闪空
+    // 优化 2：同一张插画内换台词时只更新文案，不重建 <img>
+    // —— 避免 hook / retell 连续台词切换时插画闪烁。
+    if (line.scene === "hook" && this._lastScene === "hook") {
+      if (this._updateHookTextOnly(line)) {
+        this._lastScene = line.scene;
+        return;
+      }
+    }
+
+    const retellFrame = line.scene === "retell" ? Number(line.scene_meta?.frame ?? 1) : null;
+    if (line.scene === "retell" && this._lastScene === "retell" && retellFrame === this._lastRetellFrame) {
+      if (this._updateRetellNarrationOnly(line)) {
+        this._lastScene = line.scene;
+        return;
+      }
+    }
+
+    // 优化 3：同一个 vocab 段（A→B→A）内多行不重渲染——避免 [EN]private[/EN] 时单词卡片闪空
     if (line.scene === "vocab" && this._lastScene === "vocab" &&
         String(line.scene_meta?.word ?? "").toLowerCase() === String(this._lastVocabWord ?? "").toLowerCase() &&
         line.scene_meta?.word) {
@@ -460,6 +477,7 @@ export class SlidePlayer {
     this._lastRenderedHtml = html;
     this._lastScene = line.scene;
     this._lastVocabWord = line.scene === "vocab" ? line.scene_meta?.word : null;
+    this._lastRetellFrame = line.scene === "retell" ? Number(line.scene_meta?.frame ?? 1) : null;
     // stage--discuss / stage--retell 类用于解除 16:9 锁、给特殊场景独立的 flex 布局
     this.stageEl.classList.toggle("stage--hook", line.scene === "hook");
     this.stageEl.classList.toggle("stage--discuss", line.scene === "discuss");
@@ -477,6 +495,30 @@ export class SlidePlayer {
         }
       });
     }
+  }
+
+  // 只更新 hook 台词，保留开场插画 DOM 节点
+  _updateHookTextOnly(line) {
+    const question = this.stageEl.querySelector(".hook-question");
+    if (!question) return false;
+    question.innerHTML = joinSegmentsHtml(line.segments);
+    return true;
+  }
+
+  // 只更新同一 retell frame 的讲解文字，保留插画 DOM 节点
+  _updateRetellNarrationOnly(line) {
+    const c = CHARACTERS[line.speaker] ?? CHARACTERS.A;
+    const pill = this.stageEl.querySelector(".retell-narration .speaker-pill") ||
+      this.stageEl.querySelector(".speaker-pill");
+    const bubble = this.stageEl.querySelector(".retell-narration .bubble") ||
+      this.stageEl.querySelector(".bubble");
+    if (!bubble) return false;
+    if (pill) {
+      pill.dataset.speaker = line.speaker;
+      pill.textContent = `${c.emoji} ${c.name}`;
+    }
+    bubble.innerHTML = joinSegmentsHtml(line.segments);
+    return true;
   }
 
   // 仅更新 vocab 卡片上的 speaker pill（不重建整张卡）
