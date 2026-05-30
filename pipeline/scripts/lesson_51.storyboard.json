@@ -1,0 +1,23 @@
+{
+  "lesson_id": 51,
+  "title": "Reward for virtue",
+  "visual_consistency": "A warm illustrated-realism domestic comedy in the same gentle watercolor children's book style used by the course: hand-painted texture, soft brush strokes, slight grain, warm pastel colors, painterly daylight, and cinematic storybook composition. Avoid flat vector art, icon-like drawing, hard-edged classroom clip art, schematic diagrams, or advertisement-like food images. No readable text, letters, numbers, diet lists, food labels, package labels, brand marks, weight scales, weight numbers, slogans, speech bubbles, captions, UI panels, empty boxes, blank label spaces, or fake writing anywhere in the image. The recurring Hugh is an ordinary sympathetic adult friend in his early 30s, light skin, soft round face, short dark-brown wavy hair, average-to-sturdy build without caricature, wearing the same teal cardigan over a cream shirt, dark trousers, and simple indoor shoes; his mood changes from determined to nervous to embarrassed to sheepish. The recurring narrator is a polite adult friend in his late 20s, light skin, slim average build, short chestnut-brown hair, long oval face, wearing a moss-green jacket over a pale shirt and dark trousers; he looks curious and lightly surprised, never cruel or mocking. The room is Hugh's modest study with a wooden desk, warm lamp, books, a chair, and soft daylight. A large plain brown parcel remains visually consistent across frames, with no marks or labels. Chocolate bars and sweets are recognizable only as unbranded, text-free objects.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "In Hugh's modest warm study, the same sympathetic adult Hugh in a teal cardigan and cream shirt sits at a wooden desk with a determined but gentle expression, organizing a serious self-control plan. A pen and a mostly covered sheet of paper are under his hand with no visible writing, while a few tempting unbranded food objects sit nearby as visual hints. Keep Hugh ordinary and human, not mocked. Warm watercolor illustrated realism, domestic comedy, soft daylight. No readable text, no letters, no numbers, no diet lists, no fake writing, no labels, no brand marks, no captions, no speech bubbles, no UI panels, no empty boxes, no blank label spaces, no weight scales, and no body-shaming caricature."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same narrator in a moss-green jacket has just entered Hugh's modest study, politely curious near the doorway, while the same Hugh in a teal cardigan quickly and nervously pushes the same large plain brown parcel under the wooden desk. Hugh's posture shows hurried hiding and self-consciousness, not villainy. The room stays warm and realistic with books, a lamp, and soft daylight. Warm watercolor illustrated realism, light domestic comedy. No readable text, no letters, no numbers, no package labels, no brand marks, no speech bubbles, no captions, no UI panels, no empty boxes, no blank label spaces, no fake writing, no weight scales, and no body-shaming caricature."
+    },
+    {
+      "frame": 3,
+      "prompt": "At the same wooden desk in Hugh's study, the same Hugh in a teal cardigan has placed the same large plain brown parcel on the desk and gives a guilty, sheepish smile while explaining himself with open hands. The same narrator in a moss-green jacket stands nearby with a curious, mildly surprised expression, kind and nonjudgmental. The parcel is still closed and plain. Warm watercolor illustrated realism, gentle domestic comedy, soft painterly lighting. No readable text, no letters, no numbers, no package labels, no brand marks, no speech bubbles, no captions, no UI panels, no empty boxes, no blank label spaces, no fake writing, no weight scales, and no mocking body language."
+    },
+    {
+      "frame": 4,
+      "prompt": "The same large plain brown parcel is now open on the wooden desk in Hugh's warm study, revealing several unbranded text-free chocolate bars and small bags of sweets. The same Hugh in a teal cardigan looks sheepish and embarrassed but sympathetic, while the same narrator in a moss-green jacket reacts with mild surprise and gentle amusement, not cruel laughter. Make the punchline clear through the open parcel and food objects, not through text. Warm watercolor illustrated realism, light domestic comedy, soft daylight. No readable text, no letters, no numbers, no food labels, no package labels, no brand marks, no captions, no speech bubbles, no UI panels, no empty boxes, no blank label spaces, no fake writing, no weight scales, and no body-shaming caricature."
+    }
+  ]
+}

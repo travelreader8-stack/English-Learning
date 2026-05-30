@@ -1,0 +1,115 @@
+{
+  "lesson_id": 51,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按中文心理线记忆：Hugh 决定节食、写出 forbidden foods 清单、清单上多是爱吃的东西、朋友来访、慌忙藏包、明显尴尬、内疚解释、包里全是巧克力和糖果。读的时候不要把身材当笑点，重点读出 strict rule、temptation 和 excuse 的反讽。",
+  "sentences": [
+    {
+      "id": "l51_s1",
+      "text": "My friend, Hugh, has always been fat, but things got so bad recently that he decided to go on a diet.",
+      "focus_zh": "中文锚点：Hugh 最近觉得情况变糟，于是决定控制饮食。读这句时轻轻带过 source wording，重点放在 things got so bad that 和 decided to go on a diet。",
+      "start": 633.814,
+      "end": 640.198,
+      "focus_words": [
+        "My friend, Hugh",
+        "things got so bad",
+        "that",
+        "go on a diet"
+      ]
+    },
+    {
+      "id": "l51_s2",
+      "text": "He began his diet a week ago. First of all, he wrote out a long list of all the foods which were forbidden.",
+      "focus_zh": "中文锚点：他一周前开始，首先写出一张很长的禁食清单。First of all 后稍停，wrote out 和 foods which were forbidden 要读清楚。",
+      "start": 640.548,
+      "end": 648.362,
+      "focus_words": [
+        "began his diet",
+        "First of all",
+        "wrote out",
+        "foods which were forbidden"
+      ]
+    },
+    {
+      "id": "l51_s3",
+      "text": "The list included most of the things Hugh loves: butter, potatoes, rice, beer, milk, chocolate; and sweets.",
+      "focus_zh": "中文锚点：清单上包括大多数 Hugh 喜欢的东西。included most of the things 是笑点铺垫，食物列表慢一点读，不需要夸张。",
+      "start": 648.712,
+      "end": 656.536,
+      "focus_words": [
+        "included",
+        "most of the things",
+        "butter",
+        "chocolate",
+        "sweets"
+      ]
+    },
+    {
+      "id": "l51_s4",
+      "text": "Yesterday I paid him a visit. I rang the bell and was not surprised to see that Hugh was still as fat as ever.",
+      "focus_zh": "中文锚点：昨天朋友去看他，按门铃后看到 Hugh 还是老样子。paid him a visit 是看望某人，as...as ever 读结构，不把它读成嘲笑。",
+      "start": 656.886,
+      "end": 664.819,
+      "focus_words": [
+        "paid him a visit",
+        "rang the bell",
+        "not surprised",
+        "as fat as ever"
+      ]
+    },
+    {
+      "id": "l51_s5",
+      "text": "He led me into his room and hurriedly hid a large parcel under his desk. It was obvious that he was very embarrassed.",
+      "focus_zh": "中文锚点：Hugh 把朋友带进房间，慌忙把大包藏到桌下，显然很尴尬。hurriedly hid 要读出心虚动作，It was obvious that 要连成块。",
+      "start": 665.169,
+      "end": 673.463,
+      "focus_words": [
+        "led me into his room",
+        "hurriedly hid",
+        "a large parcel",
+        "It was obvious that",
+        "embarrassed"
+      ]
+    },
+    {
+      "id": "l51_s6",
+      "text": "When I asked him what he was doing, he smiled guiltily and then put the parcel on the desk.",
+      "focus_zh": "中文锚点：朋友问他在做什么，他内疚地笑了，然后把包放到桌上。smiled guiltily 是心理重点，guiltily 慢一点。",
+      "start": 673.813,
+      "end": 679.117,
+      "focus_words": [
+        "what he was doing",
+        "smiled guiltily",
+        "put the parcel",
+        "on the desk"
+      ]
+    },
+    {
+      "id": "l51_s7",
+      "text": "He explained that his diet was so strict that he had to reward himself occasionally.",
+      "focus_zh": "中文锚点：他解释说饮食计划太严格，所以不得不偶尔奖励自己。so strict that 是核心结构，reward himself occasionally 要读出借口味道。",
+      "start": 679.467,
+      "end": 684.483,
+      "focus_words": [
+        "explained",
+        "so strict that",
+        "had to",
+        "reward himself",
+        "occasionally"
+      ]
+    },
+    {
+      "id": "l51_s8",
+      "text": "Then he showed me the contents of the parcel. It contained five large bars of chocolate and three bags of sweets!",
+      "focus_zh": "中文锚点：他展示包里的东西，里面有五大块巧克力和三袋糖果。contents 和 contained 一组记，最后的 chocolate and sweets 是 punchline。",
+      "start": 684.833,
+      "end": 693.079,
+      "focus_words": [
+        "contents of the parcel",
+        "contained",
+        "five large bars",
+        "chocolate",
+        "three bags of sweets"
+      ]
+    }
+  ]
+}

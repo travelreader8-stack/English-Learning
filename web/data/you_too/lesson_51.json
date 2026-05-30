@@ -1,0 +1,58 @@
+{
+  "lesson_id": 51,
+  "title": "A Reward For Study",
+  "question": "把今天的“严格计划 + forbidden list + 慌忙藏东西 + 内疚解释 + so...that...”放进学习计划场景。用 word bank 补完整 5 个空。",
+  "example_answer": "I decided to follow a strict study plan. First of all, I wrote out a long list of things which were forbidden. The list included most of the things I love. When my friend came in, I hurriedly hid a game controller under my book. It was obvious that I was very embarrassed. I smiled guiltily. My plan was so strict that I had to reward myself occasionally.",
+  "word_bank": [
+    "strict study plan",
+    "First of all",
+    "wrote out",
+    "long list",
+    "things which were forbidden",
+    "included",
+    "most of the things I love",
+    "friend came in",
+    "hurriedly hid",
+    "game controller",
+    "under my book",
+    "It was obvious that",
+    "very embarrassed",
+    "smiled guiltily",
+    "so strict that",
+    "reward myself",
+    "occasionally"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说你决定执行一个严格的学习计划",
+      "english_template": "I decided to follow a ___.",
+      "expected_phrase": "strict study plan"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说你先写出一张很长的禁做事项清单",
+      "english_template": "First of all, I wrote out a long list of ___.",
+      "expected_phrase": "things which were forbidden"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "朋友进来时，你慌忙把游戏手柄藏到书下面",
+      "english_template": "When my friend came in, I ___ a game controller under my book.",
+      "expected_phrase": "hurriedly hid"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "很明显，你非常尴尬",
+      "english_template": "It was obvious that I was ___.",
+      "expected_phrase": "very embarrassed"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "你的计划太严格了，所以你说自己得偶尔奖励一下自己",
+      "english_template": "My plan was ___ I had to reward myself occasionally.",
+      "expected_phrase": "so strict that"
+    }
+  ],
+  "mode": "all_fills"
+}
