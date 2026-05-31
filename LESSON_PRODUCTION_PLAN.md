@@ -141,6 +141,23 @@ Do not edit shared files unless the user separately asks for platform work:
 If a shared-file defect blocks production, stop and explain the defect instead
 of silently patching the platform.
 
+## Translation Practice Chunk Policy
+
+The `③ 中译英` and `④ 英译中` screens pair Chinese source segments with English
+reference segments. Misaligned segment counts cause the AI grader to compare the
+student's answer against the wrong reference.
+
+- Do not add or preserve uneven `chunks` in `web/data/lessons.json`.
+- If a lesson has `chunks`, `chunks.zh.length` must equal `chunks.en.length`.
+- Prefer 3-5 meaning-based chunks for lessons where detailed translation
+  feedback matters.
+- If a lesson has no chunks, the frontend may auto-split the passage. When the
+  auto-split Chinese and English counts differ, the frontend intentionally falls
+  back to one whole-passage segment so references do not drift.
+- During production validation, `python3 tests/test_pipeline.py` must pass; it
+  checks all 96 lessons for uneven manual chunks and reports how many currently
+  use the whole-passage fallback.
+
 ## Standard Production Steps
 
 1. **Preflight**
@@ -148,6 +165,8 @@ of silently patching the platform.
    - Inspect existing lesson assets, if any.
    - Confirm that the course design card exists at
      `lesson_plans/lesson_NNN.md`.
+   - If the lesson already has `chunks`, confirm Chinese and English chunk
+     counts are equal before producing or publishing.
 
 2. **Script and exercise assets**
    - Create `pipeline/scripts/lesson_N.script.md`.
@@ -177,6 +196,9 @@ of silently patching the platform.
    - Verify target files exist and are non-trivial in size.
    - Verify the timeline has all required scene types, 4 retell frames, 3 vocab
      words, and monotonic timing.
+   - Verify translation practice segmentation is safe: manual `chunks`, if
+     present, must be equal length; otherwise the frontend whole-passage fallback
+     is acceptable.
    - Run baseline tests that do not require changing shared files:
      `python3 tests/test_pipeline.py`
      `node tests/test_slide_player.mjs`
@@ -230,6 +252,9 @@ A lesson is ready only when:
   `focus_zh`, `start`, `end`, and `focus_words`.
 - The lesson audio, timeline, and 4 WebP frames exist.
 - The lesson can be opened at `/lesson.html?id=N`.
+- Translation practice cannot pair a Chinese segment with the wrong English
+  reference: manual chunks are equal length, or the lesson uses the frontend's
+  whole-passage fallback.
 - The script clearly follows the modern bridge and story focus from the
   per-lesson plan.
 - The final `outro` page and narration explicitly include `⓪ 跟读` before

@@ -93,6 +93,26 @@ function splitSentencesZH(text) {
   return (matches || [text]).map(s => s.trim()).filter(Boolean);
 }
 
+function getTranslationSentences(lesson) {
+  const chunkZh = Array.isArray(lesson.chunks?.zh) ? lesson.chunks.zh.map(s => String(s ?? "").trim()).filter(Boolean) : [];
+  const chunkEn = Array.isArray(lesson.chunks?.en) ? lesson.chunks.en.map(s => String(s ?? "").trim()).filter(Boolean) : [];
+  if (chunkZh.length && chunkZh.length === chunkEn.length) {
+    return { zhSentences: chunkZh, enSentences: chunkEn };
+  }
+
+  const splitZh = splitSentencesZH(lesson.chinese);
+  const splitEn = splitSentencesEN(lesson.english);
+  if (splitZh.length === splitEn.length) {
+    return { zhSentences: splitZh, enSentences: splitEn };
+  }
+
+  // 自动切句中英数量不一致时，整篇作为一段，避免参考译文串行错位。
+  return {
+    zhSentences: [String(lesson.chinese ?? "").trim()].filter(Boolean),
+    enSentences: [String(lesson.english ?? "").trim()].filter(Boolean),
+  };
+}
+
 // ─── State ─────────────────────────────────────────────────
 const state = {
   lesson: null,
@@ -1219,13 +1239,8 @@ function renderLesson(lesson) {
 
   renderCloze(lesson.cloze.rendered_html, lesson.cloze.blanks);
 
-  // 中译英 / 英译中：优先用预切的 chunks（按语义切的 3-5 句一段）；没有 chunks 则按句切
-  const zhSentences = (Array.isArray(lesson.chunks?.zh) && lesson.chunks.zh.length)
-    ? lesson.chunks.zh
-    : splitSentencesZH(lesson.chinese);
-  const enSentences = (Array.isArray(lesson.chunks?.en) && lesson.chunks.en.length)
-    ? lesson.chunks.en
-    : splitSentencesEN(lesson.english);
+  // 中译英 / 英译中：优先用对齐的 chunks；自动切句不等长时整篇作为一段。
+  const { zhSentences, enSentences } = getTranslationSentences(lesson);
   state.lesson.zhSentences = zhSentences;
   state.lesson.enSentences = enSentences;
   // 兼容旧的字符串答案 → 数组

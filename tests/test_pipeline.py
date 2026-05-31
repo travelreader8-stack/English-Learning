@@ -160,7 +160,7 @@ def main() -> None:
     if L1 and L1.get("chunks"):
         zh_chunks = L1["chunks"].get("zh", [])
         en_chunks = L1["chunks"].get("en", [])
-        if 2 <= len(zh_chunks) <= 5 and 3 <= len(en_chunks) <= 6:
+        if 2 <= len(zh_chunks) <= 5 and len(zh_chunks) == len(en_chunks):
             ok(f"Lesson 1 chunks: zh={len(zh_chunks)}, en={len(en_chunks)}")
         else:
             warn(f"Lesson 1 chunks 数量异常: zh={len(zh_chunks)}, en={len(en_chunks)}")
@@ -172,6 +172,68 @@ def main() -> None:
             warn(f"en chunks 拼合 {len(en_join)} 字 vs english {len(L1['english'])} 字差距大")
     else:
         warn("Lesson 1 还没有 chunks（其余课更不会有）— 后续要加")
+
+    section("翻译练习 chunks 对齐")
+    mismatched_chunks = []
+    auto_fallback_lessons = []
+
+    def split_sentences_en(text):
+        if not text:
+            return []
+        parts = []
+        start = 0
+        for match in re.finditer(r"\s+", text):
+            left = text[:match.start()]
+            right = text[match.end():]
+            if re.search(r"[.!?]['\"]?$", left) and re.match(r"['\"]?[A-Z]", right):
+                parts.append(text[start:match.start()])
+                start = match.end()
+        parts.append(text[start:])
+        merged = []
+        i = 0
+        while i < len(parts):
+            cur = parts[i].strip()
+            nxt = parts[i + 1].strip() if i + 1 < len(parts) else ""
+            is_quoted_exclaim = re.match(r"^['\"].+[!?]['\"]$", cur) is not None
+            next_is_dialog_tag = re.match(
+                r"^(I|He|She|They|We|You)\s+(said|asked|replied|shouted|whispered|told|cried|answered|added)",
+                nxt,
+                flags=re.I,
+            ) is not None
+            if is_quoted_exclaim and next_is_dialog_tag:
+                merged.append(cur + " " + nxt)
+                i += 2
+            else:
+                if cur:
+                    merged.append(cur)
+                i += 1
+        return [s for s in merged if s]
+
+    def split_sentences_zh(text):
+        if not text:
+            return []
+        matches = re.findall(r"[^。！？!?]+[。！？!?]+['\"」']*", text)
+        return [s.strip() for s in (matches or [text]) if s.strip()]
+
+    for L in lessons:
+        chunks = L.get("chunks") or {}
+        zh_chunks = [s.strip() for s in chunks.get("zh", []) if isinstance(s, str) and s.strip()]
+        en_chunks = [s.strip() for s in chunks.get("en", []) if isinstance(s, str) and s.strip()]
+        if zh_chunks or en_chunks:
+            if len(zh_chunks) != len(en_chunks):
+                mismatched_chunks.append((L["id"], len(zh_chunks), len(en_chunks)))
+            continue
+
+        zh_auto = split_sentences_zh(L.get("chinese", ""))
+        en_auto = split_sentences_en(L.get("english", ""))
+        if len(zh_auto) != len(en_auto):
+            auto_fallback_lessons.append((L["id"], len(zh_auto), len(en_auto)))
+
+    if mismatched_chunks:
+        bad(f"手工 chunks 中英数量不一致: {mismatched_chunks[:10]}")
+    else:
+        ok("所有手工 chunks 中英数量一致")
+    ok(f"已检查全部 {len(lessons)} 课；其中自动切句不一致的 {len(auto_fallback_lessons)} 课会在前端退回整篇一段，避免参考译文错位")
 
     section("TTS 朗读时去掉 '/'（不能被 Azure 念成 'slash'）")
     # 防止「在英文发音时说 slash」的回归

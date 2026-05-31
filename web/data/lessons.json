@@ -127,8 +127,9 @@
     "chunks": {
       "zh": [
         "上星期我去看戏。我的座位很好,戏很有趣,但我却无法欣赏。",
-        "一青年男子与一青年女子坐在我的身后,大声说话。我非常生气,因为我听不见演员在说什么。我回过头去怒视着那一男一女,他们却毫不理会。",
-        "最后,我忍不住了,又一次回过头去,生气地说:\"我一个字也听不见了!\" \"不关你的事,\"那男的毫不客气地说,\"这是私人间的谈话!\""
+        "一青年男子与一青年女子坐在我的身后,大声说话。我非常生气,因为我听不见演员在说什么。",
+        "我回过头去怒视着那一男一女,他们却毫不理会。最后,我忍不住了。",
+        "我又一次回过头去,生气地说:\"我一个字也听不见了!\" \"不关你的事,\"那男的毫不客气地说,\"这是私人间的谈话!\""
       ],
       "en": [
         "Last week I went to the theatre. I had a very good seat. The play was very interesting. I did not enjoy it.",
@@ -1228,6 +1229,20 @@
     "title_zh": "是不是疯了",
     "english": "Aeroplanes are slowly driving me mad. I live near an airport and passing planes can be heard night and day. The airport was built years ago, but for some reason it could not be used then. Last year, however, it came into use. Over a hundred people must have been driven away from their homes by the noise. I am one of the few people left. Sometimes I think this house will be knocked down by a passing plane. I have been offered a large sum of money to go away, but I am determined to stay here. Everybody says I must be mad and they are probably right.",
     "chinese": "飞机正在逐渐把我逼疯。我住在一个机场附近，过往飞机日夜不绝于耳。机场是许多年前建的，但由于某种原因当时未能启用。然而去年机场开始使用了。有100多人肯定是被噪音逼得已经弃家远去，我是少数留下来的人中的一个。有时我觉得这房子就要被一架飞过的飞机撞倒。他们曾向我提供一大笔钱让我搬走，但我决定留在这儿。大家都说我肯定是疯了，也许他们说的是对的。",
+    "chunks": {
+      "zh": [
+        "飞机正在逐渐把我逼疯。我住在一个机场附近，过往飞机日夜不绝于耳。",
+        "机场是许多年前建的，但由于某种原因当时未能启用。然而去年机场开始使用了。",
+        "有100多人肯定是被噪音逼得已经弃家远去，我是少数留下来的人中的一个。有时我觉得这房子就要被一架飞过的飞机撞倒。",
+        "他们曾向我提供一大笔钱让我搬走，但我决定留在这儿。大家都说我肯定是疯了，也许他们说的是对的。"
+      ],
+      "en": [
+        "Aeroplanes are slowly driving me mad. I live near an airport and passing planes can be heard night and day.",
+        "The airport was built years ago, but for some reason it could not be used then. Last year, however, it came into use.",
+        "Over a hundred people must have been driven away from their homes by the noise. I am one of the few people left. Sometimes I think this house will be knocked down by a passing plane.",
+        "I have been offered a large sum of money to go away, but I am determined to stay here. Everybody says I must be mad and they are probably right."
+      ]
+    },
     "keywords": [
       "mad",
       "reason",

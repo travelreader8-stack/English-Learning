@@ -244,52 +244,58 @@ export async function gradeTranslation(
 
   let raw = "";
   try {
-    raw = await callDeepSeek([
-      { role: "system", content: sys },
-      { role: "user", content: lines.join("\n") }
-    ], { json: true, maxTokens: 2400, temperature: 0.3 });
-    let parsed = safeParseJSON<any>(raw);
+    for (let formatAttempt = 0; formatAttempt < 2; formatAttempt++) {
+      const retryHint = formatAttempt === 0
+        ? ""
+        : "\n\n上一次返回格式不合格。请只返回一个严格 JSON 对象，必须包含 per_sentence、overall_score、overall_summary，不要输出任何解释文字。";
+      raw = await callDeepSeek([
+        { role: "system", content: sys },
+        { role: "user", content: lines.join("\n") + retryHint }
+      ], { json: true, maxTokens: 3200, temperature: 0.2 });
+      let parsed = safeParseJSON<any>(raw);
 
-    // 如果 parsed 没拿到 per_sentence、试着兼容多种字段名
-    if (parsed && !Array.isArray(parsed.per_sentence)) {
-      if (Array.isArray(parsed.sentences)) parsed.per_sentence = parsed.sentences;
-      else if (Array.isArray(parsed.results)) parsed.per_sentence = parsed.results;
-      else if (Array.isArray(parsed.evaluations)) parsed.per_sentence = parsed.evaluations;
-      // 旧格式兜底：如果是 {score, comment, fixes} 单 object、包成 1 元素数组
-      else if (typeof parsed.score === "number") {
-        parsed = {
-          per_sentence: [{
-            index: 0,
-            score: parsed.score,
-            comment: parsed.comment ?? "",
-            fixes: Array.isArray(parsed.fixes) ? parsed.fixes : [],
-          }],
-          overall_score: parsed.score,
-          overall_summary: parsed.comment ?? "",
-        };
+      // 如果 parsed 没拿到 per_sentence、试着兼容多种字段名
+      if (parsed && !Array.isArray(parsed.per_sentence)) {
+        if (Array.isArray(parsed.sentences)) parsed.per_sentence = parsed.sentences;
+        else if (Array.isArray(parsed.results)) parsed.per_sentence = parsed.results;
+        else if (Array.isArray(parsed.evaluations)) parsed.per_sentence = parsed.evaluations;
+        // 旧格式兜底：如果是 {score, comment, fixes} 单 object、包成 1 元素数组
+        else if (typeof parsed.score === "number") {
+          parsed = {
+            per_sentence: [{
+              index: 0,
+              score: parsed.score,
+              comment: parsed.comment ?? "",
+              fixes: Array.isArray(parsed.fixes) ? parsed.fixes : [],
+            }],
+            overall_score: parsed.score,
+            overall_summary: parsed.comment ?? "",
+          };
+        }
       }
-    }
 
-    if (!parsed || !Array.isArray(parsed.per_sentence) || parsed.per_sentence.length === 0) {
-      console.error("[gradeTranslation] 模型返回不含 per_sentence。原始响应（前 800 字）：\n" + (raw ?? "").slice(0, 800));
-      return { error: "AI 返回格式异常，请稍后重试" };
-    }
+      if (!parsed || !Array.isArray(parsed.per_sentence) || parsed.per_sentence.length === 0) {
+        console.error(`[gradeTranslation] 模型返回不含 per_sentence（第 ${formatAttempt + 1} 次）。原始响应（前 800 字）：\n` + (raw ?? "").slice(0, 800));
+        continue;
+      }
 
-    // 规范化
-    parsed.per_sentence = parsed.per_sentence.map((p: any, idx: number) => ({
-      index: typeof p.index === "number" ? p.index : idx,
-      score: typeof p.score === "number" ? Math.max(0, Math.min(10, p.score)) : 0,
-      comment: typeof p.comment === "string" ? p.comment : "",
-      fixes: Array.isArray(p.fixes) ? p.fixes.slice(0, 2) : [],
-    }));
-    if (typeof parsed.overall_score !== "number") {
-      const total = parsed.per_sentence.reduce((a: number, b: any) => a + (b.score || 0), 0);
-      parsed.overall_score = Math.round(total / Math.max(1, parsed.per_sentence.length));
+      // 规范化
+      parsed.per_sentence = parsed.per_sentence.map((p: any, idx: number) => ({
+        index: typeof p.index === "number" ? p.index : idx,
+        score: typeof p.score === "number" ? Math.max(0, Math.min(10, p.score)) : 0,
+        comment: typeof p.comment === "string" ? p.comment : "",
+        fixes: Array.isArray(p.fixes) ? p.fixes.slice(0, 2) : [],
+      }));
+      if (typeof parsed.overall_score !== "number") {
+        const total = parsed.per_sentence.reduce((a: number, b: any) => a + (b.score || 0), 0);
+        parsed.overall_score = Math.round(total / Math.max(1, parsed.per_sentence.length));
+      }
+      if (typeof parsed.overall_summary !== "string") {
+        parsed.overall_summary = "";
+      }
+      return parsed as TranslationResult;
     }
-    if (typeof parsed.overall_summary !== "string") {
-      parsed.overall_summary = "";
-    }
-    return parsed as TranslationResult;
+    return { error: "AI 返回格式异常，请稍后重试" };
   } catch (e: any) {
     console.error("[gradeTranslation] 抛错：", e?.message ?? e, "raw:", raw?.slice?.(0, 400));
     return { error: `AI 评分失败：${e.message ?? e}` };
