@@ -2,16 +2,11 @@
 <!-- 手工生产，依据 lesson_plans/lesson_052.md；交给 hybrid_tts_render.py 生成音频与 timeline -->
 
 ## SCENE: hook
-A: 今天这课先看一个很有画面的笑话：房间太小，书太多，书不是放在书柜里，而是临时铺满了整个地板。
-A: 想象你刚搬进新房间，还没有完全收拾好。你想 [EN]get your new room in order[/EN]，把新房间整理好。
-A: 可是你有一千多本书：[EN]over a thousand books[/EN]。房间又 [EN]rather small[/EN]，相当小。
-A: 所以你先把书临时放在地板上：[EN]temporarily put my books on the floor[/EN]。
-A: 问题是，书太多了，不是一小摞，而是 [EN]cover every inch of floor space[/EN]，把地板上每一寸空间都盖住了。
-A: 这时你要进出房间，课文夸张地说你 [EN]actually have to walk on them[/EN]。现实里我们不把踩书当好习惯；这里是为了说明书多到没有落脚的地方。
-A: 妹妹帮你把旧书柜搬上楼。她一进房间，看到满地的书，没有责怪你，而是开了一个温和的玩笑：[EN]This is the prettiest carpet I have ever seen[/EN]。
-A: 最后她又补一句：[EN]You can sit here in your spare time and read the carpet[/EN]。
-A: 地毯本来不能读，可是这张“地毯”是书铺成的，所以 [EN]read the carpet[/EN] 突然就好笑了。
-A: 今天先记中文画面线：刚搬家 -> 一直收拾 -> 书太多 -> 房间太小 -> 书铺满地板 -> 妹妹看到“书地毯” -> 说可以读地毯。
+A: 今天这课先看一个很有画面的笑话：房间太小，书太多，书不是放进书柜，而是铺满了地板。
+A: 想象你刚搬进新房间，想 [EN]get your new room in order[/EN]，可是你有 [EN]over a thousand books[/EN]。
+A: 书暂时放在地上，慢慢看起来不像一堆书，倒像一张 [EN]carpet[/EN]。
+A: 妹妹看到后不是责怪你，而是把这个乱糟糟的画面变成一个温和的玩笑。
+A: 今天先抓住这个笑点：普通 carpet 不能 read，可是如果这张 carpet 是书铺成的，就可以 [EN]read the carpet[/EN]。
 
 ## SCENE: retell frame=1
 A: 第一段，刚搬家，一直在收拾。
