@@ -1,0 +1,58 @@
+{
+  "lesson_id": 52,
+  "title": "A Book Floor",
+  "question": "把今天的“刚换学习角 + 一直整理 + 书太多 + 房间太小 + 书铺满地板 + 书地毯笑话”放进你的生活场景。用 word bank 补完整 5 个空。",
+  "example_answer": "I have just moved into a new study corner. I have been working hard all morning. I have been trying to get my books in order. This has not been easy because I own many books and notebooks. To make matters worse, the room is rather small. I have temporarily put my books on the floor. They cover every inch of floor space. This is the prettiest book carpet I have ever seen. I can sit here in my spare time and read the carpet.",
+  "word_bank": [
+    "have just moved",
+    "new study corner",
+    "working hard all morning",
+    "get my books in order",
+    "This has not been easy",
+    "own many books",
+    "notebooks",
+    "To make matters worse",
+    "rather small",
+    "temporarily",
+    "on the floor",
+    "cover every inch",
+    "floor space",
+    "prettiest book carpet",
+    "I have ever seen",
+    "spare time",
+    "read the carpet"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说你刚换了一个新的学习角",
+      "english_template": "I have just moved into a ___.",
+      "expected_phrase": "new study corner"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说你整个上午一直在努力整理",
+      "english_template": "I have been ___.",
+      "expected_phrase": "working hard all morning"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说明更糟糕的是，房间相当小",
+      "english_template": "___, the room is rather small.",
+      "expected_phrase": "To make matters worse"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说这些书占满了每一寸地板空间",
+      "english_template": "They cover every inch of ___.",
+      "expected_phrase": "floor space"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "用今天的笑点：你可以坐在这里读地毯",
+      "english_template": "I can sit here in my spare time and ___.",
+      "expected_phrase": "read the carpet"
+    }
+  ],
+  "mode": "all_fills"
+}

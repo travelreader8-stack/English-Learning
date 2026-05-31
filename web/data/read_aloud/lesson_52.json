@@ -1,0 +1,109 @@
+{
+  "lesson_id": 52,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按中文画面线记忆：刚搬进新房子、整个上午一直收拾、书超过一千本、房间相当小、书暂时铺满地板、妹妹帮忙搬书柜、看到满地书后把它叫作漂亮的 carpet，最后说可以 read the carpet。读的时候注意 present perfect continuous 的长句节奏，以及最后笑话前的小停顿。",
+  "sentences": [
+    {
+      "id": "l52_s1",
+      "text": "We have just moved into a new house and I have been working hard all morning. I have been trying to get my new room in order.",
+      "focus_zh": "中文锚点：刚搬进新房子，整个上午一直在努力收拾。have just moved 表示刚刚完成，have been working 和 have been trying 读出一直持续到现在的感觉。",
+      "start": 544.858,
+      "end": 553.032,
+      "focus_words": [
+        "have just moved",
+        "have been working",
+        "all morning",
+        "get my new room in order"
+      ]
+    },
+    {
+      "id": "l52_s2",
+      "text": "This has not been easy because I own over a thousand books.",
+      "focus_zh": "中文锚点：这并不容易，因为他有一千多本书。own 和 over a thousand 要读清楚，让数量压力出来。",
+      "start": 553.382,
+      "end": 557.39,
+      "focus_words": [
+        "This has not been easy",
+        "own",
+        "over a thousand books"
+      ]
+    },
+    {
+      "id": "l52_s3",
+      "text": "To make matters worse, the room is rather small, so I have temporarily put my books on the floor.",
+      "focus_zh": "中文锚点：更糟糕的是房间相当小，所以他暂时把书放在地板上。To make matters worse 后稍停，temporarily 不要吞音。",
+      "start": 557.74,
+      "end": 564.004,
+      "focus_words": [
+        "To make matters worse",
+        "rather small",
+        "temporarily",
+        "on the floor"
+      ]
+    },
+    {
+      "id": "l52_s4",
+      "text": "At the moment, they cover every inch of floor space and I actually have to walk on them to get in or out of the room.",
+      "focus_zh": "中文锚点：现在书铺满每一寸地板空间，他居然不得不踩着进出。every inch of floor space 是画面核心，actually 读出惊讶感。",
+      "start": 564.354,
+      "end": 570.858,
+      "focus_words": [
+        "At the moment",
+        "cover every inch",
+        "floor space",
+        "actually have to"
+      ]
+    },
+    {
+      "id": "l52_s5",
+      "text": "A short while ago, my sister helped me to carry one of my old bookcases up the stairs.",
+      "focus_zh": "中文锚点：不久前，妹妹帮他把旧书柜搬上楼。A short while ago 交代时间，helped me to carry 和 bookcases 要连成块读。",
+      "start": 571.208,
+      "end": 576.752,
+      "focus_words": [
+        "A short while ago",
+        "helped me to carry",
+        "old bookcases",
+        "up the stairs"
+      ]
+    },
+    {
+      "id": "l52_s6",
+      "text": "She went into my room and got a big surprise when she saw all those books on the floor.",
+      "focus_zh": "中文锚点：妹妹进屋后看到满地的书，大吃一惊。got a big surprise 是自然表达，all those books on the floor 要读出满地书的画面。",
+      "start": 577.102,
+      "end": 582.358,
+      "focus_words": [
+        "went into my room",
+        "got a big surprise",
+        "all those books",
+        "on the floor"
+      ]
+    },
+    {
+      "id": "l52_s7",
+      "text": "This is the prettiest carpet I have ever seen, she said. She gazed at it for some time then added, You don't need bookcases at all.",
+      "focus_zh": "中文锚点：她说这是见过最漂亮的地毯，又盯着看了一会儿，说根本不需要书柜。the prettiest carpet I have ever seen 是最高级重点，not at all 读出加强语气。",
+      "start": 582.707,
+      "end": 591.649,
+      "focus_words": [
+        "the prettiest carpet",
+        "I have ever seen",
+        "gazed at it",
+        "not at all"
+      ]
+    },
+    {
+      "id": "l52_s8",
+      "text": "You can sit here in your spare time and read the carpet!",
+      "focus_zh": "中文锚点：你可以空闲时坐在这里读地毯。in your spare time 稳稳读，read the carpet 是 punchline，前面可以有一点点期待感。",
+      "start": 591.999,
+      "end": 595.839,
+      "focus_words": [
+        "sit here",
+        "spare time",
+        "read the carpet"
+      ]
+    }
+  ]
+}

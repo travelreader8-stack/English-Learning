@@ -1,0 +1,23 @@
+{
+  "lesson_id": 52,
+  "title": "A pretty carpet",
+  "visual_consistency": "A warm illustrated-realism domestic comedy in the same gentle watercolor children's book style used by the course: hand-painted texture, soft brush strokes, slight grain, warm pastel colors, painterly daylight, and cinematic storybook composition. Avoid flat vector art, icon-like drawing, hard-edged classroom clip art, schematic diagrams, or advertisement-like room-decor images. No readable text, letters, numbers, book titles, book-cover words, box labels, room signs, brand marks, speech bubbles, captions, UI panels, blank label areas, fake writing, or empty text boxes anywhere in the image. The recurring narrator is a book-loving older student or young adult in his early 20s, light skin, slim average build, tired but gentle face, short dark-brown slightly messy hair, wearing the same dusty teal sweater over a cream shirt, dark trousers, and simple indoor shoes; he looks hardworking, overwhelmed by books, mildly embarrassed, and amused. The recurring sister is warm and playful in her late teens, light skin, slim build, round kind face, shoulder-length chestnut hair tied loosely back, wearing the same soft coral cardigan over a pale blouse and navy skirt; she looks helpful, surprised, and kind rather than mocking. The small new upstairs room remains visually consistent with plain cream walls, soft daylight, several unlabeled moving boxes, many colorful text-free books, and one large old wooden bookcase.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Inside the small new upstairs room, the same book-loving narrator in a dusty teal sweater works hard among unlabeled moving boxes and stacks of colorful text-free books. He looks tired but determined while trying to organize the room, with the same large old wooden bookcase visible nearby but not yet useful. The room is partly unpacked, warm, and homey, not dirty. Warm watercolor illustrated realism, gentle domestic comedy, soft daylight. No readable text, no letters, no numbers, no book titles, no box labels, no brand marks, no captions, no speech bubbles, no UI panels, no blank label areas, and no fake writing."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same small new upstairs room is now almost completely covered by hundreds of colorful text-free books lying flat and overlapping like a continuous floor covering. The same narrator in the dusty teal sweater stands carefully near the doorway with one foot cautiously placed between books, showing there is barely any floor space left, but without making book-walking look fun or recommended. The books form a clear carpet-like surface. Warm watercolor illustrated realism, light family comedy, soft daylight. No readable text, no letters, no numbers, no book-cover words, no labels, no captions, no speech bubbles, no UI panels, no blank label areas, no fake writing, and no slipping or falling."
+    },
+    {
+      "frame": 3,
+      "prompt": "On a safe upstairs landing just outside the same room, the same narrator in a dusty teal sweater and the same warm sister in a soft coral cardigan cooperatively carry the same large old wooden bookcase together. Their posture is steady and safe, with the bookcase balanced and no accident or danger. The doorway shows a glimpse of the book-filled room beyond. Warm watercolor illustrated realism, cooperative home scene, soft daylight. No readable text, no letters, no numbers, no labels on the bookcase or walls, no captions, no speech bubbles, no UI panels, no blank label areas, and no fake writing."
+    },
+    {
+      "frame": 4,
+      "prompt": "Inside the same small new room, the same sister in a soft coral cardigan stands near the doorway gazing with amused surprise at the floor of colorful text-free books, which clearly resembles a beautiful carpet. The same narrator in a dusty teal sweater reacts with mild embarrassment and a small smile. The same large old wooden bookcase is nearby, making the joke about not needing bookcases visually clear. Warm watercolor illustrated realism, gentle sibling humor, cozy daylight. No readable text, no letters, no numbers, no book titles, no labels, no captions, no speech bubbles, no UI panels, no blank label areas, and no fake writing."
+    }
+  ]
+}
