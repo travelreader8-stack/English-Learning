@@ -1,0 +1,2928 @@
+{
+  "total_duration": 925.726,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 3.08,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "火已经扑灭了，但故事还没结束。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 3.43,
+      "end": 9.702,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "消防员接下来要做一件像侦探一样的事："
+        },
+        {
+          "lang": "en",
+          "text": "find out how the fire began"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 10.052,
+      "end": 17.055,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他们先看最常见的原因："
+        },
+        {
+          "lang": "en",
+          "text": "broken glass"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "cigarette ends"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 17.405,
+      "end": 21.205,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可真正的线索很奇怪，藏在一条高压线上。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 21.555,
+      "end": 29.859,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天我们不是听恐怖故事，而是顺着一条"
+        },
+        {
+          "lang": "en",
+          "text": "cause chain"
+        },
+        {
+          "lang": "zh",
+          "text": "解开"
+        },
+        {
+          "lang": "en",
+          "text": "a mystery"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 30.209,
+      "end": 33.729,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一段，火终于灭了，但调查刚开始。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 34.079,
+      "end": 43.719,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：消防员终于扑灭了加利福尼亚的一场森林大火；从那以后，他们一直在查火是怎么烧起来的。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 44.069,
+      "end": 50.06,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文第一句是："
+        },
+        {
+          "lang": "en",
+          "text": "At last firemen have put out a big forest fire in California"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 50.41,
+      "end": 55.89,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "At last"
+        },
+        {
+          "lang": "zh",
+          "text": "有“终于”的感觉，说明灭火花了很大力气。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 56.24,
+      "end": 63.304,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Have put out"
+        },
+        {
+          "lang": "zh",
+          "text": "是现在完成时，重点是结果：火现在已经灭了。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 63.654,
+      "end": 73.79,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "地点是"
+        },
+        {
+          "lang": "en",
+          "text": "California"
+        },
+        {
+          "lang": "zh",
+          "text": "，美国西部的一个州。这里不用上地理课，只要知道森林火灾发生在大片自然区域里。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 74.14,
+      "end": 80.324,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Since then, they have been trying to find out how the fire began"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 80.673,
+      "end": 88.569,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Since then"
+        },
+        {
+          "lang": "zh",
+          "text": "是从那以后；"
+        },
+        {
+          "lang": "en",
+          "text": "have been trying"
+        },
+        {
+          "lang": "zh",
+          "text": "说明他们一直在努力查原因。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 88.919,
+      "end": 98.087,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一段中文侦探线是：大火灭了 -> 但问题还在 -> 消防员开始查"
+        },
+        {
+          "lang": "en",
+          "text": "how the fire began"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 98.437,
+      "end": 101.197,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二段，先排除最常见的原因。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 101.547,
+      "end": 111.947,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：森林火灾常常由碎玻璃或随手扔掉的烟头引起；消防员仔细检查地面，却没有找到这些证据。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 112.297,
+      "end": 118.276,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Forest fires are often caused by broken glass or by cigarette ends"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 118.626,
+      "end": 126.302,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Are caused by"
+        },
+        {
+          "lang": "zh",
+          "text": "是“由什么引起”。这里先列出 usual suspects，常见嫌疑原因。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 126.652,
+      "end": 133.196,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Broken glass"
+        },
+        {
+          "lang": "zh",
+          "text": "是碎玻璃，"
+        },
+        {
+          "lang": "en",
+          "text": "cigarette ends"
+        },
+        {
+          "lang": "zh",
+          "text": "是烟头。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 133.546,
+      "end": 137.866,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文补了一句："
+        },
+        {
+          "lang": "en",
+          "text": "which people carelessly throw away"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 138.216,
+      "end": 144.968,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Carelessly"
+        },
+        {
+          "lang": "zh",
+          "text": "告诉我们，有些火灾来自不小心、随手乱扔。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 145.317,
+      "end": 151.221,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后调查开始落地："
+        },
+        {
+          "lang": "en",
+          "text": "Yesterday the firemen examined the ground carefully"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 151.571,
+      "end": 157.299,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Examine"
+        },
+        {
+          "lang": "zh",
+          "text": "比 look at 更认真，是像查证据一样仔细检查。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 157.649,
+      "end": 162.177,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结果是："
+        },
+        {
+          "lang": "en",
+          "text": "were not able to find any broken glass"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 162.527,
+      "end": 167.247,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他们还很确定："
+        },
+        {
+          "lang": "en",
+          "text": "a cigarette end did not start the fire"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 167.597,
+      "end": 175.677,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一段中文侦探线是：常见原因是碎玻璃和烟头 -> 仔细查地面 -> 没有碎玻璃 -> 也不是烟头。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 176.026,
+      "end": 179.306,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三段，真正奇怪的线索出现了。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 179.656,
+      "end": 189.136,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：今天上午，一个消防员偶然发现了原因；他看到一条蛇的遗骸缠在十六千伏高压线的电线上。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 189.486,
+      "end": 197.19,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文原句保留旧教材文字："
+        },
+        {
+          "lang": "en",
+          "text": "This morning, however, a firemen accidentally discovered the cause"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 197.54,
+      "end": 206.732,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你要知道，单数更标准是"
+        },
+        {
+          "lang": "en",
+          "text": "a fireman"
+        },
+        {
+          "lang": "zh",
+          "text": "；现代更中性的说法常用"
+        },
+        {
+          "lang": "en",
+          "text": "a firefighter"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 207.082,
+      "end": 211.282,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里我们不改课文，只在理解时记住这个语言提醒。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 211.631,
+      "end": 219.183,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "关键动作是"
+        },
+        {
+          "lang": "en",
+          "text": "accidentally discovered the cause"
+        },
+        {
+          "lang": "zh",
+          "text": "，不是计划好了，而是偶然发现了原因。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 219.533,
+      "end": 223.581,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他发现的线索是："
+        },
+        {
+          "lang": "en",
+          "text": "the remains of a snake"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 223.931,
+      "end": 231.619,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Remains"
+        },
+        {
+          "lang": "zh",
+          "text": "这里温和理解成“事件之后留下的东西”，不用想成恐怖画面。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 231.969,
+      "end": 236.593,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这条线索在哪里？"
+        },
+        {
+          "lang": "en",
+          "text": "which was wound round the electric wires"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 236.943,
+      "end": 249.598,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意这里的"
+        },
+        {
+          "lang": "en",
+          "text": "wound"
+        },
+        {
+          "lang": "zh",
+          "text": "读"
+        },
+        {
+          "lang": "ipa",
+          "text": "waʊnd"
+        },
+        {
+          "lang": "zh",
+          "text": "，是"
+        },
+        {
+          "lang": "en",
+          "text": "wind"
+        },
+        {
+          "lang": "zh",
+          "text": "的过去式，意思是缠绕；不是“伤口”的那个词。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 249.948,
+      "end": 259.196,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些电线属于"
+        },
+        {
+          "lang": "en",
+          "text": "a 16,000-volt power line"
+        },
+        {
+          "lang": "zh",
+          "text": "，非常危险，只能远远观察，不能靠近或触碰。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 259.546,
+      "end": 263.966,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "就这样："
+        },
+        {
+          "lang": "en",
+          "text": "In this way, he was able to solve the mystery"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 264.315,
+      "end": 272.835,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一段中文侦探线是：偶然发现原因 -> 蛇的遗骸 -> 缠在高压电线上 -> 谜团开始解开。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 273.185,
+      "end": 275.785,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四段，还原真正的因果链。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 276.135,
+      "end": 286.975,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：解释很简单但很反常；鸟抓起蛇，把蛇掉到电线上，蛇缠住电线，火花落到地面，立刻引起火灾。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 287.325,
+      "end": 292.541,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文先评价："
+        },
+        {
+          "lang": "en",
+          "text": "The explanation was simple but very unusual"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 292.891,
+      "end": 299.891,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Simple"
+        },
+        {
+          "lang": "zh",
+          "text": "是逻辑很清楚，"
+        },
+        {
+          "lang": "en",
+          "text": "very unusual"
+        },
+        {
+          "lang": "zh",
+          "text": "是这种原因很少见。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 300.24,
+      "end": 305.352,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "真正的第一步是："
+        },
+        {
+          "lang": "en",
+          "text": "A bird had snatched up the snake from the ground"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 305.702,
+      "end": 313.638,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Had snatched up"
+        },
+        {
+          "lang": "zh",
+          "text": "用过去完成时，因为鸟抓蛇发生在消防员发现线索之前。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 313.988,
+      "end": 318.084,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二步："
+        },
+        {
+          "lang": "en",
+          "text": "and then dropped it on to the wires"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 318.434,
+      "end": 323.002,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三步："
+        },
+        {
+          "lang": "en",
+          "text": "The snake then wound itself round the wires"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 323.352,
+      "end": 329.247,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "wound itself round"
+        },
+        {
+          "lang": "zh",
+          "text": "还是“缠绕”，不是受伤。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 329.597,
+      "end": 335.037,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一环是："
+        },
+        {
+          "lang": "en",
+          "text": "When it did so, it sent sparks down to the ground"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 335.387,
+      "end": 339.499,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Sparks"
+        },
+        {
+          "lang": "zh",
+          "text": "是小火花，不是大爆炸。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 339.849,
+      "end": 343.761,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结果："
+        },
+        {
+          "lang": "en",
+          "text": "these immediately started a fire"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 344.111,
+      "end": 352.551,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一段中文因果链是：鸟抓蛇 -> 蛇落电线 -> 蛇缠住电线 -> 火花落地 -> 立刻起火。"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 352.901,
+      "end": 358.401,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，标题"
+        },
+        {
+          "lang": "en",
+          "text": "Hot snake"
+        },
+        {
+          "lang": "zh",
+          "text": "是不是说蛇很烫？"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 358.751,
+      "end": 369.079,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不只是这个意思。这里的"
+        },
+        {
+          "lang": "en",
+          "text": "hot"
+        },
+        {
+          "lang": "zh",
+          "text": "暗示高压电、带电危险和火花，所以标题像一个短短的 mystery clue。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 369.429,
+      "end": 372.276,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课会不会是吓人的蛇故事？"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 372.626,
+      "end": 383.786,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不会。蛇只是证据链的一环。我们把它当成火灾调查故事来学：查原因、排除可能、发现线索、还原因果链。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 384.136,
+      "end": 391.499,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里的"
+        },
+        {
+          "lang": "en",
+          "text": "firemen"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "firefighter"
+        },
+        {
+          "lang": "zh",
+          "text": "有什么关系？"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 391.849,
+      "end": 406.433,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Firemen"
+        },
+        {
+          "lang": "zh",
+          "text": "是老教材常见说法。单数更标准是"
+        },
+        {
+          "lang": "en",
+          "text": "a fireman"
+        },
+        {
+          "lang": "zh",
+          "text": "，现在很多场合会说"
+        },
+        {
+          "lang": "en",
+          "text": "firefighters"
+        },
+        {
+          "lang": "zh",
+          "text": "，因为消防员可以是男性，也可以是女性。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 406.782,
+      "end": 410.415,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那课文里为什么有"
+        },
+        {
+          "lang": "en",
+          "text": "a firemen"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 410.765,
+      "end": 423.537,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这是源文本里的旧教材问题。我们不在生产里改共享课文，但讲解时告诉你：标准单数应说"
+        },
+        {
+          "lang": "en",
+          "text": "a fireman"
+        },
+        {
+          "lang": "zh",
+          "text": "或"
+        },
+        {
+          "lang": "en",
+          "text": "a firefighter"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 423.887,
+      "end": 427.67,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Wound"
+        },
+        {
+          "lang": "zh",
+          "text": "我总会看成“伤口”。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 428.02,
+      "end": 443.379,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课一定要分清。这里"
+        },
+        {
+          "lang": "en",
+          "text": "wound"
+        },
+        {
+          "lang": "zh",
+          "text": "读"
+        },
+        {
+          "lang": "ipa",
+          "text": "waʊnd"
+        },
+        {
+          "lang": "zh",
+          "text": "，来自"
+        },
+        {
+          "lang": "en",
+          "text": "wind"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思是缠绕。伤口那个"
+        },
+        {
+          "lang": "en",
+          "text": "wound"
+        },
+        {
+          "lang": "zh",
+          "text": "读法和意思都不同。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 443.729,
+      "end": 447.257,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Remains"
+        },
+        {
+          "lang": "zh",
+          "text": "会不会太吓人？"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 447.607,
+      "end": 456.047,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "我们温和理解成“事件之后留下的东西”。画面里不需要近距离、不需要血腥；重点是消防员看到一个线索。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 456.397,
+      "end": 460.554,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "16,000-volt power line"
+        },
+        {
+          "lang": "zh",
+          "text": "是什么？"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 460.904,
+      "end": 471.624,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "是非常危险的高压输电线路，不是家里普通充电线。看到电线、火花、掉落电缆或坏掉的电器，一定远离并找大人。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 471.974,
+      "end": 474.956,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "背这课时要先背长英文吗？"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 475.306,
+      "end": 490.626,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先背中文侦探线：火灭了 -> 查原因 -> 常见原因是碎玻璃和烟头 -> 都排除了 -> 高压线上发现蛇 -> 鸟抓蛇 -> 蛇落电线 -> 火花落地 -> 起火。然后再把英文短块挂上去。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 490.976,
+      "end": 495.44,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "At last firemen have put out a big forest fire in California."
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 495.79,
+      "end": 499.966,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Since then, they have been trying to find out how the fire began."
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 500.316,
+      "end": 506.604,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Forest fires are often caused by broken glass or by cigarette ends which people carelessly throw away."
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 506.954,
+      "end": 512.929,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Yesterday the firemen examined the ground carefully, but were not able to find any broken glass."
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 513.279,
+      "end": 517.647,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "They were also quite sure that a cigarette end did not start the fire."
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 517.997,
+      "end": 522.917,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "This morning, however, a firemen accidentally discovered the cause."
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 523.267,
+      "end": 529.579,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He noticed the remains of a snake which was wound round the electric wires of a 16,000-volt power line."
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 529.929,
+      "end": 533.457,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In this way, he was able to solve the mystery."
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 533.807,
+      "end": 537.575,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The explanation was simple but very unusual."
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 537.925,
+      "end": 542.725,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A bird had snatched up the snake from the ground and then dropped it on to the wires."
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 543.075,
+      "end": 546.267,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The snake then wound itself round the wires."
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 546.616,
+      "end": 551.968,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When it did so, it sent sparks down to the ground and these immediately started a fire."
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 552.318,
+      "end": 554.958,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cause"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "cause"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 555.308,
+      "end": 556.892,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cause"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Cause"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 557.242,
+      "end": 563.682,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cause"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Cause"
+        },
+        {
+          "lang": "zh",
+          "text": "可以作名词，意思是原因；也可以作动词，意思是引起。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 564.032,
+      "end": 571.724,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cause"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里消防员一直在查："
+        },
+        {
+          "lang": "en",
+          "text": "how the fire began"
+        },
+        {
+          "lang": "zh",
+          "text": "，也就是"
+        },
+        {
+          "lang": "en",
+          "text": "the cause of the fire"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 572.073,
+      "end": 577.145,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cause"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "关键句是："
+        },
+        {
+          "lang": "en",
+          "text": "a firemen accidentally discovered the cause"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 577.495,
+      "end": 581.575,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cause"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "生活里也可以问："
+        },
+        {
+          "lang": "en",
+          "text": "What caused the problem?"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 581.925,
+      "end": 588.805,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cause"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住这一课的主线：不是只看 fire，而是一步步找"
+        },
+        {
+          "lang": "en",
+          "text": "cause"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 589.155,
+      "end": 591.859,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "wound"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "wound"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 592.209,
+      "end": 593.793,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "wound"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Wound"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 594.142,
+      "end": 606.278,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "wound"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课里的"
+        },
+        {
+          "lang": "en",
+          "text": "wound"
+        },
+        {
+          "lang": "zh",
+          "text": "读"
+        },
+        {
+          "lang": "ipa",
+          "text": "waʊnd"
+        },
+        {
+          "lang": "zh",
+          "text": "，是"
+        },
+        {
+          "lang": "en",
+          "text": "wind"
+        },
+        {
+          "lang": "zh",
+          "text": "的过去式或过去分词，意思是缠绕。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 606.628,
+      "end": 612.572,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "wound"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文有两处：第一处是"
+        },
+        {
+          "lang": "en",
+          "text": "which was wound round the electric wires"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 612.922,
+      "end": 617.69,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "wound"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二处是"
+        },
+        {
+          "lang": "en",
+          "text": "The snake then wound itself round the wires"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 618.039,
+      "end": 625.639,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "wound"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它不是“伤口”的意思。你背这课时，只要把它放进动作画面：wrap round, curl round, wind round。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 625.989,
+      "end": 629.389,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "wound"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以中文锚点是：蛇缠在电线上。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 629.739,
+      "end": 632.611,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "spark"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "spark"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 632.961,
+      "end": 634.617,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "spark"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Spark"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 634.967,
+      "end": 639.551,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "spark"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A spark is a tiny bright flash from fire or electricity."
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 639.901,
+      "end": 644.093,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "spark"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文最后说："
+        },
+        {
+          "lang": "en",
+          "text": "it sent sparks down to the ground"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 644.443,
+      "end": 651.994,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "spark"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Sparks"
+        },
+        {
+          "lang": "zh",
+          "text": "本来很小，但如果落到干燥的地面上，就可能"
+        },
+        {
+          "lang": "en",
+          "text": "start a fire"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 652.344,
+      "end": 657.784,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "spark"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这也是安全边界：火花、电线、掉落电缆，都不能靠近。"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 658.134,
+      "end": 663.174,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "spark"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在故事里，spark 是最后一环：wire -> sparks -> fire。"
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 663.524,
+      "end": 670.828,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的"
+        },
+        {
+          "lang": "en",
+          "text": "grammar board"
+        },
+        {
+          "lang": "zh",
+          "text": "不是先背公式，而是学会用英文重建一条原因链。"
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "start": 671.178,
+      "end": 674.122,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块："
+        },
+        {
+          "lang": "en",
+          "text": "have put out"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 103,
+      "start": 674.472,
+      "end": 679.131,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "At last firemen have put out a big forest fire"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "start": 679.481,
+      "end": 687.041,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文先想：火终于灭了。现在完成时强调现在的结果，下一步可以开始调查。"
+        }
+      ]
+    },
+    {
+      "i": 105,
+      "start": 687.391,
+      "end": 690.575,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块："
+        },
+        {
+          "lang": "en",
+          "text": "have been trying"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "start": 690.925,
+      "end": 695.749,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Since then, they have been trying to find out how the fire began"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 107,
+      "start": 696.099,
+      "end": 703.131,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "从那以后一直在查，不是一秒钟的动作，所以用"
+        },
+        {
+          "lang": "en",
+          "text": "have been plus verb ing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 108,
+      "start": 703.481,
+      "end": 706.657,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块："
+        },
+        {
+          "lang": "en",
+          "text": "are caused by"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 109,
+      "start": 707.006,
+      "end": 716.942,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结构是：结果 + be caused by + 原因。课文例子是："
+        },
+        {
+          "lang": "en",
+          "text": "Forest fires are often caused by broken glass"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 110,
+      "start": 717.292,
+      "end": 723.048,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你也可以迁移到生活里："
+        },
+        {
+          "lang": "en",
+          "text": "The wet backpack was caused by an open water bottle."
+        }
+      ]
+    },
+    {
+      "i": 111,
+      "start": 723.398,
+      "end": 725.398,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四块：侦探词组。"
+        }
+      ]
+    },
+    {
+      "i": 112,
+      "start": 725.748,
+      "end": 740.819,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一组按顺序记："
+        },
+        {
+          "lang": "en",
+          "text": "find out"
+        },
+        {
+          "lang": "zh",
+          "text": "，查清楚；"
+        },
+        {
+          "lang": "en",
+          "text": "examine carefully"
+        },
+        {
+          "lang": "zh",
+          "text": "，仔细检查；"
+        },
+        {
+          "lang": "en",
+          "text": "discover the cause"
+        },
+        {
+          "lang": "zh",
+          "text": "，发现原因；"
+        },
+        {
+          "lang": "en",
+          "text": "solve the mystery"
+        },
+        {
+          "lang": "zh",
+          "text": "，解开谜团。"
+        }
+      ]
+    },
+    {
+      "i": 113,
+      "start": 741.169,
+      "end": 744.785,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第五块："
+        },
+        {
+          "lang": "en",
+          "text": "which was wound round"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 114,
+      "start": 745.135,
+      "end": 751.887,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Which"
+        },
+        {
+          "lang": "zh",
+          "text": "后面补充关键线索，告诉我们 snake remains 在哪里、是什么状态。"
+        }
+      ]
+    },
+    {
+      "i": 115,
+      "start": 752.237,
+      "end": 755.197,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第六块：过去完成时。"
+        }
+      ]
+    },
+    {
+      "i": 116,
+      "start": 755.547,
+      "end": 766.026,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A bird had snatched up the snake"
+        },
+        {
+          "lang": "zh",
+          "text": "。鸟抓蛇发生在消防员发现线索之前，所以用"
+        },
+        {
+          "lang": "en",
+          "text": "had snatched up"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 117,
+      "start": 766.376,
+      "end": 778.912,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一块是动作链："
+        },
+        {
+          "lang": "en",
+          "text": "snatched up"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "dropped"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "wound itself round"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "sent sparks down"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "started a fire"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 118,
+      "start": 779.262,
+      "end": 784.982,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "背诵时先说中文链，再挂英文链，逻辑会比硬背长句稳得多。"
+        }
+      ]
+    },
+    {
+      "i": 119,
+      "start": 785.332,
+      "end": 792.972,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把今天的调查语言放进一个安全的生活小谜题："
+        },
+        {
+          "lang": "en",
+          "text": "The Wet Backpack Mystery"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 120,
+      "start": 793.321,
+      "end": 800.561,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不碰电线，不模仿危险场景，只练习“查原因、排除可能、发现线索、解开谜团”。"
+        }
+      ]
+    },
+    {
+      "i": 121,
+      "start": 800.911,
+      "end": 806.015,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你回家发现书包里面湿了："
+        },
+        {
+          "lang": "en",
+          "text": "My backpack was wet inside"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 122,
+      "start": 806.365,
+      "end": 810.757,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "一开始你想查原因："
+        },
+        {
+          "lang": "en",
+          "text": "I tried to find out the cause"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 123,
+      "start": 811.107,
+      "end": 815.867,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你先怀疑下雨："
+        },
+        {
+          "lang": "en",
+          "text": "At first, I thought it was caused by rain"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 124,
+      "start": 816.217,
+      "end": 821.585,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你仔细检查书和书包外面："
+        },
+        {
+          "lang": "en",
+          "text": "I examined the books carefully"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 125,
+      "start": 821.934,
+      "end": 828.158,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你没有找到外面的雨水："
+        },
+        {
+          "lang": "en",
+          "text": "I was not able to find any rainwater on the outside"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 126,
+      "start": 828.508,
+      "end": 834.332,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后你偶然发现真正原因："
+        },
+        {
+          "lang": "en",
+          "text": "Then I accidentally discovered the cause"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 127,
+      "start": 834.682,
+      "end": 840.17,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "原来水瓶盖没有拧紧："
+        },
+        {
+          "lang": "en",
+          "text": "My water bottle was not closed properly"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 128,
+      "start": 840.52,
+      "end": 844.952,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后你可以说："
+        },
+        {
+          "lang": "en",
+          "text": "In this way, I solved the mystery"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 129,
+      "start": 845.302,
+      "end": 850.462,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，你要用今天的 investigation words，把这个湿书包谜案补完整。"
+        }
+      ]
+    },
+    {
+      "i": 130,
+      "start": 850.811,
+      "end": 858.131,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 131,
+      "start": 858.481,
+      "end": 874.321,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓中文侦探线：火灭了 -> 查原因 -> 常见原因是碎玻璃和烟头 -> 地面调查排除它们 -> 高压线上发现蛇的线索 -> 鸟抓蛇 -> 蛇落电线 -> 火花落地 -> 立刻起火。"
+        }
+      ]
+    },
+    {
+      "i": 132,
+      "start": 874.671,
+      "end": 900.786,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再把"
+        },
+        {
+          "lang": "en",
+          "text": "English chunks"
+        },
+        {
+          "lang": "zh",
+          "text": "挂上去："
+        },
+        {
+          "lang": "en",
+          "text": "have put out"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "have been trying to find out"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "are often caused by"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "examined the ground carefully"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "accidentally discovered the cause"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "was wound round"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "solve the mystery"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "snatched up"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "sent sparks down"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 133,
+      "start": 901.136,
+      "end": 915.616,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，用 find out, cause, examine, discover, solve the mystery 讲一个安全的小谜题；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 134,
+      "start": 915.966,
+      "end": 925.726,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "A good cause-chain story helps us solve the mystery step by step."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 53
+}

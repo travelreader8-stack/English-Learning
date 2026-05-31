@@ -1,0 +1,55 @@
+{
+  "lesson_id": 53,
+  "title": "The Wet Backpack Mystery",
+  "question": "把今天的“查原因 + 排除常见可能 + 偶然发现线索 + 解开谜团”放进一个安全的生活场景：湿书包谜案。用 word bank 补完整 5 个空。",
+  "example_answer": "At last, I found out why my backpack was wet. At first, I thought it was caused by rain. I examined the books carefully. I was not able to find any rainwater on the outside. Then I accidentally discovered the cause. My water bottle was not closed properly. In this way, I solved the mystery.",
+  "word_bank": [
+    "found out",
+    "why my backpack was wet",
+    "caused by rain",
+    "examined",
+    "carefully",
+    "was not able to find",
+    "any rainwater",
+    "on the outside",
+    "accidentally discovered",
+    "the cause",
+    "water bottle",
+    "not closed properly",
+    "In this way",
+    "solved the mystery"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说你终于查清楚了书包为什么湿了",
+      "english_template": "At last, I ___ why my backpack was wet.",
+      "expected_phrase": "found out"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说你一开始以为这是雨造成的",
+      "english_template": "At first, I thought it was ___.",
+      "expected_phrase": "caused by rain"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说你仔细检查了书",
+      "english_template": "I examined the books ___.",
+      "expected_phrase": "carefully"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说你偶然发现了真正原因",
+      "english_template": "Then I accidentally discovered ___.",
+      "expected_phrase": "the cause"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "说你就这样解开了谜团",
+      "english_template": "In this way, I ___.",
+      "expected_phrase": "solved the mystery"
+    }
+  ],
+  "mode": "all_fills"
+}

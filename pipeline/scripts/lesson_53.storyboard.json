@@ -1,0 +1,23 @@
+{
+  "lesson_id": 53,
+  "title": "Hot snake",
+  "visual_consistency": "A realistic warm child-friendly educational illustration in the same gentle watercolor storybook style used by the course: hand-painted texture, soft brush strokes, slight grain, natural California forest-edge daylight, clear visual storytelling, calm mystery mood, not dark or frightening. No readable text, no letters, no numbers, no warning signs, no voltage labels, no newspaper titles, no captions, no speech bubbles, no UI panels, no brand marks, no badges with text, no fake writing, and no blank label areas anywhere in the image. The recurring protagonist is a calm adult firefighter investigator, medium build, focused but gentle expression, wearing the same protective yellow wildfire jacket, dark trousers, sturdy boots, and a plain white helmet with no readable markings; he carries the same small field notebook and flashlight and always observes safely from a distance. The setting remains a quiet California forest edge after a fire has been put out: lightly charred ground, sparse trees, soft remaining smoke, distant utility poles and power lines when needed, no graphic animal detail, no dramatic disaster spectacle, and no person touching wires.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "At the edge of a recently burned California forest after the fire has been put out, the same calm firefighter investigator in a yellow wildfire jacket and plain white helmet stands with a small field notebook and flashlight. Light smoke drifts far in the background, a hose and fire truck shape are visible without any readable markings, and the mood is relief mixed with an unanswered mystery. The ground is lightly charred but not overwhelming. Warm watercolor illustrated realism, calm investigative storybook mood, soft daylight. No readable text, no letters, no numbers, no signs, no labels, no captions, no speech bubbles, no UI panels, no brand marks, no helmet writing, and no fake writing."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same firefighter investigator safely kneels or bends at the forest edge, examining the ground carefully with the same flashlight and small notebook. The composition suggests a search for ordinary causes such as small glass-like fragments or cigarette-end-like shapes, but nothing obvious is found; keep all objects unlabeled and non-prominent. Background firefighters are distant and calm. Warm watercolor illustrated realism, evidence-search mystery mood, soft natural light. No readable text, no letters, no numbers, no evidence labels, no warning signs, no captions, no speech bubbles, no UI panels, no brand marks, and no fake writing."
+    },
+    {
+      "frame": 3,
+      "prompt": "The same firefighter investigator stands safely far from a tall utility pole and high power lines, observing with his flashlight lowered and notebook in hand. On one distant wire there is a small dark coil-like shape suggesting unusual evidence, shown indirectly and gently, not as a graphic close-up. The firefighter does not touch anything and stays behind safe distance cues made only by composition, not by labels. Warm watercolor illustrated realism, quiet clue reveal, calm daylight, non-graphic. No readable text, no letters, no numbers, no voltage labels, no warning signs, no captions, no speech bubbles, no UI panels, no brand marks, no fake writing, and no close-up animal remains."
+    },
+    {
+      "frame": 4,
+      "prompt": "A clean reconstructed cause-chain scene at the same forest edge: a bird in the sky releases a slender snake-like shape toward high power lines, small stylized sparks fall toward dry ground in a restrained non-explosive way, and the same firefighter investigator stands safely in the foreground as if mentally reconstructing the sequence from a distance. The action is clear but not frightening, with no burning animal imagery and no one near the wires. Warm watercolor illustrated realism, memorable cause-and-effect mystery, soft daylight. No readable text, no letters, no numbers, no arrows, no labels, no signs, no captions, no speech bubbles, no UI panels, no brand marks, and no fake writing."
+    }
+  ]
+}

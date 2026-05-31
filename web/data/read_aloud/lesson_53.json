@@ -1,0 +1,111 @@
+{
+  "lesson_id": 53,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按中文侦探线记忆：火终于扑灭、从那以后一直查原因、常见原因是碎玻璃和烟头、地面调查排除了它们、一个消防员偶然发现高压线上的蛇线索，最后还原出鸟、蛇、电线、火花、起火的因果链。读的时候注意 have put out 和 have been trying 的节奏，长句要分组，wound 在本课读作 wind 的过去式。",
+  "sentences": [
+    {
+      "id": "l53_s1",
+      "text": "At last firemen have put out a big forest fire in California.",
+      "focus_zh": "中文锚点：消防员终于扑灭了一场加利福尼亚森林大火。At last 读出终于完成的感觉，have put out 强调结果：火已经灭了。",
+      "start": 490.976,
+      "end": 495.44,
+      "focus_words": [
+        "At last",
+        "firemen",
+        "have put out",
+        "a big forest fire"
+      ]
+    },
+    {
+      "id": "l53_s2",
+      "text": "Since then, they have been trying to find out how the fire began.",
+      "focus_zh": "中文锚点：从那以后，他们一直在查火是怎么烧起来的。Since then 后稍停，have been trying 读出持续调查，find out 要连成一个意义块。",
+      "start": 495.79,
+      "end": 499.966,
+      "focus_words": [
+        "Since then",
+        "have been trying",
+        "find out",
+        "how the fire began"
+      ]
+    },
+    {
+      "id": "l53_s3",
+      "text": "Forest fires are often caused by broken glass or by cigarette ends which people carelessly throw away.",
+      "focus_zh": "中文锚点：森林火灾常常由碎玻璃或人们随手扔掉的烟头引起。are often caused by 是被动原因结构，broken glass 和 cigarette ends 分组读。",
+      "start": 500.316,
+      "end": 506.604,
+      "focus_words": [
+        "are often caused by",
+        "broken glass",
+        "cigarette ends",
+        "carelessly throw away"
+      ]
+    },
+    {
+      "id": "l53_s4",
+      "text": "Yesterday the firemen examined the ground carefully, but were not able to find any broken glass.",
+      "focus_zh": "中文锚点：昨天消防员仔细检查地面，但没有找到碎玻璃。examined 和 carefully 要读清楚，but 后面读出调查后的排除结果。",
+      "start": 506.954,
+      "end": 512.929,
+      "focus_words": [
+        "Yesterday",
+        "examined the ground carefully",
+        "were not able to find",
+        "any broken glass"
+      ]
+    },
+    {
+      "id": "l53_s5",
+      "text": "This morning, however, a firemen accidentally discovered the cause.",
+      "focus_zh": "中文锚点：然而今天上午，一个消防员偶然发现了原因。这里照课文原文读 a firemen；讲解里已说明标准单数是 a fireman 或 a firefighter。however 前后有转折，accidentally discovered the cause 是关键块。",
+      "start": 517.997,
+      "end": 522.917,
+      "focus_words": [
+        "This morning",
+        "however",
+        "accidentally discovered",
+        "the cause"
+      ]
+    },
+    {
+      "id": "l53_s6",
+      "text": "He noticed the remains of a snake which was wound round the electric wires of a 16,000-volt power line.",
+      "focus_zh": "中文锚点：他发现一条蛇的遗骸缠在十六千伏高压线的电线上。remains 温和理解成留下的东西，wound 在本课读作 wind 的过去式，长句按 clue 分组慢读。",
+      "start": 523.267,
+      "end": 529.579,
+      "focus_words": [
+        "remains of a snake",
+        "which was wound round",
+        "electric wires",
+        "16,000-volt power line"
+      ]
+    },
+    {
+      "id": "l53_s7",
+      "text": "A bird had snatched up the snake from the ground and then dropped it on to the wires.",
+      "focus_zh": "中文锚点：一只鸟从地上抓起蛇，然后把它掉到电线上。had snatched up 是过去完成时，说明这个动作发生在发现线索之前；dropped it on to the wires 不要读散。",
+      "start": 537.925,
+      "end": 542.725,
+      "focus_words": [
+        "A bird had snatched up",
+        "from the ground",
+        "dropped it",
+        "on to the wires"
+      ]
+    },
+    {
+      "id": "l53_s8",
+      "text": "When it did so, it sent sparks down to the ground and these immediately started a fire.",
+      "focus_zh": "中文锚点：当蛇这样做时，火花落到地面，立刻引起火灾。When it did so 后稍停，sent sparks down 和 immediately started a fire 是最终因果链。",
+      "start": 546.616,
+      "end": 551.968,
+      "focus_words": [
+        "When it did so",
+        "sent sparks down",
+        "to the ground",
+        "immediately started a fire"
+      ]
+    }
+  ]
+}
