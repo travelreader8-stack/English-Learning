@@ -181,6 +181,17 @@ student's answer against the wrong reference.
    - Keep `[EN]...[/EN]` tags balanced.
    - Include all required scenes: `hook`, `retell` x4, `discuss`,
      `passage_normal`, exactly 3 `vocab` blocks, `grammar`, `you_too`, `outro`.
+   - Keep the opening `hook` short. It should orient the student to the core
+     bridge, object, role, or joke in 4-6 spoken lines, not retell the full
+     passage. The full plot belongs in the four `retell frame=N` scenes.
+   - Avoid duplicate narration between `hook` and `retell`. Do not put a full
+     Chinese story spine or all major plot turns in `hook` if the same sequence
+     will be taught frame by frame. A good `hook` should answer "what should I
+     notice?" rather than "what happens from beginning to end?"
+   - Because the lesson page shows the first visual during the early narration,
+     a long `hook` makes the first frame stay on screen too long. If a lesson
+     needs extra background, split it into the relevant retell frame or
+     `discuss` scene instead of loading it all into `hook`.
    - The `outro` must mention the full practice order and the concrete
      read-aloud steps:
      `⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈`, then
@@ -257,6 +268,8 @@ A lesson is ready only when:
   whole-passage fallback.
 - The script clearly follows the modern bridge and story focus from the
   per-lesson plan.
+- The `hook` is brief and non-duplicative; it sets up the key bridge or joke
+  without retelling the full passage before the retell frames begin.
 - The final `outro` page and narration explicitly include `⓪ 跟读` before
   `① 生活场景`, with the concrete read-aloud steps.
 - The completed lesson is committed and pushed, unless the user explicitly asks

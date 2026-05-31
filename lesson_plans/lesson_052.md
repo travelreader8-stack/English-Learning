@@ -91,23 +91,26 @@ prettiest carpet she has ever seen.
 
 ## Vivid Teaching Opening
 
-The opening should establish the visual joke quickly.
+The opening should establish the visual joke quickly. It must be a short hook,
+not a complete plot retelling. Keep it to 4-6 spoken lines so the first visual
+does not stay on screen too long before the frame-by-frame retell begins.
 
 Suggested teacher narration:
 
-`想象你刚搬进一个新房间，东西还没收拾好。你想 get your room in order，可是你有 over a thousand books，房间又 rather small。怎么办？你先 temporarily put the books on the floor。`
+`想象你刚搬进一个新房间，最想做的事是 get your room in order，把房间整理好。`
 
-`问题是，书太多了，不是一小摞，而是 cover every inch of floor space。也就是说地板上每一寸地方都被书占满了。你要进出房间，actually have to walk on them。`
+`可是这个人的问题很夸张：他有 over a thousand books，房间又 rather small。`
 
-`这时候妹妹帮你把 old bookcase 搬上楼。她一进房间，看到满地的书，不是说“真乱”，而是说：This is the prettiest carpet I have ever seen。`
+`书暂时放在地上，慢慢铺满地板，最后看起来不像一堆书，倒像一张 carpet。`
 
-`最后她又补了一句：You don't need bookcases at all. You can sit here in your spare time and read the carpet! 这就是整篇的笑点：地毯不能读，但是如果这张“地毯”是书铺成的，就真的可以 read。`
+`所以今天先看懂这个笑点：普通 carpet 不能 read，可是如果这张 carpet 是书铺成的，就可以 read the carpet。`
 
 Tone:
 
 - Bright, visual, and lightly amused.
 - Make the mess feel imaginative, not stressful.
 - Keep the sibling joke kind.
+- Save the detailed sequence for the four `retell` frames.
 
 ## Story Focus
 
