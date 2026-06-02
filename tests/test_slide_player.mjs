@@ -8,7 +8,8 @@
  *   3. 同 vocab word 内多行不重渲染（A→B→A 优化）
  *   4. 连续 passage 行只更新高亮、不重建 DOM
  *   5. 同一插画内换台词不重建 DOM
- *   6. retell 各帧切图正确
+ *   6. 故事帧预加载、图片加载占位稳定
+ *   7. retell 各帧切图正确
  */
 import fs from 'node:fs/promises';
 import path from 'node:path';
@@ -270,6 +271,36 @@ async function main() {
     }
   } else {
     bad(`期望 retell frame=1 >=2 行、实际 ${retellFrame1Lines.length}`);
+  }
+
+  section('5.2 故事帧预加载 + 图片加载占位稳定');
+  const preloadedUrls = [];
+  const OriginalImage = globalThis.Image;
+  globalThis.Image = class {
+    set decoding(v) { this._decoding = v; }
+    set src(v) { preloadedUrls.push(v); this._src = v; }
+    get src() { return this._src; }
+  };
+  try {
+    const stage42 = makeStubElement();
+    new playerMod.SlidePlayer({ stageEl: stage42, audioEl: null, timeline: timeline49, lesson: lesson49 });
+    const expectedFrameUrls = [1, 2, 3, 4].map(n => `/audio/lesson_49_frame_${n}.webp`);
+    const missing = expectedFrameUrls.filter(url => !preloadedUrls.includes(url));
+    if (!missing.length) {
+      ok('构造播放器时预加载 4 张故事帧');
+    } else {
+      bad(`故事帧预加载缺失: ${missing.join(', ')}`);
+    }
+    if (stage42._innerHTML.includes('story-frame-img') &&
+        stage42._innerHTML.includes('story-frame-fallback') &&
+        !stage42._innerHTML.includes('style="display:none"')) {
+      ok('故事帧图片使用稳定占位，不再依赖 inline display:none 闪切');
+    } else {
+      bad('故事帧图片占位 markup 不稳定');
+    }
+  } finally {
+    if (OriginalImage === undefined) delete globalThis.Image;
+    else globalThis.Image = OriginalImage;
   }
 
   section('6. passage 句子带 data-line-idx（点击跳读）');

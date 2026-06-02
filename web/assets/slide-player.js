@@ -38,6 +38,29 @@ function storyFrameUrl(lessonId, frame = 1) {
   return `/audio/lesson_${lessonId}_frame_${frame}.webp`;
 }
 
+function storyFrameImageHtml({ className, src, alt, fallbackClass, fallbackText, priority = false }) {
+  const priorityAttr = priority ? ` fetchpriority="high"` : "";
+  return `
+    <img class="${className} story-frame-img" src="${src}" alt="${escapeHtml(alt)}" loading="eager" decoding="async"${priorityAttr} onload="this.classList.add('is-loaded'); if(this.nextElementSibling){this.nextElementSibling.classList.add('is-hidden')}" onerror="this.classList.add('is-error'); if(this.nextElementSibling){this.nextElementSibling.classList.remove('is-hidden')}">
+    <div class="${fallbackClass} story-frame-fallback">
+      <span>${escapeHtml(fallbackText)}</span>
+    </div>
+  `;
+}
+
+function preloadStoryFrameUrls(lessonId, timeline) {
+  if (!lessonId || !Array.isArray(timeline?.lines)) return [];
+  const frames = new Set();
+  for (const line of timeline.lines) {
+    if (line.scene === "hook") frames.add(1);
+    if (line.scene === "retell") {
+      const frame = Number(line.scene_meta?.frame ?? 1);
+      if (Number.isFinite(frame) && frame >= 1 && frame <= 4) frames.add(frame);
+    }
+  }
+  return [...frames].sort((a, b) => a - b).map(frame => storyFrameUrl(lessonId, frame));
+}
+
 // ─── Scene renderers ───────────────────────────────────────
 const renderers = {
   // 新框架：钩子 — 抓注意力的悬念问题
@@ -46,10 +69,14 @@ const renderers = {
     return `
       <div class="scene scene-hook">
         <div class="hook-art-wrap">
-          <img class="hook-art" src="${imgUrl}" alt="Lesson ${ctx.lesson.id} 开场插画" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
-          <div class="hook-art-fallback" style="display:none">
-            <span>第 1 帧图片正在生成</span>
-          </div>
+          ${storyFrameImageHtml({
+            className: "hook-art",
+            src: imgUrl,
+            alt: `Lesson ${ctx.lesson.id} 开场插画`,
+            fallbackClass: "hook-art-fallback",
+            fallbackText: "第 1 帧图片正在生成",
+            priority: true,
+          })}
         </div>
         <div class="hook-cover">
           <p class="hook-question">${joinSegmentsHtml(line.segments)}</p>
@@ -91,10 +118,13 @@ const renderers = {
     return `
       <div class="scene scene-retell">
         <div class="retell-image-wrap">
-          <img class="retell-image" src="${imgUrl}" alt="Lesson ${ctx.lesson.id} 第 ${frame} 帧" onerror="this.style.display='none';this.nextElementSibling.style.display='flex'">
-          <div class="retell-image-fallback" style="display:none">
-            <span>🖼️ 第 ${frame} 帧（图片正在生成）</span>
-          </div>
+          ${storyFrameImageHtml({
+            className: "retell-image",
+            src: imgUrl,
+            alt: `Lesson ${ctx.lesson.id} 第 ${frame} 帧`,
+            fallbackClass: "retell-image-fallback",
+            fallbackText: `第 ${frame} 帧图片正在生成`,
+          })}
           <div class="retell-frame-badge">${frame} / 4</div>
         </div>
         <div class="retell-narration">
@@ -348,6 +378,7 @@ export class SlidePlayer {
     this.currentIdx = -1;
     this._lastRenderedHtml = "";
     this._singleLinePlayback = null;
+    this._preloadedStoryFrames = new Set();
 
     if (this.audioEl) {
       this.audioEl.addEventListener("timeupdate", () => this._tick());
@@ -366,8 +397,20 @@ export class SlidePlayer {
         if (ev.key === "Enter" || ev.key === " ") this._onSentenceClick(ev);
       });
     }
+    this._preloadStoryFrames();
     // 初始渲染
     this._render(0);
+  }
+
+  _preloadStoryFrames() {
+    if (typeof Image === "undefined") return;
+    for (const url of preloadStoryFrameUrls(this.lesson?.id, this.timeline)) {
+      if (this._preloadedStoryFrames.has(url)) continue;
+      this._preloadedStoryFrames.add(url);
+      const img = new Image();
+      img.decoding = "async";
+      img.src = url;
+    }
   }
 
   _onSentenceClick(ev) {
