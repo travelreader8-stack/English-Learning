@@ -8,8 +8,9 @@
  *   3. 同 vocab word 内多行不重渲染（A→B→A 优化）
  *   4. 连续 passage 行只更新高亮、不重建 DOM
  *   5. 同一插画内换台词不重建 DOM
- *   6. 故事帧预加载、图片加载占位稳定
- *   7. retell 各帧切图正确
+ *   6. discuss 对话只更新消息线程、不重建整屏
+ *   7. 故事帧预加载、图片加载占位稳定
+ *   8. retell 各帧切图正确
  */
 import fs from 'node:fs/promises';
 import path from 'node:path';
@@ -273,7 +274,25 @@ async function main() {
     bad(`期望 retell frame=1 >=2 行、实际 ${retellFrame1Lines.length}`);
   }
 
-  section('5.2 故事帧预加载 + 图片加载占位稳定');
+  section('5.2 discuss 连续对话：只更新消息线程、不重建整屏');
+  const discussLines = timeline49.lines.filter(l => l.scene === 'discuss');
+  if (discussLines.length >= 3) {
+    player41.goTo(discussLines[0].i);
+    const discussNode1 = stage41.firstElementChild;
+    player41.goTo(discussLines[1].i);
+    const discussNode2 = stage41.firstElementChild;
+    player41.goTo(discussLines[2].i);
+    const discussNode3 = stage41.firstElementChild;
+    if (discussNode1 === discussNode2 && discussNode2 === discussNode3) {
+      ok('discuss 连续台词：scene DOM 未重建');
+    } else {
+      bad('discuss 连续台词：整屏 DOM 被重建，可能闪烁');
+    }
+  } else {
+    bad(`期望 discuss >=3 行、实际 ${discussLines.length}`);
+  }
+
+  section('5.3 故事帧预加载 + 图片加载占位稳定');
   const preloadedUrls = [];
   const OriginalImage = globalThis.Image;
   globalThis.Image = class {

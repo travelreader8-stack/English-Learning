@@ -61,6 +61,24 @@ function preloadStoryFrameUrls(lessonId, timeline) {
   return [...frames].sort((a, b) => a - b).map(frame => storyFrameUrl(lessonId, frame));
 }
 
+function renderDiscussMessages(line, timeline) {
+  const all = timeline?.lines ?? [];
+  const discussLines = all.filter(L => L.scene === "discuss");
+  const cursorIdx = discussLines.findIndex(L => L.i === line.i);
+  const visible = cursorIdx >= 0 ? discussLines.slice(0, cursorIdx + 1) : [line];
+  return visible.map(L => {
+    const c = CHARACTERS[L.speaker] ?? CHARACTERS.A;
+    const isA = L.speaker === "A";
+    const isCur = L.i === line.i;
+    return `
+      <div class="discuss-msg ${isA ? "msg-a" : "msg-b"} ${isCur ? "msg-current" : "msg-past"}">
+        <div class="msg-avatar">${c.emoji}</div>
+        <div class="msg-bubble">${joinSegmentsHtml(L.segments)}</div>
+      </div>
+    `;
+  }).join("");
+}
+
 // ─── Scene renderers ───────────────────────────────────────
 const renderers = {
   // 新框架：钩子 — 抓注意力的悬念问题
@@ -87,21 +105,7 @@ const renderers = {
 
   // 新框架：双人播客 — A+B 聊聊这篇课文、抓笑点和文化背景
   discuss(line, ctx) {
-    const all = ctx.timeline?.lines ?? [];
-    const discussLines = all.filter(L => L.scene === "discuss");
-    const cursorIdx = discussLines.findIndex(L => L.i === line.i);
-    const visible = cursorIdx >= 0 ? discussLines.slice(0, cursorIdx + 1) : [line];
-    const msgs = visible.map(L => {
-      const c = CHARACTERS[L.speaker] ?? CHARACTERS.A;
-      const isA = L.speaker === "A";
-      const isCur = L.i === line.i;
-      return `
-        <div class="discuss-msg ${isA ? "msg-a" : "msg-b"} ${isCur ? "msg-current" : "msg-past"}">
-          <div class="msg-avatar">${c.emoji}</div>
-          <div class="msg-bubble">${joinSegmentsHtml(L.segments)}</div>
-        </div>
-      `;
-    }).join("");
+    const msgs = renderDiscussMessages(line, ctx.timeline);
     return `
       <div class="scene scene-discuss">
         <div class="discuss-header">💬 播客时间 · 聊聊这篇课文</div>
@@ -500,7 +504,16 @@ export class SlidePlayer {
       }
     }
 
-    // 优化 3：同一个 vocab 段（A→B→A）内多行不重渲染——避免 [EN]private[/EN] 时单词卡片闪空
+    // 优化 3：同一段 discuss 对话只更新消息线程，不重建整屏
+    // —— 避免师生对话每换一句时整块 stage 闪一下。
+    if (line.scene === "discuss" && this._lastScene === "discuss") {
+      if (this._updateDiscussThreadOnly(line)) {
+        this._lastScene = line.scene;
+        return;
+      }
+    }
+
+    // 优化 4：同一个 vocab 段（A→B→A）内多行不重渲染——避免 [EN]private[/EN] 时单词卡片闪空
     if (line.scene === "vocab" && this._lastScene === "vocab" &&
         String(line.scene_meta?.word ?? "").toLowerCase() === String(this._lastVocabWord ?? "").toLowerCase() &&
         line.scene_meta?.word) {
@@ -531,12 +544,7 @@ export class SlidePlayer {
     this.stageEl.classList.add("fade-in");
     // discuss 场景：渲染后把当前消息滚到可见位置（iMessage 行为）
     if (line.scene === "discuss") {
-      requestAnimationFrame(() => {
-        const cur = this.stageEl.querySelector(".discuss-msg.msg-current");
-        if (cur && typeof cur.scrollIntoView === "function") {
-          cur.scrollIntoView({ behavior: "smooth", block: "end" });
-        }
-      });
+      this._scrollCurrentDiscussMessage();
     }
   }
 
@@ -562,6 +570,27 @@ export class SlidePlayer {
     }
     bubble.innerHTML = joinSegmentsHtml(line.segments);
     return true;
+  }
+
+  // 只更新 discuss 消息线程，保留外层 scene / header / scroll 容器
+  _updateDiscussThreadOnly(line) {
+    const thread = this.stageEl.querySelector(".discuss-thread");
+    if (!thread) return false;
+    thread.innerHTML = renderDiscussMessages(line, this.timeline);
+    this._scrollCurrentDiscussMessage();
+    return true;
+  }
+
+  _scrollCurrentDiscussMessage() {
+    const raf = typeof requestAnimationFrame === "function"
+      ? requestAnimationFrame
+      : (fn) => setTimeout(fn, 0);
+    raf(() => {
+      const cur = this.stageEl.querySelector(".discuss-msg.msg-current");
+      if (cur && typeof cur.scrollIntoView === "function") {
+        cur.scrollIntoView({ behavior: "smooth", block: "end" });
+      }
+    });
   }
 
   // 仅更新 vocab 卡片上的 speaker pill（不重建整张卡）

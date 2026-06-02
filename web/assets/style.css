@@ -1059,6 +1059,7 @@ input:disabled {
   animation: scene-fade 0.45s var(--ease-out);
 }
 .stage.stage--hook.fade-in > .scene-hook,
+.stage.stage--discuss.fade-in > .scene-discuss,
 .stage.stage--retell.fade-in > .scene-retell {
   animation: none;
 }
