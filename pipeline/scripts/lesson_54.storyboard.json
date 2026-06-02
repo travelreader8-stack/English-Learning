@@ -1,0 +1,23 @@
+{
+  "lesson_id": 54,
+  "title": "Sticky fingers",
+  "visual_consistency": "A warm realistic child-friendly domestic comedy illustration in a gentle watercolor storybook style: hand-painted texture, soft brush strokes, natural morning light, tidy 1960s-style home kitchen connected to a small front-door area, clear visual storytelling, light amused mood, never mocking the protagonist. No readable text, no letters, no numbers, no labels on envelopes, no recipe text, no calendar text, no phone dial text, no captions, no speech bubbles, no UI panels, no brand marks, no fake writing, and no blank text boxes anywhere in the image. The recurring protagonist is the same busy adult woman in every frame: warm brown hair tied back, expressive kind oval face, medium build, light blue blouse with sleeves rolled up, cream apron with no readable text, gradually more flustered as sticky pastry spreads, never exaggerated into slapstick humiliation. The same kitchen, mixing bowl, butter, flour, pastry dough, old landline telephone, door area, and round doorknob remain consistent across all frames.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Frame 1 of a continuous four-shot story: in a clean quiet 1960s-style home kitchen after breakfast, the same busy adult woman with warm brown hair tied back, light blue rolled-sleeve blouse, and plain cream apron calmly prepares butter and flour in a mixing bowl for meat pies. Her hands are mostly clean with only light flour dust. The old landline telephone sits nearby in the same kitchen but is not ringing yet, and the front-door area with a round doorknob is faintly visible in the background. Warm realistic watercolor storybook style, soft morning light, quiet clean starting state before the mess. No readable text, no letters, no numbers, no labels, no recipe text, no phone dial text, no captions, no speech bubbles, no UI panels, no brand marks, no fake writing, no blank text boxes."
+    },
+    {
+      "frame": 2,
+      "prompt": "Frame 2 of the same continuous story, same kitchen and same woman in the same light blue blouse and plain cream apron. The mixing bowl from frame 1 is now messier, and her hands are visibly covered with sticky pastry from mixing butter and flour. At exactly this bad moment, the old landline telephone nearby is ringing, shown through motion lines or a lifted receiver cradle without any readable marks. Her expression shows comic frustration, not humiliation. The door area is still visible but clean enough that the mess has not spread there yet. Warm realistic watercolor storybook style, soft morning light, clear cause from sticky pastry to phone interruption. No readable text, no letters, no numbers, no labels, no captions, no speech bubbles, no UI panels, no brand marks, no fake writing, no blank text boxes."
+    },
+    {
+      "frame": 3,
+      "prompt": "Frame 3 of the same continuous story, same kitchen, same woman, same bowl, same old landline telephone from frame 2. She awkwardly holds the old telephone receiver between two sticky fingers, with small visible smears of pastry on the receiver and phone base caused by the previous frame. A nearby round doorknob also shows a small pastry smear, making the mess visibly spread beyond her hands. Her face is dismayed but kind, as if recognizing a long phone call at the worst time. Warm realistic watercolor storybook style, soft morning light, linked story continuity, sticky mess accumulating. No readable text, no letters, no numbers, no labels, no phone dial text, no captions, no speech bubbles, no UI panels, no brand marks, no fake writing, no blank text boxes."
+    },
+    {
+      "frame": 4,
+      "prompt": "Frame 4 of the same continuous story, same home and same woman, now at the front door or kitchen doorway with sticky pastry still on her fingers. The smeared round doorknob from frame 3 remains visible, and the kitchen with the old telephone can be glimpsed behind her to preserve continuity. A postman in a simple plain uniform stands outside holding an envelope or clipboard for a registered letter that needs a signature, but every paper surface is completely unreadable and blank-looking without text. The woman's expression says not again while staying respectful and lightly comic. Warm realistic watercolor storybook style, soft morning light, final interruption caused by sticky hands. No readable text, no letters, no numbers, no labels on the letter or clipboard, no captions, no speech bubbles, no UI panels, no brand marks, no fake writing, no blank text boxes."
+    }
+  ]
+}

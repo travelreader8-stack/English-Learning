@@ -1,0 +1,54 @@
+{
+  "lesson_id": 54,
+  "title": "The Glue Fingers Problem",
+  "question": "把今天的“手很粘 + 正好被打断 + mess 扩散 + 又要签字”放进手工作业场景：用 word bank 补完整 5 个空。",
+  "example_answer": "I was busy making a model. My hands were covered with sticky glue. At exactly that moment, my phone rang. Nothing could have been more annoying. It took me five minutes to answer the message. What a mess! There was glue on my fingers and on the table. I had no sooner got back to my model than the doorbell rang. A delivery man wanted me to sign for a package.",
+  "word_bank": [
+    "busy making a model",
+    "covered with sticky glue",
+    "At exactly that moment",
+    "Nothing could have been more annoying",
+    "It took me five minutes",
+    "answer the message",
+    "What a mess",
+    "glue on my fingers",
+    "on the table",
+    "had no sooner got back",
+    "than the doorbell rang",
+    "delivery man",
+    "sign for a package"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说你正在忙着做模型",
+      "english_template": "I was ___.",
+      "expected_phrase": "busy making a model"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说你的手上都是粘胶水",
+      "english_template": "My hands were ___.",
+      "expected_phrase": "covered with sticky glue"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说正好在这个时候手机响了",
+      "english_template": "___, my phone rang.",
+      "expected_phrase": "At exactly that moment"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说你花了五分钟处理消息",
+      "english_template": "___ to answer the message.",
+      "expected_phrase": "It took me five minutes"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "说你刚回到模型旁，门铃就响了",
+      "english_template": "I ___ to my model than the doorbell rang.",
+      "expected_phrase": "had no sooner got back"
+    }
+  ],
+  "mode": "all_fills"
+}

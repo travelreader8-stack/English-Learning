@@ -1,0 +1,106 @@
+{
+  "lesson_id": 54,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按中文麻烦线记忆：家里安静、决定做肉派、手上沾满 sticky pastry、电话正好响、用两个粘手指拿 receiver、十分钟才 persuade Helen Bates 晚点再打、mess 扩散到电话和门把手、刚回厨房门铃又响、邮递员要她 sign for a registered letter。读的时候注意 timing words 的重音，长句要按动作分组。",
+  "sentences": [
+    {
+      "id": "l54_s1",
+      "text": "After breakfast, I sent the children to school and then I went to the shops.",
+      "focus_zh": "中文锚点：早饭后，她送孩子上学，然后去了商店。After breakfast 后稍停，then 读出动作继续往前走。",
+      "start": 445.513,
+      "end": 450.097,
+      "focus_words": [
+        "After breakfast",
+        "sent the children to school",
+        "then",
+        "went to the shops"
+      ]
+    },
+    {
+      "id": "l54_s2",
+      "text": "The children were at school, my husband was at work and the house was quiet.",
+      "focus_zh": "中文锚点：孩子在学校，丈夫在上班，家里很安静。at school 和 at work 平行读，quiet 收住，读出安静开场。",
+      "start": 453.893,
+      "end": 458.549,
+      "focus_words": [
+        "at school",
+        "at work",
+        "the house was quiet"
+      ]
+    },
+    {
+      "id": "l54_s3",
+      "text": "In a short time I was busy mixing butter and flour and my hands were soon covered with sticky pastry.",
+      "focus_zh": "中文锚点：不一会儿，她忙着混合黄油和面粉，手很快沾满粘面皮。长句按 In a short time / mixing butter and flour / covered with sticky pastry 分组。",
+      "start": 462.297,
+      "end": 468.153,
+      "focus_words": [
+        "In a short time",
+        "mixing butter and flour",
+        "covered with",
+        "sticky pastry"
+      ]
+    },
+    {
+      "id": "l54_s4",
+      "text": "At exactly that moment, the telephone rang.",
+      "focus_zh": "中文锚点：恰好就在那一刻，电话响了。exactly 要读出“偏偏就是这一秒”的倒霉 timing。",
+      "start": 468.503,
+      "end": 472.079,
+      "focus_words": [
+        "At exactly that moment",
+        "the telephone rang"
+      ]
+    },
+    {
+      "id": "l54_s5",
+      "text": "Nothing could have been more annoying.",
+      "focus_zh": "中文锚点：没有什么比这更烦人了。读出轻微抱怨感，但不用夸张表演。",
+      "start": 472.429,
+      "end": 475.117,
+      "focus_words": [
+        "Nothing",
+        "could have been",
+        "more annoying"
+      ]
+    },
+    {
+      "id": "l54_s6",
+      "text": "I picked up the receiver between two sticky fingers and was dismayed when I recognized the voice of Helen Bates.",
+      "focus_zh": "中文锚点：她用两个粘手指拿起话筒，听出 Helen Bates 的声音时很沮丧。receiver 和 between two sticky fingers 要连成清楚画面，recognized 不要读散。",
+      "start": 475.466,
+      "end": 481.754,
+      "focus_words": [
+        "picked up the receiver",
+        "between two sticky fingers",
+        "dismayed",
+        "recognized the voice"
+      ]
+    },
+    {
+      "id": "l54_s7",
+      "text": "It took me ten minutes to persuade her to ring back later.",
+      "focus_zh": "中文锚点：她花了十分钟才说服对方晚点再打。It took me ten minutes to 是句型核心，persuade 和 ring back later 是动作核心。",
+      "start": 482.104,
+      "end": 486.04,
+      "focus_words": [
+        "It took me ten minutes",
+        "persuade her",
+        "ring back later"
+      ]
+    },
+    {
+      "id": "l54_s8",
+      "text": "I had no sooner got back to the kitchen than the doorbell rang loud enough to wake the dead.",
+      "focus_zh": "中文锚点：她刚回厨房，门铃就响了，响得特别夸张。no sooner...than 读出“刚刚...立刻...”的打断感，wake the dead 是夸张说法。",
+      "start": 496.92,
+      "end": 502.128,
+      "focus_words": [
+        "no sooner",
+        "got back to the kitchen",
+        "than the doorbell rang",
+        "wake the dead"
+      ]
+    }
+  ]
+}

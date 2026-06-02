@@ -1,0 +1,2734 @@
+{
+  "total_duration": 845.898,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 6.0,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你有没有过这种时刻：手上全是面粉、颜料或者胶水，偏偏有人叫你？"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 6.35,
+      "end": 11.626,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这篇课文里的主人公也遇到了这样的倒霉"
+        },
+        {
+          "lang": "en",
+          "text": "timing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 11.976,
+      "end": 18.543,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她正在做"
+        },
+        {
+          "lang": "en",
+          "text": "meat pies"
+        },
+        {
+          "lang": "zh",
+          "text": "，手上全是"
+        },
+        {
+          "lang": "en",
+          "text": "sticky pastry"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 18.893,
+      "end": 24.997,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "就在"
+        },
+        {
+          "lang": "en",
+          "text": "exactly that moment"
+        },
+        {
+          "lang": "zh",
+          "text": "，电话响了；后来门铃也响了。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 25.347,
+      "end": 30.979,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天我们要记住的不是一堆家务，而是一条越来越糟的"
+        },
+        {
+          "lang": "en",
+          "text": "mess chain"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 31.329,
+      "end": 35.049,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一段，家里终于安静下来，可以开始做肉派。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 35.399,
+      "end": 46.199,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：早饭后，她送孩子上学，然后去了商店；她回家时还很早，孩子在学校，丈夫在上班，家里很安静。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 46.549,
+      "end": 52.812,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文开头说："
+        },
+        {
+          "lang": "en",
+          "text": "After breakfast, I sent the children to school and then I went to the shops"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 53.162,
+      "end": 59.69,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "After breakfast"
+        },
+        {
+          "lang": "zh",
+          "text": "是时间开头，"
+        },
+        {
+          "lang": "en",
+          "text": "then"
+        },
+        {
+          "lang": "zh",
+          "text": "把动作往后推。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 60.04,
+      "end": 64.0,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着是："
+        },
+        {
+          "lang": "en",
+          "text": "It was still early when I returned home"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 64.35,
+      "end": 69.454,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Still early"
+        },
+        {
+          "lang": "zh",
+          "text": "说明她还有时间，故事看起来很顺。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 69.804,
+      "end": 76.115,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "家里的状态是："
+        },
+        {
+          "lang": "en",
+          "text": "The children were at school, my husband was at work and the house was quiet"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 76.465,
+      "end": 84.573,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "At school"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "at work"
+        },
+        {
+          "lang": "zh",
+          "text": "放在一起，帮我们听到一种安静的节奏。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 84.923,
+      "end": 88.339,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以她决定："
+        },
+        {
+          "lang": "en",
+          "text": "to make some meat pies"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 88.689,
+      "end": 100.769,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Meat pies"
+        },
+        {
+          "lang": "zh",
+          "text": "是西式肉派，外面有面皮，里面有肉馅。先记住：安静的家，是倒霉链条开始前的 clean start。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 101.119,
+      "end": 105.619,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二段，手刚变粘，电话就正好响了。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 105.968,
+      "end": 115.408,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：不一会儿，她忙着把黄油和面粉混在一起，手很快沾满了粘面皮；恰好就在这时，电话响了。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 115.758,
+      "end": 120.49,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "In a short time I was busy mixing butter and flour"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 120.84,
+      "end": 127.552,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Mixing butter and flour"
+        },
+        {
+          "lang": "zh",
+          "text": "就是把黄油和面粉搅在一起，开始做 pastry。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 127.902,
+      "end": 134.102,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着最重要的画面来了："
+        },
+        {
+          "lang": "en",
+          "text": "my hands were soon covered with sticky pastry"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 134.452,
+      "end": 141.951,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Covered with"
+        },
+        {
+          "lang": "zh",
+          "text": "是表面全沾上了；"
+        },
+        {
+          "lang": "en",
+          "text": "sticky pastry"
+        },
+        {
+          "lang": "zh",
+          "text": "是粘粘的面皮。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 142.301,
+      "end": 147.413,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后课文说："
+        },
+        {
+          "lang": "en",
+          "text": "At exactly that moment, the telephone rang"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 147.763,
+      "end": 153.267,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Exactly"
+        },
+        {
+          "lang": "zh",
+          "text": "把倒霉的时间点钉住：偏偏就是这一秒。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 153.617,
+      "end": 157.769,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她的反应是："
+        },
+        {
+          "lang": "en",
+          "text": "Nothing could have been more annoying"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 158.119,
+      "end": 164.479,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句话不是冷冰冰的比较，而是“真是烦死了，没有比这更烦的了”。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 164.829,
+      "end": 167.789,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三段，电话把 mess 扩散开。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 168.138,
+      "end": 181.458,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：她只好用两个粘手指拿起老式电话的话筒，听出是 Helen Bates；花了十分钟才劝她晚点再打，最后挂上电话，结果到处都是面皮。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 181.808,
+      "end": 186.492,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "I picked up the receiver between two sticky fingers"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 186.842,
+      "end": 194.042,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Receiver"
+        },
+        {
+          "lang": "zh",
+          "text": "是老式电话的话筒，不是手机屏幕。以前接电话要把话筒拿起来。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 194.392,
+      "end": 202.96,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Between two sticky fingers"
+        },
+        {
+          "lang": "zh",
+          "text": "这个动作很有画面感：她不想弄脏电话，只能小心地用两个手指捏。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 203.31,
+      "end": 208.222,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可她听出来是谁："
+        },
+        {
+          "lang": "en",
+          "text": "I recognized the voice of Helen Bates"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 208.571,
+      "end": 214.043,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她的心情是："
+        },
+        {
+          "lang": "en",
+          "text": "was dismayed"
+        },
+        {
+          "lang": "zh",
+          "text": "，因为这通电话来得太不是时候。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 214.393,
+      "end": 219.641,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文接着说："
+        },
+        {
+          "lang": "en",
+          "text": "It took me ten minutes to persuade her to ring back later"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 219.991,
+      "end": 228.775,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It took me ten minutes to"
+        },
+        {
+          "lang": "zh",
+          "text": "是“我花了十分钟才做成某事”；"
+        },
+        {
+          "lang": "en",
+          "text": "persuade"
+        },
+        {
+          "lang": "zh",
+          "text": "是说服别人。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 229.125,
+      "end": 232.736,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后："
+        },
+        {
+          "lang": "en",
+          "text": "At last I hung up the receiver"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 233.086,
+      "end": 239.31,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Hung up the receiver"
+        },
+        {
+          "lang": "zh",
+          "text": "就是把老式电话的话筒放回去，电话才算挂断。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 239.66,
+      "end": 243.516,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但问题已经扩散了："
+        },
+        {
+          "lang": "en",
+          "text": "What a mess!"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 243.866,
+      "end": 249.122,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "There was pastry on my fingers, on the telephone, and on the doorknobs"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 249.472,
+      "end": 255.632,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你看，mess chain 不是停在手上，而是从手指扩散到电话和门把手。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 255.982,
+      "end": 259.342,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四段，刚回厨房，第二个打断又来了。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 259.692,
+      "end": 268.732,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：她刚回到厨房，门铃又响了，而且响得特别夸张；这次是邮递员，要她签收一封挂号信。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 269.081,
+      "end": 274.149,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "I had no sooner got back to the kitchen than the doorbell rang"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 274.499,
+      "end": 282.099,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先抓感觉：不是普通的“我回厨房，然后门铃响了”，而是“我刚刚回去，门铃立刻又响了”。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 282.449,
+      "end": 289.373,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "No sooner"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "than"
+        },
+        {
+          "lang": "zh",
+          "text": "一起制造这种立刻被打断的感觉。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 289.723,
+      "end": 293.755,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "门铃有多响？"
+        },
+        {
+          "lang": "en",
+          "text": "loud enough to wake the dead"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 294.105,
+      "end": 299.385,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这不是恐怖画面，是夸张说法，意思是 extremely loud。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 299.734,
+      "end": 304.086,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一击来了："
+        },
+        {
+          "lang": "en",
+          "text": "This time it was the postman"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 304.436,
+      "end": 309.588,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "邮递员不是来闲聊的："
+        },
+        {
+          "lang": "en",
+          "text": "he wanted me to sign for a registered letter"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 309.938,
+      "end": 319.498,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Registered letter"
+        },
+        {
+          "lang": "zh",
+          "text": "是重要信件，需要签收；今天可以想成一个不能直接放门口、必须签字的重要快递文件。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 319.848,
+      "end": 326.408,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这就是笑点顶点：手还是粘的，电话和门把手也粘了，现在还要签字。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 326.758,
+      "end": 333.242,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，标题"
+        },
+        {
+          "lang": "en",
+          "text": "Sticky fingers"
+        },
+        {
+          "lang": "zh",
+          "text": "是不是说这个人会偷东西？"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 333.592,
+      "end": 344.704,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在别的语境里，有时"
+        },
+        {
+          "lang": "en",
+          "text": "sticky fingers"
+        },
+        {
+          "lang": "zh",
+          "text": "可以暗示爱偷东西。但这篇课文不是那个意思，这里就是字面意思：手指真的粘糊糊的。"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 345.054,
+      "end": 347.747,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么她的手会这么粘？"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 348.097,
+      "end": 359.905,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为她在做"
+        },
+        {
+          "lang": "en",
+          "text": "meat pies"
+        },
+        {
+          "lang": "zh",
+          "text": "。做派会用到"
+        },
+        {
+          "lang": "en",
+          "text": "pastry"
+        },
+        {
+          "lang": "zh",
+          "text": "，也就是做派皮用的面团或面皮，黄油和面粉混在一起时会很粘。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 360.255,
+      "end": 363.928,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Receiver"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么要特别讲？"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 364.278,
+      "end": 376.422,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为这是老式电话的话筒。现在你可能点手机接电话，但以前要拿起 handset，通话后还要放回电话座，这就是"
+        },
+        {
+          "lang": "en",
+          "text": "hung up the receiver"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 376.771,
+      "end": 380.151,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Doorknobs"
+        },
+        {
+          "lang": "zh",
+          "text": "是门把手吗？"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 380.501,
+      "end": 388.381,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，可以理解成门把手，尤其是圆圆的门钮。手上有 pastry，一碰门把手，门把手也会变粘。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 388.731,
+      "end": 392.487,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Registered letter"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么麻烦？"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 392.837,
+      "end": 402.157,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为它是比较重要、需要正式签收的信。现代可以想成重要文件或快递，不能只放在门口，必须有人签字。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 402.507,
+      "end": 406.058,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Wake the dead"
+        },
+        {
+          "lang": "zh",
+          "text": "会不会很吓人？"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 406.408,
+      "end": 413.728,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不用按字面想。它是夸张说法，表示门铃响得特别大，像中文说“吵得要命”。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 414.078,
+      "end": 417.489,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这课不是讲妈妈应该做家务？"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 417.839,
+      "end": 425.679,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。它讲的是一个忙碌大人在家遇到 comic timing：手越不方便，麻烦越爱找上门。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 426.029,
+      "end": 428.814,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "背这篇要先背长英文吗？"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 429.163,
+      "end": 445.163,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先背中文麻烦线：家里安静 -> 做肉派 -> 手变粘 -> 电话响 -> 粘手指拿话筒 -> Helen Bates 聊了十分钟 -> 电话和门把手都脏了 -> 刚回厨房 -> 门铃又响 -> 邮递员要签字。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 445.513,
+      "end": 450.097,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "After breakfast, I sent the children to school and then I went to the shops."
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 450.447,
+      "end": 453.543,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It was still early when I returned home."
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 453.893,
+      "end": 458.549,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The children were at school, my husband was at work and the house was quiet."
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 458.899,
+      "end": 461.947,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "So I decided to make some meat pies."
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 462.297,
+      "end": 468.153,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In a short time I was busy mixing butter and flour and my hands were soon covered with sticky pastry."
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 468.503,
+      "end": 472.079,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "At exactly that moment, the telephone rang."
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 472.429,
+      "end": 475.117,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Nothing could have been more annoying."
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 475.466,
+      "end": 481.754,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I picked up the receiver between two sticky fingers and was dismayed when I recognized the voice of Helen Bates."
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 482.104,
+      "end": 486.04,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It took me ten minutes to persuade her to ring back later."
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 486.39,
+      "end": 489.198,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "At last I hung up the receiver."
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 489.548,
+      "end": 491.612,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "What a mess!"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 491.962,
+      "end": 496.57,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "There was pastry on my fingers, on the telephone, and on the doorknobs."
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 496.92,
+      "end": 502.128,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I had no sooner got back to the kitchen than the doorbell rang loud enough to wake the dead."
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 502.478,
+      "end": 507.494,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "This time it was the postman and he wanted me to sign for a registered letter!"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 507.844,
+      "end": 510.556,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sticky"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "sticky"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 510.905,
+      "end": 512.585,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sticky"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Sticky"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 512.935,
+      "end": 516.847,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sticky"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Sticky"
+        },
+        {
+          "lang": "zh",
+          "text": "意思是粘的、粘糊糊的。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 517.197,
+      "end": 521.469,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sticky"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课的画面核心就是"
+        },
+        {
+          "lang": "en",
+          "text": "sticky fingers"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 521.819,
+      "end": 526.119,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sticky"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "my hands were soon covered with sticky pastry"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 526.469,
+      "end": 534.901,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sticky"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Sticky"
+        },
+        {
+          "lang": "zh",
+          "text": "不只是一个形容词，它推动了整个 joke：手粘了，电话粘了，门把手也粘了。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 535.25,
+      "end": 541.946,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sticky"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "生活里也可以说："
+        },
+        {
+          "lang": "en",
+          "text": "My hands are sticky with glue"
+        },
+        {
+          "lang": "zh",
+          "text": "，我的手上都是胶水，很粘。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 542.296,
+      "end": 545.096,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "receiver"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "receiver"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 545.446,
+      "end": 547.27,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "receiver"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Receiver"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 547.62,
+      "end": 552.62,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "receiver"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在这篇课文里，"
+        },
+        {
+          "lang": "en",
+          "text": "receiver"
+        },
+        {
+          "lang": "zh",
+          "text": "是老式电话的话筒。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 552.97,
+      "end": 557.653,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "receiver"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "I picked up the receiver between two sticky fingers"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 558.003,
+      "end": 565.603,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "receiver"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以想象一个座机，上面有一个长长的话筒。接电话时拿起来，挂电话时放回去。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 565.953,
+      "end": 573.037,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "receiver"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "hung up the receiver"
+        },
+        {
+          "lang": "zh",
+          "text": "不是点手机红色按钮，而是把话筒放回电话座。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 573.387,
+      "end": 577.987,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "receiver"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词帮我们看懂为什么她的 sticky fingers 会弄脏电话。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 578.337,
+      "end": 581.305,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "persuade"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "persuade"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 581.655,
+      "end": 583.431,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "persuade"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Persuade"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 583.78,
+      "end": 587.668,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "persuade"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Persuade"
+        },
+        {
+          "lang": "zh",
+          "text": "是说服别人做某事。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 588.018,
+      "end": 592.846,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "persuade"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "It took me ten minutes to persuade her to ring back later"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 593.196,
+      "end": 598.236,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "persuade"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她不是简单说一句“晚点打”，而是花了十分钟才让 Helen Bates 同意。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 598.586,
+      "end": 604.186,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "persuade"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个句型也很实用："
+        },
+        {
+          "lang": "en",
+          "text": "It took me five minutes to persuade him to wait"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 604.536,
+      "end": 608.288,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "persuade"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住结构："
+        },
+        {
+          "lang": "en",
+          "text": "persuade someone to do something"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 608.637,
+      "end": 616.821,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的"
+        },
+        {
+          "lang": "en",
+          "text": "grammar board"
+        },
+        {
+          "lang": "zh",
+          "text": "不是先背一堆公式，而是用英文讲清楚一条 interruption chain。"
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "start": 617.171,
+      "end": 619.411,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块：时间推进词。"
+        }
+      ]
+    },
+    {
+      "i": 103,
+      "start": 619.761,
+      "end": 634.001,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "按顺序记："
+        },
+        {
+          "lang": "en",
+          "text": "After breakfast"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "then"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "when I returned home"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "In a short time"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "At exactly that moment"
+        },
+        {
+          "lang": "zh",
+          "text": "->"
+        },
+        {
+          "lang": "en",
+          "text": "At last"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "start": 634.35,
+      "end": 637.47,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些词让课文像小电影一样往前走。"
+        }
+      ]
+    },
+    {
+      "i": 105,
+      "start": 637.82,
+      "end": 640.956,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块："
+        },
+        {
+          "lang": "en",
+          "text": "be covered with"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "start": 641.306,
+      "end": 645.606,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "my hands were soon covered with sticky pastry"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 107,
+      "start": 645.956,
+      "end": 654.628,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Be covered with"
+        },
+        {
+          "lang": "zh",
+          "text": "表示表面全是某个东西。生活里可以说："
+        },
+        {
+          "lang": "en",
+          "text": "My desk was covered with books"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 108,
+      "start": 654.978,
+      "end": 658.682,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块："
+        },
+        {
+          "lang": "en",
+          "text": "At exactly that moment"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 109,
+      "start": 659.031,
+      "end": 665.623,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句话的重点是最糟糕的 timing："
+        },
+        {
+          "lang": "en",
+          "text": "At exactly that moment, the telephone rang"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 110,
+      "start": 665.973,
+      "end": 669.845,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四块："
+        },
+        {
+          "lang": "en",
+          "text": "Nothing could have been more annoying"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 111,
+      "start": 670.195,
+      "end": 675.395,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不要死抠语法，先抓语气：真是烦死了，没有比这更烦的了。"
+        }
+      ]
+    },
+    {
+      "i": 112,
+      "start": 675.745,
+      "end": 680.369,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第五块："
+        },
+        {
+          "lang": "en",
+          "text": "It took me plus time plus to do something"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 113,
+      "start": 680.719,
+      "end": 685.079,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文例子是："
+        },
+        {
+          "lang": "en",
+          "text": "It took me ten minutes to persuade her"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 114,
+      "start": 685.428,
+      "end": 690.836,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第六块："
+        },
+        {
+          "lang": "en",
+          "text": "I had no sooner got back to the kitchen than the doorbell rang"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 115,
+      "start": 691.186,
+      "end": 695.066,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个结构表达“刚刚做完一件事，下一件麻烦马上来了”。"
+        }
+      ]
+    },
+    {
+      "i": 116,
+      "start": 695.416,
+      "end": 703.208,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一块是夸张："
+        },
+        {
+          "lang": "en",
+          "text": "loud enough to wake the dead"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思是 extremely loud，让结尾更好笑。"
+        }
+      ]
+    },
+    {
+      "i": 117,
+      "start": 703.558,
+      "end": 710.406,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把今天的 sticky-hands comedy 放进现代生活："
+        },
+        {
+          "lang": "en",
+          "text": "The Glue Fingers Problem"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 118,
+      "start": 710.756,
+      "end": 717.02,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你正在做手工作业，手上都是胶水："
+        },
+        {
+          "lang": "en",
+          "text": "I was busy making a model"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 119,
+      "start": 717.369,
+      "end": 722.305,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "很快你的手变粘："
+        },
+        {
+          "lang": "en",
+          "text": "My hands were covered with sticky glue"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 120,
+      "start": 722.655,
+      "end": 728.463,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "正好这时，手机响了："
+        },
+        {
+          "lang": "en",
+          "text": "At exactly that moment, my phone rang"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 121,
+      "start": 728.813,
+      "end": 733.885,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你的反应可以用课文句子："
+        },
+        {
+          "lang": "en",
+          "text": "Nothing could have been more annoying"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 122,
+      "start": 734.235,
+      "end": 739.747,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你花了几分钟处理消息："
+        },
+        {
+          "lang": "en",
+          "text": "It took me five minutes to answer the message"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 123,
+      "start": 740.097,
+      "end": 747.656,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后你发现到处都是胶水："
+        },
+        {
+          "lang": "en",
+          "text": "What a mess! There was glue on my fingers and on the table"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 124,
+      "start": 748.006,
+      "end": 756.046,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "刚回到模型旁，门铃又响了："
+        },
+        {
+          "lang": "en",
+          "text": "I had no sooner got back to my model than the doorbell rang"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 125,
+      "start": 756.396,
+      "end": 761.796,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这次是快递员："
+        },
+        {
+          "lang": "en",
+          "text": "A delivery man wanted me to sign for a package"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 126,
+      "start": 762.146,
+      "end": 768.826,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，你要用这些 timing words 和 mess words，把这个手工小倒霉故事补完整。"
+        }
+      ]
+    },
+    {
+      "i": 127,
+      "start": 769.176,
+      "end": 776.496,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 128,
+      "start": 776.846,
+      "end": 792.286,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓中文麻烦线：家里安静 -> 做肉派 -> 手变粘 -> 电话响 -> 粘手指拿话筒 -> Helen Bates 聊了十分钟 -> 电话和门把手都脏了 -> 刚回厨房 -> 门铃又响 -> 邮递员要签字。"
+        }
+      ]
+    },
+    {
+      "i": 129,
+      "start": 792.636,
+      "end": 819.111,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再把"
+        },
+        {
+          "lang": "en",
+          "text": "English chunks"
+        },
+        {
+          "lang": "zh",
+          "text": "挂上去："
+        },
+        {
+          "lang": "en",
+          "text": "After breakfast"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "sticky pastry"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "At exactly that moment"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "Nothing could have been more annoying"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "receiver"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "It took me ten minutes to persuade her"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "What a mess"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "no sooner got back than"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "sign for a registered letter"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 130,
+      "start": 819.46,
+      "end": 835.38,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，用 sticky fingers, exactly that moment, persuade, What a mess 和 no sooner than 讲一个被打断的小故事；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 131,
+      "start": 835.73,
+      "end": 845.898,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "When your hands are sticky, every interruption becomes part of the mess chain."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 54
+}
