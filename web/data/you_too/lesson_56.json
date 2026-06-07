@@ -1,0 +1,53 @@
+{
+  "lesson_id": 56,
+  "title": "The Old Bike Race",
+  "question": "把今天的“旧东西不一定快，但一样热闹刺激”放进旧自行车趣味赛：用 word bank 补完整 5 个空。",
+  "example_answer": "Once a year, a race is held for old bikes. A lot of children entered for this race last year, and there was a great deal of excitement before it began. Many of the bikes broke down on the course. A few bikes, however, completed the race. The winning bike reached a speed of fifteen miles an hour. It was very different from a modern bike race but no less exciting.",
+  "word_bank": [
+    "Once a year",
+    "a race is held",
+    "old bikes",
+    "entered for this race",
+    "a great deal of excitement",
+    "broke down",
+    "on the course",
+    "A few bikes",
+    "completed the race",
+    "reached a speed",
+    "fifteen miles an hour",
+    "no less exciting"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说每年都会为旧自行车举行一次比赛",
+      "english_template": "Once a year, a race is held for ___.",
+      "expected_phrase": "old bikes"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说去年很多孩子参加了这场比赛",
+      "english_template": "A lot of children ___ last year.",
+      "expected_phrase": "entered for this race"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说很多自行车在赛道上出了故障",
+      "english_template": "Many of the bikes ___ on the course.",
+      "expected_phrase": "broke down"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说还是有几辆自行车完成了比赛",
+      "english_template": "A few bikes, however, ___.",
+      "expected_phrase": "completed the race"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "说它和现代自行车比赛很不同，但同样刺激",
+      "english_template": "It was very different from a modern bike race but ___.",
+      "expected_phrase": "no less exciting"
+    }
+  ],
+  "mode": "all_fills"
+}

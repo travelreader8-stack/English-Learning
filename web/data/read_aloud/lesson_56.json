@@ -1,0 +1,108 @@
+{
+  "lesson_id": 56,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按中文旧车比赛线记忆：每年旧车赛、很多车参加、开赛前很兴奋、漂亮的 Rolls-Royce、奇特的三轮 Benz、发动机爆响后开赛、很多车抛锚、司机在车底修车、少数车完赛、冠军 40 mph 下坡难停，最后大家觉得它和现代赛车不同但同样刺激。读的时候注意数量词、最高级、比较级和修车喜剧句的重音。",
+  "sentences": [
+    {
+      "id": "l56_s1",
+      "text": "Once a year, a race is held for old cars.",
+      "focus_zh": "中文锚点：每年都会为旧车举行一次比赛。Once a year 先停一下，a race is held 用被动语态把重点放在比赛本身。",
+      "start": 438.576,
+      "end": 442.032,
+      "focus_words": [
+        "Once a year",
+        "a race is held",
+        "old cars"
+      ]
+    },
+    {
+      "id": "l56_s2",
+      "text": "A lot of cars entered for this race last year and there was a great deal of excitement just before it began.",
+      "focus_zh": "中文锚点：去年很多车参加，比赛开始前非常令人兴奋。长句按 A lot of cars entered / there was a great deal of excitement / just before it began 分组。",
+      "start": 442.382,
+      "end": 448.238,
+      "focus_words": [
+        "A lot of cars",
+        "entered for this race",
+        "a great deal of excitement",
+        "just before it began"
+      ]
+    },
+    {
+      "id": "l56_s3",
+      "text": "One of the most handsome cars was a Rolls-Royce Silver Ghost.",
+      "focus_zh": "中文锚点：最漂亮的车之一是 Rolls-Royce Silver Ghost。one of the most handsome cars 连起来读，proper noun 稳稳读清楚。",
+      "start": 448.588,
+      "end": 452.716,
+      "focus_words": [
+        "One of the most handsome cars",
+        "Rolls-Royce",
+        "Silver Ghost"
+      ]
+    },
+    {
+      "id": "l56_s4",
+      "text": "The most unusual car was a Benz which had only three wheels.",
+      "focus_zh": "中文锚点：最特别的车是一辆只有三个轮子的 Benz。most unusual 和 only three wheels 要重读，让这辆老车的奇特感出来。",
+      "start": 453.066,
+      "end": 457.362,
+      "focus_words": [
+        "The most unusual car",
+        "a Benz",
+        "only three wheels"
+      ]
+    },
+    {
+      "id": "l56_s5",
+      "text": "Built in 1885, it was the oldest car taking part.",
+      "focus_zh": "中文锚点：它造于 1885 年，是参赛车里最老的一辆。Built in 1885 后短停，oldest car taking part 读出历史感。",
+      "start": 457.712,
+      "end": 462.128,
+      "focus_words": [
+        "Built in 1885",
+        "the oldest car",
+        "taking part"
+      ]
+    },
+    {
+      "id": "l56_s6",
+      "text": "Many of the cars broke down on the course and some drivers spent more time under their cars than in them!",
+      "focus_zh": "中文锚点：很多车在赛道上抛锚，有些司机在车底修车的时间比坐在车里的时间还多。broke down on the course 读清原因，under their cars than in them 读出幽默对比。",
+      "start": 466.74,
+      "end": 472.908,
+      "focus_words": [
+        "broke down",
+        "on the course",
+        "spent more time",
+        "under their cars",
+        "than in them"
+      ]
+    },
+    {
+      "id": "l56_s7",
+      "text": "The winning car reached a speed of forty miles an hour -- much faster than any of its rivals.",
+      "focus_zh": "中文锚点：获胜的车达到每小时 40 英里，比任何对手都快得多。forty miles an hour 是速度短语，much faster than any of its rivals 要读出比较级加强。",
+      "start": 477.183,
+      "end": 482.631,
+      "focus_words": [
+        "The winning car",
+        "reached a speed",
+        "forty miles an hour",
+        "much faster than",
+        "rivals"
+      ]
+    },
+    {
+      "id": "l56_s8",
+      "text": "It was very different from modern car races but no less exciting.",
+      "focus_zh": "中文锚点：它和现代赛车很不同，但一点也不缺少刺激。different from modern car races 后转折，no less exciting 读成“同样刺激”的收尾金句。",
+      "start": 492.393,
+      "end": 496.761,
+      "focus_words": [
+        "very different from",
+        "modern car races",
+        "no less exciting"
+      ]
+    }
+  ]
+}
