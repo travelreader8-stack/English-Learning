@@ -111,7 +111,7 @@ A: 注意这里的快是相对于这场 old-car race 来说。它只有 forty mi
 A: 这个词帮我们把比较级读清楚：[EN]much faster than any of its rivals[/EN]。
 
 ## SCENE: grammar
-A: 今天的 [EN]grammar board[/EN] 叫：旧车比赛怎样写得热闹。
+A: 今天的语法板块叫：旧车比赛怎样写得热闹。
 A: 第一块是被动语态：[EN]a race is held for old cars[/EN]。
 A: 它把注意力放在 event 本身：每年都会有这样一场旧车赛。
 A: 第二块是数量词：[EN]a lot of cars[/EN]，[EN]a great deal of excitement[/EN]，[EN]a great many loud explosions[/EN]，[EN]A few cars completed the race[/EN]。
@@ -141,6 +141,6 @@ A: 下面练习里，你要用 word bank 把这个 old bike race 补完整，练
 ## SCENE: outro
 A: 这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。
 A: 跟读时先抓中文旧车比赛线：每年旧车赛 -> 去年很多车参加 -> 开赛前很兴奋 -> 漂亮的 Rolls-Royce -> 奇特的三轮 Benz -> 发动机砰砰响 -> 很多车抛锚 -> 司机在车底修车 -> 少数车完赛 -> 冠军 40 mph 下坡难停 -> 和现代赛车不同但同样刺激。
-A: 再把 [EN]English chunks[/EN] 读顺：[EN]a race is held[/EN]，[EN]a great deal of excitement[/EN]，[EN]Built in 1885[/EN]，[EN]broke down on the course[/EN]，[EN]under their cars than in them[/EN]，[EN]much faster than any of its rivals[/EN]，[EN]no less exciting[/EN]。
+A: 再把英文短语块读顺：[EN]a race is held[/EN]，[EN]a great deal of excitement[/EN]，[EN]Built in 1885[/EN]，[EN]broke down on the course[/EN]，[EN]under their cars than in them[/EN]，[EN]much faster than any of its rivals[/EN]，[EN]no less exciting[/EN]。
 A: 跟读完以后，再做 ① 生活场景，用 old bike race 练 [EN]entered for this race[/EN]、[EN]broke down[/EN]、[EN]completed the race[/EN] 和 [EN]no less exciting[/EN]；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。
 A: 做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心：[EN]Old machines can be slow, noisy, and troublesome, but no less exciting.[/EN]

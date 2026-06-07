@@ -1,5 +1,5 @@
 {
-  "total_duration": 851.372,
+  "total_duration": 847.256,
   "lines": [
     {
       "i": 0,
@@ -1762,29 +1762,21 @@
     {
       "i": 89,
       "start": 585.86,
-      "end": 592.163,
+      "end": 589.66,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "今天的"
-        },
-        {
-          "lang": "en",
-          "text": "grammar board"
-        },
-        {
-          "lang": "zh",
-          "text": "叫：旧车比赛怎样写得热闹。"
+          "text": "今天的语法板块叫：旧车比赛怎样写得热闹。"
         }
       ]
     },
     {
       "i": 90,
-      "start": 592.513,
-      "end": 597.281,
+      "start": 590.009,
+      "end": 594.777,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1805,8 +1797,8 @@
     },
     {
       "i": 91,
-      "start": 597.631,
-      "end": 602.511,
+      "start": 595.127,
+      "end": 600.007,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1819,8 +1811,8 @@
     },
     {
       "i": 92,
-      "start": 602.861,
-      "end": 615.557,
+      "start": 600.357,
+      "end": 613.053,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1865,8 +1857,8 @@
     },
     {
       "i": 93,
-      "start": 615.906,
-      "end": 627.986,
+      "start": 613.403,
+      "end": 625.482,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1899,8 +1891,8 @@
     },
     {
       "i": 94,
-      "start": 628.336,
-      "end": 638.08,
+      "start": 625.832,
+      "end": 635.576,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1937,8 +1929,8 @@
     },
     {
       "i": 95,
-      "start": 638.43,
-      "end": 645.15,
+      "start": 635.926,
+      "end": 642.646,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1951,8 +1943,8 @@
     },
     {
       "i": 96,
-      "start": 645.499,
-      "end": 652.371,
+      "start": 642.996,
+      "end": 649.868,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1973,8 +1965,8 @@
     },
     {
       "i": 97,
-      "start": 652.721,
-      "end": 660.937,
+      "start": 650.217,
+      "end": 658.433,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1991,8 +1983,8 @@
     },
     {
       "i": 98,
-      "start": 661.287,
-      "end": 666.735,
+      "start": 658.783,
+      "end": 664.231,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -2013,8 +2005,8 @@
     },
     {
       "i": 99,
-      "start": 667.085,
-      "end": 671.789,
+      "start": 664.581,
+      "end": 669.285,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -2031,8 +2023,8 @@
     },
     {
       "i": 100,
-      "start": 672.139,
-      "end": 681.99,
+      "start": 669.635,
+      "end": 679.486,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -2061,8 +2053,8 @@
     },
     {
       "i": 101,
-      "start": 682.34,
-      "end": 689.932,
+      "start": 679.836,
+      "end": 687.428,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -2083,8 +2075,8 @@
     },
     {
       "i": 102,
-      "start": 690.282,
-      "end": 696.642,
+      "start": 687.778,
+      "end": 694.138,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -2105,8 +2097,8 @@
     },
     {
       "i": 103,
-      "start": 696.992,
-      "end": 703.064,
+      "start": 694.488,
+      "end": 700.56,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -2123,8 +2115,8 @@
     },
     {
       "i": 104,
-      "start": 703.414,
-      "end": 710.262,
+      "start": 700.91,
+      "end": 707.758,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2145,8 +2137,8 @@
     },
     {
       "i": 105,
-      "start": 710.611,
-      "end": 718.291,
+      "start": 708.108,
+      "end": 715.788,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2159,8 +2151,8 @@
     },
     {
       "i": 106,
-      "start": 718.641,
-      "end": 723.577,
+      "start": 716.137,
+      "end": 721.073,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2181,8 +2173,8 @@
     },
     {
       "i": 107,
-      "start": 723.927,
-      "end": 732.551,
+      "start": 721.423,
+      "end": 730.047,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2211,8 +2203,8 @@
     },
     {
       "i": 108,
-      "start": 732.901,
-      "end": 737.813,
+      "start": 730.397,
+      "end": 735.309,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2233,8 +2225,8 @@
     },
     {
       "i": 109,
-      "start": 738.162,
-      "end": 743.726,
+      "start": 735.659,
+      "end": 741.223,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2255,8 +2247,8 @@
     },
     {
       "i": 110,
-      "start": 744.076,
-      "end": 749.904,
+      "start": 741.572,
+      "end": 747.4,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2277,8 +2269,8 @@
     },
     {
       "i": 111,
-      "start": 750.254,
-      "end": 757.542,
+      "start": 747.75,
+      "end": 755.038,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2299,8 +2291,8 @@
     },
     {
       "i": 112,
-      "start": 757.892,
-      "end": 768.412,
+      "start": 755.388,
+      "end": 765.908,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2313,8 +2305,8 @@
     },
     {
       "i": 113,
-      "start": 768.762,
-      "end": 776.082,
+      "start": 766.258,
+      "end": 773.578,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
@@ -2327,8 +2319,8 @@
     },
     {
       "i": 114,
-      "start": 776.432,
-      "end": 797.412,
+      "start": 773.928,
+      "end": 794.908,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
@@ -2341,23 +2333,15 @@
     },
     {
       "i": 115,
-      "start": 797.761,
-      "end": 820.013,
+      "start": 795.258,
+      "end": 815.897,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "再把"
-        },
-        {
-          "lang": "en",
-          "text": "English chunks"
-        },
-        {
-          "lang": "zh",
-          "text": "读顺："
+          "text": "再把英文短语块读顺："
         },
         {
           "lang": "en",
@@ -2419,8 +2403,8 @@
     },
     {
       "i": 116,
-      "start": 820.363,
-      "end": 840.398,
+      "start": 816.247,
+      "end": 836.282,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
@@ -2465,8 +2449,8 @@
     },
     {
       "i": 117,
-      "start": 840.748,
-      "end": 851.372,
+      "start": 836.632,
+      "end": 847.256,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
