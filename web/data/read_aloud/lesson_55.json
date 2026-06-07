@@ -1,0 +1,111 @@
+{
+  "lesson_id": 55,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按中文寻宝反讽线记忆：宝藏梦差点成真、新机器 The Revealer 被发明并用来探测地下黄金、海边洞穴据说有海盗藏宝、探宝队进洞、机器显示地下有金子、大家兴奋开挖、最后只找到几乎不值钱的小金币和空铁皮箱，但人们仍然有希望。读的时候注意被动语态长句分组、it is said 的插入感，以及 In spite of this 的转折。",
+  "sentences": [
+    {
+      "id": "l55_s1",
+      "text": "Dreams of finding lost treasure almost came true recently.",
+      "focus_zh": "中文锚点：寻找失踪宝藏的梦想最近差点成真。Dreams of finding lost treasure 连成一个大期待，almost came true 读出“差一点”的感觉。",
+      "start": 475.054,
+      "end": 479.038,
+      "focus_words": [
+        "Dreams of finding lost treasure",
+        "almost came true",
+        "recently"
+      ]
+    },
+    {
+      "id": "l55_s2",
+      "text": "A new machine called 'The Revealer' has been invented and it has been used to detect gold which has been buried in the ground.",
+      "focus_zh": "中文锚点：一台叫 The Revealer 的新机器已经被发明，并被用来探测地下埋藏的黄金。长句按 called The Revealer / has been invented / has been used to detect / has been buried 分组。",
+      "start": 479.387,
+      "end": 485.987,
+      "focus_words": [
+        "called 'The Revealer'",
+        "has been invented",
+        "has been used",
+        "detect gold",
+        "has been buried"
+      ]
+    },
+    {
+      "id": "l55_s3",
+      "text": "The machine was used in a cave near the seashore where -- it is said -- pirates used to hide gold.",
+      "focus_zh": "中文锚点：这台机器被用在海边附近的洞穴里，据说海盗过去常在那里藏金子。where 后稍停，it is said 像插入说明，pirates used to hide gold 收住背景传说。",
+      "start": 486.337,
+      "end": 491.617,
+      "focus_words": [
+        "was used in a cave",
+        "near the seashore",
+        "it is said",
+        "pirates used to hide gold"
+      ]
+    },
+    {
+      "id": "l55_s4",
+      "text": "The pirates would often bury gold in the cave and then fail to collect it.",
+      "focus_zh": "中文锚点：海盗过去常把金子埋在洞里，后来却没能取走。would often 读出过去反复动作，fail to collect it 读出“没能取回”的遗憾。",
+      "start": 491.967,
+      "end": 496.431,
+      "focus_words": [
+        "would often",
+        "bury gold",
+        "fail to collect it"
+      ]
+    },
+    {
+      "id": "l55_s5",
+      "text": "Armed with the new machine, a search party went into the cave hoping to find buried treasure.",
+      "focus_zh": "中文锚点：探宝队带着新机器进洞，希望找到埋藏的宝藏。Armed with 在这里是 equipped with，不是武器；search party 是搜索队，不是派对。",
+      "start": 496.781,
+      "end": 502.277,
+      "focus_words": [
+        "Armed with the new machine",
+        "a search party",
+        "hoping to find",
+        "buried treasure"
+      ]
+    },
+    {
+      "id": "l55_s6",
+      "text": "The leader of the party was examining the soil near the entrance to the cave when the machine showed that there was gold under the ground.",
+      "focus_zh": "中文锚点：队长正在检查洞口附近的土壤时，机器显示地下有金子。was examining 是正在进行，when the machine showed 是关键事件突然出现。",
+      "start": 502.627,
+      "end": 509.779,
+      "focus_words": [
+        "the leader of the party",
+        "was examining the soil",
+        "near the entrance",
+        "the machine showed",
+        "gold under the ground"
+      ]
+    },
+    {
+      "id": "l55_s7",
+      "text": "They finally found a small gold coin which was almost worthless.",
+      "focus_zh": "中文锚点：他们最后找到一枚小金币，但它几乎不值钱。finally found 先给期待，almost worthless 再落下反讽。",
+      "start": 514.367,
+      "end": 518.591,
+      "focus_words": [
+        "finally found",
+        "a small gold coin",
+        "almost worthless"
+      ]
+    },
+    {
+      "id": "l55_s8",
+      "text": "In spite of this, many people are confident that 'The Revealer' may reveal something of value fairly soon.",
+      "focus_zh": "中文锚点：尽管如此，很多人仍相信 The Revealer 很快可能发现有价值的东西。In spite of this 读出转折，confident 和 reveal something of value 读出希望还在。",
+      "start": 525.098,
+      "end": 531.338,
+      "focus_words": [
+        "In spite of this",
+        "many people are confident",
+        "may reveal",
+        "something of value",
+        "fairly soon"
+      ]
+    }
+  ]
+}

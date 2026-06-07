@@ -1,0 +1,23 @@
+{
+  "lesson_id": 55,
+  "title": "Not a gold mine",
+  "visual_consistency": "A warm realistic child-friendly adventure illustration in a gentle watercolor storybook style: hand-painted texture, soft brush strokes, muted daylight near a safe-looking seashore cave, clear visual storytelling, hopeful but lightly ironic mood, no horror and no danger. No readable text, no letters, no numbers, no labels, no maps with writing, no machine name, no captions, no speech bubbles, no UI panels, no brand marks, no fake writing, and no blank text boxes anywhere in the image. The recurring search-party leader is the same calm adult in every frame: short dark hair, focused oval face, medium build, practical tan field jacket, dark trousers, sturdy boots, cautious organized posture, carrying a compact gold-detecting machine with a round sensor coil and a small screen with no readable marks. Two adult search-party members in simple outdoor clothing, the same cave entrance near the seashore, the same compact detecting machine, sandy ground, rocks, and muted sea light remain consistent across all frames.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Frame 1 of a continuous four-shot story: at a safe-looking cave entrance near the seashore, the same calm adult search-party leader with short dark hair, practical tan field jacket, dark trousers, and sturdy boots stands with two adult team members. The leader carries the compact gold-detecting machine with a round sensor coil and a small blank screen with no readable marks. The cave, sandy ground, rocks, and muted sea light establish the hopeful treasure-search setting before any signal appears. Warm realistic watercolor storybook style, child-friendly adventure mood, organized practical search party, no active pirates, no weapons, no skeletons, no scary cave, no readable text, no letters, no numbers, no labels, no map writing, no captions, no speech bubbles, no UI panels, no fake writing, no blank text boxes."
+    },
+    {
+      "frame": 2,
+      "prompt": "Frame 2 of the same continuous story at the same seashore cave entrance: the same leader in the same tan field jacket kneels near the entrance and examines the soil with the same compact detecting machine, keeping the sensor coil close to the sandy ground. The two team members from frame 1 watch with cautious excitement as a subtle light glow or vibration cue suggests the machine has detected something under the ground, but the screen remains completely unreadable and symbol-free. The detected spot is clearly the same place that will be dug in the next frame. Warm realistic watercolor storybook style, clear cause from machine signal to search excitement, no active pirates, no weapons, no scary imagery, no readable text, no letters, no numbers, no labels, no captions, no speech bubbles, no UI panels, no fake writing, no blank text boxes."
+    },
+    {
+      "frame": 3,
+      "prompt": "Frame 3 of the same continuous story at the same spot outside and just inside the cave entrance: following the signal from frame 2, the same search party digs a modest shallow hole in the sandy soil where the machine detected gold. The same leader in the tan field jacket watches and helps with controlled excitement, and the same compact detecting machine rests nearby with the round sensor coil visible. The hole looks practical and safe, not deep or dangerous, and no coin or trunk is visible yet. Warm realistic watercolor storybook style, peak expectation before the result, clear continuity with the same cave, same team, same machine, no active pirates, no weapons, no scary cave, no readable text, no letters, no numbers, no labels, no captions, no speech bubbles, no UI panels, no fake writing, no blank text boxes."
+    },
+    {
+      "frame": 4,
+      "prompt": "Frame 4 of the same continuous story inside the same safe-looking seashore cave after the search: the same leader in the tan field jacket examines one tiny gold coin in his hand, making it visibly small rather than like treasure. Nearby, an open empty tin trunk sits on the cave floor with no marks or writing, and the same compact detecting machine remains beside the team. The two team members look disappointed but not defeated, suggesting they still hope the machine may reveal something valuable later. Warm realistic watercolor storybook style, anticlimax and continued hope, no treasure pile, no active pirates, no weapons, no skeletons, no curses, no scary imagery, no readable text, no letters, no numbers, no labels, no captions, no speech bubbles, no UI panels, no fake writing, no blank text boxes."
+    }
+  ]
+}

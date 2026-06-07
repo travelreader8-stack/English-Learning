@@ -1,0 +1,2528 @@
+{
+  "total_duration": 858.549,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 5.952,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "想象你听说海边洞穴里可能有 pirates 留下的"
+        },
+        {
+          "lang": "en",
+          "text": "gold"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 6.302,
+      "end": 16.265,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在又有一台新机器，名字叫"
+        },
+        {
+          "lang": "en",
+          "text": "The Revealer"
+        },
+        {
+          "lang": "zh",
+          "text": "，好像能把地下隐藏的东西"
+        },
+        {
+          "lang": "en",
+          "text": "reveal"
+        },
+        {
+          "lang": "zh",
+          "text": "出来。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 16.615,
+      "end": 21.071,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这听起来像"
+        },
+        {
+          "lang": "en",
+          "text": "treasure dream almost came true"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 21.421,
+      "end": 30.237,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是这篇课文的笑点在落差：大家很兴奋，最后只找到一枚"
+        },
+        {
+          "lang": "en",
+          "text": "almost worthless"
+        },
+        {
+          "lang": "zh",
+          "text": "的小金币。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 30.587,
+      "end": 36.243,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天先记住这条线："
+        },
+        {
+          "lang": "en",
+          "text": "big dream, small result, still hopeful"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 36.593,
+      "end": 39.513,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一段，先看为什么大家会期待宝藏。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 39.862,
+      "end": 51.782,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：寻找失踪宝藏的梦想最近差点成真，因为一台叫 The Revealer 的新机器已经被发明出来，并被用来探测地下埋藏的黄金。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 52.132,
+      "end": 57.82,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文开头说："
+        },
+        {
+          "lang": "en",
+          "text": "Dreams of finding lost treasure almost came true recently"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 58.17,
+      "end": 64.562,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Dreams of finding lost treasure"
+        },
+        {
+          "lang": "zh",
+          "text": "是大期待，像一个寻宝梦突然快要成真。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 64.912,
+      "end": 70.968,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "期待为什么会变高？因为："
+        },
+        {
+          "lang": "en",
+          "text": "A new machine called 'The Revealer' has been invented"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 71.318,
+      "end": 81.406,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Called 'The Revealer'"
+        },
+        {
+          "lang": "zh",
+          "text": "给机器起了一个很戏剧化的名字。它来自"
+        },
+        {
+          "lang": "en",
+          "text": "reveal"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思是 show something hidden。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 81.755,
+      "end": 87.563,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这台机器已经被用来做什么？"
+        },
+        {
+          "lang": "en",
+          "text": "to detect gold which has been buried in the ground"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 87.913,
+      "end": 94.881,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Detect"
+        },
+        {
+          "lang": "zh",
+          "text": "是发现不容易看见的东西；"
+        },
+        {
+          "lang": "en",
+          "text": "buried"
+        },
+        {
+          "lang": "zh",
+          "text": "是埋在地下。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 95.231,
+      "end": 103.831,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以第一段先记中文：宝藏梦差点成真，新机器被发明，机器能探测地下黄金。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 104.181,
+      "end": 108.821,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二段，海边洞穴和海盗传说把期待继续推高。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 109.171,
+      "end": 120.411,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：这台机器被用在海边附近的一个洞穴里。据说海盗过去常在那里藏金子，他们常把金子埋在洞里，却没能取走。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 120.76,
+      "end": 125.132,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The machine was used in a cave near the seashore"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 125.482,
+      "end": 134.122,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Seashore"
+        },
+        {
+          "lang": "zh",
+          "text": "是海边，配上"
+        },
+        {
+          "lang": "en",
+          "text": "cave"
+        },
+        {
+          "lang": "zh",
+          "text": "，画面马上像老故事里的藏宝地点。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 134.472,
+      "end": 141.368,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但别把它讲成海盗知识课。课文只说："
+        },
+        {
+          "lang": "en",
+          "text": "where -- it is said -- pirates used to hide gold"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 141.718,
+      "end": 147.942,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It is said"
+        },
+        {
+          "lang": "zh",
+          "text": "表示“据说”，它可能是传说，也可能是人们听来的说法。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 148.291,
+      "end": 154.995,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Used to hide gold"
+        },
+        {
+          "lang": "zh",
+          "text": "讲过去常有的情况，不是说现在还有海盗在那里。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 155.345,
+      "end": 161.177,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着是："
+        },
+        {
+          "lang": "en",
+          "text": "The pirates would often bury gold in the cave and then fail to collect it"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 161.527,
+      "end": 169.575,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Would often"
+        },
+        {
+          "lang": "zh",
+          "text": "表示过去反复做；"
+        },
+        {
+          "lang": "en",
+          "text": "fail to collect it"
+        },
+        {
+          "lang": "zh",
+          "text": "是最后没能把金子取走。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 169.925,
+      "end": 177.045,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以第二段中文线是：海边洞穴，据说海盗过去藏金子，而且常常埋下后没有取走。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 177.394,
+      "end": 181.314,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三段，机器信号出现，大家兴奋开挖。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 181.664,
+      "end": 194.384,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：探宝队带着新机器进洞，希望找到埋藏的宝藏；队长检查洞口附近的土壤时，机器显示地下有金子，于是大家兴奋地挖了两英尺深。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 194.734,
+      "end": 199.874,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Armed with the new machine, a search party went into the cave"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 200.224,
+      "end": 207.844,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里"
+        },
+        {
+          "lang": "en",
+          "text": "armed with"
+        },
+        {
+          "lang": "zh",
+          "text": "不是“拿着武器”，而是 equipped with，带着这台新机器。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 208.194,
+      "end": 214.634,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A search party"
+        },
+        {
+          "lang": "zh",
+          "text": "也不是庆祝派对，而是一组搜索的人，探宝队。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 214.984,
+      "end": 219.663,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他们进洞的目的很清楚："
+        },
+        {
+          "lang": "en",
+          "text": "hoping to find buried treasure"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 220.013,
+      "end": 226.653,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后关键动作来了："
+        },
+        {
+          "lang": "en",
+          "text": "The leader of the party was examining the soil near the entrance to the cave"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 227.003,
+      "end": 232.947,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Soil"
+        },
+        {
+          "lang": "zh",
+          "text": "是土壤；"
+        },
+        {
+          "lang": "en",
+          "text": "entrance to the cave"
+        },
+        {
+          "lang": "zh",
+          "text": "是洞口。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 233.297,
+      "end": 238.609,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "正在检查的时候，机器显示："
+        },
+        {
+          "lang": "en",
+          "text": "there was gold under the ground"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 238.959,
+      "end": 244.998,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "期待到达最高点："
+        },
+        {
+          "lang": "en",
+          "text": "Very excited, the party dug a hole two feet deep"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 245.348,
+      "end": 253.14,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "源数据里这一处有一个拼写问题；标准英语是"
+        },
+        {
+          "lang": "en",
+          "text": "two feet deep"
+        },
+        {
+          "lang": "zh",
+          "text": "，两英尺深。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 253.49,
+      "end": 256.93,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四段，结果很小，但希望还在。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 257.28,
+      "end": 272.2,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：他们最后只找到一枚几乎不值钱的小金币；接着彻底搜遍整个洞穴，也只发现一个空铁皮箱。尽管如此，人们仍相信机器很快会发现有价值的东西。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 272.55,
+      "end": 276.514,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "They finally found a small gold coin"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 276.864,
+      "end": 286.279,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Finally found"
+        },
+        {
+          "lang": "zh",
+          "text": "听起来像努力之后终于有结果，可结果马上反转："
+        },
+        {
+          "lang": "en",
+          "text": "which was almost worthless"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 286.629,
+      "end": 294.685,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Almost worthless"
+        },
+        {
+          "lang": "zh",
+          "text": "不是“完全没有意义”，而是几乎没有价值。和前面的 treasure dream 形成落差。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 295.035,
+      "end": 300.515,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他们没有马上放弃，又继续："
+        },
+        {
+          "lang": "en",
+          "text": "searched the whole cave thoroughly"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 300.865,
+      "end": 304.737,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Thoroughly"
+        },
+        {
+          "lang": "zh",
+          "text": "是彻底地、仔细地。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 305.087,
+      "end": 310.071,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可最后："
+        },
+        {
+          "lang": "en",
+          "text": "did not find anything except an empty tin trunk"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 310.42,
+      "end": 315.996,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Except"
+        },
+        {
+          "lang": "zh",
+          "text": "让结果更失望：除了一个空铁皮箱，什么也没有。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 316.346,
+      "end": 321.378,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一句很有意思："
+        },
+        {
+          "lang": "en",
+          "text": "In spite of this, many people are confident"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 321.728,
+      "end": 334.4,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In spite of this"
+        },
+        {
+          "lang": "zh",
+          "text": "的意思是“尽管结果这么让人失望”，人们还是相信机器"
+        },
+        {
+          "lang": "en",
+          "text": "may reveal something of value fairly soon"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 334.75,
+      "end": 343.694,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这就是题目"
+        },
+        {
+          "lang": "en",
+          "text": "Not a gold mine"
+        },
+        {
+          "lang": "zh",
+          "text": "的反讽：不是完全没有金子，而是不是能发财的大金矿。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 344.043,
+      "end": 350.714,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，标题"
+        },
+        {
+          "lang": "en",
+          "text": "Not a gold mine"
+        },
+        {
+          "lang": "zh",
+          "text": "是不是说洞里一点金子都没有？"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 351.063,
+      "end": 360.959,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。洞里确实有一枚小金币，但它"
+        },
+        {
+          "lang": "en",
+          "text": "almost worthless"
+        },
+        {
+          "lang": "zh",
+          "text": "。标题的意思是：这不是一个能让人发财的 gold mine。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 361.309,
+      "end": 364.632,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以笑点是期待很大，结果很小？"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 364.982,
+      "end": 376.962,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。"
+        },
+        {
+          "lang": "en",
+          "text": "Lost treasure"
+        },
+        {
+          "lang": "zh",
+          "text": "、新机器、海边洞穴、海盗传说，都把期待推得很高。最后只有一枚小金币和一个空铁皮箱，这就是 irony。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 377.312,
+      "end": 381.25,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The Revealer"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么叫这个名字？"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 381.6,
+      "end": 390.412,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为"
+        },
+        {
+          "lang": "en",
+          "text": "reveal"
+        },
+        {
+          "lang": "zh",
+          "text": "是 show something hidden，显示隐藏的东西。这个名字本身就很会制造期待。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 390.762,
+      "end": 396.702,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Detect"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "reveal"
+        },
+        {
+          "lang": "zh",
+          "text": "有什么区别？"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 397.052,
+      "end": 409.716,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Detect"
+        },
+        {
+          "lang": "zh",
+          "text": "是发现或探测到不容易看见的东西；"
+        },
+        {
+          "lang": "en",
+          "text": "reveal"
+        },
+        {
+          "lang": "zh",
+          "text": "是把隐藏的东西显示出来。机器先 detect gold，然后好像要 reveal treasure。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 410.066,
+      "end": 413.806,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Party"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里不是生日派对？"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 414.156,
+      "end": 422.676,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。这里"
+        },
+        {
+          "lang": "en",
+          "text": "a search party"
+        },
+        {
+          "lang": "zh",
+          "text": "是 a group of people searching，搜索队或探宝队。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 423.026,
+      "end": 427.486,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Armed with the new machine"
+        },
+        {
+          "lang": "zh",
+          "text": "会不会让人想到武器？"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 427.836,
+      "end": 434.396,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里不要按武器理解。意思是他们 equipped with the new machine，也就是带着这台机器进洞。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 434.746,
+      "end": 437.804,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "海盗和洞穴会不会讲得很吓人？"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 438.154,
+      "end": 448.634,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不会。Pirates 只是背景传说：老故事里海盗会把 treasure 藏在海边或洞穴里。现实里洞穴和挖掘都需要专业人员和安全许可。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 448.983,
+      "end": 451.234,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "背这篇要先背什么？"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 451.584,
+      "end": 474.704,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先背中文寻宝反讽线：宝藏梦差点成真 -> 新机器能探测埋藏黄金 -> 海边洞穴据说有海盗藏宝 -> 探宝队进洞 -> 机器显示有金子 -> 大家兴奋开挖 -> 只找到几乎不值钱的小金币 -> 又搜到空铁皮箱 -> 仍然相信机器以后会找到值钱东西。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 475.054,
+      "end": 479.038,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Dreams of finding lost treasure almost came true recently."
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 479.387,
+      "end": 485.987,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A new machine called 'The Revealer' has been invented and it has been used to detect gold which has been buried in the ground."
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 486.337,
+      "end": 491.617,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The machine was used in a cave near the seashore where -- it is said -- pirates used to hide gold."
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 491.967,
+      "end": 496.431,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The pirates would often bury gold in the cave and then fail to collect it."
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 496.781,
+      "end": 502.277,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Armed with the new machine, a search party went into the cave hoping to find buried treasure."
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 502.627,
+      "end": 509.779,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The leader of the party was examining the soil near the entrance to the cave when the machine showed that there was gold under the ground."
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 510.129,
+      "end": 514.017,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Very excited, the party dug a hole two feet deep."
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 514.367,
+      "end": 518.591,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "They finally found a small gold coin which was almost worthless."
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 518.941,
+      "end": 524.749,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The party then searched the whole cave thoroughly but did not find anything except an empty tin trunk."
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 525.098,
+      "end": 531.338,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In spite of this, many people are confident that 'The Revealer' may reveal something of value fairly soon."
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 531.688,
+      "end": 534.4,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "reveal"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "reveal"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 534.75,
+      "end": 536.454,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "reveal"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Reveal"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 536.804,
+      "end": 543.116,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "reveal"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Reveal"
+        },
+        {
+          "lang": "zh",
+          "text": "means show something that was hidden，显示隐藏的东西。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 543.466,
+      "end": 550.198,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "reveal"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课的机器叫"
+        },
+        {
+          "lang": "en",
+          "text": "The Revealer"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思就是“能把隐藏东西显示出来的机器”。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 550.548,
+      "end": 555.219,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "reveal"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文最后说："
+        },
+        {
+          "lang": "en",
+          "text": "may reveal something of value fairly soon"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 555.569,
+      "end": 564.769,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "reveal"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词把希望留到最后：虽然这次只找到小金币，大家还相信机器可能会 reveal 更有价值的东西。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 565.119,
+      "end": 567.871,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "detect"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "detect"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 568.221,
+      "end": 569.853,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "detect"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Detect"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 570.203,
+      "end": 575.995,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "detect"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Detect"
+        },
+        {
+          "lang": "zh",
+          "text": "是发现、探测到不容易直接看见的东西。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 576.345,
+      "end": 580.921,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "detect"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说机器"
+        },
+        {
+          "lang": "en",
+          "text": "has been used to detect gold"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 581.27,
+      "end": 587.63,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "detect"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "生活里也可以说："
+        },
+        {
+          "lang": "en",
+          "text": "A sensor can detect movement"
+        },
+        {
+          "lang": "zh",
+          "text": "，传感器能探测到移动。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 587.98,
+      "end": 594.26,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "detect"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在这课里，detect 把机器和地下金子连起来，让寻宝期待突然变高。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 594.61,
+      "end": 597.602,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "worthless"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "worthless"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 597.952,
+      "end": 599.704,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "worthless"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Worthless"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 600.054,
+      "end": 603.566,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "worthless"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Worthless"
+        },
+        {
+          "lang": "zh",
+          "text": "是几乎没有价值的。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 603.915,
+      "end": 608.311,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "worthless"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "a small gold coin which was almost worthless"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 608.661,
+      "end": 614.581,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "worthless"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意这里不是说 coin 没有任何意义，而是说它没有大家想象中 treasure 的价值。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 614.931,
+      "end": 621.571,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "worthless"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词就是整篇的反讽核心：big treasure dream，small almost worthless result。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 621.921,
+      "end": 627.585,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的"
+        },
+        {
+          "lang": "en",
+          "text": "grammar board"
+        },
+        {
+          "lang": "zh",
+          "text": "叫：机器、传说和落差。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 627.935,
+      "end": 632.175,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块是被动语态，特别适合机器和发现故事。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 632.525,
+      "end": 642.144,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "A new machine has been invented"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "it has been used to detect gold"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "gold has been buried in the ground"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 642.494,
+      "end": 648.414,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意重点不是谁发明、谁使用，而是机器被发明、被使用，金子被埋藏。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 648.764,
+      "end": 654.404,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块是"
+        },
+        {
+          "lang": "en",
+          "text": "called"
+        },
+        {
+          "lang": "zh",
+          "text": "："
+        },
+        {
+          "lang": "en",
+          "text": "A new machine called 'The Revealer'"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 654.754,
+      "end": 661.778,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Called"
+        },
+        {
+          "lang": "zh",
+          "text": "后面给出名字。这个名字来自 reveal，所以特别会制造期待。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 662.128,
+      "end": 670.691,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块是过去习惯："
+        },
+        {
+          "lang": "en",
+          "text": "pirates used to hide gold"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "The pirates would often bury gold"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 671.041,
+      "end": 677.241,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它们都在讲过去传说里反复发生的事，不是在讲现在还有海盗这样做。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 677.591,
+      "end": 685.799,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四块是"
+        },
+        {
+          "lang": "en",
+          "text": "was doing when"
+        },
+        {
+          "lang": "zh",
+          "text": "："
+        },
+        {
+          "lang": "en",
+          "text": "The leader was examining the soil when the machine showed that there was gold"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 686.149,
+      "end": 691.509,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "一个动作正在进行，关键事件突然发生，期待被推到最高。"
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 691.859,
+      "end": 698.938,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第五块是"
+        },
+        {
+          "lang": "en",
+          "text": "except"
+        },
+        {
+          "lang": "zh",
+          "text": "："
+        },
+        {
+          "lang": "en",
+          "text": "did not find anything except an empty tin trunk"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "start": 699.288,
+      "end": 704.248,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句话把失望感说得很清楚：除了空箱子，什么也没找到。"
+        }
+      ]
+    },
+    {
+      "i": 103,
+      "start": 704.598,
+      "end": 707.958,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一块是"
+        },
+        {
+          "lang": "en",
+          "text": "In spite of this"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "start": 708.308,
+      "end": 714.188,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它的结构可以记成：bad result plus in spite of this plus continued hope。"
+        }
+      ]
+    },
+    {
+      "i": 105,
+      "start": 714.538,
+      "end": 722.058,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课里就是：结果很小，但很多人仍然 confident，仍然相信机器可能找到 something of value。"
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "start": 722.408,
+      "end": 728.952,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把今天的寻宝反讽放进安全的生活场景："
+        },
+        {
+          "lang": "en",
+          "text": "The Old Box Search"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 107,
+      "start": 729.302,
+      "end": 734.222,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你在家里发现一个旧铁盒，以为里面可能有很值钱的东西。"
+        }
+      ]
+    },
+    {
+      "i": 108,
+      "start": 734.571,
+      "end": 739.723,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先说期待："
+        },
+        {
+          "lang": "en",
+          "text": "Dreams of finding lost treasure almost came true"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 109,
+      "start": 740.073,
+      "end": 744.657,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再说地点："
+        },
+        {
+          "lang": "en",
+          "text": "I found an old tin box in the cupboard"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 110,
+      "start": 745.007,
+      "end": 751.151,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可以用手电筒认真检查："
+        },
+        {
+          "lang": "en",
+          "text": "I used a flashlight to detect something inside it"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 111,
+      "start": 751.501,
+      "end": 757.213,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结果出来前，你很兴奋："
+        },
+        {
+          "lang": "en",
+          "text": "Very excited, I opened the box"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 112,
+      "start": 757.563,
+      "end": 762.483,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结果却很小："
+        },
+        {
+          "lang": "en",
+          "text": "I finally found a small game coin"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 113,
+      "start": 762.832,
+      "end": 766.496,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "评价落差："
+        },
+        {
+          "lang": "en",
+          "text": "It was almost worthless"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 114,
+      "start": 766.846,
+      "end": 774.638,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后用转折保留希望："
+        },
+        {
+          "lang": "en",
+          "text": "In spite of this, I am still confident that I may find something of value one day"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 115,
+      "start": 774.988,
+      "end": 783.228,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，你要用这些词组把一个“期待很大、结果很小、但还抱有希望”的 old box story 补完整。"
+        }
+      ]
+    },
+    {
+      "i": 116,
+      "start": 783.578,
+      "end": 790.898,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 117,
+      "start": 791.248,
+      "end": 809.008,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓中文寻宝反讽线：宝藏梦差点成真 -> 新机器被发明 -> 海边洞穴据说有海盗藏宝 -> 探宝队带机器进洞 -> 机器显示有金子 -> 兴奋开挖 -> 小金币几乎不值钱 -> 空铁皮箱 -> 仍然有希望。"
+        }
+      ]
+    },
+    {
+      "i": 118,
+      "start": 809.358,
+      "end": 831.777,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再把"
+        },
+        {
+          "lang": "en",
+          "text": "English chunks"
+        },
+        {
+          "lang": "zh",
+          "text": "读顺："
+        },
+        {
+          "lang": "en",
+          "text": "Dreams of finding lost treasure"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "has been invented"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "has been used to detect gold"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "where it is said pirates used to hide gold"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "Armed with the new machine"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "almost worthless"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "In spite of this"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 119,
+      "start": 832.127,
+      "end": 848.367,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，用 detect, finally found, almost worthless 和 In spite of this 讲一个自己的 old box search；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 120,
+      "start": 848.717,
+      "end": 858.549,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "The dream was big, the coin was small, but the hope was still alive."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 55
+}

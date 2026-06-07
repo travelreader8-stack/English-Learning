@@ -1,0 +1,53 @@
+{
+  "lesson_id": 55,
+  "title": "The Old Box Search",
+  "question": "把今天的“期待找到值钱东西 -> 用工具认真检查 -> 结果很小 -> 仍然保留希望”放进家里的旧铁盒场景：用 word bank 补完整 5 个空。",
+  "example_answer": "Dreams of finding lost treasure almost came true. I found an old tin box in the cupboard. I used a flashlight to detect something inside it. Very excited, I opened the box. I finally found a small game coin. It was almost worthless. In spite of this, I am still confident that I may find something of value one day.",
+  "word_bank": [
+    "finding lost treasure",
+    "old tin box",
+    "in the cupboard",
+    "used a flashlight",
+    "detect something",
+    "Very excited",
+    "opened the box",
+    "finally found",
+    "small game coin",
+    "almost worthless",
+    "In spite of this",
+    "something of value"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说寻找失踪宝藏的梦想差点成真",
+      "english_template": "Dreams of ___ almost came true.",
+      "expected_phrase": "finding lost treasure"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说你在柜子里发现一个旧铁盒",
+      "english_template": "I found an ___ in the cupboard.",
+      "expected_phrase": "old tin box"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说你用手电筒探测里面的东西",
+      "english_template": "I used a flashlight to ___ inside it.",
+      "expected_phrase": "detect something"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说你最后找到一枚小游戏币",
+      "english_template": "I ___ a small game coin.",
+      "expected_phrase": "finally found"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "说尽管如此，你仍相信也许能找到有价值的东西",
+      "english_template": "___, I am still confident that I may find something of value one day.",
+      "expected_phrase": "In spite of this"
+    }
+  ],
+  "mode": "all_fills"
+}
