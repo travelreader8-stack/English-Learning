@@ -1,14 +1,14 @@
 {
   "lesson_id": 59,
   "mode": "guided_sentences",
-  "intro_zh": "先听完整课文，再按中文喜剧线记忆：Rex 过去在 front gate 外面 bark，因为想进 garden；丈夫训练它用 paw 按 latch，让它 let himself in；Rex 成了开门 expert，却又在 garden 里 bark，想让 someone let him out；后来它把这个技巧玩成了新的 in-and-out habit。读的时候注意 used to、would、until、so that、As soon as 和 in/out 的方向对比。",
+  "intro_zh": "先听完整课文，再按中文喜剧线记忆：Rex 过去在大门外面叫，因为想进花园；丈夫训练它用脚爪按门闩，让它自己进来；Rex 成了开门专家，却又在花园里叫，想让别人放它出去；后来它把这个技巧玩成了新的进出循环。读的时候注意 used to、would、until、so that、As soon as 和“进来/出去”的方向对比。",
   "sentences": [
     {
       "id": "l59_s1",
       "text": "Our dog, Rex, used to sit outside our front gate and bark.",
-      "focus_zh": "中文锚点：我们家的狗 Rex 过去常坐在 front gate 外面叫。Used to 表示过去常常，front gate 是房子外面通向 garden 的小门，最后是 bark，狗叫。",
-      "start": 351.963,
-      "end": 356.211,
+      "focus_zh": "中文锚点：我们家的狗 Rex 过去常坐在大门外面叫。Used to 表示过去常常，front gate 是房子外面通向花园的小门，最后是 bark，狗叫。",
+      "start": 350.606,
+      "end": 354.854,
       "focus_words": [
         "Our dog, Rex",
         "used to sit",
@@ -19,9 +19,9 @@
     {
       "id": "l59_s2",
       "text": "Every time he wanted to come into the garden he would bark until someone opened the gate.",
-      "focus_zh": "中文锚点：每次它想进 garden，就一直叫到有人开门。Every time 引出反复条件，would bark 是过去反复动作，until 说明叫到什么时候停止。",
-      "start": 356.561,
-      "end": 361.697,
+      "focus_zh": "中文锚点：每次它想进花园，就一直叫到有人开门。Every time 引出反复条件，would bark 是过去反复动作，until 说明叫到什么时候停止。",
+      "start": 355.204,
+      "end": 360.34,
       "focus_words": [
         "Every time",
         "wanted to come into the garden",
@@ -33,8 +33,8 @@
       "id": "l59_s3",
       "text": "As the neighbours complained of the noise, my husband spent weeks training him to press his paw on the latch to let himself in.",
       "focus_zh": "中文锚点：因为邻居投诉 noise，丈夫花几周训练 Rex 用 paw 按 latch，把自己放进来。长句要按原因、训练、动作、目的四块读。",
-      "start": 362.047,
-      "end": 368.911,
+      "start": 360.69,
+      "end": 367.554,
       "focus_words": [
         "neighbours complained",
         "spent weeks training him",
@@ -47,8 +47,8 @@
       "id": "l59_s4",
       "text": "Rex soon became an expert at opening the gate.",
       "focus_zh": "中文锚点：Rex 很快成了开门专家。Expert at 后面接 doing，这里是 opening the gate，读出一点 comic praise。",
-      "start": 369.261,
-      "end": 372.885,
+      "start": 367.903,
+      "end": 371.527,
       "focus_words": [
         "Rex soon became",
         "an expert",
@@ -59,8 +59,8 @@
       "id": "l59_s5",
       "text": "This time he was barking so that someone would let him out!",
       "focus_zh": "中文锚点：这次它叫，是为了让人把它放出去。This time 读出反转，so that 表目的，let him out 和前面的 let himself in 方向相反。",
-      "start": 378.985,
-      "end": 382.969,
+      "start": 377.627,
+      "end": 381.611,
       "focus_words": [
         "This time",
         "was barking",
@@ -71,9 +71,9 @@
     {
       "id": "l59_s6",
       "text": "As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts.",
-      "focus_zh": "中文锚点：它一从外面开门，就进 garden，等 gate 关上。As soon as 是一……就……，until the gate shuts 是等到门关上为止。",
-      "start": 387.389,
-      "end": 393.341,
+      "focus_zh": "中文锚点：它一从外面开门，就进花园，等门关上。As soon as 是一……就……，until the gate shuts 是等到门关上为止。",
+      "start": 386.031,
+      "end": 391.983,
       "focus_words": [
         "As soon as",
         "opens the gate",
@@ -86,8 +86,8 @@
       "id": "l59_s7",
       "text": "Then he sits and barks until someone lets him out.",
       "focus_zh": "中文锚点：然后它坐下叫，直到有人把它放出去。Then 连接下一步，barks until someone lets him out 是循环里的核心动作。",
-      "start": 393.69,
-      "end": 397.242,
+      "start": 392.333,
+      "end": 395.885,
       "focus_words": [
         "Then he sits",
         "and barks",
@@ -98,8 +98,8 @@
       "id": "l59_s8",
       "text": "After this he immediately lets himself in and begins barking again.",
       "focus_zh": "中文锚点：之后它马上又把自己放进来，并再次开始叫。Immediately 要读出“马上”，lets himself in 和 begins barking again 把笑点循环起来。",
-      "start": 397.592,
-      "end": 402.2,
+      "start": 396.235,
+      "end": 400.843,
       "focus_words": [
         "After this",
         "immediately",

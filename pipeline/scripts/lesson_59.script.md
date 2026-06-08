@@ -4,13 +4,13 @@
 ## SCENE: hook
 A: 有时候，大人想训练宠物解决一个 [EN]problem[/EN]。
 A: 可是宠物太聪明，反而把办法玩成了新 [EN]problem[/EN]。
-A: Rex 原来在 [EN]gate[/EN] 外面 [EN]barking[/EN]，因为它想进 [EN]garden[/EN]。
+A: Rex 原来在门外 [EN]barking[/EN]，因为它想进花园。
 A: 主人训练它自己开门，结果 Rex really became [EN]an expert[/EN]。
 A: 今天先抓住这个笑点：[EN]he learned the trick, but he used it the wrong way[/EN]。
 
 ## SCENE: retell frame=1
 A: 第一帧，先看原来的吵闹问题。
-A: 中文锚点是：我们家的狗 Rex 过去常坐在 [EN]front gate[/EN] 外面叫；每次想进 [EN]garden[/EN]，就一直叫到有人开门。
+A: 中文锚点是：我们家的狗 Rex 过去常坐在大门外面叫；每次想进花园，就一直叫到有人开门。
 A: 课文第一句是：[EN]Our dog, Rex, used to sit outside our front gate and bark[/EN]。
 A: 注意这里是 [EN]bark[/EN]，狗叫，不是 [EN]dark[/EN]。
 A: [EN]Front gate[/EN] 不是公寓门，而是房子外面通向花园的小门。
@@ -18,7 +18,7 @@ A: 反复习惯用两个词带出来：[EN]used to sit[/EN] 和 [EN]he would bar
 A: 课文接着说：[EN]Every time he wanted to come into the garden he would bark until someone opened the gate[/EN]。
 A: 这里的 [EN]until[/EN] 很重要：一直叫，叫到有人开门为止。
 A: 邻居不是坏人，他们只是受不了 noise：[EN]the neighbours complained of the noise[/EN]。
-A: 第一帧记住：Rex 想进来，所以在 gate 外面 bark。
+A: 第一帧记住：Rex 想进来，所以在门外一直叫。
 
 ## SCENE: retell frame=2
 A: 第二帧，看聪明办法。
@@ -35,12 +35,12 @@ A: 第二帧记住：the trick worked，Rex 成了开门 expert。
 
 ## SCENE: retell frame=3
 A: 第三帧，笑点开始反转。
-A: 中文锚点是：上周我出去 shopping 时，发现 Rex 在 garden 里靠近 gate；这一次它叫，是为了让人把它放出去。
+A: 中文锚点是：上周我出去 shopping 时，发现 Rex 在花园里靠近门；这一次它叫，是为了让人把它放出去。
 A: 转折词先听出来：[EN]However[/EN]。
 A: 课文说：[EN]when I was going out shopping last week, I noticed him in the garden near the gate[/EN]。
 A: [EN]Notice[/EN] 是“注意到、发现”，不是特意去找。
-A: 原来 Rex 在 gate 外面叫，是想进来。
-A: 现在 Rex 已经在 garden 里面了，它又在叫。
+A: 原来 Rex 在门外面叫，是想进来。
+A: 现在 Rex 已经在花园里面了，它又在叫。
 A: 这次目的变了：[EN]This time he was barking so that someone would let him out[/EN]。
 A: [EN]So that[/EN] 说明目的：它叫，是为了让某个人放它出去。
 A: 第三帧记住：old problem 是 [EN]let himself in[/EN]，new problem 是 [EN]let him out[/EN]。
@@ -48,29 +48,29 @@ A: 第三帧记住：old problem 是 [EN]let himself in[/EN]，new problem 是 [
 ## SCENE: retell frame=4
 A: 第四帧，看新坏习惯和结尾。
 A: 中文锚点是：从那以后，Rex 养成了另一个 [EN]bad habit[/EN]。
-A: 它从外面一打开 gate，就进 garden，等 gate 关上，再叫到有人放它出去。
+A: 它从外面一打开门，就进花园，等门关上，再叫到有人放它出去。
 A: 课文用 [EN]As soon as[/EN] 开始这个循环：[EN]As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts[/EN]。
 A: [EN]As soon as[/EN] 是“一……就……”，动作接得很快。
-A: [EN]Until the gate shuts[/EN] 是等到 gate 关上为止。
+A: [EN]Until the gate shuts[/EN] 是等到门关上为止。
 A: 接着：[EN]Then he sits and barks until someone lets him out[/EN]。
 A: 出去以后呢？[EN]After this he immediately lets himself in and begins barking again[/EN]。
 A: [EN]Immediately[/EN] 是马上，说明这个循环很烦人，也很好笑。
 A: 最后丈夫只好：[EN]Yesterday my husband removed the gate[/EN]。
 A: Rex 的反应是：[EN]Rex got so annoyed we have not seen him since[/EN]。
 A: 这个结尾是漫画式的生气和消失，不是危险或悲伤。
-A: 第四帧记住：Rex 把一个开门技巧玩成了 in-and-out barking habit。
+A: 第四帧记住：Rex 把一个开门技巧玩成了“进来、出去、又进来”的叫门习惯。
 
 ## SCENE: discuss
-B: 老师，Rex 学会按 latch 以后，训练算成功了吗？
+B: 老师，Rex 学会按门闩以后，训练算成功了吗？
 A: 算成功了。The trick worked. 它真的会自己开门了。
 B: 那为什么家里还是头疼？
-A: 因为真正的目标不是 [EN]open the gate[/EN]，而是 [EN]stop barking[/EN]。
-B: 哦，办法解决了 in，却没有解决 barking。
-A: 对。后来 Rex 还把这个办法变成了新的 out problem。
+A: 因为真正的目标不是“会开门”，而是 [EN]stop barking[/EN]。
+B: 哦，办法解决了“进来”，却没有解决“一直叫”。
+A: 对。后来 Rex 还把这个办法变成了新的“出去问题”。
 B: [EN]Let himself in[/EN] 和 [EN]let him out[/EN] 怎么分？
 A: [EN]Let himself in[/EN] 是 Rex 自己把自己放进来；[EN]let him out[/EN] 是别人把 Rex 放出去。
 B: 所以标题 [EN]In or out?[/EN] 就是在笑这个方向反复变？
-A: Exactly. Rex learned one clever trick, then turned it into an annoying habit.
+A: 对，这就是笑点：Rex 学会了一个小技巧，却把它变成了烦人的新习惯。[EN]One trick became a new habit.[/EN]
 
 ## SCENE: passage_normal
 B: [EN]Our dog, Rex, used to sit outside our front gate and bark.[/EN]
@@ -100,7 +100,7 @@ B: [EN]Latch[/EN]。
 A: [EN]Latch[/EN] 是门上的小门闩，小扣件。
 A: Rex 被训练去：[EN]press his paw on the latch[/EN]。
 A: [EN]Press[/EN] 是往下按；[EN]paw[/EN] 是狗的脚爪。
-A: 这个词要和画面一起记：Rex 用 paw 按 latch，gate 就能开。
+A: 这个词要和画面一起记：Rex 用 paw 按 latch，小门就能开。
 
 ## SCENE: vocab word=habit
 A: 第三个词：[EN]habit[/EN]。
@@ -147,7 +147,7 @@ A: 下面练习里，你要用 word bank 补完整 5 个空，练 [EN]used to[/E
 
 ## SCENE: outro
 A: 这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。
-A: 跟读时先抓中文喜剧线：Rex 在 gate 外 barking，因为想进 garden；丈夫训练它用 paw 按 latch，让它 let himself in；Rex 成了 expert，却又在 garden 里 barking，想让 someone let him out；后来它把这个动作玩成了新的 bad habit。
+A: 跟读时先抓中文喜剧线：Rex 在门外叫，因为想进花园；丈夫训练它用 paw 按 latch，让它自己进来；Rex 成了开门 expert，却又在花园里叫，想让别人放它出去；后来它把这个动作玩成了新的 bad habit。
 A: 再把英文短语读顺：[EN]used to sit outside our front gate and bark[/EN]，[EN]he would bark until someone opened the gate[/EN]，[EN]press his paw on the latch[/EN]，[EN]so that someone would let him out[/EN]，[EN]As soon as he opens the gate[/EN]，[EN]immediately lets himself in[/EN]。
 A: 跟读完以后，再做 ① 生活场景，用 doorbell button 练 [EN]a clever solution created another bad habit[/EN]；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。
 A: 做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心：Rex learned the trick, but the real problem got worse.

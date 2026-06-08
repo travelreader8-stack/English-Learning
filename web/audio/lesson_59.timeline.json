@@ -1,5 +1,5 @@
 {
-  "total_duration": 741.236,
+  "total_duration": 739.678,
   "lines": [
     {
       "i": 0,
@@ -48,22 +48,14 @@
     {
       "i": 2,
       "start": 11.092,
-      "end": 19.803,
+      "end": 16.371,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "Rex 原来在"
-        },
-        {
-          "lang": "en",
-          "text": "gate"
-        },
-        {
-          "lang": "zh",
-          "text": "外面"
+          "text": "Rex 原来在门外"
         },
         {
           "lang": "en",
@@ -71,22 +63,14 @@
         },
         {
           "lang": "zh",
-          "text": "，因为它想进"
-        },
-        {
-          "lang": "en",
-          "text": "garden"
-        },
-        {
-          "lang": "zh",
-          "text": "。"
+          "text": "，因为它想进花园。"
         }
       ]
     },
     {
       "i": 3,
-      "start": 20.153,
-      "end": 25.425,
+      "start": 16.721,
+      "end": 21.993,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
@@ -107,8 +91,8 @@
     },
     {
       "i": 4,
-      "start": 25.775,
-      "end": 31.583,
+      "start": 22.343,
+      "end": 28.151,
       "speaker": "A",
       "scene": "hook",
       "scene_meta": {},
@@ -129,8 +113,8 @@
     },
     {
       "i": 5,
-      "start": 31.933,
-      "end": 34.733,
+      "start": 28.501,
+      "end": 31.301,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -145,8 +129,8 @@
     },
     {
       "i": 6,
-      "start": 35.082,
-      "end": 46.474,
+      "start": 31.651,
+      "end": 40.171,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -155,30 +139,14 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "中文锚点是：我们家的狗 Rex 过去常坐在"
-        },
-        {
-          "lang": "en",
-          "text": "front gate"
-        },
-        {
-          "lang": "zh",
-          "text": "外面叫；每次想进"
-        },
-        {
-          "lang": "en",
-          "text": "garden"
-        },
-        {
-          "lang": "zh",
-          "text": "，就一直叫到有人开门。"
+          "text": "中文锚点是：我们家的狗 Rex 过去常坐在大门外面叫；每次想进花园，就一直叫到有人开门。"
         }
       ]
     },
     {
       "i": 7,
-      "start": 46.824,
-      "end": 52.552,
+      "start": 40.521,
+      "end": 46.249,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -201,8 +169,8 @@
     },
     {
       "i": 8,
-      "start": 52.902,
-      "end": 59.158,
+      "start": 46.598,
+      "end": 52.854,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -233,8 +201,8 @@
     },
     {
       "i": 9,
-      "start": 59.507,
-      "end": 65.163,
+      "start": 53.204,
+      "end": 58.86,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -253,8 +221,8 @@
     },
     {
       "i": 10,
-      "start": 65.513,
-      "end": 72.781,
+      "start": 59.21,
+      "end": 66.478,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -285,8 +253,8 @@
     },
     {
       "i": 11,
-      "start": 73.131,
-      "end": 79.891,
+      "start": 66.827,
+      "end": 73.587,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -309,8 +277,8 @@
     },
     {
       "i": 12,
-      "start": 80.241,
-      "end": 86.672,
+      "start": 73.937,
+      "end": 80.369,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -333,8 +301,8 @@
     },
     {
       "i": 13,
-      "start": 87.022,
-      "end": 93.254,
+      "start": 80.719,
+      "end": 86.951,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -357,8 +325,8 @@
     },
     {
       "i": 14,
-      "start": 93.604,
-      "end": 97.284,
+      "start": 87.301,
+      "end": 91.801,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -367,14 +335,14 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "第一帧记住：Rex 想进来，所以在 gate 外面 bark。"
+          "text": "第一帧记住：Rex 想进来，所以在门外一直叫。"
         }
       ]
     },
     {
       "i": 15,
-      "start": 97.634,
-      "end": 100.214,
+      "start": 92.151,
+      "end": 94.731,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -389,8 +357,8 @@
     },
     {
       "i": 16,
-      "start": 100.564,
-      "end": 109.188,
+      "start": 95.08,
+      "end": 103.704,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -421,8 +389,8 @@
     },
     {
       "i": 17,
-      "start": 109.537,
-      "end": 113.357,
+      "start": 104.054,
+      "end": 107.874,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -445,8 +413,8 @@
     },
     {
       "i": 18,
-      "start": 113.707,
-      "end": 120.803,
+      "start": 108.224,
+      "end": 115.32,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -465,8 +433,8 @@
     },
     {
       "i": 19,
-      "start": 121.153,
-      "end": 125.329,
+      "start": 115.67,
+      "end": 119.846,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -489,8 +457,8 @@
     },
     {
       "i": 20,
-      "start": 125.679,
-      "end": 132.283,
+      "start": 120.195,
+      "end": 126.799,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -517,8 +485,8 @@
     },
     {
       "i": 21,
-      "start": 132.632,
-      "end": 135.872,
+      "start": 127.149,
+      "end": 130.389,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -533,8 +501,8 @@
     },
     {
       "i": 22,
-      "start": 136.222,
-      "end": 139.622,
+      "start": 130.739,
+      "end": 134.139,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -557,8 +525,8 @@
     },
     {
       "i": 23,
-      "start": 139.972,
-      "end": 144.164,
+      "start": 134.489,
+      "end": 138.681,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -577,8 +545,8 @@
     },
     {
       "i": 24,
-      "start": 144.514,
-      "end": 150.226,
+      "start": 139.03,
+      "end": 144.742,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -601,8 +569,8 @@
     },
     {
       "i": 25,
-      "start": 150.576,
-      "end": 155.336,
+      "start": 145.092,
+      "end": 149.852,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -617,8 +585,8 @@
     },
     {
       "i": 26,
-      "start": 155.686,
-      "end": 158.166,
+      "start": 150.202,
+      "end": 152.682,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -633,8 +601,8 @@
     },
     {
       "i": 27,
-      "start": 158.515,
-      "end": 168.955,
+      "start": 153.032,
+      "end": 163.032,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -643,14 +611,14 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "中文锚点是：上周我出去 shopping 时，发现 Rex 在 garden 里靠近 gate；这一次它叫，是为了让人把它放出去。"
+          "text": "中文锚点是：上周我出去 shopping 时，发现 Rex 在花园里靠近门；这一次它叫，是为了让人把它放出去。"
         }
       ]
     },
     {
       "i": 28,
-      "start": 169.305,
-      "end": 172.937,
+      "start": 163.382,
+      "end": 167.014,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -673,8 +641,8 @@
     },
     {
       "i": 29,
-      "start": 173.287,
-      "end": 179.315,
+      "start": 167.364,
+      "end": 173.392,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -697,8 +665,8 @@
     },
     {
       "i": 30,
-      "start": 179.665,
-      "end": 184.585,
+      "start": 173.742,
+      "end": 178.661,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -717,8 +685,8 @@
     },
     {
       "i": 31,
-      "start": 184.935,
-      "end": 188.135,
+      "start": 179.011,
+      "end": 181.931,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -727,14 +695,14 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "原来 Rex 在 gate 外面叫，是想进来。"
+          "text": "原来 Rex 在门外面叫，是想进来。"
         }
       ]
     },
     {
       "i": 32,
-      "start": 188.485,
-      "end": 192.005,
+      "start": 182.281,
+      "end": 185.921,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -743,14 +711,14 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "现在 Rex 已经在 garden 里面了，它又在叫。"
+          "text": "现在 Rex 已经在花园里面了，它又在叫。"
         }
       ]
     },
     {
       "i": 33,
-      "start": 192.354,
-      "end": 197.994,
+      "start": 186.271,
+      "end": 191.911,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -773,8 +741,8 @@
     },
     {
       "i": 34,
-      "start": 198.344,
-      "end": 204.624,
+      "start": 192.261,
+      "end": 198.541,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -793,8 +761,8 @@
     },
     {
       "i": 35,
-      "start": 204.974,
-      "end": 213.63,
+      "start": 198.891,
+      "end": 207.546,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -825,8 +793,8 @@
     },
     {
       "i": 36,
-      "start": 213.98,
-      "end": 217.46,
+      "start": 207.896,
+      "end": 211.376,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -841,8 +809,8 @@
     },
     {
       "i": 37,
-      "start": 217.81,
-      "end": 224.121,
+      "start": 211.726,
+      "end": 218.038,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -865,8 +833,8 @@
     },
     {
       "i": 38,
-      "start": 224.471,
-      "end": 230.231,
+      "start": 218.388,
+      "end": 224.468,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -875,14 +843,14 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "它从外面一打开 gate，就进 garden，等 gate 关上，再叫到有人放它出去。"
+          "text": "它从外面一打开门，就进花园，等门关上，再叫到有人放它出去。"
         }
       ]
     },
     {
       "i": 39,
-      "start": 230.581,
-      "end": 241.529,
+      "start": 224.818,
+      "end": 235.766,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -913,8 +881,8 @@
     },
     {
       "i": 40,
-      "start": 241.879,
-      "end": 247.415,
+      "start": 236.115,
+      "end": 241.651,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -933,8 +901,8 @@
     },
     {
       "i": 41,
-      "start": 247.765,
-      "end": 252.205,
+      "start": 242.001,
+      "end": 246.561,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -947,14 +915,14 @@
         },
         {
           "lang": "zh",
-          "text": "是等到 gate 关上为止。"
+          "text": "是等到门关上为止。"
         }
       ]
     },
     {
       "i": 42,
-      "start": 252.554,
-      "end": 257.07,
+      "start": 246.911,
+      "end": 251.427,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -977,8 +945,8 @@
     },
     {
       "i": 43,
-      "start": 257.42,
-      "end": 263.516,
+      "start": 251.777,
+      "end": 257.873,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -1001,8 +969,8 @@
     },
     {
       "i": 44,
-      "start": 263.866,
-      "end": 270.082,
+      "start": 258.223,
+      "end": 264.438,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -1021,8 +989,8 @@
     },
     {
       "i": 45,
-      "start": 270.432,
-      "end": 275.176,
+      "start": 264.788,
+      "end": 269.532,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -1045,8 +1013,8 @@
     },
     {
       "i": 46,
-      "start": 275.526,
-      "end": 280.822,
+      "start": 269.882,
+      "end": 275.178,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -1069,8 +1037,8 @@
     },
     {
       "i": 47,
-      "start": 281.171,
-      "end": 286.331,
+      "start": 275.528,
+      "end": 280.688,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -1085,8 +1053,8 @@
     },
     {
       "i": 48,
-      "start": 286.681,
-      "end": 293.681,
+      "start": 281.038,
+      "end": 289.278,
       "speaker": "A",
       "scene": "retell",
       "scene_meta": {
@@ -1095,28 +1063,28 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "第四帧记住：Rex 把一个开门技巧玩成了 in-and-out barking habit。"
+          "text": "第四帧记住：Rex 把一个开门技巧玩成了“进来、出去、又进来”的叫门习惯。"
         }
       ]
     },
     {
       "i": 49,
-      "start": 294.031,
-      "end": 298.652,
+      "start": 289.628,
+      "end": 294.368,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "老师，Rex 学会按 latch 以后，训练算成功了吗？"
+          "text": "老师，Rex 学会按门闩以后，训练算成功了吗？"
         }
       ]
     },
     {
       "i": 50,
-      "start": 299.002,
-      "end": 303.362,
+      "start": 294.718,
+      "end": 299.078,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -1129,8 +1097,8 @@
     },
     {
       "i": 51,
-      "start": 303.712,
-      "end": 306.79,
+      "start": 299.428,
+      "end": 302.506,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -1143,23 +1111,15 @@
     },
     {
       "i": 52,
-      "start": 307.14,
-      "end": 314.064,
+      "start": 302.856,
+      "end": 308.496,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "因为真正的目标不是"
-        },
-        {
-          "lang": "en",
-          "text": "open the gate"
-        },
-        {
-          "lang": "zh",
-          "text": "，而是"
+          "text": "因为真正的目标不是“会开门”，而是"
         },
         {
           "lang": "en",
@@ -1173,36 +1133,36 @@
     },
     {
       "i": 53,
-      "start": 314.413,
-      "end": 317.873,
+      "start": 308.845,
+      "end": 312.595,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "哦，办法解决了 in，却没有解决 barking。"
+          "text": "哦，办法解决了“进来”，却没有解决“一直叫”。"
         }
       ]
     },
     {
       "i": 54,
-      "start": 318.223,
-      "end": 322.823,
+      "start": 312.945,
+      "end": 316.945,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "对。后来 Rex 还把这个办法变成了新的 out problem。"
+          "text": "对。后来 Rex 还把这个办法变成了新的“出去问题”。"
         }
       ]
     },
     {
       "i": 55,
-      "start": 323.173,
-      "end": 329.085,
+      "start": 317.295,
+      "end": 323.208,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -1227,8 +1187,8 @@
     },
     {
       "i": 56,
-      "start": 329.435,
-      "end": 339.371,
+      "start": 323.557,
+      "end": 333.493,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
@@ -1253,8 +1213,8 @@
     },
     {
       "i": 57,
-      "start": 339.721,
-      "end": 346.064,
+      "start": 333.843,
+      "end": 340.186,
       "speaker": "B",
       "scene": "discuss",
       "scene_meta": {},
@@ -1275,22 +1235,26 @@
     },
     {
       "i": 58,
-      "start": 346.414,
-      "end": 351.614,
+      "start": 340.536,
+      "end": 350.256,
       "speaker": "A",
       "scene": "discuss",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "Exactly. Rex learned one clever trick, then turned it into an annoying habit."
+          "text": "对，这就是笑点：Rex 学会了一个小技巧，却把它变成了烦人的新习惯。"
+        },
+        {
+          "lang": "en",
+          "text": "One trick became a new habit."
         }
       ]
     },
     {
       "i": 59,
-      "start": 351.963,
-      "end": 356.211,
+      "start": 350.606,
+      "end": 354.854,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1303,8 +1267,8 @@
     },
     {
       "i": 60,
-      "start": 356.561,
-      "end": 361.697,
+      "start": 355.204,
+      "end": 360.34,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1317,8 +1281,8 @@
     },
     {
       "i": 61,
-      "start": 362.047,
-      "end": 368.911,
+      "start": 360.69,
+      "end": 367.554,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1331,8 +1295,8 @@
     },
     {
       "i": 62,
-      "start": 369.261,
-      "end": 372.885,
+      "start": 367.903,
+      "end": 371.527,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1345,8 +1309,8 @@
     },
     {
       "i": 63,
-      "start": 373.235,
-      "end": 378.635,
+      "start": 371.877,
+      "end": 377.277,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1359,8 +1323,8 @@
     },
     {
       "i": 64,
-      "start": 378.985,
-      "end": 382.969,
+      "start": 377.627,
+      "end": 381.611,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1373,8 +1337,8 @@
     },
     {
       "i": 65,
-      "start": 383.319,
-      "end": 387.039,
+      "start": 381.961,
+      "end": 385.681,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1387,8 +1351,8 @@
     },
     {
       "i": 66,
-      "start": 387.389,
-      "end": 393.341,
+      "start": 386.031,
+      "end": 391.983,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1401,8 +1365,8 @@
     },
     {
       "i": 67,
-      "start": 393.69,
-      "end": 397.242,
+      "start": 392.333,
+      "end": 395.885,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1415,8 +1379,8 @@
     },
     {
       "i": 68,
-      "start": 397.592,
-      "end": 402.2,
+      "start": 396.235,
+      "end": 400.843,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1429,8 +1393,8 @@
     },
     {
       "i": 69,
-      "start": 402.55,
-      "end": 407.782,
+      "start": 401.192,
+      "end": 406.424,
       "speaker": "B",
       "scene": "passage_normal",
       "scene_meta": {},
@@ -1443,8 +1407,8 @@
     },
     {
       "i": 70,
-      "start": 408.132,
-      "end": 410.676,
+      "start": 406.774,
+      "end": 409.318,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1467,8 +1431,8 @@
     },
     {
       "i": 71,
-      "start": 411.026,
-      "end": 412.538,
+      "start": 409.668,
+      "end": 411.18,
       "speaker": "B",
       "scene": "vocab",
       "scene_meta": {
@@ -1487,8 +1451,8 @@
     },
     {
       "i": 72,
-      "start": 412.888,
-      "end": 415.592,
+      "start": 411.53,
+      "end": 414.234,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1507,8 +1471,8 @@
     },
     {
       "i": 73,
-      "start": 415.942,
-      "end": 419.782,
+      "start": 414.584,
+      "end": 418.424,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1523,8 +1487,8 @@
     },
     {
       "i": 74,
-      "start": 420.131,
-      "end": 423.411,
+      "start": 418.774,
+      "end": 422.054,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1539,8 +1503,8 @@
     },
     {
       "i": 75,
-      "start": 423.761,
-      "end": 426.961,
+      "start": 422.404,
+      "end": 425.604,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1555,8 +1519,8 @@
     },
     {
       "i": 76,
-      "start": 427.311,
-      "end": 433.135,
+      "start": 425.953,
+      "end": 431.777,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1579,8 +1543,8 @@
     },
     {
       "i": 77,
-      "start": 433.485,
-      "end": 436.213,
+      "start": 432.127,
+      "end": 434.855,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1603,8 +1567,8 @@
     },
     {
       "i": 78,
-      "start": 436.563,
-      "end": 438.195,
+      "start": 435.205,
+      "end": 436.837,
       "speaker": "B",
       "scene": "vocab",
       "scene_meta": {
@@ -1623,8 +1587,8 @@
     },
     {
       "i": 79,
-      "start": 438.544,
-      "end": 442.932,
+      "start": 437.187,
+      "end": 441.575,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1643,8 +1607,8 @@
     },
     {
       "i": 80,
-      "start": 443.282,
-      "end": 447.826,
+      "start": 441.925,
+      "end": 446.469,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1667,8 +1631,8 @@
     },
     {
       "i": 81,
-      "start": 448.176,
-      "end": 453.928,
+      "start": 446.818,
+      "end": 452.57,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1695,8 +1659,8 @@
     },
     {
       "i": 82,
-      "start": 454.278,
-      "end": 460.318,
+      "start": 452.92,
+      "end": 458.8,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1705,14 +1669,14 @@
       "segments": [
         {
           "lang": "zh",
-          "text": "这个词要和画面一起记：Rex 用 paw 按 latch，gate 就能开。"
+          "text": "这个词要和画面一起记：Rex 用 paw 按 latch，小门就能开。"
         }
       ]
     },
     {
       "i": 83,
-      "start": 460.668,
-      "end": 463.492,
+      "start": 459.15,
+      "end": 461.974,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1735,8 +1699,8 @@
     },
     {
       "i": 84,
-      "start": 463.841,
-      "end": 465.425,
+      "start": 462.324,
+      "end": 463.908,
       "speaker": "B",
       "scene": "vocab",
       "scene_meta": {
@@ -1755,8 +1719,8 @@
     },
     {
       "i": 85,
-      "start": 465.775,
-      "end": 469.479,
+      "start": 464.258,
+      "end": 467.962,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1775,8 +1739,8 @@
     },
     {
       "i": 86,
-      "start": 469.829,
-      "end": 473.601,
+      "start": 468.311,
+      "end": 472.083,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1799,8 +1763,8 @@
     },
     {
       "i": 87,
-      "start": 473.951,
-      "end": 477.559,
+      "start": 472.433,
+      "end": 476.041,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1819,8 +1783,8 @@
     },
     {
       "i": 88,
-      "start": 477.909,
-      "end": 484.469,
+      "start": 476.391,
+      "end": 482.951,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1835,8 +1799,8 @@
     },
     {
       "i": 89,
-      "start": 484.818,
-      "end": 487.398,
+      "start": 483.301,
+      "end": 485.881,
       "speaker": "A",
       "scene": "vocab",
       "scene_meta": {
@@ -1851,8 +1815,8 @@
     },
     {
       "i": 90,
-      "start": 487.748,
-      "end": 491.668,
+      "start": 486.231,
+      "end": 490.151,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1865,8 +1829,8 @@
     },
     {
       "i": 91,
-      "start": 492.018,
-      "end": 496.714,
+      "start": 490.501,
+      "end": 495.196,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1887,8 +1851,8 @@
     },
     {
       "i": 92,
-      "start": 497.064,
-      "end": 502.024,
+      "start": 495.546,
+      "end": 500.506,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1909,8 +1873,8 @@
     },
     {
       "i": 93,
-      "start": 502.374,
-      "end": 505.854,
+      "start": 500.856,
+      "end": 504.336,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1923,8 +1887,8 @@
     },
     {
       "i": 94,
-      "start": 506.204,
-      "end": 510.583,
+      "start": 504.686,
+      "end": 509.066,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1945,8 +1909,8 @@
     },
     {
       "i": 95,
-      "start": 510.933,
-      "end": 515.389,
+      "start": 509.416,
+      "end": 513.872,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1967,8 +1931,8 @@
     },
     {
       "i": 96,
-      "start": 515.739,
-      "end": 519.539,
+      "start": 514.221,
+      "end": 518.021,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -1981,8 +1945,8 @@
     },
     {
       "i": 97,
-      "start": 519.889,
-      "end": 525.245,
+      "start": 518.371,
+      "end": 523.727,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -2011,8 +1975,8 @@
     },
     {
       "i": 98,
-      "start": 525.595,
-      "end": 533.49,
+      "start": 524.077,
+      "end": 531.973,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -2037,8 +2001,8 @@
     },
     {
       "i": 99,
-      "start": 533.84,
-      "end": 537.16,
+      "start": 532.323,
+      "end": 535.642,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -2059,8 +2023,8 @@
     },
     {
       "i": 100,
-      "start": 537.51,
-      "end": 541.75,
+      "start": 535.992,
+      "end": 540.232,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -2081,8 +2045,8 @@
     },
     {
       "i": 101,
-      "start": 542.1,
-      "end": 549.036,
+      "start": 540.582,
+      "end": 547.518,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -2103,8 +2067,8 @@
     },
     {
       "i": 102,
-      "start": 549.386,
-      "end": 553.17,
+      "start": 547.868,
+      "end": 551.652,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -2125,8 +2089,8 @@
     },
     {
       "i": 103,
-      "start": 553.519,
-      "end": 558.703,
+      "start": 552.002,
+      "end": 557.186,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -2147,8 +2111,8 @@
     },
     {
       "i": 104,
-      "start": 559.053,
-      "end": 562.693,
+      "start": 557.535,
+      "end": 561.175,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -2169,8 +2133,8 @@
     },
     {
       "i": 105,
-      "start": 563.043,
-      "end": 569.699,
+      "start": 561.525,
+      "end": 568.181,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -2187,8 +2151,8 @@
     },
     {
       "i": 106,
-      "start": 570.049,
-      "end": 576.876,
+      "start": 568.531,
+      "end": 575.359,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -2217,8 +2181,8 @@
     },
     {
       "i": 107,
-      "start": 577.226,
-      "end": 585.938,
+      "start": 575.708,
+      "end": 584.42,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -2243,8 +2207,8 @@
     },
     {
       "i": 108,
-      "start": 586.288,
-      "end": 594.883,
+      "start": 584.77,
+      "end": 593.366,
       "speaker": "A",
       "scene": "grammar",
       "scene_meta": {},
@@ -2273,8 +2237,8 @@
     },
     {
       "i": 109,
-      "start": 595.233,
-      "end": 601.329,
+      "start": 593.716,
+      "end": 599.812,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2295,8 +2259,8 @@
     },
     {
       "i": 110,
-      "start": 601.679,
-      "end": 606.119,
+      "start": 600.161,
+      "end": 604.601,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2309,8 +2273,8 @@
     },
     {
       "i": 111,
-      "start": 606.469,
-      "end": 609.589,
+      "start": 604.951,
+      "end": 608.071,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2323,8 +2287,8 @@
     },
     {
       "i": 112,
-      "start": 609.939,
-      "end": 617.339,
+      "start": 608.421,
+      "end": 615.821,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2337,8 +2301,8 @@
     },
     {
       "i": 113,
-      "start": 617.689,
-      "end": 621.969,
+      "start": 616.171,
+      "end": 620.451,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2351,8 +2315,8 @@
     },
     {
       "i": 114,
-      "start": 622.319,
-      "end": 627.527,
+      "start": 620.801,
+      "end": 626.009,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2373,8 +2337,8 @@
     },
     {
       "i": 115,
-      "start": 627.876,
-      "end": 634.952,
+      "start": 626.359,
+      "end": 633.435,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2395,8 +2359,8 @@
     },
     {
       "i": 116,
-      "start": 635.302,
-      "end": 640.894,
+      "start": 633.785,
+      "end": 639.376,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2417,8 +2381,8 @@
     },
     {
       "i": 117,
-      "start": 641.244,
-      "end": 647.244,
+      "start": 639.726,
+      "end": 645.726,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2439,8 +2403,8 @@
     },
     {
       "i": 118,
-      "start": 647.594,
-      "end": 653.138,
+      "start": 646.076,
+      "end": 651.62,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2461,8 +2425,8 @@
     },
     {
       "i": 119,
-      "start": 653.488,
-      "end": 669.583,
+      "start": 651.97,
+      "end": 668.065,
       "speaker": "A",
       "scene": "you_too",
       "scene_meta": {},
@@ -2515,8 +2479,8 @@
     },
     {
       "i": 120,
-      "start": 669.933,
-      "end": 677.253,
+      "start": 668.415,
+      "end": 675.735,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
@@ -2529,22 +2493,22 @@
     },
     {
       "i": 121,
-      "start": 677.603,
-      "end": 696.523,
+      "start": 676.085,
+      "end": 694.965,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
       "segments": [
         {
           "lang": "zh",
-          "text": "跟读时先抓中文喜剧线：Rex 在 gate 外 barking，因为想进 garden；丈夫训练它用 paw 按 latch，让它 let himself in；Rex 成了 expert，却又在 garden 里 barking，想让 someone let him out；后来它把这个动作玩成了新的 bad habit。"
+          "text": "跟读时先抓中文喜剧线：Rex 在门外叫，因为想进花园；丈夫训练它用 paw 按 latch，让它自己进来；Rex 成了开门 expert，却又在花园里叫，想让别人放它出去；后来它把这个动作玩成了新的 bad habit。"
         }
       ]
     },
     {
       "i": 122,
-      "start": 696.873,
-      "end": 716.76,
+      "start": 695.315,
+      "end": 715.203,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
@@ -2605,8 +2569,8 @@
     },
     {
       "i": 123,
-      "start": 717.11,
-      "end": 731.566,
+      "start": 715.552,
+      "end": 730.008,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
@@ -2627,8 +2591,8 @@
     },
     {
       "i": 124,
-      "start": 731.916,
-      "end": 741.236,
+      "start": 730.358,
+      "end": 739.678,
       "speaker": "A",
       "scene": "outro",
       "scene_meta": {},
