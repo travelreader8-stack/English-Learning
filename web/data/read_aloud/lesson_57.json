@@ -1,0 +1,111 @@
+{
+  "lesson_id": 57,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按中文讽刺线记忆：穿 jeans 站在高档店橱窗前，犹豫后进店要看 dress，被 assistant 轻蔑拒绝，生气离开；第二天同一个人换正式 coat 回来，assistant 没认出她，态度从 scornfully 变成 eager，最后她才买下最开始要看的那条。读的时候注意外表判断、态度对比和几个句首短语的停顿。",
+  "sentences": [
+    {
+      "id": "l57_s1",
+      "text": "A woman in jeans stood at the window of an expensive shop.",
+      "focus_zh": "中文锚点：一位穿 jeans 的女人站在高档商店橱窗前。A woman in jeans 连起来读，at the window 是 shop window 的位置。",
+      "start": 442.872,
+      "end": 446.928,
+      "focus_words": [
+        "A woman in jeans",
+        "stood at the window",
+        "an expensive shop"
+      ]
+    },
+    {
+      "id": "l57_s2",
+      "text": "Though she hesitated for a moment, she finally went in and asked to see a dress that was in the window.",
+      "focus_zh": "中文锚点：她犹豫了一会儿，但最后还是进去要看橱窗里的 dress。Though she hesitated 后短停，finally went in 推动动作。",
+      "start": 447.277,
+      "end": 453.013,
+      "focus_words": [
+        "Though she hesitated",
+        "for a moment",
+        "finally went in",
+        "asked to see a dress"
+      ]
+    },
+    {
+      "id": "l57_s3",
+      "text": "Glancing at her scornfully, he told her that the dress was sold.",
+      "focus_zh": "中文锚点：他轻蔑地看了她一眼，说那件 dress 已经卖了。Glancing at her scornfully 是态度重点，the dress was sold 读成冷淡的结果。",
+      "start": 457.865,
+      "end": 462.113,
+      "focus_words": [
+        "Glancing at her",
+        "scornfully",
+        "the dress was sold"
+      ]
+    },
+    {
+      "id": "l57_s4",
+      "text": "The woman walked out of the shop angrily and decided to punish the assistant next day.",
+      "focus_zh": "中文锚点：女人生气地走出商店，决定第二天教训这个 assistant。walked out angrily 读出生气，decided to punish 是故事里的喜剧教训。",
+      "start": 462.463,
+      "end": 467.647,
+      "focus_words": [
+        "walked out",
+        "angrily",
+        "decided to punish",
+        "next day"
+      ]
+    },
+    {
+      "id": "l57_s5",
+      "text": "She returned to the shop the following morning dressed in a fur coat, with a handbag in one hand and a long umbrella in the other.",
+      "focus_zh": "中文锚点：第二天上午她穿着正式贵气的 coat 回来，一手拿 handbag，另一手拿 long umbrella。长句按 returned / dressed in / with 分组。",
+      "start": 467.997,
+      "end": 475.341,
+      "focus_words": [
+        "returned to the shop",
+        "the following morning",
+        "dressed in a fur coat",
+        "a handbag",
+        "a long umbrella"
+      ]
+    },
+    {
+      "id": "l57_s6",
+      "text": "Not realizing who she was, the assistant was eager to serve her this time.",
+      "focus_zh": "中文锚点：assistant 没认出她，这一次非常殷勤地接待她。Not realizing who she was 后短停，eager to serve 读出和 scornfully 的对比。",
+      "start": 480.385,
+      "end": 485.401,
+      "focus_words": [
+        "Not realizing who she was",
+        "the assistant",
+        "eager to serve",
+        "this time"
+      ]
+    },
+    {
+      "id": "l57_s7",
+      "text": "With great difficulty, he climbed into the shop window to get the dress.",
+      "focus_zh": "中文锚点：他费了好大劲儿爬进橱窗去拿那条 dress。With great difficulty 要先读出费劲感，climbed into the shop window 是画面动作。",
+      "start": 485.751,
+      "end": 490.407,
+      "focus_words": [
+        "With great difficulty",
+        "climbed into",
+        "the shop window",
+        "to get the dress"
+      ]
+    },
+    {
+      "id": "l57_s8",
+      "text": "She enjoyed herself making the assistant bring almost everything in the window before finally buying the dress she had first asked for.",
+      "focus_zh": "中文锚点：她让 assistant 几乎把橱窗里的东西都拿出来，最后才买下最开始想看的那条 dress。长句按 enjoyed herself / making the assistant bring / before finally buying 分组。",
+      "start": 495.066,
+      "end": 502.338,
+      "focus_words": [
+        "enjoyed herself",
+        "making the assistant bring",
+        "almost everything",
+        "before finally buying",
+        "first asked for"
+      ]
+    }
+  ]
+}

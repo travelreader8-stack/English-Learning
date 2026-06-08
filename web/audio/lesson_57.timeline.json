@@ -1,0 +1,2338 @@
+{
+  "total_duration": 844.132,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 4.88,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "有时候，一个人还没开口，别人就先看她穿什么。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 5.23,
+      "end": 13.302,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这篇课文里的 woman 第一天穿"
+        },
+        {
+          "lang": "en",
+          "text": "jeans"
+        },
+        {
+          "lang": "zh",
+          "text": "去一家"
+        },
+        {
+          "lang": "en",
+          "text": "expensive shop"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 13.652,
+      "end": 17.852,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "售货员看不起她，觉得她不像会买贵衣服的人。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 18.201,
+      "end": 23.801,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二天，她换了一身看起来很正式、很贵的衣服，待遇马上变了。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 24.151,
+      "end": 30.047,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天先抓住一个问题："
+        },
+        {
+          "lang": "en",
+          "text": "same person, different clothes, different treatment"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 30.397,
+      "end": 33.717,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一段，先看她为什么站在橱窗前。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 34.067,
+      "end": 45.587,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：一位穿 jeans 的 woman 站在一家 expensive shop 的橱窗前；她犹豫了一会儿，最后走进去，想看橱窗里的那件 dress。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 45.937,
+      "end": 51.113,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "开头说："
+        },
+        {
+          "lang": "en",
+          "text": "A woman in jeans stood at the window of an expensive shop"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 51.463,
+      "end": 59.494,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "window"
+        },
+        {
+          "lang": "zh",
+          "text": "是 shop window，商店橱窗，不是家里的普通窗户。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 59.844,
+      "end": 65.668,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她不是马上冲进去，而是："
+        },
+        {
+          "lang": "en",
+          "text": "Though she hesitated for a moment"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 66.018,
+      "end": 73.898,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Hesitated"
+        },
+        {
+          "lang": "zh",
+          "text": "说明她有一点犹豫：这家店很贵，她不确定自己会不会被认真接待。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 74.248,
+      "end": 80.632,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但她最后还是进去了："
+        },
+        {
+          "lang": "en",
+          "text": "she finally went in and asked to see a dress that was in the window"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 80.982,
+      "end": 89.702,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧先记中文：穿 jeans 的女人站在高档店橱窗前，犹豫一下，还是进店要看那条 dress。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 90.052,
+      "end": 94.572,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二段，冲突来了：售货员先看衣服，再决定态度。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 94.921,
+      "end": 106.401,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：接待她的 assistant 不喜欢她的打扮；他轻蔑地看她一眼，说那件 dress 已经卖了；女人生气离开，决定第二天教训他一下。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 106.751,
+      "end": 111.723,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The assistant who served her did not like the way she was dressed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 112.073,
+      "end": 120.745,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The way she was dressed"
+        },
+        {
+          "lang": "zh",
+          "text": "就是她的穿着打扮；问题不在她这个人，而在 assistant 对外表的判断。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 121.095,
+      "end": 125.319,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最关键的动作是："
+        },
+        {
+          "lang": "en",
+          "text": "Glancing at her scornfully"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 125.669,
+      "end": 131.669,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Scornfully"
+        },
+        {
+          "lang": "zh",
+          "text": "是看不起人的样子，不是普通地看一眼。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 132.018,
+      "end": 137.85,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他告诉她："
+        },
+        {
+          "lang": "en",
+          "text": "the dress was sold"
+        },
+        {
+          "lang": "zh",
+          "text": "，听起来像事实，其实带着轻慢。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 138.2,
+      "end": 145.256,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她的反应是："
+        },
+        {
+          "lang": "en",
+          "text": "The woman walked out of the shop angrily and decided to punish the assistant next day"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 145.606,
+      "end": 153.926,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "punish"
+        },
+        {
+          "lang": "zh",
+          "text": "是故事里的喜剧教训，不是鼓励现实里对服务人员发脾气。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 154.276,
+      "end": 162.356,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧记住：assistant judged by clothes，轻蔑地说 sold，woman angrily leaves。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 162.706,
+      "end": 166.546,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三段，第二天同一个人换了样子回来。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 166.895,
+      "end": 180.015,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：第二天上午，她穿着 fur coat 回到店里，一只手拿 handbag，另一只手拿 long umbrella；她找到那个 rude assistant，又要看同一条 dress。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 180.365,
+      "end": 185.697,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "She returned to the shop the following morning dressed in a fur coat"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 186.047,
+      "end": 197.939,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在这篇旧课文里，"
+        },
+        {
+          "lang": "en",
+          "text": "fur coat"
+        },
+        {
+          "lang": "zh",
+          "text": "表示 formal and expensive-looking clothes。今天我们不需要推崇真皮草，只要理解它在故事里的信号。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 198.289,
+      "end": 203.489,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她还拿着："
+        },
+        {
+          "lang": "en",
+          "text": "a handbag in one hand and a long umbrella in the other"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 203.839,
+      "end": 207.599,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些细节让 assistant 觉得她像“有钱顾客”。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 207.948,
+      "end": 215.012,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着她主动找到同一个人："
+        },
+        {
+          "lang": "en",
+          "text": "After seeking out the rude assistant, she asked for the same dress"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 215.362,
+      "end": 224.354,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The same dress"
+        },
+        {
+          "lang": "zh",
+          "text": "很重要：人没变，店没变，dress 也没变，变的只是外表和 assistant 的态度。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 224.704,
+      "end": 232.944,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧先记中文：同一个 woman，换正式衣服回来，找到同一个 rude assistant，再要同一条 dress。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 233.294,
+      "end": 236.454,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四段，看讽刺怎样收住。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 236.804,
+      "end": 252.324,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：assistant 没认出她，这一次非常殷勤；他费劲爬进橱窗拿 dress；女人一看就说不喜欢；她让他几乎把橱窗里所有东西都拿出来，最后才买下最开始要看的那条 dress。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 252.674,
+      "end": 258.726,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Not realizing who she was, the assistant was eager to serve her this time"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 259.075,
+      "end": 267.291,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Not realizing who she was"
+        },
+        {
+          "lang": "zh",
+          "text": "是关键：他不知道这是昨天被他看不起的同一个人。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 267.641,
+      "end": 275.641,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "态度对比也很清楚：昨天"
+        },
+        {
+          "lang": "en",
+          "text": "scornfully"
+        },
+        {
+          "lang": "zh",
+          "text": "，今天"
+        },
+        {
+          "lang": "en",
+          "text": "eager to serve"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 275.991,
+      "end": 282.463,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他为了拿那条裙子："
+        },
+        {
+          "lang": "en",
+          "text": "With great difficulty, he climbed into the shop window to get the dress"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 282.813,
+      "end": 288.773,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "With great difficulty"
+        },
+        {
+          "lang": "zh",
+          "text": "说明动作很费劲，喜剧感也在这里。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 289.122,
+      "end": 292.914,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但她一看到就说："
+        },
+        {
+          "lang": "en",
+          "text": "she did not like it"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 293.264,
+      "end": 303.124,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一句是故事的反讽："
+        },
+        {
+          "lang": "en",
+          "text": "She enjoyed herself making the assistant bring almost everything in the window before finally buying the dress she had first asked for"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 303.474,
+      "end": 312.434,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意，重点不是“穿贵衣服就值得尊重”，而是：同一个人只因为衣着不同，就被完全区别对待。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 312.784,
+      "end": 322.584,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧记住：not realizing who she was，eager to serve，climbed with difficulty，finally bought the first dress。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 322.934,
+      "end": 330.652,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，题目"
+        },
+        {
+          "lang": "en",
+          "text": "Can I help you, madam?"
+        },
+        {
+          "lang": "zh",
+          "text": "听起来很礼貌，为什么这课还是讽刺呢？"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 331.002,
+      "end": 342.21,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为真正的尊重不是一句礼貌用语。第一天 assistant 没说难听的话，但他"
+        },
+        {
+          "lang": "en",
+          "text": "glanced at her scornfully"
+        },
+        {
+          "lang": "zh",
+          "text": "，心里已经把人分了等级。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 342.56,
+      "end": 347.613,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那第二天他说"
+        },
+        {
+          "lang": "en",
+          "text": "madam"
+        },
+        {
+          "lang": "zh",
+          "text": "，是不是就变好了？"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 347.963,
+      "end": 358.263,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不一定。"
+        },
+        {
+          "lang": "en",
+          "text": "Madam"
+        },
+        {
+          "lang": "zh",
+          "text": "是 polite address，听起来客气；可是如果他只对穿贵衣服的人客气，那不是稳定的 respect。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 358.613,
+      "end": 361.002,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这课不是说 jeans 不好？"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 361.352,
+      "end": 370.512,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。今天 jeans 很普通，也可以很时髦。故事里的 jeans 只是让她不像 assistant 想象中的 rich customer。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 370.862,
+      "end": 376.61,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "fur coat"
+        },
+        {
+          "lang": "zh",
+          "text": "呢？是不是穿贵一点就会被尊重？"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 376.96,
+      "end": 386.4,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "也不是。这件 coat 在故事里像一面镜子，让我们看见 assistant 的 snobbish attitude。人的价值不应该靠衣服决定。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 386.75,
+      "end": 392.743,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Scornfully"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "eager"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么要一起记？"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 393.093,
+      "end": 401.773,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为它们是情绪对比。昨天是 looking down on her，今天是 almost too ready to help。对比越强，讽刺越明显。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 402.123,
+      "end": 406.006,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "女人最后让他拿很多东西，是不是很过分？"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 406.355,
+      "end": 416.715,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在故事里，这是 comic irony，她在教那个 rude assistant 一课。但现实里我们不需要学会“报复”，我们要学会别按外表判断人。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 417.065,
+      "end": 419.432,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "背课文的时候先背什么？"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 419.782,
+      "end": 442.522,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先背中文骨架：jeans 站橱窗前 -> 犹豫后进店 -> 要看 dress -> assistant 看不起她 -> scornfully 说 sold -> 她生气离开 -> 第二天穿正式 coat 回来 -> assistant 没认出她 -> eager to serve -> 费劲爬橱窗拿 dress -> 她说不喜欢 -> 最后才买最开始那条。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 442.872,
+      "end": 446.928,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A woman in jeans stood at the window of an expensive shop."
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 447.277,
+      "end": 453.013,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Though she hesitated for a moment, she finally went in and asked to see a dress that was in the window."
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 453.363,
+      "end": 457.515,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The assistant who served her did not like the way she was dressed."
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 457.865,
+      "end": 462.113,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Glancing at her scornfully, he told her that the dress was sold."
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 462.463,
+      "end": 467.647,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The woman walked out of the shop angrily and decided to punish the assistant next day."
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 467.997,
+      "end": 475.341,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She returned to the shop the following morning dressed in a fur coat, with a handbag in one hand and a long umbrella in the other."
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 475.691,
+      "end": 480.035,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "After seeking out the rude assistant, she asked for the same dress."
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 480.385,
+      "end": 485.401,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Not realizing who she was, the assistant was eager to serve her this time."
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 485.751,
+      "end": 490.407,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "With great difficulty, he climbed into the shop window to get the dress."
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 490.756,
+      "end": 494.716,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As soon as she saw it, the woman said she did not like it."
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 495.066,
+      "end": 502.338,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She enjoyed herself making the assistant bring almost everything in the window before finally buying the dress she had first asked for."
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 502.688,
+      "end": 505.688,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "scornfully"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "scornfully"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 506.038,
+      "end": 507.934,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "scornfully"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Scornfully"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 508.284,
+      "end": 513.324,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "scornfully"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Scornfully"
+        },
+        {
+          "lang": "zh",
+          "text": "的意思是轻蔑地、看不起人地。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 513.674,
+      "end": 519.006,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "scornfully"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Glancing at her scornfully, he told her that the dress was sold"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 519.355,
+      "end": 524.155,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "scornfully"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的重点不是 glance 这个动作有多大，而是这个眼神里的态度。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 524.505,
+      "end": 529.425,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "scornfully"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它让我们知道：assistant 的问题是 judging by appearance。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 529.775,
+      "end": 532.359,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "eager"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "eager"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 532.709,
+      "end": 534.293,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "eager"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Eager"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 534.643,
+      "end": 539.587,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "eager"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Eager"
+        },
+        {
+          "lang": "zh",
+          "text": "是急切的、热切的，很想马上去做。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 539.937,
+      "end": 544.165,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "eager"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "the assistant was eager to serve her this time"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 544.514,
+      "end": 551.874,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "eager"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "把它和"
+        },
+        {
+          "lang": "en",
+          "text": "scornfully"
+        },
+        {
+          "lang": "zh",
+          "text": "放在一起记：昨天看不起，今天特别殷勤。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 552.224,
+      "end": 554.804,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "eager"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个对比就是故事的讽刺核心。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 555.154,
+      "end": 557.954,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "madam"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "madam"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 558.304,
+      "end": 559.96,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "madam"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Madam"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 560.31,
+      "end": 566.35,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "madam"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Madam"
+        },
+        {
+          "lang": "zh",
+          "text": "是对女士的礼貌称呼，像中文里的“夫人”或“女士”。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 566.7,
+      "end": 572.18,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "madam"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但这课要我们看清楚：polite words are not always real respect。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 572.529,
+      "end": 579.049,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "madam"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果一个人只对看起来有钱的人说"
+        },
+        {
+          "lang": "en",
+          "text": "madam"
+        },
+        {
+          "lang": "zh",
+          "text": "，那份礼貌就很浅。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 579.399,
+      "end": 583.799,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "madam"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以标题听起来客气，故事读起来却有一点讽刺。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 584.149,
+      "end": 588.149,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法板块叫：怎样把“态度变化”写出来。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 588.499,
+      "end": 594.763,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块是让步从句："
+        },
+        {
+          "lang": "en",
+          "text": "Though she hesitated for a moment, she finally went in"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 595.113,
+      "end": 604.816,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Though"
+        },
+        {
+          "lang": "zh",
+          "text": "先承认她犹豫了，再用"
+        },
+        {
+          "lang": "en",
+          "text": "finally"
+        },
+        {
+          "lang": "zh",
+          "text": "推动动作：虽然犹豫，最后还是进去了。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 605.166,
+      "end": 613.154,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块是定语从句："
+        },
+        {
+          "lang": "en",
+          "text": "a dress that was in the window"
+        },
+        {
+          "lang": "zh",
+          "text": "，和"
+        },
+        {
+          "lang": "en",
+          "text": "The assistant who served her"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 613.504,
+      "end": 621.688,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "That was in the window"
+        },
+        {
+          "lang": "zh",
+          "text": "指明是哪条 dress；"
+        },
+        {
+          "lang": "en",
+          "text": "who served her"
+        },
+        {
+          "lang": "zh",
+          "text": "指明是哪位 assistant。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 622.038,
+      "end": 632.741,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块是现在分词开头："
+        },
+        {
+          "lang": "en",
+          "text": "Glancing at her scornfully"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思是一边轻蔑地看她，一边告诉她 dress was sold。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 633.091,
+      "end": 638.607,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后面还有一个关键分词短语："
+        },
+        {
+          "lang": "en",
+          "text": "Not realizing who she was"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 638.957,
+      "end": 645.597,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它说明原因：因为没认出她，assistant 才会"
+        },
+        {
+          "lang": "en",
+          "text": "eager to serve her this time"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 645.947,
+      "end": 652.483,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四块是伴随短语："
+        },
+        {
+          "lang": "en",
+          "text": "with a handbag in one hand and a long umbrella in the other"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 652.833,
+      "end": 657.633,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个结构可以把人物的样子画出来：一只手拿什么，另一只手拿什么。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 657.982,
+      "end": 662.382,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第五块是方式短语："
+        },
+        {
+          "lang": "en",
+          "text": "With great difficulty"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 662.732,
+      "end": 667.412,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它放在句首，告诉我们 climbing into the shop window 这件事很费劲。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 667.762,
+      "end": 673.962,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第六块是时间连接："
+        },
+        {
+          "lang": "en",
+          "text": "As soon as she saw it"
+        },
+        {
+          "lang": "zh",
+          "text": "，一看到就怎样。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 674.312,
+      "end": 680.536,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后看长结尾："
+        },
+        {
+          "lang": "en",
+          "text": "before finally buying the dress she had first asked for"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 680.886,
+      "end": 691.469,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Before finally buying"
+        },
+        {
+          "lang": "zh",
+          "text": "把“绕了一大圈后才买”写出来；"
+        },
+        {
+          "lang": "en",
+          "text": "she had first asked for"
+        },
+        {
+          "lang": "zh",
+          "text": "指回最开始想看的那条 dress。"
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 691.819,
+      "end": 699.155,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把今天的 appearance judgment 放进一个更安全的校园场景："
+        },
+        {
+          "lang": "en",
+          "text": "The Science Club Desk"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "start": 699.505,
+      "end": 707.105,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "一个女孩穿着 sports clothes、背着 simple backpack，站在 science club 的 display window 前。"
+        }
+      ]
+    },
+    {
+      "i": 103,
+      "start": 707.455,
+      "end": 713.575,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她想看一个 robot model，但值日同学先看她的穿着，觉得她不像正式参赛者。"
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "start": 713.925,
+      "end": 719.045,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个场景不是让你报复别人，而是练一句话：不要只凭外表判断人。"
+        }
+      ]
+    },
+    {
+      "i": 105,
+      "start": 719.395,
+      "end": 725.867,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先说她的样子和位置："
+        },
+        {
+          "lang": "en",
+          "text": "A girl in sports clothes stood at the window of the science club room"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "start": 726.216,
+      "end": 733.04,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再说她犹豫后开口："
+        },
+        {
+          "lang": "en",
+          "text": "Though she hesitated for a moment, she finally went in"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 107,
+      "start": 733.39,
+      "end": 738.798,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "冲突用今天的句型："
+        },
+        {
+          "lang": "en",
+          "text": "The helper did not like the way she was dressed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 108,
+      "start": 739.148,
+      "end": 748.828,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二天她穿 school uniform、拿 project folder 回来："
+        },
+        {
+          "lang": "en",
+          "text": "Not realizing who she was, the helper was eager to help her this time"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 109,
+      "start": 749.178,
+      "end": 753.978,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后要礼貌收住："
+        },
+        {
+          "lang": "en",
+          "text": "Respect should not depend on clothes"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 110,
+      "start": 754.328,
+      "end": 768.807,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，你要用 word bank 补完整 5 个空，练"
+        },
+        {
+          "lang": "en",
+          "text": "hesitated"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "the way she was dressed"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "not realizing who she was"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "eager to help"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 111,
+      "start": 769.157,
+      "end": 776.477,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 112,
+      "start": 776.827,
+      "end": 799.587,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓中文讽刺线：jeans 站橱窗前 -> 犹豫后进店 -> 要看 dress -> assistant 看不起她 -> scornfully 说 sold -> 女人生气离开 -> 第二天穿正式 coat 回来 -> assistant 没认出她 -> eager to serve -> 费劲爬橱窗拿 dress -> 她说不喜欢 -> 最后才买最开始那条。"
+        }
+      ]
+    },
+    {
+      "i": 113,
+      "start": 799.937,
+      "end": 820.024,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再把英文短语块读顺："
+        },
+        {
+          "lang": "en",
+          "text": "stood at the window"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "hesitated for a moment"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "the way she was dressed"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "Glancing at her scornfully"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "Not realizing who she was"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "With great difficulty"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "before finally buying"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 114,
+      "start": 820.374,
+      "end": 833.35,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，用 school-club scene 练"
+        },
+        {
+          "lang": "en",
+          "text": "not judging by clothes"
+        },
+        {
+          "lang": "zh",
+          "text": "；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 115,
+      "start": 833.7,
+      "end": 844.132,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "Same person, different clothes, different treatment does not make different worth."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 57
+}

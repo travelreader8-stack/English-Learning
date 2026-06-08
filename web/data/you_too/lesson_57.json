@@ -1,0 +1,53 @@
+{
+  "lesson_id": 57,
+  "title": "The Science Club Desk",
+  "question": "把今天的“不要只凭外表判断人”放进校园社团展示场景：用 word bank 补完整 5 个空。",
+  "example_answer": "A girl in sports clothes stood at the window of the science club room. Though she hesitated for a moment, she finally went in and asked to see a robot model. The helper did not like the way she was dressed. The next morning she returned in her school uniform with a project folder. Not realizing who she was, the helper was eager to help her this time. She politely reminded him that respect should not depend on clothes.",
+  "word_bank": [
+    "sports clothes",
+    "stood at the window",
+    "hesitated for a moment",
+    "asked to see",
+    "robot model",
+    "the way she was dressed",
+    "school uniform",
+    "project folder",
+    "Not realizing who she was",
+    "eager to help",
+    "this time",
+    "depend on clothes"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说一个女孩穿着运动服站在科学社团教室的展示窗前",
+      "english_template": "A girl in ___ stood at the window of the science club room.",
+      "expected_phrase": "sports clothes"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说她犹豫了一会儿，最后进去想看一个机器人模型",
+      "english_template": "Though she ___, she finally went in and asked to see a robot model.",
+      "expected_phrase": "hesitated for a moment"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说值日同学不喜欢她的穿着打扮",
+      "english_template": "The helper did not like ___.",
+      "expected_phrase": "the way she was dressed"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说值日同学没有认出她是谁",
+      "english_template": "___, the helper was eager to help her this time.",
+      "expected_phrase": "Not realizing who she was"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "说尊重不应该取决于衣服",
+      "english_template": "Respect should not ___.",
+      "expected_phrase": "depend on clothes"
+    }
+  ],
+  "mode": "all_fills"
+}
