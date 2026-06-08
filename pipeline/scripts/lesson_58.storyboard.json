@@ -1,0 +1,23 @@
+{
+  "lesson_id": 58,
+  "title": "A blessing in disguise?",
+  "visual_consistency": "Warm realistic child-friendly watercolor storybook style in the same tiny English village of Frinley. Keep the same small stone church, stone cottages, narrow road, and large old tree near the church in every frame. The tree has a thick twisting trunk, broad uneven branches, dark green leaves, and a mildly mysterious but healthy non-horror look. When visible, use the same middle-aged vicar with short grey hair, black clerical clothing, simple white collar, kind practical expression, and calm posture. Villagers look worried or doubtful; tourists wear modern casual clothing with cameras or phones. Mild village satire, no horror, no readable text, no labels, no captions, no speech bubbles, no UI panels.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Frame 1 of a continuous four-shot village satire story: establish the tiny English village of Frinley with the same small stone church, same stone cottages, and the same large old tree standing near the church. The tree has a thick twisting trunk, broad uneven branches, dark green leaves, and a slightly mysterious but healthy non-horror appearance. A few villagers keep a cautious distance and look at the tree with worried curiosity, showing that it has a strange reputation, but nobody is terrified. This frame sets up the same village, same church, same road, and same recognizable tree that must continue in later frames. Warm realistic child-friendly watercolor storybook style, mild mystery and satire, no ghosts, no monsters, no graves, no deaths, no readable signs, no notices, no labels, no captions, no speech bubbles, no UI panels, no fake writing, no empty text boxes."
+    },
+    {
+      "frame": 2,
+      "prompt": "Frame 2 of the same continuous story after frame 1: keep the same small stone church, same cottages, same village road, and the same large twisting tree in exactly the same place. The village is now busier because outside attention has arrived: tourists in modern casual clothes walk toward the tree with cameras or phones, while one villager holds a folded newspaper with no readable text at all. The tree and church remain clearly recognizable from frame 1, but the increased visitor flow shows that publicity has changed the village. Warm realistic child-friendly watercolor storybook style, curious tourist atmosphere, no readable newspaper headlines, no letters, no numbers, no signs, no maps, no labels, no captions, no speech bubbles, no UI panels, no fake writing, no empty text boxes."
+    },
+    {
+      "frame": 3,
+      "prompt": "Frame 3 of the same continuous story after frame 2: near the same old tree and small stone church, worried villagers talk with the same calm middle-aged vicar in black clerical clothing and white collar. The villagers gesture toward the tree as if asking what to do. The vicar gestures gently toward tourists in the background who are still coming to see the tree, making the income debate visible. Keep the mood practical and mildly ironic, not frightening. No cutting action, no written papers, no readable text, no labels, no captions, no speech bubbles."
+    },
+    {
+      "frame": 4,
+      "prompt": "Frame 4 of the same continuous story as the ironic payoff: keep the same old tree beside the same small stone church in Frinley. Tourists gather around the tree; one tourist picks a leaf, and another holds a small tool near the trunk, but there are no readable carvings or marks. The same vicar and villagers watch with concern and disbelief. Nobody collapses; nothing supernatural happens. The mood is lightly comic and uneasy, showing warning versus evidence without praising the tourists. No readable text, no labels, no captions, no speech bubbles, no horror imagery."
+    }
+  ]
+}

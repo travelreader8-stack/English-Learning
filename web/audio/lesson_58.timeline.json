@@ -1,0 +1,2230 @@
+{
+  "total_duration": 755.323,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 5.536,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果一个地方有一棵"
+        },
+        {
+          "lang": "en",
+          "text": "cursed tree"
+        },
+        {
+          "lang": "zh",
+          "text": "，听起来像 bad luck。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 5.886,
+      "end": 9.446,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是有时候，坏名声反而会吸引人来围观。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 9.796,
+      "end": 14.296,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这就像中文说的：塞翁失马，焉知非福。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 14.645,
+      "end": 19.045,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Frinley 的这棵树被报纸提到以后，游客反而越来越多。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 19.395,
+      "end": 27.427,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天先抓住一个问题："
+        },
+        {
+          "lang": "en",
+          "text": "bad reputation"
+        },
+        {
+          "lang": "zh",
+          "text": "怎么会变成"
+        },
+        {
+          "lang": "en",
+          "text": "a useful source of income"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 27.777,
+      "end": 30.697,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一段，先看小村和怪树。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 31.047,
+      "end": 39.727,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：Frinley 这个 tiny village 据说有一棵 cursed tree；这棵树在 church 附近，近几年有了坏名声。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 40.077,
+      "end": 45.597,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文开头说："
+        },
+        {
+          "lang": "en",
+          "text": "The tiny village of Frinley is said to possess a 'cursed tree'"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 45.946,
+      "end": 54.026,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Is said to possess"
+        },
+        {
+          "lang": "zh",
+          "text": "的意思是“据说拥有”，注意它只是人们这么说，不等于已经证明。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 54.376,
+      "end": 60.336,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这棵树不是新冒出来的："
+        },
+        {
+          "lang": "en",
+          "text": "The tree was planted near the church fifty years ago"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 60.686,
+      "end": 68.174,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Church"
+        },
+        {
+          "lang": "zh",
+          "text": "是教堂；在英国小村里，教堂常常也是大家熟悉的公共地标。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 68.524,
+      "end": 75.884,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可真正的坏名声是后来才出现的："
+        },
+        {
+          "lang": "en",
+          "text": "only in recent years has it gained an evil reputation"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 76.234,
+      "end": 83.914,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧记住中文反差：树在 church 附近已经很久，但 cursed reputation 是近几年才变响的。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 84.264,
+      "end": 87.344,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二段，看坏名声怎样被传播。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 87.693,
+      "end": 95.453,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：报纸提到了这棵树，来 Frinley 的游客数量就增加了；关于这棵树的说法也越来越夸张。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 95.803,
+      "end": 102.983,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Because the tree was mentioned in a newspaper, the number of visitors to Frinley has now increased"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 103.333,
+      "end": 112.117,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "newspaper"
+        },
+        {
+          "lang": "zh",
+          "text": "像今天的短视频或热门帖子，会把一个小地方突然推到很多人面前。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 112.467,
+      "end": 118.491,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "传说的表达是："
+        },
+        {
+          "lang": "en",
+          "text": "It is said that if anyone touches the tree, he will have bad luck"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 118.841,
+      "end": 123.564,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后面更夸张："
+        },
+        {
+          "lang": "en",
+          "text": "if he picks a leaf, he will die"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 123.914,
+      "end": 131.33,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还要听出 reported rumor 的味道："
+        },
+        {
+          "lang": "en",
+          "text": "Many villagers believe that the tree has already claimed a number of victims"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 131.68,
+      "end": 140.164,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It is said"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "villagers believe"
+        },
+        {
+          "lang": "zh",
+          "text": "都在告诉我们：这是传闻和相信，不是画面里的证据。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 140.514,
+      "end": 146.314,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧记住：newspaper 让游客增加，rumor 让树更出名。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 146.664,
+      "end": 150.664,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三段，村民想砍树，vicar 却拒绝。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 151.014,
+      "end": 160.054,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：大家请求 vicar 让人把树砍掉；但到目前为止，他拒绝了，因为这棵树带来了游客和收入。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 160.403,
+      "end": 166.935,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The vicar has been asked to have the tree cut down, but so far he has refused"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 167.285,
+      "end": 175.061,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Vicar"
+        },
+        {
+          "lang": "zh",
+          "text": "是英国教区里的牧师，可以理解成小村教堂里的 local church leader。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 175.411,
+      "end": 182.415,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Have the tree cut down"
+        },
+        {
+          "lang": "zh",
+          "text": "不是 vicar 自己拿斧头砍树，而是安排别人把树砍掉。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 182.765,
+      "end": 188.785,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但他的理由很实际："
+        },
+        {
+          "lang": "en",
+          "text": "He has pointed out that the tree is a useful source of income"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 189.135,
+      "end": 195.598,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么是 income？因为："
+        },
+        {
+          "lang": "en",
+          "text": "tourists have been coming from all parts of the country to see it"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 195.948,
+      "end": 203.772,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里就接到标题了：一棵听起来倒霉的树，反而可能是"
+        },
+        {
+          "lang": "en",
+          "text": "a blessing in disguise"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 204.122,
+      "end": 211.682,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧记住：villagers want it cut down，vicar refuses，because tourists bring income。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 212.032,
+      "end": 214.472,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四段，看最后的讽刺。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 214.822,
+      "end": 225.502,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：尽管有这些传说，游客还是摘叶子、在树干上刻名字；到目前为止，没有一个人突然死去。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 225.852,
+      "end": 233.488,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "In spite of all that has been said, the tourists have been picking leaves and cutting their names on the tree-trunk"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 233.838,
+      "end": 240.558,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In spite of"
+        },
+        {
+          "lang": "zh",
+          "text": "是“尽管”，说明他们听过警告，却仍然这么做。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 240.907,
+      "end": 250.747,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但这里要有一个现实边界：故事里写游客这样做，是为了讽刺；现实里不能破坏树，也不能在公共地方乱刻。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 251.097,
+      "end": 258.137,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结尾一句很有反差："
+        },
+        {
+          "lang": "en",
+          "text": "So far, not one of them has been struck down by sudden death"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 258.487,
+      "end": 264.143,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "So far"
+        },
+        {
+          "lang": "zh",
+          "text": "是到目前为止；它把传说和证据分开了。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 264.493,
+      "end": 272.493,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧记住：tourists ignore the warning，their behavior is wrong，but the curse has not visibly worked。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 272.843,
+      "end": 279.719,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，题目"
+        },
+        {
+          "lang": "en",
+          "text": "A blessing in disguise?"
+        },
+        {
+          "lang": "zh",
+          "text": "是不是说这棵树其实很好？"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 280.069,
+      "end": 288.909,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是这么简单。它的意思更像“塞翁失马，焉知非福”：一件事看起来像 bad luck，后来却可能带来 good luck。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 289.259,
+      "end": 292.621,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那这棵树为什么可能是 blessing？"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 292.97,
+      "end": 303.222,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为"
+        },
+        {
+          "lang": "en",
+          "text": "bad reputation"
+        },
+        {
+          "lang": "zh",
+          "text": "变成了 attention，attention 变成了 tourism，tourism 又变成了"
+        },
+        {
+          "lang": "en",
+          "text": "income"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 303.572,
+      "end": 306.867,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是 cursed tree 听起来还是有点吓人。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 307.217,
+      "end": 317.217,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以题目后面有问号。它带来收入，但也带来迷信和不太文明的游客行为，这个 blessing 是 funny and uneasy。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 317.567,
+      "end": 320.742,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些传说是真的被证明了吗？"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 321.091,
+      "end": 330.855,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文一直用"
+        },
+        {
+          "lang": "en",
+          "text": "It is said"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "villagers believe"
+        },
+        {
+          "lang": "zh",
+          "text": "。这表示“有人这样说”，不是“我确定是真的”。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 331.205,
+      "end": 332.692,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "证据在哪里？"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 333.042,
+      "end": 339.162,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结尾的证据是："
+        },
+        {
+          "lang": "en",
+          "text": "So far, not one of them has been struck down by sudden death"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 339.512,
+      "end": 341.785,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这课不是恐怖故事？"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 342.135,
+      "end": 351.695,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。这课是 village satire。它笑的是：一个坏名声被传播以后，竟然能变成 tourist attraction。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 352.045,
+      "end": 356.029,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The tiny village of Frinley is said to possess a 'cursed tree'."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 356.379,
+      "end": 362.163,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Because the tree was mentioned in a newspaper, the number of visitors to Frinley has now increased."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 362.513,
+      "end": 369.617,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The tree was planted near the church fifty years ago, but it is only in recent years that it has gained an evil reputation."
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 369.967,
+      "end": 376.255,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It is said that if anyone touches the tree, he will have bad luck; if he picks a leaf, he will die."
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 376.605,
+      "end": 381.429,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Many villagers believe that the tree has already claimed a number of victims."
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 381.779,
+      "end": 386.867,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The vicar has been asked to have the tree cut down, but so far he has refused."
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 387.216,
+      "end": 394.464,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He has pointed out that the tree is a useful source of income, as tourists have been coming from all parts of the country to see it."
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 394.814,
+      "end": 400.982,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In spite of all that has been said, the tourists have been picking leaves and cutting their names on the tree-trunk."
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 401.332,
+      "end": 405.724,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "So far, not one of them has been struck down by sudden death!"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 406.074,
+      "end": 408.69,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cursed"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "cursed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 409.04,
+      "end": 410.6,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cursed"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Cursed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 410.95,
+      "end": 415.726,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cursed"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Cursed"
+        },
+        {
+          "lang": "zh",
+          "text": "在这篇课文里是“据说会带来坏运气的”。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 416.076,
+      "end": 423.215,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cursed"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "a 'cursed tree'"
+        },
+        {
+          "lang": "zh",
+          "text": "，引号也在提醒我们：这是一个被人这样称呼的传说。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 423.565,
+      "end": 428.725,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "cursed"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不要把它读成恐怖片；它更像一个 mysterious reputation。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 429.075,
+      "end": 432.139,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "reputation"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "reputation"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 432.489,
+      "end": 434.457,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "reputation"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Reputation"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 434.807,
+      "end": 441.151,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "reputation"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Reputation"
+        },
+        {
+          "lang": "zh",
+          "text": "是名声，也就是别人怎样谈论你或一个地方。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 441.501,
+      "end": 445.2,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "reputation"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "it has gained an evil reputation"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 445.55,
+      "end": 453.75,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "reputation"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Gained"
+        },
+        {
+          "lang": "zh",
+          "text": "说明这个名声是慢慢形成的；树很早就种下了，但坏名声是近几年才有的。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 454.1,
+      "end": 459.78,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "reputation"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课的讽刺就在这里："
+        },
+        {
+          "lang": "en",
+          "text": "bad reputation"
+        },
+        {
+          "lang": "zh",
+          "text": "can bring attention。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 460.13,
+      "end": 463.002,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "income"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "income"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 463.352,
+      "end": 465.008,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "income"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Income"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 465.358,
+      "end": 469.109,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "income"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Income"
+        },
+        {
+          "lang": "zh",
+          "text": "是收入，收到的钱。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 469.459,
+      "end": 473.471,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "income"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "the tree is a useful source of income"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 473.821,
+      "end": 480.117,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "income"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Source"
+        },
+        {
+          "lang": "zh",
+          "text": "是来源；"
+        },
+        {
+          "lang": "en",
+          "text": "source of income"
+        },
+        {
+          "lang": "zh",
+          "text": "就是收入来源。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 480.467,
+      "end": 487.427,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "income"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为游客从全国各地来看树，小村可能会有更多生意，所以 vicar 才拒绝砍树。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 487.777,
+      "end": 492.657,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法板块叫：怎样写“传闻、结果和反差”。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 493.006,
+      "end": 497.142,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块是 reported rumor："
+        },
+        {
+          "lang": "en",
+          "text": "is said to"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 497.492,
+      "end": 502.932,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "例句是："
+        },
+        {
+          "lang": "en",
+          "text": "The tiny village of Frinley is said to possess a 'cursed tree'"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 503.282,
+      "end": 505.562,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它表示“据说”，不是“已经证明”。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 505.912,
+      "end": 509.096,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块是："
+        },
+        {
+          "lang": "en",
+          "text": "It is said that"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 509.446,
+      "end": 515.27,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "例句是："
+        },
+        {
+          "lang": "en",
+          "text": "It is said that if anyone touches the tree, he will have bad luck"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 515.62,
+      "end": 518.62,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个结构很适合引出 rumor 或 hearsay。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 518.969,
+      "end": 524.009,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块是 present perfect：过去发生的事影响到现在。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 524.359,
+      "end": 533.951,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你会看到："
+        },
+        {
+          "lang": "en",
+          "text": "has now increased"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "has gained"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "has refused"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "has pointed out"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 534.301,
+      "end": 541.661,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些都在说现在的结果：游客变多了，坏名声形成了，vicar 到现在还没同意。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 542.011,
+      "end": 547.563,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四块是 present perfect continuous："
+        },
+        {
+          "lang": "en",
+          "text": "tourists have been coming"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 547.912,
+      "end": 554.072,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个形式强调动作一直反复发生到现在，所以游客不是只来了一次。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 554.422,
+      "end": 557.822,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第五块是"
+        },
+        {
+          "lang": "en",
+          "text": "have something done"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 558.172,
+      "end": 563.796,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Have the tree cut down"
+        },
+        {
+          "lang": "zh",
+          "text": "的意思是安排别人把树砍掉。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 564.146,
+      "end": 569.41,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第六块是对比连接："
+        },
+        {
+          "lang": "en",
+          "text": "In spite of all that has been said"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 569.76,
+      "end": 575.8,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In spite of"
+        },
+        {
+          "lang": "zh",
+          "text": "表示“尽管”，后面接游客不听传说、继续行动。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 576.15,
+      "end": 587.085,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后记住"
+        },
+        {
+          "lang": "en",
+          "text": "So far"
+        },
+        {
+          "lang": "zh",
+          "text": "加 present perfect："
+        },
+        {
+          "lang": "en",
+          "text": "So far, not one of them has been struck down"
+        },
+        {
+          "lang": "zh",
+          "text": "，到目前为止还没有发生。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 587.435,
+      "end": 595.051,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把今天的 rumor and income 放进一个安全的现代场景："
+        },
+        {
+          "lang": "en",
+          "text": "The Strange Little Cafe"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 595.401,
+      "end": 601.521,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "有一家小咖啡店，门口有一把很旧的 chair，被网上说成会带来 bad luck。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 601.871,
+      "end": 608.271,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个名声听起来不好，但越来越多人来拍照打卡，咖啡店生意反而变好了。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 608.621,
+      "end": 613.933,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "店主说，这把 chair 成了"
+        },
+        {
+          "lang": "en",
+          "text": "a useful source of income"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 614.282,
+      "end": 622.89,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个练习不是让你相信迷信，而是练一条结构："
+        },
+        {
+          "lang": "en",
+          "text": "bad reputation became attention, and attention became income"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 623.24,
+      "end": 630.456,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先说据说它有一把奇怪的椅子："
+        },
+        {
+          "lang": "en",
+          "text": "The tiny cafe is said to possess a strange old chair"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 630.806,
+      "end": 638.294,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再说网络传播后的结果："
+        },
+        {
+          "lang": "en",
+          "text": "Because the chair was mentioned online, the number of visitors has increased"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 638.644,
+      "end": 645.716,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后用今天的 rumor 句型："
+        },
+        {
+          "lang": "en",
+          "text": "It is said that if anyone sits on the chair, he will have bad luck"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "start": 646.066,
+      "end": 651.93,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后用证据收住："
+        },
+        {
+          "lang": "en",
+          "text": "So far, not one of them has had bad luck"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 103,
+      "start": 652.279,
+      "end": 668.159,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，你要用 word bank 补完整 5 个空，练"
+        },
+        {
+          "lang": "en",
+          "text": "is said to possess"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "has increased"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "It is said that"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "source of income"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "So far"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "start": 668.509,
+      "end": 675.829,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 105,
+      "start": 676.179,
+      "end": 704.059,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓中文反差线：Frinley 有 cursed tree -> 报纸提到后游客增加 -> 树在 church 附近已有 50 年 -> 近几年有 evil reputation -> 据说摸了倒霉、摘叶会死 -> 村民相信它害过人 -> 大家请 vicar 砍树 -> vicar 拒绝 -> 因为树成了 income source -> 游客从全国各地来 -> 还摘叶刻名字 -> 到目前为止没人突然死。"
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "start": 704.408,
+      "end": 725.504,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再把英文短语块读顺："
+        },
+        {
+          "lang": "en",
+          "text": "is said to possess"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "the number of visitors has now increased"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "It is said that"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "have the tree cut down"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "a useful source of income"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "In spite of all that has been said"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "So far, not one of them"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 107,
+      "start": 725.854,
+      "end": 739.91,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，用 strange cafe scene 练"
+        },
+        {
+          "lang": "en",
+          "text": "a strange rumor became a source of income"
+        },
+        {
+          "lang": "zh",
+          "text": "；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 108,
+      "start": 740.26,
+      "end": 755.323,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "A blessing in disguise"
+        },
+        {
+          "lang": "zh",
+          "text": "means something that looks bad may turn out to bring something good, but the question mark asks us to think carefully."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 58
+}

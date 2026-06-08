@@ -1,0 +1,53 @@
+{
+  "lesson_id": 58,
+  "title": "The Strange Little Cafe",
+  "question": "把今天的“坏名声反而带来关注和收入”放进一个现代小咖啡店场景：用 word bank 补完整 5 个空。",
+  "example_answer": "The tiny cafe is said to possess a strange old chair. Because the chair was mentioned online, the number of visitors has increased. It is said that if anyone sits on the chair, he will have bad luck. The owner has been asked to remove the chair, but so far he has refused. He has pointed out that the chair is a useful source of income. In spite of all that has been said, tourists have been taking photos of it. So far, not one of them has had bad luck.",
+  "word_bank": [
+    "is said to possess",
+    "a strange old chair",
+    "was mentioned online",
+    "the number of visitors",
+    "has increased",
+    "It is said that",
+    "will have bad luck",
+    "so far",
+    "has refused",
+    "a useful source of income",
+    "In spite of",
+    "So far, not one"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说这家小咖啡店据说有一把奇怪的旧椅子",
+      "english_template": "The tiny cafe ___ a strange old chair.",
+      "expected_phrase": "is said to possess"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说这把椅子在网上被提到以后，游客数量增加了",
+      "english_template": "Because the chair was mentioned online, ___ has increased.",
+      "expected_phrase": "the number of visitors"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "用据说句型讲：坐这把椅子的人会倒霉",
+      "english_template": "___ if anyone sits on the chair, he will have bad luck.",
+      "expected_phrase": "It is said that"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说店主指出这把椅子是一个有用的收入来源",
+      "english_template": "The owner has pointed out that the chair is ___.",
+      "expected_phrase": "a useful source of income"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "说到目前为止，没有一个人真的倒霉",
+      "english_template": "___ of them has had bad luck.",
+      "expected_phrase": "So far, not one"
+    }
+  ],
+  "mode": "all_fills"
+}
