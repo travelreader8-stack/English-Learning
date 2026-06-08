@@ -1,0 +1,2644 @@
+{
+  "total_duration": 741.236,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 4.816,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "有时候，大人想训练宠物解决一个"
+        },
+        {
+          "lang": "en",
+          "text": "problem"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 5.166,
+      "end": 10.742,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是宠物太聪明，反而把办法玩成了新"
+        },
+        {
+          "lang": "en",
+          "text": "problem"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 11.092,
+      "end": 19.803,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Rex 原来在"
+        },
+        {
+          "lang": "en",
+          "text": "gate"
+        },
+        {
+          "lang": "zh",
+          "text": "外面"
+        },
+        {
+          "lang": "en",
+          "text": "barking"
+        },
+        {
+          "lang": "zh",
+          "text": "，因为它想进"
+        },
+        {
+          "lang": "en",
+          "text": "garden"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 20.153,
+      "end": 25.425,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "主人训练它自己开门，结果 Rex really became"
+        },
+        {
+          "lang": "en",
+          "text": "an expert"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 25.775,
+      "end": 31.583,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天先抓住这个笑点："
+        },
+        {
+          "lang": "en",
+          "text": "he learned the trick, but he used it the wrong way"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 31.933,
+      "end": 34.733,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，先看原来的吵闹问题。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 35.082,
+      "end": 46.474,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：我们家的狗 Rex 过去常坐在"
+        },
+        {
+          "lang": "en",
+          "text": "front gate"
+        },
+        {
+          "lang": "zh",
+          "text": "外面叫；每次想进"
+        },
+        {
+          "lang": "en",
+          "text": "garden"
+        },
+        {
+          "lang": "zh",
+          "text": "，就一直叫到有人开门。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 46.824,
+      "end": 52.552,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文第一句是："
+        },
+        {
+          "lang": "en",
+          "text": "Our dog, Rex, used to sit outside our front gate and bark"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 52.902,
+      "end": 59.158,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意这里是"
+        },
+        {
+          "lang": "en",
+          "text": "bark"
+        },
+        {
+          "lang": "zh",
+          "text": "，狗叫，不是"
+        },
+        {
+          "lang": "en",
+          "text": "dark"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 59.507,
+      "end": 65.163,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Front gate"
+        },
+        {
+          "lang": "zh",
+          "text": "不是公寓门，而是房子外面通向花园的小门。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 65.513,
+      "end": 72.781,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "反复习惯用两个词带出来："
+        },
+        {
+          "lang": "en",
+          "text": "used to sit"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "he would bark"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 73.131,
+      "end": 79.891,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文接着说："
+        },
+        {
+          "lang": "en",
+          "text": "Every time he wanted to come into the garden he would bark until someone opened the gate"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 80.241,
+      "end": 86.672,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "until"
+        },
+        {
+          "lang": "zh",
+          "text": "很重要：一直叫，叫到有人开门为止。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 87.022,
+      "end": 93.254,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "邻居不是坏人，他们只是受不了 noise："
+        },
+        {
+          "lang": "en",
+          "text": "the neighbours complained of the noise"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 93.604,
+      "end": 97.284,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧记住：Rex 想进来，所以在 gate 外面 bark。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 97.634,
+      "end": 100.214,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，看聪明办法。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 100.564,
+      "end": 109.188,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：丈夫花了几周训练 Rex，用"
+        },
+        {
+          "lang": "en",
+          "text": "paw"
+        },
+        {
+          "lang": "zh",
+          "text": "按"
+        },
+        {
+          "lang": "en",
+          "text": "latch"
+        },
+        {
+          "lang": "zh",
+          "text": "，让它自己进来。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 109.537,
+      "end": 113.357,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "my husband spent weeks training him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 113.707,
+      "end": 120.803,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Spend weeks training him"
+        },
+        {
+          "lang": "zh",
+          "text": "就是花了几个星期训练它，说明这不是一下子就学会的。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 121.153,
+      "end": 125.329,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "关键动作是："
+        },
+        {
+          "lang": "en",
+          "text": "to press his paw on the latch"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 125.679,
+      "end": 132.283,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Paw"
+        },
+        {
+          "lang": "zh",
+          "text": "是狗的脚爪；"
+        },
+        {
+          "lang": "en",
+          "text": "latch"
+        },
+        {
+          "lang": "zh",
+          "text": "是门上的小门闩。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 132.632,
+      "end": 135.872,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Rex 用 paw 按住 latch，门就能打开。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 136.222,
+      "end": 139.622,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这样它就可以："
+        },
+        {
+          "lang": "en",
+          "text": "let himself in"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 139.972,
+      "end": 144.164,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Himself"
+        },
+        {
+          "lang": "zh",
+          "text": "表示自己做，不用人帮它开门。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 144.514,
+      "end": 150.226,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "训练看起来非常成功："
+        },
+        {
+          "lang": "en",
+          "text": "Rex soon became an expert at opening the gate"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 150.576,
+      "end": 155.336,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧记住：the trick worked，Rex 成了开门 expert。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 155.686,
+      "end": 158.166,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，笑点开始反转。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 158.515,
+      "end": 168.955,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：上周我出去 shopping 时，发现 Rex 在 garden 里靠近 gate；这一次它叫，是为了让人把它放出去。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 169.305,
+      "end": 172.937,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "转折词先听出来："
+        },
+        {
+          "lang": "en",
+          "text": "However"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 173.287,
+      "end": 179.315,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "when I was going out shopping last week, I noticed him in the garden near the gate"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 179.665,
+      "end": 184.585,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Notice"
+        },
+        {
+          "lang": "zh",
+          "text": "是“注意到、发现”，不是特意去找。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 184.935,
+      "end": 188.135,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "原来 Rex 在 gate 外面叫，是想进来。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 188.485,
+      "end": 192.005,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在 Rex 已经在 garden 里面了，它又在叫。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 192.354,
+      "end": 197.994,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这次目的变了："
+        },
+        {
+          "lang": "en",
+          "text": "This time he was barking so that someone would let him out"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 198.344,
+      "end": 204.624,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "So that"
+        },
+        {
+          "lang": "zh",
+          "text": "说明目的：它叫，是为了让某个人放它出去。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 204.974,
+      "end": 213.63,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧记住：old problem 是"
+        },
+        {
+          "lang": "en",
+          "text": "let himself in"
+        },
+        {
+          "lang": "zh",
+          "text": "，new problem 是"
+        },
+        {
+          "lang": "en",
+          "text": "let him out"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 213.98,
+      "end": 217.46,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，看新坏习惯和结尾。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 217.81,
+      "end": 224.121,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：从那以后，Rex 养成了另一个"
+        },
+        {
+          "lang": "en",
+          "text": "bad habit"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 224.471,
+      "end": 230.231,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它从外面一打开 gate，就进 garden，等 gate 关上，再叫到有人放它出去。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 230.581,
+      "end": 241.529,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文用"
+        },
+        {
+          "lang": "en",
+          "text": "As soon as"
+        },
+        {
+          "lang": "zh",
+          "text": "开始这个循环："
+        },
+        {
+          "lang": "en",
+          "text": "As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 241.879,
+      "end": 247.415,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As soon as"
+        },
+        {
+          "lang": "zh",
+          "text": "是“一……就……”，动作接得很快。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 247.765,
+      "end": 252.205,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Until the gate shuts"
+        },
+        {
+          "lang": "zh",
+          "text": "是等到 gate 关上为止。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 252.554,
+      "end": 257.07,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着："
+        },
+        {
+          "lang": "en",
+          "text": "Then he sits and barks until someone lets him out"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 257.42,
+      "end": 263.516,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "出去以后呢？"
+        },
+        {
+          "lang": "en",
+          "text": "After this he immediately lets himself in and begins barking again"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 263.866,
+      "end": 270.082,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Immediately"
+        },
+        {
+          "lang": "zh",
+          "text": "是马上，说明这个循环很烦人，也很好笑。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 270.432,
+      "end": 275.176,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后丈夫只好："
+        },
+        {
+          "lang": "en",
+          "text": "Yesterday my husband removed the gate"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 275.526,
+      "end": 280.822,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Rex 的反应是："
+        },
+        {
+          "lang": "en",
+          "text": "Rex got so annoyed we have not seen him since"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 281.171,
+      "end": 286.331,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个结尾是漫画式的生气和消失，不是危险或悲伤。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 286.681,
+      "end": 293.681,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧记住：Rex 把一个开门技巧玩成了 in-and-out barking habit。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 294.031,
+      "end": 298.652,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，Rex 学会按 latch 以后，训练算成功了吗？"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 299.002,
+      "end": 303.362,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "算成功了。The trick worked. 它真的会自己开门了。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 303.712,
+      "end": 306.79,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那为什么家里还是头疼？"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 307.14,
+      "end": 314.064,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为真正的目标不是"
+        },
+        {
+          "lang": "en",
+          "text": "open the gate"
+        },
+        {
+          "lang": "zh",
+          "text": "，而是"
+        },
+        {
+          "lang": "en",
+          "text": "stop barking"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 314.413,
+      "end": 317.873,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "哦，办法解决了 in，却没有解决 barking。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 318.223,
+      "end": 322.823,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。后来 Rex 还把这个办法变成了新的 out problem。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 323.173,
+      "end": 329.085,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Let himself in"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "let him out"
+        },
+        {
+          "lang": "zh",
+          "text": "怎么分？"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 329.435,
+      "end": 339.371,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Let himself in"
+        },
+        {
+          "lang": "zh",
+          "text": "是 Rex 自己把自己放进来；"
+        },
+        {
+          "lang": "en",
+          "text": "let him out"
+        },
+        {
+          "lang": "zh",
+          "text": "是别人把 Rex 放出去。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 339.721,
+      "end": 346.064,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以标题"
+        },
+        {
+          "lang": "en",
+          "text": "In or out?"
+        },
+        {
+          "lang": "zh",
+          "text": "就是在笑这个方向反复变？"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 346.414,
+      "end": 351.614,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Exactly. Rex learned one clever trick, then turned it into an annoying habit."
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 351.963,
+      "end": 356.211,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Our dog, Rex, used to sit outside our front gate and bark."
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 356.561,
+      "end": 361.697,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Every time he wanted to come into the garden he would bark until someone opened the gate."
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 362.047,
+      "end": 368.911,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As the neighbours complained of the noise, my husband spent weeks training him to press his paw on the latch to let himself in."
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 369.261,
+      "end": 372.885,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Rex soon became an expert at opening the gate."
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 373.235,
+      "end": 378.635,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "However, when I was going out shopping last week, I noticed him in the garden near the gate."
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 378.985,
+      "end": 382.969,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "This time he was barking so that someone would let him out!"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 383.319,
+      "end": 387.039,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Since then, he has developed another bad habit."
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 387.389,
+      "end": 393.341,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts."
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 393.69,
+      "end": 397.242,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Then he sits and barks until someone lets him out."
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 397.592,
+      "end": 402.2,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "After this he immediately lets himself in and begins barking again."
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 402.55,
+      "end": 407.782,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Yesterday my husband removed the gate and Rex got so annoyed we have not seen him since."
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 408.132,
+      "end": 410.676,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bark"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一个词："
+        },
+        {
+          "lang": "en",
+          "text": "bark"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 411.026,
+      "end": 412.538,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bark"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Bark"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 412.888,
+      "end": 415.592,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bark"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Bark"
+        },
+        {
+          "lang": "zh",
+          "text": "是狗叫。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 415.942,
+      "end": 419.782,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bark"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课里，bark 不是背景声音，而是整个问题。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 420.131,
+      "end": 423.411,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bark"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "原来 Rex bark，是想 come into the garden。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 423.761,
+      "end": 426.961,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bark"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后来 Rex bark，是想让 someone let him out。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 427.311,
+      "end": 433.135,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "bark"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以听到"
+        },
+        {
+          "lang": "en",
+          "text": "bark"
+        },
+        {
+          "lang": "zh",
+          "text": "，就想：noise problem and comic loop。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 433.485,
+      "end": 436.213,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "latch"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个词："
+        },
+        {
+          "lang": "en",
+          "text": "latch"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 436.563,
+      "end": 438.195,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "latch"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Latch"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 438.544,
+      "end": 442.932,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "latch"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Latch"
+        },
+        {
+          "lang": "zh",
+          "text": "是门上的小门闩，小扣件。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 443.282,
+      "end": 447.826,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "latch"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Rex 被训练去："
+        },
+        {
+          "lang": "en",
+          "text": "press his paw on the latch"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 448.176,
+      "end": 453.928,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "latch"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Press"
+        },
+        {
+          "lang": "zh",
+          "text": "是往下按；"
+        },
+        {
+          "lang": "en",
+          "text": "paw"
+        },
+        {
+          "lang": "zh",
+          "text": "是狗的脚爪。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 454.278,
+      "end": 460.318,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "latch"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词要和画面一起记：Rex 用 paw 按 latch，gate 就能开。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 460.668,
+      "end": 463.492,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "habit"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个词："
+        },
+        {
+          "lang": "en",
+          "text": "habit"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 463.841,
+      "end": 465.425,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "habit"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Habit"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 465.775,
+      "end": 469.479,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "habit"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Habit"
+        },
+        {
+          "lang": "zh",
+          "text": "是习惯，反复做的事。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 469.829,
+      "end": 473.601,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "habit"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "he has developed another bad habit"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 473.951,
+      "end": 477.559,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "habit"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Develop"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里是慢慢形成。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 477.909,
+      "end": 484.469,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "habit"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Rex 的 bad habit 是：开门进来，等门关，叫人放出去，再马上进来。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 484.818,
+      "end": 487.398,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "habit"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它不是不会学，而是学得太会了。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 487.748,
+      "end": 491.668,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法板块叫：怎样写反复动作和目的。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 492.018,
+      "end": 496.714,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块："
+        },
+        {
+          "lang": "en",
+          "text": "used to"
+        },
+        {
+          "lang": "zh",
+          "text": "，过去常常。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 497.064,
+      "end": 502.024,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "例句是："
+        },
+        {
+          "lang": "en",
+          "text": "Rex used to sit outside our front gate and bark"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 502.374,
+      "end": 505.854,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它告诉我们，这是 Rex 以前常做的事。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 506.204,
+      "end": 510.583,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块："
+        },
+        {
+          "lang": "en",
+          "text": "would"
+        },
+        {
+          "lang": "zh",
+          "text": "写过去反复动作。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 510.933,
+      "end": 515.389,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "例句是："
+        },
+        {
+          "lang": "en",
+          "text": "he would bark until someone opened the gate"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 515.739,
+      "end": 519.539,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的 would 不是“愿意”，而是“过去每次都会这样”。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 519.889,
+      "end": 525.245,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块："
+        },
+        {
+          "lang": "en",
+          "text": "Every time"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "until"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 525.595,
+      "end": 533.49,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Every time"
+        },
+        {
+          "lang": "zh",
+          "text": "引出“每一次”，"
+        },
+        {
+          "lang": "en",
+          "text": "until"
+        },
+        {
+          "lang": "zh",
+          "text": "说明动作持续到什么时候停止。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 533.84,
+      "end": 537.16,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四块："
+        },
+        {
+          "lang": "en",
+          "text": "spend time doing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 537.51,
+      "end": 541.75,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里是："
+        },
+        {
+          "lang": "en",
+          "text": "my husband spent weeks training him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 542.1,
+      "end": 549.036,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结构是 spend 加时间加 doing，比如"
+        },
+        {
+          "lang": "en",
+          "text": "spend ten minutes reading"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "start": 549.386,
+      "end": 553.17,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第五块："
+        },
+        {
+          "lang": "en",
+          "text": "expert at doing something"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 103,
+      "start": 553.519,
+      "end": 558.703,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Rex 是："
+        },
+        {
+          "lang": "en",
+          "text": "an expert at opening the gate"
+        },
+        {
+          "lang": "zh",
+          "text": "，开门专家。"
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "start": 559.053,
+      "end": 562.693,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第六块："
+        },
+        {
+          "lang": "en",
+          "text": "so that"
+        },
+        {
+          "lang": "zh",
+          "text": "表目的。"
+        }
+      ]
+    },
+    {
+      "i": 105,
+      "start": 563.043,
+      "end": 569.699,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He was barking so that someone would let him out"
+        },
+        {
+          "lang": "zh",
+          "text": "，他叫，是为了让别人放他出去。"
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "start": 570.049,
+      "end": 576.876,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第七块："
+        },
+        {
+          "lang": "en",
+          "text": "As soon as"
+        },
+        {
+          "lang": "zh",
+          "text": "加"
+        },
+        {
+          "lang": "en",
+          "text": "until"
+        },
+        {
+          "lang": "zh",
+          "text": "写循环。"
+        }
+      ]
+    },
+    {
+      "i": 107,
+      "start": 577.226,
+      "end": 585.938,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As soon as he opens the gate"
+        },
+        {
+          "lang": "zh",
+          "text": "是一开门就怎样；"
+        },
+        {
+          "lang": "en",
+          "text": "waits until the gate shuts"
+        },
+        {
+          "lang": "zh",
+          "text": "是等到门关上。"
+        }
+      ]
+    },
+    {
+      "i": 108,
+      "start": 586.288,
+      "end": 594.883,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后记住方向对比："
+        },
+        {
+          "lang": "en",
+          "text": "let himself in"
+        },
+        {
+          "lang": "zh",
+          "text": "是自己进来，"
+        },
+        {
+          "lang": "en",
+          "text": "let him out"
+        },
+        {
+          "lang": "zh",
+          "text": "是别人放它出去。"
+        }
+      ]
+    },
+    {
+      "i": 109,
+      "start": 595.233,
+      "end": 601.329,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把今天的 pattern 放到一个安全的现代场景："
+        },
+        {
+          "lang": "en",
+          "text": "The Doorbell Button"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 110,
+      "start": 601.679,
+      "end": 606.119,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "家里给小弟弟装了一个按钮，本来是让他进房间前不用大喊。"
+        }
+      ]
+    },
+    {
+      "i": 111,
+      "start": 606.469,
+      "end": 609.589,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他很快学会了 press the button。"
+        }
+      ]
+    },
+    {
+      "i": 112,
+      "start": 609.939,
+      "end": 617.339,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是后来，他每次想要零食、想叫人开门、想让人来看东西，都一直按按钮。"
+        }
+      ]
+    },
+    {
+      "i": 113,
+      "start": 617.689,
+      "end": 621.969,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "大人解决了 shouting problem，却制造了 button ringing problem。"
+        }
+      ]
+    },
+    {
+      "i": 114,
+      "start": 622.319,
+      "end": 627.527,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先说旧习惯："
+        },
+        {
+          "lang": "en",
+          "text": "My little brother used to shout outside my room"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 115,
+      "start": 627.876,
+      "end": 634.952,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再说反复动作："
+        },
+        {
+          "lang": "en",
+          "text": "Every time he wanted to come in, he would shout until someone opened the door"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 116,
+      "start": 635.302,
+      "end": 640.894,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后说办法："
+        },
+        {
+          "lang": "en",
+          "text": "My father spent days training him to press a small button"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 117,
+      "start": 641.244,
+      "end": 647.244,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着说反转："
+        },
+        {
+          "lang": "en",
+          "text": "This time he pressed the button so that someone would bring him snacks"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 118,
+      "start": 647.594,
+      "end": 653.138,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后说新习惯："
+        },
+        {
+          "lang": "en",
+          "text": "Since then, he has developed another bad habit"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 119,
+      "start": 653.488,
+      "end": 669.583,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，你要用 word bank 补完整 5 个空，练"
+        },
+        {
+          "lang": "en",
+          "text": "used to"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "Every time"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "spent days training"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "so that"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "developed another bad habit"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 120,
+      "start": 669.933,
+      "end": 677.253,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 121,
+      "start": 677.603,
+      "end": 696.523,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓中文喜剧线：Rex 在 gate 外 barking，因为想进 garden；丈夫训练它用 paw 按 latch，让它 let himself in；Rex 成了 expert，却又在 garden 里 barking，想让 someone let him out；后来它把这个动作玩成了新的 bad habit。"
+        }
+      ]
+    },
+    {
+      "i": 122,
+      "start": 696.873,
+      "end": 716.76,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再把英文短语读顺："
+        },
+        {
+          "lang": "en",
+          "text": "used to sit outside our front gate and bark"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "he would bark until someone opened the gate"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "press his paw on the latch"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "so that someone would let him out"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "As soon as he opens the gate"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "immediately lets himself in"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 123,
+      "start": 717.11,
+      "end": 731.566,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，用 doorbell button 练"
+        },
+        {
+          "lang": "en",
+          "text": "a clever solution created another bad habit"
+        },
+        {
+          "lang": "zh",
+          "text": "；后面 ② 完形 ③ 中译英 ④ 英译中 ⑤ 默写 一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 124,
+      "start": 731.916,
+      "end": 741.236,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心：Rex learned the trick, but the real problem got worse."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 59
+}

@@ -1,0 +1,23 @@
+{
+  "lesson_id": 59,
+  "title": "In or out?",
+  "visual_consistency": "Warm realistic child-friendly watercolor storybook style in the same family house front garden across all frames. Keep the same medium-sized friendly brown-and-white dog Rex with floppy ears, bright eyes, expressive face, wagging tail when clever, slightly stubborn barking posture, and the same plain collar with no readable tag. Keep the same low front gate with a visible latch, same garden path, same shrubs, same house doorway, and same safe family setting in frames 1 to 3; in frame 4 keep the same entrance posts and garden but show the gate removed. The husband is the same patient adult man with short dark hair, average build, casual home clothes, kind expression, never angry or harsh. Warm family comedy, no danger, no injury, no sadness, no readable text, no labels, no captions, no speech bubbles, no UI panels.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Frame 1 of a continuous four-shot family comedy story: establish the same house front garden with a low front gate, visible latch, garden path, shrubs, and house doorway. Rex, the same medium-sized friendly brown-and-white dog with floppy ears, bright eyes, expressive face, wagging tail, slightly stubborn barking posture, and plain collar with no readable tag, sits just outside the closed front gate and barks toward the garden. A family member inside the garden and a nearby neighbour at a window look mildly bothered by the noise, not angry. This frame sets up the original outside-barking problem and the exact gate, latch, garden, and house that must continue in later frames. Warm realistic child-friendly watercolor storybook style, safe family comedy, no road traffic, no danger, no punishment, no readable signs, no labels, no captions, no speech bubbles, no UI panels, no fake writing."
+    },
+    {
+      "frame": 2,
+      "prompt": "Frame 2 of the same continuous story after frame 1: keep the same house, same front garden, same low front gate, same visible latch, same path and shrubs. The same patient adult husband with short dark hair, casual home clothes, average build, and kind expression gently trains the same Rex to press one paw on the latch of the gate. Rex looks focused and clever, with the same brown-and-white coat pattern, floppy ears, bright eyes, expressive face, and plain collar with no readable tag. The gate is partly responding to the paw pressing action so the trick is clear. Warm realistic child-friendly watercolor storybook style, friendly training, no harshness, no punishment, no readable signs or labels, no captions, no speech bubbles, no UI panels, no fake writing."
+    },
+    {
+      "frame": 3,
+      "prompt": "Frame 3 of the same continuous story after frame 2: keep the same house front garden, same low front gate, same latch, same path and shrubs. Rex is now inside the garden near the closed gate, barking toward the outside because he wants to be let out. The same brown-and-white coat pattern, floppy ears, bright eyes, expressive face, and plain collar remain consistent. A family member carrying a shopping bag pauses near the garden path and notices Rex with surprised amusement. The scene clearly reverses the earlier problem: Rex is inside, the gate is shut, and the dog wants out. Warm realistic child-friendly watercolor storybook style, comic surprise, no sadness, no danger, no road traffic, no readable signs, no labels, no captions, no speech bubbles, no UI panels, no fake writing."
+    },
+    {
+      "frame": 4,
+      "prompt": "Frame 4 of the same continuous story as the comic payoff after frame 3: keep the same house front garden, same path, same shrubs, and same entrance posts, but the front gate has been removed and is safely resting nearby with the latch visible and no text. The same patient husband stands near the empty entrance holding simple tools, looking puzzled rather than angry. Rex, the same medium-sized brown-and-white dog with floppy ears, bright eyes, expressive face, and plain collar, looks annoyed and confused with comic dignity, maybe turning away from the empty entrance while the family watches in mild surprise. The mood is warm and funny, not tragic. No lost-pet danger, no road traffic, no injury, no punishment, no readable signs, no labels, no captions, no speech bubbles, no UI panels, no fake writing."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "lesson_id": 59,
+  "title": "The Doorbell Button",
+  "question": "把今天“聪明办法解决了一个问题，却制造了新习惯”的喜剧线放进门铃按钮场景：用 word bank 补完整 5 个空。",
+  "example_answer": "My little brother used to shout outside my room. Every time he wanted to come in, he would shout until someone opened the door. My father spent days training him to press a small button. He soon became an expert at pressing it. This time he pressed the button so that someone would bring him snacks. Since then, he has developed another bad habit. As soon as he presses the button, he waits until someone answers. Then he immediately presses it again.",
+  "word_bank": [
+    "used to shout",
+    "Every time",
+    "he would shout until",
+    "spent days training",
+    "press a small button",
+    "became an expert at",
+    "so that someone would",
+    "developed another bad habit",
+    "As soon as",
+    "waits until",
+    "immediately presses"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说小弟弟过去常在我的房门外大喊",
+      "english_template": "My little brother ___ outside my room.",
+      "expected_phrase": "used to shout"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说每次他想进来，都会一直喊到有人开门",
+      "english_template": "Every time he wanted to come in, ___ someone opened the door.",
+      "expected_phrase": "he would shout until"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说爸爸花了几天训练他按一个小按钮",
+      "english_template": "My father ___ him to press a small button.",
+      "expected_phrase": "spent days training"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说这次他按按钮是为了让人给他拿零食",
+      "english_template": "This time he pressed the button ___ bring him snacks.",
+      "expected_phrase": "so that someone would"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "说从那以后，他养成了另一个坏习惯",
+      "english_template": "Since then, he has ___.",
+      "expected_phrase": "developed another bad habit"
+    }
+  ],
+  "mode": "all_fills"
+}
