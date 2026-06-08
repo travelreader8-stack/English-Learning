@@ -23,6 +23,31 @@ Do not mechanically batch-generate lessons. Each lesson needs a course design
 card first. The design card defines the modern bridge, story hook, language
 focus, living-scene exercise, and visual direction.
 
+## Courseware Section Responsibility
+
+Avoid repeating the same full passage explanation across multiple courseware
+sections. Each section should have a distinct job:
+
+- Opening hook:
+  - Raise interest and frame the core question in 4-6 spoken lines.
+  - Do not retell the full passage.
+- Four `retell` frames:
+  - This is the main place to walk through the passage in order.
+  - Use Chinese-first scene anchors with short English chunks.
+- Teacher-student dialogue:
+  - Do not repeat the four-frame retell script.
+  - Deepen one or two ideas that the retell did not fully explore, such as
+    cultural background, moral tension, tone, or a useful language contrast.
+- Vocabulary and grammar:
+  - Explain the words and structures that make the lesson work.
+  - Do not use this section as another full plot narration.
+- Practice and living-scene transfer:
+  - Move the language into a modern, child-understandable situation.
+  - Do not restart the original passage summary.
+
+When a lesson card gives a specific teacher-student dialogue topic, production
+should use that topic as the dialogue's purpose instead of replaying the story.
+
 For a lesson production thread:
 
 1. Read this file.
@@ -92,10 +117,11 @@ Course design cards live in `lesson_plans/`:
 - `lesson_plans/lesson_054.md` - Lesson 54, `Sticky fingers`
 - `lesson_plans/lesson_055.md` - Lesson 55, `Not a gold mine`
 - `lesson_plans/lesson_056.md` - Lesson 56, `Faster than sound!`
+- `lesson_plans/lesson_057.md` - Lesson 57, `Can I help you, madam?`
 
 When future lessons are discussed, add one new file:
 
-- `lesson_plans/lesson_057.md`
+- `lesson_plans/lesson_058.md`
 - etc.
 
 Do not keep lesson-specific design cards in this root plan. This file is the
