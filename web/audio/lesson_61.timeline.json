@@ -1,0 +1,2084 @@
+{
+  "total_duration": 690.57,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 7.56,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果一台花了十多亿美元的太空望远镜，第一次传回来的照片却很模糊，会不会很尴尬？"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 7.91,
+      "end": 13.966,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这就是"
+        },
+        {
+          "lang": "en",
+          "text": "Hubble telescope"
+        },
+        {
+          "lang": "zh",
+          "text": "一开始遇到的"
+        },
+        {
+          "lang": "en",
+          "text": "trouble"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 14.316,
+      "end": 22.787,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它不是没有飞上太空，而是"
+        },
+        {
+          "lang": "en",
+          "text": "main mirror"
+        },
+        {
+          "lang": "zh",
+          "text": "有问题，所以照片很"
+        },
+        {
+          "lang": "en",
+          "text": "disappointing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 23.137,
+      "end": 29.417,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "更厉害的是，NASA 没有放弃，而是准备把宇航员送上去，在太空里把它修好。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 29.767,
+      "end": 36.171,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天抓住这条线："
+        },
+        {
+          "lang": "en",
+          "text": "big machine, real fault, brave repair, clear universe"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 36.521,
+      "end": 40.441,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，先看这个昂贵的大项目被送进太空。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 40.791,
+      "end": 48.951,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：Hubble telescope 由 NASA 在 1990 年 4 月 20 日发射到太空，花费超过十亿美元。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 49.301,
+      "end": 57.1,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文开头是："
+        },
+        {
+          "lang": "en",
+          "text": "The Hubble telescope was launched into space by NASA on April 20, 1990"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 57.45,
+      "end": 62.386,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Was launched"
+        },
+        {
+          "lang": "zh",
+          "text": "是被发射，重点放在望远镜身上。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 62.736,
+      "end": 66.856,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后面说："
+        },
+        {
+          "lang": "en",
+          "text": "at a cost of over a billion dollars"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 67.206,
+      "end": 73.95,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "At a cost of"
+        },
+        {
+          "lang": "zh",
+          "text": "是新闻报道式表达，告诉你这个项目非常昂贵。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 74.3,
+      "end": 80.316,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "launched into space, by NASA, over a billion dollars"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 80.666,
+      "end": 83.866,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，兴奋很快变成了失望。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 84.215,
+      "end": 92.215,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：从一开始 Hubble 就有 trouble，它传回来的 pictures 很令人失望，因为主镜是 faulty 的。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 92.565,
+      "end": 96.673,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Right from the start there was trouble with the Hubble"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 97.023,
+      "end": 102.639,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Right from the start"
+        },
+        {
+          "lang": "zh",
+          "text": "就是从一开始，不是后来才慢慢出问题。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 102.989,
+      "end": 109.757,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着是原因："
+        },
+        {
+          "lang": "en",
+          "text": "The pictures it sent us were very disappointing because its main mirror was faulty"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 110.107,
+      "end": 117.778,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "faulty"
+        },
+        {
+          "lang": "zh",
+          "text": "是很冷静的工程词，意思是有缺陷、有故障。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 118.128,
+      "end": 123.288,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧记住因果："
+        },
+        {
+          "lang": "en",
+          "text": "faulty mirror, so disappointing pictures"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 123.638,
+      "end": 128.078,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，看人类怎么在太空里修一台望远镜。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 128.428,
+      "end": 134.668,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：NASA 要把 telescope 修好，所以会派四名 astronauts 上去维修。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 135.018,
+      "end": 139.414,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "NASA is now going to put the telescope right"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 139.764,
+      "end": 144.636,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Put the telescope right"
+        },
+        {
+          "lang": "zh",
+          "text": "不是把它摆正，而是把问题修好。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 144.985,
+      "end": 150.933,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后是行动计划："
+        },
+        {
+          "lang": "en",
+          "text": "it will soon be sending up four astronauts to repair it"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 151.283,
+      "end": 155.867,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The shuttle Endeavour"
+        },
+        {
+          "lang": "zh",
+          "text": "会把 astronauts 带到 Hubble 那里。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 156.217,
+      "end": 164.873,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课本里的 robot-arm，我们朗读时就理解成"
+        },
+        {
+          "lang": "en",
+          "text": "robot arm"
+        },
+        {
+          "lang": "zh",
+          "text": "：机械臂会抓住并托住 telescope。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 165.223,
+      "end": 172.087,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "关键动作是："
+        },
+        {
+          "lang": "en",
+          "text": "grab the telescope and hold it while the astronauts make the necessary repairs"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 172.437,
+      "end": 178.62,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "Endeavour, robot arm, grab, hold, repair"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 178.97,
+      "end": 181.93,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，看修好以后为什么值得期待。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 182.28,
+      "end": 191.8,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：Hubble 在地球 atmosphere 之外，所以能传回非常清晰的 stars 和 distant galaxies 图片。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 192.15,
+      "end": 202.734,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意，这里的"
+        },
+        {
+          "lang": "en",
+          "text": "stars"
+        },
+        {
+          "lang": "zh",
+          "text": "是恒星，不是行星；"
+        },
+        {
+          "lang": "en",
+          "text": "distant galaxies"
+        },
+        {
+          "lang": "zh",
+          "text": "是遥远的星系。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 203.084,
+      "end": 207.072,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "the Hubble is above the earth's atmosphere"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 207.421,
+      "end": 215.493,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为它在大气层外，所以会传回："
+        },
+        {
+          "lang": "en",
+          "text": "the clearest pictures of the stars and distant galaxies that we have ever seen"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 215.843,
+      "end": 224.483,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它还会告诉我们很多关于 universe 年龄和大小的信息："
+        },
+        {
+          "lang": "en",
+          "text": "a great deal about the age and size of the universe"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 224.833,
+      "end": 231.685,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一句的"
+        },
+        {
+          "lang": "en",
+          "text": "eagle eye"
+        },
+        {
+          "lang": "zh",
+          "text": "是比喻，意思是看得特别清楚的 sharp eye。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 232.035,
+      "end": 238.283,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "above the atmosphere, clearest pictures, eagle eye"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 238.632,
+      "end": 242.972,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，为什么一定要把望远镜放到 atmosphere 外面？"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 243.321,
+      "end": 250.841,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为地球的大气像一层会晃动的空气，它在我们和遥远星光之间，会让画面不够清楚。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 251.191,
+      "end": 256.464,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "above the atmosphere"
+        },
+        {
+          "lang": "zh",
+          "text": "就能看得更清楚？"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 256.814,
+      "end": 262.894,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，Hubble 原本的优势就在这里：避开大气，拍到更清楚的 space pictures。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 263.244,
+      "end": 266.782,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是它都在太空里了，为什么还会失败？"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 267.132,
+      "end": 279.476,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为高科技也可能有一个很小但很关键的"
+        },
+        {
+          "lang": "en",
+          "text": "fault"
+        },
+        {
+          "lang": "zh",
+          "text": "。这一课的重点不是“永远不出错”，而是发现问题以后"
+        },
+        {
+          "lang": "en",
+          "text": "put it right"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 279.826,
+      "end": 284.112,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "eagle eye"
+        },
+        {
+          "lang": "zh",
+          "text": "是真的鹰眼吗？"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 284.462,
+      "end": 292.542,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。它是一个比喻：像鹰一样 sharp，意思是 Hubble 修好以后有非常清楚的视力。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 292.892,
+      "end": 296.944,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这个故事不是灾难片，而是 repair story。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 297.294,
+      "end": 306.254,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。科学和工程厉害的地方，常常就是找出 fault，修好它，然后继续看见更大的 universe。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 306.603,
+      "end": 313.923,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The Hubble telescope was launched into space by NASA on April 20, 1990 at a cost of over a billion dollars."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 314.273,
+      "end": 317.609,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Right from the start there was trouble with the Hubble."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 317.959,
+      "end": 323.143,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The pictures it sent us were very disappointing because its main mirror was faulty!"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 323.493,
+      "end": 329.901,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "NASA is now going to put the telescope right, so it will soon be sending up four astronauts to repair it."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 330.251,
+      "end": 334.355,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The shuttle Endeavour will be taking the astronauts to the Hubble."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 334.705,
+      "end": 341.281,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A robot arm from the Endeavour will grab the telescope and hold it while the astronauts make the necessary repairs."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 341.631,
+      "end": 350.415,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Of course, the Hubble is above the earth's atmosphere, so it will soon be sending us the clearest pictures of the stars and distant galaxies that we have ever seen."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 350.765,
+      "end": 355.373,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The Hubble will tell us a great deal about the age and size of the universe."
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 355.722,
+      "end": 361.962,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures."
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 362.312,
+      "end": 365.136,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "launch"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组词："
+        },
+        {
+          "lang": "en",
+          "text": "launch"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 365.486,
+      "end": 367.094,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "launch"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Launch"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 367.444,
+      "end": 374.108,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "launch"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Launch"
+        },
+        {
+          "lang": "zh",
+          "text": "是发射、启动；在这一课里是把 telescope 发射到太空。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 374.458,
+      "end": 379.262,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "launch"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The Hubble telescope was launched into space by NASA"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 379.612,
+      "end": 388.391,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "launch"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里顺便记"
+        },
+        {
+          "lang": "en",
+          "text": "telescope"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "NASA"
+        },
+        {
+          "lang": "zh",
+          "text": "：一个是望远镜，一个是美国的航天机构。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 388.741,
+      "end": 396.741,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "launch"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "At a cost of over a billion dollars"
+        },
+        {
+          "lang": "zh",
+          "text": "说明项目非常昂贵，让后面的故障更出人意料。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 397.091,
+      "end": 399.963,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "faulty"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组词："
+        },
+        {
+          "lang": "en",
+          "text": "faulty"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 400.313,
+      "end": 401.969,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "faulty"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Faulty"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 402.319,
+      "end": 406.19,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "faulty"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Faulty"
+        },
+        {
+          "lang": "zh",
+          "text": "是有故障的、有缺陷的。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 406.54,
+      "end": 412.852,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "faulty"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课不是说 Hubble 整个坏掉了，而是"
+        },
+        {
+          "lang": "en",
+          "text": "its main mirror was faulty"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 413.202,
+      "end": 417.994,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "faulty"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以照片才"
+        },
+        {
+          "lang": "en",
+          "text": "disappointing"
+        },
+        {
+          "lang": "zh",
+          "text": "，没有达到大家期待。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 418.344,
+      "end": 428.26,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "faulty"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "修理动作可以说："
+        },
+        {
+          "lang": "en",
+          "text": "put the telescope right"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "repair it"
+        },
+        {
+          "lang": "zh",
+          "text": "，或者"
+        },
+        {
+          "lang": "en",
+          "text": "make the necessary repairs"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 428.609,
+      "end": 434.001,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "faulty"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住这个工程链："
+        },
+        {
+          "lang": "en",
+          "text": "find the fault, put it right, make the repairs"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 434.351,
+      "end": 437.551,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "atmosphere"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组词："
+        },
+        {
+          "lang": "en",
+          "text": "atmosphere"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 437.901,
+      "end": 439.869,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "atmosphere"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Atmosphere"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 440.219,
+      "end": 444.019,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "atmosphere"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Atmosphere"
+        },
+        {
+          "lang": "zh",
+          "text": "是地球周围的大气层。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 444.369,
+      "end": 451.536,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "atmosphere"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Hubble 在大气层外："
+        },
+        {
+          "lang": "en",
+          "text": "above the earth's atmosphere"
+        },
+        {
+          "lang": "zh",
+          "text": "，所以能看见更清楚的宇宙图像。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 451.886,
+      "end": 463.062,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "atmosphere"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Distant"
+        },
+        {
+          "lang": "zh",
+          "text": "是遥远的；"
+        },
+        {
+          "lang": "en",
+          "text": "galaxy"
+        },
+        {
+          "lang": "zh",
+          "text": "是星系，所以"
+        },
+        {
+          "lang": "en",
+          "text": "distant galaxies"
+        },
+        {
+          "lang": "zh",
+          "text": "是遥远的星系。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 463.412,
+      "end": 472.652,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "atmosphere"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Universe"
+        },
+        {
+          "lang": "zh",
+          "text": "是宇宙；"
+        },
+        {
+          "lang": "en",
+          "text": "eagle eye"
+        },
+        {
+          "lang": "zh",
+          "text": "是比喻，意思是特别敏锐、特别清楚的视力。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 473.001,
+      "end": 479.361,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "atmosphere"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里一定记住：stars 是恒星，galaxies 是星系，不要听成“行星”。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 479.711,
+      "end": 484.351,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法板块不要背一张很密的表，先看任务时间线。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 484.701,
+      "end": 490.505,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块是过去事实："
+        },
+        {
+          "lang": "en",
+          "text": "The Hubble telescope was launched into space by NASA"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 490.855,
+      "end": 498.471,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Was launched"
+        },
+        {
+          "lang": "zh",
+          "text": "是 passive voice，因为句子重点是 telescope 被发射。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 498.821,
+      "end": 506.021,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块是规模："
+        },
+        {
+          "lang": "en",
+          "text": "at a cost of over a billion dollars"
+        },
+        {
+          "lang": "zh",
+          "text": "，像科技新闻里的正式表达。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 506.37,
+      "end": 516.07,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块是原因和结果："
+        },
+        {
+          "lang": "en",
+          "text": "because its main mirror was faulty"
+        },
+        {
+          "lang": "zh",
+          "text": "，所以"
+        },
+        {
+          "lang": "en",
+          "text": "NASA is now going to put the telescope right"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 516.42,
+      "end": 522.356,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Because"
+        },
+        {
+          "lang": "zh",
+          "text": "给原因，"
+        },
+        {
+          "lang": "en",
+          "text": "so"
+        },
+        {
+          "lang": "zh",
+          "text": "带出下一步行动。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 522.706,
+      "end": 531.042,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四块是未来任务："
+        },
+        {
+          "lang": "en",
+          "text": "will soon be sending up four astronauts"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "will be taking the astronauts"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 531.391,
+      "end": 538.351,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这篇文章像 1990 年代的科技新闻，当时维修任务还像马上要发生的大事。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 538.701,
+      "end": 547.645,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第五块是同时发生："
+        },
+        {
+          "lang": "en",
+          "text": "A robot arm will grab the telescope and hold it while the astronauts make the necessary repairs"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 547.995,
+      "end": 554.075,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "While"
+        },
+        {
+          "lang": "zh",
+          "text": "帮你看见两个动作：机械臂托住，宇航员维修。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 554.425,
+      "end": 563.729,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一块是 future perfect："
+        },
+        {
+          "lang": "en",
+          "text": "By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 564.079,
+      "end": 572.239,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Will have sent"
+        },
+        {
+          "lang": "zh",
+          "text": "是说到你读到这篇文章那个时间点，发送照片这件事已经完成了很多。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 572.588,
+      "end": 580.276,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把今天的 repair pattern 放进一个孩子更熟悉的场景："
+        },
+        {
+          "lang": "en",
+          "text": "Science Night Telescope"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 580.626,
+      "end": 586.266,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "科学社团准备了一台小 telescope camera，大家都很期待 science night。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 586.616,
+      "end": 593.368,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是第一次拍月亮，pictures 很 blurry，也很"
+        },
+        {
+          "lang": "en",
+          "text": "disappointing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 593.718,
+      "end": 600.766,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你们检查后发现，不是大家不会用，而是"
+        },
+        {
+          "lang": "en",
+          "text": "the lens is faulty"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 601.116,
+      "end": 605.668,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "于是你们决定把它修好："
+        },
+        {
+          "lang": "en",
+          "text": "We are going to put it right"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 606.018,
+      "end": 614.257,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "修好以后可以预测结果："
+        },
+        {
+          "lang": "en",
+          "text": "By the time the parents arrive, it will have sent clear pictures to the classroom screen"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 614.607,
+      "end": 627.599,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，你要用 word bank 补完整 5 个空，练"
+        },
+        {
+          "lang": "en",
+          "text": "disappointing"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "faulty"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "put it right"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "will have sent"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 627.949,
+      "end": 635.269,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 635.619,
+      "end": 647.379,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓中文工程线：Hubble 被 NASA 发射到太空，花费巨大；从一开始有 trouble，pictures disappointing，因为 main mirror faulty。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 647.728,
+      "end": 658.208,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再读维修线：NASA 要 put the telescope right，astronauts 乘 Endeavour 去维修，robot arm 抓住并托住 Hubble。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 658.558,
+      "end": 669.718,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后读发现线：Hubble 在 atmosphere 外，能传回 stars 和 distant galaxies 的清晰照片，eagle eye 已经送回 thousands and thousands of pictures。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 670.068,
+      "end": 680.268,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，② 完形填空，③ 中译英，④ 英译中，⑤ 默写，一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 680.618,
+      "end": 690.57,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "big technology can fail, but good engineering can put it right"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 61
+}

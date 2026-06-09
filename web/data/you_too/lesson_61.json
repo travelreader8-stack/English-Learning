@@ -1,0 +1,51 @@
+{
+  "lesson_id": 61,
+  "title": "Science Night Telescope",
+  "question": "把今天“昂贵设备出故障 -> 找到 faulty part -> repair -> 到某个时间点已经产生清晰结果”的工程线，放进学校科学夜场景：用 word bank 补完整 5 个空。",
+  "example_answer": "Our science club set up a telescope camera for science night. The first moon pictures were disappointing because the lens was faulty. We were going to put it right before the parents arrived. My classmate held the camera while I made the necessary repairs. By the time the parents arrived, it had sent clear pictures to the classroom screen.",
+  "word_bank": [
+    "a telescope camera",
+    "science night",
+    "were disappointing",
+    "the lens was faulty",
+    "put it right",
+    "held the camera",
+    "made the necessary repairs",
+    "By the time",
+    "had sent clear pictures",
+    "classroom screen"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说科学社团为 science night 准备了一台 telescope camera",
+      "english_template": "Our science club set up ___ for science night.",
+      "expected_phrase": "a telescope camera"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说第一批月亮照片令人失望",
+      "english_template": "The first moon pictures ___.",
+      "expected_phrase": "were disappointing"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说明原因：镜头有故障",
+      "english_template": "We found that ___.",
+      "expected_phrase": "the lens was faulty"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说我们准备把它修好",
+      "english_template": "We were going to ___ before the parents arrived.",
+      "expected_phrase": "put it right"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "用 By the time 说：父母到达时，它已经把清晰照片送到屏幕上",
+      "english_template": "___ the parents arrived, it had sent clear pictures to the classroom screen.",
+      "expected_phrase": "By the time"
+    }
+  ],
+  "mode": "all_fills"
+}

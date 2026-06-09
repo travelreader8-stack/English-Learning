@@ -1,0 +1,23 @@
+{
+  "lesson_id": 61,
+  "title": "Trouble with the Hubble",
+  "visual_consistency": "A consistent semi-realistic educational illustration style. The Hubble telescope is always the same object: a silver cylindrical space telescope with dark rectangular solar panels, a black circular front opening, subtle panel seams, and a calm metallic shine. Mission-control scientists, when shown, wear modest 1990s-inspired shirts and headsets in a realistic control room with no readable screen text. The shuttle Endeavour appears as a white space shuttle with no readable markings, carrying a segmented mechanical robot arm. Astronauts wear white EVA suits with gold visors and no readable patches. The mood moves from launch excitement, to quiet disappointment, to focused repair, to wonder at clear space images.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Frame 1 of a continuous four-shot science repair story: a proud launch and deployment moment for the same Hubble telescope, a silver cylindrical space telescope with dark rectangular solar panels, a black circular front opening, subtle panel seams, and a calm metallic shine. Show a realistic rocket or deployment scene sending the telescope into orbit above the curved blue earth, with deep space behind it. The mood is excitement and scale, suggesting an expensive major project without showing money or labels. Semi-realistic educational illustration, warm cinematic light, child-friendly but credible, no readable NASA logos, no mission patches, no shuttle labels, no captions, no speech bubbles, no UI panels, no fake writing, no technical labels."
+    },
+    {
+      "frame": 2,
+      "prompt": "Frame 2 of the same continuous science repair story after frame 1: the same Hubble telescope is implied on control-room screens while the same realistic mission-control room appears, with modest 1990s-inspired scientists wearing simple shirts and headsets at desks. The screens show blurry star images and soft indistinct shapes with no readable text. A simple non-text visual hint of the telescope's main mirror problem may appear as a small diagram-like reflection or mirror object, but no labels. Scientists look quietly disappointed and concerned, not panicked. Keep the same silver cylindrical Hubble design visible on one screen or model. Semi-realistic educational illustration, warm control-room light, no readable screen text, no logos, no captions, no speech bubbles, no UI panels, no fake writing."
+    },
+    {
+      "frame": 3,
+      "prompt": "Frame 3 of the same continuous science repair story after frame 2: in orbit above the curved blue earth, a white space shuttle with no readable markings is parked beside the same Hubble telescope, a silver cylindrical telescope with dark rectangular solar panels and a black circular front opening. A segmented mechanical robot arm from the shuttle is visibly holding Hubble steady. Two astronauts in white EVA suits with gold visors carefully repair the telescope beside the arm. The scene should read as calm focused space repair, not danger or disaster. Semi-realistic educational illustration, deep space background, no readable logos, no mission patches, no labels, no captions, no speech bubbles, no UI panels, no fake writing."
+    },
+    {
+      "frame": 4,
+      "prompt": "Frame 4 of the same continuous science repair story as the reward after frame 3: the same Hubble telescope, silver cylindrical body, dark rectangular solar panels, black circular front opening, floats above the glowing edge of earth's atmosphere. Clear stars and distant galaxies fill the space around it, with beautiful sharp cosmic imagery that contrasts with the blurry screens in frame 2. Optionally blend in a quiet mission-control or classroom viewing area at the lower edge, where people look at bright clear space images without any readable text. The mood is wonder and achievement after repair. Semi-realistic educational illustration, luminous but not fantasy, no planets dominating the image, no readable screen text, no labels, no captions, no speech bubbles, no UI panels, no fake writing."
+    }
+  ]
+}

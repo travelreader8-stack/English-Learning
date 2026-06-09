@@ -1,0 +1,111 @@
+{
+  "lesson_id": 61,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按中文工程线记忆：Hubble telescope 被 NASA 发射到太空，花费巨大；从一开始就有 trouble，因为 main mirror faulty，pictures disappointing；NASA 准备派 astronauts 乘 Endeavour 去 repair it；Hubble 在 atmosphere 外，所以能传回 stars 和 distant galaxies 的清晰图片。读的时候注意 was launched、at a cost of、faulty、put the telescope right、while、above the atmosphere 和 will have sent。",
+  "sentences": [
+    {
+      "id": "l61_s1",
+      "text": "The Hubble telescope was launched into space by NASA on April 20, 1990 at a cost of over a billion dollars.",
+      "focus_zh": "中文锚点：哈勃望远镜由 NASA 在 1990 年 4 月 20 日发射到太空，花费超过十亿美元。注意 was launched 是被动语态，at a cost of 是正式报道里的花费表达。",
+      "start": 306.603,
+      "end": 313.923,
+      "focus_words": [
+        "The Hubble telescope",
+        "was launched into space",
+        "by NASA",
+        "at a cost of over a billion dollars"
+      ]
+    },
+    {
+      "id": "l61_s2",
+      "text": "Right from the start there was trouble with the Hubble.",
+      "focus_zh": "中文锚点：从一开始，Hubble 就有问题。Right from the start 要读出“立刻、刚开始就”的感觉，trouble with the Hubble 是标题里的核心问题。",
+      "start": 314.273,
+      "end": 317.609,
+      "focus_words": [
+        "Right from the start",
+        "there was trouble",
+        "with the Hubble"
+      ]
+    },
+    {
+      "id": "l61_s3",
+      "text": "The pictures it sent us were very disappointing because its main mirror was faulty!",
+      "focus_zh": "中文锚点：它传回来的照片很令人失望，因为主镜有缺陷。Because 后面给原因，faulty 是冷静的工程词，不是灾难片式的夸张说法。",
+      "start": 317.959,
+      "end": 323.143,
+      "focus_words": [
+        "The pictures it sent us",
+        "were very disappointing",
+        "because",
+        "its main mirror was faulty"
+      ]
+    },
+    {
+      "id": "l61_s4",
+      "text": "NASA is now going to put the telescope right, so it will soon be sending up four astronauts to repair it.",
+      "focus_zh": "中文锚点：NASA 准备把望远镜修好，所以很快会送四名宇航员上去维修。Put the telescope right 是“修好问题”，so 带出下一步行动。",
+      "start": 323.493,
+      "end": 329.901,
+      "focus_words": [
+        "is now going to",
+        "put the telescope right",
+        "will soon be sending up",
+        "four astronauts to repair it"
+      ]
+    },
+    {
+      "id": "l61_s5",
+      "text": "The shuttle Endeavour will be taking the astronauts to the Hubble.",
+      "focus_zh": "中文锚点：奋进号航天飞机会把宇航员带到 Hubble 那里。Endeavour 是航天飞机的名字，will be taking 读出即将执行任务的感觉。",
+      "start": 330.251,
+      "end": 334.355,
+      "focus_words": [
+        "The shuttle Endeavour",
+        "will be taking",
+        "the astronauts",
+        "to the Hubble"
+      ]
+    },
+    {
+      "id": "l61_s6",
+      "text": "A robot arm from the Endeavour will grab the telescope and hold it while the astronauts make the necessary repairs.",
+      "focus_zh": "中文锚点：Endeavour 上的机械臂会抓住并托住望远镜，同时宇航员进行必要维修。Grab and hold 是机械臂动作，while 表示两件事同时发生。",
+      "start": 334.705,
+      "end": 341.281,
+      "focus_words": [
+        "A robot arm",
+        "will grab the telescope",
+        "and hold it",
+        "while the astronauts make the necessary repairs"
+      ]
+    },
+    {
+      "id": "l61_s7",
+      "text": "Of course, the Hubble is above the earth's atmosphere, so it will soon be sending us the clearest pictures of the stars and distant galaxies that we have ever seen.",
+      "focus_zh": "中文锚点：Hubble 在地球大气层外，所以会传回我们见过最清晰的恒星和遥远星系图片。Above the earth's atmosphere 是原因，clearest pictures 是结果。",
+      "start": 341.631,
+      "end": 350.415,
+      "focus_words": [
+        "above the earth's atmosphere",
+        "the clearest pictures",
+        "of the stars",
+        "and distant galaxies"
+      ]
+    },
+    {
+      "id": "l61_s8",
+      "text": "The Hubble will tell us a great deal about the age and size of the universe. By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures.",
+      "focus_zh": "中文锚点：Hubble 会告诉我们很多关于宇宙年龄和大小的信息；等你读到这篇时，它敏锐的眼睛已经送回成千上万张精彩照片。A great deal about 是很多信息，will have sent 是 future perfect。",
+      "start": 350.765,
+      "end": 361.962,
+      "focus_words": [
+        "a great deal about",
+        "the age and size of the universe",
+        "By the time you read this",
+        "will have sent us",
+        "thousands and thousands"
+      ]
+    }
+  ]
+}
