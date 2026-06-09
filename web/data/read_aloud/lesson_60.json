@@ -1,0 +1,109 @@
+{
+  "lesson_id": 60,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按中文巧合线记忆：乡村 fair 上，主人公进入 fortune-teller tent；Madam Bellinsky 用 crystal ball 说出 vague prediction；他一出 tent，wife 就催他去 station 接 sister。读的时候注意 future 预言句、真实安排句、The moment、As soon as 和 in less than an hour。",
+  "sentences": [
+    {
+      "id": "l60_s1",
+      "text": "At a village fair, I decided to visit a fortune-teller called Madam Bellinsky.",
+      "focus_zh": "中文锚点：在乡村集市上，我决定去看一位叫 Madam Bellinsky 的 fortune-teller。注意 village fair 是旧式集市场景，fortune-teller 在这里是娱乐摊位。",
+      "start": 379.098,
+      "end": 384.21,
+      "focus_words": [
+        "At a village fair",
+        "decided to visit",
+        "a fortune-teller",
+        "called Madam Bellinsky"
+      ]
+    },
+    {
+      "id": "l60_s2",
+      "text": "After I had given her some money, she looked into a crystal ball and said: A relation of yours is coming to see you.",
+      "focus_zh": "中文锚点：我给钱之后，她看着 crystal ball，说我的一个亲戚要来看我。After I had given her some money 帮你读清先后顺序，a relation of yours 是故意模糊的说法。",
+      "start": 388.437,
+      "end": 395.277,
+      "focus_words": [
+        "After I had given her some money",
+        "looked into a crystal ball",
+        "A relation of yours",
+        "coming to see you"
+      ]
+    },
+    {
+      "id": "l60_s3",
+      "text": "She will be arriving this evening and intends to stay for a few days.",
+      "focus_zh": "中文锚点：她今天傍晚会到，并打算住几天。Will be arriving 读出安排好的到达，intends to stay 是正式一点的“打算住下”。",
+      "start": 395.627,
+      "end": 399.995,
+      "focus_words": [
+        "will be arriving",
+        "this evening",
+        "intends to stay",
+        "for a few days"
+      ]
+    },
+    {
+      "id": "l60_s4",
+      "text": "The moment you leave this tent, you will get a big surprise.",
+      "focus_zh": "中文锚点：你一离开这个帐篷，就会大吃一惊。The moment 表示一……就……，这句要读出预言式的即时感。",
+      "start": 400.345,
+      "end": 404.521,
+      "focus_words": [
+        "The moment",
+        "leave this tent",
+        "will get",
+        "a big surprise"
+      ]
+    },
+    {
+      "id": "l60_s5",
+      "text": "A woman you know well will rush towards you.",
+      "focus_zh": "中文锚点：一位你很熟悉的女人会向你冲来。A woman you know well 听起来很个人化，但其实也很 vague；rush towards 要读出动作很快。",
+      "start": 404.871,
+      "end": 408.087,
+      "focus_words": [
+        "A woman you know well",
+        "will rush",
+        "towards you"
+      ]
+    },
+    {
+      "id": "l60_s6",
+      "text": "As soon as I went outside, I forgot all about Madam Bellinsky because my wife hurried towards me.",
+      "focus_zh": "中文锚点：我一走到外面，就忘了 Madam Bellinsky，因为妻子急匆匆向我走来。As soon as 和 The moment 呼应，后半句把神秘预言拉回普通生活。",
+      "start": 414.547,
+      "end": 420.571,
+      "focus_words": [
+        "As soon as",
+        "went outside",
+        "forgot all about",
+        "my wife hurried towards me"
+      ]
+    },
+    {
+      "id": "l60_s7",
+      "text": "Your sister will be here in less than an hour and we must be at the station to meet her. We are late already.",
+      "focus_zh": "中文锚点：你姐姐不到一小时就到，我们必须去车站接她，而且已经晚了。这里的 future 不是神秘预言，而是真实日程；in less than an hour 读出紧迫感。",
+      "start": 424.799,
+      "end": 431.999,
+      "focus_words": [
+        "Your sister will be here",
+        "in less than an hour",
+        "must be at the station",
+        "We are late already"
+      ]
+    },
+    {
+      "id": "l60_s8",
+      "text": "As she walked away, I followed her out of the fair.",
+      "focus_zh": "中文锚点：她走开时，我跟着她出了集市。Followed her out of the fair 正好把 lead you away from this place 的普通解释收住。",
+      "start": 432.348,
+      "end": 435.972,
+      "focus_words": [
+        "As she walked away",
+        "followed her",
+        "out of the fair"
+      ]
+    }
+  ]
+}

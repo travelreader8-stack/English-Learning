@@ -1,0 +1,51 @@
+{
+  "lesson_id": 60,
+  "title": "The Prediction App",
+  "question": "把今天“模糊预言碰上普通事情，看起来像说中了”的巧合线放进学校活动场景：用 word bank 补完整 5 个空。",
+  "example_answer": "At a school fair, I decided to try a prediction app. It said a relation of mine would be arriving soon. The moment I left the classroom, I would get a big surprise. As soon as I went outside, my mother hurried towards me. She said my cousin would be here in less than an hour. We had to go home to meet him. The prediction sounded mysterious, but it was just a funny coincidence.",
+  "word_bank": [
+    "a prediction app",
+    "a relation of mine",
+    "would be arriving",
+    "The moment",
+    "As soon as",
+    "hurried towards me",
+    "in less than an hour",
+    "go home to meet him",
+    "vague prediction",
+    "funny coincidence"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说在学校活动上，我决定试一个 prediction app",
+      "english_template": "At a school fair, I decided to try ___.",
+      "expected_phrase": "a prediction app"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说一个亲戚很快会到",
+      "english_template": "It said ___ would be arriving soon.",
+      "expected_phrase": "a relation of mine"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "用 The moment 说：我一离开教室，就会有惊喜",
+      "english_template": "___ I left the classroom, I would get a big surprise.",
+      "expected_phrase": "The moment"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说我一到外面，妈妈就急匆匆向我走来",
+      "english_template": "As soon as I went outside, my mother ___.",
+      "expected_phrase": "hurried towards me"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "说 cousin 不到一小时就会到",
+      "english_template": "She said my cousin would be here ___.",
+      "expected_phrase": "in less than an hour"
+    }
+  ],
+  "mode": "all_fills"
+}
