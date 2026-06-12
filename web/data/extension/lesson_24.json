@@ -1,0 +1,144 @@
+{
+  "lesson_id": 24,
+  "reading": {
+    "title": "A Wallet at the Front Desk",
+    "intro_zh": "这篇短文不复述原文，而是换到酒店前台的失物招领场景，回收 upset / sympathetic / envelope / contained / honesty 等本课词汇。",
+    "word_bank": [
+      "front desk",
+      "upset",
+      "sympathetic",
+      "complain",
+      "envelope",
+      "contained",
+      "honesty",
+      "It could be worse"
+    ],
+    "passage": [
+      "Tom was staying at a small hotel near the station. One evening, he found that his wallet was not in his coat pocket. He went to the front desk and felt very upset. The clerk was sympathetic, but she could do nothing at once. Tom began to complain about careless people. Just then, a waiter came in with a brown envelope. \"I found this outside Room 12,\" he said. The envelope contained Tom's wallet and all his money. Tom smiled and said, \"It could be worse. There is still some honesty in this world.\""
+    ],
+    "questions": [
+      {
+        "id": "place",
+        "question": "Where was Tom staying?",
+        "options": [
+          "At a small hotel near the station.",
+          "At a large school near the station.",
+          "On a bus outside Room 12.",
+          "At a friend's house."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "第一句说明 Tom was staying at a small hotel near the station."
+      },
+      {
+        "id": "problem",
+        "question": "Why did Tom feel upset?",
+        "options": [
+          "Because the clerk was angry.",
+          "Because his coat was too old.",
+          "Because he could not find his wallet.",
+          "Because he missed the train."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "他发现钱包不在大衣口袋里，所以感到 upset。"
+      },
+      {
+        "id": "helper",
+        "question": "Who brought in the envelope?",
+        "options": [
+          "A hotel manager.",
+          "A waiter.",
+          "A passenger.",
+          "Tom's friend."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文写道：a waiter came in with a brown envelope。"
+      },
+      {
+        "id": "content",
+        "question": "What did the envelope contain?",
+        "options": [
+          "A room key and a letter.",
+          "Tom's wallet and all his money.",
+          "A train ticket.",
+          "Only fifty dollars."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "contained 表示“里面装着”，信封里是 Tom's wallet and all his money。"
+      },
+      {
+        "id": "title",
+        "question": "Which title fits the story best?",
+        "options": [
+          "A Careless Clerk",
+          "A Noisy Station",
+          "Honesty at the Front Desk",
+          "A New Coat"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "故事的转折是有人把钱包送回前台，重点是 honesty。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天不做泛泛的造句，只抓四个值得背下来的结构：刚刚发生的事、同情但无能为力、动作被打断、以及有文采的收束句。",
+    "patterns": [
+      {
+        "id": "had_just_felt",
+        "title": "had just done + felt ...",
+        "source": "I had just lost $50 and I felt very upset.",
+        "focus_zh": "用过去完成时说明“刚刚发生了一件事”，再接情绪。",
+        "task_zh": "仿写一句：你刚丢了学生卡、钥匙或作业，所以很着急。",
+        "must_include": [
+          "had just",
+          "felt"
+        ],
+        "min_words": 8,
+        "sample": "I had just lost my student card and I felt very worried.",
+        "tip_zh": "这个结构比 I lost... 更有故事感：先交代刚刚发生的事，再说情绪。"
+      },
+      {
+        "id": "sympathetic_but",
+        "title": "was sympathetic, but ... could do nothing",
+        "source": "The manager was sympathetic, but he could do nothing.",
+        "focus_zh": "这是很地道的转折：对方理解你，但客观上帮不上忙。",
+        "task_zh": "仿写一句：老师、工作人员或同学理解你，但当时也帮不上忙。",
+        "must_include": [
+          "was sympathetic",
+          "but",
+          "could do nothing"
+        ],
+        "min_words": 8,
+        "sample": "The teacher was sympathetic, but she could do nothing at that moment.",
+        "tip_zh": "sympathetic 不是简单的 nice，而是“理解你的处境、同情你”。"
+      },
+      {
+        "id": "complain_interrupted",
+        "title": "started to complain about ... but was interrupted by ...",
+        "source": "He started to complain about this wicked world but was interrupted by a knock at the door.",
+        "focus_zh": "连续动作有电影感：刚开始抱怨，就被一个声音或动作打断。",
+        "task_zh": "仿写一句：某人开始抱怨噪音、天气或作业，却被电话、敲门或老师打断。",
+        "must_include": [
+          "started to complain about",
+          "was interrupted by"
+        ],
+        "min_words": 10,
+        "sample": "He started to complain about the noise but was interrupted by a phone call.",
+        "tip_zh": "这个句式适合写故事转折，比 He complained. Then someone called. 更紧凑。"
+      },
+      {
+        "id": "there_is_still_some",
+        "title": "There is still some ... in this world.",
+        "source": "There is still some honesty in this world!",
+        "focus_zh": "这是一个有文采的结尾句，用来表达“事情没有那么糟”。",
+        "task_zh": "仿写一句：看到有人归还东西后，说世界上仍然有善意、诚实或希望。",
+        "must_include": [
+          "There is still some",
+          "in this world"
+        ],
+        "min_words": 7,
+        "sample": "There is still some kindness in this world.",
+        "tip_zh": "这个句式可以把一个小故事收束成一句有力量的话。"
+      }
+    ]
+  }
+}

@@ -3,16 +3,28 @@ import { SlidePlayer } from "/assets/slide-player.js";
 
 const LESSONS_URL = "/data/lessons.json";
 const LESSONS_FALLBACK_URL = "/data/lessons.sample.json";
+const EXTENSION_INDEX_URL = "/data/extension/index.json";
 const TOKEN_KEY = "nce2_student_token";
 const SESSION_KEY = (lessonId) => `nce2_session_${lessonId}`;
 const READ_ALOUD_DB_NAME = "nce2_read_aloud";
 const READ_ALOUD_DB_VERSION = 1;
 const READ_ALOUD_STORE = "attempts";
 
-const SCREENS = ["read_aloud", "you_too", "cloze", "cn_to_en", "en_to_cn", "dictation", "summary"];
+const SCREENS = ["read_aloud", "you_too", "cloze", "cn_to_en", "en_to_cn", "extension_reading", "sentence_writing", "dictation", "summary"];
+const SCREEN_TITLES = {
+  read_aloud: "Read Aloud 跟读",
+  you_too: "我们生活的场景",
+  cloze: "完形填空",
+  cn_to_en: "中译英",
+  en_to_cn: "英译中",
+  extension_reading: "拓展阅读",
+  sentence_writing: "句式仿写",
+  dictation: "默写",
+};
 
 const $ = (sel, root = document) => root.querySelector(sel);
 const $$ = (sel, root = document) => Array.from(root.querySelectorAll(sel));
+let extensionIndexPromise = null;
 
 function getQuery(name) {
   return new URLSearchParams(location.search).get(name);
@@ -61,6 +73,11 @@ async function loadLessons() {
 
 function escapeHtml(s) {
   return String(s ?? "").replace(/[&<>"']/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"}[c]));
+}
+
+function escapeCssIdent(s) {
+  if (window.CSS?.escape) return CSS.escape(String(s ?? ""));
+  return String(s ?? "").replace(/\\/g, "\\\\").replace(/"/g, '\\"');
 }
 
 // ─── 句子拆分（中英） ─────────────────────────────────────
@@ -118,9 +135,10 @@ const state = {
   lesson: null,
   readAloud: null,
   youToo: null,  // 课件级数据（题面 + 选项）
+  extension: null,
   currentScreen: "read_aloud",
-  answers: { read_aloud: { listened: false, attempted_sentence_ids: [], last_attempt_at: "" }, you_too: { selected_label: null, custom_text: "", fills: {} }, cloze: [], cn_to_en: [], en_to_cn: [], dictation: "" },
-  results: { read_aloud: null, you_too: null, cloze: null, cn_to_en: null, en_to_cn: null, dictation: null },
+  answers: { read_aloud: { listened: false, attempted_sentence_ids: [], last_attempt_at: "" }, you_too: { selected_label: null, custom_text: "", fills: {} }, cloze: [], cn_to_en: [], en_to_cn: [], extension_reading: {}, sentence_writing: {}, dictation: "" },
+  results: { read_aloud: null, you_too: null, cloze: null, cn_to_en: null, en_to_cn: null, extension_reading: null, sentence_writing: null, dictation: null },
   _readAloudLatest: {},
   _readAloudMessages: {},
   _readAloudRecorder: null,
@@ -140,6 +158,10 @@ function ensureStateShape() {
   }
   if (!state.answers.you_too.fills) state.answers.you_too.fills = {};
   if (!("read_aloud" in state.results)) state.results.read_aloud = null;
+  if (!state.answers.extension_reading || typeof state.answers.extension_reading !== "object") state.answers.extension_reading = {};
+  if (!state.answers.sentence_writing || typeof state.answers.sentence_writing !== "object") state.answers.sentence_writing = {};
+  if (!("extension_reading" in state.results)) state.results.extension_reading = null;
+  if (!("sentence_writing" in state.results)) state.results.sentence_writing = null;
 }
 
 function persistSession() {
@@ -186,7 +208,7 @@ function showScreen(name) {
   // —— 否则学生会往回翻看原文 / 单词卡照抄答案
   // read_aloud / you_too 不涉及抄写、保留 stage
   // summary 是结束总结、可以展示 stage 作回顾
-  const PRACTICE_HIDE = new Set(["cloze", "cn_to_en", "en_to_cn", "dictation"]);
+  const PRACTICE_HIDE = new Set(["cloze", "cn_to_en", "en_to_cn", "extension_reading", "sentence_writing", "dictation"]);
   const stageBlock = document.querySelector(".stage-block");
   if (stageBlock) stageBlock.hidden = PRACTICE_HIDE.has(name);
   // 离开课件 stage 时同时暂停音频、防止继续播
@@ -200,7 +222,21 @@ function showScreen(name) {
   window.scrollTo({ top: 0, behavior: "instant" });
 }
 
-const STEP_LABELS = { read_aloud: "0", you_too: "1", cloze: "2", cn_to_en: "3", en_to_cn: "4", dictation: "5", summary: "📊" };
+function getStepLabel(step) {
+  if (step === "summary") return "📊";
+  const exerciseScreens = SCREENS.filter(s => s !== "summary");
+  const idx = exerciseScreens.indexOf(step);
+  return idx >= 0 ? String(idx) : "";
+}
+
+function updateScreenTitles() {
+  for (const step of SCREENS) {
+    if (step === "summary") continue;
+    const title = document.querySelector(`.screen[data-screen="${step}"] h2`);
+    if (!title) continue;
+    title.textContent = `${getStepLabel(step)} ${SCREEN_TITLES[step] || ""}`.trim();
+  }
+}
 
 function isScreenDone(step) {
   if (step === "read_aloud") {
@@ -218,7 +254,7 @@ function updateStepper() {
     if (step === state.currentScreen) el.classList.add("active");
     const isDone = isScreenDone(step);
     if (isDone) el.classList.add("done");
-    if (numEl) numEl.textContent = isDone ? "✓" : STEP_LABELS[step];
+    if (numEl) numEl.textContent = isDone ? "✓" : getStepLabel(step);
 
     el.onclick = () => {
       if (step === state.currentScreen) return;
@@ -230,7 +266,12 @@ function updateStepper() {
 }
 
 function allDone() {
-  return ["cloze", "cn_to_en", "en_to_cn", "dictation"].every(k => state.results[k]);
+  return getRequiredResultScreens().every(k => state.results[k]);
+}
+
+function getRequiredResultScreens() {
+  return ["cloze", "cn_to_en", "en_to_cn", "extension_reading", "sentence_writing", "dictation"]
+    .filter(k => SCREENS.includes(k));
 }
 
 function nextScreen() {
@@ -252,6 +293,29 @@ async function loadYouToo(lessonId) {
 
 async function loadReadAloud(lessonId) {
   for (const url of [`/data/read_aloud/lesson_${lessonId}.json`, `/data/read_aloud/lesson_${lessonId}.sample.json`]) {
+    try {
+      const r = await fetch(url, { cache: "no-cache" });
+      if (r.ok) return await r.json();
+    } catch {}
+  }
+  return null;
+}
+
+async function loadExtensionIndex() {
+  if (!extensionIndexPromise) {
+    extensionIndexPromise = fetch(EXTENSION_INDEX_URL, { cache: "no-cache" })
+      .then(r => r.ok ? r.json() : { lessons: [] })
+      .catch(() => ({ lessons: [] }));
+  }
+  return extensionIndexPromise;
+}
+
+async function loadExtension(lessonId) {
+  const index = await loadExtensionIndex();
+  const lessonIds = Array.isArray(index?.lessons) ? index.lessons.map(Number) : [];
+  if (!lessonIds.includes(Number(lessonId))) return null;
+
+  for (const url of [`/data/extension/lesson_${lessonId}.json`, `/data/extension/lesson_${lessonId}.sample.json`]) {
     try {
       const r = await fetch(url, { cache: "no-cache" });
       if (r.ok) return await r.json();
@@ -1095,6 +1159,397 @@ async function submitYouToo() {
   btn.disabled = false;
 }
 
+// ─── Extension: reading + sentence writing ───────────────
+function getExtensionReading() {
+  return state.extension?.reading || null;
+}
+
+function getExtensionWriting() {
+  return state.extension?.writing || null;
+}
+
+function extensionQuestionId(question, idx) {
+  return String(question?.id || `q${idx + 1}`);
+}
+
+function writingPatternId(pattern, idx) {
+  return String(pattern?.id || `pattern_${idx + 1}`);
+}
+
+function renderExtensionWordBank(target, words, label = "本题会回收这些词和短语") {
+  if (!target) return;
+  const items = Array.isArray(words) ? words.filter(Boolean) : [];
+  if (!items.length) {
+    target.hidden = true;
+    target.innerHTML = "";
+    return;
+  }
+  target.innerHTML = `
+    <div class="word-bank-label">${escapeHtml(label)}</div>
+    <div class="word-bank-chips">${items.map(w => `<span class="word-bank-chip">${escapeHtml(w)}</span>`).join("")}</div>
+  `;
+  target.hidden = false;
+}
+
+function renderExtension() {
+  if (!state.extension) return;
+  renderExtensionReading();
+  renderSentenceWriting();
+}
+
+function renderExtensionReading() {
+  const reading = getExtensionReading();
+  if (!reading) return;
+
+  const intro = $("#extension-reading-intro");
+  if (intro) intro.textContent = reading.intro_zh || "读一篇同题材短文，看看今天的关键词和句式换个场景还能不能认出来。";
+
+  renderExtensionWordBank($("#extension-reading-word-bank"), reading.word_bank);
+
+  const passage = Array.isArray(reading.passage)
+    ? reading.passage
+    : String(reading.passage || "").split(/\n{2,}/).map(s => s.trim()).filter(Boolean);
+  const article = $("#extension-reading-article");
+  if (article) {
+    article.innerHTML = `
+      ${reading.title ? `<h3>${escapeHtml(reading.title)}</h3>` : ""}
+      ${passage.map(p => `<p>${escapeHtml(p)}</p>`).join("")}
+    `;
+  }
+
+  const questions = Array.isArray(reading.questions) ? reading.questions : [];
+  const wrap = $("#extension-reading-questions");
+  if (wrap) {
+    wrap.innerHTML = questions.map((q, idx) => renderExtensionQuestion(q, idx)).join("");
+  }
+}
+
+function renderExtensionQuestion(question, idx) {
+  const id = extensionQuestionId(question, idx);
+  const selected = state.answers.extension_reading?.[id];
+  const options = Array.isArray(question.options) ? question.options : [];
+  return `
+    <fieldset class="extension-question" data-question-id="${escapeHtml(id)}">
+      <legend><span>${idx + 1}</span>${escapeHtml(question.question || "")}</legend>
+      <div class="extension-options">
+        ${options.map((opt, optIdx) => `
+          <label class="extension-option">
+            <input
+              type="radio"
+              name="extension_reading_${escapeHtml(id)}"
+              data-question-id="${escapeHtml(id)}"
+              value="${optIdx}"
+              ${Number(selected) === optIdx ? "checked" : ""}
+            >
+            <span>${escapeHtml(opt)}</span>
+          </label>
+        `).join("")}
+      </div>
+    </fieldset>
+  `;
+}
+
+function renderSentenceWriting() {
+  const writing = getExtensionWriting();
+  if (!writing) return;
+
+  const intro = $("#sentence-writing-intro");
+  if (intro) intro.textContent = writing.intro_zh || "选课文里真正值得记的结构：固定搭配、关键语法、或者有画面感的表达。";
+
+  const patterns = Array.isArray(writing.patterns) ? writing.patterns : [];
+  const wrap = $("#sentence-writing-patterns");
+  if (!wrap) return;
+  wrap.innerHTML = patterns.map((pattern, idx) => renderWritingPattern(pattern, idx)).join("");
+}
+
+function renderWritingPattern(pattern, idx) {
+  const id = writingPatternId(pattern, idx);
+  const answer = state.answers.sentence_writing?.[id] || "";
+  const mustInclude = Array.isArray(pattern.must_include) ? pattern.must_include : [];
+  return `
+    <div class="writing-pattern-card" data-pattern-id="${escapeHtml(id)}">
+      <div class="writing-pattern-head">
+        <span class="writing-pattern-num">${idx + 1}</span>
+        <div>
+          <h3>${escapeHtml(pattern.title || "句式仿写")}</h3>
+          ${pattern.focus_zh ? `<p>${escapeHtml(pattern.focus_zh)}</p>` : ""}
+        </div>
+      </div>
+      ${pattern.source ? `<blockquote class="writing-source">${escapeHtml(pattern.source)}</blockquote>` : ""}
+      ${pattern.task_zh ? `<p class="writing-task">${escapeHtml(pattern.task_zh)}</p>` : ""}
+      ${mustInclude.length ? `<div class="writing-checklist">${mustInclude.map(item => `<span>${escapeHtml(item)}</span>`).join("")}</div>` : ""}
+      <textarea
+        class="writing-input"
+        data-pattern-id="${escapeHtml(id)}"
+        rows="2"
+        placeholder="在这里仿写一句英文..."
+        autocomplete="off"
+        autocapitalize="off"
+        spellcheck="false"
+      >${escapeHtml(answer)}</textarea>
+    </div>
+  `;
+}
+
+function normalizeForPhrase(text) {
+  return String(text || "")
+    .toLowerCase()
+    .replace(/[’]/g, "'")
+    .replace(/[^a-z0-9']+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function phraseIncluded(answer, phrase) {
+  const a = normalizeForPhrase(answer);
+  const p = normalizeForPhrase(phrase);
+  return !!p && a.includes(p);
+}
+
+function wordCountEnglish(text) {
+  const words = String(text || "").match(/[A-Za-z]+(?:'[A-Za-z]+)?|\d+/g);
+  return words ? words.length : 0;
+}
+
+function invalidateExtensionFeedback(screen) {
+  if (!state.results[screen]) return;
+  state.results[screen] = null;
+  const sec = document.querySelector(`.screen[data-screen="${screen}"]`);
+  if (!sec) return;
+  sec.querySelectorAll(".ok, .err, .warn").forEach(el => el.classList.remove("ok", "err", "warn"));
+  const feedbackId = screen === "extension_reading" ? "#extension-reading-feedback" : "#sentence-writing-feedback";
+  const fb = $(feedbackId);
+  if (fb) {
+    fb.hidden = true;
+    fb.innerHTML = "";
+  }
+  const submit = sec.querySelector(".submit-btn");
+  const next = sec.querySelector(".next-btn");
+  if (submit) {
+    submit.textContent = "📤 提交本题";
+    submit.disabled = false;
+  }
+  if (next) next.hidden = true;
+  updateStepper();
+}
+
+function handleExtensionReadingChange(target) {
+  if (!(target instanceof HTMLInputElement)) return;
+  if (!target.name?.startsWith("extension_reading_")) return;
+  const questionId = target.dataset.questionId;
+  if (!questionId) return;
+  state.answers.extension_reading[questionId] = Number(target.value);
+  invalidateExtensionFeedback("extension_reading");
+  persistSession();
+}
+
+function handleSentenceWritingInput(target) {
+  if (!(target instanceof HTMLTextAreaElement) || !target.classList.contains("writing-input")) return;
+  const id = target.dataset.patternId;
+  if (!id) return;
+  state.answers.sentence_writing[id] = target.value;
+  invalidateExtensionFeedback("sentence_writing");
+  persistSession();
+}
+
+function gradeExtensionReading() {
+  const reading = getExtensionReading();
+  const questions = Array.isArray(reading?.questions) ? reading.questions : [];
+  const missing = [];
+  const details = questions.map((q, idx) => {
+    const id = extensionQuestionId(q, idx);
+    const selected = state.answers.extension_reading?.[id];
+    if (selected === undefined || selected === null || selected === "") missing.push(idx + 1);
+    const answerIndex = Number(q.answer_index);
+    const selectedIndex = Number(selected);
+    const options = Array.isArray(q.options) ? q.options : [];
+    return {
+      id,
+      index: idx,
+      question: q.question || "",
+      selected_index: Number.isFinite(selectedIndex) ? selectedIndex : null,
+      selected_answer: Number.isFinite(selectedIndex) ? (options[selectedIndex] || "") : "",
+      answer_index: answerIndex,
+      correct_answer: options[answerIndex] || "",
+      explanation_zh: q.explanation_zh || "",
+      correct: Number.isFinite(selectedIndex) && selectedIndex === answerIndex,
+    };
+  });
+
+  if (missing.length) {
+    return { error: `还有第 ${missing.join("、")} 题没有选择。`, score: 0, total: questions.length, details };
+  }
+  const score = details.filter(d => d.correct).length;
+  return { score, total: questions.length, details, submitted_at: new Date().toISOString() };
+}
+
+function paintExtensionReadingFeedback(result) {
+  const fb = $("#extension-reading-feedback");
+  if (!fb) return;
+  document.querySelectorAll(".extension-question").forEach(el => el.classList.remove("ok", "err"));
+
+  if (result.error) {
+    fb.innerHTML = `<p class="ai-error">⚠️ ${escapeHtml(result.error)}</p>`;
+    fb.hidden = false;
+    return;
+  }
+
+  for (const d of result.details || []) {
+    const card = document.querySelector(`.extension-question[data-question-id="${escapeCssIdent(d.id)}"]`);
+    if (card) card.classList.add(d.correct ? "ok" : "err");
+  }
+
+  const wrong = (result.details || []).filter(d => !d.correct);
+  fb.innerHTML = `
+    <div class="extension-score-line">拓展阅读：<strong>${result.score} / ${result.total}</strong></div>
+    ${wrong.length ? `
+      <div class="extension-feedback-list">
+        ${wrong.map(d => `
+          <div class="extension-feedback-item">
+            <div>第 ${d.index + 1} 题：应选 <strong>${escapeHtml(d.correct_answer)}</strong></div>
+            ${d.explanation_zh ? `<p>${escapeHtml(d.explanation_zh)}</p>` : ""}
+          </div>
+        `).join("")}
+      </div>
+    ` : `<p class="extension-feedback-ok">全部正确。关键词换了一个场景，你也认出来了。</p>`}
+  `;
+  fb.hidden = false;
+}
+
+function submitExtensionReading() {
+  if (!getExtensionReading()) {
+    showError("拓展阅读数据未加载");
+    return;
+  }
+  const btn = currentSubmitBtn();
+  btn.disabled = true;
+  btn.textContent = "正在判题...";
+
+  const result = gradeExtensionReading();
+  if (result.error) {
+    paintExtensionReadingFeedback(result);
+    showError(result.error);
+    btn.disabled = false;
+    btn.textContent = "📤 提交本题";
+    return;
+  }
+
+  state.results.extension_reading = result;
+  paintExtensionReadingFeedback(result);
+  enableNextOn("extension_reading");
+  updateStepper();
+  persistSession();
+  btn.textContent = "📤 重新提交";
+  btn.disabled = false;
+}
+
+function gradeSentenceWriting() {
+  const writing = getExtensionWriting();
+  const patterns = Array.isArray(writing?.patterns) ? writing.patterns : [];
+  const missingAnswers = [];
+  const details = patterns.map((pattern, idx) => {
+    const id = writingPatternId(pattern, idx);
+    const answer = String(state.answers.sentence_writing?.[id] || "").trim();
+    if (!answer) missingAnswers.push(idx + 1);
+    const mustInclude = Array.isArray(pattern.must_include) ? pattern.must_include : [];
+    const missingPhrases = mustInclude.filter(phrase => !phraseIncluded(answer, phrase));
+    const words = wordCountEnglish(answer);
+    const minWords = Number(pattern.min_words || 0);
+    const longEnough = !minWords || words >= minWords;
+    return {
+      id,
+      index: idx,
+      title: pattern.title || "句式仿写",
+      answer,
+      source: pattern.source || "",
+      task_zh: pattern.task_zh || "",
+      sample: pattern.sample || "",
+      tip_zh: pattern.tip_zh || "",
+      missing_phrases: missingPhrases,
+      word_count: words,
+      min_words: minWords,
+      long_enough: longEnough,
+      correct: !!answer && missingPhrases.length === 0 && longEnough,
+    };
+  });
+
+  const score = details.filter(d => d.correct).length;
+  return {
+    error: missingAnswers.length ? `还有第 ${missingAnswers.join("、")} 句没有仿写。` : "",
+    has_any_answer: details.some(d => d.answer),
+    score,
+    total: patterns.length,
+    details,
+    submitted_at: new Date().toISOString(),
+  };
+}
+
+function paintSentenceWritingFeedback(result) {
+  const fb = $("#sentence-writing-feedback");
+  if (!fb) return;
+  document.querySelectorAll(".writing-pattern-card").forEach(el => el.classList.remove("ok", "warn"));
+
+  if (result.error && !(result.details || []).some(d => d.answer)) {
+    fb.innerHTML = `<p class="ai-error">⚠️ ${escapeHtml(result.error)}</p>`;
+    fb.hidden = false;
+    return;
+  }
+
+  for (const d of result.details || []) {
+    const card = document.querySelector(`.writing-pattern-card[data-pattern-id="${escapeCssIdent(d.id)}"]`);
+    if (card) card.classList.add(d.correct ? "ok" : "warn");
+  }
+
+  fb.innerHTML = `
+    ${result.error ? `<p class="ai-error">⚠️ ${escapeHtml(result.error)}</p>` : ""}
+    <div class="extension-score-line">句式仿写：<strong>${result.score} / ${result.total}</strong></div>
+    <div class="writing-feedback-list">
+      ${(result.details || []).map(d => `
+        <div class="writing-feedback-item ${d.correct ? "ok" : "warn"}">
+          <div class="writing-feedback-head">
+            <span>第 ${d.index + 1} 句</span>
+            <strong>${d.correct ? "结构抓住了" : "再补一下结构"}</strong>
+          </div>
+          ${d.answer ? "" : `<p>这一句还没写。</p>`}
+          ${d.answer && d.missing_phrases?.length ? `<p>需要出现：${d.missing_phrases.map(escapeHtml).join(" / ")}</p>` : ""}
+          ${d.answer && !d.long_enough ? `<p>这句再写完整一点，至少 ${d.min_words} 个英文词。</p>` : ""}
+          ${d.sample ? `<p class="writing-sample">参考：${escapeHtml(d.sample)}</p>` : ""}
+          ${d.tip_zh ? `<p>${escapeHtml(d.tip_zh)}</p>` : ""}
+        </div>
+      `).join("")}
+    </div>
+  `;
+  fb.hidden = false;
+}
+
+function submitSentenceWriting() {
+  if (!getExtensionWriting()) {
+    showError("句式仿写数据未加载");
+    return;
+  }
+  const btn = currentSubmitBtn();
+  btn.disabled = true;
+  btn.textContent = "正在检查句式...";
+
+  const result = gradeSentenceWriting();
+  if (result.error && !result.has_any_answer) {
+    paintSentenceWritingFeedback(result);
+    showError(result.error);
+    btn.disabled = false;
+    btn.textContent = "📤 提交本题";
+    return;
+  }
+  if (result.error) showError(result.error);
+  state.results.sentence_writing = result;
+  paintSentenceWritingFeedback(result);
+  enableNextOn("sentence_writing");
+  updateStepper();
+  persistSession();
+
+  btn.textContent = "📤 重新提交";
+  btn.disabled = false;
+}
+
 // ─── Stage / slide-player setup ───────────────────────────
 async function loadTimeline(lessonId) {
   const candidates = [
@@ -1130,7 +1585,7 @@ async function setupStage(lesson) {
   state._timeline = timeline;
 
   // 反作弊：如果当前已在练习屏、就让 showScreen 控制 stage、不强制显示
-  const PRACTICE_HIDE = new Set(["cloze", "cn_to_en", "en_to_cn", "dictation"]);
+  const PRACTICE_HIDE = new Set(["cloze", "cn_to_en", "en_to_cn", "extension_reading", "sentence_writing", "dictation"]);
   stageBlock.hidden = PRACTICE_HIDE.has(state.currentScreen);
 
   // 配置音频
@@ -1249,6 +1704,8 @@ function renderLesson(lesson) {
   renderTranslationRows("cn_to_en", zhSentences, enSentences);
   renderTranslationRows("en_to_cn", enSentences, zhSentences);
 
+  renderExtension();
+
   $("#dictation-anchor").textContent = `Lesson ${lesson.id} — ${lesson.title}\n${lesson.first_sentence_prefix} …`;
 
   // 恢复已存的 textarea 内容（默写）
@@ -1267,11 +1724,20 @@ function renderLesson(lesson) {
     paintTranslation("en_to_cn", state.results.en_to_cn);
     enableNextOn("en_to_cn");
   }
+  if (state.results.extension_reading && state.extension) {
+    paintExtensionReadingFeedback(state.results.extension_reading);
+    enableNextOn("extension_reading");
+  }
+  if (state.results.sentence_writing && state.extension) {
+    paintSentenceWritingFeedback(state.results.sentence_writing);
+    enableNextOn("sentence_writing");
+  }
   if (state.results.dictation) {
     paintDictation(state.results.dictation);
     enableNextOn("dictation");
   }
 
+  updateScreenTitles();
   $("#stepper").hidden = false;
   showScreen(state.currentScreen);
 }
@@ -1619,20 +2085,57 @@ function renderSummary() {
     </details>`);
   }
 
-  // ⑤ dictation
+  if (SCREENS.includes("extension_reading")) {
+    const er = r.extension_reading;
+    const label = `${getStepLabel("extension_reading")} 拓展阅读`;
+    if (!er) {
+      stations.push(`<details class="summary-station"><summary><span class="summary-station-title">${label}</span><span class="summary-station-score muted">未做</span></summary></details>`);
+    } else if (er.error) {
+      stations.push(`<details class="summary-station"><summary><span class="summary-station-title">${label}</span><span class="summary-station-score warn">未完成</span></summary><div class="summary-station-body"><p class="ai-error">⚠️ ${escapeHtml(er.error)}</p></div></details>`);
+    } else {
+      const wrongs = (er.details || []).filter(d => !d.correct);
+      stations.push(`<details class="summary-station">
+        <summary><span class="summary-station-title">${label}</span><span class="summary-station-score ${er.score === er.total ? "ok" : (er.score >= er.total * 0.7 ? "mid" : "warn")}">${er.score} / ${er.total}</span></summary>
+        <div class="summary-station-body">
+          ${wrongs.length === 0 ? `<p class="summary-comment ok">全部正确，说明同题材阅读能跟上。</p>` :
+            `<ul class="summary-wrong-list">${wrongs.map(d => `<li>第 ${d.index + 1} 题：应选 <code>${escapeHtml(d.correct_answer)}</code></li>`).join("")}</ul>`}
+        </div>
+      </details>`);
+    }
+  }
+
+  if (SCREENS.includes("sentence_writing")) {
+    const sw = r.sentence_writing;
+    const label = `${getStepLabel("sentence_writing")} 句式仿写`;
+    if (!sw) {
+      stations.push(`<details class="summary-station"><summary><span class="summary-station-title">${label}</span><span class="summary-station-score muted">未做</span></summary></details>`);
+    } else {
+      const weak = (sw.details || []).filter(d => !d.correct);
+      stations.push(`<details class="summary-station">
+        <summary><span class="summary-station-title">${label}</span><span class="summary-station-score ${sw.score === sw.total ? "ok" : (sw.score >= sw.total * 0.7 ? "mid" : "warn")}">${sw.score} / ${sw.total}</span></summary>
+        <div class="summary-station-body">
+          ${sw.error ? `<p class="ai-error">⚠️ ${escapeHtml(sw.error)}</p>` : ""}
+          ${weak.length === 0 ? `<p class="summary-comment ok">关键结构都用上了。</p>` :
+            `<ul class="summary-wrong-list">${weak.map(d => `<li>第 ${d.index + 1} 句：${d.missing_phrases?.length ? `还要包含 <code>${escapeHtml(d.missing_phrases.join(" / "))}</code>` : "句子再写完整一点"}</li>`).join("")}</ul>`}
+        </div>
+      </details>`);
+    }
+  }
+
+  // Dictation
   if (r.dictation) {
     const d = r.dictation;
     const pct = d.match_pct ?? "?";
     const cls = typeof pct === "number" ? (pct >= 90 ? "ok" : pct >= 70 ? "mid" : "warn") : "muted";
     stations.push(`<details class="summary-station">
-      <summary><span class="summary-station-title">⑤ 默写</span><span class="summary-station-score ${cls}">${pct}%</span></summary>
+      <summary><span class="summary-station-title">${getStepLabel("dictation")} 默写</span><span class="summary-station-score ${cls}">${pct}%</span></summary>
       <div class="summary-station-body">
         ${d.diff_html ? `<div class="diff-pre summary-diff">${d.diff_html}</div>` : ""}
         ${d.ai_tip ? `<p class="summary-comment">📌 ${escapeHtml(d.ai_tip)}</p>` : ""}
       </div>
     </details>`);
   } else {
-    stations.push(`<details class="summary-station"><summary><span class="summary-station-title">⑤ 默写</span><span class="summary-station-score muted">未做</span></summary></details>`);
+    stations.push(`<details class="summary-station"><summary><span class="summary-station-title">${getStepLabel("dictation")} 默写</span><span class="summary-station-score muted">未做</span></summary></details>`);
   }
 
   // AI 整体总评（占位、之后填）
@@ -1712,6 +2215,8 @@ function clearScreen(screen) {
       case "cloze":    return state.answers.cloze.some(v => v?.trim());
       case "cn_to_en": return Array.isArray(state.answers.cn_to_en) && state.answers.cn_to_en.some(v => v?.trim());
       case "en_to_cn": return Array.isArray(state.answers.en_to_cn) && state.answers.en_to_cn.some(v => v?.trim());
+      case "extension_reading": return Object.values(state.answers.extension_reading || {}).some(v => v !== undefined && v !== null && v !== "");
+      case "sentence_writing": return Object.values(state.answers.sentence_writing || {}).some(v => v?.trim());
       case "dictation":return !!state.answers.dictation?.trim();
       default: return false;
     }
@@ -1762,6 +2267,22 @@ function clearScreen(screen) {
       sec.querySelectorAll(`.trans-row-feedback`).forEach(el => { el.hidden = true; el.innerHTML = ""; });
       const overall = sec.querySelector(`.overall-feedback`);
       if (overall) { overall.hidden = true; overall.innerHTML = ""; }
+      break;
+    }
+    case "extension_reading": {
+      state.answers.extension_reading = {};
+      state.results.extension_reading = null;
+      sec.querySelectorAll('input[name^="extension_reading_"]').forEach(r => { r.checked = false; });
+      sec.querySelectorAll(".extension-question").forEach(el => el.classList.remove("ok", "err"));
+      const fb = $("#extension-reading-feedback"); if (fb) { fb.hidden = true; fb.innerHTML = ""; }
+      break;
+    }
+    case "sentence_writing": {
+      state.answers.sentence_writing = {};
+      state.results.sentence_writing = null;
+      sec.querySelectorAll(".writing-input").forEach(t => { t.value = ""; });
+      sec.querySelectorAll(".writing-pattern-card").forEach(el => el.classList.remove("ok", "warn"));
+      const fb = $("#sentence-writing-feedback"); if (fb) { fb.hidden = true; fb.innerHTML = ""; }
       break;
     }
     case "dictation": {
@@ -1847,6 +2368,10 @@ function bindEvents() {
       submitCloze();
     } else if (action === "submit-translation") {
       submitTranslation(target.dataset.direction);
+    } else if (action === "submit-extension-reading") {
+      submitExtensionReading();
+    } else if (action === "submit-sentence-writing") {
+      submitSentenceWriting();
     } else if (action === "submit-dictation") {
       submitDictation();
     } else if (action === "clear-screen") {
@@ -1857,6 +2382,10 @@ function bindEvents() {
   });
 
   $("#finish-btn")?.addEventListener("click", finish);
+
+  document.addEventListener("change", (ev) => {
+    handleExtensionReadingChange(ev.target);
+  });
 
   // 默写 textarea 输入即存（cn_to_en / en_to_cn 的逐句 textarea 由 onTransInput 处理）
   const dictTa = $("#dictation-input");
@@ -1883,6 +2412,7 @@ function bindEvents() {
       state.answers.cloze = inputs.map(el => el.value);
       persistSession();
     }
+    handleSentenceWritingInput(t);
   });
 }
 
@@ -1945,6 +2475,27 @@ async function main() {
     const idx = SCREENS.indexOf("you_too");
     if (idx >= 0) SCREENS.splice(idx, 1);
     if (state.currentScreen === "you_too") state.currentScreen = "cloze";
+  }
+
+  // 可选拓展模块：只有 lesson-local 扩展数据存在时才显示，避免影响旧课。
+  state.extension = await loadExtension(lessonId);
+  const removeOptionalScreen = (screen, fallback) => {
+    const sec = document.querySelector(`.screen[data-screen="${screen}"]`);
+    const step = document.querySelector(`.step[data-step="${screen}"]`);
+    if (sec) sec.remove();
+    if (step) step.remove();
+    const idx = SCREENS.indexOf(screen);
+    if (idx >= 0) SCREENS.splice(idx, 1);
+    if (state.currentScreen === screen) state.currentScreen = fallback;
+  };
+  if (!state.extension?.reading) {
+    removeOptionalScreen("extension_reading", state.extension?.writing ? "sentence_writing" : "dictation");
+  }
+  if (!state.extension?.writing) {
+    removeOptionalScreen("sentence_writing", "dictation");
+  }
+  if (!SCREENS.includes("extension_reading") && !SCREENS.includes("sentence_writing")) {
+    state.extension = null;
   }
 
   renderLesson(lesson);

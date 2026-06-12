@@ -54,8 +54,16 @@
         <span class="step-num">4</span>
         <span class="step-label">英译中</span>
       </div>
-      <div class="step" data-step="dictation">
+      <div class="step" data-step="extension_reading">
         <span class="step-num">5</span>
+        <span class="step-label">拓展阅读</span>
+      </div>
+      <div class="step" data-step="sentence_writing">
+        <span class="step-num">6</span>
+        <span class="step-label">句式仿写</span>
+      </div>
+      <div class="step" data-step="dictation">
+        <span class="step-num">7</span>
         <span class="step-label">默写</span>
       </div>
       <div class="step" data-step="summary">
@@ -155,9 +163,37 @@
       </div>
     </section>
 
-    <!-- ⑤ 默写 -->
+    <!-- ⑤ 拓展阅读（有 lesson-local 数据时显示） -->
+    <section class="screen exercise extension-reading-screen" data-screen="extension_reading" hidden>
+      <h2>⑤ 拓展阅读</h2>
+      <p class="hint" id="extension-reading-intro">读一篇同题材短文，看看今天的关键词和句式换个场景还能不能认出来。</p>
+      <div id="extension-reading-word-bank" class="you-too-word-bank" hidden></div>
+      <article id="extension-reading-article" class="extension-article"></article>
+      <div id="extension-reading-questions" class="extension-questions"></div>
+      <div id="extension-reading-feedback" class="extension-feedback" hidden></div>
+      <div class="screen-actions">
+        <button type="button" class="submit-btn" data-action="submit-extension-reading">📤 提交本题</button>
+        <button type="button" class="clear-btn" data-action="clear-screen" data-screen="extension_reading">🧹 清除本题</button>
+        <button type="button" class="next-btn" data-action="next" hidden>下一题 →</button>
+      </div>
+    </section>
+
+    <!-- ⑥ 句式仿写（有 lesson-local 数据时显示） -->
+    <section class="screen exercise sentence-writing-screen" data-screen="sentence_writing" hidden>
+      <h2>⑥ 句式仿写</h2>
+      <p class="hint" id="sentence-writing-intro">选课文里真正值得记的结构：固定搭配、关键语法、或者有画面感的表达。先仿写一句，不急着写作文。</p>
+      <div id="sentence-writing-patterns" class="sentence-writing-patterns"></div>
+      <div id="sentence-writing-feedback" class="extension-feedback" hidden></div>
+      <div class="screen-actions">
+        <button type="button" class="submit-btn" data-action="submit-sentence-writing">📤 提交本题</button>
+        <button type="button" class="clear-btn" data-action="clear-screen" data-screen="sentence_writing">🧹 清除本题</button>
+        <button type="button" class="next-btn" data-action="next" hidden>下一题 →</button>
+      </div>
+    </section>
+
+    <!-- ⑦ 默写 -->
     <section class="screen exercise" data-screen="dictation" hidden>
-      <h2>⑤ 默写</h2>
+      <h2>⑦ 默写</h2>
       <p class="hint">凭记忆默写整段英文课文。提示：标题 + 首句前 3 个词。</p>
       <blockquote class="prompt-text" id="dictation-anchor"></blockquote>
       <textarea id="dictation-input" rows="14" placeholder="在这里默写整段英文…"></textarea>
@@ -169,7 +205,7 @@
       </div>
     </section>
 
-    <!-- ⑤ 总结 -->
+    <!-- 总结 -->
     <section class="screen summary" data-screen="summary" hidden>
       <h2>📊 本课总结</h2>
       <div id="summary-body" class="summary-body"></div>
