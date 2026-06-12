@@ -123,10 +123,11 @@ Course design cards live in `lesson_plans/`:
 - `lesson_plans/lesson_060.md` - Lesson 60, `The future`
 - `lesson_plans/lesson_061.md` - Lesson 61, `Trouble with the Hubble`
 - `lesson_plans/lesson_062.md` - Lesson 62, `After the fire`
+- `lesson_plans/lesson_063.md` - Lesson 63, `She was not amused`
 
 When future lessons are discussed, add one new file:
 
-- `lesson_plans/lesson_063.md`
+- `lesson_plans/lesson_064.md`
 - etc.
 
 Do not keep lesson-specific design cards in this root plan. This file is the
