@@ -1679,6 +1679,24 @@ input:disabled {
 /* Grammar 场景 */
 .scene-grammar {
   text-align: center;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.scene-grammar .scene-section-title {
+  font-size: 20px;
+  margin-bottom: 14px;
+}
+.scene-grammar .bubble {
+  max-width: min(100%, 880px);
+  max-height: calc(100% - 108px);
+  overflow: auto;
+  padding: 20px 28px;
+  font-size: 22px;
+  line-height: 1.65;
+  text-align: left;
 }
 .scene-section-title {
   font-size: 18px;
@@ -2028,5 +2046,10 @@ input:disabled {
   body { font-size: 16px; }
   .lesson-grid { grid-template-columns: repeat(auto-fill, minmax(120px, 1fr)); }
   .cloze-blank { width: 90px; font-size: 15px; }
+  .scene-grammar .bubble {
+    padding: 16px 18px;
+    font-size: 19px;
+    line-height: 1.65;
+  }
   main { padding: 16px 12px 80px; }
 }
