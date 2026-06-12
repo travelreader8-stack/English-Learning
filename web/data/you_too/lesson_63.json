@@ -1,0 +1,51 @@
+{
+  "lesson_id": 63,
+  "title": "My Class Speech",
+  "question": "把今天“认真准备 speech -> 加入 funny story -> 同学善意地笑 -> 分清 laugh at 和 laugh with”的表达，放进班级 presentation 场景：用 word bank 补完整 5 个空。",
+  "example_answer": "I prepared my speech carefully for our class presentation. I included a funny story at the end. When my classmates laughed, I felt nervous and asked, \"Were they laughing at me?\" My teacher smiled and said, \"No, they were laughing with you.\" To my surprise, my presentation was a great success.",
+  "word_bank": [
+    "prepared my speech carefully",
+    "class presentation",
+    "included a funny story",
+    "felt nervous",
+    "laughing at me",
+    "laughing with you",
+    "To my surprise",
+    "a great success",
+    "speak clearly",
+    "friendly laughter"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说我为班级 presentation 认真准备了 speech",
+      "english_template": "I ___ for our class presentation.",
+      "expected_phrase": "prepared my speech carefully"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说我在结尾加入了一个有趣的小故事",
+      "english_template": "I ___ at the end.",
+      "expected_phrase": "included a funny story"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说同学们笑的时候，我有点紧张",
+      "english_template": "When my classmates laughed, I ___.",
+      "expected_phrase": "felt nervous"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "问他们是不是在嘲笑我",
+      "english_template": "Were they ___?",
+      "expected_phrase": "laughing at me"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "老师解释他们是在和我一起笑",
+      "english_template": "No, they were ___.",
+      "expected_phrase": "laughing with you"
+    }
+  ],
+  "mode": "all_fills"
+}

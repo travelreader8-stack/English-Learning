@@ -1,0 +1,2556 @@
+{
+  "total_duration": 756.414,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 4.36,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果你在很多人面前讲话，大家突然笑了，你会紧张吗？"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 4.71,
+      "end": 9.71,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "有时候，别人笑不是在嘲笑你，而是因为你讲得生动。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 10.06,
+      "end": 18.543,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Jeremy 很会"
+        },
+        {
+          "lang": "en",
+          "text": "make a speech"
+        },
+        {
+          "lang": "zh",
+          "text": "，他的"
+        },
+        {
+          "lang": "en",
+          "text": "sense of humour"
+        },
+        {
+          "lang": "zh",
+          "text": "让婚礼上的人都笑了。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 18.893,
+      "end": 25.909,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是他的六岁女儿 Jenny 看不懂，她以为大家在"
+        },
+        {
+          "lang": "en",
+          "text": "laughing at him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 26.259,
+      "end": 31.859,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天先抓住这个区别："
+        },
+        {
+          "lang": "en",
+          "text": "laugh with someone, not laugh at someone"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 32.209,
+      "end": 35.729,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，先看 Jeremy 是一个怎样的大人。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 36.079,
+      "end": 42.199,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：Jeremy Hampden 朋友很多，在聚会上很受欢迎。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 42.549,
+      "end": 47.541,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文开头说："
+        },
+        {
+          "lang": "en",
+          "text": "Jeremy Hampden has a large circle of friends"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 47.89,
+      "end": 54.154,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "circle"
+        },
+        {
+          "lang": "zh",
+          "text": "不是画一个圆，而是朋友圈、社交圈。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 54.504,
+      "end": 58.392,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着是："
+        },
+        {
+          "lang": "en",
+          "text": "and is very popular at parties"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 58.742,
+      "end": 64.134,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Popular"
+        },
+        {
+          "lang": "zh",
+          "text": "是受欢迎，说明大家喜欢和他在一起。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 64.484,
+      "end": 72.052,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "大家为什么喜欢他？课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Everybody admires him for his great sense of humour"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 72.402,
+      "end": 77.193,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Admire him for"
+        },
+        {
+          "lang": "zh",
+          "text": "后面说原因：因为他的幽默感。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 77.543,
+      "end": 83.879,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但是有一个小小的例外："
+        },
+        {
+          "lang": "en",
+          "text": "everybody, that is, except his six-year-old daughter, Jenny"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 84.229,
+      "end": 91.069,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧记住：Jeremy 受欢迎，大家欣赏他的 humour，可 Jenny 还不懂这种大人的笑。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 91.419,
+      "end": 95.099,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，看 Jeremy 为什么要在婚礼上讲话。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 95.449,
+      "end": 101.369,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：最近，一个亲密朋友请 Jeremy 在婚礼宴会上致辞。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 101.719,
+      "end": 107.915,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "one of Jeremy's closest friends asked him to make a speech at a wedding reception"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 108.264,
+      "end": 114.288,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Wedding reception"
+        },
+        {
+          "lang": "zh",
+          "text": "可以理解成婚礼仪式之后的聚会或宴会。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 114.638,
+      "end": 122.198,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在一些英文场景里，朋友会"
+        },
+        {
+          "lang": "en",
+          "text": "make a speech"
+        },
+        {
+          "lang": "zh",
+          "text": "，说祝福，也讲轻松的小故事。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 122.548,
+      "end": 130.34,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对 Jeremy 来说，这不是可怕的事，课文说："
+        },
+        {
+          "lang": "en",
+          "text": "This is the sort of thing that Jeremy loves"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 130.69,
+      "end": 134.946,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The sort of thing"
+        },
+        {
+          "lang": "zh",
+          "text": "就是这类事情、这种活动。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 135.296,
+      "end": 141.152,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他不是随便上台乱说，而是认真准备："
+        },
+        {
+          "lang": "en",
+          "text": "He prepared the speech carefully"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 141.501,
+      "end": 146.533,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后他带着 Jenny 一起去婚礼："
+        },
+        {
+          "lang": "en",
+          "text": "and went to the wedding with Jenny"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 146.883,
+      "end": 153.763,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧记住：public speaking 可以准备，也可以练习；Jeremy 喜欢这种清楚表达的机会。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 154.113,
+      "end": 158.953,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，看 speech 为什么成功，也看 Jenny 为什么不安。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 159.303,
+      "end": 165.423,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：Jeremy 在讲话里加入很多有趣的小故事，讲话大获成功。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 165.773,
+      "end": 170.889,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "He had included a large number of funny stories in the speech"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 171.239,
+      "end": 178.59,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A large number of"
+        },
+        {
+          "lang": "zh",
+          "text": "就是很多；"
+        },
+        {
+          "lang": "en",
+          "text": "included"
+        },
+        {
+          "lang": "zh",
+          "text": "是把这些故事放进 speech 里。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 178.94,
+      "end": 182.804,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结果自然很好："
+        },
+        {
+          "lang": "en",
+          "text": "it was a great success"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 183.154,
+      "end": 187.514,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的笑声是友好的，客人是在享受他的 humour。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 187.864,
+      "end": 194.456,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是 Jenny 的反应很快："
+        },
+        {
+          "lang": "en",
+          "text": "As soon as he had finished, Jenny told him she wanted to go home"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 194.806,
+      "end": 200.142,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As soon as"
+        },
+        {
+          "lang": "zh",
+          "text": "是一......就......，让这个反应非常突然。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 200.491,
+      "end": 205.027,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Jeremy 有点失望："
+        },
+        {
+          "lang": "en",
+          "text": "Jeremy was a little disappointed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 205.377,
+      "end": 211.729,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但他没有责备 Jenny，而是照她说的做："
+        },
+        {
+          "lang": "en",
+          "text": "he did as his daughter asked"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 212.079,
+      "end": 217.759,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧记住：speech 是 success，可 Jenny 以为那种笑声有问题。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 218.109,
+      "end": 222.469,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，笑点和温柔的误会出现了。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 222.819,
+      "end": 228.259,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：回家路上，Jeremy 问 Jenny 是否喜欢他的讲话。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 228.609,
+      "end": 233.869,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "On the way home, he asked Jenny if she had enjoyed the speech"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 234.218,
+      "end": 239.922,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "if"
+        },
+        {
+          "lang": "zh",
+          "text": "是把一个 yes-no question 放进句子里。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 240.272,
+      "end": 245.308,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "令 Jeremy 吃惊的是："
+        },
+        {
+          "lang": "en",
+          "text": "To his surprise, she said she hadn't"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 245.658,
+      "end": 252.13,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She hadn't"
+        },
+        {
+          "lang": "zh",
+          "text": "省掉了 enjoyed the speech，回答很短，也很干脆。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 252.48,
+      "end": 257.296,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Jeremy 问她为什么："
+        },
+        {
+          "lang": "en",
+          "text": "Jeremy asked her why this was so"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 257.646,
+      "end": 264.597,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Jenny 的答案是整篇课文的 punchline："
+        },
+        {
+          "lang": "en",
+          "text": "she did not like to see so many people laughing at him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 264.947,
+      "end": 268.347,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Jenny 不是坏，也不是笨，她只是想保护爸爸。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 268.697,
+      "end": 276.137,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "大人知道客人是在"
+        },
+        {
+          "lang": "en",
+          "text": "laughing with him"
+        },
+        {
+          "lang": "zh",
+          "text": "；Jenny 却以为他们在"
+        },
+        {
+          "lang": "en",
+          "text": "laughing at him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 276.487,
+      "end": 284.007,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧记住：别人笑，不一定是在嘲笑你；有时是你的表达真的打动了他们。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 284.357,
+      "end": 289.836,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，如果我在台上讲故事，大家笑了，我第一反应可能会紧张。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 290.186,
+      "end": 294.362,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "很正常。你可能会想："
+        },
+        {
+          "lang": "en",
+          "text": "Are they laughing at me?"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 294.712,
+      "end": 297.73,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，我会担心是不是自己说错了。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 298.08,
+      "end": 306.376,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但 laughter 有不同意思。"
+        },
+        {
+          "lang": "en",
+          "text": "Laugh at someone"
+        },
+        {
+          "lang": "zh",
+          "text": "是嘲笑；"
+        },
+        {
+          "lang": "en",
+          "text": "laugh with someone"
+        },
+        {
+          "lang": "zh",
+          "text": "是一起笑。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 306.726,
+      "end": 313.21,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Jeremy 的 speech 是"
+        },
+        {
+          "lang": "en",
+          "text": "a great success"
+        },
+        {
+          "lang": "zh",
+          "text": "，所以客人是在和他一起笑？"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 313.559,
+      "end": 318.199,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。他准备得认真，故事也讲得生动，大家的笑是友好的。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 318.549,
+      "end": 321.058,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那 Jenny 为什么不开心？"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 321.408,
+      "end": 327.008,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她太小了，还分不清这两种笑。她看到很多人笑，就以为爸爸被嘲笑了。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 327.358,
+      "end": 330.29,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以 Jenny 其实是在担心爸爸？"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 330.639,
+      "end": 333.999,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "是的。她的误会很可爱，也很温柔。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 334.349,
+      "end": 338.352,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那这课也在鼓励我们练习 public speaking 吗？"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 338.702,
+      "end": 347.622,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。不管中文还是英文，先准备，再讲清楚，再观察听众反应。别人善意地笑，可能说明你讲得很好。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 347.972,
+      "end": 352.124,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "我可以先从 class presentation 或讲一个小故事开始。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 352.474,
+      "end": 358.442,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Exactly."
+        },
+        {
+          "lang": "en",
+          "text": "Prepare carefully, speak clearly, and notice friendly laughter"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 358.791,
+      "end": 363.999,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Jeremy Hampden has a large circle of friends and is very popular at parties."
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 364.349,
+      "end": 368.117,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Everybody admires him for his great sense of humour."
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 368.467,
+      "end": 372.907,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Everybody, that is, except his six-year-old daughter, Jenny."
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 373.257,
+      "end": 378.777,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Recently, one of Jeremy's closest friends asked him to make a speech at a wedding reception."
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 379.127,
+      "end": 382.463,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "This is the sort of thing that Jeremy loves."
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 382.813,
+      "end": 386.965,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He prepared the speech carefully and went to the wedding with Jenny."
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 387.315,
+      "end": 393.483,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He had included a large number of funny stories in the speech and, of course, it was a great success."
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 393.832,
+      "end": 398.128,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As soon as he had finished, Jenny told him she wanted to go home."
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 398.478,
+      "end": 403.302,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Jeremy was a little disappointed by this but he did as his daughter asked."
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 403.652,
+      "end": 407.708,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "On the way home, he asked Jenny if she had enjoyed the speech."
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 408.058,
+      "end": 411.274,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "To his surprise, she said she hadn't."
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 411.624,
+      "end": 417.912,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Jeremy asked her why this was so and she told him that she did not like to see so many people laughing at him!"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 418.262,
+      "end": 421.086,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "circle"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组词："
+        },
+        {
+          "lang": "en",
+          "text": "circle"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 421.436,
+      "end": 423.116,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "circle"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Circle"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 423.466,
+      "end": 429.249,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "circle"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课里的"
+        },
+        {
+          "lang": "en",
+          "text": "circle"
+        },
+        {
+          "lang": "zh",
+          "text": "不是几何里的圆，而是朋友圈。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 429.599,
+      "end": 433.919,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "circle"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A large circle of friends"
+        },
+        {
+          "lang": "zh",
+          "text": "就是朋友圈很广。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 434.269,
+      "end": 439.573,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "circle"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Jeremy 还"
+        },
+        {
+          "lang": "en",
+          "text": "is very popular at parties"
+        },
+        {
+          "lang": "zh",
+          "text": "，在聚会上很受欢迎。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 439.923,
+      "end": 446.255,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "circle"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "大家"
+        },
+        {
+          "lang": "en",
+          "text": "admire him for his great sense of humour"
+        },
+        {
+          "lang": "zh",
+          "text": "，因为他的幽默感而欣赏他。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 446.604,
+      "end": 451.164,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "circle"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后有一个小转折："
+        },
+        {
+          "lang": "en",
+          "text": "except Jenny"
+        },
+        {
+          "lang": "zh",
+          "text": "，除了 Jenny。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 451.514,
+      "end": 458.714,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "circle"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一组词帮你看见 Jeremy 的社交能力：friends, popular, admire, humour, except。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 459.064,
+      "end": 462.008,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "speech"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组词："
+        },
+        {
+          "lang": "en",
+          "text": "speech"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 462.358,
+      "end": 464.038,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "speech"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Speech"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 464.388,
+      "end": 470.508,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "speech"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Make a speech"
+        },
+        {
+          "lang": "zh",
+          "text": "是致辞、发表讲话，也可以连接到 school presentation。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 470.858,
+      "end": 478.201,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "speech"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Wedding reception"
+        },
+        {
+          "lang": "zh",
+          "text": "是婚礼仪式之后的聚会或宴会，不是仪式本身。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 478.551,
+      "end": 483.327,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "speech"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The sort of thing"
+        },
+        {
+          "lang": "zh",
+          "text": "是“这种事情、这一类活动”。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 483.677,
+      "end": 489.973,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "speech"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Jeremy 喜欢这种活动，但他也认真准备："
+        },
+        {
+          "lang": "en",
+          "text": "He prepared the speech carefully"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 490.323,
+      "end": 497.483,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "speech"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这课不是说“天生会讲就够了”，而是说：好的表达可以准备，可以练习。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 497.833,
+      "end": 500.913,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "amused"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组词："
+        },
+        {
+          "lang": "en",
+          "text": "amused"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 501.263,
+      "end": 502.991,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "amused"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Amused"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 503.34,
+      "end": 507.58,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "amused"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Amused"
+        },
+        {
+          "lang": "zh",
+          "text": "是觉得有趣、被逗乐。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 507.93,
+      "end": 517.098,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "amused"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "标题"
+        },
+        {
+          "lang": "en",
+          "text": "She was not amused"
+        },
+        {
+          "lang": "zh",
+          "text": "不只是“她没有笑”，而是 Jenny 不觉得这件事好笑，也有点不高兴。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 517.448,
+      "end": 527.32,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "amused"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Jeremy 的 speech 是"
+        },
+        {
+          "lang": "en",
+          "text": "a great success"
+        },
+        {
+          "lang": "zh",
+          "text": "，可是 Jenny 想回家，所以 Jeremy"
+        },
+        {
+          "lang": "en",
+          "text": "was a little disappointed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 527.67,
+      "end": 534.101,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "amused"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "To his surprise"
+        },
+        {
+          "lang": "zh",
+          "text": "带出转折：他本来以为 Jenny 会喜欢。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 534.451,
+      "end": 537.707,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "amused"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后重点是"
+        },
+        {
+          "lang": "en",
+          "text": "laughing at him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 538.057,
+      "end": 546.153,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "amused"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Laugh at someone"
+        },
+        {
+          "lang": "zh",
+          "text": "可能是嘲笑；"
+        },
+        {
+          "lang": "en",
+          "text": "laugh with someone"
+        },
+        {
+          "lang": "zh",
+          "text": "是一起笑、善意地笑。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 546.503,
+      "end": 550.583,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法板块叫：别人说了什么、问了什么。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 550.933,
+      "end": 554.621,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一块："
+        },
+        {
+          "lang": "en",
+          "text": "ask someone to do something"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 554.97,
+      "end": 560.554,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "例句是："
+        },
+        {
+          "lang": "en",
+          "text": "One of Jeremy's closest friends asked him to make a speech"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 560.904,
+      "end": 565.144,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "请某人做某事，就可以用 ask 加人加 to do。"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 565.494,
+      "end": 569.35,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二块："
+        },
+        {
+          "lang": "en",
+          "text": "admire someone for something"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 569.7,
+      "end": 574.828,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "例句是："
+        },
+        {
+          "lang": "en",
+          "text": "Everybody admires him for his great sense of humour"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "start": 575.178,
+      "end": 579.122,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "For"
+        },
+        {
+          "lang": "zh",
+          "text": "后面说原因：为什么欣赏他。"
+        }
+      ]
+    },
+    {
+      "i": 103,
+      "start": 579.471,
+      "end": 584.383,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三块：past perfect，也就是"
+        },
+        {
+          "lang": "en",
+          "text": "had done"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "start": 584.733,
+      "end": 589.645,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里有："
+        },
+        {
+          "lang": "en",
+          "text": "He had included a large number of funny stories"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 105,
+      "start": 589.995,
+      "end": 594.035,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些 funny stories 是在 speech 成功之前已经放进去的。"
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "start": 594.385,
+      "end": 597.441,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四块："
+        },
+        {
+          "lang": "en",
+          "text": "As soon as"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 107,
+      "start": 597.791,
+      "end": 604.183,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As soon as he had finished, Jenny told him she wanted to go home"
+        },
+        {
+          "lang": "zh",
+          "text": "，一讲完，她就要回家。"
+        }
+      ]
+    },
+    {
+      "i": 108,
+      "start": 604.532,
+      "end": 606.732,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第五块：reported speech。"
+        }
+      ]
+    },
+    {
+      "i": 109,
+      "start": 607.082,
+      "end": 612.886,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Jenny told him she wanted to go home"
+        },
+        {
+          "lang": "zh",
+          "text": "，这里把 Jenny 说的话放进句子里。"
+        }
+      ]
+    },
+    {
+      "i": 110,
+      "start": 613.236,
+      "end": 616.116,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第六块：reported question。"
+        }
+      ]
+    },
+    {
+      "i": 111,
+      "start": 616.466,
+      "end": 619.898,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He asked Jenny if she had enjoyed the speech"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 112,
+      "start": 620.248,
+      "end": 626.192,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "原问题是 Did you enjoy the speech? 放进句子里，就用"
+        },
+        {
+          "lang": "en",
+          "text": "if"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 113,
+      "start": 626.542,
+      "end": 630.406,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一块："
+        },
+        {
+          "lang": "en",
+          "text": "see someone doing something"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 114,
+      "start": 630.756,
+      "end": 637.267,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She did not like to see so many people laughing at him"
+        },
+        {
+          "lang": "zh",
+          "text": "，她不想看到那么多人正在嘲笑他。"
+        }
+      ]
+    },
+    {
+      "i": 115,
+      "start": 637.617,
+      "end": 643.217,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "语法最后要回到意思：Jenny 听见的是 laughter，但她误读了 laughter 的方向。"
+        }
+      ]
+    },
+    {
+      "i": 116,
+      "start": 643.567,
+      "end": 649.095,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把今天的表达放进一个现代场景："
+        },
+        {
+          "lang": "en",
+          "text": "My Class Speech"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 117,
+      "start": 649.445,
+      "end": 654.805,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你在班里做一个小 presentation，提前准备了 speech，还放进一个 funny story。"
+        }
+      ]
+    },
+    {
+      "i": 118,
+      "start": 655.155,
+      "end": 659.795,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "同学们听到好笑的地方都笑了，你一开始有点紧张。"
+        }
+      ]
+    },
+    {
+      "i": 119,
+      "start": 660.145,
+      "end": 663.665,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你问老师："
+        },
+        {
+          "lang": "en",
+          "text": "Were they laughing at me?"
+        }
+      ]
+    },
+    {
+      "i": 120,
+      "start": 664.014,
+      "end": 668.062,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师告诉你："
+        },
+        {
+          "lang": "en",
+          "text": "No, they were laughing with you"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 121,
+      "start": 668.412,
+      "end": 674.412,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这说明你的故事讲清楚了，你的 presentation was"
+        },
+        {
+          "lang": "en",
+          "text": "a great success"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 122,
+      "start": 674.762,
+      "end": 679.122,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，你要用 word bank 补完整 5 个空。"
+        }
+      ]
+    },
+    {
+      "i": 123,
+      "start": 679.472,
+      "end": 693.235,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "重点练："
+        },
+        {
+          "lang": "en",
+          "text": "prepared my speech carefully"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "included a funny story"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "laughing at me"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "laughing with you"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "a great success"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 124,
+      "start": 693.585,
+      "end": 700.905,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 125,
+      "start": 701.255,
+      "end": 714.695,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓中文误会线：Jeremy 朋友多，在 parties 上受欢迎；亲密朋友请他在 wedding reception 上 make a speech；他认真准备，讲话大获成功。"
+        }
+      ]
+    },
+    {
+      "i": 126,
+      "start": 715.045,
+      "end": 725.085,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再读 Jenny 的反应：As soon as he had finished，Jenny wanted to go home；on the way home，Jeremy asked if she had enjoyed the speech；she hadn't。"
+        }
+      ]
+    },
+    {
+      "i": 127,
+      "start": 725.435,
+      "end": 734.875,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后读懂核心区别："
+        },
+        {
+          "lang": "en",
+          "text": "laughing at him"
+        },
+        {
+          "lang": "zh",
+          "text": "是 Jenny 的理解；"
+        },
+        {
+          "lang": "en",
+          "text": "laughing with him"
+        },
+        {
+          "lang": "zh",
+          "text": "才是客人的真实善意。"
+        }
+      ]
+    },
+    {
+      "i": 128,
+      "start": 735.224,
+      "end": 745.424,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，② 完形填空，③ 中译英，④ 英译中，⑤ 默写，一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 129,
+      "start": 745.774,
+      "end": 756.414,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心：prepare carefully, speak clearly, and let friendly laughter give you confidence."
+        }
+      ]
+    }
+  ],
+  "lesson_id": 63
+}

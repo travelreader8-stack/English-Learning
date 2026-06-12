@@ -1,0 +1,109 @@
+{
+  "lesson_id": 63,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按中文误会线记忆：Jeremy 朋友多，在聚会上受欢迎；大家欣赏他的 humour；亲密朋友请他在 wedding reception 上 make a speech；他认真准备并加入 funny stories，speech was a great success；Jenny 却以为大家在 laughing at him。读的时候注意 circle、popular、sense of humour、make a speech、prepared carefully、a great success、As soon as、if she had enjoyed 和 laughing at him。",
+  "sentences": [
+    {
+      "id": "l63_s1",
+      "text": "Jeremy Hampden has a large circle of friends and is very popular at parties.",
+      "focus_zh": "中文锚点：Jeremy Hampden 朋友很多，在聚会上很受欢迎。Large circle of friends 是朋友圈很广，不是几何里的圆。",
+      "start": 358.791,
+      "end": 363.999,
+      "focus_words": [
+        "Jeremy Hampden",
+        "a large circle of friends",
+        "very popular",
+        "at parties"
+      ]
+    },
+    {
+      "id": "l63_s2",
+      "text": "Everybody admires him for his great sense of humour.",
+      "focus_zh": "中文锚点：大家都因为他的幽默感而欣赏他。Admire him for 后面说原因，sense of humour 要连成一个性格短语来读。",
+      "start": 364.349,
+      "end": 368.117,
+      "focus_words": [
+        "Everybody admires him",
+        "for his great",
+        "sense of humour"
+      ]
+    },
+    {
+      "id": "l63_s3",
+      "text": "Recently, one of Jeremy's closest friends asked him to make a speech at a wedding reception.",
+      "focus_zh": "中文锚点：最近，一个最亲密的朋友请 Jeremy 在婚礼宴会上致辞。Asked him to make a speech 是核心结构，wedding reception 是婚礼后的聚会或宴会。",
+      "start": 373.257,
+      "end": 378.777,
+      "focus_words": [
+        "Recently",
+        "one of Jeremy's closest friends",
+        "asked him to make a speech",
+        "at a wedding reception"
+      ]
+    },
+    {
+      "id": "l63_s4",
+      "text": "He prepared the speech carefully and went to the wedding with Jenny.",
+      "focus_zh": "中文锚点：他认真准备了讲话，并和 Jenny 一起去了婚礼。Prepared carefully 要读出“认真准备”的感觉。",
+      "start": 382.813,
+      "end": 386.965,
+      "focus_words": [
+        "prepared the speech carefully",
+        "went to the wedding",
+        "with Jenny"
+      ]
+    },
+    {
+      "id": "l63_s5",
+      "text": "He had included a large number of funny stories in the speech and, of course, it was a great success.",
+      "focus_zh": "中文锚点：他在 speech 里加入很多有趣的小故事，所以讲话大获成功。Had included 是过去里更早完成的动作，a great success 要读得肯定。",
+      "start": 387.315,
+      "end": 393.483,
+      "focus_words": [
+        "had included",
+        "a large number of",
+        "funny stories",
+        "a great success"
+      ]
+    },
+    {
+      "id": "l63_s6",
+      "text": "As soon as he had finished, Jenny told him she wanted to go home.",
+      "focus_zh": "中文锚点：他一讲完，Jenny 就说想回家。As soon as 表示“一......就......”，让反应显得很突然。",
+      "start": 393.832,
+      "end": 398.128,
+      "focus_words": [
+        "As soon as",
+        "he had finished",
+        "Jenny told him",
+        "she wanted to go home"
+      ]
+    },
+    {
+      "id": "l63_s7",
+      "text": "On the way home, he asked Jenny if she had enjoyed the speech.",
+      "focus_zh": "中文锚点：回家路上，他问 Jenny 是否喜欢这次讲话。Asked Jenny if 是把 yes-no question 放进句子里。",
+      "start": 403.652,
+      "end": 407.708,
+      "focus_words": [
+        "On the way home",
+        "asked Jenny if",
+        "she had enjoyed",
+        "the speech"
+      ]
+    },
+    {
+      "id": "l63_s8",
+      "text": "Jeremy asked her why this was so and she told him that she did not like to see so many people laughing at him!",
+      "focus_zh": "中文锚点：Jeremy 问为什么，Jenny 说她不喜欢看到那么多人嘲笑他。Laughing at him 是 Jenny 的理解，要读清楚 at，因为它决定了误会的方向。",
+      "start": 411.624,
+      "end": 417.912,
+      "focus_words": [
+        "why this was so",
+        "she told him",
+        "did not like to see",
+        "so many people laughing at him"
+      ]
+    }
+  ]
+}
