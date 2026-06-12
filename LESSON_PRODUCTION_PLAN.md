@@ -15,6 +15,7 @@ per-lesson plan under `lesson_plans/`.
 - Generated storyboards: `pipeline/scripts/lesson_N.storyboard.json`
 - Lesson media: `web/audio/lesson_N.mp3`, `web/audio/lesson_N.timeline.json`,
   `web/audio/lesson_N_frame_1.webp` through `lesson_N_frame_4.webp`
+- QC checklist: `LESSON_QC_CHECKLIST.md`
 - Local dev server: `cd web && npx tsx dev-server.ts`
 
 ## Production Rule
@@ -58,6 +59,7 @@ For a lesson production thread:
 5. Produce only the files for that lesson unless the user explicitly asks for a
    platform or shared-code change.
 6. Run focused validation before reporting completion.
+7. Run the QC sub-agent gate before committing or pushing `main`.
 
 ## Per-Lesson Plans
 
@@ -253,9 +255,25 @@ student's answer against the wrong reference.
      `cd web && npx tsx dev-server.ts`
      then open `http://127.0.0.1:5500/lesson.html?id=N`.
 
-5. **Commit and push**
-   - After a lesson is fully produced and validated, commit and push the lesson
-     automatically.
+5. **QC sub-agent gate**
+   - After production validation passes, the production agent must spawn a QC
+     sub-agent before committing or pushing `main`.
+   - The QC sub-agent must read `LESSON_QC_CHECKLIST.md`, this root plan, the
+     matching `lesson_plans/lesson_NNN.md`, and the produced lesson files.
+   - The QC sub-agent is read-only by default: it must inspect, open the lesson
+     in a browser, and report findings, but it must not edit files, stage,
+     commit, or push.
+   - The QC report must end with exactly one status:
+     `PASS` or `NEEDS FIX`.
+   - If the QC report is `NEEDS FIX`, the production agent fixes the issues and
+     runs the QC sub-agent again. Do not publish after a failed or incomplete
+     QC pass.
+   - If sub-agent tooling is unavailable, stop after local validation and tell
+     the user that QC could not be run. Do not push `main`.
+
+6. **Commit and push**
+   - Commit and push only after production validation passes and the latest QC
+     sub-agent report is `PASS`.
    - First run `git status --short`.
    - Stage only the files for this lesson and any explicit plan/index files that
      were intentionally changed for this lesson. Do not stage unrelated local
@@ -308,5 +326,7 @@ A lesson is ready only when:
   without retelling the full passage before the retell frames begin.
 - The final `outro` page and narration explicitly include `⓪ 跟读` before
   `① 生活场景`, with the concrete read-aloud steps.
-- The completed lesson is committed and pushed, unless the user explicitly asks
-  for a local-only run.
+- A QC sub-agent has inspected the produced lesson with
+  `LESSON_QC_CHECKLIST.md` and returned `PASS`.
+- The completed lesson is committed and pushed only after that QC `PASS`, unless
+  the user explicitly asks for a local-only run.
