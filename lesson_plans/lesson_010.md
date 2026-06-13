@@ -318,3 +318,61 @@ Lesson 10 is ready only when:
   `jazz`, `key`, `string`, `struck`, `shocked`, `touch`, and `repair`.
 - The grammar is taught as an object's life story using passive voice, not as a
   standalone formula table.
+
+## Extension Practice Direction
+
+Lesson 10 extension production should be extension-only. Create
+`web/data/extension/lesson_10.json` and register `10` in
+`web/data/extension/index.json`. Do not regenerate script, audio, timeline,
+read-aloud data, living-scene data, or storyboard images.
+
+### Extension Reading
+
+Use an original story about a delicate old object in a family, classroom, or
+club room: an old camera, record player, model ship, handmade instrument, or
+museum-style display. Someone uses it in the wrong way and damages it. Do not
+reuse clavichord, Germany in 1681, or jazz. Keep the message clear: the visitor
+is careless; the music style or hobby itself is not being criticized.
+
+Suggested title: `Not for Loud Experiments`
+
+Recommended word bank: `instrument`, `called`, `was made`, `has belonged to`,
+`recently`, `damaged`, `struck`, `shocked`, `not allowed to`, `being repaired`.
+
+The 5 reading questions should test:
+
+1. what old object the family or group had
+2. why it mattered or had history
+3. how it was damaged
+4. why people were shocked
+5. what rule changed while it was being repaired
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `It is called ...`
+   - Source: `It is called a clavichord.`
+   - Focus: naming an object.
+   - Must include: `It is called`
+2. `was made in ...`
+   - Source: `It was made in Germany in 1681.`
+   - Focus: origin and time.
+   - Must include: `was made in`
+3. `has belonged to ... for ...`
+   - Source: `It has belonged to our family for a long time.`
+   - Focus: long ownership until now.
+   - Must include: `has belonged to` and `for`
+4. `was damaged by ...`
+   - Source: `Recently it was damaged by a visitor.`
+   - Focus: passive damage event.
+   - Must include: `was damaged by`
+5. `are not allowed to ...`
+   - Source: `Now we are not allowed to touch it.`
+   - Focus: rule after a problem.
+   - Must include: `are not allowed to`
+
+## Extension Acceptance Criteria
+
+- The reading does not imply that jazz or modern music is bad.
+- The writing section teaches passive voice through the life of an object.

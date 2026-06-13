@@ -339,3 +339,62 @@ Lesson 15 production is successful only if:
 - The outro includes the full practice order and the concrete read-aloud steps:
   `⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈`, then
   `① 生活场景`, `② 完形`, `③ 中译英`, `④ 英译中`, `⑤ 默写`.
+
+## Extension Practice Direction
+
+Lesson 15 extension production should be extension-only. Create
+`web/data/extension/lesson_15.json` and register `15` in
+`web/data/extension/index.json`. Do not regenerate script, audio, timeline,
+read-aloud data, living-scene data, or storyboard images.
+
+### Extension Reading
+
+Use an original school or club story where a student is called into an office
+and expects bad news, but receives good news such as a scholarship, role,
+award, or extra responsibility. Do not retell Mr. Harmsworth and salary. Keep
+the suspense: the explanation sounds bad until the final smile changes the
+meaning.
+
+Suggested title: `Good News From the Coach`
+
+Recommended word bank: `secretary`, `nervous`, `office`, `weak voice`,
+`interrupt`, `business was bad`, `could not afford`, `my turn had come`,
+`extra`, `good news`.
+
+The 5 reading questions should test:
+
+1. why the student was called in
+2. why the student felt nervous
+3. what details made the news sound bad
+4. what interruption or weak reply showed fear
+5. what the real good news was
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `told me that ... would ...`
+   - Source: `The secretary told me that Mr. Harmsworth would see me.`
+   - Focus: reported future-in-the-past.
+   - Must include: `told me that` and `would`
+2. `felt very nervous when ...`
+   - Source: `I felt very nervous when I went into his office.`
+   - Focus: emotion tied to a moment.
+   - Must include: `felt very nervous when`
+3. `did not look up from ...`
+   - Source: `He did not look up from his desk when I entered.`
+   - Focus: someone continuing work without greeting.
+   - Must include: `did not look up from`
+4. `could not afford to ...`
+   - Source: `The firm could not afford to pay such large salaries.`
+   - Focus: not having enough money or resources.
+   - Must include: `could not afford to`
+5. `Then he smiled and told me ...`
+   - Source: `Then he smiled and told me I would receive an extra thousand pounds a year!`
+   - Focus: final reversal into good news.
+   - Must include: `Then he smiled and told me`
+
+## Extension Acceptance Criteria
+
+- The reading builds suspense but ends with a clear positive reversal.
+- The writing section keeps reported speech central.

@@ -67,6 +67,8 @@ For a lesson production thread:
 
 Course design cards live in `lesson_plans/`:
 
+- `lesson_plans/lesson_001.md` - Lesson 1, `A private conversation`
+- `lesson_plans/lesson_002.md` - Lesson 2, `Breakfast or lunch?`
 - `lesson_plans/lesson_003.md` - Lesson 3, `Please send me a card`
 - `lesson_plans/lesson_004.md` - Lesson 4, `An exciting trip`
 - `lesson_plans/lesson_005.md` - Lesson 5, `No wrong numbers`
@@ -159,7 +161,8 @@ For "开始生产 Lesson N", the normal write set is limited to:
 - `pipeline/scripts/lesson_N.storyboard.json`
 - `web/data/you_too/lesson_N.json`
 - `web/data/read_aloud/lesson_N.json`
-- `web/data/extension/lesson_N.json` for Lesson 25 and later
+- `web/data/extension/lesson_N.json` when extension practice is enabled for
+  the target lesson
 - `web/data/extension/index.json` only to register or unregister the target
   lesson's extension practice
 - `web/audio/lesson_N.mp3`
@@ -186,9 +189,12 @@ of silently patching the platform.
 
 ## Extension Practice Policy
 
-Lesson 24 validated the extension-practice pattern. For Lesson 25 and later,
-full lesson production should include two additional practice sections unless
-the user explicitly asks for a local-only or legacy flow:
+Lesson 24 validated the extension-practice pattern. Extension practice can now
+be produced for any lesson with an `Extension Practice Direction` in its lesson
+plan. For Lessons 1-23 this is a backfill task on already-produced lessons; for
+Lesson 25 and later, full lesson production should include two additional
+practice sections unless the user explicitly asks for a local-only or legacy
+flow:
 
 1. `拓展阅读`
 2. `句式仿写`
@@ -262,8 +268,9 @@ student's answer against the wrong reference.
      instead of inventing a new-looking person in each frame.
    - Create `web/data/you_too/lesson_N.json`.
    - Create `web/data/read_aloud/lesson_N.json` with 5-8 guided sentences.
-   - For Lesson 25 and later, create `web/data/extension/lesson_N.json` and
-     register the lesson in `web/data/extension/index.json`.
+   - For any lesson whose plan contains an `Extension Practice Direction`,
+     create `web/data/extension/lesson_N.json` and register the lesson in
+     `web/data/extension/index.json`.
    - Keep `[EN]...[/EN]` tags balanced.
    - Include all required scenes: `hook`, `retell` x4, `discuss`,
      `passage_normal`, exactly 3 `vocab` blocks, `grammar`, `you_too`, `outro`.
@@ -299,9 +306,10 @@ student's answer against the wrong reference.
    - Verify translation practice segmentation is safe: manual `chunks`, if
      present, must be equal length; otherwise the frontend whole-passage fallback
      is acceptable.
-   - For Lesson 25 and later, verify `web/data/extension/lesson_N.json` exists,
-     is registered in `web/data/extension/index.json`, and contains both
-     `reading` and `writing` sections.
+   - For any lesson whose plan contains an `Extension Practice Direction`,
+     verify `web/data/extension/lesson_N.json` exists, is registered in
+     `web/data/extension/index.json`, and contains both `reading` and
+     `writing` sections.
    - Run baseline tests that do not require changing shared files:
      `python3 tests/test_pipeline.py`
      `node tests/test_slide_player.mjs`
@@ -381,8 +389,8 @@ A lesson is ready only when:
 - The per-lesson `you_too` JSON follows the course design card.
 - The per-lesson `read_aloud` JSON has 5-8 high-value sentences with
   `focus_zh`, `start`, `end`, and `focus_words`.
-- For Lesson 25 and later, the per-lesson extension JSON exists, is registered
-  in `web/data/extension/index.json`, and contains:
+- For lessons with an `Extension Practice Direction`, the per-lesson extension
+  JSON exists, is registered in `web/data/extension/index.json`, and contains:
   - one original same-topic reading passage with comprehension questions
   - one sentence-writing section with carefully selected source patterns,
     `must_include`, `min_words`, samples, and coaching tips

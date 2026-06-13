@@ -308,3 +308,61 @@ Lesson 7 is ready only when:
   `stones and sand`.
 - The script avoids violent action framing and keeps the story as a clean
   detective puzzle about a switched parcel.
+
+## Extension Practice Direction
+
+Lesson 7 extension production should be extension-only. Create
+`web/data/extension/lesson_7.json` and register `7` in
+`web/data/extension/index.json`. Do not regenerate script, audio, timeline,
+read-aloud data, living-scene data, or storyboard images.
+
+### Extension Reading
+
+Use an original delivery-security mystery about a valuable school science model,
+competition trophy, or museum display box that security staff are expecting,
+but the real object has already been switched before arrival. Do not use
+diamonds, airports, South Africa, or Customs House. Keep the puzzle clean and
+non-violent.
+
+Suggested title: `The Empty Trophy Box`
+
+Recommended word bank: `detective`, `expect`, `valuable`, `parcel`, `thieves`,
+`steal`, `keep guard`, `to their surprise`, `precious`, `full of`.
+
+The 5 reading questions should test:
+
+1. what valuable thing people were expecting
+2. what warning made the adults careful
+3. where different people waited or kept guard
+4. what was found inside the parcel
+5. why the title idea is "too late"
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `were waiting ... all morning`
+   - Source: `Detectives were waiting at the airport all morning.`
+   - Focus: long waiting in progress.
+   - Must include: `were waiting` and `all morning`
+2. `were expecting ...`
+   - Source: `They were expecting a valuable parcel of diamonds.`
+   - Focus: waiting for an important arrival.
+   - Must include: `were expecting`
+3. `would try to ...`
+   - Source: `Thieves would try to steal the diamonds.`
+   - Focus: reported warning about a future attempt.
+   - Must include: `would try to`
+4. `While ... were keeping guard, ...`
+   - Source: `While two detectives were keeping guard at the door, two others opened the parcel.`
+   - Focus: two simultaneous actions.
+   - Must include: `While` and `were keeping guard`
+5. `To their surprise, ... was full of ...`
+   - Source: `To their surprise, the precious parcel was full of stones and sand!`
+   - Focus: discovery and twist.
+   - Must include: `To their surprise` and `was full of`
+
+## Extension Acceptance Criteria
+
+- The reading is a new security puzzle, not an airport-diamond paraphrase.
+- The writing section preserves the action timing and final discovery pattern.

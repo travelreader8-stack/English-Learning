@@ -323,3 +323,61 @@ Lesson 9 is ready only when:
   `minute hand` for a child used to digital clocks.
 - The script preserves the title joke: the clock "refused to welcome" the New
   Year, and the crowd turns the awkward moment into laughter and singing.
+
+## Extension Practice Direction
+
+Lesson 9 extension production should be extension-only. Create
+`web/data/extension/lesson_9.json` and register `9` in
+`web/data/extension/index.json`. Do not regenerate script, audio, timeline,
+read-aloud data, living-scene data, or storyboard images.
+
+### Extension Reading
+
+Use an original public countdown story with a modern bridge: a school New Year
+show, sports-day countdown screen, livestream timer, or public square screen
+freezes just before the expected moment. Do not retell the Town Hall clock. Keep
+the cultural idea that people gather around a shared time signal.
+
+Suggested title: `The Frozen Countdown`
+
+Recommended word bank: `welcome`, `crowd`, `gathered`, `countdown`, `would
+strike`, `five to twelve`, `minute hand`, `refused`, `began to laugh`, `sing`.
+
+The 5 reading questions should test:
+
+1. why the crowd had gathered
+2. what the timer or screen was expected to do
+3. what went wrong just before the moment
+4. how people realized the true time
+5. how the awkward moment turned into laughter or celebration
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `It was the last day of ...`
+   - Source: `It was the last day of the year.`
+   - Focus: setting a special date.
+   - Must include: `It was the last day of`
+2. `a large crowd of people had gathered ...`
+   - Source: `A large crowd of people had gathered under the Town Hall clock.`
+   - Focus: people already gathered before the action.
+   - Must include: `had gathered`
+3. `would strike ... in ...`
+   - Source: `It would strike twelve in twenty minutes' time.`
+   - Focus: expected future moment from a past viewpoint.
+   - Must include: `would` and `in`
+4. `We waited and waited, but ...`
+   - Source: `We waited and waited, but nothing happened.`
+   - Focus: repeated waiting followed by failure.
+   - Must include: `waited and waited`
+5. `began to laugh and ...`
+   - Source: `Everybody began to laugh and sing.`
+   - Focus: group reaction.
+   - Must include: `began to laugh`
+
+## Extension Acceptance Criteria
+
+- The reading explains a shared public countdown without treating Town Hall as
+  a familiar object.
+- The writing section reinforces time expressions and crowd reaction.

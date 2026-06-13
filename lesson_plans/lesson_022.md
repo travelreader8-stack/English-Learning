@@ -396,3 +396,57 @@ Lesson 22 production is successful only if:
 - The outro includes the full practice order and the concrete read-aloud steps:
   `⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈`, then
   `① 生活场景`, `② 完形`, `③ 中译英`, `④ 英译中`, `⑤ 默写`.
+
+## Extension Practice Direction
+
+Lesson 22 extension production should be extension-only if the main lesson has
+already been produced. Create `web/data/extension/lesson_22.json` and register
+`22` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, living-scene data, or storyboard images unless the
+user asks for a full refresh.
+
+### Extension Reading
+
+Use an original modern story about a chance connection becoming a regular and
+reliable friendship: a message capsule, school exchange note, postcard wall,
+safe pen-pal activity, or teacher-arranged letter project. Do not encourage
+children to throw bottles into the sea, and do not retell Jane's Channel story
+exactly. Keep the contrast between romantic chance and practical communication.
+
+Suggested title: `The Message Capsule`
+
+Recommended word bank: `dreamed of`, `of her own age`, `Channel`, `address`,
+`bottle`, `regularly`, `each other`, `post office`, `a little more`, `faster`.
+
+The 5 reading questions should test:
+
+1. what kind of chance message started the connection
+2. why the other child felt special or similar
+3. how the two children began communicating regularly
+4. why the practical method was better than the first method
+5. the lesson idea: chance can start a connection, but reliability keeps it
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `never dreamed of ...ing`
+   - Source: `Jane never dreamed of receiving a letter from a girl of her own age in Holland.`
+   - Focus: something surprising that someone had not imagined.
+   - Must include: `never dreamed of` and an `-ing` verb
+2. `of her own age`
+   - Source: `a girl of her own age`
+   - Focus: someone about the same age.
+   - Must include: `of my own age` or `of his/her own age`
+3. `never thought of it again`
+   - Source: `She never thought of it again.`
+   - Focus: forgetting about a small action until it matters later.
+   - Must include: `never thought of it again`
+4. `write to each other regularly`
+   - Source: `They write to each other regularly now.`
+   - Focus: two-way repeated communication.
+   - Must include: `each other` and `regularly`
+5. `will certainly ... faster`
+   - Source: `Letters will cost a little more, but they will certainly travel faster.`
+   - Focus: a clear practical comparison.
+   - Must include: `will certainly` and `faster`

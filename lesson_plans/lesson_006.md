@@ -245,3 +245,63 @@ Lesson 6 is ready only when:
 - The script does not mock the beggar or poverty. The punchline is the
   neighbour's reveal and Percy's regular monthly routine.
 - The script clearly explains `call at` as "visit a place", not a phone call.
+
+## Extension Practice Direction
+
+Lesson 6 extension production should be extension-only. Create
+`web/data/extension/lesson_6.json` and register `6` in
+`web/data/extension/index.json`. Do not regenerate script, audio, timeline,
+read-aloud data, living-scene data, or storyboard images.
+
+### Extension Reading
+
+Use an original modern neighbourhood story about a regular visitor or helper
+who comes to many homes or shops once a month, such as a community volunteer,
+building notice helper, or recycling collector. Do not restage a beggar at the
+door. Keep the old-doorstep context bridged to modern safety: children should
+not open the door to strangers alone.
+
+Suggested title: `The Monthly Visitor`
+
+Recommended word bank: `moved`, `knocked`, `asked me for`, `in return for`,
+`neighbour`, `everybody knows`, `calls at`, `once a month`, `pocket`, `went
+away`.
+
+The 5 reading questions should test:
+
+1. who visited and why the narrator was surprised
+2. what the visitor asked for
+3. what the visitor did in return
+4. what the neighbour later explained
+5. what modern safety rule the child should remember
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `have just moved to ...`
+   - Source: `I have just moved to a house in Bridge Street.`
+   - Focus: recent change of home or place.
+   - Must include: `have just moved to`
+2. `asked me for ...`
+   - Source: `He asked me for a meal and a glass of beer.`
+   - Focus: asking someone for something.
+   - Must include: `asked me for`
+3. `In return for this, ...`
+   - Source: `In return for this, the beggar stood on his head and sang songs.`
+   - Focus: exchange between help and action.
+   - Must include: `In return for this`
+4. `Later a neighbour told me about ...`
+   - Source: `Later a neighbour told me about him.`
+   - Focus: later explanation from another person.
+   - Must include: `Later a neighbour told me about`
+5. `once a month`
+   - Source: `He calls at every house in the street once a month.`
+   - Focus: regular routine.
+   - Must include: `once a month`
+
+## Extension Acceptance Criteria
+
+- The reading keeps dignity and safety clear; it must not mock poverty.
+- The writing section teaches `ask for`, `in return for`, and `call at` through
+  modern examples.

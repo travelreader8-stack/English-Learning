@@ -361,3 +361,57 @@ Lesson 17 production is successful only if:
 - The outro includes the full practice order and the concrete read-aloud steps:
   `⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈`, then
   `① 生活场景`, `② 完形`, `③ 中译英`, `④ 英译中`, `⑤ 默写`.
+
+## Extension Practice Direction
+
+Lesson 17 extension production should be extension-only if the main lesson has
+already been produced. Create `web/data/extension/lesson_17.json` and register
+`17` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, living-scene data, or storyboard images unless the
+user asks for a full refresh.
+
+### Extension Reading
+
+Use an original modern story about a student actor, short-film performer, voice
+actor, or cosplay participant who must play someone much younger or very
+different from their real self. Do not retell Jennifer's exact theatre plot.
+Keep the key idea clear: a performer has a real identity and a role identity,
+and costume helps the audience believe the role.
+
+Suggested title: `Playing a Younger Role`
+
+Recommended word bank: `actress`, `stage`, `appear`, `take part in`, `bright`,
+`costume`, `stockings`, `at least`, `in spite of this`, `grown up`.
+
+The 5 reading questions should test:
+
+1. what role the performer has to play
+2. how the performer's real age or identity differs from the role
+3. why the costume is important
+4. what the audience is meant to believe
+5. the lesson idea: acting is about appearing as someone else
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `must be at least ...`
+   - Source: `She must be at least thirty-five years old.`
+   - Focus: a strong guess based on evidence.
+   - Must include: `must be at least`
+2. `In spite of this, ...`
+   - Source: `In spite of this, she often appears on the stage as a young girl.`
+   - Focus: contrast between reality and role.
+   - Must include: `In spite of this`
+3. `appears ... as ...`
+   - Source: `she often appears on the stage as a young girl`
+   - Focus: role identity in performance.
+   - Must include: `appears` and `as`
+4. `will have to ...`
+   - Source: `she will have to take part in a new play soon`
+   - Focus: a future requirement.
+   - Must include: `will have to`
+5. `it must be terrible to ...`
+   - Source: `it must be terrible to be grown up`
+   - Focus: a playful strong feeling or guess.
+   - Must include: `it must be terrible to`

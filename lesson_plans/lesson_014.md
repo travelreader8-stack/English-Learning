@@ -328,3 +328,63 @@ Lesson 14 production is successful only if:
 - The outro includes the full practice order and the concrete read-aloud steps:
   `⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈`, then
   `① 生活场景`, `② 完形`, `③ 中译英`, `④ 英译中`, `⑤ 默写`.
+
+## Extension Practice Direction
+
+Lesson 14 extension production should be extension-only. Create
+`web/data/extension/lesson_14.json` and register `14` in
+`web/data/extension/index.json`. Do not regenerate script, audio, timeline,
+read-aloud data, living-scene data, or storyboard images.
+
+### Extension Reading
+
+Use an original language-misunderstanding story in a train, school camp,
+museum, or travel setting. Two people assume they do not share a language and
+stay quiet, then discover they both speak English or Chinese. Do not retell the
+France lift story. Keep the humour gentle and about assumptions, not mocking
+language ability.
+
+Suggested title: `The Quiet Museum Visit`
+
+Recommended word bank: `amusing experience`, `wave`, `lift`, `reply`, `apart
+from`, `at all`, `neither of us`, `journey`, `as soon as`, `Do you speak
+English?`.
+
+The 5 reading questions should test:
+
+1. where the misunderstanding happened
+2. why the two people stayed quiet
+3. what language one person first used
+4. what question revealed the truth
+5. why the experience was amusing rather than serious
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `After I had ..., I ...`
+   - Source: `After I had left a small village, I drove on to the next town.`
+   - Focus: earlier action before the next story action.
+   - Must include: `After I had`
+2. `asked me for ...`
+   - Source: `He asked me for a lift.`
+   - Focus: asking for help.
+   - Must include: `asked me for`
+3. `As soon as ..., ...`
+   - Source: `As soon as he had got into the car, I said good morning to him in French.`
+   - Focus: immediate action after another action.
+   - Must include: `As soon as`
+4. `Apart from a few words, ... at all`
+   - Source: `Apart from a few words, I do not know any French at all.`
+   - Focus: very limited knowledge.
+   - Must include: `Apart from a few words` and `at all`
+5. `Neither of us ...`
+   - Source: `Neither of us spoke during the journey.`
+   - Focus: neither person doing something.
+   - Must include: `Neither of us`
+
+## Extension Acceptance Criteria
+
+- The reading avoids mocking accents or language mistakes.
+- The writing section teaches past-perfect order and useful misunderstanding
+  phrases.

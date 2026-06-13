@@ -341,3 +341,61 @@ Lesson 12 is ready only when:
   there is a strong reason documented in production notes.
 - The modern bridge uses airport, train station, camp, school competition, or
   team send-off examples so the student can transfer the emotion beyond sailing.
+
+## Extension Practice Direction
+
+Lesson 12 extension production should be extension-only. Create
+`web/data/extension/lesson_12.json` and register `12` in
+`web/data/extension/index.json`. Do not regenerate script, audio, timeline,
+read-aloud data, living-scene data, or storyboard images.
+
+### Extension Reading
+
+Use an original send-off story about a classmate, neighbour, or team member
+leaving for a race, camp, robotics contest, or long cycling trip. Do not retell
+Captain Alison's harbour departure. Preserve the emotion: proud people gather
+early, say goodbye, and look ahead to an important challenge.
+
+Suggested title: `Good Luck at the Station`
+
+Recommended word bank: `good luck`, `captain`, `set out`, `harbour`,
+`important race`, `proud`, `plenty of time`, `will be away`, `take part in`,
+`tomorrow`.
+
+The 5 reading questions should test:
+
+1. who is leaving and for what challenge
+2. where people meet to say goodbye
+3. when the person will set out
+4. how long the person will be away
+5. why the narrator feels proud
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `will ... tomorrow`
+   - Source: `Captain Charles Alison will sail from Portsmouth tomorrow.`
+   - Focus: future schedule.
+   - Must include: `will` and `tomorrow`
+2. `We'll meet ... at ...`
+   - Source: `We'll meet him at the harbour early in the morning.`
+   - Focus: arranged meeting.
+   - Must include: `We'll meet` and `at`
+3. `will set out at ...`
+   - Source: `Captain Alison will set out at eight o'clock.`
+   - Focus: departure time.
+   - Must include: `will set out at`
+4. `will be away for ...`
+   - Source: `He will be away for two months.`
+   - Focus: future duration away.
+   - Must include: `will be away for`
+5. `take part in ...`
+   - Source: `He will take part in an important race across the Atlantic.`
+   - Focus: joining an event or contest.
+   - Must include: `take part in`
+
+## Extension Acceptance Criteria
+
+- The reading transfers the send-off emotion beyond sailing.
+- The writing section presents `will` as a concrete schedule.

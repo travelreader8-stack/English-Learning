@@ -318,3 +318,61 @@ Lesson 13 production is successful only if:
 - The outro includes the full practice order and the concrete read-aloud steps:
   `⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈`, then
   `① 生活场景`, `② 完形`, `③ 中译英`, `④ 英译中`, `⑤ 默写`.
+
+## Extension Practice Direction
+
+Lesson 13 extension production should be extension-only. Create
+`web/data/extension/lesson_13.json` and register `13` in
+`web/data/extension/index.json`. Do not regenerate script, audio, timeline,
+read-aloud data, living-scene data, or storyboard images.
+
+### Extension Reading
+
+Use an original event-schedule passage about a school band, debate team, drama
+club, or esports team visiting a town or school for several days. Do not retell
+The Greenwood Boys. The passage should make `will be doing` feel like a visible
+timetable of arranged future activities.
+
+Suggested title: `The School Band Schedule`
+
+Recommended word bank: `group`, `pop singers`, `at present`, `will be arriving`,
+`will be coming by`, `will be staying`, `performances`, `as usual`, `keep order`,
+`occasion`.
+
+The 5 reading questions should test:
+
+1. who is visiting
+2. how and when they will arrive
+3. where people will meet them
+4. what they will be doing during the visit
+5. why adults may need to keep order
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `At present, ...`
+   - Source: `At present, they are visiting all parts of the country.`
+   - Focus: what is happening around now.
+   - Must include: `At present`
+2. `will be arriving ...`
+   - Source: `They will be arriving here tomorrow.`
+   - Focus: arranged future arrival.
+   - Must include: `will be arriving`
+3. `will be coming by ...`
+   - Source: `They will be coming by train.`
+   - Focus: future travel method.
+   - Must include: `will be coming by`
+4. `will be staying for ...`
+   - Source: `The Greenwood Boys will be staying for five days.`
+   - Focus: arranged stay length.
+   - Must include: `will be staying for`
+5. `will be trying to ...`
+   - Source: `They will be trying to keep order.`
+   - Focus: future effort to manage a situation.
+   - Must include: `will be trying to`
+
+## Extension Acceptance Criteria
+
+- The reading is a new timetable, not another pop-singer station crowd.
+- The writing section makes future continuous feel like a planned schedule.

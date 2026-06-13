@@ -383,3 +383,56 @@ Lesson 18 production is successful only if:
 - The outro includes the full practice order and the concrete read-aloud steps:
   `⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈`, then
   `① 生活场景`, `② 完形`, `③ 中译英`, `④ 英译中`, `⑤ 默写`.
+
+## Extension Practice Direction
+
+Lesson 18 extension production should be extension-only if the main lesson has
+already been produced. Create `web/data/extension/lesson_18.json` and register
+`18` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, living-scene data, or storyboard images unless the
+user asks for a full refresh.
+
+### Extension Reading
+
+Use an original modern missing-bag story set in a cafe, school canteen, small
+restaurant, or friend's home. Do not retell the pub and dog plot exactly. Keep
+the timeline useful: the narrator had put something somewhere, later could not
+find it, and then discovered that another person or pet had moved it.
+
+Suggested title: `The Missing Backpack`
+
+Recommended word bank: `pub`, `landlord`, `bill`, `look for`, `beside`,
+`immediately`, `returned`, `gave it back`, `garden`, `He often does this`.
+
+The 5 reading questions should test:
+
+1. where the narrator first left the missing thing
+2. when the narrator noticed it was gone
+3. why the situation became awkward
+4. who or what had moved it
+5. why the final sentence is funny
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `After I had had ...`
+   - Source: `After I had had lunch at a village pub, I looked for my bag.`
+   - Focus: an earlier past action before the main past action.
+   - Must include: `After I had had`
+2. `I had left it ...`
+   - Source: `I had left it on a chair beside the door.`
+   - Focus: explaining where something had been put earlier.
+   - Must include: `had left it`
+3. `As I was looking for ...`
+   - Source: `As I was looking for it, the landlord came in.`
+   - Focus: one action happening when another action interrupts.
+   - Must include: `As I was looking for`
+4. `In a few minutes ... returned`
+   - Source: `In a few minutes he returned with my bag.`
+   - Focus: a short time later in a story.
+   - Must include: `In a few minutes` and `returned`
+5. `gave it back to me`
+   - Source: `He gave it back to me.`
+   - Focus: returning an object to its owner.
+   - Must include: `gave it back to me`

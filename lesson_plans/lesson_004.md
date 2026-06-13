@@ -206,3 +206,63 @@ Lesson 4 is ready only when:
   to modern messages, photos, locations, or life updates.
 - The script does not reproduce the erroneous word `fending`; it uses `finding`
   in the final sentence.
+
+## Extension Practice Direction
+
+Lesson 4 extension production should be extension-only. Create
+`web/data/extension/lesson_4.json` and register `4` in
+`web/data/extension/index.json`. Do not regenerate script, audio, timeline,
+read-aloud data, living-scene data, or storyboard images.
+
+### Extension Reading
+
+Use an original modern long-distance update story about a cousin, friend, or
+older sibling studying or working in another country and sending a message with
+places already visited and future travel plans. Do not retell Tim's Australia
+route. Keep the geography concrete enough for the child to picture a map.
+
+Suggested title: `A Message From Abroad`
+
+Recommended word bank: `received`, `abroad`, `engineer`, `firm`, `different
+places`, `has been`, `has already visited`, `has gone to`, `will soon`, `never
+been abroad before`.
+
+The 5 reading questions should test:
+
+1. who sent the update and where that person is
+2. how long the person has been there
+3. what the person has already done or visited
+4. what the next travel plan is
+5. why the trip feels exciting for someone new to living abroad
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `have just received ... from ...`
+   - Source: `I have just received a letter from my brother, Tim.`
+   - Focus: a recent message or update.
+   - Must include: `have just received` and `from`
+2. `has been there for ...`
+   - Source: `He has been there for six months.`
+   - Focus: duration up to now.
+   - Must include: `has been there for`
+3. `has already visited ...`
+   - Source: `He has already visited a great number of different places.`
+   - Focus: completed experience before now.
+   - Must include: `has already visited`
+4. `has gone to ...`
+   - Source: `He has gone to Alice Springs.`
+   - Focus: someone has left for a place and is not back yet.
+   - Must include: `has gone to`
+5. `has never been abroad before`
+   - Source: `My brother has never been abroad before.`
+   - Focus: first-time life experience.
+   - Must include: `has never been abroad before`
+
+## Extension Acceptance Criteria
+
+- The reading is a new update, not Tim's Australia itinerary with renamed
+  places.
+- The writing section clearly distinguishes `has been there for`, `has gone to`,
+  and `has never been abroad before`.

@@ -382,3 +382,57 @@ Lesson 19 production is successful only if:
 - The outro includes the full practice order and the concrete read-aloud steps:
   `⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈`, then
   `① 生活场景`, `② 完形`, `③ 中译英`, `④ 英译中`, `⑤ 默写`.
+
+## Extension Practice Direction
+
+Lesson 19 extension production should be extension-only if the main lesson has
+already been produced. Create `web/data/extension/lesson_19.json` and register
+`19` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, living-scene data, or storyboard images unless the
+user asks for a full refresh.
+
+### Extension Reading
+
+Use an original modern ticketing story about a concert, school show, sports
+game, cinema, or museum slot where the desired tickets are sold out and the
+available returned tickets are for the wrong date or time. Do not retell the
+theatre-window plot exactly. Keep the emotional sequence: hurry, hope,
+misunderstanding, disappointed acceptance.
+
+Suggested title: `The Wednesday Tickets`
+
+Recommended word bank: `sold out`, `ticket office`, `performance`, `hurry`,
+`pity`, `exclaim`, `return`, `at once`, `may have`, `might as well`.
+
+The 5 reading questions should test:
+
+1. why the students were in a hurry
+2. what `sold out` means in the story
+3. why the returned tickets first seemed helpful
+4. what was wrong with the tickets
+5. why the final choice is disappointed, not excited
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `may begin at any moment`
+   - Source: `The play may begin at any moment.`
+   - Focus: a near-future possibility.
+   - Must include: `may begin at any moment`
+2. `may have begun already`
+   - Source: `It may have begun already.`
+   - Focus: a guess about something that may already have happened.
+   - Must include: `may have` and `already`
+3. `May I have ... please?`
+   - Source: `May I have two tickets please?`
+   - Focus: a polite request.
+   - Must include: `May I have` and `please`
+4. `Can I return ...?`
+   - Source: `Can I return these two tickets?`
+   - Focus: returning tickets or items.
+   - Must include: `Can I return`
+5. `might as well ...`
+   - Source: `I might as well have them.`
+   - Focus: choosing something because there is no better option.
+   - Must include: `might as well`

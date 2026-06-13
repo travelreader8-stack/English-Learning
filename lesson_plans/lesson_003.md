@@ -178,3 +178,63 @@ Lesson 3 is ready only when:
 - The lesson can be opened at `/lesson.html?id=3`.
 - The script clearly explains postcard as an old travel-update medium and then
   bridges to modern task anxiety.
+
+## Extension Practice Direction
+
+Lesson 3 extension production should be extension-only. Create
+`web/data/extension/lesson_3.json` and register `3` in
+`web/data/extension/index.json`. Do not regenerate script, audio, timeline,
+read-aloud data, living-scene data, or storyboard images.
+
+### Extension Reading
+
+Use an original modern travel-task story about a student who promises to send a
+travel photo album, short message, or holiday diary update, keeps thinking about
+it, spends time preparing, but still sends nothing. Do not retell the postcard
+plot. Keep the focus on procrastination: doing work around a task is not the
+same as finishing the task.
+
+Suggested title: `The Unsent Travel Message`
+
+Recommended word bank: `spoil`, `holiday`, `travel photos`, `a few lines`,
+`decision`, `the whole day`, `not a single`, `message`, `promise`, `quickly`.
+
+The 5 reading questions should test:
+
+1. what small task the student had promised to do
+2. why the task kept spoiling the holiday mood
+3. what preparation looked productive but did not finish the task
+4. what was still not sent or written at the end
+5. the lesson: preparation is not completion
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `always spoil my ...`
+   - Source: `Postcards always spoil my holidays.`
+   - Focus: something repeatedly ruins a mood.
+   - Must include: `always spoil my`
+2. `a few words of ...`
+   - Source: `A friendly waiter taught me a few words of Italian.`
+   - Focus: learning a small amount of a language or skill.
+   - Must include: `a few words of`
+3. `did not understand a word`
+   - Source: `I read a few lines, but I did not understand a word.`
+   - Focus: complete lack of understanding after trying.
+   - Must include: `did not understand a word`
+4. `made a big decision`
+   - Source: `On the last day I made a big decision.`
+   - Focus: a dramatic decision before a small action.
+   - Must include: `made a big decision`
+5. `not a single ...`
+   - Source: `I did not write a single card!`
+   - Focus: not even one thing was completed.
+   - Must include: `not a single`
+
+## Extension Acceptance Criteria
+
+- The extension reading follows the direction above and does not simply replace
+  postcards with phone messages in the same story chain.
+- The writing section drills the procrastination expressions, especially
+  `not a single` and `made a big decision`.

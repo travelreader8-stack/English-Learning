@@ -325,3 +325,61 @@ Lesson 11 is ready only when:
   `lawyer`, `bank`, or `salary` crowd out the borrowing logic.
 - The modern bridge uses age-appropriate borrowing/fairness examples and does
   not encourage children to lend real money casually.
+
+## Extension Practice Direction
+
+Lesson 11 extension production should be extension-only. Create
+`web/data/extension/lesson_11.json` and register `11` in
+`web/data/extension/index.json`. Do not regenerate script, audio, timeline,
+read-aloud data, living-scene data, or storyboard images.
+
+### Extension Reading
+
+Use an original age-appropriate fairness story about small favours, borrowed
+items, or paying for a snack after someone has often borrowed but not returned
+things. Do not retell Tony Steele in a restaurant. Keep the proverb idea:
+someone twists "one good turn" in a funny way, but the exercise should not
+encourage careless money lending.
+
+Suggested title: `One Snack Deserves Another`
+
+Recommended word bank: `turn`, `deserve`, `borrow`, `lend`, `pay back`, `pay
+for`, `salary`, `immediately`, `to my surprise`, `same table`.
+
+The 5 reading questions should test:
+
+1. what kind of small favour or borrowed item caused the situation
+2. who usually borrowed or forgot to pay back
+3. what surprising request the narrator made
+4. how the other person twisted the fairness logic
+5. what fair payback should mean in real life
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `was having ... when ...`
+   - Source: `I was having dinner at a restaurant when Tony Steele came in.`
+   - Focus: background action interrupted by an arrival.
+   - Must include: `was having` and `when`
+2. `used to work ... but now ...`
+   - Source: `Tony worked in a lawyer's office years ago, but he is now working at a bank.`
+   - Focus: past job or habit contrasted with now.
+   - Must include: `but` and `now`
+3. `borrows ... from ... and never pays it back`
+   - Source: `He always borrows money from his friends and never pays it back.`
+   - Focus: borrowing plus failure to return.
+   - Must include: `borrows` and `never pays it back`
+4. `asked him to lend me ...`
+   - Source: `I asked him to lend me twenty pounds.`
+   - Focus: asking someone to lend something.
+   - Must include: `asked him to lend me`
+5. `To my surprise, ... immediately`
+   - Source: `To my surprise, he gave me the money immediately.`
+   - Focus: unexpected quick response.
+   - Must include: `To my surprise` and `immediately`
+
+## Extension Acceptance Criteria
+
+- The reading keeps the situation small and child-safe.
+- The writing section distinguishes `borrow`, `lend`, `pay back`, and `pay for`.

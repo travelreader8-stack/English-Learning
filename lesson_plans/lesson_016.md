@@ -327,3 +327,60 @@ Lesson 16 production is successful only if:
 - The outro includes the full practice order and the concrete read-aloud steps:
   `⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈`, then
   `① 生活场景`, `② 完形`, `③ 中译英`, `④ 英译中`, `⑤ 默写`.
+
+## Extension Practice Direction
+
+Lesson 16 extension production should be extension-only. Create
+`web/data/extension/lesson_16.json` and register `16` in
+`web/data/extension/index.json`. Do not regenerate script, audio, timeline,
+read-aloud data, living-scene data, or storyboard images.
+
+### Extension Reading
+
+Use an original polite-reminder story in a school, library, bike-parking area,
+or shared building. Someone breaks a small rule and expects punishment, but
+receives a polite note that explains the rule clearly. Do not retell the Sweden
+parking story. Keep the point: politeness can be gentle and still effective.
+
+Suggested title: `A Polite Reminder at School`
+
+Recommended word bank: `park`, `wrong place`, `ticket`, `polite`, `note`,
+`request`, `reminder`, `pay attention to`, `signs`, `obey`.
+
+The 5 reading questions should test:
+
+1. what rule was broken
+2. what punishment the person expected
+3. what the note politely explained
+4. which sign or rule needed attention
+5. why the person was willing to obey
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `If you ..., ... will ...`
+   - Source: `If you park your car in the wrong place, a traffic policeman will soon find it.`
+   - Focus: rule and result.
+   - Must include: `If you` and `will`
+2. `You will be very lucky if ...`
+   - Source: `You will be very lucky if he lets you go without a ticket.`
+   - Focus: lucky condition.
+   - Must include: `You will be very lucky if`
+3. `This does not always happen`
+   - Source: `However, this does not always happen.`
+   - Focus: contrast with expectation.
+   - Must include: `does not always happen`
+4. `pay attention to ...`
+   - Source: `You will enjoy your stay here if you pay attention to our street signs.`
+   - Focus: noticing signs or rules.
+   - Must include: `pay attention to`
+5. `cannot fail to ...`
+   - Source: `You cannot fail to obey it!`
+   - Focus: something is so clear that you must respond.
+   - Must include: `cannot fail to`
+
+## Extension Acceptance Criteria
+
+- The reading shows politeness as clear communication, not weakness.
+- The writing section reinforces `if...will...`, reminders, and rule language.

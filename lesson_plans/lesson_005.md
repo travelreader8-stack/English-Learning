@@ -209,3 +209,61 @@ Lesson 5 is ready only when:
   backup communication system.
 - The script does not reproduce spacing issues like `Mr.James` or `Mr.Scott` in
   student-facing narration.
+
+## Extension Practice Direction
+
+Lesson 5 extension production should be extension-only. Create
+`web/data/extension/lesson_5.json` and register `5` in
+`web/data/extension/index.json`. Do not regenerate script, audio, timeline,
+read-aloud data, living-scene data, or storyboard images.
+
+### Extension Reading
+
+Use an original modern backup-communication story. For example, a school club
+cannot get internet in a new activity room, so students use a runner, shared
+notebook, walkie-talkie, or offline message board between two nearby rooms. Do
+not reuse pigeons or garages. The theme is practical problem-solving when the
+normal communication channel is unavailable.
+
+Suggested title: `The Offline Message Board`
+
+Recommended word bank: `message`, `distance`, `request`, `urgent`, `spare`,
+`only five minutes away`, `up to now`, `in this way`, `service`, `backup`.
+
+The 5 reading questions should test:
+
+1. what normal communication channel was unavailable
+2. what backup system the group created
+3. how far apart the two places were
+4. what kinds of messages were sent
+5. why the backup system worked
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `has just bought / made / opened another ...`
+   - Source: `He has just bought another garage.`
+   - Focus: a recent expansion.
+   - Must include: `has just` and `another`
+2. `is only ... from ...`
+   - Source: `Pinhurst is only five miles from Silbury.`
+   - Focus: short distance between two places.
+   - Must include: `is only` and `from`
+3. `cannot get ... so ...`
+   - Source: `Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons.`
+   - Focus: problem plus solution.
+   - Must include: `cannot get` and `so`
+4. `Up to now, ... has sent ...`
+   - Source: `Up to now, Mr. Scott has sent a great many requests...`
+   - Focus: accumulated action until now.
+   - Must include: `Up to now` and `has sent`
+5. `In this way, ... has begun ...`
+   - Source: `In this way, he has begun his own private 'telephone' service.`
+   - Focus: method leading to a new system.
+   - Must include: `In this way` and `has begun`
+
+## Extension Acceptance Criteria
+
+- The reading avoids pigeon trivia and focuses on communication design.
+- The writing section reinforces present perfect through a practical sequence.

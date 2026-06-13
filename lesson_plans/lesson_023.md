@@ -380,3 +380,58 @@ Lesson 23 production is successful only if:
 - The outro includes the full practice order and the concrete read-aloud steps:
   `⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈`, then
   `① 生活场景`, `② 完形`, `③ 中译英`, `④ 英译中`, `⑤ 默写`.
+
+## Extension Practice Direction
+
+Lesson 23 extension production should be extension-only if the main lesson has
+already been produced. Create `web/data/extension/lesson_23.json` and register
+`23` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, living-scene data, or storyboard images unless the
+user asks for a full refresh.
+
+### Extension Reading
+
+Use an original modern story about someone returning to a neighbourhood, school,
+or family home after a place has changed. Do not retell the sister-from-Nigeria
+plot exactly. Keep the memory point clear: work had begun before the person
+left, the place was completed later, and the returning person will be surprised
+because the new building stands out from the old area.
+
+Suggested title: `The Modern House on the Corner`
+
+Recommended word bank: `complete`, `modern`, `strange`, `district`, `had
+begun`, `was completed`, `would come`, `If she comes`, `stay with us`, `must
+be`.
+
+The 5 reading questions should test:
+
+1. who is going to return
+2. what had already begun before that person left
+3. when the new place was completed
+4. why the returning person will be surprised
+5. why `modern` can feel strange in an older district
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `said that she would ...`
+   - Source: `In her letter, she said that she would come to England next year.`
+   - Focus: reporting a future plan from the past.
+   - Must include: `said that` and `would`
+2. `If she comes, she will ...`
+   - Source: `If she comes, she will get a surprise.`
+   - Focus: a real future condition.
+   - Must include: `If` and `will`
+3. `had begun before ...`
+   - Source: `Work on it had begun before my sister left.`
+   - Focus: an earlier-past action before another past action.
+   - Must include: `had begun before`
+4. `was completed ... ago`
+   - Source: `The house was completed five months ago.`
+   - Focus: passive voice plus finished time.
+   - Must include: `was completed` and `ago`
+5. `must be the only ...`
+   - Source: `It must be the only modern house in the district.`
+   - Focus: a strong guess about something unique.
+   - Must include: `must be the only`

@@ -391,3 +391,58 @@ Lesson 20 production is successful only if:
 - The outro includes the full practice order and the concrete read-aloud steps:
   `⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈`, then
   `① 生活场景`, `② 完形`, `③ 中译英`, `④ 英译中`, `⑤ 默写`.
+
+## Extension Practice Direction
+
+Lesson 20 extension production should be extension-only if the main lesson has
+already been produced. Create `web/data/extension/lesson_20.json` and register
+`20` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, living-scene data, or storyboard images unless the
+user asks for a full refresh.
+
+### Extension Reading
+
+Use an original modern story about a student who enjoys an activity for the
+process rather than the result: fishing, drawing, cycling, chess practice,
+photography, LEGO, or quiet walking. Do not retell the exact boat-and-fish
+story. Keep the core idea: other people judge by results, but the narrator
+values the calm time spent doing the activity.
+
+Suggested title: `Not Really About Winning`
+
+Recommended word bank: `catch`, `fisherman`, `old boots`, `rubbish`,
+`instead of`, `empty bag`, `give up`, `waste of time`, `interested in`,
+`doing nothing`.
+
+The 5 reading questions should test:
+
+1. what activity the narrator enjoys
+2. what result other people expect
+3. why they think it is a waste of time
+4. what the narrator is really interested in
+5. the lesson idea: process can matter more than result
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `without ...ing anything`
+   - Source: `I often fish for hours without catching anything.`
+   - Focus: doing something without getting the expected result.
+   - Must include: `without` and an `-ing` verb
+2. `Instead of ...ing`
+   - Source: `Instead of catching fish, they catch old boots and rubbish.`
+   - Focus: contrast between expected and real result.
+   - Must include: `Instead of` and an `-ing` verb
+3. `After having spent ...`
+   - Source: `After having spent whole mornings on the river, I always go home with an empty bag.`
+   - Focus: a long effort before the outcome.
+   - Must include: `After having spent`
+4. `It's a waste of time`
+   - Source: `You must give up fishing! It's a waste of time.`
+   - Focus: judging an activity as not worthwhile.
+   - Must include: `a waste of time`
+5. `only interested in ...ing`
+   - Source: `I am only interested in sitting in a boat and doing nothing at all!`
+   - Focus: explaining the real reason for liking an activity.
+   - Must include: `only interested in` and an `-ing` verb

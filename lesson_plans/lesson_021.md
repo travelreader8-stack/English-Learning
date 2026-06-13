@@ -391,3 +391,57 @@ Lesson 21 production is successful only if:
 - The outro includes the full practice order and the concrete read-aloud steps:
   `⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈`, then
   `① 生活场景`, `② 完形`, `③ 中译英`, `④ 英译中`, `⑤ 默写`.
+
+## Extension Practice Direction
+
+Lesson 21 extension production should be extension-only if the main lesson has
+already been produced. Create `web/data/extension/lesson_21.json` and register
+`21` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, living-scene data, or storyboard images unless the
+user asks for a full refresh.
+
+### Extension Reading
+
+Use an original modern story about noise or outside pressure changing everyday
+life: a new road, subway line, sports field, construction site, shopping mall,
+or airport-like facility. Do not retell the exact airport story. Keep the
+passive-voice logic visible: the person is affected by forces outside their
+control, yet makes a determined choice.
+
+Suggested title: `The Noisy Road`
+
+Recommended word bank: `mad`, `noise`, `reason`, `came into use`, `night and
+day`, `driven away`, `knocked down`, `large sum`, `offered`, `determined`.
+
+The 5 reading questions should test:
+
+1. what new facility or change caused the problem
+2. how often the noise could be heard
+3. how other people reacted
+4. what offer or pressure the narrator received
+5. why the narrator's decision is stubborn but understandable
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `can be heard night and day`
+   - Source: `Passing planes can be heard night and day.`
+   - Focus: passive voice for an unavoidable sound.
+   - Must include: `can be heard` and `night and day`
+2. `for some reason`
+   - Source: `For some reason, it could not be used then.`
+   - Focus: giving an unknown or unclear reason.
+   - Must include: `for some reason`
+3. `came into use`
+   - Source: `the airport came into use`
+   - Focus: a place or system starting to operate.
+   - Must include: `came into use`
+4. `have been offered`
+   - Source: `I have been offered a large sum of money to go away.`
+   - Focus: passive voice for an offer received.
+   - Must include: `have been offered`
+5. `determined to ...`
+   - Source: `I am determined to stay here.`
+   - Focus: a firm decision under pressure.
+   - Must include: `determined to`

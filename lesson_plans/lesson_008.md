@@ -295,3 +295,61 @@ Lesson 8 is ready only when:
   quantity, design, beauty, and worst/best result.
 - The ending preserves the self-mocking humour of winning a little prize for
   the worst garden.
+
+## Extension Practice Direction
+
+Lesson 8 extension production should be extension-only. Create
+`web/data/extension/lesson_8.json` and register `8` in
+`web/data/extension/index.json`. Do not regenerate script, audio, timeline,
+read-aloud data, living-scene data, or storyboard images.
+
+### Extension Reading
+
+Use an original competition story in a school or home setting, such as the
+neatest desk, most creative model, best class corner, or worst-organized drawer.
+Do not retell Joe and Bill's gardens. Keep the self-mocking ending: the narrator
+also enters but wins a funny "worst" or "messiest" prize.
+
+Suggested title: `The Neatest Desk Competition`
+
+Recommended word bank: `competition`, `neat`, `larger than`, `works harder
+than`, `more interesting`, `wooden`, `pool`, `prize`, `the best`, `the worst`.
+
+The 5 reading questions should test:
+
+1. what competition people entered
+2. who usually won and why
+3. how another person was better in a different way
+4. what special design detail made one entry interesting
+5. what funny prize the narrator won
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `has the most ...`
+   - Source: `Joe Sanders has the most beautiful garden in our town.`
+   - Focus: superlative description.
+   - Must include: `has the most`
+2. `enters for ... each year`
+   - Source: `Nearly everybody enters for 'The Nicest Garden Competition' each year.`
+   - Focus: regularly joining a competition.
+   - Must include: `enters for` and `each year`
+3. `is larger than ...`
+   - Source: `Bill Frith's garden is larger than Joe's.`
+   - Focus: simple comparison.
+   - Must include: `is larger than`
+4. `works harder than ... but ... is more interesting`
+   - Source: `Bill works harder than Joe... but Joe's garden is more interesting.`
+   - Focus: different judging criteria.
+   - Must include: `works harder than` and `more interesting`
+5. `a little prize for the worst ...`
+   - Source: `I always win a little prize for the worst garden in the town!`
+   - Focus: comic self-mockery.
+   - Must include: `a little prize for the worst`
+
+## Extension Acceptance Criteria
+
+- The reading does not require the student to imagine owning a garden.
+- The writing section uses comparison to show different standards, not just
+  isolated adjective forms.
