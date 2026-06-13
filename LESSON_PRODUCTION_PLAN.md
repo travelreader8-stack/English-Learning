@@ -11,6 +11,8 @@ per-lesson plan under `lesson_plans/`.
 - Lesson data: `web/data/lessons.json`
 - Per-lesson living-scene data: `web/data/you_too/lesson_N.json`
 - Per-lesson read-aloud data: `web/data/read_aloud/lesson_N.json`
+- Per-lesson extension practice data: `web/data/extension/lesson_N.json`
+- Extension practice registry: `web/data/extension/index.json`
 - Generated lesson scripts: `pipeline/scripts/lesson_N.script.md`
 - Generated storyboards: `pipeline/scripts/lesson_N.storyboard.json`
 - Lesson media: `web/audio/lesson_N.mp3`, `web/audio/lesson_N.timeline.json`,
@@ -157,6 +159,9 @@ For "开始生产 Lesson N", the normal write set is limited to:
 - `pipeline/scripts/lesson_N.storyboard.json`
 - `web/data/you_too/lesson_N.json`
 - `web/data/read_aloud/lesson_N.json`
+- `web/data/extension/lesson_N.json` for Lesson 25 and later
+- `web/data/extension/index.json` only to register or unregister the target
+  lesson's extension practice
 - `web/audio/lesson_N.mp3`
 - `web/audio/lesson_N.timeline.json`
 - `web/audio/lesson_N_frame_1.webp`
@@ -178,6 +183,47 @@ Do not edit shared files unless the user separately asks for platform work:
 
 If a shared-file defect blocks production, stop and explain the defect instead
 of silently patching the platform.
+
+## Extension Practice Policy
+
+Lesson 24 validated the extension-practice pattern. For Lesson 25 and later,
+full lesson production should include two additional practice sections unless
+the user explicitly asks for a local-only or legacy flow:
+
+1. `拓展阅读`
+2. `句式仿写`
+
+These sections live in `web/data/extension/lesson_N.json`, and the lesson number
+must be registered in `web/data/extension/index.json`.
+
+For an extension-only update to an already produced lesson, do not regenerate
+the script, audio, timeline, or storyboard images unless the user explicitly
+asks for a full lesson refresh or QC finds a defect in those assets. The normal
+extension-only write set is:
+
+- `web/data/extension/lesson_N.json`
+- `web/data/extension/index.json`
+
+The extension reading should be an original, controlled, same-topic passage. Do
+not copy an internet article. Keep it close enough to the lesson topic to reuse
+the target vocabulary and emotional situation, but do not merely paraphrase the
+original New Concept passage. A typical target is 90-140 English words with 4-6
+comprehension questions.
+
+The sentence-writing section should contain 3-5 carefully chosen patterns from
+the lesson. Do not pick random easy sentences. Prefer:
+
+- fixed collocations or phrases worth memorizing
+- grammar structures the student needs to internalize
+- vivid or polished expressions that can improve writing
+- compact story-turning sentences that are useful for retelling
+
+Each writing pattern should include the original source sentence, a Chinese
+focus explanation, a student-facing writing task, `must_include` checks,
+`min_words`, a sample answer, and a short coaching tip.
+
+If the lesson plan contains a specific extension-practice idea, follow the
+lesson plan first. Otherwise, use the Lesson 24 extension pilot as the model.
 
 ## Translation Practice Chunk Policy
 
@@ -216,6 +262,8 @@ student's answer against the wrong reference.
      instead of inventing a new-looking person in each frame.
    - Create `web/data/you_too/lesson_N.json`.
    - Create `web/data/read_aloud/lesson_N.json` with 5-8 guided sentences.
+   - For Lesson 25 and later, create `web/data/extension/lesson_N.json` and
+     register the lesson in `web/data/extension/index.json`.
    - Keep `[EN]...[/EN]` tags balanced.
    - Include all required scenes: `hook`, `retell` x4, `discuss`,
      `passage_normal`, exactly 3 `vocab` blocks, `grammar`, `you_too`, `outro`.
@@ -233,7 +281,10 @@ student's answer against the wrong reference.
    - The `outro` must mention the full practice order and the concrete
      read-aloud steps:
      `⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈`, then
-     `① 生活场景`, `② 完形`, `③ 中译英`, `④ 英译中`, `⑤ 默写`.
+     `① 生活场景`, `② 完形`, `③ 中译英`, `④ 英译中`, and, when extension
+     practice is enabled, `⑤ 拓展阅读`, `⑥ 句式仿写`, then `⑦ 默写`.
+     For lessons without extension practice, the final station remains
+     `⑤ 默写`.
 
 3. **Media**
    - Render audio and timeline:
@@ -248,6 +299,9 @@ student's answer against the wrong reference.
    - Verify translation practice segmentation is safe: manual `chunks`, if
      present, must be equal length; otherwise the frontend whole-passage fallback
      is acceptable.
+   - For Lesson 25 and later, verify `web/data/extension/lesson_N.json` exists,
+     is registered in `web/data/extension/index.json`, and contains both
+     `reading` and `writing` sections.
    - Run baseline tests that do not require changing shared files:
      `python3 tests/test_pipeline.py`
      `node tests/test_slide_player.mjs`
@@ -315,6 +369,11 @@ A lesson is ready only when:
 - The per-lesson `you_too` JSON follows the course design card.
 - The per-lesson `read_aloud` JSON has 5-8 high-value sentences with
   `focus_zh`, `start`, `end`, and `focus_words`.
+- For Lesson 25 and later, the per-lesson extension JSON exists, is registered
+  in `web/data/extension/index.json`, and contains:
+  - one original same-topic reading passage with comprehension questions
+  - one sentence-writing section with carefully selected source patterns,
+    `must_include`, `min_words`, samples, and coaching tips
 - The lesson audio, timeline, and 4 WebP frames exist.
 - The lesson can be opened at `/lesson.html?id=N`.
 - Translation practice cannot pair a Chinese segment with the wrong English
