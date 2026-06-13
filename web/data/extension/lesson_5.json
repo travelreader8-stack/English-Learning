@@ -35,48 +35,48 @@
         "id": "backup_system",
         "question": "What backup system did the students create?",
         "options": [
-          "They made a backup message board and used a notebook.",
           "They bought twelve walkie-talkies for the club.",
           "They moved the library to another building.",
+          "They made a backup message board and used a notebook.",
           "They sent every message to the wrong group."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "学生 made a backup message board，并让 notebook 在两个房间之间传递信息。"
       },
       {
         "id": "short_distance",
         "question": "How far apart were the two activity rooms?",
         "options": [
-          "They were only five minutes away.",
           "They were five miles away.",
+          "They were only five minutes away.",
           "They were in different cities.",
           "They were across a large river."
         ],
-        "answer_index": 0,
+        "answer_index": 1,
         "explanation_zh": "文中说 The old room is only five minutes away，强调距离很近。"
       },
       {
         "id": "message_types",
         "question": "What kinds of messages has the club sent up to now?",
         "options": [
-          "Requests for spare wires, tools, and other urgent messages.",
           "Long stories about holidays and birthday parties.",
           "Secret game scores from another school.",
-          "Messages about buying new desks."
+          "Messages about buying new desks.",
+          "Requests for spare wires, tools, and other urgent messages."
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "explanation_zh": "关键句是 requests for spare wires, tools, and other urgent messages。"
       },
       {
         "id": "why_worked",
         "question": "Why did the backup service work?",
         "options": [
-          "Because it moved messages reliably when the normal channel failed.",
           "Because it made the Wi-Fi faster than before.",
+          "Because it moved messages reliably when the normal channel failed.",
           "Because it stopped students from writing messages.",
           "Because it made the two rooms farther apart."
         ],
-        "answer_index": 0,
+        "answer_index": 1,
         "explanation_zh": "结尾说 it works when the normal channel fails，说明它可靠地完成了备用通信。"
       }
     ]
