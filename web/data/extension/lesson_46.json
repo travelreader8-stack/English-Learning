@@ -1,0 +1,156 @@
+{
+  "lesson_id": 46,
+  "reading": {
+    "title": "The Heavy Trunk",
+    "intro_zh": "这篇短文把 Lesson 46 的“异常沉重的箱子”换到学校后台：大家发现一个戏剧社木箱重得不正常，但没有冒险乱开，而是请老师按安全规则检查。它不复述机场偷搭飞机，而是练习 account for、It occurred to... 和 admit doing：解释一个奇怪现象，做出安全判断，再看规则捷径为什么会变贵。",
+    "word_bank": [
+      "delivery",
+      "unload",
+      "wooden box",
+      "account for",
+      "extremely",
+      "occurred",
+      "astonished",
+      "admit",
+      "safety rule",
+      "normal price"
+    ],
+    "passage": [
+      "On Friday afternoon, two drama-club students helped unload a wooden trunk from a delivery van. The trunk was supposed to contain only costumes for the school play, but it was extremely heavy. No one could account for the fact that a box of shirts and hats needed three people to move it. It occurred to Ms. Lee, the club teacher, to check the delivery form before opening it. She asked everyone to stand back and called the school office. When the trunk was opened safely, they were astonished to find a lighting machine and several metal stands under the costumes. Later, one student admitted adding the equipment to the trunk to avoid paying the normal delivery price for a second box. Ms. Lee explained that breaking a safety rule had made the delivery slower, more expensive, and much more dangerous."
+    ],
+    "questions": [
+      {
+        "id": "strange_weight",
+        "question": "What made the wooden trunk seem strange?",
+        "options": [
+          "It had arrived on the wrong day.",
+          "It was supposed to contain costumes, but it was extremely heavy.",
+          "It had no costumes inside it at all.",
+          "It was too small to fit through the classroom door."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文说箱子本来只该装 costumes，但 it was extremely heavy，所以奇怪的是“装衣服道具的箱子重得不正常”。"
+      },
+      {
+        "id": "teacher_decision",
+        "question": "Who decided what to do next?",
+        "options": [
+          "Ms. Lee, the club teacher, checked the form and called the school office.",
+          "The delivery driver opened the trunk alone.",
+          "The two students carried the trunk home.",
+          "The office asked the students to ignore the problem."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "Ms. Lee 想到先查看 delivery form，并让大家退后、联系学校办公室；她是按安全规则决定下一步的人。"
+      },
+      {
+        "id": "inside_trunk",
+        "question": "What was found under the costumes?",
+        "options": [
+          "A pile of woolen goods from London.",
+          "A lost school envelope full of money.",
+          "A lighting machine and several metal stands.",
+          "A normal ticket for a school bus."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "安全打开后，大家发现 costumes 下面有 a lighting machine and several metal stands。"
+      },
+      {
+        "id": "admitted_action",
+        "question": "What did one student admit doing?",
+        "options": [
+          "Hiding inside the trunk during the delivery.",
+          "Adding the equipment to avoid paying for a second box.",
+          "Breaking the costumes before the school play.",
+          "Selling the lighting machine to another club."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "原文说 one student admitted adding the equipment...to avoid paying the normal delivery price for a second box。"
+      },
+      {
+        "id": "shortcut_lesson",
+        "question": "What lesson does the story teach about shortcuts?",
+        "options": [
+          "A shortcut that avoids rules can become slower, more expensive, and more dangerous.",
+          "It is always safe to hide heavy equipment under soft clothes.",
+          "Students should open strange boxes quickly before adults arrive.",
+          "The normal delivery price is never worth paying."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾点明：breaking a safety rule made the delivery slower, more expensive, and much more dangerous。逃规则的捷径反而代价更大。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 46 的“发现问题到承担后果”句式：用 When..., workers began to... 写时间背景和主动作，用 No one could account for the fact that... 写解释不了的异常，用 It occurred to...to... 写突然想到的办法，用 so surprised at being...that... 写被发现后的反应，再用 admitted doing... 写承认做过的事。",
+    "patterns": [
+      {
+        "id": "when_began_to",
+        "title": "When ..., workers began to ...",
+        "source": "When a plane from London arrived at Sydney airport, workers began to unload a number of wooden boxes which contained clothing.",
+        "focus_zh": "When 从句先交代时间背景，主句用 began to 写某个动作开始发生，适合搭建故事第一幕。",
+        "task_zh": "仿写一句：写某个时间、地点或事件发生后，工作人员、同学或志愿者开始做一件具体的事。",
+        "must_include": [
+          "When",
+          "began to"
+        ],
+        "min_words": 12,
+        "sample": "When the delivery van arrived at the school gate, the students began to unload the wooden boxes.",
+        "tip_zh": "When 后面写背景，逗号后写主动作；began to 后面接动词原形。"
+      },
+      {
+        "id": "account_for_fact",
+        "title": "No one could account for the fact that ...",
+        "source": "No one could account for the fact that one of the boxes was extremely heavy.",
+        "focus_zh": "account for 在这里不是“占比”，而是“解释原因”；这个句式专门用来写一个没人解释得清的异常。",
+        "task_zh": "仿写一句：写一个声音、重量、价格或结果很奇怪，没人能解释为什么会这样。",
+        "must_include": [
+          "could account for the fact that"
+        ],
+        "min_words": 12,
+        "sample": "No one could account for the fact that the small trunk was extremely heavy.",
+        "tip_zh": "No one could account for... 比 No one knew why... 更正式，也更贴近课文。"
+      },
+      {
+        "id": "it_occurred_to",
+        "title": "It occurred to ... to ...",
+        "source": "It suddenly occurred to one of the workers to open up the box.",
+        "focus_zh": "It occurred to someone to do something 表示“某人突然想到去做某事”，不是“某事发生在某人身上”。",
+        "task_zh": "仿写一句：写某人突然想到一个安全、聪明或负责任的办法。",
+        "must_include": [
+          "It occurred to"
+        ],
+        "min_words": 12,
+        "sample": "It occurred to the teacher to check the delivery form before opening the trunk.",
+        "tip_zh": "to 后面接想到要做的动作：to check, to call, to ask, to open。"
+      },
+      {
+        "id": "so_surprised_at_being",
+        "title": "so surprised at being ... that ...",
+        "source": "He was so surprised at being discovered that he did not even try to run away.",
+        "focus_zh": "so...that... 写“太……以至于……”；being discovered 这种 being + 过去分词强调“被发现”这个状态。",
+        "task_zh": "仿写一句：写某人因为被发现、被表扬、被点名或被提醒而非常吃惊，以至于做出了一个反应。",
+        "must_include": [
+          "so surprised at being",
+          "that"
+        ],
+        "min_words": 12,
+        "sample": "The student was so surprised at being questioned that he told the truth at once.",
+        "tip_zh": "being 后面用过去分词：being discovered, being called, being chosen。"
+      },
+      {
+        "id": "admitted_doing",
+        "title": "admitted doing ...",
+        "source": "The man admitted hiding in the box.",
+        "focus_zh": "admit 后面常接动词 -ing，表示承认自己做过某件不该做或尴尬的事。",
+        "task_zh": "仿写一句：写某人承认做过一件违反规则、造成麻烦或让人尴尬的事。",
+        "must_include": [
+          "admitted"
+        ],
+        "min_words": 10,
+        "sample": "The student admitted putting the heavy equipment into the trunk.",
+        "tip_zh": "注意不是 admitted to put；这里要用 admitted putting / hiding / breaking / making。"
+      }
+    ]
+  }
+}
