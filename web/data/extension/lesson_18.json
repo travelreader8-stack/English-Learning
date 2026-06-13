@@ -6,7 +6,7 @@
     "word_bank": [
       "cafe",
       "bill",
-      "look for",
+      "looked for",
       "beside",
       "immediately",
       "returned",
@@ -71,12 +71,12 @@
         "id": "funny_ending",
         "question": "Why is the final sentence funny?",
         "options": [
-          "Because the cousin often takes things outside and forgets them.",
           "Because backpacks can pay bills by themselves.",
           "Because the manager had never seen the cousin before.",
-          "Because the narrator wanted to lose the backpack."
+          "Because the narrator wanted to lose the backpack.",
+          "Because the cousin often takes things outside and forgets them."
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "explanation_zh": "He often does this 说明这不是第一次，是一个熟悉的小毛病，所以结尾轻松好笑。"
       }
     ]
