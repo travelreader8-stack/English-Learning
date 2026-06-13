@@ -898,15 +898,17 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original treasure-search passage that is safe and small-scale: an old box
-in a cupboard, a school history display, or a permitted beach-clean activity.
-Keep the expectation-and-disappointment structure: a promising signal, excited
-search, tiny almost-worthless find, and hope that something valuable may appear
-later.
+Use an original same-theme treasure-search passage that is safe, small-scale,
+and permitted. Do not retell the cave, pirate, Revealer-machine, two-foot hole,
+gold coin, and empty box sequence. A modern bridge can be an old box in a school
+cupboard, a history-club display, a family storage room, or a supervised
+beach-clean activity. Keep the expectation-and-disappointment structure: a
+promising signal or clue, an excited search, a tiny almost-worthless find, and
+hope that something valuable may appear later.
 
 Suggested title: `The Old Box Search`
 
-Recommended word bank: `treasure`, `detect`, `buried`, `cave`, `pirate`,
+Recommended word bank: `treasure`, `detect`, `buried`, `signal`, `display`,
 `armed with`, `examine`, `showed that`, `almost worthless`, `in spite of`.
 
 The 5 reading questions should test:
@@ -927,12 +929,12 @@ Use 5 patterns:
    - Must include: `Dreams of` and `almost came true`
 2. `has been invented and ...`
    - Source: `A new machine called 'The Revealer' has been invented.`
-   - Focus: passive present perfect for a new invention.
-   - Must include: `has been invented`
-3. `was used to detect ...`
+   - Focus: passive present perfect plus naming an invention or tool.
+   - Must include: `called` and `has been invented`
+3. `has been used to detect ...`
    - Source: `It has been used to detect gold which has been buried in the ground.`
-   - Focus: purpose of a tool.
-   - Must include: `was used to detect`
+   - Focus: purpose of a tool, with passive voice.
+   - Must include: `has been used to detect`
 4. `Armed with ..., ...`
    - Source: `Armed with the new machine, a search party went into the cave...`
    - Focus: opening a sentence with equipment or preparation.

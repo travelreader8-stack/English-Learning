@@ -924,23 +924,27 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original shuttle-bus or campus-bus story. A student asks where to get off,
-sits in front to enjoy the view, then realizes the bus has reached the last
-stop. Because conductors are rare today, use `attendant`, `driver`, or
-`staff member` for the modern reading.
+Use an original same-theme short passage about route confusion on a shuttle bus,
+campus bus, or small sightseeing bus. The new story should not retell the
+country excursion with a conductor forgetting to put the passenger off. Keep the
+modern bridge practical: the passenger asks where to get off, sits near the
+front for the view or route screen, misses the stop because the route loops, and
+then makes a simple decision after the staff member explains the route.
+Because conductors are rare today, use `driver`, `attendant`, or `staff member`
+in the modern reading.
 
-Suggested title: `The Last Stop`
+Suggested title: `The Loop Shuttle`
 
-Recommended word bank: `excursion`, `lose my way`, `conductor`, `get off`,
-`front`, `view`, `countryside`, `realize`, `as far as`, `in that case`.
+Recommended word bank: `excursion`, `shuttle`, `lose my way`, `get off`,
+`front`, `view`, `route`, `realize`, `as far as`, `in that case`.
 
 The 5 reading questions should test:
 
 1. where the passenger wanted to go
 2. what help they asked for
-3. why they sat in front
-4. what they realized at the last stop
-5. why staying on the bus became the simplest choice
+3. why they chose a seat near the front
+4. what they realized when the bus reached the end or loop point
+5. why the final decision was reasonable rather than simply foolish
 
 ### Sentence Writing
 

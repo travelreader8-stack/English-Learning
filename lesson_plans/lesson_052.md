@@ -899,11 +899,14 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original room-organization story: a student moves into a new study
-corner, tries to get books in order, runs out of shelf space, and someone jokes
-that the books have become a carpet. Keep the humor affectionate and visual.
+Use an original same-theme short passage about organizing a small study space.
+Do not retell the new-house, thousand-books, book-carpet scene. A safe modern
+bridge can be a student who takes over a tiny study corner and tries to put
+notebooks, art papers, folders, chargers, or project materials in order. The
+floor may become a colourful "carpet" or "map", but the details should be new
+and visual rather than a second version of the original room of books.
 
-Suggested title: `The Book Carpet`
+Suggested title: `The Paper Carpet`
 
 Recommended word bank: `move into`, `work hard`, `in order`, `own`,
 `to make matters worse`, `temporarily`, `every inch`, `floor space`, `gaze`,
@@ -914,8 +917,8 @@ The 5 reading questions should test:
 1. what the student was trying to organize
 2. why it was not easy
 3. what made matters worse
-4. why the floor looked like a carpet
-5. how the joke turns mess into a picture
+4. why the floor looked like a carpet, map, or display
+5. how the joke turns a mess into a picture
 
 ### Sentence Writing
 

@@ -838,15 +838,17 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original investigation passage about a harmless mystery such as a wet
-backpack, a burnt smell in a classroom, or a broken charger. The structure should
-mirror the forest-fire investigation: common causes are checked first, then an
-unusual but simple cause is discovered. Avoid unsafe power-line imitation.
+Use an original same-theme short passage about a harmless mystery and a logical
+investigation. Do not retell the forest fire, broken glass, cigarette ends,
+snake, bird, or power-line chain. A safe modern bridge can be a wet backpack, a
+strange classroom smell after lunch, or a broken charger case: common causes are
+checked first, expected evidence is not found, and an unusual but simple cause
+is discovered.
 
 Suggested title: `The Wet Backpack Mystery`
 
-Recommended word bank: `at last`, `put out`, `find out`, `cause`, `carelessly`,
-`examine`, `quite sure`, `accidentally`, `in this way`, `explanation`.
+Recommended word bank: `at last`, `find out`, `cause`, `carelessly`, `examine`,
+`quite sure`, `accidentally`, `in this way`, `explanation`, `evidence`.
 
 The 5 reading questions should test:
 
@@ -872,10 +874,10 @@ Use 5 patterns:
    - Source: `Forest fires are often caused by broken glass or by cigarette ends.`
    - Focus: passive cause.
    - Must include: `are often caused by`
-4. `was not able to find ...`
+4. `were not able to find ...`
    - Source: `They were not able to find any broken glass.`
    - Focus: failure to find evidence.
-   - Must include: `was not able to find`
+   - Must include: `were not able to find`
 5. `In this way, ... solved the mystery`
    - Source: `In this way, he was able to solve the mystery.`
    - Focus: explaining how a mystery was solved.

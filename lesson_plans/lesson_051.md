@@ -920,11 +920,13 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original body-respectful story about a strict study plan, screen-time
-plan, or practice schedule rather than dieting. The student should learn the
-comic logic: strict rule, forbidden list, guilty hiding, and occasional reward.
+Use an original same-theme short passage about self-control, temptation, and a
+comic reward. Do not retell Hugh's diet, chocolate parcel, or body-size setup.
+Keep the tone body-respectful by using a strict study plan, screen-time plan, or
+practice schedule instead. The student should learn the comic logic: a strict
+rule, a forbidden list, guilty hiding, embarrassment, and an occasional reward.
 
-Suggested title: `A Reward for Study`
+Suggested title: `A Reward for Practice`
 
 Recommended word bank: `strict`, `forbidden`, `include`, `pay a visit`,
 `hide`, `obvious`, `embarrassed`, `guiltily`, `reward`, `occasionally`.
@@ -933,9 +935,9 @@ The 5 reading questions should test:
 
 1. what plan the character decided to follow
 2. what was on the forbidden list
-3. what they hurriedly hid
+3. what they hurriedly hid when someone arrived
 4. why they felt embarrassed
-5. why a plan that is too strict may lead to comic rewards
+5. why an over-strict plan may lead to a comic reward
 
 ### Sentence Writing
 

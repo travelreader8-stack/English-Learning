@@ -874,21 +874,24 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original interruption-comedy passage about a child doing a craft project,
-baking, or repairing something sticky. The story should build a chain of
-interruptions: sticky hands, phone/message, cleanup, then doorbell or delivery.
-Keep it light and visual.
+Use an original same-theme interruption-comedy passage about sticky hands and
+bad timing. Do not retell the meat-pie, telephone receiver, Helen Bates, or
+registered-letter sequence. A safe modern bridge can be a child doing a craft
+project, repairing a model, or helping with baking when glue, tape, dough, or
+paint makes their hands sticky. Build a fresh chain of interruptions: sticky
+hands, a phone or message problem, cleanup, then a doorbell, delivery code, or
+neighbor request.
 
 Suggested title: `The Glue Fingers Problem`
 
-Recommended word bank: `sticky`, `pastry`, `receiver`, `dismayed`, `recognize`,
-`persuade`, `ring back`, `mess`, `no sooner`, `sign for`.
+Recommended word bank: `sticky`, `glue`, `dismayed`, `recognize`, `persuade`,
+`ring back`, `mess`, `no sooner`, `doorbell`, `delivery`.
 
 The 5 reading questions should test:
 
 1. what the person was doing when their hands became sticky
 2. what happened at exactly that moment
-3. why answering was annoying
+3. why answering or replying was annoying
 4. what mess was left behind
 5. how the second interruption creates the joke
 

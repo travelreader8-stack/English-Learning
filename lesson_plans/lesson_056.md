@@ -890,14 +890,18 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original old-bike, model-car, or school cart race passage. The race should
-be slow, funny, and safe: old vehicles break down, a few finish, and the winner
-is not fast by modern standards but still exciting.
+Use an original same-theme short passage about an old-vehicle race or display
+race. Do not retell the vintage-car event with the Rolls-Royce, three-wheeled
+Benz, repeated breakdowns, forty miles an hour, and downhill finish. A safe
+modern bridge can be an old-bike race, model-car course, school cart race, or
+museum-yard demonstration. The race should be slow, funny, and safe: old
+vehicles break down, a few finish, and the winner is not fast by modern
+standards but is still exciting.
 
 Suggested title: `The Old Bike Race`
 
 Recommended word bank: `once a year`, `race`, `entered`, `excitement`,
-`handsome`, `take part`, `break down`, `course`, `rival`, `no less exciting`.
+`well-kept`, `take part`, `break down`, `course`, `rival`, `no less exciting`.
 
 The 5 reading questions should test:
 

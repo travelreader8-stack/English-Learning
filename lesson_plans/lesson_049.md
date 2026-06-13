@@ -830,23 +830,25 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original safe modern story about a student saving up for a chair, desk,
-or mattress and discovering that a dream purchase still needs common sense. Keep
-the Tehran roof/courtyard background in the intro if useful, but the extension
-should avoid roofs, balconies, or dangerous sleeping arrangements.
+Use an original same-theme short passage about a modest dream purchase after a
+long period of saving. The new story should not retell the bed-on-the-roof
+accident, and should avoid roofs, balconies, wind accidents, or dangerous
+sleeping arrangements. A safe modern bridge can be a student who saves up for a
+desk chair, desk lamp, or mattress topper, then discovers that a dream purchase
+still needs measuring, assembly, or common sense.
 
-Suggested title: `The Windy Homework Day`
+Suggested title: `The Perfect Study Chair`
 
-Recommended word bank: `tired of`, `save up`, `owner`, `springs`, `mattress`,
-`gust of wind`, `sweep off`, `smash`, `unhurt`, `promptly`.
+Recommended word bank: `tired of`, `save up`, `owner`, `assemble`,
+`instructions`, `too wide`, `wheels`, `unhurt`, `realize`, `promptly`.
 
 The 5 reading questions should test:
 
-1. what the person was tired of
+1. what uncomfortable habit the person was tired of
 2. what they saved up to buy
-3. why they moved it near a window or outside area
-4. what the wind did
-5. how the ending keeps the dream funny but safe
+3. what practical detail they ignored
+4. what went wrong in a safe, comic way
+5. how the ending keeps the dream alive but more sensible
 
 ### Sentence Writing
 
@@ -864,10 +866,10 @@ Use 5 patterns:
    - Source: `For the first time in his life, he became the proud owner of a bed.`
    - Focus: a major first experience.
    - Must include: `For the first time in his life`
-4. `Because ..., ...`
-   - Source: `Because the weather was very hot, he carried the bed on to the roof.`
-   - Focus: reason leading to action.
-   - Must include: `Because`
+4. `did not ... until ...`
+   - Source: `He did not wake up until the bed had struck the ground.`
+   - Focus: a delayed result or late realization.
+   - Must include: `did not` and `until`
 5. `Although ..., ...`
    - Source: `Although the bed was smashed to pieces, the man was miraculously unhurt.`
    - Focus: surprising contrast.
