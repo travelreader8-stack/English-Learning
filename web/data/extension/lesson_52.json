@@ -35,48 +35,48 @@
         "id": "not_easy_reason",
         "question": "Why was Daniel's work not easy?",
         "options": [
-          "He owned many project materials, including art paper, model parts, and notebooks.",
-          "He had lost the key to the study corner.",
           "His sister asked him to move into another house.",
+          "He had lost the key to the study corner.",
+          "He owned many project materials, including art paper, model parts, and notebooks.",
           "The window was too far from the floor."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "不容易的原因是材料很多：art paper、model parts 和 notebooks，不是因为搬家或找钥匙。"
       },
       {
         "id": "matters_worse",
         "question": "What made matters worse?",
         "options": [
-          "The new shelf was still in its box.",
+          "His sister refused to enter the room.",
           "Daniel had no school projects at all.",
           "The floor was already covered by a real carpet.",
-          "His sister refused to enter the room."
+          "The new shelf was still in its box."
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "explanation_zh": "To make matters worse 后面写的是 the new shelf was still in its box，所以东西暂时没有地方放。"
       },
       {
         "id": "paper_carpet",
         "question": "Why did the floor look like a paper carpet?",
         "options": [
-          "Coloured papers covered every inch of floor space.",
           "Daniel bought a new carpet made in a paper factory.",
+          "Coloured papers covered every inch of floor space.",
           "His sister painted a carpet on the floor.",
           "The model parts were all hidden in the shelf."
         ],
-        "answer_index": 0,
+        "answer_index": 1,
         "explanation_zh": "短文说 coloured papers covered every inch of floor space，所以地板看起来像一张由纸铺成的 carpet。"
       },
       {
         "id": "joke_turns_mess",
         "question": "How does the joke turn the mess into a picture?",
         "options": [
-          "The sister sees the bright papers as a paper carpet, and Daniel imagines planning from it.",
-          "The sister tells Daniel to throw away every project.",
           "Daniel decides never to use the study corner again.",
+          "The sister tells Daniel to throw away every project.",
+          "The sister sees the bright papers as a paper carpet, and Daniel imagines planning from it.",
           "The shelf opens by itself and hides the papers."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "妹妹把满地彩纸看成 paper carpet，Daniel 也顺着这个比喻想象可以从这张 carpet 里规划展示。乱变成了有画面感的笑点。"
       }
     ]
@@ -91,7 +91,7 @@
         "focus_zh": "have just moved into... 表示“刚搬进/刚换到某个地方”，重点是这个变化刚发生，结果现在还看得见。",
         "task_zh": "仿写一句：写你或某人刚搬进一个新房间、新学习角、新座位或新空间。",
         "must_include": [
-          "have just moved into"
+          "just moved into"
         ],
         "min_words": 9,
         "sample": "I have just moved into a small study corner near the window.",
@@ -144,10 +144,9 @@
         "focus_zh": "the prettiest...I have ever seen 用最高级制造夸张评价；在 Lesson 52 里，它把凌乱的地板变成一个温和的笑话。",
         "task_zh": "仿写一句：写某人把一个意外的场景幽默地称作自己见过最漂亮、最奇怪或最有趣的东西。",
         "must_include": [
-          "the prettiest",
           "I have ever seen"
         ],
-        "min_words": 11,
+        "min_words": 10,
         "sample": "This is the prettiest paper carpet I have ever seen.",
         "tip_zh": "the prettiest 后面接名词；I have ever seen 放在名词后面，表示“我见过的最……”。"
       }
