@@ -872,10 +872,11 @@ function renderYouToo() {
   const yt = state.youToo;
   if (!yt) return;
   $("#you-too-question").textContent = yt.question;
-  if (yt.example_answer) {
-    const ex = $("#you-too-example");
-    ex.innerHTML = `💡 ${renderYouTooSegmentsHtml(yt.example_answer)}`;
-    ex.hidden = false;
+  const ex = $("#you-too-example");
+  if (ex) {
+    const canShowExample = yt.example_answer && yt.mode !== "all_fills";
+    ex.innerHTML = canShowExample ? `💡 ${renderYouTooSegmentsHtml(yt.example_answer)}` : "";
+    ex.hidden = !canShowExample;
   }
 
   // Word bank 渲染（chip 形式）
@@ -888,7 +889,7 @@ function renderYouToo() {
   // state.answers.you_too 数据形态升级（兼容旧格式）
   if (!state.answers.you_too.fills) state.answers.you_too.fills = {};
 
-  // 新模式 all_fills：A/B/C 都必填、一起交。L1-L10 用这个。
+  // all_fills：多个空都必填、一起交；参考答案不能提前显示。
   if (yt.mode === "all_fills") {
     optsWrap.hidden = false;
     taWrap.hidden = true;

@@ -235,6 +235,38 @@ def main() -> None:
         ok("所有手工 chunks 中英数量一致")
     ok(f"已检查全部 {len(lessons)} 课；其中自动切句不一致的 {len(auto_fallback_lessons)} 课会在前端退回整篇一段，避免参考译文错位")
 
+    section("生活场景填空不提前显示参考答案")
+    you_too_dir = ROOT / "web" / "data" / "you_too"
+    app_js = (ROOT / "web" / "assets" / "app.js").read_text(encoding="utf-8")
+    app_hides_all_fills_examples = "yt.mode !== \"all_fills\"" in app_js
+    leaking_fill_examples = []
+    if you_too_dir.exists():
+        for you_too_path in sorted(you_too_dir.glob("lesson_*.json")):
+            if you_too_path.name.endswith(".sample.json"):
+                continue
+            try:
+                yt = json.loads(you_too_path.read_text(encoding="utf-8"))
+            except json.JSONDecodeError as e:
+                bad(f"{you_too_path.relative_to(ROOT)} JSON 解析失败: {e}")
+                continue
+            if yt.get("mode") != "all_fills" or not yt.get("example_answer"):
+                continue
+            example = yt.get("example_answer", "").lower()
+            leaked = [
+                opt.get("expected_phrase", "")
+                for opt in yt.get("options", [])
+                if opt.get("expected_phrase") and opt.get("expected_phrase", "").lower() in example
+            ]
+            if leaked:
+                lesson_no = re.search(r"lesson_(\d+)", you_too_path.name)
+                leaking_fill_examples.append((int(lesson_no.group(1)) if lesson_no else you_too_path.name, leaked[:3]))
+    if leaking_fill_examples and not app_hides_all_fills_examples:
+        bad(f"{len(leaking_fill_examples)} 个 all_fills 生活场景的 example_answer 含填空答案，前端未隐藏: {leaking_fill_examples[:8]}")
+    elif leaking_fill_examples:
+        ok(f"前端会隐藏 all_fills 的 example_answer；当前 {len(leaking_fill_examples)} 课存在潜在答案示例但不会提前展示")
+    else:
+        ok("all_fills 生活场景没有提前答案示例")
+
     section("TTS 朗读时去掉 '/'（不能被 Azure 念成 'slash'）")
     # 防止「在英文发音时说 slash」的回归
     sys.path.insert(0, str(ROOT / "pipeline"))
