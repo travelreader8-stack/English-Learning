@@ -35,48 +35,48 @@
         "id": "special_similarity",
         "question": "Why did Lena's reply feel special to Mia?",
         "options": [
-          "Because Lena was a girl of her own age and they both liked maps and old bottle stories.",
           "Because Lena lived in Mia's own street.",
           "Because Lena sent Mia an expensive present.",
+          "Because Lena was a girl of her own age and they both liked maps and old bottle stories.",
           "Because Lena already knew Mia's home address."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "短文说 Lena was a girl of her own age，而且 both girls liked maps and old bottle stories，所以这次回复有相似感。"
       },
       {
         "id": "regular_method",
         "question": "How do the two girls communicate regularly now?",
         "options": [
-          "They write to each other through the post office.",
           "They wait beside the postcard wall every day.",
+          "They write to each other through the post office.",
           "They put new tubes into the sea.",
           "They ask the museum to read every note aloud."
         ],
-        "answer_index": 0,
+        "answer_index": 1,
         "explanation_zh": "结尾说 Now they write to each other regularly through the post office。"
       },
       {
         "id": "practical_reason",
         "question": "Why is the post office better than the project box?",
         "options": [
-          "The project box was opened only once a month, but letters travel faster.",
           "The post office is free, but the project box costs a little more.",
           "The project box can only send maps.",
-          "The post office lets children share home addresses with strangers."
+          "The post office lets children share home addresses with strangers.",
+          "The project box was opened only once a month, but letters travel faster."
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "explanation_zh": "project box 一个月才打开一次；邮票 cost a little more，但 letters certainly travel faster。"
       },
       {
         "id": "lesson_idea",
         "question": "What is the main idea of the story?",
         "options": [
-          "Chance can start a connection, but a reliable way keeps it going.",
           "Children should throw bottles into the sea to make friends.",
           "A postcard wall is always faster than the post office.",
+          "Chance can start a connection, but a reliable way keeps it going.",
           "Two friends should stop writing when stamps cost money."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "这个拓展故事的核心和 Lesson 22 一样：偶然的开始很有惊喜，但长期联系需要稳定、可靠的方法。"
       }
     ]
