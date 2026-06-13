@@ -1,0 +1,156 @@
+{
+  "lesson_id": 26,
+  "reading": {
+    "title": "The Poster on the Wall",
+    "intro_zh": "这篇短文把“现代艺术和认真观察”的主题换到学校海报展：大家在解释设计含义，一个学生却先看出了最简单的问题。",
+    "word_bank": [
+      "art project",
+      "pretend",
+      "modern art",
+      "pattern",
+      "appreciate",
+      "notice",
+      "critically",
+      "whether... or not",
+      "upside down",
+      "the same way that"
+    ],
+    "passage": [
+      "Our class put several art projects on the wall for the school display. One poster was full of bright colours and pretty patterns. Some students pretended that they understood every part of it. They said what the poster was about, but they did not really look at it carefully. Lily, a quiet girl in our class, stood in front of the poster for a moment. She looked at it critically and asked whether the photo in the middle was right or not. Then we all noticed the problem. The photo was upside down. Our teacher smiled and said, \"Sometimes the best critic is the person who really looks.\""
+    ],
+    "questions": [
+      {
+        "id": "display",
+        "question": "Where did the class put the art projects?",
+        "options": [
+          "On the wall for the school display.",
+          "In a box under the teacher's desk.",
+          "On a bus near the school.",
+          "In Lily's bedroom."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "第一句说 Our class put several art projects on the wall for the school display。"
+      },
+      {
+        "id": "pretend",
+        "question": "What did some students pretend?",
+        "options": [
+          "That they painted the poster alone.",
+          "That they understood every part of the poster.",
+          "That the poster was too small.",
+          "That Lily was their art teacher."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文写道：Some students pretended that they understood every part of it。"
+      },
+      {
+        "id": "lily",
+        "question": "How did Lily look at the poster?",
+        "options": [
+          "Angrily and loudly.",
+          "Quickly and carelessly.",
+          "Critically and carefully.",
+          "Sadly and silently."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "critically 在这里不是挑刺，而是认真、有判断地看。"
+      },
+      {
+        "id": "problem",
+        "question": "What was wrong with the photo in the middle?",
+        "options": [
+          "It was upside down.",
+          "It was too expensive.",
+          "It was missing from the poster.",
+          "It was about curtain material."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "最后大家发现中间的照片 upside down，也就是倒过来了。"
+      },
+      {
+        "id": "message",
+        "question": "What is the main idea of the story?",
+        "options": [
+          "A good critic always uses difficult art words.",
+          "Modern art should never use bright colours.",
+          "Really looking can be better than pretending to understand.",
+          "A school display must have only one poster."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "这和 Lesson 26 的核心一致：不是假装懂，而是真正观察。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个值得背的结构：假装懂、比较欣赏能力、用 whether 表达两种可能、用 in the same way that 类比，以及用 Isn't it...? 礼貌指出问题。",
+    "patterns": [
+      {
+        "id": "pretend_that",
+        "title": "pretend that ...",
+        "source": "Many people pretend that they understand modern art.",
+        "focus_zh": "pretend that 表示“假装某件事是真的”，适合写人装懂、装会、装没看见。",
+        "task_zh": "仿写一句：有些同学假装他们懂这张海报、图片或设计。",
+        "must_include": [
+          "pretend that"
+        ],
+        "min_words": 8,
+        "sample": "Some students pretend that they understand the poster.",
+        "tip_zh": "pretend 后面接 that 从句，可以把“假装的内容”说完整。"
+      },
+      {
+        "id": "same_way_that",
+        "title": "in the same way that ...",
+        "source": "We like them in the same way that we like pretty curtain material.",
+        "focus_zh": "这个结构用来类比：我们喜欢 A 的方式，和喜欢 B 的方式相似。",
+        "task_zh": "仿写一句：我们欣赏一张海报的颜色，就像欣赏一件漂亮衣服或一个好看的图案。",
+        "must_include": [
+          "in the same way that"
+        ],
+        "min_words": 10,
+        "sample": "We enjoy the poster in the same way that we enjoy a colourful T-shirt.",
+        "tip_zh": "这个句式比 because 更细腻，能写出“相似的感受或原因”。"
+      },
+      {
+        "id": "better_than_anyone_else",
+        "title": "better than anyone else",
+        "source": "Young children often appreciate modern pictures better than anyone else.",
+        "focus_zh": "better than anyone else 是很强的比较，表示“比所有其他人都更好”。",
+        "task_zh": "仿写一句：一个小孩、同学或妹妹比别人更能注意到细节。",
+        "must_include": [
+          "better than anyone else"
+        ],
+        "min_words": 8,
+        "sample": "My little sister notices small details better than anyone else.",
+        "tip_zh": "这个表达能自然连接到标题 the best art critics。"
+      },
+      {
+        "id": "whether_or_not",
+        "title": "whether ... or not",
+        "source": "She always tells me whether my pictures are good or not.",
+        "focus_zh": "whether... or not 用在有两种可能的时候：好或不好，对或不对，像或不像。",
+        "task_zh": "仿写一句：老师、同学或妹妹告诉你这张图是不是挂对了。",
+        "must_include": [
+          "whether",
+          "or not"
+        ],
+        "min_words": 9,
+        "sample": "She told me whether the picture was right or not.",
+        "tip_zh": "whether 比 if 更适合正式地表达“是不是”。"
+      },
+      {
+        "id": "isnt_it_upside_down",
+        "title": "Isn't it ...?",
+        "source": "But isn't it upside down?",
+        "focus_zh": "Isn't it...? 可以礼貌地提出一个观察，不是直接指责别人错了。",
+        "task_zh": "仿写一句：你觉得图片、照片或海报好像倒了，用礼貌的问题说出来。",
+        "must_include": [
+          "isn't",
+          "upside down"
+        ],
+        "min_words": 6,
+        "sample": "But isn't this photo upside down?",
+        "tip_zh": "这句话短，但很有用：先保留余地，再指出自己看到的问题。"
+      }
+    ]
+  }
+}
