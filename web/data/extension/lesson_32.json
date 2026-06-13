@@ -1,0 +1,156 @@
+{
+  "lesson_id": 32,
+  "reading": {
+    "title": "The Free Headphones",
+    "intro_zh": "这篇短文不复述原文，而是换到现代电子商店和自助付款区：一个顾客看起来在正常购物，实则想不付钱带走昂贵耳机；店内观察和最后关系揭示都提醒我们，方便购物不能取消诚实。",
+    "word_bank": [
+      "honest",
+      "temptation",
+      "steal",
+      "detective",
+      "assistant",
+      "expensive",
+      "parcel",
+      "without paying",
+      "arrested",
+      "found out"
+    ],
+    "passage": [
+      "On Tuesday evening, Ryan walked into a large electronics shop with a basket. A store detective watched him because Ryan came in at the same time every week. First, Ryan bought a cheap phone cable and some batteries. Then he chose one of the most expensive pairs of headphones and handed it to a young assistant. The assistant put the headphones into a parcel and moved towards the self-checkout area as quickly as possible. Ryan took the parcel, smiled at the assistant, and walked towards the door without paying. The camera near the exit recorded everything. When Ryan was stopped and arrested, the detective found out that the assistant was his cousin. The temptation to steal had looked easy, but it was not honest. The headphones were not a free gift. They belonged to the shop."
+    ],
+    "questions": [
+      {
+        "id": "why_watched",
+        "question": "Why did the store detective watch Ryan?",
+        "options": [
+          "Because Ryan came in at the same time every week.",
+          "Because Ryan was repairing the shop camera.",
+          "Because Ryan was a new assistant in the shop.",
+          "Because Ryan had already paid for the headphones."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 Ryan had come in at the same time every week，这种 repeated pattern 引起了 store detective 的注意。"
+      },
+      {
+        "id": "expensive_item",
+        "question": "What expensive item did Ryan choose?",
+        "options": [
+          "A cheap phone cable.",
+          "A packet of batteries.",
+          "One of the most expensive pairs of headphones.",
+          "A camera near the exit."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "Ryan 先买小东西，后来 chose one of the most expensive pairs of headphones。"
+      },
+      {
+        "id": "without_paying",
+        "question": "How did Ryan try to leave the shop?",
+        "options": [
+          "He paid at the self-checkout and kept the receipt.",
+          "He took the parcel and walked towards the door without paying.",
+          "He asked the detective to wrap the headphones.",
+          "He returned the parcel to the assistant."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "关键句是 Ryan took the parcel... and walked towards the door without paying，说明他没有付款就想离开。"
+      },
+      {
+        "id": "hidden_relationship",
+        "question": "What hidden relationship explained the trick?",
+        "options": [
+          "The detective was Ryan's cousin.",
+          "The shop owner was Ryan's teacher.",
+          "The assistant was Ryan's cousin.",
+          "The camera belonged to Ryan's family."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "最后 detective found out that the assistant was his cousin，这解释了为什么 assistant 会帮他包好商品。"
+      },
+      {
+        "id": "moral_point",
+        "question": "What is the moral point of the passage?",
+        "options": [
+          "Self-checkout means expensive goods can become free gifts.",
+          "A family member in a shop may give away anything.",
+          "Convenience does not remove the need to be honest and pay.",
+          "A camera is useful only when the shop is crowded."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结尾强调 The headphones were not a free gift. They belonged to the shop. 方便购物不等于可以不诚实。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 32 的核心结构：用 not so...as...once were 做今昔比较，用 greater than ever before 强调问题变大，用 fewer...than usual 解释观察更容易，用 as quickly as possible 写异常速度，再用 found out that 揭示隐藏真相。",
+    "patterns": [
+      {
+        "id": "not_so_as_once_were",
+        "title": "not so ... as ... once were",
+        "source": "People are not so honest as they once were.",
+        "focus_zh": "这个结构把现在和过去比较，表达“不像从前那样……”。",
+        "task_zh": "仿写一句：写人们、顾客或学生现在不像过去那样有耐心、安静、诚实或小心。",
+        "must_include": [
+          "not so",
+          "as they once were"
+        ],
+        "min_words": 10,
+        "sample": "Some customers are not so patient as they once were in busy shops.",
+        "tip_zh": "not so 后面接形容词，as they once were 放在比较的后半部分。"
+      },
+      {
+        "id": "greater_than_ever_before",
+        "title": "greater than ever before",
+        "source": "The temptation to steal is greater than ever before.",
+        "focus_zh": "greater than ever before 用来强调某个问题比过去任何时候都更大。",
+        "task_zh": "仿写一句：写在大商店、自助付款或网络购物中，某种诱惑或责任比以前更大。",
+        "must_include": [
+          "greater than ever before"
+        ],
+        "min_words": 10,
+        "sample": "The temptation to skip payment is greater than ever before at self-checkout.",
+        "tip_zh": "greater 修饰抽象名词很自然，比如 temptation, pressure, responsibility。"
+      },
+      {
+        "id": "fewer_than_usual",
+        "title": "fewer ... than usual",
+        "source": "There were fewer people in the shop than usual.",
+        "focus_zh": "fewer...than usual 用来比较数量，说明这一天和普通情况不同。",
+        "task_zh": "仿写一句：写店里、车站或教室里的人比平常少，并说明这让某件事更容易发生。",
+        "must_include": [
+          "fewer",
+          "than usual"
+        ],
+        "min_words": 11,
+        "sample": "There were fewer shoppers than usual, so the detective could watch carefully.",
+        "tip_zh": "fewer 修饰可数名词，比如 people, shoppers, students，不要用来修饰 money。"
+      },
+      {
+        "id": "as_quickly_as_possible",
+        "title": "as quickly as possible",
+        "source": "The assistant wrapped it up for her as quickly as possible.",
+        "focus_zh": "as quickly as possible 表示尽可能快；在故事里，这个速度暗示动作背后有目的。",
+        "task_zh": "仿写一句：写一个店员、同学或工作人员尽快完成某个动作，但句子要让读者感觉这个速度有原因。",
+        "must_include": [
+          "as quickly as possible"
+        ],
+        "min_words": 10,
+        "sample": "The assistant packed the expensive headphones as quickly as possible.",
+        "tip_zh": "as quickly as possible 通常放在动作后面，说明动作完成得很快。"
+      },
+      {
+        "id": "found_out_that",
+        "title": "found out that ...",
+        "source": "The detective found out that the shop assistant was her daughter.",
+        "focus_zh": "found out that 用来写“发现隐藏真相”，很适合故事结尾的反转。",
+        "task_zh": "仿写一句：写侦探、老师或工作人员最后发现了隐藏关系或真正原因。",
+        "must_include": [
+          "found out that"
+        ],
+        "min_words": 11,
+        "sample": "The manager found out that the assistant was helping his cousin.",
+        "tip_zh": "that 后面接完整句子，把真正发现的内容说清楚。"
+      }
+    ]
+  }
+}
