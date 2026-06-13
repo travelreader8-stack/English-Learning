@@ -1,0 +1,157 @@
+{
+  "lesson_id": 23,
+  "reading": {
+    "title": "The Modern House on the Corner",
+    "intro_zh": "这篇短文不复述姐姐从 Nigeria 回来的原文，而是换到奶奶离开一段时间后回到老街角的家庭故事：工程在她离开前已经开始，后来完工；新房间很 modern，所以在旧街区里显得 strange。重点练习 had begun、was completed、would come、If she comes、stay with us、district 和 must be。",
+    "word_bank": [
+      "complete",
+      "modern",
+      "strange",
+      "district",
+      "had begun",
+      "was completed",
+      "would come",
+      "If she comes",
+      "stay with us",
+      "must be"
+    ],
+    "passage": [
+      "Last winter, Grandma moved to my aunt's flat while our old corner house was being repaired. In her first letter, she said that she would come back for the summer holiday. If she comes, she will get a surprise. Work on the new reading room had begun before she left, but nobody sent her pictures. It was completed three months ago. Now the corner house has a bright glass room, two large windows, and a small garden path. My father told Grandma she could stay with us as long as she wanted. The room is very modern, so it looks strange beside the old brick houses in our district. To us it is warm and useful, but to Grandma it must be the only modern room on the whole street."
+    ],
+    "questions": [
+      {
+        "id": "returning_person",
+        "question": "Who is going to return for the summer holiday?",
+        "options": [
+          "Grandma.",
+          "The narrator's aunt.",
+          "A new neighbour.",
+          "The builder of the reading room."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 Grandma 在信中 said that she would come back for the summer holiday。"
+      },
+      {
+        "id": "work_had_begun",
+        "question": "What had already begun before Grandma left?",
+        "options": [
+          "Work on a new school library.",
+          "Work on the new reading room.",
+          "A summer holiday trip.",
+          "A plan to move to another district."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中写道：Work on the new reading room had begun before she left。"
+      },
+      {
+        "id": "completion_time",
+        "question": "When was the new reading room completed?",
+        "options": [
+          "Last winter.",
+          "Before Grandma moved away.",
+          "Three months ago.",
+          "On the first day of the summer holiday."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "短文直接说 It was completed three months ago。"
+      },
+      {
+        "id": "why_surprised",
+        "question": "Why will Grandma get a surprise if she comes back?",
+        "options": [
+          "Because the family has moved to her aunt's flat.",
+          "Because nobody remembers the old corner house.",
+          "Because the old house now has a modern glass reading room.",
+          "Because the district has no old brick houses left."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "奶奶没有看到照片，回来会发现 old corner house 多了 bright glass room，这就是 surprise。"
+      },
+      {
+        "id": "modern_strange",
+        "question": "Why can the modern room look strange in the district?",
+        "options": [
+          "Because it is useful and warm for the family.",
+          "Because it stands beside old brick houses and has a different style.",
+          "Because Grandma does not like reading rooms.",
+          "Because every house on the street is modern too."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "modern 在这里不是 bad，而是和 old brick houses 风格不同，所以在 district 里显得 unfamiliar。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 23 的时间线句式：用 said that...would... 转述过去说的未来计划，用 If...will... 写真实可能，用 had begun before... 排出更早的过去，用 was completed...ago 写被动完成时间，再用 must be the only... 表达强烈判断。",
+    "patterns": [
+      {
+        "id": "said_that_would",
+        "title": "said that she would ...",
+        "source": "In her letter, she said that she would come to England next year.",
+        "focus_zh": "用 said that...would... 转述别人过去说过的未来计划，适合写信、消息或转告。",
+        "task_zh": "仿写一句：某人在信、消息或电话里说，他/她明年、下周或假期会回来、参观或入住。",
+        "must_include": [
+          "said that",
+          "would"
+        ],
+        "min_words": 10,
+        "sample": "In his message, he said that he would visit our new classroom next week.",
+        "tip_zh": "said 是过去说，would 把当时说的“将来会做”放进转述里。"
+      },
+      {
+        "id": "if_comes_will",
+        "title": "If she comes, she will ...",
+        "source": "If she comes, she will get a surprise.",
+        "focus_zh": "If...will... 写真实可能发生的未来：如果前面的条件发生，后面就会有结果。",
+        "task_zh": "仿写一句：如果一个亲戚、朋友或同学回来，他/她会看到一个惊喜或变化。",
+        "must_include": [
+          "If",
+          "will"
+        ],
+        "min_words": 9,
+        "sample": "If my cousin comes home this winter, she will see our new kitchen.",
+        "tip_zh": "If 后面常用现在时 comes，主句用 will；不要写 If she will comes。"
+      },
+      {
+        "id": "had_begun_before",
+        "title": "had begun before ...",
+        "source": "Work on it had begun before my sister left.",
+        "focus_zh": "had begun before... 用来说明一件事在另一个过去动作之前已经开始。",
+        "task_zh": "仿写一句：某个装修、建设、训练或准备工作在某人离开、到达或发现之前已经开始。",
+        "must_include": [
+          "had begun before"
+        ],
+        "min_words": 10,
+        "sample": "Work on the new library had begun before we left for the holiday.",
+        "tip_zh": "had begun 是更早的过去；before 后面接另一个过去动作，时间线就清楚了。"
+      },
+      {
+        "id": "was_completed_ago",
+        "title": "was completed ... ago",
+        "source": "The house was completed five months ago.",
+        "focus_zh": "was completed 把重点放在“东西被完成”，后面加 ... ago 说明完成时间。",
+        "task_zh": "仿写一句：某个房间、花园、教室或项目在几天、几周或几个月前完工。",
+        "must_include": [
+          "was completed",
+          "ago"
+        ],
+        "min_words": 8,
+        "sample": "The new reading room was completed three months ago.",
+        "tip_zh": "was completed 是被动语态；不需要说明是谁完成的，重点是 finished result。"
+      },
+      {
+        "id": "must_be_the_only",
+        "title": "must be the only ...",
+        "source": "It must be the only modern house in the district.",
+        "focus_zh": "must be the only... 表示很有把握的判断：它很可能是唯一一个。",
+        "task_zh": "仿写一句：一个现代房间、建筑、商店或教室在老街区、学校或小区里很可能是唯一的。",
+        "must_include": [
+          "must be the only"
+        ],
+        "min_words": 9,
+        "sample": "It must be the only modern cafe in the old district.",
+        "tip_zh": "must be 不是命令，而是强烈推测；the only 后面接名词，说明它很特别。"
+      }
+    ]
+  }
+}
