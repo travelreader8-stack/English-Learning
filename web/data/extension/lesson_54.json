@@ -48,11 +48,11 @@
         "question": "Why was replying to Max annoying?",
         "options": [
           "Leo did not know Max at all.",
-          "Leo's hands were sticky, but Max needed the model measurements at once.",
           "Leo had already finished the science fair.",
+          "Leo's hands were sticky, but Max needed the model measurements at once.",
           "Leo wanted to throw the phone away."
         ],
-        "answer_index": 1,
+        "answer_index": 2,
         "explanation_zh": "麻烦点在于手上都是 sticky glue，却要处理 Max 要 measurements 的消息；这就是 bad timing。"
       },
       {
@@ -60,11 +60,11 @@
         "question": "What mess was left after the phone problem?",
         "options": [
           "Paint was on the wall and floor.",
-          "Glue was on Leo's fingers, the desk, and the phone case.",
+          "Tape was stuck to the delivery driver's bag.",
           "The package code was written on the rocket.",
-          "Tape was stuck to the delivery driver's bag."
+          "Glue was on Leo's fingers, the desk, and the phone case."
         ],
-        "answer_index": 1,
+        "answer_index": 3,
         "explanation_zh": "短文里的 What a mess 后面说 glue 在 his fingers、the desk 和 the phone case 上。"
       },
       {
