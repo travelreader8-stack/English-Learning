@@ -1,0 +1,156 @@
+{
+  "lesson_id": 29,
+  "reading": {
+    "title": "The Small Plane Service",
+    "intro_zh": "这篇短文不复述原文，而是换到一个现代小型空中服务：飞机能到普通交通很难到达的地方，也能帮助真正需要的人，但飞行员会拒绝危险请求。",
+    "word_bank": [
+      "taxi",
+      "aeroplane",
+      "passenger",
+      "land",
+      "mountain",
+      "village",
+      "unusual",
+      "request",
+      "dangerous",
+      "refuse"
+    ],
+    "passage": [
+      "Mia's uncle runs a small air taxi in the north. His aeroplane is not fast like a big jet, but it is useful. It can carry six passengers and land on short grass, snow, and calm water. One winter morning, a nurse needed medicine for a mountain clinic because the road was closed. The small plane landed near the village, and the people were grateful. Later, a tourist asked for a flight to a tiny island during strong wind. The island looked exciting, but the sea was rough and the clouds were low. Mia's uncle refused the request. He said, \"A good service takes people safely, not just quickly.\""
+    ],
+    "questions": [
+      {
+        "id": "different_taxi",
+        "question": "What makes this taxi different from an ordinary taxi?",
+        "options": [
+          "It is a small aeroplane service.",
+          "It is a bus for school children.",
+          "It can only drive through the city.",
+          "It belongs to a tourist on the island."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文里的 air taxi 不是路上的出租车，而是一架 small aeroplane 提供的服务。"
+      },
+      {
+        "id": "landing_places",
+        "question": "Where can the small aeroplane land?",
+        "options": [
+          "Only at large international airports.",
+          "On short grass, snow, and calm water.",
+          "Inside the mountain clinic.",
+          "On busy city roads."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中说它 can land on short grass, snow, and calm water，说明它能在不寻常的地方降落。"
+      },
+      {
+        "id": "nurse_need",
+        "question": "Why did the nurse need the air service?",
+        "options": [
+          "She wanted to see the island in strong wind.",
+          "She needed medicine for a mountain clinic when the road was closed.",
+          "She wanted to buy a faster jet.",
+          "She had lost six passengers in the village."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "护士需要把 medicine 送到 mountain clinic，因为路被封了，小飞机能帮上忙。"
+      },
+      {
+        "id": "refused_request",
+        "question": "Which request did Mia's uncle refuse?",
+        "options": [
+          "A flight to a mountain clinic in good weather.",
+          "A short landing near a village.",
+          "A flight to a tiny island during strong wind.",
+          "A safe trip with six passengers."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "游客想在 strong wind 里飞去 tiny island，这个请求被飞行员拒绝了。"
+      },
+      {
+        "id": "safety_first",
+        "question": "Why is safety more important than an exciting trip?",
+        "options": [
+          "Because the plane should never carry passengers.",
+          "Because a good service must take people safely.",
+          "Because the tourist did not like islands.",
+          "Because small planes cannot help anyone."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结尾说 A good service takes people safely, not just quickly，强调能飞不等于应该冒险飞。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 29 的核心结构：用现在完成时写新服务，用 The most surprising thing... 引出亮点，用冒号列举能力，用 Since then 写服务历史，再用 refused...because... 写出安全判断。",
+    "patterns": [
+      {
+        "id": "has_bought_has_begun",
+        "title": "has bought ... and has begun ...",
+        "source": "Captain Ben Fawcett has bought an unusual taxi and has begun a new service.",
+        "focus_zh": "用现在完成时说明一个新变化已经发生，而且现在还重要：买了某个工具，并开始了一项服务。",
+        "task_zh": "仿写一句：写某人已经买了一种特别的交通工具，并开始了一项新的服务。",
+        "must_include": [
+          "has bought",
+          "has begun"
+        ],
+        "min_words": 11,
+        "sample": "My aunt has bought a small boat and has begun a river service.",
+        "tip_zh": "两个 has done 并列时，动作要能连成一个真实的新变化。"
+      },
+      {
+        "id": "most_surprising_thing",
+        "title": "The most surprising thing about it is that ...",
+        "source": "The most surprising thing about it, however, is that it can land anywhere.",
+        "focus_zh": "这个结构用来推出最让人意外的特点，比直接写 It is surprising 更有层次。",
+        "task_zh": "仿写一句：介绍一辆车、一架飞机或一种服务最令人惊讶的能力。",
+        "must_include": [
+          "The most surprising thing about it"
+        ],
+        "min_words": 12,
+        "sample": "The most surprising thing about it is that it can stop on the snow.",
+        "tip_zh": "about it 后面的 is that 要接一个完整句子，说明真正惊讶的内容。"
+      },
+      {
+        "id": "can_land_anywhere",
+        "title": "can land anywhere: ...",
+        "source": "It can land anywhere: on snow, water, or even on a ploughed field.",
+        "focus_zh": "冒号后面列出具体地点，能把 can land anywhere 写得更有画面感。",
+        "task_zh": "仿写一句：写一种交通工具能在几个不寻常的地方降落或停靠。",
+        "must_include": [
+          "can land anywhere"
+        ],
+        "min_words": 10,
+        "sample": "The small plane can land anywhere: on grass, snow, or calm water.",
+        "tip_zh": "冒号后最好列 2-3 个具体地点，最后一个可以用 or even 加强惊讶感。"
+      },
+      {
+        "id": "since_then_has",
+        "title": "Since then, ... has ...",
+        "source": "Since then, Captain Fawcett has flown passengers to many unusual places.",
+        "focus_zh": "Since then 表示“从那以后一直到现在”，后面常接现在完成时写持续到现在的经历。",
+        "task_zh": "仿写一句：写从某次成功之后，一个人或服务已经帮助过很多乘客、村庄或病人。",
+        "must_include": [
+          "Since then"
+        ],
+        "min_words": 11,
+        "sample": "Since then, the pilot has taken doctors to many mountain villages.",
+        "tip_zh": "Since then 后面不要只写一次动作，要写一段延续到现在的服务历史。"
+      },
+      {
+        "id": "refused_because",
+        "title": "refused ... because ...",
+        "source": "Captain Fawcett did not take him because the trip was too dangerous.",
+        "focus_zh": "refused...because... 用来写负责任的拒绝：不是不愿意帮忙，而是有清楚的安全原因。",
+        "task_zh": "仿写一句：写一位飞行员、司机或负责人拒绝一个危险请求，并说明原因。",
+        "must_include": [
+          "refused",
+          "because"
+        ],
+        "min_words": 10,
+        "sample": "The pilot refused the trip because the wind was too strong.",
+        "tip_zh": "because 后面要给具体原因，比如 weather, road, sea, landing place，不要只写 because it was bad。"
+      }
+    ]
+  }
+}

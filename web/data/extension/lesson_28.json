@@ -1,0 +1,156 @@
+{
+  "lesson_id": 28,
+  "reading": {
+    "title": "A Sign That Finally Worked",
+    "intro_zh": "这篇短文不复述原文，而是换到现代小区门口的停车问题：旧提示牌没有效果，一个幽默的 Medusa 标志让人注意规则，但真正解决问题的是清楚规则和冷静沟通。",
+    "word_bank": [
+      "garage",
+      "gate",
+      "parking space",
+      "owner",
+      "notice",
+      "effect",
+      "ancient myth",
+      "Medusa",
+      "turn to stone",
+      "at last"
+    ],
+    "passage": [
+      "Aiden's family lived above a small shop, and their garage was behind a blue gate. Every evening a delivery car stopped in front of the gate, so his father could not get their car into the garage. They put up two No Parking notices, but drivers said the notices were too small and stopped for \"only five minutes.\" Aiden laughed and drew a friendly Medusa on a new notice: \"Do not wait here, or this parking space will turn to stone!\" The building manager liked the joke, but she also painted a clear yellow line and called the delivery company. At last, the gate stayed open. Aiden learned that funny signs can help people notice a rule, but clear rules and calm action have the real effect."
+    ],
+    "questions": [
+      {
+        "id": "gate_problem",
+        "question": "What problem did Aiden's family have outside the gate?",
+        "options": [
+          "A delivery car often stopped there and blocked the garage.",
+          "Their blue gate was too old to open.",
+          "Medusa turned their family car to stone.",
+          "The building manager took away their parking space."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 a delivery car stopped in front of the gate，所以父亲没法把车开进 garage。"
+      },
+      {
+        "id": "old_notices",
+        "question": "Why did the first No Parking notices have little effect?",
+        "options": [
+          "They were written in an ancient myth.",
+          "Drivers said they were too small and only stopped for a short time.",
+          "The notices were behind the garage door.",
+          "Aiden's father forgot to put them up."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "司机觉得牌子太小，而且总说自己只停 five minutes，所以旧提示牌没有真正效果。"
+      },
+      {
+        "id": "modern_solution",
+        "question": "What modern solution finally helped?",
+        "options": [
+          "Aiden hid the delivery car.",
+          "The family bought another garage.",
+          "The manager painted a clear yellow line and called the delivery company.",
+          "The owner of the shop moved away."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "真正起作用的是 building manager 画了清楚的黄线，并联系了 delivery company。"
+      },
+      {
+        "id": "medusa_symbol",
+        "question": "What does Medusa symbolize in the new notice?",
+        "options": [
+          "A real monster living near the gate.",
+          "A funny ancient-myth warning that makes people notice the rule.",
+          "A new owner of the parking space.",
+          "A delivery company worker."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "Medusa / 美杜莎在这里不是恐怖怪物，而是一个幽默的古代神话提示，让人注意 No Parking 规则。"
+      },
+      {
+        "id": "practical_lesson",
+        "question": "What practical lesson does the story teach?",
+        "options": [
+          "Angry signs always solve parking problems.",
+          "Clear rules and calm action work better than unclear notices.",
+          "Drivers should park anywhere for five minutes.",
+          "Ancient myths can really turn cars to stone."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结尾点明：funny signs 可以帮助别人注意规则，但真正有效的是 clear rules and calm action。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个能把 Lesson 28 写得更有故事感的结构：少见的人、持续到现在的问题、一次也没成功、没有效果，以及 one of the... I have ever seen 的强比较。",
+    "patterns": [
+      {
+        "id": "one_rare_people",
+        "title": "one of those rare people who ...",
+        "source": "Jasper White is one of those rare people who believes in ancient myths.",
+        "focus_zh": "用这个结构描述“不常见的一类人”，后面接 who 从句说明他特别在哪里。",
+        "task_zh": "仿写一句：写一个少见的人，比如仍然相信古老故事、总能注意规则、或者特别会解决问题的人。",
+        "must_include": [
+          "one of those rare people who"
+        ],
+        "min_words": 10,
+        "sample": "My grandfather is one of those rare people who still writes letters by hand.",
+        "tip_zh": "rare people 后面的 who 从句要具体，不要只写 who is nice。"
+      },
+      {
+        "id": "ever_since_problem",
+        "title": "Ever since ..., ...",
+        "source": "Ever since he moved in, he has had trouble with cars and their owners.",
+        "focus_zh": "ever since 表示“从那时起一直到现在”，很适合写一个持续的问题。",
+        "task_zh": "仿写一句：写自从搬家、开学或某个规则改变以后，一个问题一直存在。",
+        "must_include": [
+          "ever since"
+        ],
+        "min_words": 10,
+        "sample": "Ever since we moved here, cars have blocked our gate at night.",
+        "tip_zh": "后半句最好用现在完成时或现在完成进行时，体现“到现在还有关联”。"
+      },
+      {
+        "id": "not_able_even_once",
+        "title": "has not been able to ... even once",
+        "source": "He has not been able to get his own car into his garage even once.",
+        "focus_zh": "这个结构强调反复尝试却一次也没成功，情绪比 simply cannot 更强。",
+        "task_zh": "仿写一句：写某人因为被挡住、太忙或规则不清，一次也没能完成某件事。",
+        "must_include": [
+          "has not been able to",
+          "even once"
+        ],
+        "min_words": 11,
+        "sample": "She has not been able to use her parking space even once.",
+        "tip_zh": "even once 放在句尾，能把“从来没有成功过”的感觉压出来。"
+      },
+      {
+        "id": "no_effect",
+        "title": "have not had any effect",
+        "source": "These have not had any effect.",
+        "focus_zh": "have not had any effect 用来说明某个办法看起来有用，但实际上没有改变结果。",
+        "task_zh": "仿写一句：写提示牌、提醒、规则或建议没有让别人改变行为。",
+        "must_include": [
+          "have not had any effect"
+        ],
+        "min_words": 10,
+        "sample": "The small notices have not had any effect on the delivery drivers.",
+        "tip_zh": "effect 后面可以接 on someone，说明“对谁没有起作用”。"
+      },
+      {
+        "id": "one_of_the_seen",
+        "title": "one of the ... I have ever seen",
+        "source": "It is one of the ugliest faces I have ever seen.",
+        "focus_zh": "one of the... I have ever seen 是强比较，表示“我见过的最……之一”。",
+        "task_zh": "仿写一句：写一个你见过的最清楚、最奇怪、最有趣或最没用的标志之一。",
+        "must_include": [
+          "one of the",
+          "I have ever seen"
+        ],
+        "min_words": 11,
+        "sample": "This is one of the clearest parking signs I have ever seen.",
+        "tip_zh": "the 后面要用最高级，比如 clearest, strangest, funniest, ugliest。"
+      }
+    ]
+  }
+}
