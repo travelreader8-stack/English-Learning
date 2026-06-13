@@ -1,0 +1,155 @@
+{
+  "lesson_id": 31,
+  "reading": {
+    "title": "From a Small Desk to a Big Company",
+    "intro_zh": "这篇短文不复述原文，而是换到一个现代修理手机的小故事：主人公从一个小桌子开始，慢慢有了自己的 workshop 和更大的 factory，最后又被家人请回最早的修理本领。",
+    "word_bank": [
+      "used to",
+      "repair",
+      "workshop",
+      "save money",
+      "helper",
+      "factory",
+      "employ",
+      "retire",
+      "experience",
+      "success"
+    ],
+    "passage": [
+      "When Nora Chen was sixteen, she used to repair old phones at a small desk in her aunt's shop. It was her job to find tiny broken parts, and at that time she often worked after school until late evening. She saved money for years and bought a little workshop of her own. In her twenties, Nora began to make spare parts for cameras and tablets. At first she had only one helper. In a few years, the workshop had become a factory which employed three hundred people. When Nora retired, she liked telling young workers about her hard early years and the long road to success. One Sunday, while she was smiling over those experiences, her nephew came in with a cracked phone and asked, \"Can you fix this?\""
+    ],
+    "questions": [
+      {
+        "id": "young_skill",
+        "question": "What did Nora use to do when she was sixteen?",
+        "options": [
+          "She used to repair old phones at a small desk.",
+          "She used to fly aeroplanes for a factory.",
+          "She used to sell bicycles outside a school.",
+          "She used to teach workers how to retire."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文开头说 Nora was sixteen 时，她 used to repair old phones at a small desk。"
+      },
+      {
+        "id": "hard_work",
+        "question": "How hard did Nora work at that time?",
+        "options": [
+          "She only worked on Sunday mornings.",
+          "She often worked after school until late evening.",
+          "She never worked in her aunt's shop.",
+          "She had three hundred helpers every day."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中说 at that time she often worked after school until late evening，说明早期很辛苦。"
+      },
+      {
+        "id": "own_workshop",
+        "question": "What did Nora buy after saving money for years?",
+        "options": [
+          "A cracked phone for her nephew.",
+          "A very large business company.",
+          "A little workshop of her own.",
+          "A school desk in her aunt's shop."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "她 saved money for years 之后，bought a little workshop of her own。"
+      },
+      {
+        "id": "business_growth",
+        "question": "How did Nora's work grow in a few years?",
+        "options": [
+          "Her workshop had become a factory which employed three hundred people.",
+          "Her small desk disappeared and she stopped repairing things.",
+          "Her aunt's shop became a quiet library for retired workers.",
+          "Her nephew employed one helper to make old phones."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "关键句是 the workshop had become a factory which employed three hundred people。"
+      },
+      {
+        "id": "funny_return",
+        "question": "What small job came back at the end of the story?",
+        "options": [
+          "Nora had to tell young workers about cameras.",
+          "Her nephew asked her to fix a cracked phone.",
+          "Her helper asked her to open a new factory.",
+          "Nora repaired an aeroplane part after retirement."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结尾的幽默回环是 nephew 带着 cracked phone 进来，请她 Can you fix this?"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 31 的核心结构：用 used to 写过去习惯，用 It was his job to 写职责，用 At that time 放进过去时间，用 had become 写变化完成，再用 the long road to 写长期努力。",
+    "patterns": [
+      {
+        "id": "used_to_past",
+        "title": "used to ...",
+        "source": "As a boy he used to work in a small shop.",
+        "focus_zh": "used to 写过去经常发生的事或过去的状态，现在通常已经不是这样。",
+        "task_zh": "仿写一句：写某人小时候或年轻时经常做的一件事，强调那是过去的习惯。",
+        "must_include": [
+          "used to"
+        ],
+        "min_words": 9,
+        "sample": "My uncle used to repair radios in a small shop after school.",
+        "tip_zh": "used to 后面接动词原形，不要写成 used to repaired。"
+      },
+      {
+        "id": "job_to_do",
+        "title": "It was his job to ...",
+        "source": "It was his job to repair bicycles.",
+        "focus_zh": "这个结构用来说明一个人的职责，比直接写 He repaired... 更强调“这是他的工作”。",
+        "task_zh": "仿写一句：写某人的职责，可以是修理、整理、检查、照顾或帮助别人。",
+        "must_include": [
+          "It was his job to"
+        ],
+        "min_words": 9,
+        "sample": "It was his job to check every bicycle before the race.",
+        "tip_zh": "to 后面接动词原形；后面最好补出具体对象，让职责更清楚。"
+      },
+      {
+        "id": "at_that_time",
+        "title": "At that time, ...",
+        "source": "At that time he used to work fourteen hours a day.",
+        "focus_zh": "At that time 把习惯放回过去某个阶段，帮助读者跟上时间线。",
+        "task_zh": "仿写一句：写在过去某段时间里，某人经常做什么或每天工作多久。",
+        "must_include": [
+          "At that time"
+        ],
+        "min_words": 9,
+        "sample": "At that time, she used to work ten hours a day.",
+        "tip_zh": "At that time 后面不要只写一个名词，要接完整句子。"
+      },
+      {
+        "id": "had_become_growth",
+        "title": "In a few years, ... had become ...",
+        "source": "In a few years the small workshop had become a large factory.",
+        "focus_zh": "had become 写从小到大的变化已经完成，适合讲一个长期成长的结果。",
+        "task_zh": "仿写一句：写一个小工作室、小队伍或小项目几年后变成了更大的东西。",
+        "must_include": [
+          "In a few years",
+          "had become"
+        ],
+        "min_words": 11,
+        "sample": "In a few years, the tiny kitchen had become a busy bakery.",
+        "tip_zh": "前面写起点，had become 后面写结果，变化要清楚。"
+      },
+      {
+        "id": "long_road_to",
+        "title": "the long road to ...",
+        "source": "the long road to success",
+        "focus_zh": "the long road to... 是一个漂亮的比喻，适合写慢慢努力得到的结果。",
+        "task_zh": "仿写一句：写某人回想通向成功、进步、独立或更好生活的漫长过程。",
+        "must_include": [
+          "the long road to"
+        ],
+        "min_words": 10,
+        "sample": "He remembered the long road to success with a quiet smile.",
+        "tip_zh": "road 前面用 the，to 后面接名词，比如 success, progress, independence。"
+      }
+    ]
+  }
+}
