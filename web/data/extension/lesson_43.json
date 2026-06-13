@@ -1,0 +1,156 @@
+{
+  "lesson_id": 43,
+  "reading": {
+    "title": "Clearing the Mountain Ridge",
+    "intro_zh": "这篇短文换到一支雪地测绘队：他们起初能顺利拍摄山脊，后来因为高度和重量遇到危险，必须迅速减重，飞机才终于越过山脊。",
+    "word_bank": [
+      "survey team",
+      "photograph",
+      "mountain ridge",
+      "run into",
+      "serious trouble",
+      "crash",
+      "rise",
+      "throw out",
+      "clear",
+      "plain"
+    ],
+    "passage": [
+      "Early one morning, a survey team flew over a snowy valley to photograph a long mountain ridge. At first, the light was clear, and the small aircraft moved smoothly above the white plain. The camera operator took careful photographs of dark rocks and ice lines below. Soon, however, the pilot ran into serious trouble. A wall of cloud forced the aircraft toward the ridge, but the plane was carrying extra fuel cans and a heavy box of metal markers. It could only clear the ridge if it rose higher, and the engine was already working hard. The leader made a quick decision. The team threw out the metal markers and the empty fuel cans. The aircraft became lighter, rose slowly, and cleared the ridge by a narrow distance. Beyond it lay a wide, quiet plain."
+    ],
+    "questions": [
+      {
+        "id": "survey_goal",
+        "question": "What was the survey team trying to photograph?",
+        "options": [
+          "A long mountain ridge in a snowy valley.",
+          "A busy airport beside a city.",
+          "A group of ships on the sea.",
+          "A village road after a storm."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "开头说 the survey team flew over a snowy valley to photograph a long mountain ridge，目标是拍摄雪地山谷里的长山脊。"
+      },
+      {
+        "id": "height_problem",
+        "question": "What trouble appeared during the flight?",
+        "options": [
+          "A wall of cloud forced the aircraft toward the ridge.",
+          "The team lost all of its photographs.",
+          "The plain suddenly became a lake.",
+          "The pilot could not find the camera."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 A wall of cloud forced the aircraft toward the ridge，飞机被云墙逼向山脊，危险出现了。"
+      },
+      {
+        "id": "weight_mattered",
+        "question": "Why did the weight of the aircraft matter?",
+        "options": [
+          "The aircraft could only clear the ridge if it rose higher.",
+          "The team wanted to land and buy more fuel.",
+          "The camera was too small to take photographs.",
+          "The valley was already below the plain."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "飞机必须 rise higher 才能 clear the ridge，而额外重量会让上升更困难，所以重量很关键。"
+      },
+      {
+        "id": "quick_decision",
+        "question": "What quick decision did the team make?",
+        "options": [
+          "They threw out the metal markers and the empty fuel cans.",
+          "They turned off the camera and slept.",
+          "They flew back to the city at once.",
+          "They waited for the ridge to disappear."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 The team threw out the metal markers and the empty fuel cans，这是他们为减重做出的快速决定。"
+      },
+      {
+        "id": "clear_ridge",
+        "question": "Why could the aircraft finally clear the ridge?",
+        "options": [
+          "It became lighter and was able to rise.",
+          "The ridge moved away from the valley.",
+          "The clouds pulled the aircraft upward.",
+          "The team found a road on the plain."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾说 The aircraft became lighter, rose slowly, and cleared the ridge，减重以后飞机才能上升并越过山脊。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 43 的危险飞行句式：用 Though, at first 写顺利开头后的反差，用 ran into serious trouble 写突然遇险，用 could only...if...写必要条件，用 at once 写立刻决策，再用 was able to...and cleared...by...写解决问题后的结果。",
+    "patterns": [
+      {
+        "id": "though_at_first",
+        "title": "Though, at first, ...",
+        "source": "Though, at first, Byrd and his men were able to take a great many photographs...",
+        "focus_zh": "Though, at first 用来写故事一开始看起来顺利，但后面会出现转折或困难。",
+        "task_zh": "仿写一句：写一次飞行、比赛、项目或旅行，一开始很顺利，但后面遇到了问题。",
+        "must_include": [
+          "Though, at first"
+        ],
+        "min_words": 12,
+        "sample": "Though, at first, our drone was able to take clear photos, the wind soon became stronger.",
+        "tip_zh": "Though, at first 后面先写顺利的开头，主句再写真正的变化或困难。"
+      },
+      {
+        "id": "ran_into_serious_trouble",
+        "title": "ran into serious trouble",
+        "source": "They soon ran into serious trouble.",
+        "focus_zh": "ran into serious trouble 表示突然遇到严重麻烦，比 simply had a problem 更有故事紧张感。",
+        "task_zh": "仿写一句：写一个队伍、机器人、无人机或计划突然遇到严重麻烦。",
+        "must_include": [
+          "ran into serious trouble"
+        ],
+        "min_words": 10,
+        "sample": "The hiking team ran into serious trouble when thick fog covered the path.",
+        "tip_zh": "run into 在这里不是跑进去，而是“遇到、碰上”一个问题。"
+      },
+      {
+        "id": "could_only_if",
+        "title": "could only ... if ...",
+        "source": "It could only get over the mountains if it rose to 10,000 feet.",
+        "focus_zh": "could only...if... 用来表达“只有满足某个条件，才有可能做到某事”。",
+        "task_zh": "仿写一句：写一个任务只有在达到某个高度、速度、分数、时间或条件时才能完成。",
+        "must_include": [
+          "could only",
+          "if"
+        ],
+        "min_words": 12,
+        "sample": "The rescue drone could only cross the valley if it rose above the trees.",
+        "tip_zh": "could only 后面写要完成的动作，if 后面写必须满足的条件。"
+      },
+      {
+        "id": "at_once_decision",
+        "title": "at once ...",
+        "source": "Byrd at once ordered his men to throw out two heavy food sacks.",
+        "focus_zh": "at once 表示立刻、马上，适合写紧急情况下的快速决定。",
+        "task_zh": "仿写一句：写队长、老师、飞行员或朋友在危险或紧急时刻马上采取行动。",
+        "must_include": [
+          "at once"
+        ],
+        "min_words": 10,
+        "sample": "The pilot at once told everyone to remove the extra equipment.",
+        "tip_zh": "at once 常放在动词前后，突出没有犹豫：at once ordered, at once decided。"
+      },
+      {
+        "id": "was_able_to_cleared",
+        "title": "was able to ... and cleared ... by ...",
+        "source": "The plane was then able to rise and it cleared the mountains by 400 feet.",
+        "focus_zh": "was able to...and cleared...by... 可以写出“终于做到”以及“以多小的差距越过障碍”。",
+        "task_zh": "仿写一句：写飞机、无人机、队伍或选手终于完成动作，并以一个具体距离、时间或分数越过难关。",
+        "must_include": [
+          "was able to",
+          "cleared"
+        ],
+        "min_words": 12,
+        "sample": "The small drone was able to rise and cleared the wall by two metres.",
+        "tip_zh": "clear 在这里是“越过而没有碰到”，不是“清理干净”；by 后面可以接差距。"
+      }
+    ]
+  }
+}
