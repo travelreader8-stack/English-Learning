@@ -59,12 +59,12 @@
         "id": "twisted_turn",
         "question": "How did Leo twist the fairness idea?",
         "options": [
-          "He said the narrator should pay for his cookie because Leo had helped him.",
           "He returned every pencil he had borrowed before.",
           "He asked the teacher to explain the proverb.",
-          "He gave the narrator his whole lunch."
+          "He gave the narrator his whole lunch.",
+          "He said the narrator should pay for his cookie because Leo had helped him."
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "explanation_zh": "Leo 把 Since I helped you 接到 you can pay for my cookie，把帮忙变成了让别人付钱。"
       },
       {
