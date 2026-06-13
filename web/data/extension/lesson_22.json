@@ -1,0 +1,157 @@
+{
+  "lesson_id": 22,
+  "reading": {
+    "title": "The Message Capsule",
+    "intro_zh": "这篇短文把 Lesson 22 的“偶然连接变成稳定通信”换到安全的学校交流项目：不是鼓励把瓶子扔进海里，而是用老师安排的 message capsule 和邮局通信，回收 dreamed of / of her own age / Channel / address / bottle / regularly / each other / post office / a little more / faster。",
+    "word_bank": [
+      "dreamed of",
+      "of her own age",
+      "Channel",
+      "address",
+      "bottle",
+      "regularly",
+      "each other",
+      "post office",
+      "a little more",
+      "faster"
+    ],
+    "passage": [
+      "At the school museum, Mia joined a safe exchange project called the Message Capsule. Each student wrote a short note and placed it in a clear plastic tube on a postcard wall. Mia never dreamed of hearing from anyone. Two weeks later, her teacher handed her a card from Lena, a girl of her own age in a coastal town near the Channel. Lena had picked Mia's note because both girls liked maps and old bottle stories. They did not share home addresses; the school office kept the address list. At first they sent notes through the project box, but the box was opened only once a month. Now they write to each other regularly through the post office. Stamps cost a little more, but the letters certainly travel faster."
+    ],
+    "questions": [
+      {
+        "id": "chance_start",
+        "question": "What kind of chance message started Mia and Lena's connection?",
+        "options": [
+          "A note in a safe school Message Capsule project.",
+          "A glass bottle thrown into the sea.",
+          "A message posted on a public social media page.",
+          "A letter sent by Lena's parents."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "开头说 Mia joined a safe exchange project called the Message Capsule，并把 note 放进 postcard wall 上的透明管里。"
+      },
+      {
+        "id": "special_similarity",
+        "question": "Why did Lena's reply feel special to Mia?",
+        "options": [
+          "Because Lena was a girl of her own age and they both liked maps and old bottle stories.",
+          "Because Lena lived in Mia's own street.",
+          "Because Lena sent Mia an expensive present.",
+          "Because Lena already knew Mia's home address."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 Lena was a girl of her own age，而且 both girls liked maps and old bottle stories，所以这次回复有相似感。"
+      },
+      {
+        "id": "regular_method",
+        "question": "How do the two girls communicate regularly now?",
+        "options": [
+          "They write to each other through the post office.",
+          "They wait beside the postcard wall every day.",
+          "They put new tubes into the sea.",
+          "They ask the museum to read every note aloud."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾说 Now they write to each other regularly through the post office。"
+      },
+      {
+        "id": "practical_reason",
+        "question": "Why is the post office better than the project box?",
+        "options": [
+          "The project box was opened only once a month, but letters travel faster.",
+          "The post office is free, but the project box costs a little more.",
+          "The project box can only send maps.",
+          "The post office lets children share home addresses with strangers."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "project box 一个月才打开一次；邮票 cost a little more，但 letters certainly travel faster。"
+      },
+      {
+        "id": "lesson_idea",
+        "question": "What is the main idea of the story?",
+        "options": [
+          "Chance can start a connection, but a reliable way keeps it going.",
+          "Children should throw bottles into the sea to make friends.",
+          "A postcard wall is always faster than the post office.",
+          "Two friends should stop writing when stamps cost money."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "这个拓展故事的核心和 Lesson 22 一样：偶然的开始很有惊喜，但长期联系需要稳定、可靠的方法。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 22 的通信句式：never dreamed of ...ing 写意外惊喜，of her own age 写同龄人，never thought of it again 写被忘记的小动作，write to each other regularly 写稳定互通，will certainly ... faster 写实际比较。",
+    "patterns": [
+      {
+        "id": "never_dreamed_of_ing",
+        "title": "never dreamed of ...ing",
+        "source": "Jane never dreamed of receiving a letter from a girl of her own age in Holland.",
+        "focus_zh": "用 never dreamed of 加动名词，写某人完全没想到会发生的惊喜。",
+        "task_zh": "仿写一句：写你从没想到会收到某人的卡片、消息或邀请。",
+        "must_include": [
+          "never dreamed of",
+          "ing"
+        ],
+        "min_words": 9,
+        "sample": "I never dreamed of receiving a postcard from a student in another city.",
+        "tip_zh": "of 后面要接动名词形式，比如 receiving、meeting、finding。"
+      },
+      {
+        "id": "of_own_age",
+        "title": "of one's own age",
+        "source": "a girl of her own age",
+        "focus_zh": "这个短语用来说明“和某人差不多大”，比只说 same age 更有课文味道。",
+        "task_zh": "仿写一句：写一个同龄男孩、女孩或学生让你觉得更容易交流。",
+        "must_include": [
+          "of my own age"
+        ],
+        "min_words": 8,
+        "sample": "I felt relaxed when I met a boy of my own age.",
+        "tip_zh": "写别人时可以换成 of his own age 或 of her own age；写自己时用 of my own age。"
+      },
+      {
+        "id": "never_thought_again",
+        "title": "never thought of it again",
+        "source": "She never thought of it again.",
+        "focus_zh": "这个句子适合写一个小动作做完就忘了，后来却带来结果。",
+        "task_zh": "仿写一句：写某人寄出一张卡片、留下一个便条或参加一个活动后，就再也没想过它。",
+        "must_include": [
+          "never thought of it again"
+        ],
+        "min_words": 8,
+        "sample": "Mia put her note in the capsule and never thought of it again.",
+        "tip_zh": "it 要指代前面提到的那件小事；这样故事才有“后来突然回来”的感觉。"
+      },
+      {
+        "id": "write_each_other_regularly",
+        "title": "write to each other regularly",
+        "source": "They write to each other regularly now.",
+        "focus_zh": "write to each other 表示双方互相写；regularly 表示稳定、反复地做。",
+        "task_zh": "仿写一句：写两个朋友现在定期互相写信、发邮件或交换明信片。",
+        "must_include": [
+          "each other",
+          "regularly"
+        ],
+        "min_words": 9,
+        "sample": "The two pen pals write to each other regularly every month.",
+        "tip_zh": "each other 不能只写单向动作；句子里要看得出两个人都在回应。"
+      },
+      {
+        "id": "will_certainly_faster",
+        "title": "will certainly ... faster",
+        "source": "Letters will cost a little more, but they will certainly travel faster.",
+        "focus_zh": "这个句式用来做实际比较：前半句承认成本，后半句强调更快、更可靠。",
+        "task_zh": "仿写一句：写一种方法会多花一点钱或时间，但肯定更快、更安全或更可靠。",
+        "must_include": [
+          "will certainly",
+          "faster"
+        ],
+        "min_words": 12,
+        "sample": "The express letter will cost a little more, but it will certainly arrive faster.",
+        "tip_zh": "but 后面要给出实际好处；faster 前面可以搭配 arrive、travel、work 等动词。"
+      }
+    ]
+  }
+}
