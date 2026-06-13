@@ -1,0 +1,155 @@
+{
+  "lesson_id": 21,
+  "reading": {
+    "title": "The Noisy Road",
+    "intro_zh": "这篇短文不复述机场原文，而是换到一条新高架路启用后的生活压力：路建好很久，后来开始使用，噪音日夜都能听到，邻居陆续搬走，主人公却还是决定留下。重点练习 mad、noise、came into use、night and day、driven away、large sum、offered 和 determined。",
+    "word_bank": [
+      "mad",
+      "noise",
+      "reason",
+      "came into use",
+      "night and day",
+      "driven away",
+      "knocked down",
+      "large sum",
+      "offered",
+      "determined"
+    ],
+    "passage": [
+      "The new road behind our flats is slowly driving me mad. It was built two years ago, but for some reason it could not be used at first. Last month, however, it came into use. Since then, engines and horns can be heard night and day. Several families have been driven away by the noise, and the shop under our building has already closed. Sometimes I think the old wall will be knocked down by the heavy trucks. The company has offered my parents a large sum of money to move to a quieter flat. My parents are thinking about it, but I am determined to stay until the school year ends. My friends say I must be mad, but this is still my home."
+    ],
+    "questions": [
+      {
+        "id": "new_facility",
+        "question": "What new change caused the problem?",
+        "options": [
+          "A new road behind the flats came into use.",
+          "A new school opened beside the narrator's classroom.",
+          "A quiet park was built for the families.",
+          "A shop under the building closed for holidays."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文开头说 The new road behind our flats 带来了问题，并且 Last month it came into use。"
+      },
+      {
+        "id": "noise_frequency",
+        "question": "How often can the engines and horns be heard?",
+        "options": [
+          "Only on Sunday mornings.",
+          "Only when the shop is open.",
+          "Night and day.",
+          "Once every school year."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "文中直接说 engines and horns can be heard night and day，说明日夜都能听到。"
+      },
+      {
+        "id": "other_people",
+        "question": "How did some other people react to the noise?",
+        "options": [
+          "Several families were driven away, and the shop closed.",
+          "All the families built a new wall together.",
+          "The shop owner offered everyone free food.",
+          "The narrator's friends moved into the flats."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 Several families have been driven away by the noise，并且楼下的商店已经关门。"
+      },
+      {
+        "id": "offer",
+        "question": "What offer did the narrator's parents receive?",
+        "options": [
+          "They were offered a new truck.",
+          "They were offered a large sum of money to move to a quieter flat.",
+          "They were offered a job in the shop.",
+          "They were offered a wall to knock down."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中说 The company has offered my parents a large sum of money to move to a quieter flat。"
+      },
+      {
+        "id": "determined_choice",
+        "question": "Why is the narrator's decision stubborn but understandable?",
+        "options": [
+          "Because the narrator loves trucks more than school.",
+          "Because the narrator wants the shop to close.",
+          "Because the narrator wants to stay at home until the school year ends.",
+          "Because the narrator has already accepted the company's money."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "虽然噪音很大，主人公还是说 I am determined to stay until the school year ends，因为这里仍然是自己的家。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 21 的核心句式：用被动写无法躲开的声音，用 for some reason 说明原因不明，用 came into use 写设施开始运营，用 have been offered 写收到的提议，用 determined to 写压力下的坚定选择。",
+    "patterns": [
+      {
+        "id": "can_be_heard_night_and_day",
+        "title": "can be heard night and day",
+        "source": "Passing planes can be heard night and day.",
+        "focus_zh": "用被动语态写一种无法躲开的声音：重点不是谁在听，而是这种声音一直存在。",
+        "task_zh": "仿写一句：写施工声、车辆声、音乐声或脚步声日夜都能被听见。",
+        "must_include": [
+          "can be heard",
+          "night and day"
+        ],
+        "min_words": 9,
+        "sample": "The construction noise can be heard night and day.",
+        "tip_zh": "can be heard 后面直接接声音出现的时间或地点；night and day 比 all day 更有压迫感。"
+      },
+      {
+        "id": "for_some_reason",
+        "title": "for some reason",
+        "source": "For some reason, it could not be used then.",
+        "focus_zh": "for some reason 用来说明“由于某种原因”，原因不清楚或不想展开。",
+        "task_zh": "仿写一句：某个教室、道路、设备或场地由于某种原因一开始不能使用。",
+        "must_include": [
+          "for some reason"
+        ],
+        "min_words": 9,
+        "sample": "For some reason, the new gate could not be used at first.",
+        "tip_zh": "for some reason 可以放在句首，也可以放在句中；后面要把结果说清楚。"
+      },
+      {
+        "id": "came_into_use",
+        "title": "came into use",
+        "source": "Last year, however, it came into use.",
+        "focus_zh": "came into use 表示一个地方、系统或设备开始被使用、开始运营。",
+        "task_zh": "仿写一句：一条新路、一个地铁站、一个操场或一套系统终于开始使用。",
+        "must_include": [
+          "came into use"
+        ],
+        "min_words": 9,
+        "sample": "Last month, the new road finally came into use.",
+        "tip_zh": "主语通常是 facility 或 system，例如 road, bridge, station, app；不要写成 people came into use。"
+      },
+      {
+        "id": "have_been_offered",
+        "title": "have been offered",
+        "source": "I have been offered a large sum of money to go away.",
+        "focus_zh": "have been offered 用被动语态写“已经收到某个提议”，重点在收到提议的人。",
+        "task_zh": "仿写一句：你或家人已经被提供一个选择，比如换房间、换座位、搬到安静地方或得到补偿。",
+        "must_include": [
+          "have been offered"
+        ],
+        "min_words": 10,
+        "sample": "We have been offered a quieter room for the exam week.",
+        "tip_zh": "这个结构不等于已经接受；只是说明 offer 已经被提出。"
+      },
+      {
+        "id": "determined_to",
+        "title": "determined to ...",
+        "source": "I am determined to stay here.",
+        "focus_zh": "determined to 表示在压力下仍然下定决心做某事。",
+        "task_zh": "仿写一句：在噪音、困难或别人建议改变的情况下，你仍然决定留下、完成或继续。",
+        "must_include": [
+          "determined to"
+        ],
+        "min_words": 9,
+        "sample": "I am determined to finish the project before I move.",
+        "tip_zh": "determined to 后面接动词原形；句子最好带出一点压力，选择才有重量。"
+      }
+    ]
+  }
+}
