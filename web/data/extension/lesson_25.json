@@ -1,0 +1,146 @@
+{
+  "lesson_id": 25,
+  "reading": {
+    "title": "At the Information Desk",
+    "intro_zh": "这篇短文不复述原文，而是换到现代车站问路场景，回收 porter / foreigner / several times / not only...but...as well / neither...nor... 等本课关键词和句式。",
+    "word_bank": [
+      "information desk",
+      "porter",
+      "foreigner",
+      "the way to",
+      "several times",
+      "not only... but... as well",
+      "neither... nor...",
+      "slowly",
+      "clearly",
+      "wonder"
+    ],
+    "passage": [
+      "Mia arrived at a busy railway station in Manchester. She needed to find the way to her hotel. There was no porter nearby, so she went to the information desk. She not only spoke English carefully, but clearly as well. However, the station worker answered very quickly. He spoke neither slowly nor clearly. She smiled and said, \"I am a foreigner. Could you say that again, please?\" The worker repeated the directions several times and pointed to the right exit. At last, Mia understood. On the way to the hotel, she wondered why classroom English sounded so different from real English. Then she smiled too. Real listening was difficult, but it was beginning."
+    ],
+    "questions": [
+      {
+        "id": "place",
+        "question": "Where did Mia arrive?",
+        "options": [
+          "At a busy railway station in Manchester.",
+          "At a quiet hotel in London.",
+          "At a school information desk.",
+          "At a small airport in China."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "第一句说明 Mia arrived at a busy railway station in Manchester。"
+      },
+      {
+        "id": "problem",
+        "question": "Why did Mia go to the information desk?",
+        "options": [
+          "Because she wanted to buy a new suitcase.",
+          "Because she needed to find the way to her hotel.",
+          "Because she wanted to meet her English teacher.",
+          "Because the station worker called her name."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文写道：She needed to find the way to her hotel，所以她去 information desk。"
+      },
+      {
+        "id": "contrast",
+        "question": "How did Mia speak English?",
+        "options": [
+          "Neither slowly nor clearly.",
+          "Very quickly and loudly.",
+          "Not only carefully, but clearly as well.",
+          "Only in short Chinese words."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "Mia 的做法对应本课句式：not only spoke English carefully, but clearly as well。"
+      },
+      {
+        "id": "worker_answer",
+        "question": "Why was the worker hard for Mia to understand?",
+        "options": [
+          "He answered neither slowly nor clearly.",
+          "He did not speak English at all.",
+          "He refused to help her.",
+          "He only pointed to a map."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 He spoke neither slowly nor clearly，说明又不慢，也不清楚。"
+      },
+      {
+        "id": "takeaway",
+        "question": "What did Mia learn from the experience?",
+        "options": [
+          "Real listening can feel different from classroom English.",
+          "People in stations should never speak quickly.",
+          "She should stop asking questions in English.",
+          "Manchester is always dark and frightening."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾强调 classroom English 和 real English 听起来不同；听不懂不代表失败，而是真实听力正在开始。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓四个真正值得背的结构：问路、强调自己已经努力表达、描述听力困难，以及礼貌地请求对方重复。",
+    "patterns": [
+      {
+        "id": "way_to_place",
+        "title": "did not know the way to ...",
+        "source": "I did not know the way to my hotel, so I asked a porter.",
+        "focus_zh": "用 the way to... 表示“去某地的路”，后面自然接 so I asked... 说明你怎么求助。",
+        "task_zh": "仿写一句：你在车站、机场或校园里不知道去某个地方的路，所以向工作人员或同学求助。",
+        "must_include": [
+          "did not know the way to",
+          "so I asked"
+        ],
+        "min_words": 10,
+        "sample": "I did not know the way to the library, so I asked a student.",
+        "tip_zh": "the way to 后面接地点，比只说 where is... 更有叙事感。"
+      },
+      {
+        "id": "not_only_but_as_well",
+        "title": "not only... but... as well",
+        "source": "I not only spoke English very carefully, but very clearly as well.",
+        "focus_zh": "这个结构把两个优点放在一起，表示“我已经很努力了”。",
+        "task_zh": "仿写一句：你不但说得认真，而且也说得清楚、礼貌或慢一些。",
+        "must_include": [
+          "not only",
+          "but",
+          "as well"
+        ],
+        "min_words": 10,
+        "sample": "I not only spoke very politely, but very slowly as well.",
+        "tip_zh": "A 和 B 最好是同一类动作或特点，比如 carefully / clearly / politely / slowly。"
+      },
+      {
+        "id": "neither_nor",
+        "title": "neither... nor...",
+        "source": "He answered me, but he spoke neither slowly nor clearly.",
+        "focus_zh": "neither... nor... 一次否定两个方面，很适合描述“听不懂”的原因。",
+        "task_zh": "仿写一句：对方回答了你，但说得既不慢也不清楚，或者信息既不短也不简单。",
+        "must_include": [
+          "neither",
+          "nor"
+        ],
+        "min_words": 9,
+        "sample": "The guide answered me, but she spoke neither slowly nor clearly.",
+        "tip_zh": "neither 后面和 nor 后面要放并列成分，比如两个副词 slowly / clearly。"
+      },
+      {
+        "id": "could_you_say_again",
+        "title": "Could you say that again, please?",
+        "source": "I repeated my question several times and at last he understood.",
+        "focus_zh": "真实交流中，比硬撑更重要的是礼貌地请求重复或放慢速度。",
+        "task_zh": "仿写一句：你是外国人或游客，请对方再说一遍，或者说慢一点。",
+        "must_include": [
+          "Could you",
+          "please"
+        ],
+        "min_words": 8,
+        "sample": "I am a foreigner. Could you speak more slowly, please?",
+        "tip_zh": "Could you...? 加 please 很适合旅行、车站、酒店前台等礼貌求助场景。"
+      }
+    ]
+  }
+}
