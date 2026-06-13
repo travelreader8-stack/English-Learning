@@ -1,0 +1,155 @@
+{
+  "lesson_id": 16,
+  "reading": {
+    "title": "A Polite Reminder at School",
+    "intro_zh": "这篇短文不复述瑞典停车故事，而是换到校园自行车停放提醒：有人把车停在 wrong place，以为会收到 ticket，结果得到一张 polite note。重点回收 if...will、reminder、pay attention to、request 和 obey。",
+    "word_bank": [
+      "park",
+      "wrong place",
+      "ticket",
+      "polite",
+      "note",
+      "request",
+      "reminder",
+      "pay attention to",
+      "signs",
+      "obey"
+    ],
+    "passage": [
+      "On Monday, Ben parked his bike in the wrong place, right beside the library door. A red sign said that bikes should stay in the rack, but he was late and did not pay attention to it. After class, he expected an angry ticket from the school guard. Instead, he found a small polite note on the seat. \"Welcome back to the library area,\" it said. \"This door must stay clear. You will help everyone if you pay attention to the signs. Please park your bike in the rack next time. This note is only a reminder.\" Ben moved the bike at once. The request was gentle, but the rule was clear, so he could not fail to obey it."
+    ],
+    "questions": [
+      {
+        "id": "broken_rule",
+        "question": "What small rule did Ben break?",
+        "options": [
+          "He rode his bike inside the library.",
+          "He parked his bike beside the library door instead of in the rack.",
+          "He lost a ticket from the school guard.",
+          "He took down the red sign."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文开头说 Ben 把自行车停在图书馆门旁边，而标志要求 bikes should stay in the rack。"
+      },
+      {
+        "id": "expected_punishment",
+        "question": "What did Ben expect after class?",
+        "options": [
+          "An angry ticket from the school guard.",
+          "A prize for using the library.",
+          "A new bike rack near the door.",
+          "A letter from his classmate."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "文中直接说 he expected an angry ticket from the school guard。"
+      },
+      {
+        "id": "note_explained",
+        "question": "What did the polite note explain?",
+        "options": [
+          "The library would be closed all week.",
+          "Ben should never ride a bike again.",
+          "The door must stay clear, and bikes should be parked in the rack.",
+          "The guard had already moved Ben's bike away."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "note 说 This door must stay clear，并提醒 Please park your bike in the rack next time。"
+      },
+      {
+        "id": "attention_to_signs",
+        "question": "What did Ben need to pay attention to?",
+        "options": [
+          "The color of his bike.",
+          "The library books on the desk.",
+          "The school bell before class.",
+          "The signs about where to park bikes."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "短文里 red sign 和 note 都提醒他 pay attention to the signs。"
+      },
+      {
+        "id": "why_obey",
+        "question": "Why was Ben willing to obey the request?",
+        "options": [
+          "Because the request was polite but the rule was clear.",
+          "Because the guard shouted at him angrily.",
+          "Because there were no signs near the library.",
+          "Because he wanted another ticket."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾说明 The request was gentle, but the rule was clear，所以他愿意 obey it。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓 Lesson 16 的五个核心表达：用 if...will 写规则和结果，用 lucky if 写条件，用 does not always happen 转折，用 pay attention to 提醒别人注意规则，最后用 cannot fail to 写清楚“礼貌但有效”。",
+    "patterns": [
+      {
+        "id": "if_you_will",
+        "title": "If you ..., ... will ...",
+        "source": "If you park your car in the wrong place, a traffic policeman will soon find it.",
+        "focus_zh": "用 if 给出条件，用 will 写自然会发生的结果，适合说明规则和后果。",
+        "task_zh": "仿写一句：写一个学校、图书馆、运动场或小区里的规则和结果。",
+        "must_include": [
+          "If you",
+          "will"
+        ],
+        "min_words": 10,
+        "sample": "If you block the classroom door, others will have trouble entering.",
+        "tip_zh": "If you 后面接现在时动作；另一半用 will 写结果，不要把 will 放进 if 从句里。"
+      },
+      {
+        "id": "very_lucky_if",
+        "title": "You will be very lucky if ...",
+        "source": "You will be very lucky if he lets you go without a ticket.",
+        "focus_zh": "这个句式强调“如果某件好事发生，你就很幸运”。",
+        "task_zh": "仿写一句：写犯了小错以后，如果别人给你一次机会，你会很幸运。",
+        "must_include": [
+          "You will be very lucky if"
+        ],
+        "min_words": 10,
+        "sample": "You will be very lucky if the teacher gives you another chance.",
+        "tip_zh": "if 后面写具体条件，比如 gives you another chance / lets you try again。"
+      },
+      {
+        "id": "does_not_always_happen",
+        "title": "This does not always happen",
+        "source": "However, this does not always happen.",
+        "focus_zh": "用这句话把“通常会这样”转到“但并不总是这样”，很适合制造故事转折。",
+        "task_zh": "仿写一句：写一个看似常见的结果，但提醒读者并不总是会发生。",
+        "must_include": [
+          "does not always happen"
+        ],
+        "min_words": 9,
+        "sample": "This does not always happen when people break an important rule.",
+        "tip_zh": "前一句可以写大家预期的结果；这一句负责把故事拐向例外。"
+      },
+      {
+        "id": "pay_attention_to",
+        "title": "pay attention to ...",
+        "source": "You will enjoy your stay here if you pay attention to our street signs.",
+        "focus_zh": "pay attention to 用来提醒别人认真看、认真听或认真注意某个规则。",
+        "task_zh": "仿写一句：礼貌提醒同学注意标志、说明、作业要求或安全规则。",
+        "must_include": [
+          "pay attention to"
+        ],
+        "min_words": 9,
+        "sample": "Please pay attention to the quiet signs near the library door.",
+        "tip_zh": "to 后面接名词或名词短语，比如 signs, rules, instructions。"
+      },
+      {
+        "id": "cannot_fail_to",
+        "title": "cannot fail to ...",
+        "source": "You cannot fail to obey it!",
+        "focus_zh": "cannot fail to 表示“肯定会、很难不”，语气比 will 更有结论感。",
+        "task_zh": "仿写一句：写一个提醒非常清楚、礼貌，所以别人一定会理解或遵守。",
+        "must_include": [
+          "cannot fail to"
+        ],
+        "min_words": 10,
+        "sample": "You cannot fail to understand the note because it is polite and clear.",
+        "tip_zh": "这个结构有点正式，适合放在故事结尾，强调提醒真的有效。"
+      }
+    ]
+  }
+}

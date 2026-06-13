@@ -1,0 +1,156 @@
+{
+  "lesson_id": 19,
+  "reading": {
+    "title": "The Wednesday Tickets",
+    "intro_zh": "这篇短文不复述剧院窗口买票，而是换到学校音乐会：想看的这场 sold out，别人 return 两张票带来希望，最后发现是 next Wednesday 的 performance。重点回收 may、May I、return、pity、at once 和 might as well。",
+    "word_bank": [
+      "sold out",
+      "ticket office",
+      "performance",
+      "hurry",
+      "pity",
+      "exclaim",
+      "return",
+      "at once",
+      "may have",
+      "might as well"
+    ],
+    "passage": [
+      "On Friday evening, Noah and Amy hurried to the school auditorium because the concert may begin at any moment. Amy checked her phone and said it may have begun already. At the ticket office, Noah asked, \"May I have two tickets please?\" The girl shook her head. All seats for tonight were sold out. \"What a pity!\" Amy exclaimed. Just then, a student ran up with two tickets. \"Can I return these? My sister is ill.\" Noah asked for them at once, feeling hopeful. But the girl looked at the date and said, \"These are for next Wednesday's performance, not tonight's concert.\" Noah sighed. The tickets were real, but they could not save this evening. He might as well take them for next week."
+    ],
+    "questions": [
+      {
+        "id": "why_hurry",
+        "question": "Why were Noah and Amy in a hurry?",
+        "options": [
+          "The concert may begin at any moment.",
+          "They wanted to return their tickets first.",
+          "They had to clean the auditorium.",
+          "Next Wednesday's performance was ending."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "第一句说明他们 hurry 的原因是 the concert may begin at any moment。"
+      },
+      {
+        "id": "sold_out_meaning",
+        "question": "What does sold out mean in the story?",
+        "options": [
+          "The seats are free for everyone.",
+          "All seats for tonight have been sold.",
+          "The ticket desk is closed forever.",
+          "The concert has moved to another school."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中说 All seats for tonight were sold out，意思是今晚没有票了。"
+      },
+      {
+        "id": "returned_tickets_help",
+        "question": "Why did the returned tickets first seem helpful?",
+        "options": [
+          "They were cheaper than all the other tickets.",
+          "They belonged to Noah already.",
+          "They looked like two available tickets just when Noah needed two.",
+          "They proved the concert had not begun."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "Noah 需要两张票，正好有人拿来 return two tickets，所以他 at once 感到有希望。"
+      },
+      {
+        "id": "wrong_detail",
+        "question": "What was wrong with the tickets?",
+        "options": [
+          "They were for next Wednesday's performance, not tonight's concert.",
+          "They were not real tickets.",
+          "They were for a museum slot in the morning.",
+          "They had already been used by Amy."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "售票员说明 These are for next Wednesday's performance, not tonight's concert。"
+      },
+      {
+        "id": "resigned_choice",
+        "question": "Why is the final choice disappointed, not excited?",
+        "options": [
+          "Noah loves next Wednesday more than Friday.",
+          "The tickets solve tonight's problem perfectly.",
+          "Noah takes the tickets only because they are the only option left.",
+          "Amy asks Noah to return the tickets at once."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "He might as well take them 表示不是理想选择，只是没有更好的办法。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓 Lesson 19 的五个买票现场表达：may begin at any moment 写马上可能开始，may have begun already 写可能已经发生，May I have...please 写礼貌请求，Can I return...? 写退票/退物，might as well 写无奈接受。",
+    "patterns": [
+      {
+        "id": "may_begin_at_any_moment",
+        "title": "may begin at any moment",
+        "source": "The play may begin at any moment.",
+        "focus_zh": "这个句式写一种马上可能发生的事，带紧迫感。",
+        "task_zh": "仿写一句：写电影、比赛、演出、会议或活动可能马上开始，所以大家很着急。",
+        "must_include": [
+          "may begin at any moment"
+        ],
+        "min_words": 9,
+        "sample": "The museum tour may begin at any moment, so we should hurry.",
+        "tip_zh": "may 表示可能；at any moment 表示随时、马上，常和 hurry 搭配。"
+      },
+      {
+        "id": "may_have_begun_already",
+        "title": "may have begun already",
+        "source": "It may have begun already.",
+        "focus_zh": "may have done 表示现在猜测某件事可能已经发生了。",
+        "task_zh": "仿写一句：根据灯光、声音、时间或人群，猜测电影、课或活动可能已经开始。",
+        "must_include": [
+          "may have",
+          "already"
+        ],
+        "min_words": 9,
+        "sample": "The film may have begun already because the lights are off.",
+        "tip_zh": "may have 后面接过去分词；already 通常放在句末或 have 后面。"
+      },
+      {
+        "id": "may_i_have_please",
+        "title": "May I have ... please?",
+        "source": "May I have two tickets please?",
+        "focus_zh": "May I have...? 是礼貌请求，适合买票、点餐、借物。",
+        "task_zh": "仿写一句：在票务、餐厅、图书馆或服务窗口礼貌地请求某样东西。",
+        "must_include": [
+          "May I have",
+          "please"
+        ],
+        "min_words": 7,
+        "sample": "May I have a student ticket please?",
+        "tip_zh": "May I have 后面接你想要的东西；please 可以放在句末，让语气更礼貌。"
+      },
+      {
+        "id": "can_i_return",
+        "title": "Can I return ...?",
+        "source": "Can I return these two tickets?",
+        "focus_zh": "return 在这里不是“回来”，而是把票或物品退回去。",
+        "task_zh": "仿写一句：写你买错日期、买错尺寸或不能参加时，询问能不能退票或退物。",
+        "must_include": [
+          "Can I return"
+        ],
+        "min_words": 9,
+        "sample": "Can I return this ticket if I choose the wrong date?",
+        "tip_zh": "Can I return 后面接要退的东西；可以加原因，比如 because / if。"
+      },
+      {
+        "id": "might_as_well",
+        "title": "might as well ...",
+        "source": "I might as well have them.",
+        "focus_zh": "might as well 表示“虽然不理想，但也只好这样了”。",
+        "task_zh": "仿写一句：写你没有最想要的选择，只能接受另一个时间、座位、路线或计划。",
+        "must_include": [
+          "might as well"
+        ],
+        "min_words": 9,
+        "sample": "I might as well wait for the next bus home.",
+        "tip_zh": "这个短语的情绪不是兴奋，而是有点无奈的接受。"
+      }
+    ]
+  }
+}

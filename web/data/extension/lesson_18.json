@@ -1,0 +1,155 @@
+{
+  "lesson_id": 18,
+  "reading": {
+    "title": "The Missing Backpack",
+    "intro_zh": "这篇短文不复述 pub 和狗的原文，而是换到学校附近的小咖啡店：主人公 had left 背包，后来找不到，不能 pay the bill，最后发现是熟人把它拿到花园边。重点练习 earlier past、look for、returned 和 gave it back。",
+    "word_bank": [
+      "cafe",
+      "bill",
+      "look for",
+      "beside",
+      "immediately",
+      "returned",
+      "gave it back",
+      "garden",
+      "had taken",
+      "He often does this"
+    ],
+    "passage": [
+      "After I had had lunch at a small cafe near our school, I looked for my backpack. I had left it on a bench beside the door, but now it was not there. The situation was awkward because my wallet was inside, and I could not pay the bill. As I was looking for it, the cafe manager came in. He did not look worried. He immediately walked to the small garden behind the cafe. In a few minutes, he returned with my backpack and gave it back to me. My little cousin had taken it outside to find his toy car, then forgot to bring it back. The manager laughed, \"He often does this when he visits.\""
+    ],
+    "questions": [
+      {
+        "id": "where_left",
+        "question": "Where had the narrator first left the backpack?",
+        "options": [
+          "On a bench beside the door.",
+          "Under a table in the garden.",
+          "Inside the school library.",
+          "Behind the cafe counter."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 I had left it on a bench beside the door。"
+      },
+      {
+        "id": "when_missing",
+        "question": "When did the narrator notice the backpack was missing?",
+        "options": [
+          "Before lunch began.",
+          "After lunch, when looking for it.",
+          "After returning home at night.",
+          "When the cousin asked for a toy car."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "开头是 After I had had lunch... I looked for my backpack，然后发现 it was not there。"
+      },
+      {
+        "id": "awkward_reason",
+        "question": "Why did the situation become awkward?",
+        "options": [
+          "Because the cafe was already closed.",
+          "Because the manager asked for a toy car.",
+          "Because the wallet was inside the backpack, so the narrator could not pay the bill.",
+          "Because the backpack belonged to another student."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "文中说 wallet was inside, and I could not pay the bill。"
+      },
+      {
+        "id": "who_moved",
+        "question": "Who had moved the backpack?",
+        "options": [
+          "The cafe manager.",
+          "The narrator's little cousin.",
+          "A student from the library.",
+          "A stranger at the door."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文揭示 My little cousin had taken it outside to find his toy car。"
+      },
+      {
+        "id": "funny_ending",
+        "question": "Why is the final sentence funny?",
+        "options": [
+          "Because the cousin often takes things outside and forgets them.",
+          "Because backpacks can pay bills by themselves.",
+          "Because the manager had never seen the cousin before.",
+          "Because the narrator wanted to lose the backpack."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "He often does this 说明这不是第一次，是一个熟悉的小毛病，所以结尾轻松好笑。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓 Lesson 18 的五个故事句式：After I had had 写更早发生的事，I had left it 说明东西原来放在哪里，As I was looking for 写寻找时被打断，In a few minutes ... returned 写短时间后的回转，gave it back to me 写归还。",
+    "patterns": [
+      {
+        "id": "after_i_had_had",
+        "title": "After I had had ...",
+        "source": "After I had had lunch at a village pub, I looked for my bag.",
+        "focus_zh": "用 After I had had 说明“我已经做完某件事之后，又发生了后面的事”。",
+        "task_zh": "仿写一句：写你吃完饭、上完课或完成活动后，开始寻找某个东西。",
+        "must_include": [
+          "After I had had"
+        ],
+        "min_words": 10,
+        "sample": "After I had had dinner, I looked for my phone near the sofa.",
+        "tip_zh": "第一个 had 是过去完成时助动词，第二个 had 表示 eat / experience；不要漏掉其中一个。"
+      },
+      {
+        "id": "had_left_it",
+        "title": "I had left it ...",
+        "source": "I had left it on a chair beside the door.",
+        "focus_zh": "用 had left it 回头解释东西在更早的时候被放在哪里。",
+        "task_zh": "仿写一句：写你原本把书包、钥匙、饭卡或笔袋放在了哪里。",
+        "must_include": [
+          "had left it"
+        ],
+        "min_words": 9,
+        "sample": "I had left it on my desk before the bell rang.",
+        "tip_zh": "it 指代前一句已经提到的东西；后面常接 on / in / beside 等地点。"
+      },
+      {
+        "id": "as_i_was_looking_for",
+        "title": "As I was looking for ...",
+        "source": "As I was looking for it, the landlord came in.",
+        "focus_zh": "这个句式写“我正在找的时候，另一个动作发生了”，很有故事感。",
+        "task_zh": "仿写一句：写你正在找某个东西时，老师、同学、家人或店员出现了。",
+        "must_include": [
+          "As I was looking for"
+        ],
+        "min_words": 10,
+        "sample": "As I was looking for my pencil case, my brother called me.",
+        "tip_zh": "As I was looking for 后面接要找的东西；逗号后写突然出现或发生的动作。"
+      },
+      {
+        "id": "in_a_few_minutes_returned",
+        "title": "In a few minutes ... returned",
+        "source": "In a few minutes he returned with my bag.",
+        "focus_zh": "用 In a few minutes 写“过了几分钟”，再用 returned 推动故事回来。",
+        "task_zh": "仿写一句：写某人几分钟后带着你丢的东西回来了。",
+        "must_include": [
+          "In a few minutes",
+          "returned"
+        ],
+        "min_words": 10,
+        "sample": "In a few minutes, she returned with my notebook from the library.",
+        "tip_zh": "returned with 后面接带回来的东西；这能让故事从紧张转向安心。"
+      },
+      {
+        "id": "gave_it_back_to_me",
+        "title": "gave it back to me",
+        "source": "He gave it back to me.",
+        "focus_zh": "gave it back to me 是很实用的“把东西还给我”。",
+        "task_zh": "仿写一句：写同学、店员、家人或朋友找到了你的东西并还给你。",
+        "must_include": [
+          "gave it back to me"
+        ],
+        "min_words": 8,
+        "sample": "The monitor found my ruler and gave it back to me.",
+        "tip_zh": "gave it back to me 可以接在 found / picked up / brought 等动作后面。"
+      }
+    ]
+  }
+}
