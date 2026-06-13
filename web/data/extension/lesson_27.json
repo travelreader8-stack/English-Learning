@@ -1,0 +1,157 @@
+{
+  "lesson_id": 27,
+  "reading": {
+    "title": "A Better Place for the Tent",
+    "intro_zh": "这篇短文不复述原文，而是换成现代营地选址故事：先观察低洼地和水痕，再把帐篷移到高处，最后用夜里的大雨验证这个判断。",
+    "word_bank": [
+      "tent",
+      "field",
+      "campsite",
+      "higher ground",
+      "low ground",
+      "put up",
+      "put out",
+      "sleeping bag",
+      "heavily",
+      "stream",
+      "formed",
+      "right under"
+    ],
+    "passage": [
+      "Late in the afternoon, our school group reached a quiet campsite beside a field. Some students wanted to put up the tent on the soft low ground near the trees. It looked flat and comfortable. Then Miss Green noticed old water marks on the grass. \"If it rains heavily, water may run this way,\" she said. So we carried the tent and the sleeping bags to higher ground. After supper, we put out the small cooking fire and went to sleep. In the middle of the night, rain beat on the tent. By morning, a narrow stream had formed in the field. It flowed right under the place we had first chosen. Our tent was dry, and we learned that a good campsite begins with careful eyes."
+    ],
+    "questions": [
+      {
+        "id": "first_place",
+        "question": "Where did some students first want to put up the tent?",
+        "options": [
+          "On the soft low ground near the trees.",
+          "On higher ground beside the teacher's car.",
+          "Inside a small wooden house.",
+          "Right under a bridge."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 some students wanted to put up the tent on the soft low ground near the trees。"
+      },
+      {
+        "id": "warning_sign",
+        "question": "What sign made Miss Green think the place might be unsafe in rain?",
+        "options": [
+          "A broken tent pole.",
+          "Old water marks on the grass.",
+          "A loud noise in the trees.",
+          "A wet sleeping bag."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "Miss Green 注意到草地上有 old water marks，这说明下雨时水可能会经过那里。"
+      },
+      {
+        "id": "move_reason",
+        "question": "Why did the group move the tent to higher ground?",
+        "options": [
+          "Because the field was too noisy for sleeping.",
+          "Because they wanted to be closer to the fire.",
+          "Because rainwater might run across the low ground.",
+          "Because they lost their sleeping bags."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "老师判断大雨时水会从低处流过，所以大家把帐篷搬到 higher ground。"
+      },
+      {
+        "id": "rain_result",
+        "question": "What happened after it rained heavily at night?",
+        "options": [
+          "The cooking fire became bigger.",
+          "A narrow stream formed in the field.",
+          "The group moved back to the low ground.",
+          "The tent blew away."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "第二天早上他们发现 a narrow stream had formed in the field。"
+      },
+      {
+        "id": "lesson",
+        "question": "What practical lesson does the story teach?",
+        "options": [
+          "A dry campsite needs careful observation before rain comes.",
+          "A tent should always be put under trees.",
+          "Rain is not important when camping.",
+          "Students should never sleep in sleeping bags."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾说 a good campsite begins with careful eyes：先观察地形和水痕，才能避免湿帐篷。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个能让故事更清楚的结构：时间开场、动作衔接、原因结果、雨后发现，以及 right under 带来的位置强调。",
+    "patterns": [
+      {
+        "id": "late_in_the_afternoon",
+        "title": "Late in the afternoon, ...",
+        "source": "Late in the afternoon, the boys put up their tent in the middle of a field.",
+        "focus_zh": "用时间短语开头，先把故事场景立起来，再写人物做了什么。",
+        "task_zh": "仿写一句：写一个露营或野餐场景，句子必须以 Late in the afternoon 开头。",
+        "must_include": [
+          "Late in the afternoon"
+        ],
+        "min_words": 9,
+        "sample": "Late in the afternoon, we put up our tent beside the lake.",
+        "tip_zh": "这个开头很适合讲故事：时间一出现，读者马上知道画面从哪里开始。"
+      },
+      {
+        "id": "as_soon_as_done",
+        "title": "As soon as this was done, ...",
+        "source": "As soon as this was done, they cooked a meal over an open fire.",
+        "focus_zh": "表示一件事刚完成，下一件事马上发生，适合写动作顺序。",
+        "task_zh": "仿写一句：帐篷搭好、行李搬好或地点换好以后，大家马上做了什么。",
+        "must_include": [
+          "As soon as this was done"
+        ],
+        "min_words": 10,
+        "sample": "As soon as this was done, we carried the bags into the tent.",
+        "tip_zh": "this 指代前一个动作，所以后半句要接一个自然发生的下一步。"
+      },
+      {
+        "id": "so_result",
+        "title": "... so ...",
+        "source": "The boys felt tired so they put out the fire and crept into their tent.",
+        "focus_zh": "so 连接原因和自然结果，不能只是把两个无关动作硬放在一起。",
+        "task_zh": "仿写一句：把天气、疲惫或安全判断和下一步行动连起来。",
+        "must_include": [
+          "so"
+        ],
+        "min_words": 10,
+        "sample": "The ground looked wet, so we moved the tent to higher ground.",
+        "tip_zh": "so 前面给原因，后面给结果，句子就有了清楚的逻辑。"
+      },
+      {
+        "id": "found_that_had_formed",
+        "title": "found that ... had formed",
+        "source": "They found that a stream had formed in the field.",
+        "focus_zh": "found that 说明“发现了什么”；had formed 表示这件事在发现之前已经发生。",
+        "task_zh": "仿写一句：写大雨之后，有人发现田野、路边或帐篷旁已经形成了水流。",
+        "must_include": [
+          "found that",
+          "had formed"
+        ],
+        "min_words": 10,
+        "sample": "In the morning, we found that a small stream had formed near the tent.",
+        "tip_zh": "这个结构很适合写故事揭晓：先发现，再解释问题早已形成。"
+      },
+      {
+        "id": "right_under",
+        "title": "right under ...",
+        "source": "The stream wound its way across the field and then flowed right under their tent!",
+        "focus_zh": "right 在这里表示“正好、直接”，让位置描写更有画面感。",
+        "task_zh": "仿写一句：写水流、影子或问题正好出现在某个东西下面。",
+        "must_include": [
+          "right under"
+        ],
+        "min_words": 8,
+        "sample": "The rainwater ran right under the place we had chosen.",
+        "tip_zh": "right under 比 under 更强调“就是那个位置”，适合写最后的惊讶或确认。"
+      }
+    ]
+  }
+}
