@@ -1,0 +1,145 @@
+{
+  "lesson_id": 2,
+  "reading": {
+    "title": "A Very Late Morning",
+    "intro_zh": "这篇短文不复述 Aunt Lucy 的电话，而是换到一个现代周末场景：学生因为窗帘紧闭、天气阴暗、手机放在客厅，误以为还是清晨，直到外卖午餐到了才发现已经一点钟。重点回收 until / outside / rang / arrived / repeat / lunchtime / looked out / dark / What a day / one o'clock。",
+    "word_bank": [
+      "until",
+      "outside",
+      "rang",
+      "arrived",
+      "repeat",
+      "lunchtime",
+      "looked out",
+      "dark",
+      "What a day",
+      "one o'clock"
+    ],
+    "passage": [
+      "It was Sunday, and Leo never got up early on Sundays. He stayed in bed until the room was quiet and dark. His phone was charging in the living room, so no alarm rang beside him. When he finally opened his eyes, he looked out through the closed curtains. It was dark outside, and rain was tapping on the window. \"What a day!\" he thought. \"It must still be morning.\" He went to the kitchen and began to make breakfast. Just then, the doorbell rang. His sister had arrived with two boxes of noodles. \"Are you really making breakfast?\" she asked. \"I'm making breakfast,\" Leo repeated. She laughed and pointed to the clock. \"It's one o'clock. This is lunchtime!\""
+    ],
+    "questions": [
+      {
+        "id": "dark_room",
+        "question": "Why did Leo think it was still morning?",
+        "options": [
+          "Because his room was quiet and dark, and it was raining outside.",
+          "Because his sister told him it was morning.",
+          "Because he had already eaten lunch.",
+          "Because the sun was shining through the curtains."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说房间 quiet and dark，外面又在下雨，所以 Leo 误以为还是早晨。"
+      },
+      {
+        "id": "real_time_signal",
+        "question": "What finally showed Leo the real time?",
+        "options": [
+          "His school bell rang.",
+          "His sister arrived with noodles and pointed to the clock.",
+          "His phone alarm rang beside his bed.",
+          "He looked at a train ticket."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "姐姐带着面条到了，并指着钟说 It's one o'clock，这才揭示真实时间。"
+      },
+      {
+        "id": "wrong_time_activity",
+        "question": "What was Leo doing at the wrong time?",
+        "options": [
+          "He was making breakfast at lunchtime.",
+          "He was going to school on Sunday.",
+          "He was buying noodles for breakfast.",
+          "He was waiting for a train."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "他以为是早晨，正在 make breakfast，但真实时间已经是 lunchtime。"
+      },
+      {
+        "id": "sister_reaction",
+        "question": "How did Leo's sister react?",
+        "options": [
+          "She became angry and left at once.",
+          "She laughed and pointed to the clock.",
+          "She repeated his words and went back to bed.",
+          "She closed the curtains again."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "姐姐的反应是 laughed and pointed to the clock，语气是轻松好笑的。"
+      },
+      {
+        "id": "breakfast_lunch_joke",
+        "question": "What is the joke in the story?",
+        "options": [
+          "Leo uses breakfast words, but the day has already reached lunchtime.",
+          "Leo does not like eating noodles.",
+          "Leo thinks Sunday is a school day.",
+          "Leo's phone is broken forever."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "笑点在于 Leo 坚持说 breakfast，可实际已经 one o'clock，是午饭时间。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天的句式仿写抓住 Lesson 2 的四个关键结构：星期几的固定习惯、until 表示一直到某个时间、Just then 推出突然打断、以及 Do you always...? 表达惊讶的追问。",
+    "patterns": [
+      {
+        "id": "never_on_days",
+        "title": "I never ... on ...",
+        "source": "I never get up early on Sundays.",
+        "focus_zh": "用 I never ... on ... 写某人在某一天通常不做的事，强调固定习惯。",
+        "task_zh": "仿写一句：写你在某个星期几或某类日子里从不做的一件事。",
+        "must_include": [
+          "I never",
+          "on"
+        ],
+        "min_words": 8,
+        "sample": "I never check school messages on Sunday mornings.",
+        "tip_zh": "never 后面直接接动词原形；on 后面接具体日子，比如 on Sundays 或 on rainy days。"
+      },
+      {
+        "id": "sometimes_until",
+        "title": "I sometimes stay ... until ...",
+        "source": "I sometimes stay in bed until lunchtime.",
+        "focus_zh": "用 sometimes 写偶尔发生的习惯，用 until 写这个状态一直持续到什么时候。",
+        "task_zh": "仿写一句：写你有时会一直待在某个地方，直到一个具体时间或事件发生。",
+        "must_include": [
+          "sometimes",
+          "until"
+        ],
+        "min_words": 9,
+        "sample": "I sometimes stay in the library until the lights go out.",
+        "tip_zh": "until 后面可以接时间，也可以接一个小事件；前半句要有能持续的动作或状态。"
+      },
+      {
+        "id": "just_then_rang",
+        "title": "Just then, ... rang",
+        "source": "Just then, the telephone rang.",
+        "focus_zh": "Just then 放在故事转折处，后面用 rang 写突然响起的电话、门铃或闹钟。",
+        "task_zh": "仿写一句：写一个人正在做某事，突然电话、门铃或闹钟响了。",
+        "must_include": [
+          "Just then",
+          "rang"
+        ],
+        "min_words": 8,
+        "sample": "Just then, the doorbell rang outside our flat.",
+        "tip_zh": "Just then 后面加逗号；rang 是 ring 的过去式，适合叙述过去的突然事件。"
+      },
+      {
+        "id": "do_you_always_so",
+        "title": "Do you always ... so ...?",
+        "source": "Do you always get up so late?",
+        "focus_zh": "用 Do you always ... so ...? 写对别人习惯的惊讶追问，so 后面放形容词或副词。",
+        "task_zh": "仿写一句：写你惊讶地问别人是不是总是这么早、这么晚、这么快或这么慢。",
+        "must_include": [
+          "Do you always",
+          "so"
+        ],
+        "min_words": 7,
+        "sample": "Do you always finish your lunch so quickly?",
+        "tip_zh": "这个句式带一点惊讶，但不要太尖刻；so 后面接 late, early, quickly, slowly 等词。"
+      }
+    ]
+  }
+}
