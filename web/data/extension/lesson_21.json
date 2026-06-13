@@ -73,10 +73,10 @@
         "options": [
           "Because the narrator loves trucks more than school.",
           "Because the narrator wants the shop to close.",
-          "Because the narrator wants to stay at home until the school year ends.",
-          "Because the narrator has already accepted the company's money."
+          "Because the narrator has already accepted the company's money.",
+          "Because the narrator wants to stay at home until the school year ends."
         ],
-        "answer_index": 2,
+        "answer_index": 3,
         "explanation_zh": "虽然噪音很大，主人公还是说 I am determined to stay until the school year ends，因为这里仍然是自己的家。"
       }
     ]
