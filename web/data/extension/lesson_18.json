@@ -2,7 +2,7 @@
   "lesson_id": 18,
   "reading": {
     "title": "The Missing Backpack",
-    "intro_zh": "这篇短文不复述 pub 和狗的原文，而是换到学校附近的小咖啡店：主人公 had left 背包，后来找不到，不能 pay the bill，最后发现是熟人把它拿到花园边。重点练习 earlier past、look for、returned 和 gave it back。",
+    "intro_zh": "这篇短文不复述 pub 和狗的原文，而是换到一家带小花园的 cafe：主人公把背包放在身边，付 bill 时才发现不见了；一家人 looked for，最后发现是四岁的弟弟 had taken 背包到 garden 里玩，服务员 immediately 把它 returned 并 gave it back。重点练习 earlier past、looked for、returned、gave it back 和 He often does this。",
     "word_bank": [
       "cafe",
       "bill",
@@ -16,68 +16,68 @@
       "He often does this"
     ],
     "passage": [
-      "After I had had lunch at a small cafe near our school, I looked for my backpack. I had left it on a bench beside the door, but now it was not there. The situation was awkward because my wallet was inside, and I could not pay the bill. As I was looking for it, the cafe manager came in. He did not look worried. He immediately walked to the small garden behind the cafe. In a few minutes, he returned with my backpack and gave it back to me. My little cousin had taken it outside to find his toy car, then forgot to bring it back. The manager laughed, \"He often does this when he visits.\""
+      "My family stopped at a cafe with a small play garden last Sunday. I put my backpack on the seat beside me, with my wallet zipped inside, and went to choose a cake. When the waiter brought the bill, I reached for the bag to pay, but it was gone. We looked for it under every table and asked the people nearby. Then my mother pointed at the window: my four-year-old brother had taken the backpack out to the garden and was dragging it across the grass like a sledge. A kind waiter immediately went outside. He returned a minute later and gave it back to me, still covered in grass. My brother only giggled. \"He often does this,\" my mother sighed, \"so I always keep one hand on our bags.\""
     ],
     "questions": [
       {
         "id": "where_left",
-        "question": "Where had the narrator first left the backpack?",
+        "question": "Where did the narrator put the backpack at the cafe?",
         "options": [
-          "On a bench beside the door.",
-          "Under a table in the garden.",
-          "Inside the school library.",
-          "Behind the cafe counter."
+          "On the seat beside the narrator, with the wallet inside.",
+          "On a hook by the play-garden gate.",
+          "Under the cafe counter.",
+          "In the family's car outside."
         ],
         "answer_index": 0,
-        "explanation_zh": "短文说 I had left it on a bench beside the door。"
+        "explanation_zh": "短文说 I put my backpack on the seat beside me, with my wallet zipped inside。"
       },
       {
         "id": "when_missing",
         "question": "When did the narrator notice the backpack was missing?",
         "options": [
-          "Before lunch began.",
-          "After lunch, when looking for it.",
-          "After returning home at night.",
-          "When the cousin asked for a toy car."
+          "Before the family ordered anything.",
+          "When the waiter brought the bill and the narrator reached for the bag to pay.",
+          "After the family had got home that night.",
+          "As soon as the family sat down."
         ],
         "answer_index": 1,
-        "explanation_zh": "开头是 After I had had lunch... I looked for my backpack，然后发现 it was not there。"
+        "explanation_zh": "短文说 When the waiter brought the bill, I reached for the bag to pay, but it was gone，这时才发现背包不见了。"
       },
       {
         "id": "awkward_reason",
-        "question": "Why did the situation become awkward?",
+        "question": "Why was the missing backpack a problem at that moment?",
         "options": [
-          "Because the cafe was already closed.",
-          "Because the manager asked for a toy car.",
-          "Because the wallet was inside the backpack, so the narrator could not pay the bill.",
-          "Because the backpack belonged to another student."
+          "Because the cafe was about to close.",
+          "Because the waiter had lost the family's order.",
+          "Because the wallet was zipped inside it, so the narrator could not pay the bill.",
+          "Because the play-garden gate was locked."
         ],
         "answer_index": 2,
-        "explanation_zh": "文中说 wallet was inside, and I could not pay the bill。"
+        "explanation_zh": "钱包 zipped inside 背包，背包不见了就 could not pay the bill，所以很尴尬。"
       },
       {
         "id": "who_moved",
-        "question": "Who had moved the backpack?",
+        "question": "Who had moved the backpack, and where to?",
         "options": [
-          "The cafe manager.",
-          "The narrator's little cousin.",
-          "A student from the library.",
-          "A stranger at the door."
+          "The kind waiter, behind the counter.",
+          "The narrator's mother, into the family car.",
+          "Another customer, to a nearby table.",
+          "The narrator's four-year-old brother, out to the garden."
         ],
-        "answer_index": 1,
-        "explanation_zh": "短文揭示 My little cousin had taken it outside to find his toy car。"
+        "answer_index": 3,
+        "explanation_zh": "短文揭示 my four-year-old brother had taken the backpack out to the garden。"
       },
       {
         "id": "funny_ending",
-        "question": "Why is the final sentence funny?",
+        "question": "Why is the mother's last comment funny?",
         "options": [
+          "Because waiters never help with lost bags.",
+          "Because the little brother does this so often that the mother already expects it.",
           "Because backpacks can pay bills by themselves.",
-          "Because the manager had never seen the cousin before.",
-          "Because the narrator wanted to lose the backpack.",
-          "Because the cousin often takes things outside and forgets them."
+          "Because the garden had no grass at all."
         ],
-        "answer_index": 3,
-        "explanation_zh": "He often does this 说明这不是第一次，是一个熟悉的小毛病，所以结尾轻松好笑。"
+        "answer_index": 1,
+        "explanation_zh": "\"He often does this\" 说明弟弟经常这样，妈妈早就习惯，所以结尾轻松好笑。"
       }
     ]
   },
