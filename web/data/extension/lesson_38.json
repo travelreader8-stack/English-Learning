@@ -1,0 +1,156 @@
+{
+  "lesson_id": 38,
+  "reading": {
+    "title": "Everything Except the Rain",
+    "intro_zh": "这篇短文不复述 Harrison 的退休故事，而是换到一个学生看见海边城市视频后想去那里学习：她认真计划学校、路线和房间，却忘了真正会改变日常生活的气候。",
+    "word_bank": [
+      "climate",
+      "settle down",
+      "daily routine",
+      "complain",
+      "continually",
+      "bitterly",
+      "immediately",
+      "get a shock",
+      "bear",
+      "except"
+    ],
+    "passage": [
+      "When Amy saw videos of Harbour Bay, she had often dreamed of studying there for a year. The town looked bright, with blue water, small cafes, and students walking by the beach after class. Before she left home, she had planned almost everything: the school, the bus route, the room, and even a desk by the window. But she did not check the climate carefully. No sooner had she arrived than the rain began. It rained continually for days, and the wind was often bitterly cold. Amy got a shock. She could not sit outside or cycle to school as she had imagined, and at first she began to complain. Later, she bought warm clothes and made a better daily routine indoors. A beautiful picture is not enough for real life; we should not plan everything except the weather."
+    ],
+    "questions": [
+      {
+        "id": "amy_dream",
+        "question": "What had Amy dreamed of doing?",
+        "options": [
+          "Studying in Harbour Bay for a year.",
+          "Retiring in the English countryside.",
+          "Opening a cafe near her old school.",
+          "Making weather videos for tourists."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "开头说 Amy had often dreamed of studying there for a year，there 指 Harbour Bay。"
+      },
+      {
+        "id": "planned_details",
+        "question": "What had Amy planned carefully before she left home?",
+        "options": [
+          "The school, bus route, room, and desk.",
+          "Only the beach cafes and video camera.",
+          "A new house in the countryside.",
+          "A job as a weather reporter."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说她计划了 the school, the bus route, the room, and even a desk by the window。"
+      },
+      {
+        "id": "forgot_weather",
+        "question": "What important detail did Amy forget to check?",
+        "options": [
+          "The local climate and rainy weather.",
+          "The name of the school.",
+          "The colour of the sea.",
+          "The price of the desk."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "关键句是 But she did not check the climate carefully，后来才发现雨和冷风会影响生活。"
+      },
+      {
+        "id": "daily_life_changed",
+        "question": "How did the weather change Amy's daily life?",
+        "options": [
+          "She could not sit outside or cycle to school as she had imagined.",
+          "She immediately opened a cafe by the beach.",
+          "She stopped going to school and left the country.",
+          "She spent every afternoon swimming in warm sunshine."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "天气让她不能像想象中那样 sit outside or cycle to school，后来只好调整室内日常安排。"
+      },
+      {
+        "id": "beyond_picture",
+        "question": "What lesson does Amy learn about planning a real life?",
+        "options": [
+          "A beautiful picture is not enough; daily details like weather matter.",
+          "Videos always show the whole truth about a place.",
+          "It is useless to plan schools or bus routes.",
+          "Rainy places are impossible to enjoy."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾说 A beautiful picture is not enough for real life，意思是计划生活不能只看漂亮画面，还要看每天会遇到的细节。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 38 的梦境和现实落差句式：用 had lived...before...写过去经历，用 had often dreamed of...写长期梦想，用 had no sooner...than...写动作太快，用 even though...写期待和现实的反差，再用 everything except...点出计划里漏掉的关键因素。",
+    "patterns": [
+      {
+        "id": "had_lived_before",
+        "title": "had lived ... before ...",
+        "source": "Harrison had lived in the Mediterranean for many years before he returned to England.",
+        "focus_zh": "过去完成时 had lived 用来写“在另一个过去动作发生以前，已经生活过一段时间”。",
+        "task_zh": "仿写一句：写某人在搬家、回国、换学校或参加新活动以前，已经在某个地方生活过一段时间。",
+        "must_include": [
+          "had lived",
+          "before"
+        ],
+        "min_words": 12,
+        "sample": "My cousin had lived near the sea for three years before she moved inland.",
+        "tip_zh": "had lived 放在更早的过去；before 后面接后发生的过去动作。"
+      },
+      {
+        "id": "had_often_dreamed_of",
+        "title": "had often dreamed of ...",
+        "source": "He had often dreamed of retiring in England.",
+        "focus_zh": "had often dreamed of 写一个持续很久的梦想，适合放在故事真正行动开始之前。",
+        "task_zh": "仿写一句：写某人长期梦想住在某地、加入某个学校、学习某项技能或开始一种新生活。",
+        "must_include": [
+          "had often dreamed of"
+        ],
+        "min_words": 10,
+        "sample": "She had often dreamed of studying in a bright seaside town.",
+        "tip_zh": "dreamed of 后面接名词或动名词，比如 studying, living, joining。"
+      },
+      {
+        "id": "had_no_sooner_than",
+        "title": "had no sooner ... than ...",
+        "source": "He had no sooner returned than he bought a house and went to live there.",
+        "focus_zh": "had no sooner...than...强调前一个动作刚发生，后一个动作就立刻跟上，带有“太快了”的故事感。",
+        "task_zh": "仿写一句：写某人刚到一个新地方、刚做出决定或刚看见机会，就马上采取了另一个行动。",
+        "must_include": [
+          "had no sooner",
+          "than"
+        ],
+        "min_words": 12,
+        "sample": "He had no sooner arrived at the camp than he joined the football team.",
+        "tip_zh": "no sooner 后写第一个动作，than 后写立刻发生的第二个动作。"
+      },
+      {
+        "id": "even_though_contrast",
+        "title": "Even though ..., ...",
+        "source": "Even though it was still summer, it rained continually.",
+        "focus_zh": "even though 用来写期待和现实的反差：按理说应该这样，结果却那样。",
+        "task_zh": "仿写一句：写虽然是夏天、假期或一个漂亮地方，但天气、交通或日常生活并不像想象中那样。",
+        "must_include": [
+          "even though"
+        ],
+        "min_words": 11,
+        "sample": "Even though it was still summer, the mountain town was bitterly cold.",
+        "tip_zh": "even though 后面给出“本来以为会顺利”的条件，主句写真实情况。"
+      },
+      {
+        "id": "everything_except_missing_factor",
+        "title": "everything except ...",
+        "source": "Harrison had thought of everything except the weather.",
+        "focus_zh": "everything except...用一个小缺口收束故事：很多事都想到了，唯独漏掉了最关键的一点。",
+        "task_zh": "仿写一句：写某人计划旅行、搬家、活动或学习安排时，什么都想到了，唯独漏掉一个会影响每天生活的因素。",
+        "must_include": [
+          "everything except"
+        ],
+        "min_words": 10,
+        "sample": "We had planned everything except the long rainy walk to school.",
+        "tip_zh": "except 后面接漏掉的因素；这个因素最好能改变后面的生活或行动。"
+      }
+    ]
+  }
+}
