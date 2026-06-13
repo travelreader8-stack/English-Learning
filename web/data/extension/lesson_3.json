@@ -16,7 +16,7 @@
       "quickly"
     ],
     "passage": [
-      "Before her school holiday, Mina made a promise to her cousin: she would send a small travel album and a short message from the seaside. At first, the promise sounded easy. Every evening she took many travel photos, but the little task began to spoil her holiday. She kept thinking, \"I must send it tonight.\" On the last day, Mina made a big decision. She stayed in the hotel room, chose twelve photos, changed their order, and wrote a few lines under the first picture. The whole day passed quickly. At dinner, her mother asked, \"Did you send the album?\" Mina looked at her phone. She had prepared everything, but she had not sent a single message."
+      "Before her school holiday, Mina made a promise to her cousin: she would send a small travel album and a short message from the seaside. At first, the promise sounded easy. Every evening she took many travel photos, but the little task began to spoil her holiday. She kept thinking, \"I must send it tonight.\" On the last day, Mina made a big decision. She stayed in the hotel room, chose twelve photos, changed their order, and wrote a few lines under the first picture. The whole day passed quickly. At dinner, her mother asked, \"Did you send the album?\" Mina looked at her phone. She had prepared everything, but not a single message had been sent."
     ],
     "questions": [
       {
@@ -59,12 +59,12 @@
         "id": "not_sent",
         "question": "What had Mina still not sent at the end?",
         "options": [
-          "A single message.",
           "A hotel key.",
           "A school bag.",
-          "A seaside ticket."
+          "A seaside ticket.",
+          "A single message."
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "explanation_zh": "结尾说 she had not sent a single message，强调一条也没有发出去。"
       },
       {
@@ -94,7 +94,7 @@
           "always spoil my"
         ],
         "min_words": 8,
-        "sample": "Unfinished homework always spoils my weekends.",
+        "sample": "Late-night video games always spoil my mornings at school.",
         "tip_zh": "spoil 这里不是把东西弄坏，而是把心情或一段时间搅乱。"
       },
       {
