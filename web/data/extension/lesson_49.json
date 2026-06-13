@@ -117,7 +117,8 @@
         "focus_zh": "For the first time in his life 让一个普通动作变成重要时刻，强调“人生第一次”。",
         "task_zh": "仿写一句：写某人第一次拥有、尝试或完成一件对自己很重要的事。",
         "must_include": [
-          "For the first time in his life"
+          "For the first time in",
+          "life"
         ],
         "min_words": 12,
         "sample": "For the first time in his life, Leo had a quiet corner of his own.",
