@@ -10,7 +10,7 @@
       "parcel",
       "thieves",
       "steal",
-      "keep guard",
+      "keeping guard",
       "to their surprise",
       "precious",
       "full of"
@@ -60,11 +60,11 @@
         "question": "What did they find inside the box?",
         "options": [
           "The trophy and a letter.",
-          "Paper and small stones.",
           "A broken science model.",
-          "Nothing at all."
+          "Nothing at all.",
+          "Paper and small stones."
         ],
-        "answer_index": 1,
+        "answer_index": 3,
         "explanation_zh": "打开后发现 the precious box was full of paper and small stones。"
       },
       {
