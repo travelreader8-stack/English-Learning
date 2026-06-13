@@ -104,8 +104,7 @@
         "focus_zh": "had been + 过去分词 用来写“之前已经被怎样了”。这里不先说谁做的，而是先呈现现场证据。",
         "task_zh": "仿写一句：写早上、课后或活动结束后，你发现门、桌椅、书包或物品已经被移动、挡住或改变位置。",
         "must_include": [
-          "had been",
-          "moved"
+          "had been"
         ],
         "min_words": 12,
         "sample": "When we arrived in the morning, the desks had been moved into a circle.",
