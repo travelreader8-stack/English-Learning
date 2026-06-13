@@ -1,0 +1,156 @@
+{
+  "lesson_id": 52,
+  "reading": {
+    "title": "The Paper Carpet",
+    "intro_zh": "这篇短文把 Lesson 52 的“把房间整理好、东西临时铺满地板、最后变成一个好笑比喻”换到现代学习角场景。重点练习 move into、work hard、in order、own、To make matters worse、temporarily、every inch、floor space、gaze 和 spare time。",
+    "word_bank": [
+      "move into",
+      "work hard",
+      "in order",
+      "own",
+      "To make matters worse",
+      "temporarily",
+      "every inch",
+      "floor space",
+      "gaze",
+      "spare time"
+    ],
+    "passage": [
+      "Last month, Daniel moved into a small study corner beside the window. He had been working hard all afternoon because he wanted to get his school projects in order. This was not easy. Daniel owned three folders of art paper, two boxes of model parts, and a pile of notebooks. To make matters worse, the new shelf was still in its box, so he temporarily spread everything on the floor. Soon coloured papers covered every inch of floor space. His sister came in, gazed at the bright shapes, and laughed, \"It looks like a paper carpet.\" Daniel smiled. In his spare time, he could sit there and plan his science display from the carpet."
+    ],
+    "questions": [
+      {
+        "id": "organize_projects",
+        "question": "What was Daniel trying to organize?",
+        "options": [
+          "His school projects in a small study corner.",
+          "A thousand books in a new house.",
+          "A carpet shop beside the window.",
+          "His sister's bedroom furniture."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 Daniel wanted to get his school projects in order，所以他要整理的是学习角里的 school projects。"
+      },
+      {
+        "id": "not_easy_reason",
+        "question": "Why was Daniel's work not easy?",
+        "options": [
+          "He owned many project materials, including art paper, model parts, and notebooks.",
+          "He had lost the key to the study corner.",
+          "His sister asked him to move into another house.",
+          "The window was too far from the floor."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "不容易的原因是材料很多：art paper、model parts 和 notebooks，不是因为搬家或找钥匙。"
+      },
+      {
+        "id": "matters_worse",
+        "question": "What made matters worse?",
+        "options": [
+          "The new shelf was still in its box.",
+          "Daniel had no school projects at all.",
+          "The floor was already covered by a real carpet.",
+          "His sister refused to enter the room."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "To make matters worse 后面写的是 the new shelf was still in its box，所以东西暂时没有地方放。"
+      },
+      {
+        "id": "paper_carpet",
+        "question": "Why did the floor look like a paper carpet?",
+        "options": [
+          "Coloured papers covered every inch of floor space.",
+          "Daniel bought a new carpet made in a paper factory.",
+          "His sister painted a carpet on the floor.",
+          "The model parts were all hidden in the shelf."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 coloured papers covered every inch of floor space，所以地板看起来像一张由纸铺成的 carpet。"
+      },
+      {
+        "id": "joke_turns_mess",
+        "question": "How does the joke turn the mess into a picture?",
+        "options": [
+          "The sister sees the bright papers as a paper carpet, and Daniel imagines planning from it.",
+          "The sister tells Daniel to throw away every project.",
+          "Daniel decides never to use the study corner again.",
+          "The shelf opens by itself and hides the papers."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "妹妹把满地彩纸看成 paper carpet，Daniel 也顺着这个比喻想象可以从这张 carpet 里规划展示。乱变成了有画面感的笑点。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 52 的“整理空间和比喻笑点”句式：用 have just moved into 写最近的变化，用 have been trying to get...in order 写持续整理，用 To make matters worse 添加第二个麻烦，用 every inch of 写铺满的画面，最后用 the prettiest...I have ever seen 写幽默夸张的评价。",
+    "patterns": [
+      {
+        "id": "have_just_moved_into",
+        "title": "have just moved into ...",
+        "source": "We have just moved into a new house.",
+        "focus_zh": "have just moved into... 表示“刚搬进/刚换到某个地方”，重点是这个变化刚发生，结果现在还看得见。",
+        "task_zh": "仿写一句：写你或某人刚搬进一个新房间、新学习角、新座位或新空间。",
+        "must_include": [
+          "have just moved into"
+        ],
+        "min_words": 9,
+        "sample": "I have just moved into a small study corner near the window.",
+        "tip_zh": "have just moved into 后面接地点；如果主语是 he/she，要改成 has just moved into。"
+      },
+      {
+        "id": "trying_get_in_order",
+        "title": "have been trying to get ... in order",
+        "source": "I have been trying to get my new room in order.",
+        "focus_zh": "have been trying to... 强调这件事已经持续了一段时间；get...in order 表示把东西整理好、安排有序。",
+        "task_zh": "仿写一句：写你一直在努力把书桌、书包、文件夹、房间或项目材料整理好。",
+        "must_include": [
+          "have been trying to get",
+          "in order"
+        ],
+        "min_words": 11,
+        "sample": "I have been trying to get my project folders in order all afternoon.",
+        "tip_zh": "这个句式适合写“还在努力整理”的状态；中间的名词可以换成 my desk、my books、my notes。"
+      },
+      {
+        "id": "to_make_matters_worse",
+        "title": "To make matters worse, ...",
+        "source": "To make matters worse, the room is rather small.",
+        "focus_zh": "To make matters worse 用来追加第二个麻烦，让故事从“已经不容易”变成“更糟糕”。",
+        "task_zh": "仿写一句：先暗示已经有一个问题，再用 To make matters worse 写另一个让情况更难的小麻烦。",
+        "must_include": [
+          "To make matters worse"
+        ],
+        "min_words": 10,
+        "sample": "To make matters worse, the new shelf was still in its box.",
+        "tip_zh": "逗号后面接完整句子；这个句式适合放在故事转折处。"
+      },
+      {
+        "id": "every_inch_of",
+        "title": "every inch of ...",
+        "source": "They cover every inch of floor space.",
+        "focus_zh": "every inch of... 是很有画面感的表达，强调一个地方几乎完全被占满。",
+        "task_zh": "仿写一句：写书、本子、纸张、玩具或材料铺满了某个地方。",
+        "must_include": [
+          "every inch of"
+        ],
+        "min_words": 9,
+        "sample": "The coloured papers covered every inch of the small desk.",
+        "tip_zh": "后面可以接 floor space、the table、the shelf；重点是“满到没有空地”。"
+      },
+      {
+        "id": "prettiest_ever_seen",
+        "title": "the prettiest ... I have ever seen",
+        "source": "This is the prettiest carpet I have ever seen.",
+        "focus_zh": "the prettiest...I have ever seen 用最高级制造夸张评价；在 Lesson 52 里，它把凌乱的地板变成一个温和的笑话。",
+        "task_zh": "仿写一句：写某人把一个意外的场景幽默地称作自己见过最漂亮、最奇怪或最有趣的东西。",
+        "must_include": [
+          "the prettiest",
+          "I have ever seen"
+        ],
+        "min_words": 11,
+        "sample": "This is the prettiest paper carpet I have ever seen.",
+        "tip_zh": "the prettiest 后面接名词；I have ever seen 放在名词后面，表示“我见过的最……”。"
+      }
+    ]
+  }
+}
