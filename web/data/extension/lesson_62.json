@@ -1,0 +1,157 @@
+{
+  "lesson_id": 62,
+  "reading": {
+    "title": "Green on the School Slope",
+    "intro_zh": "这篇短文把 Lesson 62 的“火后裸露土壤需要快速恢复”换到 school garden 的小山坡：小火后留下 bare slope，heavy rain 可能 wash away soil，学生和志愿者 scatter fast-growing seed，roots 帮助 protect the slope。重点练习 bare slope、wash away、soil、fast-growing seed、scatter、take root、green shoots、protect、volunteers 和 at last。",
+    "word_bank": [
+      "bare slope",
+      "wash away",
+      "soil",
+      "fast-growing seed",
+      "scatter",
+      "take root",
+      "green shoots",
+      "protect",
+      "volunteers",
+      "at last"
+    ],
+    "passage": [
+      "After a small fire near the school garden, one side of the bank was left as a bare slope. No one was hurt, but the gardener was worried because dark clouds were coming. Without roots, heavy rain could wash away the loose soil and carry mud onto the path below. On Saturday morning, several students and volunteers helped him scatter fast-growing seed over the ground. They pressed the seed gently into the soil and covered the slope with thin straw so birds would not eat it all. For a few days, nothing seemed to change. Then, at last, tiny green shoots appeared. The new grass had begun to take root, and the first green patches helped protect the slope."
+    ],
+    "questions": [
+      {
+        "id": "damage_happened",
+        "question": "What damage had happened near the school garden?",
+        "options": [
+          "A small fire left one side of the bank as a bare slope.",
+          "A plane dropped seed over a large forest.",
+          "A flood destroyed every classroom in the school.",
+          "A gardener cut down all the mature trees for fun."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文开头说 After a small fire near the school garden, one side of the bank was left as a bare slope。"
+      },
+      {
+        "id": "rain_danger",
+        "question": "Why was heavy rain dangerous after the fire?",
+        "options": [
+          "It could wash away the loose soil because there were no roots.",
+          "It would make the volunteers forget the garden path.",
+          "It would stop all green shoots from ever growing.",
+          "It could turn the seed bags into readable signs."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "没有 roots 抓住土，heavy rain could wash away the loose soil，这就是危险。"
+      },
+      {
+        "id": "solution_used",
+        "question": "What solution did the students and volunteers use?",
+        "options": [
+          "They painted the slope black and left it alone.",
+          "They scattered fast-growing seed over the ground.",
+          "They moved the path to another city.",
+          "They waited for tall trees to grow in one afternoon."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "周六上午，students and volunteers helped him scatter fast-growing seed over the ground。"
+      },
+      {
+        "id": "why_seed_helped",
+        "question": "Why did the grass seed help?",
+        "options": [
+          "The grass could take root and help protect the slope.",
+          "The grass made the clouds disappear immediately.",
+          "The grass covered all signs with readable labels.",
+          "The grass turned the soil into stone."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾说 new grass had begun to take root，first green patches helped protect the slope。"
+      },
+      {
+        "id": "hopeful_sign",
+        "question": "What hopeful sign appeared at last?",
+        "options": [
+          "Tiny green shoots and the first green patches appeared.",
+          "A large forest grew back overnight.",
+          "The fire started again on the bank.",
+          "The path below was covered with mud."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 Then, at last, tiny green shoots appeared，并且 first green patches helped protect the slope。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 62 的恢复故事句式：用 had been...before 写长时间努力后成功，用 threatened...with 写某个地方或情况带来的危险，用 not only...but...as well 写双重后果，用 had at last been put out 写被动完成，用 had already taken root 写后来事件发生前已经出现的希望。",
+    "patterns": [
+      {
+        "id": "had_been_before",
+        "title": "had been ... for nearly ... before ...",
+        "source": "Firemen had been fighting the forest fire for nearly three weeks before they could get it under control.",
+        "focus_zh": "had been...before... 用来写一个动作在过去某个成功时刻之前已经持续了很久。",
+        "task_zh": "仿写一句：写消防员、志愿者、学生或 gardener 持续处理一个问题，过了一段时间才成功。",
+        "must_include": [
+          "had been",
+          "before"
+        ],
+        "min_words": 12,
+        "sample": "The volunteers had been clearing the muddy path for nearly two hours before they finished.",
+        "tip_zh": "had been 后面接 doing；before 后面写终于发生的结果。"
+      },
+      {
+        "id": "threatened_with",
+        "title": "threatened ... with ...",
+        "source": "The hills threatened the surrounding villages with destruction.",
+        "focus_zh": "threatened...with... 可以写某个地方、天气或情况用某种危险威胁人或地点。",
+        "task_zh": "仿写一句：写 heavy rain、a loose slope 或 a broken wall 对 school garden、path 或 houses 造成威胁。",
+        "must_include": [
+          "threatened",
+          "with"
+        ],
+        "min_words": 10,
+        "sample": "The bare slope threatened the garden path with mud and water.",
+        "tip_zh": "threatened 后面接被威胁对象；with 后面写具体危险。"
+      },
+      {
+        "id": "not_only_as_well",
+        "title": "not only ... but ... as well",
+        "source": "Heavy rain would not only wash away the soil but would cause serious floods as well.",
+        "focus_zh": "not only...but...as well 用来写两层结果，第二层通常更严重或更进一步。",
+        "task_zh": "仿写一句：写 rain、wind 或 careless repair 不只造成一个问题，还会造成另一个问题。",
+        "must_include": [
+          "not only",
+          "as well"
+        ],
+        "min_words": 12,
+        "sample": "Heavy rain would not only wash away the soil but would block the path as well.",
+        "tip_zh": "not only 后面写第一个结果；but 后面写第二个结果，句尾加 as well。"
+      },
+      {
+        "id": "had_at_last_been_put_out",
+        "title": "had at last been put out",
+        "source": "When the fire had at last been put out...",
+        "focus_zh": "had at last been put out 是 past perfect passive，强调一件事经过努力终于被完成。",
+        "task_zh": "仿写一句：写火、small flame 或 dangerous problem 终于被处理掉以后，人们开始修复环境。",
+        "must_include": [
+          "had at last been put out"
+        ],
+        "min_words": 12,
+        "sample": "When the small fire had at last been put out, we checked the garden slope.",
+        "tip_zh": "这个短语整体保留；后面接逗号，再写下一步行动。"
+      },
+      {
+        "id": "had_already_taken_root",
+        "title": "had already taken root",
+        "source": "By then, however, in many places the grass had already taken root.",
+        "focus_zh": "had already taken root 写后来事件发生前，好的结果已经先出现了。",
+        "task_zh": "仿写一句：写雨来之前、老师检查之前或 open day 之前，grass 或 idea 已经扎根。",
+        "must_include": [
+          "had already taken root"
+        ],
+        "min_words": 10,
+        "sample": "By the time the rain came, the new grass had already taken root.",
+        "tip_zh": "By the time 或 By then 能帮助你标出“到那个时候为止”。"
+      }
+    ]
+  }
+}

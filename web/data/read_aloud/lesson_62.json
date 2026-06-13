@@ -1,0 +1,117 @@
+{
+  "lesson_id": 62,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按恢复线记忆：firemen 和 forest fire 搏斗将近三周，火势终于 under control；great trees 变成 desolate hills；heavy rain 会 wash away the soil 并 cause floods；forest authorities 用 aeroplanes spray grass seed；最后 grass takes root，patches of green 出现在 blackened soil。读的时候注意 had been fighting、desolate、threatened、not only...but...as well、sprayed、aeroplanes、taken root 和 patches of green。",
+  "sentences": [
+    {
+      "id": "l62_s1",
+      "text": "Firemen had been fighting the forest fire for nearly three weeks before they could get it under control.",
+      "focus_zh": "中文锚点：消防员和森林大火搏斗了将近三周，最后才把火势控制住。Had been fighting 要读出持续很久，under control 连读自然。",
+      "start": 291.141,
+      "end": 297.069,
+      "focus_words": [
+        "Firemen",
+        "had been fighting",
+        "the forest fire",
+        "for nearly three weeks",
+        "under control"
+      ]
+    },
+    {
+      "id": "l62_s2",
+      "text": "A short time before, great trees had covered the countryside for miles around.",
+      "focus_zh": "中文锚点：不久之前，参天大树还覆盖着方圆数英里的乡野。A short time before 先停一下，had covered 表示过去中的更早过去。",
+      "start": 297.419,
+      "end": 302.363,
+      "focus_words": [
+        "A short time before",
+        "great trees",
+        "had covered",
+        "the countryside",
+        "for miles around"
+      ]
+    },
+    {
+      "id": "l62_s3",
+      "text": "Now, smoke still rose up from the warm ground over the desolate hills.",
+      "focus_zh": "中文锚点：现在，发热的地面上仍然升起烟雾，弥漫在荒凉山丘上。Now 和 A short time before 形成对比，desolate 三个音节不要读急。",
+      "start": 302.712,
+      "end": 307.344,
+      "focus_words": [
+        "Now",
+        "smoke still rose up",
+        "from the warm ground",
+        "desolate hills"
+      ]
+    },
+    {
+      "id": "l62_s4",
+      "text": "Winter was coming on and the hills threatened the surrounding villages with destruction, for heavy rain would not only wash away the soil but would cause serious floods as well.",
+      "focus_zh": "中文锚点：冬天快来了，山丘威胁周围村庄，因为大雨不仅会冲走土壤，还会造成严重洪水。长句先分成 threat 和 reason 两段，not only 和 as well 要互相呼应。",
+      "start": 307.694,
+      "end": 316.694,
+      "focus_words": [
+        "Winter was coming on",
+        "threatened the surrounding villages",
+        "for heavy rain",
+        "not only wash away the soil",
+        "cause serious floods as well"
+      ]
+    },
+    {
+      "id": "l62_s5",
+      "text": "When the fire had at last been put out, the forest authorities ordered several tons of a special type of grass-seed which would grow quickly.",
+      "focus_zh": "中文锚点：大火终于被扑灭后，森林管理部门订购了几吨能快速生长的草籽。Had at last been put out 是被动完成，authorities 这个长词可以轻轻分成几拍。",
+      "start": 317.044,
+      "end": 324.556,
+      "focus_words": [
+        "had at last been put out",
+        "forest authorities",
+        "several tons",
+        "grass-seed",
+        "would grow quickly"
+      ]
+    },
+    {
+      "id": "l62_s6",
+      "text": "The seed was sprayed over the ground in huge quantities by aeroplanes.",
+      "focus_zh": "中文锚点：飞机把种子大量喷洒到地面上。Was sprayed 是被动，in huge quantities 表示大量地，aeroplanes 是英式拼写，按 airplanes 理解即可。",
+      "start": 324.906,
+      "end": 329.394,
+      "focus_words": [
+        "The seed",
+        "was sprayed",
+        "over the ground",
+        "in huge quantities",
+        "by aeroplanes"
+      ]
+    },
+    {
+      "id": "l62_s7",
+      "text": "By then, however, in many places the grass had already taken root.",
+      "focus_zh": "中文锚点：然而到那时，许多地方的草已经扎根了。By then 后面稍停，had already taken root 要读出“雨来之前已经完成”的感觉。",
+      "start": 334.75,
+      "end": 339.574,
+      "focus_words": [
+        "By then",
+        "however",
+        "in many places",
+        "had already taken root"
+      ]
+    },
+    {
+      "id": "l62_s8",
+      "text": "In place of the great trees which had been growing there for centuries patches of green had begun to appear in the blackened soil.",
+      "focus_zh": "中文锚点：代替那些生长了几个世纪的大树，一片片绿色开始出现在烧黑的土壤上。In place of 是代替，patches of green 是希望的画面，blackened 读成两个音节。",
+      "start": 339.924,
+      "end": 346.788,
+      "focus_words": [
+        "In place of",
+        "great trees",
+        "for centuries",
+        "patches of green",
+        "blackened soil"
+      ]
+    }
+  ]
+}

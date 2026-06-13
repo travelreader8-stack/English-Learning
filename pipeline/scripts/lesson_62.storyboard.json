@@ -1,0 +1,23 @@
+{
+  "lesson_id": 62,
+  "title": "After the fire",
+  "visual_consistency": "A consistent semi-realistic educational illustration style. The same hilly countryside valley appears across all four frames: rolling hills, a small cluster of village houses in the distance, winding rural paths, and a wide sky. Before the fire, the hills have tall mature trees; after the fire, the same hills are blackened with warm smoky ground. Firefighters wear practical yellow and dark protective gear with helmets and no readable markings. Forest authority workers wear simple outdoor jackets and carry plain seed bags or equipment with no readable text. Aeroplanes are small practical agricultural-style planes with no readable markings. The emotional mood moves from exhausted control of danger, to quiet desolation, to organized recovery work, to hopeful green patches appearing in blackened soil.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Frame 1 of a continuous four-shot post-fire recovery story: in the same hilly countryside valley with rolling hills, a small cluster of village houses in the far distance, winding rural paths, and a wide sky, firefighters in practical yellow and dark protective gear with helmets and no readable markings are finally controlling a forest fire at the edge of tall mature trees. Show smoke in the sky, small controlled flames in the distance, hoses and practical equipment, and tired focused firefighters. The scene should suggest a long struggle and the moment when the fire is under control, not panic. Semi-realistic educational illustration, serious but child-friendly, no injuries, no close-up fear, no readable signs, no logos, no captions, no speech bubbles, no UI panels, no fake writing."
+    },
+    {
+      "frame": 2,
+      "prompt": "Frame 2 of the same continuous post-fire recovery story after frame 1: the same hilly countryside valley is now blackened and desolate, with the same rolling hills and distant village visible below or beyond the slopes. Smoke still rises softly from warm blackened ground. Tall trees are gone or reduced to quiet dark trunks. Dark winter rain clouds gather in the sky, hinting at heavy rain and the threat of soil being washed away toward the surrounding village, but do not show flood destruction yet. Semi-realistic educational illustration, serious calm atmosphere, no horror mood, no injured people, no readable signs, no maps, no labels, no captions, no speech bubbles, no UI panels, no fake writing."
+    },
+    {
+      "frame": 3,
+      "prompt": "Frame 3 of the same continuous post-fire recovery story after frame 2: in the same hilly countryside valley with blackened slopes and the distant village still visible, small practical agricultural-style aeroplanes with no readable markings fly low over the burned ground, spraying fast-growing grass seed in visible streams across the soil. Forest authority workers in simple outdoor jackets stand on a rural path with plain seed bags and equipment, watching the organized recovery operation. The mood is practical human action after disaster, focused on protecting soil. Semi-realistic educational illustration, realistic scale, no heroic fantasy, no readable labels, no logos, no captions, no speech bubbles, no UI panels, no fake writing."
+    },
+    {
+      "frame": 4,
+      "prompt": "Frame 4 of the same continuous post-fire recovery story after frame 3: after rain, the same hilly countryside valley still shows blackened soil, but small fresh patches of green grass have taken root across the slopes. The view is close enough to see young grass emerging from dark soil while the distant village looks calmer under a clearing sky. Keep the burned landscape visible so the green patches feel like the beginning of recovery, not a full mature forest. Semi-realistic educational illustration, hopeful but realistic, gentle natural light, no readable signs, no labels, no captions, no speech bubbles, no UI panels, no fake writing."
+    }
+  ]
+}

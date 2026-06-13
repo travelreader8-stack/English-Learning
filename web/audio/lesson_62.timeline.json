@@ -1,0 +1,1984 @@
+{
+  "total_duration": 669.284,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 3.92,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可能会以为，fire 被 put out 以后，危险就结束了。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 4.27,
+      "end": 11.134,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但这一课要看的是"
+        },
+        {
+          "lang": "en",
+          "text": "after the fire"
+        },
+        {
+          "lang": "zh",
+          "text": "：火灭以后，山坡还可能威胁村庄。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 11.484,
+      "end": 15.524,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为树和草被烧掉后，soil 没有 roots 抓住。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 15.873,
+      "end": 24.129,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "冬天的"
+        },
+        {
+          "lang": "en",
+          "text": "heavy rain"
+        },
+        {
+          "lang": "zh",
+          "text": "一来，土会被冲走，还可能造成"
+        },
+        {
+          "lang": "en",
+          "text": "floods"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 24.479,
+      "end": 32.079,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以今天的关键不是火焰，而是"
+        },
+        {
+          "lang": "en",
+          "text": "soil, roots, rain, and patches of green"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 32.429,
+      "end": 35.709,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，先看这场火为什么不简单。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 36.059,
+      "end": 42.479,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：消防员和森林大火搏斗了将近三周，最后才把火势控制住。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 42.829,
+      "end": 48.973,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文开头是："
+        },
+        {
+          "lang": "en",
+          "text": "Firemen had been fighting the forest fire for nearly three weeks"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 49.322,
+      "end": 56.282,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Had been fighting"
+        },
+        {
+          "lang": "zh",
+          "text": "表示在“终于控制住”之前，这个动作已经持续了很久。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 56.632,
+      "end": 60.872,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后半句是："
+        },
+        {
+          "lang": "en",
+          "text": "before they could get it under control"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 61.222,
+      "end": 67.286,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Get it under control"
+        },
+        {
+          "lang": "zh",
+          "text": "是把火势控制住，不让它继续失控蔓延。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 67.636,
+      "end": 73.244,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "had been fighting, nearly three weeks, under control"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 73.594,
+      "end": 77.074,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，看火灭以后留下的空旷和危险。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 77.423,
+      "end": 87.423,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：不久之前，参天大树还覆盖着方圆数英里的乡野；现在，只剩发热的地面、烟和荒凉山丘。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 87.773,
+      "end": 94.401,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "A short time before, great trees had covered the countryside for miles around"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 94.751,
+      "end": 100.439,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句用"
+        },
+        {
+          "lang": "en",
+          "text": "had covered"
+        },
+        {
+          "lang": "zh",
+          "text": "，把我们带回更早以前的绿色画面。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 100.789,
+      "end": 107.685,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着画面一转："
+        },
+        {
+          "lang": "en",
+          "text": "Now, smoke still rose up from the warm ground over the desolate hills"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 108.035,
+      "end": 114.419,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Desolate"
+        },
+        {
+          "lang": "zh",
+          "text": "是荒凉、空空的感觉，不是热闹的火场，而是火后的空地。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 114.768,
+      "end": 120.592,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧记住对比："
+        },
+        {
+          "lang": "en",
+          "text": "great trees before, desolate hills now"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 120.942,
+      "end": 124.942,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，真正的威胁来了：不是火，而是雨。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 125.292,
+      "end": 135.092,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：冬天快来了，大雨不仅会冲走土壤，还会造成严重洪水，所以山丘威胁周围村庄。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 135.442,
+      "end": 141.566,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Winter was coming on and the hills threatened the surrounding villages with destruction"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 141.916,
+      "end": 147.836,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Threatened ... with ..."
+        },
+        {
+          "lang": "zh",
+          "text": "是用某种危险威胁某人或某地。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 148.186,
+      "end": 155.161,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "原因在后面："
+        },
+        {
+          "lang": "en",
+          "text": "for heavy rain would not only wash away the soil but would cause serious floods as well"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 155.511,
+      "end": 164.023,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "for"
+        },
+        {
+          "lang": "zh",
+          "text": "接近 because，"
+        },
+        {
+          "lang": "en",
+          "text": "not only ... but ... as well"
+        },
+        {
+          "lang": "zh",
+          "text": "说明有两层危险。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 164.373,
+      "end": 169.765,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "wash away the soil, cause serious floods"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 170.115,
+      "end": 173.315,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，看人们怎样让绿色先回来。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 173.665,
+      "end": 183.185,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：大火终于扑灭以后，森林管理部门订购快速生长的草籽，飞机把种子大量撒到地面上。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 183.534,
+      "end": 191.938,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "When the fire had at last been put out, the forest authorities ordered several tons of a special type of grass-seed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 192.288,
+      "end": 199.752,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Forest authorities"
+        },
+        {
+          "lang": "zh",
+          "text": "就是负责森林管理的人或部门；草籽要能快速生长。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 200.102,
+      "end": 206.342,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后是行动："
+        },
+        {
+          "lang": "en",
+          "text": "The seed was sprayed over the ground in huge quantities by aeroplanes"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 206.692,
+      "end": 213.604,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "雨开始下的时候，很多地方的草已经扎根："
+        },
+        {
+          "lang": "en",
+          "text": "the grass had already taken root"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 213.954,
+      "end": 221.354,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后，黑色土壤上出现希望："
+        },
+        {
+          "lang": "en",
+          "text": "patches of green had begun to appear in the blackened soil"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 221.703,
+      "end": 227.327,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "grass seed, take root, patches of green"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 227.677,
+      "end": 232.401,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，火都已经 put out 了，为什么 hills 还会 threaten villages？"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 232.75,
+      "end": 239.55,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为火灭了，只是第一场战斗结束。山坡上少了 trees 和 grass，soil 就松了。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 239.9,
+      "end": 243.614,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Soil 松了，heavy rain 一冲，就会被 wash away？"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 243.964,
+      "end": 249.244,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。你可以想象一盆没有植物的土，水一倒下去，土很容易流走。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 249.593,
+      "end": 254.038,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那 floods 是因为水和泥会一起往村庄方向冲？"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 254.388,
+      "end": 262.868,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "是的。所以这课的危险链是：没有 roots 抓住 soil，heavy rain 来了，soil 被 wash away，floods 就可能出现。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 263.217,
+      "end": 267.493,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那为什么要先撒 grass seed，不直接等大树长回来？"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 267.843,
+      "end": 276.803,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为大树恢复要很久，grass grows fast。先让草"
+        },
+        {
+          "lang": "en",
+          "text": "take root"
+        },
+        {
+          "lang": "zh",
+          "text": "，就像给山坡先缝上一层保护线。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 277.153,
+      "end": 282.317,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以 patches of green 不是说森林马上回来了，而是恢复开始了。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 282.667,
+      "end": 290.791,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "正好。"
+        },
+        {
+          "lang": "en",
+          "text": "Lesson 62"
+        },
+        {
+          "lang": "zh",
+          "text": "最温柔的地方就在这里：黑色土地上，先出现一点点 green。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 291.141,
+      "end": 297.069,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Firemen had been fighting the forest fire for nearly three weeks before they could get it under control."
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 297.419,
+      "end": 302.363,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A short time before, great trees had covered the countryside for miles around."
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 302.712,
+      "end": 307.344,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Now, smoke still rose up from the warm ground over the desolate hills."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 307.694,
+      "end": 316.694,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Winter was coming on and the hills threatened the surrounding villages with destruction, for heavy rain would not only wash away the soil but would cause serious floods as well."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 317.044,
+      "end": 324.556,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When the fire had at last been put out, the forest authorities ordered several tons of a special type of grass-seed which would grow quickly."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 324.906,
+      "end": 329.394,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The seed was sprayed over the ground in huge quantities by aeroplanes."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 329.744,
+      "end": 334.4,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The planes had been planting seed for nearly a month when it began to rain."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 334.75,
+      "end": 339.574,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "By then, however, in many places the grass had already taken root."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 339.924,
+      "end": 346.788,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In place of the great trees which had been growing there for centuries patches of green had begun to appear in the blackened soil."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 347.138,
+      "end": 359.801,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "desolate"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组词，讲火后 landscape："
+        },
+        {
+          "lang": "en",
+          "text": "firemen"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "under control"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "smoke"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "desolate"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "blackened"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 360.151,
+      "end": 361.927,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "desolate"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Desolate"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 362.277,
+      "end": 369.397,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "desolate"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Firemen"
+        },
+        {
+          "lang": "zh",
+          "text": "是课文里的消防员；今天更常见的总称也可以说 firefighters。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 369.747,
+      "end": 374.203,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "desolate"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Under control"
+        },
+        {
+          "lang": "zh",
+          "text": "是被控制住，不再自由蔓延。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 374.553,
+      "end": 383.168,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "desolate"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Smoke"
+        },
+        {
+          "lang": "zh",
+          "text": "是烟；"
+        },
+        {
+          "lang": "en",
+          "text": "desolate"
+        },
+        {
+          "lang": "zh",
+          "text": "是荒凉、空旷、被破坏后的冷清。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 383.518,
+      "end": 390.878,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "desolate"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Blackened soil"
+        },
+        {
+          "lang": "zh",
+          "text": "是被烧黑的土，一个词就把火后的地面画出来了。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 391.228,
+      "end": 404.827,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "threaten"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组词，讲 risk："
+        },
+        {
+          "lang": "en",
+          "text": "threaten"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "surrounding"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "destruction"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "wash away"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "floods"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "soil"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 405.177,
+      "end": 406.881,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "threaten"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Threaten"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 407.231,
+      "end": 413.143,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "threaten"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Threaten"
+        },
+        {
+          "lang": "zh",
+          "text": "是威胁，表示某个情况可能带来伤害。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 413.493,
+      "end": 420.941,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "threaten"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Surrounding villages"
+        },
+        {
+          "lang": "zh",
+          "text": "是周围的村庄；"
+        },
+        {
+          "lang": "en",
+          "text": "destruction"
+        },
+        {
+          "lang": "zh",
+          "text": "是严重破坏。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 421.291,
+      "end": 428.114,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "threaten"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Soil"
+        },
+        {
+          "lang": "zh",
+          "text": "是植物生长的表层土；"
+        },
+        {
+          "lang": "en",
+          "text": "wash away"
+        },
+        {
+          "lang": "zh",
+          "text": "是被水冲走。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 428.464,
+      "end": 435.44,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "threaten"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这句很关键："
+        },
+        {
+          "lang": "en",
+          "text": "heavy rain would not only wash away the soil but would cause serious floods as well"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 435.79,
+      "end": 448.294,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "root"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组词，讲 recovery："
+        },
+        {
+          "lang": "en",
+          "text": "authorities"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "sprayed"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "quantities"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "take root"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "patches"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 448.644,
+      "end": 450.372,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "root"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Take root"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 450.721,
+      "end": 459.185,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "root"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Authorities"
+        },
+        {
+          "lang": "zh",
+          "text": "是负责管理的人或机构；"
+        },
+        {
+          "lang": "en",
+          "text": "forest authorities"
+        },
+        {
+          "lang": "zh",
+          "text": "就是负责森林管理的部门。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 459.535,
+      "end": 466.935,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "root"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Sprayed"
+        },
+        {
+          "lang": "zh",
+          "text": "是喷洒、撒播；"
+        },
+        {
+          "lang": "en",
+          "text": "in huge quantities"
+        },
+        {
+          "lang": "zh",
+          "text": "是大量地。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 467.285,
+      "end": 474.165,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "root"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Take root"
+        },
+        {
+          "lang": "zh",
+          "text": "字面上就是扎根，在这一课里非常具体：roots 抓住 soil。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 474.514,
+      "end": 482.41,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "root"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Patches of green"
+        },
+        {
+          "lang": "zh",
+          "text": "是一片片绿色，不是整片森林马上回来，而是恢复的开始。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 482.76,
+      "end": 487.04,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法板先画一条恢复时间线，不先背公式。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 487.39,
+      "end": 494.334,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一格是长时间动作："
+        },
+        {
+          "lang": "en",
+          "text": "Firemen had been fighting the forest fire for nearly three weeks"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 494.684,
+      "end": 501.076,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Had been doing"
+        },
+        {
+          "lang": "zh",
+          "text": "表示在过去某一刻之前，动作已经持续了一段时间。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 501.426,
+      "end": 506.81,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二格是更早以前："
+        },
+        {
+          "lang": "en",
+          "text": "great trees had covered the countryside"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 507.159,
+      "end": 515.247,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Had covered"
+        },
+        {
+          "lang": "zh",
+          "text": "是 past perfect，告诉你这是火后画面之前的绿色过去。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 515.597,
+      "end": 523.541,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三格是被动："
+        },
+        {
+          "lang": "en",
+          "text": "the fire had at last been put out"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "The seed was sprayed over the ground"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 523.891,
+      "end": 528.651,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "句子重点放在 fire 和 seed 身上，所以用 passive voice。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 529.001,
+      "end": 536.557,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四格是原因："
+        },
+        {
+          "lang": "en",
+          "text": "for heavy rain would not only wash away the soil but would cause serious floods as well"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 536.907,
+      "end": 545.178,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里"
+        },
+        {
+          "lang": "en",
+          "text": "for"
+        },
+        {
+          "lang": "zh",
+          "text": "像 because，"
+        },
+        {
+          "lang": "en",
+          "text": "not only ... but ... as well"
+        },
+        {
+          "lang": "zh",
+          "text": "让你看到两个结果。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 545.528,
+      "end": 552.872,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一格是希望："
+        },
+        {
+          "lang": "en",
+          "text": "By then, however, in many places the grass had already taken root"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 553.222,
+      "end": 562.35,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "By then"
+        },
+        {
+          "lang": "zh",
+          "text": "是到那个时候为止；草已经扎根，所以 patches of green 才能出现。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 562.7,
+      "end": 569.5,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把森林恢复换成一个学校里更小的场景："
+        },
+        {
+          "lang": "en",
+          "text": "Protecting the School Garden"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 569.85,
+      "end": 576.09,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "学校花园里有一小段 bare slope，旧植物移走以后，soil 露在外面。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 576.439,
+      "end": 581.919,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "天气预报说 heavy rain is coming，大家担心土会被 wash away。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 582.269,
+      "end": 588.069,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你和同学决定 spread grass seed over the ground，让草 quickly take root。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 588.419,
+      "end": 592.659,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "几天后，一片片 green patches 出现了，bare soil 被保护起来。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 593.009,
+      "end": 609.093,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，你要用 word bank 补完整 5 个空，练"
+        },
+        {
+          "lang": "en",
+          "text": "soil"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "wash away"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "spread grass seed"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "take root"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "patches of green"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 609.442,
+      "end": 616.762,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 617.112,
+      "end": 626.412,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓恢复线：firemen fighting forest fire，finally under control；great trees before，desolate hills now。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 626.762,
+      "end": 635.522,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓风险线：heavy rain 会 wash away the soil，还会 cause serious floods，surrounding villages 才会被 threaten。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 635.872,
+      "end": 645.912,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后抓行动线：forest authorities order grass seed，aeroplanes spray seed，grass takes root，patches of green appear。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 646.262,
+      "end": 659.582,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，② 完形，③ 中译英，④ 英译中，⑤ 拓展阅读，⑥ 句式仿写，⑦ 默写，一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 659.932,
+      "end": 669.284,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "after the fire, the second battle is to protect the soil"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 62
+}

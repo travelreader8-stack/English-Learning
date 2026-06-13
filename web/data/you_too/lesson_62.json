@@ -1,0 +1,51 @@
+{
+  "lesson_id": 62,
+  "title": "Protecting The School Garden",
+  "question": "把今天“裸露土壤 -> 大雨风险 -> 撒草籽 -> 扎根 -> 绿色出现”的恢复线，放进学校花园场景：用 word bank 补完整 5 个空。",
+  "example_answer": "Heavy rain is coming to the school garden. The bare soil may be washed away. We should spread grass seed over the ground. The grass will take root quickly. A few days later, patches of green have begun to appear.",
+  "word_bank": [
+    "Heavy rain is coming",
+    "bare soil",
+    "may be washed away",
+    "spread grass seed",
+    "over the ground",
+    "will take root quickly",
+    "A few days later",
+    "patches of green",
+    "have begun to appear",
+    "protect the slope"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "先说学校花园马上会有大雨",
+      "english_template": "___ to the school garden.",
+      "expected_phrase": "Heavy rain is coming"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说明裸露的土壤可能被冲走",
+      "english_template": "The bare soil ___.",
+      "expected_phrase": "may be washed away"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "提出行动：把草籽撒到地面上",
+      "english_template": "We should ___ over the ground.",
+      "expected_phrase": "spread grass seed"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说明草会很快扎根",
+      "english_template": "The grass ___.",
+      "expected_phrase": "will take root quickly"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "用 patches of green 说绿色开始出现",
+      "english_template": "A few days later, ___ have begun to appear.",
+      "expected_phrase": "patches of green"
+    }
+  ],
+  "mode": "all_fills"
+}
