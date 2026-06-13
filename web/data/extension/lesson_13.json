@@ -1,0 +1,154 @@
+{
+  "lesson_id": 13,
+  "reading": {
+    "title": "The School Drama Schedule",
+    "intro_zh": "这篇短文不复述绿林少年的车站接待，而是换成一个校园戏剧社来访的三天安排：谁来、怎么来、在哪里接待、接下来会做什么、老师为什么要维持秩序。重点回收 group / at present / will be arriving / will be coming by / will be staying / performances / as usual / keep order。",
+    "word_bank": [
+      "group",
+      "pop singers",
+      "at present",
+      "will be arriving",
+      "will be coming by",
+      "will be staying",
+      "performances",
+      "as usual",
+      "keep order",
+      "occasion"
+    ],
+    "passage": [
+      "At present, the North Hill Drama Club is visiting schools near the city. The club is a group of student performers, not pop singers, but everyone knows their new play. Tomorrow morning, they will be arriving at Green Street School. They will be coming by bus, and the school choir will be meeting them outside the main hall. After lunch, the visitors will be showing younger students how to speak clearly on stage. In the evening, they will give the first of three performances in the auditorium. The drama club will be staying for three days. During this time, some students will be helping with lights, tickets, and seats. As usual on a popular school occasion, teachers will be trying to keep order while everyone finds the right place."
+    ],
+    "questions": [
+      {
+        "id": "visiting_group",
+        "question": "Who is visiting Green Street School?",
+        "options": [
+          "A group of pop singers.",
+          "The North Hill Drama Club.",
+          "A team of police officers.",
+          "The school choir from another city."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文开头说明 the North Hill Drama Club is visiting schools，后来点明他们明天到 Green Street School。"
+      },
+      {
+        "id": "arrival_plan",
+        "question": "How and when will the visitors arrive?",
+        "options": [
+          "They will be arriving tomorrow morning and coming by bus.",
+          "They will be arriving tonight and coming by train.",
+          "They will be arriving next week and coming by plane.",
+          "They will be arriving after three performances."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "文中连续写道 Tomorrow morning, they will be arriving... They will be coming by bus。"
+      },
+      {
+        "id": "meeting_place",
+        "question": "Where will the school choir meet the visitors?",
+        "options": [
+          "At the bus station.",
+          "In the auditorium after the show.",
+          "Outside the main hall.",
+          "In the city theatre."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "短文说 the school choir will be meeting them outside the main hall。"
+      },
+      {
+        "id": "visit_activities",
+        "question": "What will the drama club be doing during the visit?",
+        "options": [
+          "They will only watch classes and then go home.",
+          "They will show younger students stage speaking and give three performances.",
+          "They will play a football match every evening.",
+          "They will sell bus tickets outside the main hall."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文写他们会教低年级学生舞台表达，还会 give the first of three performances。"
+      },
+      {
+        "id": "keep_order_reason",
+        "question": "Why will teachers need to keep order?",
+        "options": [
+          "Because the visitors are lost in the city.",
+          "Because no students want to see the play.",
+          "Because many people will be finding seats and the right places for a popular occasion.",
+          "Because the drama club refuses to perform."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结尾说明这是受欢迎的 school occasion，大家要找座位和位置，所以老师要 keep order。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓 Lesson 13 的五个时间表句式：现在正在发生的安排、未来到达、未来交通方式、停留时长，以及为了管理现场会努力做什么。",
+    "patterns": [
+      {
+        "id": "at_present_now",
+        "title": "At present, ...",
+        "source": "At present, they are visiting all parts of the country.",
+        "focus_zh": "用 At present 写“目前正在发生的事”，适合介绍一个活动、团队或计划的当前状态。",
+        "task_zh": "仿写一句：写一个团队、班级或活动目前正在准备、参观或巡回。",
+        "must_include": [
+          "At present"
+        ],
+        "min_words": 8,
+        "sample": "At present, our class is preparing for the school concert.",
+        "tip_zh": "At present 比 now 更正式一点，适合放在活动介绍或小短文开头。"
+      },
+      {
+        "id": "will_be_arriving",
+        "title": "will be arriving ...",
+        "source": "They will be arriving here tomorrow.",
+        "focus_zh": "用 will be arriving 写已经安排好的未来到达，让读者看到时间表上的到达动作。",
+        "task_zh": "仿写一句：说明某个团队、客人或亲戚明天或周末会到达某地。",
+        "must_include": [
+          "will be arriving"
+        ],
+        "min_words": 8,
+        "sample": "The debate team will be arriving at our school tomorrow.",
+        "tip_zh": "arrive 后面常接 at/in 加地点；小地点用 at，大城市或国家常用 in。"
+      },
+      {
+        "id": "will_be_coming_by",
+        "title": "will be coming by ...",
+        "source": "They will be coming by train.",
+        "focus_zh": "用 will be coming by 写未来的交通方式，像在活动通知里交代来路。",
+        "task_zh": "仿写一句：说明某人将乘火车、公交、飞机或地铁来到活动地点。",
+        "must_include": [
+          "will be coming by"
+        ],
+        "min_words": 8,
+        "sample": "The visiting students will be coming by bus after lunch.",
+        "tip_zh": "by 后面直接接交通工具，不加 a 或 the：by bus, by train, by plane。"
+      },
+      {
+        "id": "will_be_staying_for",
+        "title": "will be staying for ...",
+        "source": "The Greenwood Boys will be staying for five days.",
+        "focus_zh": "用 will be staying for 写未来停留多久，帮助你把活动安排讲完整。",
+        "task_zh": "仿写一句：说明某个团队、朋友或亲戚会停留几天、几小时或一周。",
+        "must_include": [
+          "will be staying for"
+        ],
+        "min_words": 8,
+        "sample": "The drama club will be staying for three days.",
+        "tip_zh": "for 后面接一段时间，比如 three days, two hours, one week。"
+      },
+      {
+        "id": "will_be_trying_to",
+        "title": "will be trying to ...",
+        "source": "They will be trying to keep order.",
+        "focus_zh": "用 will be trying to 写未来某人会努力处理一个现场任务，常用于维持秩序、帮助别人或解决问题。",
+        "task_zh": "仿写一句：写老师、工作人员或学生干部在活动中会努力维持秩序或帮助大家。",
+        "must_include": [
+          "will be trying to"
+        ],
+        "min_words": 9,
+        "sample": "The teachers will be trying to keep order near the hall.",
+        "tip_zh": "try to 后面接动词原形；如果是现场管理，keep order 是一个很有用的固定表达。"
+      }
+    ]
+  }
+}
