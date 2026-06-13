@@ -59,12 +59,12 @@
         "id": "disappointing_result",
         "question": "Why was the result disappointing?",
         "options": [
-          "The badge was almost worthless, not the treasure they had imagined.",
+          "The garden bench was too heavy to move.",
           "The teacher asked them to stop the club forever.",
           "The detector could not find any signal at all.",
-          "The garden bench was too heavy to move."
+          "The badge was almost worthless, not the treasure they had imagined."
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "explanation_zh": "关键落差在 almost worthless：他们想象的是 treasure，找到的却是几乎不值钱的旧徽章。"
       },
       {
