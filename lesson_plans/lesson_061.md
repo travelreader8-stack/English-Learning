@@ -1096,15 +1096,16 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original science-club telescope or camera-repair passage. The first
-pictures are disappointing, a lens or mirror is faulty, students plan a repair,
-and by a future time the device will have sent clearer pictures. Keep Hubble as
-the background inspiration.
+Use an original science-club telescope, school observatory, or camera-repair
+passage. The first pictures are disappointing, a lens or mirror is faulty,
+students or volunteers plan a repair, and by a future time the device will have
+sent clearer pictures. Keep Hubble as the background inspiration, but do not
+retell NASA, Endeavour, robot-arm, or space-repair details.
 
 Suggested title: `The Blurry Telescope`
 
 Recommended word bank: `telescope`, `launch`, `at a cost of`,
-`right from the start`, `disappointing`, `faulty`, `put right`, `astronaut`,
+`right from the start`, `disappointing`, `faulty`, `put right`, `repair team`,
 `repair`, `by the time`.
 
 The 5 reading questions should test:
@@ -1112,7 +1113,7 @@ The 5 reading questions should test:
 1. what device had a problem
 2. why the pictures were disappointing
 3. what part was faulty
-4. how the repair would be made
+4. how the repair would be made by the repair team
 5. what clear result was expected by a future time
 
 ### Sentence Writing

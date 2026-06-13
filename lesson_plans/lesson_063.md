@@ -1097,20 +1097,22 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original public-speaking passage. A student prepares a short speech with
-a funny story, hears classmates laugh, worries they are laughing at him, and
-learns the difference between friendly laughter and ridicule. Keep the extension
-encouraging for public expression in Chinese or English.
+Use an original public-speaking passage. A student prepares a short speech,
+presentation, or club introduction with a funny story, hears classmates laugh,
+worries they are laughing at him or her, and learns the difference between
+friendly laughter and ridicule. Keep it away from the wedding-reception/Jenny
+plot and keep the extension encouraging for public expression in Chinese or
+English.
 
 Suggested title: `They Were Laughing With Me`
 
-Recommended word bank: `large circle of friends`, `sense of humour`, `speech`,
-`reception`, `include`, `great success`, `disappointed`, `on the way home`,
-`to his surprise`, `laugh at`.
+Recommended word bank: `class speech`, `sense of humour`, `speech`, `include`,
+`great success`, `disappointed`, `on the way home`, `to his surprise`,
+`laugh with`, `laugh at`.
 
 The 5 reading questions should test:
 
-1. what speech or presentation the student prepared
+1. what speech, presentation, or club introduction the student prepared
 2. what funny story was included
 3. why the laughter made the student nervous
 4. what the teacher or parent explained

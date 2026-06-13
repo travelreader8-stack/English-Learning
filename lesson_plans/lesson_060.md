@@ -955,23 +955,24 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original school-fair or app-prediction passage. The prediction should
-sound mysterious at first but be explained by ordinary timing and coincidence.
-Do not encourage belief in fortune-telling; keep the focus on future forms,
-timing connectors, and critical thinking.
+Use an original school-fair, community-event, or app-prediction passage. The
+prediction should sound mysterious at first but be explained by ordinary timing,
+public information, and coincidence. Do not retell the tent/crystal-ball story
+with a wife and sister. Do not encourage belief in fortune-telling; keep the
+focus on future forms, timing connectors, and critical thinking.
 
 Suggested title: `The Prediction App`
 
-Recommended word bank: `fortune-teller`, `crystal ball`, `relation`,
-`arrive`, `intend`, `The moment`, `rush towards`, `impatiently`, `less than`,
+Recommended word bank: `prediction app`, `booth`, `relation`, `arrive`,
+`intend`, `The moment`, `rush towards`, `impatiently`, `less than`,
 `coincidence`.
 
 The 5 reading questions should test:
 
 1. what prediction was made
 2. what happened the moment the narrator left
-3. who was really coming to visit
-4. why the prediction seemed true
+3. who or what was really about to arrive
+4. why the prediction seemed true at first
 5. why an ordinary explanation is more sensible
 
 ### Sentence Writing

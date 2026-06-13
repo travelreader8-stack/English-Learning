@@ -997,24 +997,26 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original rumor-to-tourism passage about a small cafe beside an old tree
-that becomes famous online. The passage should make `blessing in disguise`
-concrete: a bad reputation unexpectedly brings visitors and income, but people
-should still respect the place.
+Use an original rumor-to-tourism passage about a small public place or local
+business that becomes famous online because of a silly unlucky reputation. The
+object should NOT be a cursed tree, a churchyard tree, or a near-copy of Frinley.
+Make `blessing in disguise` concrete: a bad reputation unexpectedly brings
+visitors and income, but people should still respect the place and avoid
+damaging it.
 
-Suggested title: `The Cursed Tree Cafe`
+Suggested title: `The Unlucky Bench`
 
 Recommended word bank: `blessing in disguise`, `is said to`, `possess`,
-`cursed`, `reputation`, `victim`, `cut down`, `source of income`, `in spite of`,
-`so far`.
+`unlucky`, `reputation`, `visitor`, `remove`, `source of income`,
+`in spite of`, `so far`.
 
 The 5 reading questions should test:
 
-1. what object had a strange reputation
-2. why visitors increased
-3. what people said would happen
-4. why the owner refused to remove it
-5. how the evidence undercuts the rumor
+1. what place or object had a strange reputation
+2. why visitors increased after the rumour spread
+3. what people said would happen to anyone who used it
+4. why the owner or manager refused to remove it
+5. how the evidence undercuts the rumour
 
 ### Sentence Writing
 
@@ -1034,7 +1036,7 @@ Use 5 patterns:
    - Must include: `It is said that if`
 4. `has pointed out that ...`
    - Source: `He has pointed out that the tree is a useful source of income.`
-   - Focus: giving a practical argument.
+   - Focus: giving a practical argument against panic.
    - Must include: `has pointed out that`
 5. `So far, not one of them has ...`
    - Source: `So far, not one of them has been struck down by sudden death.`

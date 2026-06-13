@@ -1048,7 +1048,8 @@ builders cleared it. Keep the ecological-repair idea (bare soil, the risk that
 rain washes the soil away, fast-growing seed, roots, the first green shoots), but
 it must read as a NEW situation with new characters (students, volunteers, a
 gardener), NOT a retelling of the lesson's forest fire fought by firemen and
-seeded from aeroplanes. Do not paraphrase the original passage.
+seeded from aeroplanes. Do not paraphrase the original passage or reuse its
+large-scale disaster sequence.
 
 Suggested title: `Green on the School Slope`
 
@@ -1059,7 +1060,7 @@ The 5 reading questions should test:
 
 1. what damage had happened
 2. why heavy rain was dangerous after the fire
-3. what solution the authorities or students used
+3. what solution the students, volunteers, or gardener used
 4. why grass seed helped
 5. what hopeful sign appeared in the soil
 
@@ -1068,7 +1069,7 @@ The 5 reading questions should test:
 Use 5 patterns:
 
 1. `had been fighting ... for nearly ... before ...`
-   - Source: `Firemen had been fighting the forest for nearly three weeks before they could get it under control.`
+   - Source: `Firemen had been fighting the forest fire for nearly three weeks before they could get it under control.`
    - Focus: long action before success.
    - Must include: `had been` and `before`
 2. `threatened ... with ...`

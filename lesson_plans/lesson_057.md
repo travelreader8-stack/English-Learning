@@ -1000,22 +1000,25 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original customer-service passage about someone being judged by casual
-clothes and later being treated differently when the context is clear. Keep the
-social lesson: appearance is not character, and respect should not depend on
-clothes. Avoid revenge role-play.
+Use an original customer-service passage set in a modern shop, studio, or
+service counter. A casually dressed customer should be underestimated at first,
+then treated with respect once the assistant understands the real context
+(appointment, purchase, role, or expertise). Keep it as a NEW situation with new
+characters, not a woman-in-jeans/dress-window retelling. The social lesson is
+that appearance is not character, and respect should not depend on clothes.
+Avoid revenge role-play.
 
 Suggested title: `The Casual Hoodie Visit`
 
 Recommended word bank: `hesitate`, `assistant`, `serve`,
-`the way she was dressed`, `glancing`, `scornfully`, `following morning`,
-`eager`, `with great difficulty`, `appearance`.
+`the way he was dressed`, `glancing`, `scornfully`, `appointment`,
+`following morning`, `eager`, `with great difficulty`, `appearance`.
 
 The 5 reading questions should test:
 
 1. why the assistant judged the customer
-2. what the customer asked to see
-3. what changed the next day
+2. what the customer wanted help with
+3. what new context changed the assistant's attitude
 4. how the assistant behaved differently
 5. the lesson: do not judge people by appearance
 
@@ -1027,10 +1030,10 @@ Use 5 patterns:
    - Source: `Though she hesitated for a moment, she finally went in.`
    - Focus: overcoming hesitation.
    - Must include: `Though` and `finally`
-2. `did not like the way ... was dressed`
+2. `did not like the way ... was/were dressed`
    - Source: `The assistant did not like the way she was dressed.`
    - Focus: appearance judgment.
-   - Must include: `the way` and `was dressed`
+   - Must include: `the way` and `dressed`
 3. `Glancing at ... scornfully, ...`
    - Source: `Glancing at her scornfully, he told her that the dress was sold.`
    - Focus: participle opener showing attitude.

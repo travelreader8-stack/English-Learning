@@ -997,21 +997,23 @@ timeline, read-aloud data, or storyboard images.
 ### Extension Reading
 
 Use an original repeated-habit passage about a pet, younger sibling, or smart
-door button that solves one problem and creates another. Keep the loop clear:
-old habit, training, new skill, unintended use, repeated cycle.
+home button that solves one problem and creates another. Keep the loop clear:
+old habit, training, new skill, unintended use, repeated cycle. Make it a NEW
+domestic comedy, not another dog/front-gate/latch story.
 
 Suggested title: `The Doorbell Button`
 
-Recommended word bank: `front gate`, `bark`, `neighbour`, `complain`, `latch`,
-`let himself in`, `expert`, `so that`, `bad habit`, `immediately`.
+Recommended word bank: `doorbell`, `press`, `neighbour`, `complain`,
+`let herself in`, `expert`, `so that`, `bad habit`, `immediately`,
+`switch off`.
 
 The 5 reading questions should test:
 
 1. what the old habit was
 2. why someone trained the new action
-3. what skill was learned
+3. what new skill was learned
 4. how the skill created a new problem
-5. why removing or changing the system broke the loop
+5. why removing, moving, or switching off the system broke the loop
 
 ### Sentence Writing
 
@@ -1031,7 +1033,7 @@ Use 5 patterns:
    - Must include: `spent` and `training`
 4. `so that ... would ...`
    - Source: `This time he was barking so that someone would let him out.`
-   - Focus: purpose.
+   - Focus: purpose behind repeated action.
    - Must include: `so that` and `would`
 5. `As soon as ..., ... until ...`
    - Source: `As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts.`
