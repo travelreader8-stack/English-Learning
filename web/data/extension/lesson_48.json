@@ -91,7 +91,8 @@
         "focus_zh": "when it is impossible for you to... 用来写“偏偏在你根本不能做某事的时候”。它能制造 Lesson 48 这种尴尬又好笑的时机。",
         "task_zh": "仿写一句：写某人偏偏在你无法回答、无法解释、无法离开或无法帮忙的时候问你问题。",
         "must_include": [
-          "when it is impossible"
+          "when it",
+          "impossible for"
         ],
         "min_words": 12,
         "sample": "My teacher asked me a question when it was impossible for me to answer clearly.",
