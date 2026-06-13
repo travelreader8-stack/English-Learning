@@ -60,11 +60,11 @@
         "question": "Why was everyone shocked?",
         "options": [
           "Because the experiment made no sound.",
-          "Because the instrument was part of the school's history.",
           "Because students were never interested in old things.",
-          "Because the teacher wanted louder music."
+          "Because the teacher wanted louder music.",
+          "Because the instrument was part of the school's history."
         ],
-        "answer_index": 1,
+        "answer_index": 3,
         "explanation_zh": "文中直接说明 Everyone was shocked, because the instrument was part of the school's history。"
       },
       {
