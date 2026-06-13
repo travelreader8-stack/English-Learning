@@ -587,15 +587,17 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original safe discovery story about a strangely heavy school delivery box
-or storage box. The passage should reuse the cargo mystery and `account for`
-logic, but it must not make hiding in cargo seem adventurous. A responsible
-adult opens or checks the box.
+Use an original safe discovery story about a strangely heavy school delivery
+box, drama-club trunk, or sports-club storage box. It must not retell the
+airport stowaway plot, and no one should hide in cargo. The passage should reuse
+the cargo mystery and `account for` logic: a responsible adult checks the box,
+finds an unsafe or undeclared load, and someone admits breaking a rule to save
+time or money.
 
-Suggested title: `The Heavy Box`
+Suggested title: `The Heavy Trunk`
 
-Recommended word bank: `airport`, `unload`, `wooden box`, `account for`,
-`extremely`, `occurred`, `astonished`, `admit`, `confined`, `normal price`.
+Recommended word bank: `delivery`, `unload`, `wooden box`, `account for`,
+`extremely`, `occurred`, `astonished`, `admit`, `safety rule`, `normal price`.
 
 The 5 reading questions should test:
 

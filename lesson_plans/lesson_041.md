@@ -518,10 +518,12 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original shopping passage about a friend choosing an unusual hat, jacket,
-or phone case. The scene should teach cultural politeness: you may disagree, but
-you do not humiliate someone. Include the practical modal contrast `needn't`,
-`mustn't`, and `needn't have said`.
+Use an original modern shopping passage about two friends choosing an unusual
+hat, jacket, phone case, or accessory. It must be a new scene, not a retelling
+of the husband-wife hat-shop argument; use different characters and a different
+item if helpful. The scene should teach cultural politeness: you may disagree,
+but you do not humiliate someone. Include the practical modal contrast
+`needn't`, `mustn't`, and `needn't have said`.
 
 Suggested title: `A More Polite Opinion`
 

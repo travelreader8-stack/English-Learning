@@ -566,16 +566,19 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original market or street-performance passage in another city. The
-student should practise respectful cultural curiosity: first the performance
-looks mysterious, then the narrator notices a simple explanation. Avoid treating
-Indian culture as strange or primitive; the focus is observation and not jumping
-to conclusions.
+Use an original city-square performance passage that is not a snake-charmer
+retelling. For example, two students watch a street musician controlling a small
+dancing puppet or robot: at first it seems to react to the music, then the
+narrator notices it is following the performer's hand movement. The student
+should practise respectful cultural curiosity: first the performance looks
+mysterious, then the narrator notices a simple explanation. Keep the focus on
+observation, movement, and not jumping to conclusions.
 
-Suggested title: `The Music in the Square`
+Suggested title: `The Puppet in the Square`
 
-Recommended word bank: `market`, `square`, `performer`, `basket`, `pipe`,
-`tune`, `first glimpse`, `movement`, `obviously`, `tell the difference`.
+Recommended word bank: `square`, `performer`, `instrument`, `puppet`, `tune`,
+`first glimpse`, `movement`, `obviously`, `tell the difference`,
+`careful observation`.
 
 The 5 reading questions should test:
 

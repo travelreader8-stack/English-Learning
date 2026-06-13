@@ -542,10 +542,11 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original age-appropriate mystery in a classroom, club room, or family
-kitchen. Chairs are moved, lights are on, snacks are gone, and someone blames a
-ghost; the narrator uses evidence to suggest a human explanation. Avoid alcohol
-or pub role-play in the student-facing extension.
+Use an original age-appropriate evidence mystery in a classroom, club room, or
+family kitchen. It must be a new puzzle, not a pub or whisky retelling. Chairs
+are moved, lights are on, snacks are gone, and someone blames a ghost; the
+narrator uses evidence to suggest a human explanation. Avoid alcohol or pub
+role-play in the student-facing extension.
 
 Suggested title: `The Classroom Ghost`
 

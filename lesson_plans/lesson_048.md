@@ -565,15 +565,16 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original dental-visit communication passage. The patient cannot speak
-clearly, so they nod, make a sound, point to a card, or write a note. Include a
-light comic misunderstanding, but keep the medical point safe: if something
-feels wrong, signal clearly and ask the dentist to check.
+Use an original dental-visit communication passage, not a retelling of the
+wrong-tooth plot. The patient cannot speak clearly during a check-up or just
+after treatment, so they nod, make a sound, point to a card, or write a note.
+Include a light comic misunderstanding, but keep the medical point safe: if
+something feels wrong, signal clearly and ask the dentist to check.
 
 Suggested title: `Please Let Me Write It Down`
 
-Recommended word bank: `dentist`, `pull out`, `rest`, `cotton wool`,
-`whether`, `nod`, `strange noises`, `meanwhile`, `search out`, `at last`.
+Recommended word bank: `dentist`, `appointment`, `rest`, `cotton wool`,
+`whether`, `nod`, `strange noises`, `meanwhile`, `write down`, `at last`.
 
 The 5 reading questions should test:
 

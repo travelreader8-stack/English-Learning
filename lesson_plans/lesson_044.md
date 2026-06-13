@@ -584,19 +584,20 @@ timeline, read-aloud data, or storyboard images.
 ### Extension Reading
 
 Use an original safe-response action story in a park, station, or school gate.
-Someone grabs a bag or phone; the narrator notices the direction, asks for help,
-and reports clearly instead of chasing. Preserve the cinematic action chain from
-the lesson, but make modern safety explicit.
+It must not replay a woman chasing thieves through a forest. Someone grabs a
+bag or phone; the narrator notices the direction, asks for help, and reports
+clearly instead of chasing. Preserve vivid action-chain writing from the lesson,
+but make modern safety explicit.
 
 Suggested title: `The Safe Witness`
 
-Recommended word bank: `risk`, `rush up`, `steal`, `strap`, `possession`,
-`out of breath`, `catch up`, `contents`, `fright`, `mending`.
+Recommended word bank: `risk`, `rush up`, `snatch`, `strap`, `report`,
+`direction`, `security guard`, `contents`, `fright`, `mending`.
 
 The 5 reading questions should test:
 
 1. what was stolen or almost stolen
-2. which action chain shows the thieves moving away
+2. which details showed where the person went
 3. what safe choice the narrator made
 4. what details helped adults or police
 5. why vivid storytelling is different from risky imitation

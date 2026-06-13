@@ -647,21 +647,23 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original lost-property story about a wallet, phone, or envelope found at
-school or in a small neighbourhood. The new passage should keep the moral arc:
-delayed return, partial honesty, notes, and finally a clear conscience. Do not
-put text into illustration prompts; this is only reading and writing data.
+Use an original school or neighbourhood lost-property story about an envelope,
+club fund, or phone found after an event. It must not retell Sam's wallet,
+village, butcher, or post-office plot. The new passage should keep the moral
+arc: delayed return, partial honesty, anonymous notes, and finally a clear
+conscience. Do not put text into illustration prompts; this is only reading and
+writing data.
 
-Suggested title: `Almost Honest`
+Suggested title: `The Club Envelope`
 
-Recommended word bank: `wallet`, `savings`, `post office`, `must have been`,
-`returned`, `wrapped up`, `contained`, `note`, `in time`, `honest`.
+Recommended word bank: `envelope`, `club money`, `must have been`, `returned`,
+`wrapped up`, `contained`, `note`, `in time`, `honest`, `clear conscience`.
 
 The 5 reading questions should test:
 
 1. what was lost and why it mattered
 2. why the owner thought someone must have found it
-3. how the item or money was returned
+3. how the item or money was returned in stages
 4. what the notes revealed about the finder
 5. the ethical lesson: return lost property completely and quickly
 

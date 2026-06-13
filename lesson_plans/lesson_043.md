@@ -595,15 +595,17 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original flight or drone-mapping passage that mirrors the South Pole
-logic: at first the team can take photographs, then height or weight causes
-trouble, they remove something heavy, and the aircraft clears an obstacle. Keep
-the geography bridge to polar exploration in the word bank or intro.
+Use an original mountain-survey flight passage in a snowy region. It should
+transfer the same problem type without retelling Byrd's South Pole flight: at
+first the team can take photographs, then height or weight causes trouble, they
+remove something heavy, and the aircraft clears a ridge. Do not mention Byrd,
+the South Pole, or the food-sack sequence in the extension reading. Keep the
+geography bridge to polar exploration in the word bank or intro.
 
-Suggested title: `Clearing the White Hills`
+Suggested title: `Clearing the Mountain Ridge`
 
-Recommended word bank: `explorer`, `photograph`, `mountain`, `run into`,
-`serious trouble`, `crash`, `rise`, `throw out`, `clear`, `plain`.
+Recommended word bank: `survey team`, `photograph`, `mountain ridge`,
+`run into`, `serious trouble`, `crash`, `rise`, `throw out`, `clear`, `plain`.
 
 The 5 reading questions should test:
 
@@ -611,7 +613,7 @@ The 5 reading questions should test:
 2. what obstacle or height problem appeared
 3. why weight mattered
 4. what decision solved the problem
-5. why the plane could finally clear the mountains
+5. why the aircraft could finally clear the ridge
 
 ### Sentence Writing
 
