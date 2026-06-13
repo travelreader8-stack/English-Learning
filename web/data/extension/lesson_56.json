@@ -47,36 +47,36 @@
         "id": "course_trouble",
         "question": "What happened to several bicycles on the course?",
         "options": [
-          "They broke down, and one rider had to fix a loose chain.",
-          "They became much faster than modern racing bikes.",
           "They left the yard and entered a busy street.",
+          "They became much faster than modern racing bikes.",
+          "They broke down, and one rider had to fix a loose chain.",
           "They stopped because the museum closed early."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "短文说 Several bicycles broke down on the course，而且一个 rider 花很多时间 fixing a loose chain。"
       },
       {
         "id": "winning_speed",
         "question": "How fast did the winning bicycle go?",
         "options": [
-          "Twelve miles an hour.",
+          "Two miles an hour.",
           "Forty miles an hour.",
           "One hundred miles an hour.",
-          "Two miles an hour."
+          "Twelve miles an hour."
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "explanation_zh": "获胜自行车只达到 only twelve miles an hour，速度不快，但比 tired rivals 稍快。"
       },
       {
         "id": "still_exciting",
         "question": "Why was the race still exciting?",
         "options": [
-          "Because the old machines had trouble but still finished like heroes.",
           "Because every bicycle was new and extremely fast.",
+          "Because the old machines had trouble but still finished like heroes.",
           "Because no rider entered the race at all.",
           "Because the museum gave everyone a modern racing bike."
         ],
-        "answer_index": 0,
+        "answer_index": 1,
         "explanation_zh": "结尾说 each old machine had finished like a hero。旧车慢、会坏，但能完成比赛，所以 no less exciting。"
       }
     ]
