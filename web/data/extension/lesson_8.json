@@ -7,7 +7,7 @@
       "competition",
       "neat",
       "larger than",
-      "works harder than",
+      "worked harder than",
       "more interesting",
       "wooden",
       "pool",
@@ -48,23 +48,23 @@
         "question": "How was Ben better in a different way?",
         "options": [
           "His desk was smaller and empty.",
-          "His desk was larger than Mia's, and he worked harder.",
           "He made a blue paper pool for Mia.",
+          "His desk was larger than Mia's, and he worked harder.",
           "He won a prize for the worst desk."
         ],
-        "answer_index": 1,
+        "answer_index": 2,
         "explanation_zh": "Ben 的优势是 size 和 effort：his desk was larger than Mia's, and he worked harder。"
       },
       {
         "id": "interesting_detail",
         "question": "What special detail made Mia's desk more interesting?",
         "options": [
-          "A tiny reading corner with a wooden bridge over a blue paper pool.",
           "A lunch box under a ruler.",
           "A pile of model trees with no path.",
-          "A bigger desk near the window."
+          "A bigger desk near the window.",
+          "A tiny reading corner with a wooden bridge over a blue paper pool."
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "explanation_zh": "短文说 Mia made a tiny reading corner with a wooden bridge over a blue paper pool。"
       },
       {
@@ -108,7 +108,7 @@
           "each year"
         ],
         "min_words": 10,
-        "sample": "Our class enters for the poster competition each year.",
+        "sample": "Our class enters for the city poster competition with new ideas each year.",
         "tip_zh": "enters for 后面接比赛名称；不要把 enter for 理解成“走进”。"
       },
       {
@@ -135,7 +135,7 @@
           "more interesting"
         ],
         "min_words": 12,
-        "sample": "Tom works harder than Amy, but Amy's project is more interesting.",
+        "sample": "Tom works harder than Amy, but Amy's science project is far more interesting.",
         "tip_zh": "but 后面不要重复同一个标准，要换成 design, idea, interest 这样的新角度。"
       },
       {
