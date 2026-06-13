@@ -889,6 +889,59 @@ Expected student output shape:
 Keep the exercise short. The goal is transfer of expectation, search, result,
 and contrast, not a new long story.
 
+## Extension Practice Direction
+
+Lesson 55 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_55.json` and register
+`55` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original treasure-search passage that is safe and small-scale: an old box
+in a cupboard, a school history display, or a permitted beach-clean activity.
+Keep the expectation-and-disappointment structure: a promising signal, excited
+search, tiny almost-worthless find, and hope that something valuable may appear
+later.
+
+Suggested title: `The Old Box Search`
+
+Recommended word bank: `treasure`, `detect`, `buried`, `cave`, `pirate`,
+`armed with`, `examine`, `showed that`, `almost worthless`, `in spite of`.
+
+The 5 reading questions should test:
+
+1. what the search party hoped to find
+2. what tool or clue made them excited
+3. what they actually found
+4. why the result was disappointing
+5. why hope remains in spite of the small result
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `Dreams of ... almost came true`
+   - Source: `Dreams of finding lost treasure almost came true recently.`
+   - Focus: expectation almost becoming real.
+   - Must include: `Dreams of` and `almost came true`
+2. `has been invented and ...`
+   - Source: `A new machine called 'The Revealer' has been invented.`
+   - Focus: passive present perfect for a new invention.
+   - Must include: `has been invented`
+3. `was used to detect ...`
+   - Source: `It has been used to detect gold which has been buried in the ground.`
+   - Focus: purpose of a tool.
+   - Must include: `was used to detect`
+4. `Armed with ..., ...`
+   - Source: `Armed with the new machine, a search party went into the cave...`
+   - Focus: opening a sentence with equipment or preparation.
+   - Must include: `Armed with`
+5. `In spite of this, ...`
+   - Source: `In spite of this, many people are confident...`
+   - Focus: hope despite disappointing evidence.
+   - Must include: `In spite of this`
+
 ## Chinese-To-English Exercise Direction
 
 The translation practice should reinforce the treasure-search chain and passive
@@ -1036,7 +1089,11 @@ then:
 
 `④ 英译中`
 
-`⑤ 默写`
+`⑤ 拓展阅读`
+
+`⑥ 句式仿写`
+
+`⑦ 默写`
 
 The final reminder should connect practice to the lesson goal:
 
@@ -1044,6 +1101,9 @@ The final reminder should connect practice to the lesson goal:
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_55.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 55 is ready for production when:
 
 - The opening hook is 4-6 spoken lines and does not retell the whole passage.

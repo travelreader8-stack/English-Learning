@@ -529,6 +529,59 @@ Target output pattern:
 
 Keep the scene reflective and practical, not pessimistic.
 
+## Extension Practice Direction
+
+Lesson 38 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_38.json` and register
+`38` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original passage about choosing where to live or study after seeing a
+beautiful place online. The character plans the house, school, and daily routine,
+but then checks the weather and realizes climate changes lifestyle. Reuse the
+Mediterranean-versus-England contrast as a transferable idea, not a geography
+lecture.
+
+Suggested title: `Everything Except the Rain`
+
+Recommended word bank: `Mediterranean`, `retire`, `settle down`, `complain`,
+`continually`, `bitterly`, `immediately`, `get a shock`, `bear`, `except`.
+
+The 5 reading questions should test:
+
+1. what dream the character had
+2. what they planned carefully
+3. what weather detail they forgot
+4. how the weather changed daily life
+5. why planning a life means thinking beyond the beautiful picture
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `had lived ... before ...`
+   - Source: `Harrison had lived in the Mediterranean for many years before he returned to England.`
+   - Focus: past perfect for a life before another past event.
+   - Must include: `had lived` and `before`
+2. `had often dreamed of ...`
+   - Source: `He had often dreamed of retiring in England.`
+   - Focus: a long-held dream.
+   - Must include: `had often dreamed of`
+3. `had no sooner ... than ...`
+   - Source: `He had no sooner returned than he bought a house.`
+   - Focus: one action happens immediately after another.
+   - Must include: `had no sooner` and `than`
+4. `even though ...`
+   - Source: `Even though it was still summer, it rained continually.`
+   - Focus: contrast between expectation and reality.
+   - Must include: `even though`
+5. `everything except ...`
+   - Source: `Harrison had thought of everything except the weather.`
+   - Focus: the missing factor in a plan.
+   - Must include: `everything except`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the dream-reality contrast,
@@ -610,7 +663,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -619,6 +674,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_38.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 38 production is acceptable only if:
 
 - The script frames the lesson as dream-life versus real-life climate, not just

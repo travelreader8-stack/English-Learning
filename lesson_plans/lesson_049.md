@@ -821,6 +821,58 @@ Keep it safe:
 - No climbing.
 - No heavy furniture accidents.
 
+## Extension Practice Direction
+
+Lesson 49 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_49.json` and register
+`49` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original safe modern story about a student saving up for a chair, desk,
+or mattress and discovering that a dream purchase still needs common sense. Keep
+the Tehran roof/courtyard background in the intro if useful, but the extension
+should avoid roofs, balconies, or dangerous sleeping arrangements.
+
+Suggested title: `The Windy Homework Day`
+
+Recommended word bank: `tired of`, `save up`, `owner`, `springs`, `mattress`,
+`gust of wind`, `sweep off`, `smash`, `unhurt`, `promptly`.
+
+The 5 reading questions should test:
+
+1. what the person was tired of
+2. what they saved up to buy
+3. why they moved it near a window or outside area
+4. what the wind did
+5. how the ending keeps the dream funny but safe
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `Tired of ..., ...`
+   - Source: `Tired of sleeping on the floor, a young man in Teheran saved up for years...`
+   - Focus: opening with a reason.
+   - Must include: `Tired of`
+2. `saved up for years to ...`
+   - Source: `He saved up for years to buy a real bed.`
+   - Focus: long effort toward a goal.
+   - Must include: `saved up for`
+3. `For the first time in his life, ...`
+   - Source: `For the first time in his life, he became the proud owner of a bed.`
+   - Focus: a major first experience.
+   - Must include: `For the first time in his life`
+4. `Because ..., ...`
+   - Source: `Because the weather was very hot, he carried the bed on to the roof.`
+   - Focus: reason leading to action.
+   - Must include: `Because`
+5. `Although ..., ...`
+   - Source: `Although the bed was smashed to pieces, the man was miraculously unhurt.`
+   - Focus: surprising contrast.
+   - Must include: `Although`
+
 ## Chinese-To-English Exercise Direction
 
 Use exercises that map directly to Lesson 49 structures.
@@ -935,7 +987,9 @@ Recommended flow:
 3. 完形填空
 4. 中译英
 5. 英译中
-6. 默写
+6. 拓展阅读
+7. 句式仿写
+8. 默写
 
 For Lesson 49, the final reminder can say:
 
@@ -943,6 +997,9 @@ For Lesson 49, the final reminder can say:
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_49.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 49 production is acceptable only if:
 
 - The student understands why the man carries the bed to the roof.

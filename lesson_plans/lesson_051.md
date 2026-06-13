@@ -911,6 +911,57 @@ Keep it natural:
 - Avoid making the child feel morally bad.
 - Keep the punchline light and recognizable.
 
+## Extension Practice Direction
+
+Lesson 51 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_51.json` and register
+`51` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original body-respectful story about a strict study plan, screen-time
+plan, or practice schedule rather than dieting. The student should learn the
+comic logic: strict rule, forbidden list, guilty hiding, and occasional reward.
+
+Suggested title: `A Reward for Study`
+
+Recommended word bank: `strict`, `forbidden`, `include`, `pay a visit`,
+`hide`, `obvious`, `embarrassed`, `guiltily`, `reward`, `occasionally`.
+
+The 5 reading questions should test:
+
+1. what plan the character decided to follow
+2. what was on the forbidden list
+3. what they hurriedly hid
+4. why they felt embarrassed
+5. why a plan that is too strict may lead to comic rewards
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `things got so bad that ...`
+   - Source: `Things got so bad recently that he decided to go on a diet.`
+   - Focus: a situation becoming serious enough to cause a decision.
+   - Must include: `so bad` and `that`
+2. `First of all, ...`
+   - Source: `First of all, he wrote out a long list...`
+   - Focus: first step in a plan.
+   - Must include: `First of all`
+3. `a list of ... which were forbidden`
+   - Source: `A long list of all the foods which were forbidden.`
+   - Focus: relative clause describing a list.
+   - Must include: `which were forbidden`
+4. `It was obvious that ...`
+   - Source: `It was obvious that he was very embarrassed.`
+   - Focus: visible feeling or fact.
+   - Must include: `It was obvious that`
+5. `so strict that ...`
+   - Source: `His diet was so strict that he had to reward himself occasionally.`
+   - Focus: degree causing result.
+   - Must include: `so strict that`
+
 ## Chinese-To-English Exercise Direction
 
 Use exercises that map directly to Lesson 51 structures.
@@ -1052,7 +1103,9 @@ Recommended flow:
 3. 完形填空
 4. 中译英
 5. 英译中
-6. 默写
+6. 拓展阅读
+7. 句式仿写
+8. 默写
 
 For Lesson 51, the final reminder can say:
 
@@ -1060,6 +1113,9 @@ For Lesson 51, the final reminder can say:
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_51.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 51 production is acceptable only if:
 
 - The lesson is framed as a comedy about strict rules, temptation, excuses, and

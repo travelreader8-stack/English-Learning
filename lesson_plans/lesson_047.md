@@ -533,6 +533,58 @@ Target output pattern:
 
 The exercise should make deduction grammar practical and age-appropriate.
 
+## Extension Practice Direction
+
+Lesson 47 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_47.json` and register
+`47` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original age-appropriate mystery in a classroom, club room, or family
+kitchen. Chairs are moved, lights are on, snacks are gone, and someone blames a
+ghost; the narrator uses evidence to suggest a human explanation. Avoid alcohol
+or pub role-play in the student-facing extension.
+
+Suggested title: `The Classroom Ghost`
+
+Recommended word bank: `haunted`, `strange noise`, `blocked`, `furniture`,
+`turn off`, `empty`, `must have`, `suggest`, `accept`, `give away`.
+
+The 5 reading questions should test:
+
+1. what evidence made the room look mysterious
+2. why someone thought it was a ghost
+3. what ordinary explanation the narrator suggested
+4. how `must have` shows a deduction about the past
+5. why evidence is better than fear
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `which was recently bought by ...`
+   - Source: `A public house which was recently bought by Mr. Ian Thompson is up for sale.`
+   - Focus: adding information with a relative clause.
+   - Must include: `which was recently bought by`
+2. `because it is haunted`
+   - Source: `He is going to sell it because it is haunted.`
+   - Focus: giving a belief or reason.
+   - Must include: `because it is`
+3. `heard ... coming from ...`
+   - Source: `He heard a strange noise coming from the bar.`
+   - Focus: hearing an ongoing sound from a place.
+   - Must include: `heard` and `coming from`
+4. `found that ... had been ...`
+   - Source: `He found that the doors had been blocked by chairs.`
+   - Focus: discovering a passive result.
+   - Must include: `found that` and `had been`
+5. `must have ...`
+   - Source: `The ghost must have drunk the whisky.`
+   - Focus: deduction about the past.
+   - Must include: `must have`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the haunted-pub story,
@@ -614,7 +666,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -623,6 +677,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_47.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 47 production is acceptable only if:
 
 - The story spine and recitation support are Chinese-first, with English chunks

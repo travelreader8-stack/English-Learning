@@ -991,6 +991,59 @@ Expected student output shape:
 Keep the exercise short. The goal is transfer of appearance judgment and the
 language contrast, not revenge behavior.
 
+## Extension Practice Direction
+
+Lesson 57 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_57.json` and register
+`57` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original customer-service passage about someone being judged by casual
+clothes and later being treated differently when the context is clear. Keep the
+social lesson: appearance is not character, and respect should not depend on
+clothes. Avoid revenge role-play.
+
+Suggested title: `The Casual Hoodie Visit`
+
+Recommended word bank: `hesitate`, `assistant`, `serve`,
+`the way she was dressed`, `glancing`, `scornfully`, `following morning`,
+`eager`, `with great difficulty`, `appearance`.
+
+The 5 reading questions should test:
+
+1. why the assistant judged the customer
+2. what the customer asked to see
+3. what changed the next day
+4. how the assistant behaved differently
+5. the lesson: do not judge people by appearance
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `Though ..., ... finally ...`
+   - Source: `Though she hesitated for a moment, she finally went in.`
+   - Focus: overcoming hesitation.
+   - Must include: `Though` and `finally`
+2. `did not like the way ... was dressed`
+   - Source: `The assistant did not like the way she was dressed.`
+   - Focus: appearance judgment.
+   - Must include: `the way` and `was dressed`
+3. `Glancing at ... scornfully, ...`
+   - Source: `Glancing at her scornfully, he told her that the dress was sold.`
+   - Focus: participle opener showing attitude.
+   - Must include: `Glancing at` and `scornfully`
+4. `Not realizing who ... was, ...`
+   - Source: `Not realizing who she was, the assistant was eager to serve her.`
+   - Focus: action based on mistaken identity.
+   - Must include: `Not realizing who`
+5. `with great difficulty`
+   - Source: `With great difficulty, he climbed into the shop window.`
+   - Focus: effortful action.
+   - Must include: `with great difficulty`
+
 ## Chinese-To-English Exercise Direction
 
 The translation practice should reinforce the shopping sequence, social
@@ -1149,7 +1202,11 @@ then:
 
 `④ 英译中`
 
-`⑤ 默写`
+`⑤ 拓展阅读`
+
+`⑥ 句式仿写`
+
+`⑦ 默写`
 
 The final reminder should connect practice to the lesson goal:
 
@@ -1157,6 +1214,9 @@ The final reminder should connect practice to the lesson goal:
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_57.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 57 is ready for production when:
 
 - The opening hook is 4-6 spoken lines and does not retell the whole passage.

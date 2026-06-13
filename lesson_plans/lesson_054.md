@@ -865,6 +865,58 @@ Expected student output shape:
 Keep the exercise light and funny. The goal is transfer of timing and
 interruption language, not a new long passage.
 
+## Extension Practice Direction
+
+Lesson 54 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_54.json` and register
+`54` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original interruption-comedy passage about a child doing a craft project,
+baking, or repairing something sticky. The story should build a chain of
+interruptions: sticky hands, phone/message, cleanup, then doorbell or delivery.
+Keep it light and visual.
+
+Suggested title: `The Glue Fingers Problem`
+
+Recommended word bank: `sticky`, `pastry`, `receiver`, `dismayed`, `recognize`,
+`persuade`, `ring back`, `mess`, `no sooner`, `sign for`.
+
+The 5 reading questions should test:
+
+1. what the person was doing when their hands became sticky
+2. what happened at exactly that moment
+3. why answering was annoying
+4. what mess was left behind
+5. how the second interruption creates the joke
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `It was still ... when ...`
+   - Source: `It was still early when I returned home.`
+   - Focus: time background.
+   - Must include: `It was still` and `when`
+2. `In a short time, ...`
+   - Source: `In a short time I was busy mixing butter and flour.`
+   - Focus: quick movement into an activity.
+   - Must include: `In a short time`
+3. `At exactly that moment, ...`
+   - Source: `At exactly that moment, the telephone rang.`
+   - Focus: comic timing.
+   - Must include: `At exactly that moment`
+4. `Nothing could have been more ...`
+   - Source: `Nothing could have been more annoying.`
+   - Focus: strong complaint.
+   - Must include: `Nothing could have been more`
+5. `had no sooner ... than ...`
+   - Source: `I had no sooner got back to the kitchen than the doorbell rang.`
+   - Focus: second interruption immediately after the first.
+   - Must include: `had no sooner` and `than`
+
 ## Chinese-To-English Exercise Direction
 
 The translation practice should reinforce the mess chain and the timing
@@ -994,7 +1046,11 @@ then:
 
 `④ 英译中`
 
-`⑤ 默写`
+`⑤ 拓展阅读`
+
+`⑥ 句式仿写`
+
+`⑦ 默写`
 
 The final reminder should connect practice to the lesson goal:
 
@@ -1002,6 +1058,9 @@ The final reminder should connect practice to the lesson goal:
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_54.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 54 is ready for production when:
 
 - The opening hook is 4-6 spoken lines and does not retell the whole passage.

@@ -509,6 +509,58 @@ Target output pattern:
 
 The exercise should make the modal verbs useful in a real conversation.
 
+## Extension Practice Direction
+
+Lesson 41 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_41.json` and register
+`41` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original shopping passage about a friend choosing an unusual hat, jacket,
+or phone case. The scene should teach cultural politeness: you may disagree, but
+you do not humiliate someone. Include the practical modal contrast `needn't`,
+`mustn't`, and `needn't have said`.
+
+Suggested title: `A More Polite Opinion`
+
+Recommended word bank: `rude`, `mirror`, `try on`, `needn't`, `mustn't`,
+`regret`, `remind`, `tie`, `lighthouse`, `budget`.
+
+The 5 reading questions should test:
+
+1. what unusual item was chosen
+2. why the first comment sounded rude
+3. what the speaker should not spend or buy
+4. how the speaker repaired the comment
+5. the social lesson: honest opinions need kind language
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `Do you call that ...?`
+   - Source: `Do you call that a hat?`
+   - Focus: a sharp rhetorical question; use carefully.
+   - Must include: `Do you call that`
+2. `needn't be so ...`
+   - Source: `You needn't be so rude about it.`
+   - Focus: telling someone an action is unnecessary.
+   - Must include: `needn't be so`
+3. `mustn't buy things we don't need`
+   - Source: `We mustn't buy things we don't need.`
+   - Focus: rule or self-control.
+   - Must include: `mustn't`
+4. `regretted saying ...`
+   - Source: `I regretted saying it almost at once.`
+   - Focus: immediate regret after speaking.
+   - Must include: `regretted saying`
+5. `needn't have said ...`
+   - Source: `You needn't have said that.`
+   - Focus: past unnecessary action.
+   - Must include: `needn't have said`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the hat-shop chain and modal
@@ -588,7 +640,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -597,6 +651,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_41.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 41 production is acceptable only if:
 
 - The script explains Western hat culture enough for the hat shop and formal

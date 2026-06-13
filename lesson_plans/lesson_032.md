@@ -435,6 +435,58 @@ Target output pattern:
 
 Keep the focus on rule, trust, and repair.
 
+## Extension Practice Direction
+
+Lesson 32 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_32.json` and register
+`32` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original store story with a modern shopping setting: a large shop,
+self-checkout, a camera, a detective, or a careful assistant. The passage should
+reuse the honesty theme and the hidden-collusion twist without making theft feel
+clever or admirable.
+
+Suggested title: `The Free Headphones`
+
+Recommended word bank: `honest`, `temptation`, `steal`, `detective`,
+`assistant`, `expensive`, `parcel`, `without paying`, `arrested`, `found out`.
+
+The 5 reading questions should test:
+
+1. why the detective watched the shopper
+2. what expensive item was chosen
+3. how the shopper tried to leave without paying
+4. what hidden relationship explained the trick
+5. the moral point: convenience does not remove honesty
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `not so ... as ... once were`
+   - Source: `People are not so honest as they once were.`
+   - Focus: comparing now with the past.
+   - Must include: `not so` and `as they once were`
+2. `greater than ever before`
+   - Source: `The temptation to steal is greater than ever before.`
+   - Focus: emphasizing a modern problem.
+   - Must include: `greater than ever before`
+3. `fewer ... than usual`
+   - Source: `There were fewer people in the shop than usual.`
+   - Focus: a comparison that helps explain why watching was easier.
+   - Must include: `fewer` and `than usual`
+4. `as quickly as possible`
+   - Source: `The assistant wrapped it up for her as quickly as possible.`
+   - Focus: speed with a hidden purpose.
+   - Must include: `as quickly as possible`
+5. `found out that ...`
+   - Source: `The detective found out that the shop assistant was her daughter.`
+   - Focus: revealing the hidden explanation.
+   - Must include: `found out that`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the detective chain and
@@ -510,7 +562,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -519,6 +573,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_32.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 A Lesson 32 production is acceptable only if:
 
 - The script explains `Shopping made easy` as irony, not as a real shopping tip.
@@ -543,4 +600,3 @@ A Lesson 32 production is acceptable only if:
 - The read-aloud step is included in the lesson flow.
 - No shared platform files are edited unless the user explicitly asks for that
   in the production thread.
-

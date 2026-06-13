@@ -470,6 +470,58 @@ Target output pattern:
 
 The exercise should make future plans feel practical and personal.
 
+## Extension Practice Direction
+
+Lesson 36 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_36.json` and register
+`36` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original passage about a carefully supervised long-distance swim or
+charity sports challenge. The student should see the English Channel geography,
+training, support boat, planned rests, and waiting family or friends. Keep the
+achievement inspiring but safe and adult-supervised.
+
+Suggested title: `The Long Swim Plan`
+
+Recommended word bank: `swim across`, `set out`, `coast`, `record`, `strong`,
+`train`, `anxiously`, `distance`, `take short rests`, `waiting`.
+
+The 5 reading questions should test:
+
+1. what challenge the swimmer is going to try
+2. where the swimmer will set out from
+3. who will watch or support the swimmer
+4. how the swimmer plans to rest or drink
+5. why preparation matters more than courage alone
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `is going to ...`
+   - Source: `Debbie Hart is going to swim across the English Channel tomorrow.`
+   - Focus: planned future action.
+   - Must include: `is going to`
+2. `hopes to ...`
+   - Source: `She hopes to set up a new world record.`
+   - Focus: goal or ambition.
+   - Must include: `hopes to`
+3. `is sure to ...`
+   - Source: `Many people feel that she is sure to succeed.`
+   - Focus: strong expectation.
+   - Must include: `is sure to`
+4. `will be watching ... as ...`
+   - Source: `Mr. Hart will be watching her anxiously as she swims the long distance to England.`
+   - Focus: future continuous during another action.
+   - Must include: `will be watching` and `as`
+5. `intends to ... every ...`
+   - Source: `Debbie intends to take short rests every two hours.`
+   - Focus: planned routine.
+   - Must include: `intends to` and `every`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the route, support plan, and
@@ -555,7 +607,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -564,6 +618,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_36.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 36 production is acceptable only if:
 
 - The script explains the English Channel as the sea between France and England,

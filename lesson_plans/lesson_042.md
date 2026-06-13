@@ -557,6 +557,59 @@ Target output pattern:
 The exercise should make the student describe a scene, not just translate
 sentences.
 
+## Extension Practice Direction
+
+Lesson 42 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_42.json` and register
+`42` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original market or street-performance passage in another city. The
+student should practise respectful cultural curiosity: first the performance
+looks mysterious, then the narrator notices a simple explanation. Avoid treating
+Indian culture as strange or primitive; the focus is observation and not jumping
+to conclusions.
+
+Suggested title: `The Music in the Square`
+
+Recommended word bank: `market`, `square`, `performer`, `basket`, `pipe`,
+`tune`, `first glimpse`, `movement`, `obviously`, `tell the difference`.
+
+The 5 reading questions should test:
+
+1. why the visitors stopped in the square
+2. what performance they noticed
+3. what they saw at the first glimpse
+4. what simple explanation they later understood
+5. the cultural lesson: curiosity needs careful observation
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `As we had ..., we stopped to ...`
+   - Source: `As we had had a long walk through one of the markets of old Delhi, we stopped at a square to have a rest.`
+   - Focus: reason plus result after a long previous action.
+   - Must include: `As we had` and `stopped`
+2. `After a time, we noticed ...`
+   - Source: `After a time, we noticed a snake charmer.`
+   - Focus: slow observation in a scene.
+   - Must include: `After a time`
+3. `As soon as he saw us, ...`
+   - Source: `As soon as he saw us, he picked up a long pipe.`
+   - Focus: immediate action after seeing someone.
+   - Must include: `As soon as`
+4. `had our first glimpse of ...`
+   - Source: `We had our first glimpse of the snake.`
+   - Focus: first brief look at something.
+   - Must include: `first glimpse`
+5. `could not tell the difference between ... and ...`
+   - Source: `It obviously could not tell the difference between Indian music and jazz.`
+   - Focus: comparing two things someone cannot distinguish.
+   - Must include: `tell the difference between`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the Old Delhi scene, time
@@ -632,7 +685,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -641,6 +696,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_42.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 42 production is acceptable only if:
 
 - The script explains the Old Delhi / New Delhi distinction simply and visually.

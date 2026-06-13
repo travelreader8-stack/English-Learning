@@ -946,6 +946,59 @@ Expected student output shape:
 Keep the exercise short. The goal is transfer of vague prediction, timing
 connectors, and ordinary explanation.
 
+## Extension Practice Direction
+
+Lesson 60 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_60.json` and register
+`60` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original school-fair or app-prediction passage. The prediction should
+sound mysterious at first but be explained by ordinary timing and coincidence.
+Do not encourage belief in fortune-telling; keep the focus on future forms,
+timing connectors, and critical thinking.
+
+Suggested title: `The Prediction App`
+
+Recommended word bank: `fortune-teller`, `crystal ball`, `relation`,
+`arrive`, `intend`, `The moment`, `rush towards`, `impatiently`, `less than`,
+`coincidence`.
+
+The 5 reading questions should test:
+
+1. what prediction was made
+2. what happened the moment the narrator left
+3. who was really coming to visit
+4. why the prediction seemed true
+5. why an ordinary explanation is more sensible
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `decided to visit ...`
+   - Source: `I decided to visit a fortune-teller called Madam Bellinsky.`
+   - Focus: choosing to try something.
+   - Must include: `decided to visit`
+2. `After I had ..., ...`
+   - Source: `After I had given her some money, she looked into a crystal ball.`
+   - Focus: past perfect before another past action.
+   - Must include: `After I had`
+3. `will be arriving ...`
+   - Source: `She will be arriving this evening.`
+   - Focus: arranged future.
+   - Must include: `will be arriving`
+4. `The moment ..., ...`
+   - Source: `The moment you leave this tent, you will get a big surprise.`
+   - Focus: immediate timing.
+   - Must include: `The moment`
+5. `As soon as ..., ...`
+   - Source: `As soon as I went outside, I forgot all about Madam Bellinsky.`
+   - Focus: one action immediately after another.
+   - Must include: `As soon as`
+
 ## Chinese-To-English Exercise Direction
 
 The translation practice should reinforce the prediction chain, timing
@@ -1097,7 +1150,11 @@ then:
 
 `④ 英译中`
 
-`⑤ 默写`
+`⑤ 拓展阅读`
+
+`⑥ 句式仿写`
+
+`⑦ 默写`
 
 The final reminder should connect practice to the lesson goal:
 
@@ -1105,6 +1162,9 @@ The final reminder should connect practice to the lesson goal:
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_60.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 60 is ready for production when:
 
 - The opening hook is 4-6 spoken lines and does not retell the whole passage.

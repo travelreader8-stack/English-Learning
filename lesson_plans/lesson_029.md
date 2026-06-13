@@ -446,6 +446,58 @@ Target output pattern:
 
 Keep the focus on professional judgment and safe refusal.
 
+## Extension Practice Direction
+
+Lesson 29 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_29.json` and register
+`29` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original passage about a small air service that helps people reach places
+normal transport cannot reach, such as a mountain clinic, a snowy village, or a
+small island. Keep the wonder of the unusual taxi, but include judgment: the
+pilot accepts useful trips and refuses dangerous ones.
+
+Suggested title: `The Small Plane Service`
+
+Recommended word bank: `taxi`, `aeroplane`, `passenger`, `land`, `mountain`,
+`village`, `unusual`, `request`, `dangerous`, `refuse`.
+
+The 5 reading questions should test:
+
+1. what makes the plane different from an ordinary taxi
+2. where it can land
+3. who needed the service and why
+4. which request the pilot refused
+5. why safety matters more than an exciting trip
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `has bought ... and has begun ...`
+   - Source: `Captain Ben Fawcett has bought an unusual taxi and has begun a new service.`
+   - Focus: present perfect for a new change that matters now.
+   - Must include: `has bought` and `has begun`
+2. `The most surprising thing about it is that ...`
+   - Source: `The most surprising thing about it, however, is that it can land anywhere.`
+   - Focus: introducing the key amazing fact.
+   - Must include: `The most surprising thing about it`
+3. `can land anywhere: ...`
+   - Source: `It can land anywhere: on snow, water, or even on a ploughed field.`
+   - Focus: a vivid list after a colon.
+   - Must include: `can land anywhere`
+4. `Since then, ... has ...`
+   - Source: `Since then, Captain Fawcett has flown passengers to many unusual places.`
+   - Focus: actions continuing from a past starting point.
+   - Must include: `Since then`
+5. `refused ... because ...`
+   - Source: `Captain Fawcett did not take him because the trip was too dangerous.`
+   - Focus: giving a clear safety reason.
+   - Must include: `refused` and `because`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the memory map and present
@@ -518,7 +570,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -527,6 +581,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_29.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 A Lesson 29 production is acceptable only if:
 
 - The script explains the title joke: the taxi is actually a small aeroplane.
@@ -554,4 +611,3 @@ A Lesson 29 production is acceptable only if:
 - The read-aloud step is included in the lesson flow.
 - No shared platform files are edited unless the user explicitly asks for that
   in the production thread.
-

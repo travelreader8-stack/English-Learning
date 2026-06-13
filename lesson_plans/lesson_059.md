@@ -987,6 +987,57 @@ Expected student output shape:
 Keep the exercise short. The goal is transfer of the repeated-action loop and
 the unintended-consequence joke, not a new long story.
 
+## Extension Practice Direction
+
+Lesson 59 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_59.json` and register
+`59` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original repeated-habit passage about a pet, younger sibling, or smart
+door button that solves one problem and creates another. Keep the loop clear:
+old habit, training, new skill, unintended use, repeated cycle.
+
+Suggested title: `The Doorbell Button`
+
+Recommended word bank: `front gate`, `bark`, `neighbour`, `complain`, `latch`,
+`let himself in`, `expert`, `so that`, `bad habit`, `immediately`.
+
+The 5 reading questions should test:
+
+1. what the old habit was
+2. why someone trained the new action
+3. what skill was learned
+4. how the skill created a new problem
+5. why removing or changing the system broke the loop
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `used to ...`
+   - Source: `Rex used to sit outside our front gate and bark.`
+   - Focus: old repeated habit.
+   - Must include: `used to`
+2. `Every time ..., ... would ... until ...`
+   - Source: `Every time he wanted to come into the garden he would bark until someone opened the gate.`
+   - Focus: repeated action loop.
+   - Must include: `Every time` and `until`
+3. `spent weeks training ... to ...`
+   - Source: `My husband spent weeks training him to press his paw on the latch.`
+   - Focus: time spent teaching a skill.
+   - Must include: `spent` and `training`
+4. `so that ... would ...`
+   - Source: `This time he was barking so that someone would let him out.`
+   - Focus: purpose.
+   - Must include: `so that` and `would`
+5. `As soon as ..., ... until ...`
+   - Source: `As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts.`
+   - Focus: sequence inside a loop.
+   - Must include: `As soon as` and `until`
+
 ## Chinese-To-English Exercise Direction
 
 The translation practice should reinforce the gate loop, direction words, and
@@ -1147,7 +1198,11 @@ then:
 
 `④ 英译中`
 
-`⑤ 默写`
+`⑤ 拓展阅读`
+
+`⑥ 句式仿写`
+
+`⑦ 默写`
 
 The final reminder should connect practice to the lesson goal:
 
@@ -1155,6 +1210,9 @@ The final reminder should connect practice to the lesson goal:
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_59.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 59 is ready for production when:
 
 - The opening hook is 4-6 spoken lines and does not retell the whole passage.

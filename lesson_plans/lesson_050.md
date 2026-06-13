@@ -915,6 +915,58 @@ Keep it natural:
 - Keep `conductor` for the original passage.
 - Do not put the child in a scary lost situation.
 
+## Extension Practice Direction
+
+Lesson 50 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_50.json` and register
+`50` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original shuttle-bus or campus-bus story. A student asks where to get off,
+sits in front to enjoy the view, then realizes the bus has reached the last
+stop. Because conductors are rare today, use `attendant`, `driver`, or
+`staff member` for the modern reading.
+
+Suggested title: `The Last Stop`
+
+Recommended word bank: `excursion`, `lose my way`, `conductor`, `get off`,
+`front`, `view`, `countryside`, `realize`, `as far as`, `in that case`.
+
+The 5 reading questions should test:
+
+1. where the passenger wanted to go
+2. what help they asked for
+3. why they sat in front
+4. what they realized at the last stop
+5. why staying on the bus became the simplest choice
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `I love ..., but I don't like ...`
+   - Source: `I love travelling in the country, but I don't like losing my way.`
+   - Focus: contrast between enjoyment and worry.
+   - Must include: `I love` and `but I don't like`
+2. `took me longer than I expected`
+   - Source: `My trip took me longer than I expected.`
+   - Focus: real result compared with expectation.
+   - Must include: `longer than I expected`
+3. `where to get off`
+   - Source: `I'll tell you where to get off.`
+   - Focus: question word plus infinitive.
+   - Must include: `where to get off`
+4. `Looking round, I realized ...`
+   - Source: `Looking round, I realized with a shock that I was the only passenger left.`
+   - Focus: observation leading to realization.
+   - Must include: `Looking round` and `realized`
+5. `In that case, I prefer to ...`
+   - Source: `In that case, I prefer to stay on the bus.`
+   - Focus: decision after new information.
+   - Must include: `In that case`
+
 ## Chinese-To-English Exercise Direction
 
 Use exercises that map directly to Lesson 50 structures.
@@ -1068,7 +1120,9 @@ Recommended flow:
 3. 完形填空
 4. 中译英
 5. 英译中
-6. 默写
+6. 拓展阅读
+7. 句式仿写
+8. 默写
 
 For Lesson 50, the final reminder can say:
 
@@ -1076,6 +1130,9 @@ For Lesson 50, the final reminder can say:
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_50.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 50 production is acceptable only if:
 
 - The student can clearly imagine an old bus with both driver and conductor.

@@ -1088,6 +1088,59 @@ Suggested exchanges:
 
 Keep the exercise encouraging rather than evaluative.
 
+## Extension Practice Direction
+
+Lesson 63 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_63.json` and register
+`63` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original public-speaking passage. A student prepares a short speech with
+a funny story, hears classmates laugh, worries they are laughing at him, and
+learns the difference between friendly laughter and ridicule. Keep the extension
+encouraging for public expression in Chinese or English.
+
+Suggested title: `They Were Laughing With Me`
+
+Recommended word bank: `large circle of friends`, `sense of humour`, `speech`,
+`reception`, `include`, `great success`, `disappointed`, `on the way home`,
+`to his surprise`, `laugh at`.
+
+The 5 reading questions should test:
+
+1. what speech or presentation the student prepared
+2. what funny story was included
+3. why the laughter made the student nervous
+4. what the teacher or parent explained
+5. how the story encourages confident speaking
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `admire ... for ...`
+   - Source: `Everybody admires him for his great sense of humour.`
+   - Focus: reason for admiration.
+   - Must include: `admire` and `for`
+2. `asked him to make a speech`
+   - Source: `One of Jeremy's closest friends asked him to make a speech.`
+   - Focus: asking someone to perform a task.
+   - Must include: `asked` and `to make a speech`
+3. `This is the sort of thing that ...`
+   - Source: `This is the sort of thing that Jeremy loves.`
+   - Focus: describing a kind of activity someone likes.
+   - Must include: `the sort of thing that`
+4. `As soon as he had finished, ...`
+   - Source: `As soon as he had finished, Jenny told him she wanted to go home.`
+   - Focus: action immediately after completion.
+   - Must include: `As soon as` and `had finished`
+5. `To his surprise, ...`
+   - Source: `To his surprise, she said she hadn't.`
+   - Focus: unexpected answer.
+   - Must include: `To his surprise`
+
 ## Chinese-To-English Exercise Direction
 
 If production creates guided translation prompts inside lesson-local materials,
@@ -1251,6 +1304,9 @@ cramped on desktop or mobile.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_63.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 - `lesson_plans/lesson_063.md` is the production source of truth for Lesson 63.
 - The root `LESSON_PRODUCTION_PLAN.md` index includes Lesson 63 and points the
   future placeholder to Lesson 64.

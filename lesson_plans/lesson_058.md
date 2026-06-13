@@ -988,6 +988,59 @@ Expected student output shape:
 Keep the exercise short. The goal is transfer of rumor, attention, income, and
 ironic evidence, not a new scary story.
 
+## Extension Practice Direction
+
+Lesson 58 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_58.json` and register
+`58` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original rumor-to-tourism passage about a small cafe, old chair, bridge,
+or tree that becomes famous online. The passage should make
+`blessing in disguise` concrete: a bad reputation unexpectedly brings visitors
+and income, but people should still respect the place.
+
+Suggested title: `The Unlucky Chair`
+
+Recommended word bank: `blessing in disguise`, `is said to`, `possess`,
+`cursed`, `reputation`, `victim`, `cut down`, `source of income`, `in spite of`,
+`so far`.
+
+The 5 reading questions should test:
+
+1. what object had a strange reputation
+2. why visitors increased
+3. what people said would happen
+4. why the owner refused to remove it
+5. how the evidence undercuts the rumor
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `is said to possess ...`
+   - Source: `The tiny village of Frinley is said to possess a 'cursed tree'.`
+   - Focus: reporting a rumour.
+   - Must include: `is said to possess`
+2. `Because ..., the number of ... has increased`
+   - Source: `Because the tree was mentioned in a newspaper, the number of visitors has now increased.`
+   - Focus: cause and result with present perfect.
+   - Must include: `the number of` and `has increased`
+3. `It is said that if ..., ...`
+   - Source: `It is said that if anyone touches the tree, he will have bad luck.`
+   - Focus: reporting a conditional belief.
+   - Must include: `It is said that if`
+4. `has pointed out that ...`
+   - Source: `He has pointed out that the tree is a useful source of income.`
+   - Focus: giving a practical argument.
+   - Must include: `has pointed out that`
+5. `So far, not one of them has ...`
+   - Source: `So far, not one of them has been struck down by sudden death.`
+   - Focus: evidence up to now.
+   - Must include: `So far, not one of them has`
+
 ## Chinese-To-English Exercise Direction
 
 The translation practice should reinforce the rumor-to-income chain and the
@@ -1148,7 +1201,11 @@ then:
 
 `④ 英译中`
 
-`⑤ 默写`
+`⑤ 拓展阅读`
+
+`⑥ 句式仿写`
+
+`⑦ 默写`
 
 The final reminder should connect practice to the lesson goal:
 
@@ -1156,6 +1213,9 @@ The final reminder should connect practice to the lesson goal:
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_58.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 58 is ready for production when:
 
 - The opening hook is 4-6 spoken lines and does not retell the whole passage.

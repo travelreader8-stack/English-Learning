@@ -829,6 +829,58 @@ Expected student output shape:
 Keep the exercise short. The goal is transfer of investigation language, not a
 new long story.
 
+## Extension Practice Direction
+
+Lesson 53 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_53.json` and register
+`53` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original investigation passage about a harmless mystery such as a wet
+backpack, a burnt smell in a classroom, or a broken charger. The structure should
+mirror the forest-fire investigation: common causes are checked first, then an
+unusual but simple cause is discovered. Avoid unsafe power-line imitation.
+
+Suggested title: `The Wet Backpack Mystery`
+
+Recommended word bank: `at last`, `put out`, `find out`, `cause`, `carelessly`,
+`examine`, `quite sure`, `accidentally`, `in this way`, `explanation`.
+
+The 5 reading questions should test:
+
+1. what mystery was being investigated
+2. what common causes were checked first
+3. what evidence was not found
+4. what unusual cause was discovered
+5. how the mystery was solved logically
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `At last, ...`
+   - Source: `At last firemen have put out a big forest fire.`
+   - Focus: relief after a long problem.
+   - Must include: `At last`
+2. `Since then, ... have been trying to ...`
+   - Source: `Since then, they have been trying to find out how the fire began.`
+   - Focus: ongoing investigation since a point in time.
+   - Must include: `Since then` and `have been trying to`
+3. `are often caused by ...`
+   - Source: `Forest fires are often caused by broken glass or by cigarette ends.`
+   - Focus: passive cause.
+   - Must include: `are often caused by`
+4. `was not able to find ...`
+   - Source: `They were not able to find any broken glass.`
+   - Focus: failure to find evidence.
+   - Must include: `was not able to find`
+5. `In this way, ... solved the mystery`
+   - Source: `In this way, he was able to solve the mystery.`
+   - Focus: explaining how a mystery was solved.
+   - Must include: `In this way` and `mystery`
+
 ## Chinese-To-English Exercise Direction
 
 The translation practice should reinforce meaning chunks, not word-for-word
@@ -956,7 +1008,11 @@ then:
 
 `④ 英译中`
 
-`⑤ 默写`
+`⑤ 拓展阅读`
+
+`⑥ 句式仿写`
+
+`⑦ 默写`
 
 The final reminder should connect practice to the lesson goal:
 
@@ -964,6 +1020,9 @@ The final reminder should connect practice to the lesson goal:
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_53.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 53 is ready for production when:
 
 - The opening hook is 4-6 spoken lines and does not retell the whole passage.

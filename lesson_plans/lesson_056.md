@@ -881,6 +881,57 @@ Expected student output shape:
 Keep the exercise short. The goal is transfer of quantity, race sequence,
 breakdown humor, and `no less exciting`, not a new long sports story.
 
+## Extension Practice Direction
+
+Lesson 56 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_56.json` and register
+`56` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original old-bike, model-car, or school cart race passage. The race should
+be slow, funny, and safe: old vehicles break down, a few finish, and the winner
+is not fast by modern standards but still exciting.
+
+Suggested title: `The Old Bike Race`
+
+Recommended word bank: `once a year`, `race`, `entered`, `excitement`,
+`handsome`, `take part`, `break down`, `course`, `rival`, `no less exciting`.
+
+The 5 reading questions should test:
+
+1. what kind of race was held
+2. which vehicle was oldest or most unusual
+3. what happened to many vehicles on the course
+4. how fast the winner went
+5. why the race was still exciting
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `Once a year, ... is held`
+   - Source: `Once a year, a race is held for old cars.`
+   - Focus: passive for regular events.
+   - Must include: `Once a year` and `is held`
+2. `a great deal of ...`
+   - Source: `There was a great deal of excitement just before it began.`
+   - Focus: uncountable quantity.
+   - Must include: `a great deal of`
+3. `Built in ..., ...`
+   - Source: `Built in 1885, it was the oldest car taking part.`
+   - Focus: compact past-participle opener.
+   - Must include: `Built in`
+4. `spent more time ... than ...`
+   - Source: `Some drivers spent more time under their cars than in them.`
+   - Focus: comic comparison.
+   - Must include: `spent more time` and `than`
+5. `very different from ... but no less exciting`
+   - Source: `It was very different from modern car races but no less exciting.`
+   - Focus: contrast without lowering value.
+   - Must include: `very different from` and `no less exciting`
+
 ## Chinese-To-English Exercise Direction
 
 The translation practice should reinforce the race chain, quantity expressions,
@@ -1044,7 +1095,11 @@ then:
 
 `④ 英译中`
 
-`⑤ 默写`
+`⑤ 拓展阅读`
+
+`⑥ 句式仿写`
+
+`⑦ 默写`
 
 The final reminder should connect practice to the lesson goal:
 
@@ -1052,6 +1107,9 @@ The final reminder should connect practice to the lesson goal:
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_56.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 56 is ready for production when:
 
 - The opening hook is 4-6 spoken lines and does not retell the whole passage.

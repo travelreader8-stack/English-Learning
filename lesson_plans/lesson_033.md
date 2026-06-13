@@ -444,6 +444,58 @@ Target output pattern:
 
 Keep the focus on safe judgment and clear direction.
 
+## Extension Practice Direction
+
+Lesson 33 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_33.json` and register
+`33` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original coastal safety passage: a teen or family member is caught in bad
+weather near the coast, follows a lighthouse or high cliff light, reaches shore,
+and is helped. Keep it calm and age-appropriate; the point is sequence,
+direction, and endurance, not danger for its own sake.
+
+Suggested title: `The Light on the Cliff`
+
+Recommended word bank: `coast`, `storm`, `shore`, `cliff`, `light ahead`,
+`set out`, `be caught in`, `cover a distance`, `struggle up`, `hospital`.
+
+The 5 reading questions should test:
+
+1. where the person set out from
+2. what weather problem happened
+3. what light helped them find the shore
+4. what they did after reaching land
+5. why the story is about direction and survival
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `Nearly ... passed before ...`
+   - Source: `Nearly a week passed before the girl was able to explain what had happened to her.`
+   - Focus: a delay before someone can explain.
+   - Must include: `passed before`
+2. `set out from ...`
+   - Source: `She set out from the coast in a small boat.`
+   - Focus: starting point in a journey.
+   - Must include: `set out from`
+3. `was caught in ...`
+   - Source: `She was caught in a storm.`
+   - Focus: suddenly being trapped by weather or trouble.
+   - Must include: `was caught in`
+4. `after spending ...`
+   - Source: `She swam to the shore after spending the whole night in the water.`
+   - Focus: action after a long difficult period.
+   - Must include: `after spending`
+5. `On arriving at ..., ...`
+   - Source: `On arriving at the shore, the girl struggled up the cliff.`
+   - Focus: formal sequence, meaning as soon as she arrived.
+   - Must include: `On arriving at`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the survival route and time
@@ -520,7 +572,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -529,6 +583,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_33.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 33 production is acceptable only if:
 
 - The script explains the title as both literal darkness and a move toward hope

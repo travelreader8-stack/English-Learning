@@ -578,6 +578,58 @@ Target output pattern:
 The exercise should make the target phrases useful without imitating the unsafe
 airport story.
 
+## Extension Practice Direction
+
+Lesson 46 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_46.json` and register
+`46` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original safe discovery story about a strangely heavy school delivery box
+or storage box. The passage should reuse the cargo mystery and `account for`
+logic, but it must not make hiding in cargo seem adventurous. A responsible
+adult opens or checks the box.
+
+Suggested title: `The Heavy Box`
+
+Recommended word bank: `airport`, `unload`, `wooden box`, `account for`,
+`extremely`, `occurred`, `astonished`, `admit`, `confined`, `normal price`.
+
+The 5 reading questions should test:
+
+1. what made the box seem strange
+2. who decided what to do next
+3. what was found inside
+4. what someone admitted doing
+5. why shortcuts that avoid rules can become more expensive or dangerous
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `When ..., workers began to ...`
+   - Source: `When a plane from London arrived at Sydney airport, workers began to unload...`
+   - Focus: time clause plus main action.
+   - Must include: `When` and `began to`
+2. `No one could account for the fact that ...`
+   - Source: `No one could account for the fact that one of the boxes was extremely heavy.`
+   - Focus: explaining a mystery.
+   - Must include: `could account for the fact that`
+3. `It occurred to ... to ...`
+   - Source: `It suddenly occurred to one of the workers to open up the box.`
+   - Focus: a sudden idea.
+   - Must include: `It occurred to`
+4. `so surprised at being ... that ...`
+   - Source: `He was so surprised at being discovered that he did not even try to run away.`
+   - Focus: reaction caused by being found.
+   - Must include: `so surprised at being` and `that`
+5. `admitted doing ...`
+   - Source: `The man admitted hiding in the box.`
+   - Focus: confessing an action with a gerund.
+   - Must include: `admitted` with an `-ing` verb
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the cargo-discovery chain and
@@ -665,7 +717,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -674,6 +728,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_46.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 46 production is acceptable only if:
 
 - The story spine and recitation support are Chinese-first, with English chunks

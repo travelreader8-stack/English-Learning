@@ -638,6 +638,58 @@ Target output pattern:
 
 The exercise should make passive voice useful for real lost-property reporting.
 
+## Extension Practice Direction
+
+Lesson 45 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_45.json` and register
+`45` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original lost-property story about a wallet, phone, or envelope found at
+school or in a small neighbourhood. The new passage should keep the moral arc:
+delayed return, partial honesty, notes, and finally a clear conscience. Do not
+put text into illustration prompts; this is only reading and writing data.
+
+Suggested title: `Almost Honest`
+
+Recommended word bank: `wallet`, `savings`, `post office`, `must have been`,
+`returned`, `wrapped up`, `contained`, `note`, `in time`, `honest`.
+
+The 5 reading questions should test:
+
+1. what was lost and why it mattered
+2. why the owner thought someone must have found it
+3. how the item or money was returned
+4. what the notes revealed about the finder
+5. the ethical lesson: return lost property completely and quickly
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `a large sum of money had been lost`
+   - Source: `A large sum of money had been lost.`
+   - Focus: passive past perfect for a previous loss.
+   - Must include: `had been lost`
+2. `while taking ...`
+   - Source: `Sam Benton had lost his wallet while taking his savings to the post office.`
+   - Focus: background action during which something happened.
+   - Must include: `while taking`
+3. `must have been found by ...`
+   - Source: `The wallet must have been found by one of the villagers.`
+   - Focus: strong deduction about the past.
+   - Must include: `must have been found`
+4. `It had been wrapped up ... and contained ...`
+   - Source: `It had been wrapped up in newspaper and it contained half the money.`
+   - Focus: describing the returned object.
+   - Must include: `had been wrapped up` and `contained`
+5. `In time, ... was paid back`
+   - Source: `In time, all Sam's money was paid back in this way.`
+   - Focus: gradual completion over time.
+   - Must include: `In time` and `was paid back`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the passive chain, village
@@ -722,7 +774,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -731,6 +785,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_45.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 45 production is acceptable only if:
 
 - Generated illustrations contain no readable text.

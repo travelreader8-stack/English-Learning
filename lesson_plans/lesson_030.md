@@ -421,6 +421,59 @@ Target output pattern:
 
 Keep the focus on public-space awareness and polite repair.
 
+## Extension Practice Direction
+
+Lesson 30 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_30.json` and register
+`30` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original park-and-river story. A child accidentally kicks a ball or throws
+a frisbee toward someone on the water, people call out, and the child takes
+responsibility instead of running away. The passage should keep the comic timing
+of the lesson but turn the ending into a modern lesson about apology and safety
+near water.
+
+Suggested title: `The Ball by the River`
+
+Recommended word bank: `river bank`, `row`, `passing boat`, `call out`,
+`suddenly`, `strike`, `realize`, `run away`, `laugh`, `throw back`.
+
+The 5 reading questions should test:
+
+1. where the game was played
+2. what suddenly happened to the ball
+3. why the person on the water did not react at first
+4. what the child did differently from the original story
+5. the practical lesson: be careful and honest near water
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `It was ..., so ...`
+   - Source: `It was warm last Sunday, so I went and sat on the river bank as usual.`
+   - Focus: weather or situation leading naturally to an action.
+   - Must include: `so`
+2. `There were ...`
+   - Source: `There were some people rowing on the river.`
+   - Focus: setting a scene with people and action.
+   - Must include: `There were`
+3. `Suddenly, ...`
+   - Source: `Suddenly, one of the children kicked a ball very hard.`
+   - Focus: a sudden story turn.
+   - Must include: `Suddenly`
+4. `so ... that ...`
+   - Source: `The ball struck him so hard that he nearly fell into the water.`
+   - Focus: result caused by degree.
+   - Must include: `so` and `that`
+5. `when ... realized what had happened`
+   - Source: `The man laughed when he realized what had happened.`
+   - Focus: someone understands the real situation after the event.
+   - Must include: `realized what had happened`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the space map and the two key
@@ -501,7 +554,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -510,6 +565,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_30.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 A Lesson 30 production is acceptable only if:
 
 - The script explains the title joke: not real water polo, but football moving
@@ -533,4 +591,3 @@ A Lesson 30 production is acceptable only if:
 - The read-aloud step is included in the lesson flow.
 - No shared platform files are edited unless the user explicitly asks for that
   in the production thread.
-

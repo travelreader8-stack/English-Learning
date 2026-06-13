@@ -343,7 +343,7 @@ By the time the patient can say it, the mistake has already happened.
 
 Student-facing explanation:
 
-`had pulled out` 说明错误已经发生了。不是“快要拔错”，而是已经拔错了，所以最后一句才有冲击力。`
+`had pulled out` 说明错误已经发生了。不是“快要拔错”，而是已经拔错了，所以最后一句才有冲击力。
 
 ## Vocabulary Plan
 
@@ -556,6 +556,58 @@ Target output pattern:
 The exercise should be age-appropriate and should not ask the student to
 describe graphic dental treatment.
 
+## Extension Practice Direction
+
+Lesson 48 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_48.json` and register
+`48` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original dental-visit communication passage. The patient cannot speak
+clearly, so they nod, make a sound, point to a card, or write a note. Include a
+light comic misunderstanding, but keep the medical point safe: if something
+feels wrong, signal clearly and ask the dentist to check.
+
+Suggested title: `Please Let Me Write It Down`
+
+Recommended word bank: `dentist`, `pull out`, `rest`, `cotton wool`,
+`whether`, `nod`, `strange noises`, `meanwhile`, `search out`, `at last`.
+
+The 5 reading questions should test:
+
+1. why the patient could not answer clearly
+2. what questions the dentist asked
+3. how the patient answered without speaking
+4. what the patient was trying to say
+5. why writing or signalling can be important at a dentist
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `when it is impossible for you to ...`
+   - Source: `Dentists always ask questions when it is impossible for you to answer.`
+   - Focus: describing an awkward moment.
+   - Must include: `when it is impossible`
+2. `had just ... and had told ...`
+   - Source: `My dentist had just pulled out one of my teeth and had told me to rest.`
+   - Focus: two earlier actions before the main scene.
+   - Must include: `had just` and `had told`
+3. `tried to ..., but ...`
+   - Source: `I tried to say something, but my mouth was full of cotton wool.`
+   - Focus: attempt blocked by a condition.
+   - Must include: `tried to` and `but`
+4. `either ... or ...`
+   - Source: `I either nodded or made strange noises.`
+   - Focus: two limited choices.
+   - Must include: `either` and `or`
+5. `At last, I was able to ...`
+   - Source: `When the dentist at last removed the cotton wool from my mouth, I was able to tell him...`
+   - Focus: finally being able to communicate.
+   - Must include: `At last` and `was able to`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the dental-comedy chain,
@@ -636,7 +688,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -645,6 +699,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_48.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 48 production is acceptable only if:
 
 - The story spine and recitation support are Chinese-first, with English chunks

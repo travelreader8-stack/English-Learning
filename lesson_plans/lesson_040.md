@@ -492,6 +492,58 @@ Target output pattern:
 
 The exercise should make `Will you be doing...?` feel like a real social tool.
 
+## Extension Practice Direction
+
+Lesson 40 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_40.json` and register
+`40` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original social-dinner or school-lunch passage. One student tries polite
+small talk using `Will you be doing...?`, notices the other person gives very
+short answers, and learns that politeness also means stopping gracefully. Keep
+the humor, but do not make the quiet person a villain.
+
+Suggested title: `Two Questions at Dinner`
+
+Recommended word bank: `hostess`, `conversation`, `look up`, `be busy doing`,
+`Will you be`, `in despair`, `whether`, `talk less`, `enjoy`, `polite`.
+
+The 5 reading questions should test:
+
+1. where the conversation happened
+2. what polite future-continuous questions were asked
+3. how the listener answered
+4. what the speaker finally realized
+5. the social lesson: ask gently and read the other person's signals
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `asked me to sit next to ...`
+   - Source: `The hostess asked me to sit next to Mrs. Rumbold.`
+   - Focus: asking someone to do something.
+   - Must include: `asked me to sit next to`
+2. `did not even ...`
+   - Source: `She did not even look up.`
+   - Focus: emphasizing a lack of response.
+   - Must include: `did not even`
+3. `was busy doing ...`
+   - Source: `She was busy eating.`
+   - Focus: someone occupied with an action.
+   - Must include: `was busy`
+4. `Will you be doing ...?`
+   - Source: `Will you be spending your holidays abroad this year?`
+   - Focus: polite future-continuous question.
+   - Must include: `Will you be`
+5. `if you ... more and ... less`
+   - Source: `If you ate more and talked less, we would both enjoy our dinner.`
+   - Focus: witty comparison with more/less.
+   - Must include: `more` and `less`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the dinner-party chain and
@@ -568,7 +620,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -577,6 +631,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_40.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 40 production is acceptable only if:
 
 - The script explains `dinner party`, `hostess`, and arranged seating.

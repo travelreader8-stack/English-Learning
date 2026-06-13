@@ -1033,6 +1033,57 @@ Suggested exchanges:
 
 Keep the exercise calm, practical, and visual.
 
+## Extension Practice Direction
+
+Lesson 62 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_62.json` and register
+`62` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original recovery passage about a burned or bare hillside, school garden,
+or park slope. The focus should be ecological repair: after damage, rain may wash
+away soil, so fast-growing seed is spread, takes root, and green patches appear.
+
+Suggested title: `Green After the Fire`
+
+Recommended word bank: `forest fire`, `under control`, `desolate`, `threaten`,
+`wash away`, `flood`, `grass-seed`, `spray`, `take root`, `patches of green`.
+
+The 5 reading questions should test:
+
+1. what damage had happened
+2. why heavy rain was dangerous after the fire
+3. what solution the authorities or students used
+4. why grass seed helped
+5. what hopeful sign appeared in the soil
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `had been fighting ... for nearly ... before ...`
+   - Source: `Firemen had been fighting the forest for nearly three weeks before they could get it under control.`
+   - Focus: long action before success.
+   - Must include: `had been` and `before`
+2. `threatened ... with ...`
+   - Source: `The hills threatened the surrounding villages with destruction.`
+   - Focus: danger posed by a place or situation.
+   - Must include: `threatened` and `with`
+3. `not only ... but ... as well`
+   - Source: `Heavy rain would not only wash away the soil but would cause serious floods as well.`
+   - Focus: two serious results.
+   - Must include: `not only` and `as well`
+4. `had at last been put out`
+   - Source: `When the fire had at last been put out...`
+   - Focus: passive past perfect after a long effort.
+   - Must include: `had at last been put out`
+5. `had already taken root`
+   - Source: `By then, however, in many places the grass had already taken root.`
+   - Focus: hopeful result before a later event.
+   - Must include: `had already taken root`
+
 ## Chinese-To-English Exercise Direction
 
 If production creates guided translation prompts inside lesson-local materials,
@@ -1182,6 +1233,9 @@ cramped on desktop or mobile.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_62.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 - `lesson_plans/lesson_062.md` is the production source of truth for Lesson 62.
 - The root `LESSON_PRODUCTION_PLAN.md` index includes Lesson 62 and points the
   future placeholder to Lesson 63.

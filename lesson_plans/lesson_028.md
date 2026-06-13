@@ -391,6 +391,60 @@ Target output pattern:
 
 Keep the focus on rule, consequence, and calm repair.
 
+## Extension Practice Direction
+
+Lesson 28 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_28.json` and register
+`28` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original same-topic passage about a modern parking problem near a home or
+apartment gate. The story should connect the old `No Parking` sign and Medusa
+idea to a situation a child can picture today: blocked garage, delivery cars,
+neighbour notices, and a practical solution such as speaking to the building
+manager or painting a clearer parking line. Do not copy an internet article or
+paraphrase the lesson.
+
+Suggested title: `A Sign That Finally Worked`
+
+Recommended word bank: `garage`, `gate`, `parking space`, `owner`, `notice`,
+`effect`, `ancient myth`, `Medusa`, `turn to stone`, `at last`.
+
+The 5 reading questions should test:
+
+1. what problem the person had outside the gate
+2. why the first signs had no effect
+3. what modern solution finally helped
+4. what Medusa / 美杜莎 is used to symbolize in the story
+5. the practical lesson: clear rules work better than angry signs
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `one of those rare people who ...`
+   - Source: `Jasper White is one of those rare people who believes in ancient myths.`
+   - Focus: describing an unusual kind of person.
+   - Must include: `one of those rare people who`
+2. `ever since ...`
+   - Source: `Ever since he moved in, he has had trouble with cars and their owners.`
+   - Focus: a problem that started at one point and continues.
+   - Must include: `ever since`
+3. `has not been able to ... even once`
+   - Source: `He has not been able to get his own car into his garage even once.`
+   - Focus: repeated failure with emotional weight.
+   - Must include: `has not been able to` and `even once`
+4. `have not had any effect`
+   - Source: `These have not had any effect.`
+   - Focus: a solution that looks useful but does not work.
+   - Must include: `have not had any effect`
+5. `one of the ... I have ever seen`
+   - Source: `It is one of the ugliest faces I have ever seen.`
+   - Focus: strong personal comparison.
+   - Must include: `one of the` and `I have ever seen`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should emphasize present perfect, blocked
@@ -465,7 +519,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -474,6 +530,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_28.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 A Lesson 28 production is acceptable only if:
 
 - The script explains the city-house layout: gate, garage, and why a parked car
@@ -502,4 +561,3 @@ A Lesson 28 production is acceptable only if:
 - The read-aloud step is included in the lesson flow.
 - No shared platform files are edited unless the user explicitly asks for that
   in the production thread.
-

@@ -473,6 +473,58 @@ Target output pattern:
 
 The exercise should make indirect questions useful in a real phone call.
 
+## Extension Practice Direction
+
+Lesson 39 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_39.json` and register
+`39` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original modern phone-call passage about a student politely asking for
+their own result, appointment, or activity status. The passage should preserve
+the humor of trying to get information, but make the ethics clear: identify
+yourself, ask about your own information, and respect privacy.
+
+Suggested title: `Calling About My Own Result`
+
+Recommended word bank: `patient`, `operation`, `successful`, `refuse`,
+`telephone`, `exchange`, `inquire`, `whether`, `be allowed to`, `private`.
+
+The 5 reading questions should test:
+
+1. why the person made the call
+2. how they identified themselves
+3. what indirect question they asked
+4. what private-information boundary was respected
+5. how this differs from tricking someone
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `asked ... whether ...`
+   - Source: `He asked his doctor whether his operation had been successful.`
+   - Focus: indirect yes/no question.
+   - Must include: `asked` and `whether`
+2. `refused to ...`
+   - Source: `The doctor refused to do so.`
+   - Focus: polite but firm refusal.
+   - Must include: `refused to`
+3. `When he was alone, ...`
+   - Source: `When he was alone, he telephoned the hospital exchange.`
+   - Focus: time clause before a main action.
+   - Must include: `When he was alone`
+4. `was inquiring about ...`
+   - Source: `He said he was inquiring about a certain patient.`
+   - Focus: formal reason for a call.
+   - Must include: `was inquiring about`
+5. `would be allowed to ...`
+   - Source: `He asked when Mr. Gilbert would be allowed to go home.`
+   - Focus: indirect question with passive permission.
+   - Must include: `would be allowed to`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the hospital-phone chain and
@@ -555,7 +607,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -564,6 +618,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_39.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 39 production is acceptable only if:
 
 - The script explains `bedside telephone` and `hospital exchange` as an older

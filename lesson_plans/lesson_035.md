@@ -489,6 +489,58 @@ Target output pattern:
 
 Keep the focus on observation, safety, and clear reporting.
 
+## Extension Practice Direction
+
+Lesson 35 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_35.json` and register
+`35` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original public-transport story about someone noticing a theft and
+responding safely: a bus driver alerts police, closes doors, remembers the car
+number, or helps the victim without putting passengers in danger. Keep the
+energy of the chase, but make the modern safety judgment explicit.
+
+Suggested title: `The Driver Who Noticed`
+
+Recommended word bank: `thief`, `driver`, `rush out`, `towards`, `fright`,
+`drop`, `get away`, `damage`, `recognize`, `arrested`.
+
+The 5 reading questions should test:
+
+1. what job the driver used to do or does now
+2. what the thieves were carrying
+3. how the driver helped without reckless action
+4. why the thieves became easy to recognize
+5. why quick thinking is useful only when it is safe
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `used to ...`
+   - Source: `Roy Trenton used to drive a taxi.`
+   - Focus: past habit or old job.
+   - Must include: `used to`
+2. `far more ...`
+   - Source: `He is finding his new work far more exciting.`
+   - Focus: stronger comparison with feeling.
+   - Must include: `far more`
+3. `saw ... rush out of ...`
+   - Source: `He saw two thieves rush out of a shop.`
+   - Focus: see somebody do a whole action.
+   - Must include: `saw` and `rush out of`
+4. `such a ... that ...`
+   - Source: `The one with the money got such a fright that he dropped the bag.`
+   - Focus: result caused by a strong noun phrase; teach the feel of `such a`.
+   - Must include: `such a` and `that`
+5. `While ..., ...`
+   - Source: `While the battered car was moving away, Roy stopped his bus and telephoned the police.`
+   - Focus: two actions happening around the same time.
+   - Must include: `While`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the action chain and the key
@@ -569,7 +621,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -578,6 +632,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_35.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 35 production is acceptable only if:
 
 - The script frames `Stop thief!` as an emergency shout.

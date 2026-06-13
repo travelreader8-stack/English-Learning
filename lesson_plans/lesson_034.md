@@ -444,6 +444,58 @@ Target output pattern:
 
 The exercise should make passive voice feel practical, not just grammatical.
 
+## Extension Practice Direction
+
+Lesson 34 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_34.json` and register
+`34` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original story about a lost bicycle, skateboard, or instrument that is
+unexpectedly found far away after many years. The modern bridge can involve a
+police notice, serial number, QR code, or online lost-and-found system, but the
+story should keep the comic surprise: the owner never expected it to be found.
+
+Suggested title: `The Bike That Came Back`
+
+Recommended word bank: `police station`, `call at`, `wonder`, `found`,
+`picked up`, `village`, `sent home`, `surprised`, `amused`, `stolen`.
+
+The 5 reading questions should test:
+
+1. why the owner was worried at first
+2. what item had been found
+3. where it was found
+4. why the owner was surprised or amused
+5. how the long delay creates the joke
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `has been worried all week`
+   - Source: `Dan Robinson has been worried all week.`
+   - Focus: present perfect for a feeling that continued until now.
+   - Must include: `has been worried`
+2. `was asked to ...`
+   - Source: `He was asked to call at the station.`
+   - Focus: passive request from an official place.
+   - Must include: `was asked to`
+3. `wondered why ...`
+   - Source: `Dan wondered why he was wanted by the police.`
+   - Focus: indirect question after wondered.
+   - Must include: `wondered why`
+4. `was told that ...`
+   - Source: `He was told by a smiling policeman that his bicycle had been found.`
+   - Focus: passive reporting of news.
+   - Must include: `was told` and `had been found`
+5. `never expected ... to be found`
+   - Source: `He never expected the bicycle to be found.`
+   - Focus: a surprise after giving up hope.
+   - Must include: `never expected` and `to be found`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the worry-to-reveal chain and
@@ -527,7 +579,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -536,6 +590,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_34.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 34 production is acceptable only if:
 
 - The script explains `Quick work` as humorous irony, not as a straightforward

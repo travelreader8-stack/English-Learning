@@ -890,6 +890,58 @@ Keep it natural:
 - Keep the sibling humor warm.
 - Do not turn it into a scolding about messy rooms.
 
+## Extension Practice Direction
+
+Lesson 52 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_52.json` and register
+`52` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original room-organization story: a student moves into a new study
+corner, tries to get books in order, runs out of shelf space, and someone jokes
+that the books have become a carpet. Keep the humor affectionate and visual.
+
+Suggested title: `The Book Carpet`
+
+Recommended word bank: `move into`, `work hard`, `in order`, `own`,
+`to make matters worse`, `temporarily`, `every inch`, `floor space`, `gaze`,
+`spare time`.
+
+The 5 reading questions should test:
+
+1. what the student was trying to organize
+2. why it was not easy
+3. what made matters worse
+4. why the floor looked like a carpet
+5. how the joke turns mess into a picture
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `have just moved into ...`
+   - Source: `We have just moved into a new house.`
+   - Focus: recent change with present result.
+   - Must include: `have just moved into`
+2. `have been trying to get ... in order`
+   - Source: `I have been trying to get my new room in order.`
+   - Focus: ongoing effort.
+   - Must include: `have been trying to get` and `in order`
+3. `To make matters worse, ...`
+   - Source: `To make matters worse, the room is rather small.`
+   - Focus: adding a second problem.
+   - Must include: `To make matters worse`
+4. `every inch of ...`
+   - Source: `They cover every inch of floor space.`
+   - Focus: vivid total coverage.
+   - Must include: `every inch of`
+5. `the prettiest ... I have ever seen`
+   - Source: `This is the prettiest carpet I have ever seen.`
+   - Focus: humorous superlative.
+   - Must include: `the prettiest` and `I have ever seen`
+
 ## Chinese-To-English Exercise Direction
 
 Use exercises that map directly to Lesson 52 structures.
@@ -1032,7 +1084,9 @@ Recommended flow:
 3. 完形填空
 4. 中译英
 5. 英译中
-6. 默写
+6. 拓展阅读
+7. 句式仿写
+8. 默写
 
 For Lesson 52, the final reminder can say:
 
@@ -1040,6 +1094,9 @@ For Lesson 52, the final reminder can say:
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_52.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 52 production is acceptable only if:
 
 - The student can clearly picture books covering the floor like a carpet.

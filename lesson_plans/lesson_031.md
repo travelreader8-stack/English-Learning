@@ -422,6 +422,59 @@ Target output pattern:
 
 Keep the focus on continuity of skill, not bragging about success.
 
+## Extension Practice Direction
+
+Lesson 31 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_31.json` and register
+`31` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original passage about a person who starts with a small practical skill
+and slowly builds something larger: repairing phones, bicycles, school computers,
+or making parts in a tiny workshop. The passage should preserve the lesson's
+shape: hard early years, skill, saving money, small workshop, larger success,
+then a funny return to the original small job.
+
+Suggested title: `From a Small Desk to a Big Company`
+
+Recommended word bank: `used to`, `repair`, `workshop`, `save money`,
+`helper`, `factory`, `employ`, `retire`, `experience`, `success`.
+
+The 5 reading questions should test:
+
+1. what the person used to do when young
+2. how long or how hard they worked
+3. what they bought or started after saving money
+4. how the small business grew
+5. what funny small job appears at the end
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `used to ...`
+   - Source: `As a boy he used to work in a small shop.`
+   - Focus: a repeated past habit or state that is no longer true.
+   - Must include: `used to`
+2. `It was his job to ...`
+   - Source: `It was his job to repair bicycles.`
+   - Focus: stating someone's responsibility.
+   - Must include: `It was his job to`
+3. `At that time, ...`
+   - Source: `At that time he used to work fourteen hours a day.`
+   - Focus: locating a habit in a past period.
+   - Must include: `At that time`
+4. `In a few years, ... had become ...`
+   - Source: `In a few years the small workshop had become a large factory.`
+   - Focus: showing growth over time.
+   - Must include: `In a few years` and `had become`
+5. `the long road to ...`
+   - Source: `the long road to success`
+   - Focus: a polished phrase for gradual achievement.
+   - Must include: `the long road to`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the life timeline and the
@@ -502,7 +555,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -511,6 +566,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_31.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 A Lesson 31 production is acceptable only if:
 
 - The script avoids generic success-motivation language and keeps the warm
@@ -535,4 +593,3 @@ A Lesson 31 production is acceptable only if:
 - The read-aloud step is included in the lesson flow.
 - No shared platform files are edited unless the user explicitly asks for that
   in the production thread.
-

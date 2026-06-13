@@ -1087,6 +1087,59 @@ Suggested exchanges:
 Keep the exercise practical and reassuring. The child should feel that mistakes
 can be diagnosed and repaired.
 
+## Extension Practice Direction
+
+Lesson 61 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_61.json` and register
+`61` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original science-club telescope or camera-repair passage. The first
+pictures are disappointing, a lens or mirror is faulty, students plan a repair,
+and by a future time the device will have sent clearer pictures. Keep Hubble as
+the background inspiration.
+
+Suggested title: `The Blurry Telescope`
+
+Recommended word bank: `telescope`, `launch`, `at a cost of`,
+`right from the start`, `disappointing`, `faulty`, `put right`, `astronaut`,
+`repair`, `by the time`.
+
+The 5 reading questions should test:
+
+1. what device had a problem
+2. why the pictures were disappointing
+3. what part was faulty
+4. how the repair would be made
+5. what clear result was expected by a future time
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `was launched ... by ...`
+   - Source: `The Hubble telescope was launched into space by NASA.`
+   - Focus: passive action with agent.
+   - Must include: `was launched` and `by`
+2. `Right from the start, ...`
+   - Source: `Right from the start there was trouble with the Hubble.`
+   - Focus: trouble beginning immediately.
+   - Must include: `Right from the start`
+3. `because ... was faulty`
+   - Source: `The pictures it sent us were very disappointing because its main mirror was faulty.`
+   - Focus: explaining the technical cause.
+   - Must include: `because` and `was faulty`
+4. `is going to put ... right`
+   - Source: `NASA is now going to put the telescope right.`
+   - Focus: repair plan.
+   - Must include: `is going to put` and `right`
+5. `By the time ..., ... will have ...`
+   - Source: `By the time you read this, the Hubble's eagle eye will have sent us thousands...`
+   - Focus: future perfect by a later moment.
+   - Must include: `By the time` and `will have`
+
 ## Chinese-To-English Exercise Direction
 
 If production creates guided translation prompts inside lesson-local materials,
@@ -1243,6 +1296,9 @@ cramped on desktop or mobile.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_61.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 - `lesson_plans/lesson_061.md` is the production source of truth for Lesson 61.
 - The root `LESSON_PRODUCTION_PLAN.md` index includes Lesson 61 and points the
   future placeholder to Lesson 62.

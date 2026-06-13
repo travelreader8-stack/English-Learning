@@ -574,6 +574,58 @@ Target output pattern:
 
 The exercise should combine vivid storytelling with safe judgment.
 
+## Extension Practice Direction
+
+Lesson 44 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_44.json` and register
+`44` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original safe-response action story in a park, station, or school gate.
+Someone grabs a bag or phone; the narrator notices the direction, asks for help,
+and reports clearly instead of chasing. Preserve the cinematic action chain from
+the lesson, but make modern safety explicit.
+
+Suggested title: `The Safe Witness`
+
+Recommended word bank: `risk`, `rush up`, `steal`, `strap`, `possession`,
+`out of breath`, `catch up`, `contents`, `fright`, `mending`.
+
+The 5 reading questions should test:
+
+1. what was stolen or almost stolen
+2. which action chain shows the thieves moving away
+3. what safe choice the narrator made
+4. what details helped adults or police
+5. why vivid storytelling is different from risky imitation
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `did not think of the risk ...`
+   - Source: `Mrs. Anne Sterling did not think of the risk she was taking.`
+   - Focus: realizing danger after action begins.
+   - Must include: `did not think of the risk`
+2. `while ...`
+   - Source: `They had rushed up to her while she was having a picnic.`
+   - Focus: interruption during a background action.
+   - Must include: `while`
+3. `With ... in their possession, ...`
+   - Source: `With the bag in their possession, both men started running through the trees.`
+   - Focus: action after someone has control of an object.
+   - Must include: `With` and `in their possession`
+4. `so ... that ...`
+   - Source: `Mrs. Sterling got so angry that she ran after them.`
+   - Focus: strong feeling leading to action.
+   - Must include: `so` and `that`
+5. `such a ... that ...`
+   - Source: `The men got such a fright that they dropped the bag and ran away.`
+   - Focus: noun phrase causing a result.
+   - Must include: `such a` and `that`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the action chain and the key
@@ -656,7 +708,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -665,6 +719,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_44.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 44 production is acceptable only if:
 
 - The script includes a clear modern safety boundary: do not chase thieves in

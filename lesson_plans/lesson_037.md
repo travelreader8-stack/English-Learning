@@ -496,6 +496,59 @@ Target output pattern:
 
 The exercise should make the student speak like a small project planner.
 
+## Extension Practice Direction
+
+Lesson 37 extension production should be extension-only if the main lesson
+assets already exist. Create `web/data/extension/lesson_37.json` and register
+`37` in `web/data/extension/index.json`. Do not regenerate script, audio,
+timeline, read-aloud data, or storyboard images.
+
+### Extension Reading
+
+Use an original passage about a school sports day, open day, or youth games that
+requires planning: visitors will come, a field will be prepared, signs will be
+made, and several tasks will have been completed by deadlines. The reading
+should echo the Olympic city project but stay within a child's world.
+
+Suggested title: `The School Sports City`
+
+Recommended word bank: `will be held`, `visitors`, `stadium`, `swimming pool`,
+`railway line`, `complete`, `by the end of`, `modern`, `anxiously`,
+`look forward to`.
+
+The 5 reading questions should test:
+
+1. what event will be held
+2. why many preparations are needed
+3. what workers or students will be building or preparing
+4. which tasks will have been finished by a deadline
+5. why everyone is looking forward to the event
+
+### Sentence Writing
+
+Use 5 patterns:
+
+1. `will be held ...`
+   - Source: `The Olympic Games will be held in our country in four years' time.`
+   - Focus: passive future for an event.
+   - Must include: `will be held`
+2. `As a great many ... will be visiting ...`
+   - Source: `As a great many people will be visiting the country, the government will be building new hotels.`
+   - Focus: reason plus future continuous planning.
+   - Must include: `As a great many` and `will be visiting`
+3. `will be building ...`
+   - Source: `They will also be building new roads and a special railway line.`
+   - Focus: future continuous for planned construction.
+   - Must include: `will be building`
+4. `will have completed ... by ...`
+   - Source: `Workers will have completed the new roads by the end of this year.`
+   - Focus: future perfect for deadlines.
+   - Must include: `will have completed` and `by`
+5. `are looking forward to ...`
+   - Source: `We are all very excited and are looking forward to the Olympic Games.`
+   - Focus: anticipation with `to` plus noun or gerund.
+   - Must include: `looking forward to`
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should reinforce the project timeline and
@@ -573,7 +626,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -582,6 +637,9 @@ as part of the lesson flow.
 
 ## Acceptance Criteria
 
+- The extension practice follows the `Extension Practice Direction` above,
+  creates `web/data/extension/lesson_37.json`, and registers the lesson in
+  `web/data/extension/index.json`.
 Lesson 37 production is acceptable only if:
 
 - The script frames the lesson as an Olympic City construction countdown, not a
