@@ -16,7 +16,7 @@
       "never been abroad before"
     ],
     "passage": [
-      "My cousin Anna has just sent me a long message from Canada. She is an engineer and is working for a small firm in Vancouver. She has been there for four months. In her message, she sent photos of the harbour, a snowy park, and a quiet island. She has already visited several different places near the city. Last week she bought a second-hand bicycle and has gone to Victoria for the weekend. She will soon take a train through the mountains to Calgary. Anna had never been abroad before, so every new street, station, and map line feels exciting to her. When I read her message, my own town suddenly felt connected to a much larger world."
+      "I have just received a long message from my cousin Anna in Canada. She is an engineer and is working for a small firm in Vancouver. She has been there for four months. In her message, she sent photos of the harbour, a snowy park, and a quiet island. She has already visited several different places near the city. Last week she bought a second-hand bicycle and has gone to Victoria for the weekend. She will soon take a train through the mountains to Calgary. Anna had never been abroad before, so every new street, station, and map line feels exciting to her. When I read her message, my own town suddenly felt connected to a much larger world."
     ],
     "questions": [
       {
@@ -71,12 +71,12 @@
         "id": "exciting_reason",
         "question": "Why does the trip feel exciting to Anna?",
         "options": [
-          "Because she has never been abroad before.",
           "Because she dislikes every new place.",
           "Because she is reading an old letter at home.",
-          "Because she has finished all her travel plans."
+          "Because she has finished all her travel plans.",
+          "Because she has never been abroad before."
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "explanation_zh": "结尾说 Anna had never been abroad before，所以新的街道、车站和地图路线都让她觉得 exciting。"
       }
     ]
