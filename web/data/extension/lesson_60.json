@@ -1,0 +1,154 @@
+{
+  "lesson_id": 60,
+  "reading": {
+    "title": "The Prediction App",
+    "intro_zh": "这篇短文把 Lesson 60 的“神秘 prediction 碰上普通解释”换到 school fair 里的预测 app：它听起来像知道未来，其实靠的是公开登记信息、活动时间和巧合。重点练习 prediction app、booth、relation、will be arriving、The moment、rush towards、impatiently、intend、less than 和 coincidence。",
+    "word_bank": [
+      "prediction app",
+      "booth",
+      "relation",
+      "arrive",
+      "intend",
+      "The moment",
+      "rush towards",
+      "impatiently",
+      "less than",
+      "coincidence"
+    ],
+    "passage": [
+      "At our school fair, Maya and I stopped at a small prediction app booth. The screen asked for my name and then said, 'A relation of yours will be arriving soon. The moment you leave this room, someone will rush towards you with urgent news.' It sounded mysterious, so we laughed and went outside. As soon as we stepped into the playground, my class teacher hurried towards me impatiently. She said my uncle's bus had arrived earlier than planned and he was waiting at the gate. He intended to bring my forgotten science model before the display began in less than twenty minutes. For a minute, the prediction seemed true. Then Maya noticed the app used our fair registration form, which included family contacts and event times. The surprise was mostly public information plus coincidence."
+    ],
+    "questions": [
+      {
+        "id": "prediction_made",
+        "question": "What did the prediction app say would happen?",
+        "options": [
+          "A teacher would cancel the school fair at once.",
+          "Maya would win a prize at the app booth.",
+          "A relation would arrive soon, and someone would rush over with urgent news.",
+          "The narrator would find a crystal ball in the playground."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "app 说 A relation of yours will be arriving soon，并且 The moment you leave this room, someone will rush towards you with urgent news。"
+      },
+      {
+        "id": "moment_left",
+        "question": "What happened as soon as the narrator went outside?",
+        "options": [
+          "The class teacher hurried towards the narrator impatiently.",
+          "The app booth closed before anyone could use it.",
+          "Maya's science model disappeared from the display.",
+          "The narrator's uncle walked slowly away from the gate."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 As soon as we stepped into the playground, my class teacher hurried towards me impatiently。"
+      },
+      {
+        "id": "who_arrived",
+        "question": "Who was really waiting at the gate?",
+        "options": [
+          "Maya's cousin with a fair ticket.",
+          "The narrator's uncle with the forgotten science model.",
+          "A fortune-teller from another village.",
+          "The head teacher with a new app."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "老师说 my uncle's bus had arrived earlier than planned and he was waiting at the gate，叔叔是来送忘带的 science model。"
+      },
+      {
+        "id": "why_true_at_first",
+        "question": "Why did the prediction seem true at first?",
+        "options": [
+          "The app explained every detail before the fair opened.",
+          "The narrator wanted to believe in the app.",
+          "Maya had secretly written the message herself.",
+          "A teacher came immediately, and a relation had really arrived early."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "刚出门老师就急匆匆来找他，而且 uncle 真的提前到了，所以 prediction 一开始看起来像应验了。"
+      },
+      {
+        "id": "ordinary_explanation",
+        "question": "Why is an ordinary explanation more sensible?",
+        "options": [
+          "The app used registration information and event times, and the rest was coincidence.",
+          "The app could truly see everything that would happen in the future.",
+          "The teacher told the app to scare students at the school fair.",
+          "The uncle had planned to hide behind the prediction booth."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾说 app used our fair registration form，其中有 family contacts and event times；剩下的 surprise 主要是 public information plus coincidence。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 60 的高价值句式：用 decided to 写主动选择，用 After I had..., ... 写先后顺序，用 will be arriving 写安排好的未来，用 The moment..., ... 写一发生就紧接着发生，用 in less than... 写紧迫时间。",
+    "patterns": [
+      {
+        "id": "decided_to",
+        "title": "decided to ...",
+        "source": "I decided to visit a fortune-teller called Madam Bellinsky.",
+        "focus_zh": "decided to 用来写“决定去做某事”，比 just went 更能表现主动选择。",
+        "task_zh": "仿写一句：写你在学校活动、展览或游乐场里决定尝试一个摊位、游戏或任务。",
+        "must_include": [
+          "decided to"
+        ],
+        "min_words": 9,
+        "sample": "I decided to try the prediction app at the school fair.",
+        "tip_zh": "decided to 后面接动词原形；可以用 try, visit, join, ask 等动作。"
+      },
+      {
+        "id": "after_i_had",
+        "title": "After I had ..., ...",
+        "source": "After I had given her some money, she looked into a crystal ball.",
+        "focus_zh": "After I had... 可以清楚写出第一件事先完成，然后第二件事发生。",
+        "task_zh": "仿写一句：写你先输入名字、交表格或完成准备，然后 app、老师或同学做了下一步动作。",
+        "must_include": [
+          "After I had"
+        ],
+        "min_words": 10,
+        "sample": "After I had entered my name, the app showed a strange message.",
+        "tip_zh": "After I had 后面用过去分词，如 entered, finished, given；逗号后面接第二个过去动作。"
+      },
+      {
+        "id": "will_be_arriving",
+        "title": "will be arriving ...",
+        "source": "She will be arriving this evening.",
+        "focus_zh": "will be arriving 适合写已经安排好、马上要发生的到达。",
+        "task_zh": "仿写一句：写某个亲戚、朋友、队伍或公交车将在某个具体时间到达。",
+        "must_include": [
+          "will be arriving"
+        ],
+        "min_words": 10,
+        "sample": "My uncle will be arriving at the school gate before the display begins.",
+        "tip_zh": "will be arriving 后面常接时间或地点，让未来安排更具体。"
+      },
+      {
+        "id": "the_moment",
+        "title": "The moment ..., ...",
+        "source": "The moment you leave this tent, you will get a big surprise.",
+        "focus_zh": "The moment 表示“一……就……”，适合写两个动作紧紧接上。",
+        "task_zh": "仿写一句：写你刚离开教室、摊位或操场，就有人冲过来、电话响了或消息来了。",
+        "must_include": [
+          "The moment"
+        ],
+        "min_words": 10,
+        "sample": "The moment I left the booth, my teacher hurried towards me.",
+        "tip_zh": "The moment 引导第一个动作；逗号后面写马上发生的第二个动作。"
+      },
+      {
+        "id": "in_less_than",
+        "title": "in less than ...",
+        "source": "Your sister will be here in less than an hour.",
+        "focus_zh": "in less than... 能写出时间很紧，表示“不到……以后”。",
+        "task_zh": "仿写一句：写公交、亲戚、比赛、展示或截止时间很快就要到。",
+        "must_include": [
+          "in less than"
+        ],
+        "min_words": 10,
+        "sample": "The bus will reach the station in less than twenty minutes.",
+        "tip_zh": "less than 后面接时间长度，如 ten minutes, half an hour, one day。"
+      }
+    ]
+  }
+}
