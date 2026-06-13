@@ -1,0 +1,158 @@
+{
+  "lesson_id": 61,
+  "reading": {
+    "title": "The Blurry Telescope",
+    "intro_zh": "这篇短文把 Lesson 61 的“高科技设备一开始出错，经过诊断和修复后看清世界”换到 school observatory 的小型数字 telescope：第一次照片 disappointing，因为 tiny mirror was faulty；老师请 repair team 来 put the telescope right。重点练习 telescope、launch、at a cost of、right from the start、disappointing、faulty、put right、repair team、repair 和 by the time。",
+    "word_bank": [
+      "telescope",
+      "launch",
+      "at a cost of",
+      "right from the start",
+      "disappointing",
+      "faulty",
+      "put right",
+      "repair team",
+      "repair",
+      "by the time"
+    ],
+    "passage": [
+      "Last month, our science club bought a small digital telescope at a cost of nearly two thousand yuan and launched it on the roof of the library. Right from the start, there was trouble with the telescope. The first pictures of the moon were very disappointing because one tiny mirror was faulty. Everyone had expected sharp craters, but the screen showed only a pale grey blur. Our teacher is going to put the telescope right, so she has invited a repair team from the city observatory. They will clean the lens, replace the mirror and check the camera while we record each step. By the time the open night begins next Friday, the telescope will have sent clearer pictures to every tablet in the lab."
+    ],
+    "questions": [
+      {
+        "id": "problem_device",
+        "question": "What device had a problem in the science club?",
+        "options": [
+          "A small digital telescope on the roof of the library.",
+          "A school bus parked near the city observatory.",
+          "A radio that sent messages to the moon.",
+          "A library printer used for open-night posters."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文开头说 science club bought a small digital telescope，并把它 launched on the roof of the library，后面的问题也围绕这台 telescope。"
+      },
+      {
+        "id": "disappointing_pictures",
+        "question": "Why were the first pictures disappointing?",
+        "options": [
+          "The club forgot to invite any visitors to the open night.",
+          "The screen showed only a pale grey blur instead of sharp craters.",
+          "The city observatory refused to help the students.",
+          "The telescope was left inside the library all night."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "学生期待看到 sharp craters，但 screen showed only a pale grey blur，所以第一批照片令人失望。"
+      },
+      {
+        "id": "faulty_part",
+        "question": "What part was faulty?",
+        "options": [
+          "The roof of the library.",
+          "The teacher's tablet.",
+          "One tiny mirror.",
+          "The poster for open night."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "原句说 The first pictures...were very disappointing because one tiny mirror was faulty，故障点是 one tiny mirror。"
+      },
+      {
+        "id": "repair_plan",
+        "question": "How will the repair team put the telescope right?",
+        "options": [
+          "They will move the telescope to another school and keep it closed.",
+          "They will clean the lens, replace the mirror and check the camera.",
+          "They will ask the students to stop recording the repair steps.",
+          "They will paint the library roof before taking more pictures."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "repair team 的计划是 clean the lens, replace the mirror and check the camera，这就是把 telescope put right 的具体步骤。"
+      },
+      {
+        "id": "future_result",
+        "question": "What result is expected by the time the open night begins?",
+        "options": [
+          "The telescope will have sent clearer pictures to every tablet in the lab.",
+          "The mirror will still be faulty, and the screen will stay grey.",
+          "The repair team will have cancelled the science club.",
+          "The students will have hidden the telescope in the library."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾用 By the time...will have... 说明到 open night 开始时，telescope will have sent clearer pictures to every tablet in the lab。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 61 的修复故事句式：用 was launched...by... 写被谁发射或启用，用 Right from the start 写问题一开始就出现，用 because...was faulty 写技术原因，用 is going to put...right 写修复计划，用 By the time..., ...will have... 写到未来某时已经完成的结果。",
+    "patterns": [
+      {
+        "id": "was_launched_by",
+        "title": "was launched ... by ...",
+        "source": "The Hubble telescope was launched into space by NASA.",
+        "focus_zh": "was launched...by... 是被动语态，重点放在被发射、被启用的设备上，再用 by 说明执行者。",
+        "task_zh": "仿写一句：写一个 telescope、weather balloon、model rocket 或 school app 被某个团队、老师或学生启用。",
+        "must_include": [
+          "was launched",
+          "by"
+        ],
+        "min_words": 10,
+        "sample": "The school weather balloon was launched by our science club at noon.",
+        "tip_zh": "主语先写被启用的东西；was launched 后面可以接地点或时间，by 后面写执行者。"
+      },
+      {
+        "id": "right_from_the_start",
+        "title": "Right from the start, ...",
+        "source": "Right from the start there was trouble with the Hubble.",
+        "focus_zh": "Right from the start 表示问题不是后来才慢慢出现，而是一开始就出现，适合写故事里的突然失望。",
+        "task_zh": "仿写一句：写某个设备、计划、比赛或展示从一开始就遇到了 trouble。",
+        "must_include": [
+          "Right from the start"
+        ],
+        "min_words": 8,
+        "sample": "Right from the start, there was trouble with the new telescope.",
+        "tip_zh": "逗号后面直接写 trouble、a problem 或 something wrong，让开头的转折很清楚。"
+      },
+      {
+        "id": "because_was_faulty",
+        "title": "because ... was faulty",
+        "source": "The pictures it sent us were very disappointing because its main mirror was faulty.",
+        "focus_zh": "because...was faulty 用来给出清楚的技术原因：结果不好，是因为某个部件有故障。",
+        "task_zh": "仿写一句：写照片、声音、机器人动作或实验结果令人失望，因为某个 part was faulty。",
+        "must_include": [
+          "because",
+          "was faulty"
+        ],
+        "min_words": 10,
+        "sample": "The robot moved badly because its left wheel was faulty.",
+        "tip_zh": "because 前面写结果，because 后面写故障部件；faulty 前面通常用 was 或 were。"
+      },
+      {
+        "id": "going_to_put_right",
+        "title": "is going to put ... right",
+        "source": "NASA is now going to put the telescope right.",
+        "focus_zh": "is going to put...right 表示已经有明确的修复计划，put right 不是放到右边，而是把问题纠正好。",
+        "task_zh": "仿写一句：写老师、队长、工程师或 repair team 准备把某个出问题的东西修好。",
+        "must_include": [
+          "is going to put",
+          "right"
+        ],
+        "min_words": 10,
+        "sample": "Our teacher is going to put the telescope right before open night.",
+        "tip_zh": "is going to 后面接动词原形 put；put 和 right 中间放要修好的对象。"
+      },
+      {
+        "id": "by_the_time_will_have",
+        "title": "By the time ..., ... will have ...",
+        "source": "By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures.",
+        "focus_zh": "By the time..., ...will have... 是将来完成时：到未来某个时间点，某件事已经完成或产生结果。",
+        "task_zh": "仿写一句：写到 open night、比赛、展示或家长到达时，设备已经传回、拍到或完成了某个清楚的结果。",
+        "must_include": [
+          "By the time",
+          "will have"
+        ],
+        "min_words": 12,
+        "sample": "By the time the guests arrive, the camera will have sent clear pictures.",
+        "tip_zh": "By the time 后面用现在时表示未来时间点；主句用 will have 加过去分词。"
+      }
+    ]
+  }
+}

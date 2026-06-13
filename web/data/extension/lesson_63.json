@@ -1,0 +1,157 @@
+{
+  "lesson_id": 63,
+  "reading": {
+    "title": "They Were Laughing With Me",
+    "intro_zh": "这篇短文把 Lesson 63 的婚礼 speech 误会换到班级 presentation：学生认真准备 class speech，加入一个 funny story，听到同学笑后担心大家是在嘲笑自己，最后学会区分 laugh with 和 laugh at。重点练习 class speech、sense of humour、speech、include、great success、disappointed、on the way home、to his surprise、laugh with 和 laugh at。",
+    "word_bank": [
+      "class speech",
+      "sense of humour",
+      "speech",
+      "include",
+      "great success",
+      "disappointed",
+      "on the way home",
+      "to his surprise",
+      "laugh with",
+      "laugh at"
+    ],
+    "passage": [
+      "On Friday, Daniel prepared a short class speech about his grandfather's old bicycle. He wanted the presentation to be a great success, so he wrote each part carefully and included a funny story about falling into a flower bed. During the speech, his classmates laughed loudly. Daniel lost his smile and finished quickly because he thought they were laughing at him. His teacher noticed his disappointed face and asked him to stay for a minute. To his surprise, she said everyone admired him for his clear voice and sense of humour. They were laughing with him, not at him. On the way home, Daniel told his mother what had happened. She said friendly laughter can show that a speaker has connected with the audience, and Daniel decided to make another speech next month."
+    ],
+    "questions": [
+      {
+        "id": "speech_topic",
+        "question": "What did Daniel prepare for class?",
+        "options": [
+          "A song about a wedding reception.",
+          "A short class speech about his grandfather's old bicycle.",
+          "A poster about a famous bicycle race.",
+          "A joke book for his English teacher."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "开头说 Daniel prepared a short class speech about his grandfather's old bicycle。"
+      },
+      {
+        "id": "funny_story",
+        "question": "What funny story did Daniel include?",
+        "options": [
+          "A story about losing his homework on the bus.",
+          "A story about his teacher riding too fast.",
+          "A story about falling into a flower bed.",
+          "A story about Jenny at a wedding."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "短文说 he included a funny story about falling into a flower bed。"
+      },
+      {
+        "id": "why_nervous",
+        "question": "Why did Daniel become nervous when the class laughed?",
+        "options": [
+          "He thought his classmates were laughing at him.",
+          "He forgot the title of his speech.",
+          "He saw his grandfather leave the classroom.",
+          "He wanted everyone to stay completely silent."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "Daniel 听到大家笑后 lost his smile，因为 he thought they were laughing at him。"
+      },
+      {
+        "id": "teacher_explanation",
+        "question": "What did Daniel's teacher explain?",
+        "options": [
+          "The class did not understand any part of the speech.",
+          "The class admired his clear voice and sense of humour.",
+          "Daniel should never include funny stories again.",
+          "Daniel had to make the same speech at a wedding."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "老师解释说 everyone admired him for his clear voice and sense of humour，大家是在 laughing with him。"
+      },
+      {
+        "id": "confidence_message",
+        "question": "How does the story encourage confident speaking?",
+        "options": [
+          "It shows that friendly laughter can mean the speaker has connected with the audience.",
+          "It says a good speaker must make everyone laugh all the time.",
+          "It teaches students to avoid speeches whenever classmates laugh.",
+          "It proves that a speech is successful only when no one smiles."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾说 friendly laughter can show that a speaker has connected with the audience，所以 Daniel 决定下个月再 make another speech。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 63 的高价值句式：用 admire ... for ... 写欣赏原因，用 asked ... to make a speech 写请求任务，用 This is the sort of thing that ... 写喜欢的活动类型，用 As soon as ... had finished 写完成后立刻发生的事，用 To his surprise 写出乎意料的反应。",
+    "patterns": [
+      {
+        "id": "admire_for",
+        "title": "admire ... for ...",
+        "source": "Everybody admires him for his great sense of humour.",
+        "focus_zh": "admire ... for ... 用来写“因为某个原因而欣赏某人”，for 后面说明具体原因。",
+        "task_zh": "仿写一句：写同学、老师或家人因为一个人的声音、准备、勇气或幽默感而欣赏他。",
+        "must_include": [
+          "admire",
+          "for"
+        ],
+        "min_words": 10,
+        "sample": "My classmates admire Lily for her clear voice and confidence.",
+        "tip_zh": "admire 后面接人，for 后面接原因；原因可以是 courage, hard work, humour 或 clear speech。"
+      },
+      {
+        "id": "asked_to_make_a_speech",
+        "title": "asked ... to make a speech",
+        "source": "One of Jeremy's closest friends asked him to make a speech.",
+        "focus_zh": "asked someone to do something 写“请某人做某事”；to make a speech 表示请某人讲话或做演讲。",
+        "task_zh": "仿写一句：写老师、朋友或家人请某人做一次 class speech、club speech 或 family speech。",
+        "must_include": [
+          "asked",
+          "to make a speech"
+        ],
+        "min_words": 11,
+        "sample": "Our teacher asked Daniel to make a speech about his old bicycle.",
+        "tip_zh": "asked 后面先写被邀请的人，再用 to make a speech 写任务。"
+      },
+      {
+        "id": "sort_of_thing_that",
+        "title": "This is the sort of thing that ...",
+        "source": "This is the sort of thing that Jeremy loves.",
+        "focus_zh": "This is the sort of thing that ... 可以写某人喜欢、害怕或擅长的一类活动。",
+        "task_zh": "仿写一句：写 class presentation、storytelling、answering questions 或 helping friends 是某人喜欢或擅长的事。",
+        "must_include": [
+          "the sort of thing that"
+        ],
+        "min_words": 10,
+        "sample": "This is the sort of thing that Daniel wants to practise.",
+        "tip_zh": "thing 后面的 that 从句说明“这类事”对某人意味着什么。"
+      },
+      {
+        "id": "as_soon_as_had_finished",
+        "title": "As soon as ... had finished, ...",
+        "source": "As soon as he had finished, Jenny told him she wanted to go home.",
+        "focus_zh": "As soon as ... had finished 写“刚刚完成某事，另一件事马上发生”，能让故事转折更清楚。",
+        "task_zh": "仿写一句：写某人刚讲完 speech、presentation 或 story，就听到掌声、笑声或一句评价。",
+        "must_include": [
+          "As soon as",
+          "had finished"
+        ],
+        "min_words": 12,
+        "sample": "As soon as Daniel had finished, his teacher smiled and praised him.",
+        "tip_zh": "As soon as 放句首；had finished 前面要有主语，逗号后写紧接着发生的动作。"
+      },
+      {
+        "id": "to_his_surprise",
+        "title": "To his surprise, ...",
+        "source": "To his surprise, she said she hadn't.",
+        "focus_zh": "To his surprise 用来引出“让他没想到的是”，适合写误会被解开或答案出乎意料。",
+        "task_zh": "仿写一句：写一个人以为别人是在嘲笑他，结果发现大家其实很喜欢他的 speech。",
+        "must_include": [
+          "To his surprise"
+        ],
+        "min_words": 11,
+        "sample": "To his surprise, the class said his funny story was wonderful.",
+        "tip_zh": "逗号后写真正让人意外的结果；不要只写普通动作。"
+      }
+    ]
+  }
+}
