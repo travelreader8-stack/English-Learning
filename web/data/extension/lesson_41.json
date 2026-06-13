@@ -1,0 +1,154 @@
+{
+  "lesson_id": 41,
+  "reading": {
+    "title": "A More Polite Opinion",
+    "intro_zh": "这篇短文不复述帽店里的夫妻争论，而是换到周末市集：朋友之间可以说真实意见，但要避免当众让别人难堪，并练习 needn't / mustn't / needn't have said 的语气差别。",
+    "word_bank": [
+      "rude",
+      "mirror",
+      "try on",
+      "needn't",
+      "mustn't",
+      "regret",
+      "remind",
+      "tie",
+      "terrible",
+      "too many"
+    ],
+    "passage": [
+      "At a weekend market, Mia tried on a silver phone case shaped like a tiny crown. She held it beside the mirror and smiled. Her friend Ben laughed, \"Do you call that a phone case? It looks terrible.\" The words sounded rude because he made her feel silly in front of the shopkeeper. Mia quietly said, \"You needn't be so rude about it.\" Ben looked at his own bright tie, covered with cartoon stars, and began to regret his joke. \"You're right. I needn't have said that,\" he said. \"I only mean we mustn't spend all our money on things we don't need.\" Mia smiled. \"Then I needn't remind you that you collect too many ties.\" Ben tried again: \"It is unusual, but if you love it, choose it.\""
+    ],
+    "questions": [
+      {
+        "id": "unusual_item",
+        "question": "What unusual item did Mia choose at the weekend market?",
+        "options": [
+          "A silver phone case shaped like a tiny crown.",
+          "A lighthouse hat for a formal party.",
+          "A terrible tie with holes in it.",
+          "A mirror for the shopkeeper."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "开头说 Mia tried on a silver phone case shaped like a tiny crown，所以她选的是一个皇冠形状的银色手机壳。"
+      },
+      {
+        "id": "rude_comment",
+        "question": "Why did Ben's first comment sound rude?",
+        "options": [
+          "Because he laughed and made Mia feel silly in front of the shopkeeper.",
+          "Because he quietly asked whether she liked the color.",
+          "Because he reminded her to look in the mirror.",
+          "Because he offered to buy the phone case for her."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "文中说 The words sounded rude because he made her feel silly in front of the shopkeeper，问题不在于不同意，而在于让人难堪。"
+      },
+      {
+        "id": "money_rule",
+        "question": "What did Ben say they mustn't do?",
+        "options": [
+          "They mustn't spend all their money on things they don't need.",
+          "They mustn't try on any unusual accessories.",
+          "They mustn't look in the shop mirror.",
+          "They mustn't talk to the shopkeeper."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "Ben 后来解释说 we mustn't spend all our money on things we don't need，意思是不要把钱都花在不需要的东西上。"
+      },
+      {
+        "id": "repair_comment",
+        "question": "How did Ben repair his rude comment?",
+        "options": [
+          "He admitted he needn't have said that and gave a kinder opinion.",
+          "He laughed louder so everyone could hear him.",
+          "He told Mia never to buy phone cases again.",
+          "He asked the shopkeeper to hide the mirror."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "Ben 说 I needn't have said that，承认刚才那句话没必要，然后改成 It is unusual, but if you love it, choose it。"
+      },
+      {
+        "id": "kind_language",
+        "question": "What social lesson does the story teach?",
+        "options": [
+          "Honest opinions need kind language.",
+          "Friends should always agree about fashion.",
+          "People must buy every unusual thing they see.",
+          "A bright tie is always worse than a phone case."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "故事不是说不能给意见，而是说明 honest opinions 也需要 kind language，不要用嘲笑让别人丢脸。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 41 的购物争论句式：用 Do you call that...? 体会尖锐反问，用 needn't be so... 降低不必要的冒犯，用 mustn't 写规则或自控，用 regretted saying... 写话一出口就后悔，再用 needn't have said... 承认过去那句话本来没必要。",
+    "patterns": [
+      {
+        "id": "do_you_call_that",
+        "title": "Do you call that ...?",
+        "source": "Do you call that a hat?",
+        "focus_zh": "这是一个尖锐的反问，意思不是认真询问名称，而是带着批评或讽刺；写作时要知道它可能会伤人。",
+        "task_zh": "仿写一句：用 Do you call that...? 写一个人对物品或作品的尖锐反问，并补一句说明为什么这种说法要小心使用。",
+        "must_include": [
+          "Do you call that"
+        ],
+        "min_words": 10,
+        "sample": "Do you call that a school project? It still needs a clear title.",
+        "tip_zh": "这个句式语气很重，适合分析故事冲突；真实交流中常常需要换成更礼貌的表达。"
+      },
+      {
+        "id": "neednt_be_so",
+        "title": "needn't be so ...",
+        "source": "You needn't be so rude about it.",
+        "focus_zh": "needn't be so... 表示“没必要这么……”，常用来提醒对方降低语气或态度。",
+        "task_zh": "仿写一句：写某人提醒朋友不用那么生气、紧张、直接或不客气。",
+        "must_include": [
+          "needn't be so"
+        ],
+        "min_words": 9,
+        "sample": "You needn't be so nervous about trying on the unusual jacket.",
+        "tip_zh": "needn't 后面接动词原形 be；so 后面放形容词，如 rude, worried, nervous, direct。"
+      },
+      {
+        "id": "mustnt_buy_need",
+        "title": "mustn't buy things we don't need",
+        "source": "We mustn't buy things we don't need.",
+        "focus_zh": "mustn't 表示比较强的禁止或规则，用在花钱场景里像是在提醒自己要自控。",
+        "task_zh": "仿写一句：写一群人或一个家庭不应该因为东西新奇、漂亮或打折就买不需要的东西。",
+        "must_include": [
+          "mustn't"
+        ],
+        "min_words": 10,
+        "sample": "We mustn't buy things we don't need just because they look new.",
+        "tip_zh": "mustn't 比 don't need to 更强，像给自己立一条规则。"
+      },
+      {
+        "id": "regretted_saying",
+        "title": "regretted saying ...",
+        "source": "I regretted saying it almost at once.",
+        "focus_zh": "regretted saying... 写“说出口之后后悔”，后面常接 it, that, 或具体说过的话。",
+        "task_zh": "仿写一句：写某人开了一个不合适的玩笑或说了太直接的话，马上就后悔了。",
+        "must_include": [
+          "regretted saying"
+        ],
+        "min_words": 10,
+        "sample": "I regretted saying that joke as soon as I saw her face.",
+        "tip_zh": "regretted 后面接动名词 saying；as soon as 可以写出“立刻后悔”的节奏。"
+      },
+      {
+        "id": "neednt_have_said",
+        "title": "needn't have said ...",
+        "source": "You needn't have said that.",
+        "focus_zh": "needn't have said... 表示“你已经说了，但那句话本来没必要”，常带一点责备或提醒。",
+        "task_zh": "仿写一句：写某人指出别人刚才那句话没必要，尤其是在别人面前让人难堪时。",
+        "must_include": [
+          "needn't have said"
+        ],
+        "min_words": 9,
+        "sample": "You needn't have said that in front of the whole group.",
+        "tip_zh": "needn't have done 专门评价已经发生的过去动作：做了，但其实没必要做。"
+      }
+    ]
+  }
+}
