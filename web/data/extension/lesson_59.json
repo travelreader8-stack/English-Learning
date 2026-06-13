@@ -35,48 +35,48 @@
         "id": "training_reason",
         "question": "Why did Mum train Emma to press the button?",
         "options": [
-          "Because the neighbour complained of the shouting noise.",
           "Because Emma wanted to learn how to repair a door.",
           "Because the playroom was too bright in the afternoon.",
+          "Because the neighbour complained of the shouting noise.",
           "Because Mum wanted Emma to stop building towers."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "短文说 The neighbour next door complained of the noise，所以妈妈才装按钮并训练 Emma press the blue button。"
       },
       {
         "id": "new_skill",
         "question": "What new skill did Emma learn?",
         "options": [
-          "She learned to press the smart doorbell so that she could let herself in.",
           "She learned to complain politely to the neighbour.",
+          "She learned to press the smart doorbell so that she could let herself in.",
           "She learned to switch off the family phone.",
           "She learned to open the front gate with a latch."
         ],
-        "answer_index": 0,
+        "answer_index": 1,
         "explanation_zh": "Mum trained Emma to press the blue button，结果 the door would click open and Emma could let herself in。"
       },
       {
         "id": "new_problem",
         "question": "How did the new skill create another problem?",
         "options": [
-          "Emma pressed the doorbell from inside so that someone would admire each tower.",
           "Emma forgot where the playroom was.",
           "The neighbour moved away and took the button.",
-          "The smart doorbell never worked at all."
+          "The smart doorbell never worked at all.",
+          "Emma pressed the doorbell from inside so that someone would admire each tower."
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "explanation_zh": "问题反转在 However 后面：Emma 从 playroom 里面按门铃，目的是让别人 come and admire each tower。"
       },
       {
         "id": "loop_break",
         "question": "What happened after Dad switched off the button?",
         "options": [
-          "The room became quiet, but Emma began sending photos instead.",
           "Emma immediately stopped building towers forever.",
           "The neighbour came in to fix the playroom.",
+          "The room became quiet, but Emma began sending photos instead.",
           "Mum trained Emma to bark at the door."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "结尾说 Dad switched off the button 之后，The room became quiet, but Emma began sending photos instead，说明按钮循环被打断，但喜剧还留着。"
       }
     ]
