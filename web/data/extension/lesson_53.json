@@ -1,0 +1,156 @@
+{
+  "lesson_id": 53,
+  "reading": {
+    "title": "The Wet Backpack Mystery",
+    "intro_zh": "这篇短文把 Lesson 53 的“查原因、排除常见可能、发现真正线索”换到安全的校园场景：书包湿了，大家先检查常见原因，最后用 evidence 解开一个 harmless mystery。重点练习 at last、find out、cause、carelessly、examine、quite sure、accidentally、in this way、explanation 和 evidence。",
+    "word_bank": [
+      "at last",
+      "find out",
+      "cause",
+      "carelessly",
+      "examine",
+      "quite sure",
+      "accidentally",
+      "in this way",
+      "explanation",
+      "evidence"
+    ],
+    "passage": [
+      "At last, Leo reached the classroom with a wet backpack. Since then, Leo and his group have been trying to find out the cause. Wet bags are often caused by rain or by bottles which students carelessly close. First, they examined the outside carefully. They were quite sure it had not rained, and they were not able to find any water on the floor. Then Leo accidentally discovered a small clue. His lunch box was dry, but a folded art paper inside the front pocket was wet only at one corner. In this way, he solved the mystery. The explanation was simple but unusual: a cold juice box had been left beside the paper, and drops from it had made the corner wet. The evidence showed the true cause."
+    ],
+    "questions": [
+      {
+        "id": "mystery",
+        "question": "What mystery did Leo's group try to solve?",
+        "options": [
+          "Why Leo's backpack was wet.",
+          "Why the classroom door was locked.",
+          "Why Leo lost his lunch box.",
+          "Why the art lesson was cancelled."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文开头说 Leo reached the classroom with a wet backpack，大家一直想 find out the cause，所以谜题是书包为什么湿了。"
+      },
+      {
+        "id": "common_causes",
+        "question": "Which common causes did they check first?",
+        "options": [
+          "Rain and a carelessly closed bottle.",
+          "A broken window and a lost key.",
+          "A dirty desk and a noisy class.",
+          "A heavy book and a torn pocket."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 wet bags are often caused by rain or by bottles which students carelessly close，他们先检查了下雨和水瓶没关好这两个常见原因。"
+      },
+      {
+        "id": "missing_evidence",
+        "question": "What evidence could they not find?",
+        "options": [
+          "Water on the floor.",
+          "A dry lunch box.",
+          "An art paper in the pocket.",
+          "A cold juice box."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "他们 were not able to find any water on the floor，所以没有找到地上有水这个证据。"
+      },
+      {
+        "id": "unusual_cause",
+        "question": "What unusual cause did Leo discover?",
+        "options": [
+          "Drops from a cold juice box had made one corner of the paper wet.",
+          "Rain had fallen through a hole in the roof.",
+          "A classmate had poured water into the backpack.",
+          "The lunch box had spilled soup all over the books."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "真正原因不是雨或水瓶，而是 a cold juice box 旁边的水珠把纸的一角弄湿了。"
+      },
+      {
+        "id": "logical_solution",
+        "question": "How did Leo solve the mystery logically?",
+        "options": [
+          "He checked common causes, noticed the wet corner, and matched it with the juice box.",
+          "He guessed the answer before examining anything.",
+          "He threw the wet paper away and stopped asking questions.",
+          "He blamed the weather because wet bags are always caused by rain."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "Leo 先排除常见原因，再注意到 paper 只有一个角湿，最后把这个 evidence 和 cold juice box 对上，所以是按逻辑解谜。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 53 的“调查原因”句式：用 At last 写问题终于有进展，用 Since then...have been trying to... 写持续调查，用 are often caused by... 写常见原因，用 were not able to find... 写没有找到证据，最后用 In this way...solved the mystery 写解开谜团。",
+    "patterns": [
+      {
+        "id": "at_last_relief",
+        "title": "At last, ...",
+        "source": "At last firemen have put out a big forest fire.",
+        "focus_zh": "At last 放在句首，表示一件拖了很久、让人着急的事终于有了结果。",
+        "task_zh": "仿写一句：写一个问题、比赛、作业或寻找过程终于结束了。",
+        "must_include": [
+          "At last"
+        ],
+        "min_words": 8,
+        "sample": "At last, we found the missing notebook under the music stand.",
+        "tip_zh": "At last 后面通常接一个完整句子，语气是“终于”。"
+      },
+      {
+        "id": "since_then_trying",
+        "title": "Since then, ... have been trying to ...",
+        "source": "Since then, they have been trying to find out how the fire began.",
+        "focus_zh": "Since then 指“从那以后”；have been trying to 强调这件事一直在持续努力。",
+        "task_zh": "仿写一句：写从某个时间点以后，你们一直在努力查清或完成一件事。",
+        "must_include": [
+          "Since then",
+          "have been trying to"
+        ],
+        "min_words": 12,
+        "sample": "Since then, we have been trying to find out why the classroom smells strange.",
+        "tip_zh": "主语用 we/they 时，后面自然接 have been trying to；再接动词原形。"
+      },
+      {
+        "id": "caused_by_common",
+        "title": "are often caused by ...",
+        "source": "Forest fires are often caused by broken glass or by cigarette ends.",
+        "focus_zh": "are often caused by 用来写“某种结果通常由什么原因造成”，很适合解释常见原因。",
+        "task_zh": "仿写一句：写一种小问题常常由哪些原因引起。",
+        "must_include": [
+          "are often caused by"
+        ],
+        "min_words": 10,
+        "sample": "Wet notebooks are often caused by open bottles or rainy backpacks.",
+        "tip_zh": "先写结果，再用 are often caused by 接两个可能原因。"
+      },
+      {
+        "id": "not_able_find",
+        "title": "were not able to find ...",
+        "source": "They were not able to find any broken glass.",
+        "focus_zh": "were not able to find 比 did not find 更突出“努力找过，但没有找到”。",
+        "task_zh": "仿写一句：写你们仔细检查后，没有找到预想中的证据。",
+        "must_include": [
+          "were not able to find"
+        ],
+        "min_words": 10,
+        "sample": "We were not able to find any water on the classroom floor.",
+        "tip_zh": "后面可以接 any evidence, any marks, any water，让“没有证据”更清楚。"
+      },
+      {
+        "id": "in_this_way_mystery",
+        "title": "In this way, ... solved the mystery",
+        "source": "In this way, he was able to solve the mystery.",
+        "focus_zh": "In this way 用来回指前面的方法或线索，再说明谜题被解开。",
+        "task_zh": "仿写一句：写某人通过一个线索或步骤解开了一个小谜题。",
+        "must_include": [
+          "In this way",
+          "mystery"
+        ],
+        "min_words": 10,
+        "sample": "In this way, Leo solved the mystery of the wet backpack.",
+        "tip_zh": "先想清楚“this way”指哪一步，再写 solved the mystery，句子会更有逻辑。"
+      }
+    ]
+  }
+}
