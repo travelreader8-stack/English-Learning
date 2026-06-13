@@ -1,0 +1,142 @@
+{
+  "lesson_id": 1,
+  "reading": {
+    "title": "Too Loud in the Library",
+    "intro_zh": "这篇短文不复述剧院里的争执，而是换到现代图书馆自习区：两位同学聊的是私人事情，但音量太大，仍然打扰了共享空间里的其他人。重点回收 private / conversation / seat / loudly / pay attention / angry / rudely / none of your business，并把社交边界讲清楚。",
+    "word_bank": [
+      "private",
+      "conversation",
+      "seat",
+      "loudly",
+      "pay attention",
+      "angry",
+      "rudely",
+      "shared space",
+      "polite reminder",
+      "none of your business"
+    ],
+    "passage": [
+      "Last Friday I went to the library after school. I had a very good seat near the window, and I wanted to finish my science notes. Two students sat behind me and began a private conversation about a birthday party. At first I tried to pay attention to my work, but they were talking loudly. Other readers looked at them, but they did not stop. I turned round and gave them a polite reminder. One student answered rudely, \"It's none of your business.\" I felt angry, but I did not shout. I told the librarian instead. She explained that a library is a shared space. A conversation may be private, but loud voices are still public."
+    ],
+    "questions": [
+      {
+        "id": "shared_space",
+        "question": "Where did the shared-space problem happen?",
+        "options": [
+          "In a library after school.",
+          "In a theatre during a play.",
+          "On a noisy bus.",
+          "At a birthday party."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文开头说 Last Friday I went to the library after school，问题发生在图书馆。"
+      },
+      {
+        "id": "noise_problem",
+        "question": "What made the private conversation disturb other people?",
+        "options": [
+          "The students were talking loudly in a quiet shared space.",
+          "The students were writing science notes.",
+          "The narrator chose a seat near the window.",
+          "The librarian closed the library early."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "他们聊的是 private conversation，但 they were talking loudly，所以打扰了共享空间里的其他人。"
+      },
+      {
+        "id": "first_reaction",
+        "question": "How did the narrator first react?",
+        "options": [
+          "The narrator tried to pay attention to the work.",
+          "The narrator shouted at the students at once.",
+          "The narrator left the library immediately.",
+          "The narrator joined the conversation."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "文中说 At first I tried to pay attention to my work，说明叙述者一开始先努力专心。"
+      },
+      {
+        "id": "rude_answer",
+        "question": "Why was \"It's none of your business\" not acceptable here?",
+        "options": [
+          "Because the students' loud voices affected people in a shared space.",
+          "Because nobody is allowed to have a birthday party.",
+          "Because the narrator wanted to know their secret.",
+          "Because libraries never allow students to sit together."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "对话内容可以是私人的，但声音影响了别人，就不只是“与你无关”的问题了。"
+      },
+      {
+        "id": "social_lesson",
+        "question": "What is the social lesson of the story?",
+        "options": [
+          "Private content still needs public manners.",
+          "A private conversation should always be louder.",
+          "It is rude to ask a librarian for help.",
+          "A good seat makes every problem disappear."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾点明：A conversation may be private, but loud voices are still public。私人内容也需要公共礼貌。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天的句式仿写围绕 Lesson 1 的冲突推进：先写一个很好的位置，再写别人不理会提醒，接着写自己忍到极限，最后理解一句很冲的边界话。注意：none of your business 很直接，仿写时要知道语气，不要随便用来怼人。",
+    "patterns": [
+      {
+        "id": "had_a_very_good",
+        "title": "I had a very good ...",
+        "source": "I had a very good seat.",
+        "focus_zh": "用 I had a very good ... 先建立一个好的期待，再让后面的麻烦形成反差。",
+        "task_zh": "仿写一句：你在电影院、教室、图书馆或比赛现场有一个很好的位置。",
+        "must_include": [
+          "had a very good"
+        ],
+        "min_words": 8,
+        "sample": "I had a very good seat near the window.",
+        "tip_zh": "had a very good 后面接具体名词，比如 seat, place, view。"
+      },
+      {
+        "id": "did_not_pay_any_attention",
+        "title": "did not pay any attention",
+        "source": "They did not pay any attention.",
+        "focus_zh": "用 did not pay any attention 写别人没有理会提醒、眼神或规则。",
+        "task_zh": "仿写一句：有人没有理会老师、同学、家长或公共提示。",
+        "must_include": [
+          "did not pay any attention"
+        ],
+        "min_words": 8,
+        "sample": "The two boys did not pay any attention to the sign.",
+        "tip_zh": "后面常接 to，再写被忽视的人、提醒或标志。"
+      },
+      {
+        "id": "in_the_end_could_not",
+        "title": "In the end, I could not ...",
+        "source": "In the end, I could not bear it.",
+        "focus_zh": "用 In the end, I could not ... 表示事情持续了一段时间后，终于到了忍耐极限。",
+        "task_zh": "仿写一句：你一开始忍着，最后实在不能继续忍受某件事。",
+        "must_include": [
+          "In the end",
+          "could not"
+        ],
+        "min_words": 9,
+        "sample": "In the end, I could not finish my homework in the noise.",
+        "tip_zh": "In the end 放句首后加逗号；could not 后面接动词原形。"
+      },
+      {
+        "id": "none_of_your_business",
+        "title": "It's none of your business",
+        "source": "It's none of your business.",
+        "focus_zh": "这句话表示“这不关你的事”，语气很硬。适合理解冲突中的无礼回应，不适合随便对朋友或老师说。",
+        "task_zh": "仿写一句：在一个小故事里写出这句无礼回应，并让读者看出为什么它不合适。",
+        "must_include": [
+          "none of your business"
+        ],
+        "min_words": 10,
+        "sample": "He said, \"It's none of your business,\" but his loud music kept everyone awake.",
+        "tip_zh": "可以放在引号里当人物原话；后半句说明它为什么 rude。"
+      }
+    ]
+  }
+}

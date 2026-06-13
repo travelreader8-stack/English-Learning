@@ -1,0 +1,159 @@
+{
+  "lesson_id": 5,
+  "reading": {
+    "title": "The Offline Message Board",
+    "intro_zh": "这篇短文不复述原文，而是换到学校社团的新活动室：网络用不了时，学生自己设计了一个离线留言板服务。重点回收 message / distance / request / urgent / spare / up to now / in this way / service / backup。",
+    "word_bank": [
+      "message",
+      "distance",
+      "request",
+      "urgent",
+      "spare",
+      "only five minutes away",
+      "up to now",
+      "in this way",
+      "service",
+      "backup"
+    ],
+    "passage": [
+      "The science club has just opened another activity room beside the library. The old room is only five minutes away, but the new room cannot get Wi-Fi, so the students made a backup message board. One student carries a small notebook between the two rooms every break. On Monday, the notebook carried the first message about a missing charger. It covered the distance in three minutes. Up to now, the club has sent a great many requests for spare wires, tools, and other urgent messages from one room to the other. In this way, the students have begun their own private information service. It is not high-tech, but it works when the normal channel fails."
+    ],
+    "questions": [
+      {
+        "id": "normal_channel",
+        "question": "What normal communication channel was unavailable in the new room?",
+        "options": [
+          "The new room could not get Wi-Fi.",
+          "The library could not get new books.",
+          "The old room could not find a charger.",
+          "The students could not open the door."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 the new room cannot get Wi-Fi，所以正常通信渠道是 Wi-Fi 用不了。"
+      },
+      {
+        "id": "backup_system",
+        "question": "What backup system did the students create?",
+        "options": [
+          "They made a backup message board and used a notebook.",
+          "They bought twelve walkie-talkies for the club.",
+          "They moved the library to another building.",
+          "They sent every message to the wrong group."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "学生 made a backup message board，并让 notebook 在两个房间之间传递信息。"
+      },
+      {
+        "id": "short_distance",
+        "question": "How far apart were the two activity rooms?",
+        "options": [
+          "They were only five minutes away.",
+          "They were five miles away.",
+          "They were in different cities.",
+          "They were across a large river."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "文中说 The old room is only five minutes away，强调距离很近。"
+      },
+      {
+        "id": "message_types",
+        "question": "What kinds of messages has the club sent up to now?",
+        "options": [
+          "Requests for spare wires, tools, and other urgent messages.",
+          "Long stories about holidays and birthday parties.",
+          "Secret game scores from another school.",
+          "Messages about buying new desks."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "关键句是 requests for spare wires, tools, and other urgent messages。"
+      },
+      {
+        "id": "why_worked",
+        "question": "Why did the backup service work?",
+        "options": [
+          "Because it moved messages reliably when the normal channel failed.",
+          "Because it made the Wi-Fi faster than before.",
+          "Because it stopped students from writing messages.",
+          "Because it made the two rooms farther apart."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾说 it works when the normal channel fails，说明它可靠地完成了备用通信。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天的句式仿写抓住 Lesson 5 的五个核心结构：刚刚扩展到另一个地点、两个地方距离很近、无法获得某种服务所以想办法、到目前为止已经发送了许多信息，以及用 In this way 收束成一个新系统。",
+    "patterns": [
+      {
+        "id": "has_just_another",
+        "title": "has just ... another ...",
+        "source": "He has just bought another garage.",
+        "focus_zh": "has just 表示刚刚完成的动作，another 表示又多了一个同类地点或物品，适合写最近的扩展。",
+        "task_zh": "仿写一句：写某人、学校或社团刚刚又买了、做了、开了或建立了另一个东西。",
+        "must_include": [
+          "has just",
+          "another"
+        ],
+        "min_words": 9,
+        "sample": "Our club has just opened another room for weekend projects.",
+        "tip_zh": "another 后面接单数名词；has just 后面用过去分词，如 opened, made, bought。"
+      },
+      {
+        "id": "is_only_from",
+        "title": "is only ... from ...",
+        "source": "Pinhurst is only five miles from Silbury.",
+        "focus_zh": "is only ... from ... 用来说明两个地点距离不远，only 让短距离更突出。",
+        "task_zh": "仿写一句：写两个教室、两栋楼或两个地点之间距离很近。",
+        "must_include": [
+          "is only",
+          "from"
+        ],
+        "min_words": 8,
+        "sample": "The new activity room is only five minutes from the library.",
+        "tip_zh": "中间可以写 five minutes, two blocks, one street 等距离或时间。"
+      },
+      {
+        "id": "cannot_get_so",
+        "title": "cannot get ... so ...",
+        "source": "Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons.",
+        "focus_zh": "这个结构先写无法获得某种服务或工具，再用 so 引出解决办法。",
+        "task_zh": "仿写一句：写一个地方无法获得信号、网络、钥匙或工具，所以大家想出一个实际办法。",
+        "must_include": [
+          "cannot get",
+          "so"
+        ],
+        "min_words": 11,
+        "sample": "The room cannot get Wi-Fi, so we use a shared notebook.",
+        "tip_zh": "so 后面要给出真正的解决动作，不要只重复问题。"
+      },
+      {
+        "id": "up_to_now_has_sent",
+        "title": "Up to now, ... has sent ...",
+        "source": "Up to now, Mr. Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other.",
+        "focus_zh": "Up to now 把时间拉到现在，has sent 表示从过去到现在已经发送了许多次。",
+        "task_zh": "仿写一句：写一个人、班级或团队到目前为止已经发送了许多请求或紧急消息。",
+        "must_include": [
+          "Up to now",
+          "has sent"
+        ],
+        "min_words": 12,
+        "sample": "Up to now, the team has sent many requests for spare wires.",
+        "tip_zh": "Up to now 后面常用现在完成时；主语是单数时用 has sent。"
+      },
+      {
+        "id": "in_this_way_has_begun",
+        "title": "In this way, ... has begun ...",
+        "source": "In this way, he has begun his own private 'telephone' service.",
+        "focus_zh": "In this way 总结前面的办法，has begun 说明这个办法已经形成了一个新系统。",
+        "task_zh": "仿写一句：写某人用这种方法开始了自己的小服务、小系统或新习惯。",
+        "must_include": [
+          "In this way",
+          "has begun"
+        ],
+        "min_words": 10,
+        "sample": "In this way, our class has begun its own backup service.",
+        "tip_zh": "In this way 后面不要只写想法，要写已经开始的结果。"
+      }
+    ]
+  }
+}

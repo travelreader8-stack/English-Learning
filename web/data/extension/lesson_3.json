@@ -1,0 +1,154 @@
+{
+  "lesson_id": 3,
+  "reading": {
+    "title": "The Unsent Travel Message",
+    "intro_zh": "这篇短文不复述明信片故事，而是换到现代旅行里的小承诺：答应发送旅行相册和几句话，却一直在准备、挑选、修改，最后仍然什么也没有发出去。",
+    "word_bank": [
+      "spoil",
+      "holiday",
+      "travel photos",
+      "a few lines",
+      "decision",
+      "the whole day",
+      "not a single",
+      "message",
+      "promise",
+      "quickly"
+    ],
+    "passage": [
+      "Before her school holiday, Mina made a promise to her cousin: she would send a small travel album and a short message from the seaside. At first, the promise sounded easy. Every evening she took many travel photos, but the little task began to spoil her holiday. She kept thinking, \"I must send it tonight.\" On the last day, Mina made a big decision. She stayed in the hotel room, chose twelve photos, changed their order, and wrote a few lines under the first picture. The whole day passed quickly. At dinner, her mother asked, \"Did you send the album?\" Mina looked at her phone. She had prepared everything, but she had not sent a single message."
+    ],
+    "questions": [
+      {
+        "id": "promised_task",
+        "question": "What small task did Mina promise to do?",
+        "options": [
+          "Send a small travel album and a short message to her cousin.",
+          "Buy postcards for every student in her class.",
+          "Teach her cousin a few words of Italian.",
+          "Write a long report about all seaside hotels."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "开头说明 Mina promised to send a small travel album and a short message from the seaside。"
+      },
+      {
+        "id": "spoiled_mood",
+        "question": "Why did the task begin to spoil her holiday?",
+        "options": [
+          "Because she had to take photos for a newspaper.",
+          "Because she kept thinking that she must send it tonight.",
+          "Because her cousin did not like travel photos.",
+          "Because the hotel room had no windows."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文说 she kept thinking, \"I must send it tonight.\" 这个没完成的小任务影响了她的假期心情。"
+      },
+      {
+        "id": "looked_productive",
+        "question": "Which action looked productive but still did not finish the task?",
+        "options": [
+          "She swam in the sea all morning.",
+          "She chose photos, changed their order, and wrote a few lines.",
+          "She called her cousin and sent the album at once.",
+          "She bought thirty-seven cards from a shop."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "这些准备看起来很忙，但还没有真正完成发送这个动作。"
+      },
+      {
+        "id": "not_sent",
+        "question": "What had Mina still not sent at the end?",
+        "options": [
+          "A single message.",
+          "A hotel key.",
+          "A school bag.",
+          "A seaside ticket."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾说 she had not sent a single message，强调一条也没有发出去。"
+      },
+      {
+        "id": "main_lesson",
+        "question": "What lesson does the story show?",
+        "options": [
+          "Taking photos is always a waste of time.",
+          "A holiday should never include any promise.",
+          "Preparation is not the same as completion.",
+          "A short message must be longer than an album."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "Mina 做了很多准备，但没有发送，所以重点是：准备不等于完成。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天的仿写不围绕明信片本身，而是抓住 Lesson 3 里最有迁移价值的拖延表达：某事总破坏心情、学会一点点、完全没看懂、作出重大决定，以及 not a single 强调一件也没完成。",
+    "patterns": [
+      {
+        "id": "always_spoil_my",
+        "title": "always spoil my ...",
+        "source": "Postcards always spoil my holidays.",
+        "focus_zh": "用 always spoil my... 写某件反复出现的小事破坏了心情、假期或周末。",
+        "task_zh": "仿写一句：写一个没完成的任务、提醒或消息总是破坏你的好心情。",
+        "must_include": [
+          "always spoil my"
+        ],
+        "min_words": 8,
+        "sample": "Unfinished homework always spoils my weekends.",
+        "tip_zh": "spoil 这里不是把东西弄坏，而是把心情或一段时间搅乱。"
+      },
+      {
+        "id": "a_few_words_of",
+        "title": "a few words of ...",
+        "source": "A friendly waiter taught me a few words of Italian.",
+        "focus_zh": "a few words of... 表示只学会某种语言或技能里的一小点内容。",
+        "task_zh": "仿写一句：写某人教了你一点点外语、电脑技巧或地方方言。",
+        "must_include": [
+          "a few words of"
+        ],
+        "min_words": 9,
+        "sample": "A friendly guide taught me a few words of French.",
+        "tip_zh": "a few words of 后面接语言最自然，也可以接一个小范围的知识。"
+      },
+      {
+        "id": "did_not_understand_a_word",
+        "title": "did not understand a word",
+        "source": "I read a few lines, but I did not understand a word.",
+        "focus_zh": "这个结构表达“试了，但完全没懂”，语气比 I did not understand it 更强。",
+        "task_zh": "仿写一句：写你读了几行说明、菜单或文章，但一个字也没看懂。",
+        "must_include": [
+          "did not understand a word"
+        ],
+        "min_words": 10,
+        "sample": "I read the museum notice, but I did not understand a word.",
+        "tip_zh": "前半句先写尝试，but 后面用 did not understand a word 给出完整失败。"
+      },
+      {
+        "id": "made_a_big_decision",
+        "title": "made a big decision",
+        "source": "On the last day I made a big decision.",
+        "focus_zh": "made a big decision 听起来很郑重，可以用来写拖延很久后终于决定开始。",
+        "task_zh": "仿写一句：写某人拖到最后一天，终于作出一个看似重大的决定。",
+        "must_include": [
+          "made a big decision"
+        ],
+        "min_words": 10,
+        "sample": "On Sunday night, I made a big decision to start my diary.",
+        "tip_zh": "这个句式常带一点幽默感：决定很大，但后面的行动可能很小。"
+      },
+      {
+        "id": "not_a_single",
+        "title": "not a single ...",
+        "source": "I did not write a single card!",
+        "focus_zh": "not a single... 强调“一件都没有”，特别适合写忙了一天却零完成。",
+        "task_zh": "仿写一句：写某人花了很多时间准备，但最后一条消息、一页作业或一张照片也没发出去。",
+        "must_include": [
+          "not a single"
+        ],
+        "min_words": 10,
+        "sample": "I spent the whole evening choosing photos, but I sent not a single message.",
+        "tip_zh": "not a single 后面接单数名词，如 message, page, photo, card。"
+      }
+    ]
+  }
+}

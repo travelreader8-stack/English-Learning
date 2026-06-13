@@ -1,0 +1,155 @@
+{
+  "lesson_id": 4,
+  "reading": {
+    "title": "A Message From Abroad",
+    "intro_zh": "这篇短文不复述 Tim 的澳大利亚路线，而是换成一个表姐从加拿大发来的现代远距离更新：她已经在国外工作了一段时间，已经去过一些地方，接下来还要继续出发。重点练习 present perfect 作为“人生状态更新”。",
+    "word_bank": [
+      "received",
+      "abroad",
+      "engineer",
+      "firm",
+      "different places",
+      "has been",
+      "has already visited",
+      "has gone to",
+      "will soon",
+      "never been abroad before"
+    ],
+    "passage": [
+      "My cousin Anna has just sent me a long message from Canada. She is an engineer and is working for a small firm in Vancouver. She has been there for four months. In her message, she sent photos of the harbour, a snowy park, and a quiet island. She has already visited several different places near the city. Last week she bought a second-hand bicycle and has gone to Victoria for the weekend. She will soon take a train through the mountains to Calgary. Anna had never been abroad before, so every new street, station, and map line feels exciting to her. When I read her message, my own town suddenly felt connected to a much larger world."
+    ],
+    "questions": [
+      {
+        "id": "sender_and_place",
+        "question": "Who sent the update, and where is she?",
+        "options": [
+          "Anna sent it from Canada.",
+          "Tim sent it from Australia.",
+          "Anna sent it from a town near the narrator's home.",
+          "A teacher sent it from a school trip."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文开头说 My cousin Anna has just sent me a long message from Canada。"
+      },
+      {
+        "id": "duration",
+        "question": "How long has Anna been in Vancouver?",
+        "options": [
+          "For one week.",
+          "For four months.",
+          "For six years.",
+          "For only one day."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中说 She has been there for four months，说明这个状态从过去持续到现在。"
+      },
+      {
+        "id": "already_visited",
+        "question": "What has Anna already visited?",
+        "options": [
+          "Only one shopping mall near her office.",
+          "Several different places near Vancouver.",
+          "Alice Springs, Darwin, and Perth.",
+          "The narrator's own town."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文说 She has already visited several different places near the city。"
+      },
+      {
+        "id": "next_plan",
+        "question": "What will Anna soon do?",
+        "options": [
+          "She will soon return home and stop travelling.",
+          "She will soon buy an Australian car.",
+          "She will soon take a train through the mountains to Calgary.",
+          "She will soon move to the narrator's town."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "will soon 后面写的是 take a train through the mountains to Calgary。"
+      },
+      {
+        "id": "exciting_reason",
+        "question": "Why does the trip feel exciting to Anna?",
+        "options": [
+          "Because she has never been abroad before.",
+          "Because she dislikes every new place.",
+          "Because she is reading an old letter at home.",
+          "Because she has finished all her travel plans."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾说 Anna had never been abroad before，所以新的街道、车站和地图路线都让她觉得 exciting。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天的仿写抓住 Lesson 4 的五个“远方人生更新”句型：刚收到某人的消息、在某地待了多久、已经去过哪里、已经去了某地还没回来，以及第一次出国带来的新鲜感。",
+    "patterns": [
+      {
+        "id": "have_just_received_from",
+        "title": "have just received ... from ...",
+        "source": "I have just received a letter from my brother, Tim.",
+        "focus_zh": "用 have just received...from... 写一条刚到的消息、邮件、照片或电话更新。",
+        "task_zh": "仿写一句：你刚刚收到某个远方亲友、同学或老师发来的消息。",
+        "must_include": [
+          "have just received",
+          "from"
+        ],
+        "min_words": 9,
+        "sample": "I have just received a voice message from my aunt in Canada.",
+        "tip_zh": "have just received 强调“刚收到”；from 后面写消息来自谁。"
+      },
+      {
+        "id": "has_been_there_for",
+        "title": "has been there for ...",
+        "source": "He has been there for six months.",
+        "focus_zh": "has been there for... 表示某人从过去到现在一直在那个地方。",
+        "task_zh": "仿写一句：某人现在在外地或国外，并且已经在那里待了一段时间。",
+        "must_include": [
+          "has been there for"
+        ],
+        "min_words": 9,
+        "sample": "My cousin is in Vancouver, and she has been there for four months.",
+        "tip_zh": "there 指前面已经提到的地点；for 后面接一段时间。"
+      },
+      {
+        "id": "has_already_visited",
+        "title": "has already visited ...",
+        "source": "He has already visited a great number of different places.",
+        "focus_zh": "has already visited... 把“到现在为止已经完成的旅行经历”说出来。",
+        "task_zh": "仿写一句：某人到现在已经参观或去过几个地方。",
+        "must_include": [
+          "has already visited"
+        ],
+        "min_words": 9,
+        "sample": "She has already visited three different places near the city.",
+        "tip_zh": "already 放在 has 后面，visited 后面接去过的地方。"
+      },
+      {
+        "id": "has_gone_to",
+        "title": "has gone to ...",
+        "source": "He has gone to Alice Springs.",
+        "focus_zh": "has gone to... 表示某人已经去了某地，现在不在原来的地方或还没回来。",
+        "task_zh": "仿写一句：某人已经去了一个地方，并说明他/她稍后会做什么或回来。",
+        "must_include": [
+          "has gone to"
+        ],
+        "min_words": 9,
+        "sample": "My brother has gone to the airport and will call me later.",
+        "tip_zh": "不要把 has gone to 和 has been to 混在一起；这里强调人已经出发去了那里。"
+      },
+      {
+        "id": "has_never_been_abroad_before",
+        "title": "has never been abroad before",
+        "source": "My brother has never been abroad before.",
+        "focus_zh": "has never been abroad before 表示过去到现在都没有过出国经历，所以这次是第一次。",
+        "task_zh": "仿写一句：某人以前从未出过国，所以这次旅行、学习或工作让他/她很兴奋。",
+        "must_include": [
+          "has never been abroad before"
+        ],
+        "min_words": 10,
+        "sample": "My sister has never been abroad before, so this trip feels exciting to her.",
+        "tip_zh": "before 放在句末很自然；后半句可以解释为什么这件事让人 excited。"
+      }
+    ]
+  }
+}
