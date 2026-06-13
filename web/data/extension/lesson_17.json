@@ -60,11 +60,11 @@
         "question": "What did everyone believe after rehearsal?",
         "options": [
           "Mei was really six years old.",
-          "The role in the short film.",
           "The school festival was cancelled.",
-          "Costumes were not useful."
+          "Costumes were not useful.",
+          "The role in the short film."
         ],
-        "answer_index": 1,
+        "answer_index": 3,
         "explanation_zh": "短文写道 after rehearsal everyone believed the role，不是相信 Mei 真的变小了。"
       },
       {
