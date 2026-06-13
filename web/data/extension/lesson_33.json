@@ -1,0 +1,155 @@
+{
+  "lesson_id": 33,
+  "reading": {
+    "title": "The Path Above the Tide",
+    "intro_zh": "这篇短文不复述女孩夜海求生的原文，而是换到一次海边步行：雾和潮水让低处路线变危险，孩子根据 coastguard 提示、cliff path 和前方灯光选择安全方向。",
+    "word_bank": [
+      "coast",
+      "storm",
+      "shore",
+      "cliff",
+      "light ahead",
+      "set out",
+      "be caught in",
+      "cover a distance",
+      "struggle up",
+      "safe path",
+      "coastguard"
+    ],
+    "passage": [
+      "On a cloudy afternoon, Maya and her younger cousin set out from a small car park near the coast. They wanted to follow the shore path to the old picnic field, but the wind grew colder and a thick fog came in from the sea. Soon the tide covered part of the lower path, and they could not see the beach clearly. Maya remembered the coastguard notice: stay above the tide and follow the marked cliff path. They climbed carefully, keeping the fence on their left. After covering a distance of two miles, they saw a light ahead at the lifeboat station. They walked towards it and told an adult what had happened. They were tired, but they had chosen the safe path."
+    ],
+    "questions": [
+      {
+        "id": "set_out_place",
+        "question": "Where did Maya and her cousin set out from?",
+        "options": [
+          "A small car park near the coast.",
+          "A fishing boat in the middle of the sea.",
+          "A hospital below the cliffs.",
+          "A classroom beside a river."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文第一句说 they set out from a small car park near the coast。"
+      },
+      {
+        "id": "weather_tide_problem",
+        "question": "What made the lower path unsafe?",
+        "options": [
+          "A thick fog came in, and the tide covered part of the lower path.",
+          "The picnic field was closed for the winter.",
+          "The lifeboat station had turned off its light.",
+          "Their car broke down on the road."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "问题来自两个细节：thick fog came in from the sea，而且 the tide covered part of the lower path。"
+      },
+      {
+        "id": "safe_direction",
+        "question": "What helped Maya choose the safe direction?",
+        "options": [
+          "A coastguard notice and the marked cliff path.",
+          "A map of the old picnic field only.",
+          "A stranger asking them to go down to the shore.",
+          "A small boat waiting near the rocks."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "Maya remembered the coastguard notice，并选择 follow the marked cliff path。"
+      },
+      {
+        "id": "reached_adult",
+        "question": "How did they reach an adult safely?",
+        "options": [
+          "They walked towards the light at the lifeboat station and told an adult.",
+          "They swam across the sea until morning.",
+          "They waited on the lower path for the tide to fall.",
+          "They climbed down the cliff to find a cave."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "他们 saw a light ahead at the lifeboat station，然后 walked towards it and told an adult。"
+      },
+      {
+        "id": "direction_survival",
+        "question": "Why is this passage about direction and survival without copying Lesson 33?",
+        "options": [
+          "It uses a new coast-walk problem where safe judgment, signs, and a light guide them.",
+          "It repeats the girl in a boat swimming all night.",
+          "It says dangerous swimming is an exciting game.",
+          "It changes the story into a shop detective mystery."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "这篇短文换成 coast walk、fog、tide 和 cliff path，没有复述原文的 boat、rock、whole night swim。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 33 的方向和时间顺序结构：用 Nearly ... passed before ... 写延迟说明，用 set out from ... 写出发点，用 was caught in ... 写突然陷入麻烦，用 after spending ... 写长时间之后的动作，再用 On arriving at ..., ... 写正式的先后顺序。",
+    "patterns": [
+      {
+        "id": "nearly_passed_before",
+        "title": "Nearly ... passed before ...",
+        "source": "Nearly a week passed before the girl was able to explain what had happened to her.",
+        "focus_zh": "这个结构写“过了多久之后才……”，适合表达一个人需要休息、恢复或整理思路之后才能说明情况。",
+        "task_zh": "仿写一句：写几分钟、几小时或几天过去了，某人才终于解释发生了什么。",
+        "must_include": [
+          "passed before"
+        ],
+        "min_words": 10,
+        "sample": "Nearly two hours passed before Maya could explain what had happened.",
+        "tip_zh": "Nearly 后面接时间长度；passed before 后面接一个完整小句，说明后来才发生的事。"
+      },
+      {
+        "id": "set_out_from",
+        "title": "set out from ...",
+        "source": "She set out from the coast in a small boat.",
+        "focus_zh": "set out from 强调旅程的起点，比 started 更有路线感。",
+        "task_zh": "仿写一句：写某人从海岸、学校、车站或营地出发，并补出要去哪里。",
+        "must_include": [
+          "set out from"
+        ],
+        "min_words": 9,
+        "sample": "We set out from the school gate and walked towards the museum.",
+        "tip_zh": "from 后面写出发地点；后面可以用 towards 或 to 写方向。"
+      },
+      {
+        "id": "was_caught_in",
+        "title": "was caught in ...",
+        "source": "She was caught in a storm.",
+        "focus_zh": "was caught in 表示突然陷入某种天气、麻烦或困难局面，不是主动选择。",
+        "task_zh": "仿写一句：写某人突然遇上大雨、雾、交通堵塞或别的麻烦。",
+        "must_include": [
+          "was caught in"
+        ],
+        "min_words": 9,
+        "sample": "Our class was caught in heavy rain on the way back.",
+        "tip_zh": "caught in 后面常接 weather 或 trouble，比如 a storm, heavy rain, traffic。"
+      },
+      {
+        "id": "after_spending",
+        "title": "after spending ...",
+        "source": "She swam to the shore after spending the whole night in the water.",
+        "focus_zh": "after spending ... 把“花了很久经历某事”放在动作前，突出艰难的过程。",
+        "task_zh": "仿写一句：写某人在等待、寻找、练习或走路很久之后，终于到达或完成一件事。",
+        "must_include": [
+          "after spending"
+        ],
+        "min_words": 10,
+        "sample": "Leo reached the bus stop after spending an hour in the rain.",
+        "tip_zh": "after spending 后面接时间或一段经历，再写后来完成的动作。"
+      },
+      {
+        "id": "on_arriving_at",
+        "title": "On arriving at ..., ...",
+        "source": "On arriving at the shore, the girl struggled up the cliff.",
+        "focus_zh": "On arriving at ... 是比较正式的时间顺序表达，意思是“一到……就……”。",
+        "task_zh": "仿写一句：写某人一到安全地点、车站、学校或家里，就立刻做了什么。",
+        "must_include": [
+          "On arriving at"
+        ],
+        "min_words": 10,
+        "sample": "On arriving at the station, we called our teacher for help.",
+        "tip_zh": "On arriving at 后面接地点，逗号后写到达后马上发生的动作。"
+      }
+    ]
+  }
+}

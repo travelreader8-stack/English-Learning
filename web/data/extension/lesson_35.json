@@ -1,0 +1,157 @@
+{
+  "lesson_id": 35,
+  "reading": {
+    "title": "The Number on the Scooter",
+    "intro_zh": "这篇短文不复述 Roy 的公交车撞车情节，而是换到现代有轨电车站旁：司机看见偷窃后保护乘客、记住车牌和线索，让警察能够安全处理。",
+    "word_bank": [
+      "thief",
+      "driver",
+      "rush out",
+      "towards",
+      "fright",
+      "drop",
+      "get away",
+      "license plate",
+      "recognize",
+      "safe place",
+      "arrested"
+    ],
+    "passage": [
+      "Leah used to check tickets on a busy tram, but this year she became a driver. One afternoon, while she was waiting near Green Market, she saw a thief rush out of a shop with a small cash box. A second man was waiting on a black scooter. Leah did not chase them. She closed the tram doors, kept the passengers in a safe place, and called the police. She also wrote down the scooter's license plate and noticed that the thief dropped a red glove in fright. The men tried to get away, but the number was easy to recognize on the traffic camera. Shortly afterwards, the police stopped the scooter and both men were arrested."
+    ],
+    "questions": [
+      {
+        "id": "leah_old_and_new_job",
+        "question": "What did Leah used to do, and what is she now?",
+        "options": [
+          "She used to check tickets, but now she is a tram driver.",
+          "She used to drive a taxi, but now she sells scooters.",
+          "She used to work in Green Market, but now she is a police officer.",
+          "She used to repair cameras, but now she catches thieves alone."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文第一句说 Leah used to check tickets on a busy tram, but this year she became a driver，说明她过去查票，现在是司机。"
+      },
+      {
+        "id": "cash_box",
+        "question": "What was the thief carrying when he rushed out of the shop?",
+        "options": [
+          "A bag full of clothes.",
+          "A small cash box.",
+          "A black scooter.",
+          "A red camera."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中说 the thief rushed out of a shop with a small cash box，所以他拿的是一个小钱箱。"
+      },
+      {
+        "id": "safe_help",
+        "question": "How did Leah help without doing anything reckless?",
+        "options": [
+          "She chased the scooter through traffic.",
+          "She drove the tram straight at the men.",
+          "She kept passengers safe, called the police, and wrote down details.",
+          "She asked the passengers to stop the thieves themselves."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "Leah 没有追小偷，而是关好车门、让乘客待在安全处、报警并记录线索，这就是现代安全反应。"
+      },
+      {
+        "id": "easy_to_recognize",
+        "question": "What made the scooter easy to recognize?",
+        "options": [
+          "The tram driver painted the scooter red.",
+          "The license plate number was clear on the traffic camera.",
+          "The scooter was moving more slowly than usual.",
+          "The thief left the cash box on the tram."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "Leah 记下了 scooter's license plate，交通摄像头里也能看清这个号码，所以警察容易识别。"
+      },
+      {
+        "id": "quick_but_safe",
+        "question": "Why was Leah's quick thinking useful only because it was safe?",
+        "options": [
+          "Because she protected people and gave the police clear clues.",
+          "Because she made the thieves more frightened by crashing into them.",
+          "Because passengers should always chase thieves in the street.",
+          "Because a driver should ignore theft near a station."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "快速反应有用，是因为 Leah 先保证安全，再提供 license plate、red glove 等线索，让警察处理危险。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 35 的核心结构：用 used to 写过去身份，用 far more 加强比较，用 saw...rush out of...写完整动作，用 such a...that...写强烈原因和可见结果，再用 While...连接同时发生的动作。",
+    "patterns": [
+      {
+        "id": "used_to_old_job",
+        "title": "used to ...",
+        "source": "Roy Trenton used to drive a taxi.",
+        "focus_zh": "used to 写过去常常做或过去的身份，现在情况已经不同。",
+        "task_zh": "仿写一句：写一个人过去常做某事或过去做某种工作，但现在已经改变。",
+        "must_include": [
+          "used to"
+        ],
+        "min_words": 9,
+        "sample": "My uncle used to drive a taxi near the station.",
+        "tip_zh": "used to 后接动词原形，句子最好让读者感觉到“过去是这样，现在不一定”。"
+      },
+      {
+        "id": "far_more_feeling",
+        "title": "far more ...",
+        "source": "He is finding his new work far more exciting.",
+        "focus_zh": "far more 比 more 更强，适合写一种感受或评价明显增强。",
+        "task_zh": "仿写一句：写一份工作、一项活动或一个新地方比以前令人兴奋、安全、忙碌或有趣得多。",
+        "must_include": [
+          "far more"
+        ],
+        "min_words": 10,
+        "sample": "This new route is far more exciting than the quiet old one.",
+        "tip_zh": "far more 后面常接形容词，比如 exciting, useful, difficult, important。"
+      },
+      {
+        "id": "saw_rush_out_of",
+        "title": "saw ... rush out of ...",
+        "source": "He saw two thieves rush out of a shop.",
+        "focus_zh": "saw somebody do something 表示看见了整个动作；rush out of 让动作很突然。",
+        "task_zh": "仿写一句：写某人看见另一个人或几个人突然从商店、教室、车站或房间里冲出来。",
+        "must_include": [
+          "saw",
+          "rush out of"
+        ],
+        "min_words": 10,
+        "sample": "The guard saw two boys rush out of the back door.",
+        "tip_zh": "saw 后面直接接人，再接动词原形 rush，不要写 saw two boys rushed。"
+      },
+      {
+        "id": "such_a_that_result",
+        "title": "such a ... that ...",
+        "source": "The one with the money got such a fright that he dropped the bag.",
+        "focus_zh": "such a...that...把镜头放在一次强烈的感受或事件上，然后写出看得见的结果。",
+        "task_zh": "仿写一句：写某人受到很大的惊吓、惊喜或冲击，以至于发生了一个明显结果。",
+        "must_include": [
+          "such a",
+          "that"
+        ],
+        "min_words": 10,
+        "sample": "She got such a shock that she dropped her keys.",
+        "tip_zh": "such a 后面要接名词短语，比如 fright, shock, surprise；that 后面写完整结果。"
+      },
+      {
+        "id": "while_two_actions",
+        "title": "While ..., ...",
+        "source": "While the battered car was moving away, Roy stopped his bus and telephoned the police.",
+        "focus_zh": "While 用来把两个正在同一时间段发生的动作放在一起，常常一边是背景动作，一边是主要反应。",
+        "task_zh": "仿写一句：写一个人或车辆正在移动、等待或离开时，另一个人做出安全反应。",
+        "must_include": [
+          "While"
+        ],
+        "min_words": 12,
+        "sample": "While the scooter was moving away, the driver called the police.",
+        "tip_zh": "While 引导的部分常用 was/were doing，让读者看到动作正在进行。"
+      }
+    ]
+  }
+}

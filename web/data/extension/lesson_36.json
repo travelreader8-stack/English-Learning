@@ -1,0 +1,156 @@
+{
+  "lesson_id": 36,
+  "reading": {
+    "title": "The Harbour Relay Plan",
+    "intro_zh": "这篇短文不复述黛比横渡海峡，而是换到一个成人严密监督的港湾慈善接力：学生们有路线、训练、安全船、休息安排和等候的亲友，目标听起来勇敢，但真正重要的是准备充分。",
+    "word_bank": [
+      "swim across",
+      "set out",
+      "coast",
+      "record",
+      "strong",
+      "train",
+      "anxiously",
+      "distance",
+      "take short rests",
+      "waiting"
+    ],
+    "passage": [
+      "Next month, four older students at Bay School are going to swim across Blue Harbour for charity. They are not trying to set a record or copy an English Channel story. Their coach has planned a safe relay from East Pier to the lighthouse coast, and each swimmer has trained for months. At six o'clock, Maya, a strong swimmer, will set out from East Pier while a support boat follows closely. A teacher, a doctor, and two parents in the boat will be watching the team anxiously as they swim the long distance. The swimmers intend to take short rests every thirty minutes and drink warm juice from the boat. Their families and friends will be waiting near the lighthouse with dry coats. Everyone hopes to finish, but the coach says a careful plan matters more than courage alone."
+    ],
+    "questions": [
+      {
+        "id": "relay_challenge",
+        "question": "What challenge are the students going to try?",
+        "options": [
+          "They are going to swim across Blue Harbour for charity in a safe relay.",
+          "They are going to swim across the English Channel alone.",
+          "They are going to row a boat to East Pier.",
+          "They are going to run along the lighthouse coast."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "开头说 four older students are going to swim across Blue Harbour for charity，后面说明这是 a safe relay。"
+      },
+      {
+        "id": "set_out_place",
+        "question": "Where will Maya set out from?",
+        "options": [
+          "From the lighthouse coast.",
+          "From Bay School.",
+          "From East Pier.",
+          "From the English Channel."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "短文写道 Maya will set out from East Pier，所以出发点是 East Pier。"
+      },
+      {
+        "id": "safety_support",
+        "question": "Who will watch and support the team from the boat?",
+        "options": [
+          "Only the students' school friends.",
+          "A teacher, a doctor, and two parents.",
+          "A record keeper and a news reporter.",
+          "Maya's friends near the lighthouse."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "support boat 里有 a teacher, a doctor, and two parents，他们会 watch the team anxiously。"
+      },
+      {
+        "id": "rest_plan",
+        "question": "How do the swimmers plan to rest and drink?",
+        "options": [
+          "They will eat solid food every hour.",
+          "They will stop only when they reach the coast.",
+          "They will take short rests every thirty minutes and drink warm juice.",
+          "They will wait for their families before drinking anything."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "文中说 the swimmers intend to take short rests every thirty minutes and drink warm juice from the boat。"
+      },
+      {
+        "id": "preparation_matters",
+        "question": "Why does preparation matter more than courage alone?",
+        "options": [
+          "Because the harbour is short and needs no training.",
+          "Because a long-distance swim needs training, safety support, and a careful plan.",
+          "Because a record is the only important part of the swim.",
+          "Because friends can finish the swim for the team."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文强调 trained for months、support boat、planned rests，结尾也说 a careful plan matters more than courage alone。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 36 的计划型结构：用 is going to 写明确计划，用 hopes to 写目标，用 is sure to 写强烈期待，用 will be watching...as... 写陪伴和关注，再用 intends to...every... 写可执行的安排。",
+    "patterns": [
+      {
+        "id": "is_going_to_plan",
+        "title": "is going to ...",
+        "source": "Debbie Hart is going to swim across the English Channel tomorrow.",
+        "focus_zh": "is going to 表示已经安排好的未来行动，比 will 更有“计划已经定了”的感觉。",
+        "task_zh": "仿写一句：写某人明天、周末或下个月准备完成一个有挑战但安全的行动。",
+        "must_include": [
+          "is going to"
+        ],
+        "min_words": 10,
+        "sample": "My cousin is going to swim across the lake next Saturday.",
+        "tip_zh": "is going to 后面接动词原形；前面主语要能和 is 搭配，比如 she, he, my cousin。"
+      },
+      {
+        "id": "hopes_to_goal",
+        "title": "hopes to ...",
+        "source": "She hopes to set up a new world record.",
+        "focus_zh": "hopes to 用来写愿望或目标，语气比 plans to 更有期待感。",
+        "task_zh": "仿写一句：写一个学生、队伍或运动员希望完成某个目标。",
+        "must_include": [
+          "hopes to"
+        ],
+        "min_words": 10,
+        "sample": "Our team hopes to finish the relay before the afternoon wind rises.",
+        "tip_zh": "hopes to 后面接动词原形；后面最好补出具体目标，不要只写 hopes to win。"
+      },
+      {
+        "id": "is_sure_to_expectation",
+        "title": "is sure to ...",
+        "source": "Many people feel that she is sure to succeed.",
+        "focus_zh": "is sure to 表示“很可能、一定会”，适合写旁人对某人成功的强烈期待。",
+        "task_zh": "仿写一句：写大家为什么认为某个训练充分的人一定会安全完成挑战。",
+        "must_include": [
+          "is sure to"
+        ],
+        "min_words": 10,
+        "sample": "With careful training, the strong swimmer is sure to finish safely.",
+        "tip_zh": "is sure to 后面接动词原形；可以用 With careful training 先给出信心来源。"
+      },
+      {
+        "id": "will_be_watching_as",
+        "title": "will be watching ... as ...",
+        "source": "Mr. Hart will be watching her anxiously as she swims the long distance to England.",
+        "focus_zh": "这个结构写未来某个过程中的持续动作：一边有人在做事，另一边有人一直看着、陪着或关注着。",
+        "task_zh": "仿写一句：写父母、老师或朋友将在某人完成挑战时一直看着或陪着。",
+        "must_include": [
+          "will be watching",
+          "as"
+        ],
+        "min_words": 11,
+        "sample": "Her father will be watching from the boat as she crosses the harbour.",
+        "tip_zh": "will be watching 是持续关注，as 后面接同时发生的动作，比如 as she swims。"
+      },
+      {
+        "id": "intends_to_every",
+        "title": "intends to ... every ...",
+        "source": "Debbie intends to take short rests every two hours.",
+        "focus_zh": "intends to 写打算，every 写固定间隔；两者合起来像一份清楚的执行计划。",
+        "task_zh": "仿写一句：写一个团队或运动员打算每隔一段时间休息、喝水、检查路线或换人。",
+        "must_include": [
+          "intends to",
+          "every"
+        ],
+        "min_words": 11,
+        "sample": "The team intends to take short rests every thirty minutes during the swim.",
+        "tip_zh": "intends to 后面接具体动作，every 后面接时间间隔，比如 every hour 或 every thirty minutes。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,156 @@
+{
+  "lesson_id": 37,
+  "reading": {
+    "title": "The Open-Day Countdown",
+    "intro_zh": "这篇短文不复述奥运城，而是换到学校开放日倒计时：许多访客将来到学校，老师、学生和工人按日期准备路线、场地、泳池和舞台。",
+    "word_bank": [
+      "will be held",
+      "visitors",
+      "sports field",
+      "swimming pool",
+      "route signs",
+      "complete",
+      "by the end of",
+      "modern",
+      "anxiously",
+      "look forward to"
+    ],
+    "passage": [
+      "Our school open day will be held in six weeks' time. As a great many parents and students from nearby schools will be visiting, our teachers will be preparing a clear route around the campus. The art club will be making bright route signs, and the sports team will be cleaning the sports field and the small swimming pool. Workers will be building a temporary stage beside the hall. By the end of this week, the art club will have completed the signs. By the end of next week, the workers will have finished the stage. Everyone is watching the work anxiously, but we are also excited and looking forward to welcoming our visitors."
+    ],
+    "questions": [
+      {
+        "id": "event_held",
+        "question": "What event will be held in six weeks' time?",
+        "options": [
+          "A school open day.",
+          "An Olympic swimming final.",
+          "A railway opening ceremony.",
+          "A city government meeting."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文第一句说 Our school open day will be held in six weeks' time，所以活动是学校开放日。"
+      },
+      {
+        "id": "why_prepare",
+        "question": "Why are many preparations needed?",
+        "options": [
+          "Many parents and students from nearby schools will be visiting.",
+          "The school will close the campus for a year.",
+          "The students will leave the city by train.",
+          "The teachers want to cancel all sports."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "原因在 As a great many parents and students...will be visiting，访客多，所以要提前准备路线和场地。"
+      },
+      {
+        "id": "student_work",
+        "question": "What will the art club be making?",
+        "options": [
+          "Bright route signs.",
+          "A new railway line.",
+          "A huge stadium roof.",
+          "Tickets for the Olympic Games."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "文中说 The art club will be making bright route signs，艺术社要做清楚的路线标志。"
+      },
+      {
+        "id": "deadline_done",
+        "question": "Which task will have been completed by the end of this week?",
+        "options": [
+          "The art club will have completed the signs.",
+          "The workers will have finished the stage.",
+          "The parents will have visited every classroom.",
+          "The sports team will have built a new school."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "关键句是 By the end of this week, the art club will have completed the signs。"
+      },
+      {
+        "id": "looking_forward",
+        "question": "Why is everyone looking forward to the open day?",
+        "options": [
+          "They are excited to welcome their visitors.",
+          "They are afraid the route signs will disappear.",
+          "They want the temporary stage to be removed.",
+          "They have never cleaned a swimming pool before."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾说 everyone is excited and looking forward to welcoming our visitors，期待的是欢迎来访者。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 37 的项目倒计时句式：用 will be held 写未来活动，用 As a great many...will be visiting...说明准备原因，用 will be building 写未来一段时间的建设，用 will have completed...by...写截止日期前完成，再用 looking forward to 写期待。",
+    "patterns": [
+      {
+        "id": "will_be_held_event",
+        "title": "will be held ...",
+        "source": "The Olympic Games will be held in our country in four years' time.",
+        "focus_zh": "will be held 是一般将来时的被动语态，用来写“某个活动将在某地/某时举行”。",
+        "task_zh": "仿写一句：写学校开放日、运动会、音乐会或科学展将在某个时间和地点举行。",
+        "must_include": [
+          "will be held"
+        ],
+        "min_words": 10,
+        "sample": "The school open day will be held in our main hall next month.",
+        "tip_zh": "will be held 后面常接地点或时间；不要写成 will held。"
+      },
+      {
+        "id": "as_great_many_will_be_visiting",
+        "title": "As a great many ... will be visiting ...",
+        "source": "As a great many people will be visiting the country, the government will be building new hotels.",
+        "focus_zh": "As 引出原因，a great many 强调人数很多，will be visiting 写未来某段时间会有很多人来访。",
+        "task_zh": "仿写一句：说明因为许多家长、学生或客人会来访，所以学校或团队要提前准备某些东西。",
+        "must_include": [
+          "As a great many",
+          "will be visiting"
+        ],
+        "min_words": 14,
+        "sample": "As a great many parents will be visiting our school, we will be preparing clear route signs.",
+        "tip_zh": "逗号前写“为什么要准备”，逗号后写“将会准备什么”。"
+      },
+      {
+        "id": "will_be_building_plan",
+        "title": "will be building ...",
+        "source": "They will also be building new roads and a special railway line.",
+        "focus_zh": "will be building 表示未来某段时间里持续进行的建设或准备，适合写项目计划。",
+        "task_zh": "仿写一句：写某个团队、学校或城市将会建造、布置或准备一个具体设施。",
+        "must_include": [
+          "will be building"
+        ],
+        "min_words": 10,
+        "sample": "The workers will be building a small stage beside the sports field.",
+        "tip_zh": "will be building 后面要接具体对象，比如 a stage, new roads, a display area。"
+      },
+      {
+        "id": "will_have_completed_by",
+        "title": "will have completed ... by ...",
+        "source": "Workers will have completed the new roads by the end of this year.",
+        "focus_zh": "will have completed...by... 是将来完成时，强调到了某个未来截止时间，事情已经完成。",
+        "task_zh": "仿写一句：写学生、工人或老师会在某个截止日期前完成一项准备工作。",
+        "must_include": [
+          "will have completed",
+          "by"
+        ],
+        "min_words": 12,
+        "sample": "The art club will have completed the route signs by Friday afternoon.",
+        "tip_zh": "by 后面必须给出截止时间，比如 by Friday, by the end of next week。"
+      },
+      {
+        "id": "looking_forward_to",
+        "title": "are looking forward to ...",
+        "source": "We are all very excited and are looking forward to the Olympic Games.",
+        "focus_zh": "looking forward to 表示期待；这里的 to 是介词，后面接名词或动名词。",
+        "task_zh": "仿写一句：写大家很兴奋，并期待欢迎访客、观看表演或参加活动。",
+        "must_include": [
+          "looking forward to"
+        ],
+        "min_words": 10,
+        "sample": "We are excited and looking forward to welcoming our visitors on open day.",
+        "tip_zh": "to 后面可以接名词，也可以接 doing，比如 welcoming, watching, joining。"
+      }
+    ]
+  }
+}

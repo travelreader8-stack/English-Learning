@@ -1,0 +1,157 @@
+{
+  "lesson_id": 34,
+  "reading": {
+    "title": "The Case That Came Home",
+    "intro_zh": "这篇短文不复述 Dan 的自行车故事，而是换成一个现代失物归还的小案子：Mia 先被警方通知吓了一跳，后来才发现是两年前被偷的琴盒通过序列号找回来了。",
+    "word_bank": [
+      "police station",
+      "call at",
+      "wonder",
+      "found",
+      "picked up",
+      "serial number",
+      "repair shop",
+      "sent home",
+      "surprised",
+      "amused",
+      "stolen"
+    ],
+    "passage": [
+      "On Monday morning, Mia received a message from the local police and was asked to call at the station after school. She wondered why they wanted her, because she had only reported a stolen violin case two years before. At the station, a smiling officer showed her a small black case with a bright orange sticker. It had been picked up outside a repair shop three hundred miles away. The shop owner had checked the serial number and found Mia's old report online. Now the case was being sent home by courier. Mia was surprised, and she was amused too. She had never expected the case to be found, especially after giving up hope long ago."
+    ],
+    "questions": [
+      {
+        "id": "why_worried",
+        "question": "Why was Mia worried at first?",
+        "options": [
+          "The police asked her to call at the station, and she did not know why.",
+          "She had broken a violin at school that morning.",
+          "The repair shop refused to send her a message.",
+          "She had to take a train three hundred miles away."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文开头说 Mia 收到 local police 的消息，被 asked to call at the station，但她不知道原因，所以先紧张。"
+      },
+      {
+        "id": "found_item",
+        "question": "What item had been found?",
+        "options": [
+          "A blue bicycle with a silver bell.",
+          "A small black violin case with a bright orange sticker.",
+          "A phone that belonged to the police officer.",
+          "A schoolbag full of repair tools."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "警察给她看的物品是 a small black case with a bright orange sticker，前文说明这是她两年前报失的 violin case。"
+      },
+      {
+        "id": "how_identified",
+        "question": "How was the case identified?",
+        "options": [
+          "The officer remembered Mia's school uniform.",
+          "The courier guessed the owner's address.",
+          "The shop owner checked the serial number and found Mia's old report online.",
+          "Mia found it herself outside the police station."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "关键句是 The shop owner had checked the serial number and found Mia's old report online。"
+      },
+      {
+        "id": "where_picked_up",
+        "question": "Where had the case been picked up?",
+        "options": [
+          "Outside a repair shop three hundred miles away.",
+          "Inside Mia's classroom after school.",
+          "On a train near Mia's home.",
+          "At a lost-and-found desk in the police station."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "文中说 It had been picked up outside a repair shop three hundred miles away。"
+      },
+      {
+        "id": "comic_delay",
+        "question": "Why was Mia amused?",
+        "options": [
+          "The officer asked her to repair a violin.",
+          "The case was found after she had already given up hope.",
+          "The serial number had been stolen from the repair shop.",
+          "The courier sent the case to the wrong police station."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结尾说 Mia had never expected the case to be found, especially after giving up hope long ago，所以延迟找回带来一种轻松好笑的反转。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 34 的核心结构：用 has been worried all week 写持续的担心，用 was asked to call at 写正式通知，用 wondered why 写心里的疑问，用 was told that...had been found 写被告知的好消息，再用 never expected...to be found 写出反转后的惊讶。",
+    "patterns": [
+      {
+        "id": "has_been_worried",
+        "title": "has been worried all week",
+        "source": "Dan Robinson has been worried all week.",
+        "focus_zh": "这个结构写一种情绪从过去持续到现在，强调这段时间一直没有放松。",
+        "task_zh": "仿写一句：写某人因为一封信、一个通知或一件丢失的东西担心了整整一段时间。",
+        "must_include": [
+          "has been worried"
+        ],
+        "min_words": 9,
+        "sample": "My sister has been worried about the message all week.",
+        "tip_zh": "has been worried 后面可以接 about，说明担心的原因。"
+      },
+      {
+        "id": "asked_to_call_at",
+        "title": "was asked to call at ...",
+        "source": "He was asked to call at the station.",
+        "focus_zh": "was asked to 表示“被要求做某事”；call at 在这里是“去某处一趟”，不是打电话。",
+        "task_zh": "仿写一句：写某人被要求去警察局、学校办公室或失物招领处一趟。",
+        "must_include": [
+          "was asked to call at"
+        ],
+        "min_words": 10,
+        "sample": "Tom was asked to call at the school office after lunch.",
+        "tip_zh": "call at 后面接地点，比如 the station, the office, the desk。"
+      },
+      {
+        "id": "wondered_why",
+        "title": "wondered why ...",
+        "source": "Dan wondered why he was wanted by the police.",
+        "focus_zh": "wondered why 后面接一个完整的陈述语序，用来写“心里纳闷为什么”。",
+        "task_zh": "仿写一句：写某人收到正式消息后，不明白为什么别人要见他或联系他。",
+        "must_include": [
+          "wondered why"
+        ],
+        "min_words": 10,
+        "sample": "Lily wondered why she was wanted by the school office.",
+        "tip_zh": "why 后面用正常陈述语序，不要写成 why was she wanted。"
+      },
+      {
+        "id": "was_told_had_been_found",
+        "title": "was told that ... had been found",
+        "source": "He was told by a smiling policeman that his bicycle had been found.",
+        "focus_zh": "was told that...had been found 用来写“被告知某物已经被找到”，很适合正式通知或反转好消息。",
+        "task_zh": "仿写一句：写某人被老师、警察或工作人员告知，某个丢失的物品已经找到了。",
+        "must_include": [
+          "was told",
+          "had been found"
+        ],
+        "min_words": 12,
+        "sample": "She was told by a kind officer that her camera had been found.",
+        "tip_zh": "had been found 表示“在被告知之前已经找到了”。"
+      },
+      {
+        "id": "never_expected_to_be_found",
+        "title": "never expected ... to be found",
+        "source": "He never expected the bicycle to be found.",
+        "focus_zh": "never expected...to be found 写一种放弃希望后的惊讶：原以为再也找不到，结果找到了。",
+        "task_zh": "仿写一句：写一个人从没想到自己的旧物、文件或礼物还会被找到。",
+        "must_include": [
+          "never expected",
+          "to be found"
+        ],
+        "min_words": 10,
+        "sample": "I never expected my old notebook to be found after two years.",
+        "tip_zh": "never expected 后面接名词，再用 to be found 表示“被找到”。"
+      }
+    ]
+  }
+}
