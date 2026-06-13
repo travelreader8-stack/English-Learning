@@ -148,7 +148,7 @@
         "must_include": [
           "While"
         ],
-        "min_words": 12,
+        "min_words": 10,
         "sample": "While the scooter was moving away, the driver called the police.",
         "tip_zh": "While 引导的部分常用 was/were doing，让读者看到动作正在进行。"
       }

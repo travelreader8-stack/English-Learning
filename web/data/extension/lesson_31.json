@@ -104,7 +104,8 @@
         "focus_zh": "这个结构用来说明一个人的职责，比直接写 He repaired... 更强调“这是他的工作”。",
         "task_zh": "仿写一句：写某人的职责，可以是修理、整理、检查、照顾或帮助别人。",
         "must_include": [
-          "It was his job to"
+          "It was",
+          "job to"
         ],
         "min_words": 9,
         "sample": "It was his job to check every bicycle before the race.",

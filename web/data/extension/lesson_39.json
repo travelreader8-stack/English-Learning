@@ -119,7 +119,8 @@
         "focus_zh": "When 引导时间从句，先交代某个时刻或条件，再写主动作。",
         "task_zh": "仿写一句：用本结构写一个人独自一人时，打电话、写邮件或认真询问信息。",
         "must_include": [
-          "When he was alone"
+          "When",
+          "was alone"
         ],
         "min_words": 10,
         "sample": "When he was alone, he called the school office politely.",
