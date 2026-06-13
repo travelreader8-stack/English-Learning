@@ -1,0 +1,155 @@
+{
+  "lesson_id": 58,
+  "reading": {
+    "title": "The Unlucky Bench",
+    "intro_zh": "这篇短文把 Lesson 58 的“坏名声反而带来游客和收入”换到一家小面包店门口的长椅：网上传言说它 unlucky，结果更多人来拍照和买点心。重点练习 blessing in disguise、is said to、possess、unlucky、reputation、visitor、remove、source of income、in spite of 和 so far。",
+    "word_bank": [
+      "blessing in disguise",
+      "is said to",
+      "possess",
+      "unlucky",
+      "reputation",
+      "visitor",
+      "remove",
+      "source of income",
+      "in spite of",
+      "so far"
+    ],
+    "passage": [
+      "The little bakery at the end of King Street is said to possess an unlucky bench. For years, the green bench stood quietly beside the window, but last month a short online video gave it a strange reputation. The video claimed that any visitor who sat on it before buying bread would have a terrible day. Because the story was shared so widely, the number of visitors has increased. Some people only come to take photos, but many buy cakes while they are there. A few neighbours have asked the baker to remove the bench. He has pointed out that it has become a useful source of income. In spite of the silly rumour, visitors are asked to keep the bench clean and not scratch it. So far, not one of them has had bad luck."
+    ],
+    "questions": [
+      {
+        "id": "strange_reputation",
+        "question": "What place or object had a strange reputation?",
+        "options": [
+          "A green bench outside a little bakery.",
+          "A tree near an old church.",
+          "A red bus in a busy station.",
+          "A locked box in a school library."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文开头说小面包店据说 possess an unlucky bench，重点对象是店门口的 green bench。"
+      },
+      {
+        "id": "visitors_increased",
+        "question": "Why did the number of visitors increase?",
+        "options": [
+          "Because a short online video shared the bench's strange reputation.",
+          "Because the bakery gave away free bread every morning.",
+          "Because the baker removed the bench at once.",
+          "Because King Street became a new bus route."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 a short online video 给长椅带来 strange reputation，故事被广泛分享后游客增加。"
+      },
+      {
+        "id": "rumour_claim",
+        "question": "What did people say would happen to anyone who sat on the bench before buying bread?",
+        "options": [
+          "He would have a terrible day.",
+          "He would get free cakes for a year.",
+          "He would find a lost wallet.",
+          "He would have to paint the bakery."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "传言说 anyone who sat on it before buying bread would have a terrible day，这就是 unlucky reputation。"
+      },
+      {
+        "id": "source_of_income",
+        "question": "Why did the baker refuse to remove the bench?",
+        "options": [
+          "Because it had become a useful source of income.",
+          "Because the bench was too heavy for anyone to move.",
+          "Because he believed the rumour completely.",
+          "Because visitors were not allowed to buy cakes."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "店主指出长椅已经成了 useful source of income，因为游客来了之后常常也会买蛋糕。"
+      },
+      {
+        "id": "evidence_undercuts",
+        "question": "How does the evidence undercut the rumour?",
+        "options": [
+          "So far, not one visitor has had bad luck.",
+          "The bench has disappeared from King Street.",
+          "The baker stopped selling bread.",
+          "Every neighbour now refuses to pass the bakery."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾的 So far, not one of them has had bad luck 用目前的证据削弱了传言。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 58 的传言和反差句式：用 is said to possess 报道传闻，用 Because..., the number of...has increased 写传播后的结果，用 It is said that if... 写条件传言，用 has pointed out that... 给出现实理由，最后用 So far, not one of them has... 写到目前为止的证据。",
+    "patterns": [
+      {
+        "id": "said_to_possess",
+        "title": "is said to possess ...",
+        "source": "The tiny village of Frinley is said to possess a 'cursed tree'.",
+        "focus_zh": "is said to possess 用来报道传闻，意思是“据说拥有”，并不等于说话人已经证明它是真的。",
+        "task_zh": "仿写一句：写一个小店、小镇、学校角落或公共场所据说有一个奇怪但安全的东西。",
+        "must_include": [
+          "is said to possess"
+        ],
+        "min_words": 10,
+        "sample": "The tiny bakery is said to possess an unlucky green bench.",
+        "tip_zh": "主语可以是 a cafe、a shop、a school corner；possess 后面接它据说拥有的东西。"
+      },
+      {
+        "id": "because_number_increased",
+        "title": "Because ..., the number of ... has increased",
+        "source": "Because the tree was mentioned in a newspaper, the number of visitors has now increased.",
+        "focus_zh": "这个句式把原因和现在的结果连起来：因为某件事被传播，所以某个数量已经增加。",
+        "task_zh": "仿写一句：写一个传言、视频、新闻或帖子被传播后，游客、观众或顾客数量增加了。",
+        "must_include": [
+          "the number of",
+          "has increased"
+        ],
+        "min_words": 12,
+        "sample": "Because the bench was mentioned online, the number of visitors has increased.",
+        "tip_zh": "Because 后面写传播原因；the number of 后面接复数名词，但动词用 has increased。"
+      },
+      {
+        "id": "it_is_said_that_if",
+        "title": "It is said that if ..., ...",
+        "source": "It is said that if anyone touches the tree, he will have bad luck.",
+        "focus_zh": "It is said that if... 用来写“据说如果……就会……”，适合表达未经证明的条件传言。",
+        "task_zh": "仿写一句：写一个不吓人、不危险的传言，比如如果某人坐在某个座位上，就会遇到小麻烦。",
+        "must_include": [
+          "It is said that if"
+        ],
+        "min_words": 12,
+        "sample": "It is said that if anyone sits on the bench, he will forget his umbrella.",
+        "tip_zh": "if 后面写条件，后半句写传言里的结果；语气要像报道传闻，不要写成事实。"
+      },
+      {
+        "id": "has_pointed_out_that",
+        "title": "has pointed out that ...",
+        "source": "He has pointed out that the tree is a useful source of income.",
+        "focus_zh": "has pointed out that 表示“已经指出”，常用来给出一个清楚、现实的理由。",
+        "task_zh": "仿写一句：写店主、老师或管理员指出一个奇怪名声其实带来了游客、关注或收入。",
+        "must_include": [
+          "has pointed out that"
+        ],
+        "min_words": 12,
+        "sample": "The baker has pointed out that the bench is a useful source of income.",
+        "tip_zh": "that 后面接完整句子；理由要具体，比如 brings visitors 或 is a source of income。"
+      },
+      {
+        "id": "so_far_not_one",
+        "title": "So far, not one of them has ...",
+        "source": "So far, not one of them has been struck down by sudden death.",
+        "focus_zh": "So far, not one of them has... 用现在完成时写“到目前为止没有一个人……”，能用证据反衬传言。",
+        "task_zh": "仿写一句：写很多人听过传言或去过某个地方，但到目前为止没有一个人真的遇到传言里的结果。",
+        "must_include": [
+          "So far, not one of them has"
+        ],
+        "min_words": 12,
+        "sample": "So far, not one of them has had bad luck after visiting the bakery.",
+        "tip_zh": "So far 后面常接现在完成时；用它来写 evidence，不要再扩大传言本身。"
+      }
+    ]
+  }
+}
