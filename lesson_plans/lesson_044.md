@@ -617,14 +617,14 @@ Use 5 patterns:
    - Source: `With the bag in their possession, both men started running through the trees.`
    - Focus: action after someone has control of an object.
    - Must include: `With` and `in their possession`
-4. `so ... that ...`
-   - Source: `Mrs. Sterling got so angry that she ran after them.`
-   - Focus: strong feeling leading to action.
-   - Must include: `so` and `that`
-5. `such a ... that ...`
-   - Source: `The men got such a fright that they dropped the bag and ran away.`
-   - Focus: noun phrase causing a result.
-   - Must include: `such a` and `that`
+4. `was soon out of breath, but ... continued to ...`
+   - Source: `She was soon out of breath, but she continued to run.`
+   - Focus: pushing on despite difficulty.
+   - Must include: `out of breath` and `continued to`
+5. `... needs mending`
+   - Source: `The strap needs mending.`
+   - Focus: `need` + `-ing` to say something must be repaired.
+   - Must include: `needs` with an `-ing` verb
 
 ## Chinese-To-English Exercise Direction
 

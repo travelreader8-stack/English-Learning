@@ -978,10 +978,10 @@ The 5 reading questions should test:
 
 Use 5 patterns:
 
-1. `decided to visit ...`
+1. `decided to ...`
    - Source: `I decided to visit a fortune-teller called Madam Bellinsky.`
    - Focus: choosing to try something.
-   - Must include: `decided to visit`
+   - Must include: `decided to`
 2. `After I had ..., ...`
    - Source: `After I had given her some money, she looked into a crystal ball.`
    - Focus: past perfect before another past action.
@@ -994,10 +994,10 @@ Use 5 patterns:
    - Source: `The moment you leave this tent, you will get a big surprise.`
    - Focus: immediate timing.
    - Must include: `The moment`
-5. `As soon as ..., ...`
-   - Source: `As soon as I went outside, I forgot all about Madam Bellinsky.`
-   - Focus: one action immediately after another.
-   - Must include: `As soon as`
+5. `in less than ...`
+   - Source: `Your sister will be here in less than an hour.`
+   - Focus: a tight time estimate.
+   - Must include: `in less than`
 
 ## Chinese-To-English Exercise Direction
 

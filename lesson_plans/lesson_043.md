@@ -611,7 +611,7 @@ The 5 reading questions should test:
 2. what obstacle or height problem appeared
 3. why weight mattered
 4. what decision solved the problem
-5. how `photo` / `photograph` relates to modern English
+5. why the plane could finally clear the mountains
 
 ### Sentence Writing
 

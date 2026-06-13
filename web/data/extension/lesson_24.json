@@ -1,10 +1,10 @@
 {
   "lesson_id": 24,
   "reading": {
-    "title": "A Wallet at the Front Desk",
-    "intro_zh": "这篇短文不复述原文，而是换到酒店前台的失物招领场景，回收 upset / sympathetic / envelope / contained / honesty 等本课词汇。",
+    "title": "The Pen in the Lost-and-Found",
+    "intro_zh": "这篇短文不复述原文，而是换到一个校园失物的故事：丢的东西看起来糟糕，结果没那么坏，而且有人很诚实——回收 upset / sympathetic / complain / envelope / contained / honesty / It could be worse。",
     "word_bank": [
-      "front desk",
+      "lost-and-found",
       "upset",
       "sympathetic",
       "complain",
@@ -14,68 +14,68 @@
       "It could be worse"
     ],
     "passage": [
-      "Tom was staying at a small hotel near the station. One evening, he found that his wallet was not in his coat pocket. He went to the front desk and felt very upset. The clerk was sympathetic, but she could do nothing at once. Tom began to complain about careless people. Just then, a waiter came in with a brown envelope. \"I found this outside Room 12,\" he said. The envelope contained Tom's wallet and all his money. Tom smiled and said, \"It could be worse. There is still some honesty in this world.\""
+      "On Friday, Leo could not find his pencil case after the school trip. It was only a cheap case, but it contained his grandmother's old fountain pen. He felt very upset and began to complain that someone must have taken it. The teacher was sympathetic, but she could do nothing until Monday. All weekend Leo imagined the worst. On Monday, a younger student came to the lost-and-found desk with a small envelope. Inside was the pen, safe and clean. \"I saw it under a seat on the bus,\" she said. Leo smiled. \"It could be worse,\" he told his teacher. \"There is still some honesty in this world.\""
     ],
     "questions": [
       {
-        "id": "place",
-        "question": "Where was Tom staying?",
+        "id": "lost_item",
+        "question": "What did Leo lose after the school trip?",
         "options": [
-          "At a small hotel near the station.",
-          "At a large school near the station.",
-          "On a bus outside Room 12.",
-          "At a friend's house."
+          "His school bag.",
+          "His pencil case.",
+          "His bus ticket.",
+          "His teacher's envelope."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "第一句说明 Leo could not find his pencil case after the school trip。"
+      },
+      {
+        "id": "important_pen",
+        "question": "Why did losing the pencil case matter so much?",
+        "options": [
+          "Because it contained his grandmother's old fountain pen.",
+          "Because it contained all the class money.",
+          "Because it was a very expensive case.",
+          "Because it belonged to a younger student."
         ],
         "answer_index": 0,
-        "explanation_zh": "第一句说明 Tom was staying at a small hotel near the station."
+        "explanation_zh": "短文说铅笔盒本身不贵，但里面有祖母的旧钢笔。"
       },
       {
-        "id": "problem",
-        "question": "Why did Tom feel upset?",
+        "id": "teacher_response",
+        "question": "What could the teacher do at first?",
         "options": [
-          "Because the clerk was angry.",
-          "Because his coat was too old.",
-          "Because he could not find his wallet.",
-          "Because he missed the train."
+          "She found the pen under the seat at once.",
+          "She asked every student to stay after school.",
+          "She bought Leo a new fountain pen.",
+          "She was sympathetic but could do nothing until Monday."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "短文写道：The teacher was sympathetic, but she could do nothing until Monday。"
+      },
+      {
+        "id": "returner",
+        "question": "Who returned the pen, and where?",
+        "options": [
+          "A teacher returned it in the classroom.",
+          "A bus driver returned it at the station.",
+          "A younger student returned it at the lost-and-found desk.",
+          "Leo's grandmother returned it at home."
         ],
         "answer_index": 2,
-        "explanation_zh": "他发现钱包不在大衣口袋里，所以感到 upset。"
+        "explanation_zh": "周一，一个 younger student 把装着钢笔的小信封带到 lost-and-found desk。"
       },
       {
-        "id": "helper",
-        "question": "Who brought in the envelope?",
+        "id": "theme",
+        "question": "What does the ending show?",
         "options": [
-          "A hotel manager.",
-          "A waiter.",
-          "A passenger.",
-          "Tom's friend."
+          "School trips always make students lose things.",
+          "The situation was not as bad as feared, and someone was honest.",
+          "Teachers should never wait until Monday.",
+          "Cheap pencil cases are not worth keeping."
         ],
         "answer_index": 1,
-        "explanation_zh": "短文写道：a waiter came in with a brown envelope。"
-      },
-      {
-        "id": "content",
-        "question": "What did the envelope contain?",
-        "options": [
-          "A room key and a letter.",
-          "Tom's wallet and all his money.",
-          "A train ticket.",
-          "Only fifty dollars."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "contained 表示“里面装着”，信封里是 Tom's wallet and all his money。"
-      },
-      {
-        "id": "title",
-        "question": "Which title fits the story best?",
-        "options": [
-          "A Careless Clerk",
-          "A Noisy Station",
-          "Honesty at the Front Desk",
-          "A New Coat"
-        ],
-        "answer_index": 2,
-        "explanation_zh": "故事的转折是有人把钱包送回前台，重点是 honesty。"
+        "explanation_zh": "Leo 原本 imagined the worst，但钢笔被诚实归还，所以结尾强调 It could be worse 和 honesty。"
       }
     ]
   },

@@ -523,10 +523,10 @@ The 5 reading questions should test:
 
 Use 5 patterns:
 
-1. `asked me to sit next to ...`
+1. `asked ... to ...`
    - Source: `The hostess asked me to sit next to Mrs. Rumbold.`
    - Focus: asking someone to do something.
-   - Must include: `asked me to sit next to`
+   - Must include: `asked` and `to`
 2. `did not even ...`
    - Source: `She did not even look up.`
    - Focus: emphasizing a lack of response.

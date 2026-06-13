@@ -446,7 +446,7 @@ The 5 reading questions should test:
 1. where the game was played
 2. what suddenly happened to the ball
 3. why the person on the water did not react at first
-4. what the child did differently from the original story
+4. what the child did after the ball reached the boat
 5. the practical lesson: be careful and honest near water
 
 ### Sentence Writing
@@ -456,7 +456,7 @@ Use 5 patterns:
 1. `It was ..., so ...`
    - Source: `It was warm last Sunday, so I went and sat on the river bank as usual.`
    - Focus: weather or situation leading naturally to an action.
-   - Must include: `so`
+   - Must include: `It was` and `so`
 2. `There were ...`
    - Source: `There were some people rowing on the river.`
    - Focus: setting a scene with people and action.

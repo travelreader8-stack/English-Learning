@@ -1,83 +1,82 @@
 {
   "lesson_id": 25,
   "reading": {
-    "title": "At the Information Desk",
-    "intro_zh": "这篇短文不复述原文，而是换到现代车站问路场景，回收 porter / foreigner / several times / not only...but...as well / neither...nor... 等本课关键词和句式。",
+    "title": "At the Sandwich Counter",
+    "intro_zh": "这篇短文不复述原文，而是换到点餐柜台的真实听力场景：学生努力说清楚，却遇到很快的英语回应，重点练习 not only...but...as well / neither...nor... 和礼貌请求重复。",
     "word_bank": [
-      "information desk",
-      "porter",
+      "sandwich counter",
       "foreigner",
-      "the way to",
       "several times",
       "not only... but... as well",
       "neither... nor...",
       "slowly",
       "clearly",
-      "wonder"
+      "Could you say that again, please?",
+      "real listening"
     ],
     "passage": [
-      "Mia arrived at a busy railway station in Manchester. She needed to find the way to her hotel. There was no porter nearby, so she went to the information desk. She not only spoke English carefully, but clearly as well. However, the station worker answered very quickly. He spoke neither slowly nor clearly. She smiled and said, \"I am a foreigner. Could you say that again, please?\" The worker repeated the directions several times and pointed to the right exit. At last, Mia understood. On the way to the hotel, she wondered why classroom English sounded so different from real English. Then she smiled too. Real listening was difficult, but it was beginning."
+      "Nina was visiting Manchester with her class. At lunchtime, she stood at a sandwich counter and tried to order in English. She not only said the words carefully, but pointed to the menu as well. The assistant, however, spoke very fast. He spoke neither slowly nor clearly. Nina did not pretend to understand. She smiled and said, \"I am a foreigner. Could you say that again, please?\" The assistant repeated the question several times and showed her the two choices: brown bread or white bread. At last, Nina ordered lunch by herself. She realized real English was not only grammar in a book, but listening in a noisy room as well."
     ],
     "questions": [
       {
         "id": "place",
-        "question": "Where did Mia arrive?",
+        "question": "Where did Nina try to order lunch?",
         "options": [
-          "At a busy railway station in Manchester.",
           "At a quiet hotel in London.",
-          "At a school information desk.",
-          "At a small airport in China."
+          "At a sandwich counter in Manchester.",
+          "At a railway information desk.",
+          "At a classroom door."
         ],
-        "answer_index": 0,
-        "explanation_zh": "第一句说明 Mia arrived at a busy railway station in Manchester。"
+        "answer_index": 1,
+        "explanation_zh": "短文说 Nina stood at a sandwich counter and tried to order in English。"
       },
       {
         "id": "problem",
-        "question": "Why did Mia go to the information desk?",
+        "question": "How did Nina try to make her order clear?",
         "options": [
-          "Because she wanted to buy a new suitcase.",
-          "Because she needed to find the way to her hotel.",
-          "Because she wanted to meet her English teacher.",
-          "Because the station worker called her name."
+          "She wrote everything in Chinese.",
+          "She only pointed and said nothing.",
+          "She said the words carefully and pointed to the menu as well.",
+          "She asked her teacher to order for her."
         ],
-        "answer_index": 1,
-        "explanation_zh": "短文写道：She needed to find the way to her hotel，所以她去 information desk。"
+        "answer_index": 2,
+        "explanation_zh": "这里用了 not only...but...as well：她不但认真说，也指着菜单。"
       },
       {
         "id": "contrast",
-        "question": "How did Mia speak English?",
+        "question": "Why was the assistant hard for Nina to understand?",
         "options": [
-          "Neither slowly nor clearly.",
-          "Very quickly and loudly.",
-          "Not only carefully, but clearly as well.",
-          "Only in short Chinese words."
+          "He spoke neither slowly nor clearly.",
+          "He did not speak English at all.",
+          "He refused to show the menu.",
+          "He only talked to Nina's teacher."
         ],
-        "answer_index": 2,
-        "explanation_zh": "Mia 的做法对应本课句式：not only spoke English carefully, but clearly as well。"
+        "answer_index": 0,
+        "explanation_zh": "短文写道：He spoke neither slowly nor clearly。"
       },
       {
         "id": "worker_answer",
-        "question": "Why was the worker hard for Mia to understand?",
+        "question": "What did Nina ask the assistant to do?",
         "options": [
-          "He answered neither slowly nor clearly.",
-          "He did not speak English at all.",
-          "He refused to help her.",
-          "He only pointed to a map."
+          "To give her a free lunch.",
+          "To call her English teacher.",
+          "To close the noisy counter.",
+          "To say the question again."
         ],
-        "answer_index": 0,
-        "explanation_zh": "短文说 He spoke neither slowly nor clearly，说明又不慢，也不清楚。"
+        "answer_index": 3,
+        "explanation_zh": "她礼貌地说：Could you say that again, please?"
       },
       {
         "id": "takeaway",
-        "question": "What did Mia learn from the experience?",
+        "question": "What did Nina realize at the end?",
         "options": [
-          "Real listening can feel different from classroom English.",
-          "People in stations should never speak quickly.",
-          "She should stop asking questions in English.",
-          "Manchester is always dark and frightening."
+          "Real English can include listening in a noisy room, not only grammar in a book.",
+          "She should never order lunch in English again.",
+          "Assistants must always speak like teachers.",
+          "Brown bread is easier to understand than white bread."
         ],
         "answer_index": 0,
-        "explanation_zh": "结尾强调 classroom English 和 real English 听起来不同；听不懂不代表失败，而是真实听力正在开始。"
+        "explanation_zh": "结尾说 real English was not only grammar in a book, but listening in a noisy room as well。"
       }
     ]
   },
@@ -130,7 +129,7 @@
       {
         "id": "could_you_say_again",
         "title": "Could you say that again, please?",
-        "source": "I repeated my question several times and at last he understood.",
+        "source": "I am a foreigner. Could you say that again, please?",
         "focus_zh": "真实交流中，比硬撑更重要的是礼貌地请求重复或放慢速度。",
         "task_zh": "仿写一句：你是外国人或游客，请对方再说一遍，或者说慢一点。",
         "must_include": [

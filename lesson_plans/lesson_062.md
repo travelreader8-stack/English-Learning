@@ -1042,14 +1042,18 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original recovery passage about a burned or bare hillside, school garden,
-or park slope. The focus should be ecological repair: after damage, rain may wash
-away soil, so fast-growing seed is spread, takes root, and green patches appear.
+Use an original recovery passage set on a small, child-scale slope: a school
+garden bank or a neighbourhood park slope left bare after a small fire or after
+builders cleared it. Keep the ecological-repair idea (bare soil, the risk that
+rain washes the soil away, fast-growing seed, roots, the first green shoots), but
+it must read as a NEW situation with new characters (students, volunteers, a
+gardener), NOT a retelling of the lesson's forest fire fought by firemen and
+seeded from aeroplanes. Do not paraphrase the original passage.
 
-Suggested title: `Green After the Fire`
+Suggested title: `Green on the School Slope`
 
-Recommended word bank: `forest fire`, `under control`, `desolate`, `threaten`,
-`wash away`, `flood`, `grass-seed`, `spray`, `take root`, `patches of green`.
+Recommended word bank: `bare slope`, `wash away`, `soil`, `fast-growing seed`,
+`scatter`, `take root`, `green shoots`, `protect`, `volunteers`, `at last`.
 
 The 5 reading questions should test:
 

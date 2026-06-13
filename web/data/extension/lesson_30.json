@@ -57,7 +57,7 @@
       },
       {
         "id": "leo_choice",
-        "question": "What did Leo do differently from the children in the original lesson?",
+        "question": "What did Leo do after the ball struck the boat?",
         "options": [
           "He ran away before anyone saw him.",
           "He blamed the girl in the boat.",
@@ -65,7 +65,7 @@
           "He hid the ball under the bridge."
         ],
         "answer_index": 2,
-        "explanation_zh": "原文里的孩子们 had all run away；这里 Leo wanted to run away, but he stopped，并主动道歉。"
+        "explanation_zh": "短文写道 Leo wanted to run away, but he stopped，并主动道歉、确认对方是否没事。"
       },
       {
         "id": "practical_lesson",
@@ -91,6 +91,7 @@
         "focus_zh": "用天气、时间或情况自然引出一个行动，so 后面写因此发生的事。",
         "task_zh": "仿写一句：写天气很好、很冷、很晚或人很多，所以某人做了一个自然的动作。",
         "must_include": [
+          "It was",
           "so"
         ],
         "min_words": 10,
