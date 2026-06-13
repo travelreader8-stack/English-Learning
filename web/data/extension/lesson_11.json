@@ -1,0 +1,160 @@
+{
+  "lesson_id": 11,
+  "reading": {
+    "title": "One Snack Deserves Another",
+    "intro_zh": "这篇短文不复述 Tony Steele 的餐厅故事，而是换到同桌午餐和小物品借还：有人常常 borrow 却忘记 pay back，又把 one good turn 说成让别人 pay for 零食的理由。重点回收 borrow / lend / pay back / pay for 的方向。",
+    "word_bank": [
+      "turn",
+      "deserve",
+      "borrow",
+      "lend",
+      "pay back",
+      "pay for",
+      "salary",
+      "immediately",
+      "to my surprise",
+      "same table"
+    ],
+    "passage": [
+      "At lunch, I was sitting at the same table with Leo. He often borrowed pencils or snack money from classmates, and he always said he would pay back soon. He had even started a small weekend job and got a little salary, but he still forgot. That day he had no fork, so I did a good turn and lent him mine. Later, I asked him to lend me his spare pen for the class form. To my surprise, he gave it to me immediately. Then he smiled and said, \"One snack deserves another. Since I helped you, you can pay for my cookie.\" We laughed, but I told him a fair turn means returning things, not turning help into a bill."
+    ],
+    "questions": [
+      {
+        "id": "small_favour",
+        "question": "What small favour did the narrator do for Leo at lunch?",
+        "options": [
+          "He paid for Leo's cookie.",
+          "He lent Leo his fork.",
+          "He gave Leo a new salary.",
+          "He moved to another table."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文说 Leo 没有叉子，所以叙述者 did a good turn and lent him mine。"
+      },
+      {
+        "id": "usual_borrower",
+        "question": "What did Leo usually do?",
+        "options": [
+          "He always returned borrowed things immediately.",
+          "He borrowed pencils or snack money and often forgot to pay back.",
+          "He never sat at the same table with anyone.",
+          "He paid for everyone's snacks every day."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中说 Leo often borrowed pencils or snack money，并且总说会 pay back soon，但还是忘。"
+      },
+      {
+        "id": "surprising_request",
+        "question": "What did the narrator ask Leo to lend him later?",
+        "options": [
+          "A spare pen for the class form.",
+          "A fork for lunch.",
+          "A cookie from the snack shop.",
+          "Money from his weekend salary."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "叙述者后来 asked him to lend me his spare pen for the class form。"
+      },
+      {
+        "id": "twisted_turn",
+        "question": "How did Leo twist the fairness idea?",
+        "options": [
+          "He said the narrator should pay for his cookie because Leo had helped him.",
+          "He returned every pencil he had borrowed before.",
+          "He asked the teacher to explain the proverb.",
+          "He gave the narrator his whole lunch."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "Leo 把 Since I helped you 接到 you can pay for my cookie，把帮忙变成了让别人付钱。"
+      },
+      {
+        "id": "fair_payback",
+        "question": "What should fair payback mean in real life?",
+        "options": [
+          "Turning every small favour into a bill.",
+          "Borrowing more because a friend helped once.",
+          "Returning borrowed things and paying back what you promised.",
+          "Using a proverb to get free snacks."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结尾说 a fair turn means returning things, not turning help into a bill。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天的仿写只抓 Lesson 11 最有用的五个结构：背景动作被打断、过去和现在对比、borrow from 与 pay back、ask someone to lend me，以及 To my surprise...immediately。写作时特别分清 borrow / lend / pay back / pay for 的方向。",
+    "patterns": [
+      {
+        "id": "was_having_when",
+        "title": "was having ... when ...",
+        "source": "I was having dinner at a restaurant when Tony Steele came in.",
+        "focus_zh": "用 was having 写一个正在进行的背景动作，再用 when 引出突然出现的人或事。",
+        "task_zh": "仿写一句：你正在吃午饭、上课或写作业时，某人突然进来或发生了一件小事。",
+        "must_include": [
+          "was having",
+          "when"
+        ],
+        "min_words": 10,
+        "sample": "I was having lunch in the classroom when Amy came in.",
+        "tip_zh": "was having 后面接正在进行的活动；when 后面写打断这个场景的新动作。"
+      },
+      {
+        "id": "used_to_but_now",
+        "title": "used to ... but now ...",
+        "source": "Tony worked in a lawyer's office years ago, but he is now working at a bank.",
+        "focus_zh": "用 but 和 now 把过去的工作、习惯或状态同现在对比起来。",
+        "task_zh": "仿写一句：写一个人过去的习惯或工作，再写他现在的变化。",
+        "must_include": [
+          "used to",
+          "but",
+          "now"
+        ],
+        "min_words": 10,
+        "sample": "My cousin used to walk to school, but now he rides a bus.",
+        "tip_zh": "used to 后面接动词原形；but now 后面写现在的新情况。"
+      },
+      {
+        "id": "borrows_never_pays_back",
+        "title": "borrows ... from ... and never pays it back",
+        "source": "He always borrows money from his friends and never pays it back.",
+        "focus_zh": "borrow from 表示东西或钱从别人那里来到自己这里；never pays it back 表示没有归还。",
+        "task_zh": "仿写一句：写一个人总是从同学那里借小额零食钱或活动费，却从不还。",
+        "must_include": [
+          "borrows",
+          "from",
+          "never pays it back"
+        ],
+        "min_words": 10,
+        "sample": "Evan borrows snack money from Tom and never pays it back.",
+        "tip_zh": "money 才适合用 pay it back；如果借的是铅笔或尺子，要说 give it back。"
+      },
+      {
+        "id": "asked_him_to_lend_me",
+        "title": "asked him to lend me ...",
+        "source": "I asked him to lend me twenty pounds.",
+        "focus_zh": "lend me 表示对方把东西暂时给我；方向和 borrow from 正好相反。",
+        "task_zh": "仿写一句：你请别人暂时借给你一支笔、一把尺子或一本书。",
+        "must_include": [
+          "asked him to lend me"
+        ],
+        "min_words": 10,
+        "sample": "I asked him to lend me a ruler before the test.",
+        "tip_zh": "asked him to lend me 后面直接接借来的东西；不要写成 asked him to borrow me。"
+      },
+      {
+        "id": "to_my_surprise_immediately",
+        "title": "To my surprise, ... immediately",
+        "source": "To my surprise, he gave me the money immediately.",
+        "focus_zh": "To my surprise 放在句首，告诉读者接下来的反应和预期不同；immediately 强调动作很快。",
+        "task_zh": "仿写一句：你原以为对方会犹豫，结果他立刻归还、同意或帮忙。",
+        "must_include": [
+          "To my surprise",
+          "immediately"
+        ],
+        "min_words": 9,
+        "sample": "To my surprise, she returned the borrowed book immediately.",
+        "tip_zh": "这句话很适合制造转折：先让读者知道你没想到，再写对方立刻做了什么。"
+      }
+    ]
+  }
+}
