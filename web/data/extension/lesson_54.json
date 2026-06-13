@@ -1,0 +1,156 @@
+{
+  "lesson_id": 54,
+  "reading": {
+    "title": "The Glue Fingers Problem",
+    "intro_zh": "这篇短文把 Lesson 54 的“手很粘时偏偏被打断”换成现代手工场景：Leo 修纸板火箭，手上都是 glue，消息和门铃接连打断他。重点练习 sticky、glue、dismayed、recognize、persuade、ring back、mess、no sooner、doorbell 和 delivery。",
+    "word_bank": [
+      "sticky",
+      "glue",
+      "dismayed",
+      "recognize",
+      "persuade",
+      "ring back",
+      "mess",
+      "no sooner",
+      "doorbell",
+      "delivery"
+    ],
+    "passage": [
+      "On Saturday afternoon, Leo was repairing a cardboard rocket for the science fair. In a short time, his fingers were covered with sticky glue, and a strip of tape was stuck to his sleeve. At exactly that moment, his phone began to buzz on the desk. Nothing could have been more annoying. He tried to tap the screen with one clean knuckle and was dismayed when he recognized Max's name. Max needed the model measurements at once. It took Leo five minutes to persuade him to ring back later. What a mess! There was glue on his fingers, on the desk, and on the phone case. He had no sooner washed his hands than the doorbell rang. A delivery driver needed a code for a package, and Leo had to find it without touching anything sticky."
+    ],
+    "questions": [
+      {
+        "id": "sticky_activity",
+        "question": "What was Leo doing when his fingers became sticky?",
+        "options": [
+          "He was repairing a cardboard rocket for the science fair.",
+          "He was cooking meat pies in the kitchen.",
+          "He was cleaning an old telephone.",
+          "He was writing a registered letter."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文开头说 Leo was repairing a cardboard rocket for the science fair，所以他的手是在修纸板火箭时被 glue 弄粘的。"
+      },
+      {
+        "id": "exact_moment",
+        "question": "What happened at exactly that moment?",
+        "options": [
+          "The rocket flew across the room.",
+          "His phone began to buzz on the desk.",
+          "Max came to the door with a package.",
+          "The science fair was suddenly cancelled."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "At exactly that moment 后面接的是 his phone began to buzz on the desk，正好这时手机响了。"
+      },
+      {
+        "id": "why_annoying",
+        "question": "Why was replying to Max annoying?",
+        "options": [
+          "Leo did not know Max at all.",
+          "Leo's hands were sticky, but Max needed the model measurements at once.",
+          "Leo had already finished the science fair.",
+          "Leo wanted to throw the phone away."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "麻烦点在于手上都是 sticky glue，却要处理 Max 要 measurements 的消息；这就是 bad timing。"
+      },
+      {
+        "id": "left_mess",
+        "question": "What mess was left after the phone problem?",
+        "options": [
+          "Paint was on the wall and floor.",
+          "Glue was on Leo's fingers, the desk, and the phone case.",
+          "The package code was written on the rocket.",
+          "Tape was stuck to the delivery driver's bag."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文里的 What a mess 后面说 glue 在 his fingers、the desk 和 the phone case 上。"
+      },
+      {
+        "id": "second_interruption",
+        "question": "How does the second interruption create the joke?",
+        "options": [
+          "Leo had just washed his hands, and immediately the doorbell rang for a delivery code.",
+          "Leo forgot the science fair was on Saturday.",
+          "Max decided to repair the rocket by himself.",
+          "The delivery driver wanted to join the science club."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "He had no sooner washed his hands than the doorbell rang 表示刚洗完手，门铃马上又响；第二个打断接得太快，所以好笑。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 54 的“时间背景、快速进入动作、糟糕 timing、强烈抱怨、第二次打断”句式：It was still...when..., In a short time..., At exactly that moment..., Nothing could have been more..., had no sooner...than...。",
+    "patterns": [
+      {
+        "id": "still_when",
+        "title": "It was still ... when ...",
+        "source": "It was still early when I returned home.",
+        "focus_zh": "这个句式先交代时间状态，再用 when 接发生的动作，适合给故事开头加背景。",
+        "task_zh": "仿写一句：写你回家、到教室或完成某件事时，时间还早、天还亮或周围还很安静。",
+        "must_include": [
+          "It was still",
+          "when"
+        ],
+        "min_words": 10,
+        "sample": "It was still light when I finished cleaning the glue from my hands.",
+        "tip_zh": "It was still 后面可以接 early, light, quiet；when 后面接一个完整动作。"
+      },
+      {
+        "id": "in_a_short_time",
+        "title": "In a short time, ...",
+        "source": "In a short time I was busy mixing butter and flour.",
+        "focus_zh": "In a short time 表示“不一会儿”，能把故事快速推进到正在忙的状态。",
+        "task_zh": "仿写一句：写你很快忙着做手工、收拾桌子、准备比赛或完成一个小项目。",
+        "must_include": [
+          "In a short time"
+        ],
+        "min_words": 10,
+        "sample": "In a short time, I was busy cutting paper for the model.",
+        "tip_zh": "后面常接 I was busy doing...，busy 后面的动词用 -ing。"
+      },
+      {
+        "id": "exactly_that_moment",
+        "title": "At exactly that moment, ...",
+        "source": "At exactly that moment, the telephone rang.",
+        "focus_zh": "这个短语突出“偏偏就在那一刻”，很适合写喜剧里的坏 timing。",
+        "task_zh": "仿写一句：写你手很脏、正忙或刚坐下时，突然来了消息、电话或门铃。",
+        "must_include": [
+          "At exactly that moment"
+        ],
+        "min_words": 10,
+        "sample": "At exactly that moment, my phone buzzed on the clean desk.",
+        "tip_zh": "exactly 要保留，它就是“偏偏正好”的味道。"
+      },
+      {
+        "id": "nothing_more_annoying",
+        "title": "Nothing could have been more ...",
+        "source": "Nothing could have been more annoying.",
+        "focus_zh": "这是强烈抱怨的句式，不是普通的 very annoying，而是“再烦也没有了”。",
+        "task_zh": "仿写一句：写一个特别烦人的时刻，比如手很粘时手机响、刚收好书又要重找资料。",
+        "must_include": [
+          "Nothing could have been more"
+        ],
+        "min_words": 10,
+        "sample": "Nothing could have been more annoying than a message on my sticky phone.",
+        "tip_zh": "more 后面接形容词；如果要说明原因，可以加 than...。"
+      },
+      {
+        "id": "no_sooner_than",
+        "title": "had no sooner ... than ...",
+        "source": "I had no sooner got back to the kitchen than the doorbell rang.",
+        "focus_zh": "had no sooner...than... 表示第一件事刚发生，第二件事马上接上，是 Lesson 54 的第二次打断核心。",
+        "task_zh": "仿写一句：写你刚洗完手、刚回到座位或刚打开作业，马上又被另一个事情打断。",
+        "must_include": [
+          "had no sooner",
+          "than"
+        ],
+        "min_words": 12,
+        "sample": "I had no sooner washed my hands than the delivery man rang the bell.",
+        "tip_zh": "这个结构里 had no sooner 放在第一个动作前，than 后面接第二个马上发生的动作。"
+      }
+    ]
+  }
+}
