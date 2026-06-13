@@ -1,0 +1,156 @@
+{
+  "lesson_id": 12,
+  "reading": {
+    "title": "Good Luck at the Station",
+    "intro_zh": "这篇短文不复述 Captain Alison 的海港启航，而是换到车站送别同学去参加机器人比赛：大家提前集合，说 goodbye 和 good luck，并为一个重要挑战感到 proud。重点回收 will、set out、take part in、plenty of time、will be away 和 proud。",
+    "word_bank": [
+      "good luck",
+      "captain",
+      "set out",
+      "harbour",
+      "important race",
+      "proud",
+      "plenty of time",
+      "will be away",
+      "take part in",
+      "tomorrow"
+    ],
+    "passage": [
+      "Tomorrow, our classmate Mia will take part in an important robotics contest in another city. She is the captain of the school team, so everyone wants to send her off. We will meet her at the railway station early in the morning. It is not a harbour, but it feels like one: a safe place before a long journey. Mia will set out at seven o'clock, so we will have plenty of time to check her robot box, take photos, and say goodbye. She will be away for ten days. Before she gets on the train, our teacher will say, \"Good luck, Mia!\" I feel proud of her because she has worked hard and is ready for a real challenge."
+    ],
+    "questions": [
+      {
+        "id": "who_is_leaving",
+        "question": "Who is leaving, and what challenge will she face?",
+        "options": [
+          "Mia is leaving to take part in an important robotics contest.",
+          "Mia is leaving to sail across the Atlantic.",
+          "The teacher is leaving to visit a harbour.",
+          "The narrator is leaving for a holiday."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "开头说明 Mia will take part in an important robotics contest in another city。"
+      },
+      {
+        "id": "meeting_place",
+        "question": "Where will people meet to say goodbye?",
+        "options": [
+          "At the school library.",
+          "At the railway station.",
+          "At a small harbour.",
+          "At Mia's home."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文说 We will meet her at the railway station early in the morning。"
+      },
+      {
+        "id": "set_out_time",
+        "question": "When will Mia set out?",
+        "options": [
+          "At six o'clock.",
+          "At seven o'clock.",
+          "At eight o'clock.",
+          "At ten o'clock."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中直接说 Mia will set out at seven o'clock。"
+      },
+      {
+        "id": "away_duration",
+        "question": "How long will Mia be away?",
+        "options": [
+          "For two months.",
+          "For one night.",
+          "For ten days.",
+          "For a whole year."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "短文写道 She will be away for ten days。"
+      },
+      {
+        "id": "why_proud",
+        "question": "Why does the narrator feel proud of Mia?",
+        "options": [
+          "Because Mia has worked hard and is ready for a real challenge.",
+          "Because Mia forgot her robot box.",
+          "Because Mia will stay at home tomorrow.",
+          "Because Mia is taking a short train ride for fun."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾说 I feel proud of her because she has worked hard and is ready for a real challenge。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天只抓 Lesson 12 的五个送行句式：用 will 写明天的计划，用 meet...at... 写集合地点，用 set out at 写出发时间，用 be away for 写离开多久，再用 take part in 写挑战目的。",
+    "patterns": [
+      {
+        "id": "will_tomorrow",
+        "title": "will ... tomorrow",
+        "source": "Captain Charles Alison will sail from Portsmouth tomorrow.",
+        "focus_zh": "用 will 加 tomorrow 写一个已经安排好的未来计划。",
+        "task_zh": "仿写一句：写某人明天要去参加比赛、训练营、旅行或重要活动。",
+        "must_include": [
+          "will",
+          "tomorrow"
+        ],
+        "min_words": 8,
+        "sample": "My brother will leave for a football match tomorrow.",
+        "tip_zh": "tomorrow 通常放在句末；will 后面直接接动词原形。"
+      },
+      {
+        "id": "meet_at",
+        "title": "We'll meet ... at ...",
+        "source": "We'll meet him at the harbour early in the morning.",
+        "focus_zh": "用 We'll meet...at... 写清楚送行或集合的对象和地点。",
+        "task_zh": "仿写一句：写你们将在机场、车站、校门口或体育馆见某人。",
+        "must_include": [
+          "We'll meet",
+          "at"
+        ],
+        "min_words": 8,
+        "sample": "We'll meet our team captain at the station early tomorrow.",
+        "tip_zh": "meet 后面先写人，at 后面写地点；再补时间会更完整。"
+      },
+      {
+        "id": "set_out_at",
+        "title": "will set out at ...",
+        "source": "Captain Alison will set out at eight o'clock.",
+        "focus_zh": "set out 表示正式出发，at 后面接具体时间。",
+        "task_zh": "仿写一句：写某人几点出发去参加一个重要活动。",
+        "must_include": [
+          "will set out at"
+        ],
+        "min_words": 8,
+        "sample": "The runners will set out at six o'clock on Sunday morning.",
+        "tip_zh": "set out 比 leave 更有“启程去完成任务”的感觉，适合比赛或长途挑战。"
+      },
+      {
+        "id": "away_for",
+        "title": "will be away for ...",
+        "source": "He will be away for two months.",
+        "focus_zh": "用 will be away for 写未来离开多长时间。",
+        "task_zh": "仿写一句：写朋友、亲人或队友将离开多久。",
+        "must_include": [
+          "will be away for"
+        ],
+        "min_words": 7,
+        "sample": "My sister will be away for three weeks during the camp.",
+        "tip_zh": "for 后面接一段时间，比如 ten days、three weeks、two months。"
+      },
+      {
+        "id": "take_part_in",
+        "title": "take part in ...",
+        "source": "He will take part in an important race across the Atlantic.",
+        "focus_zh": "take part in 表示参加活动或比赛，后面接具体项目。",
+        "task_zh": "仿写一句：写某人将参加一个比赛、表演、竞赛或学校活动。",
+        "must_include": [
+          "take part in"
+        ],
+        "min_words": 9,
+        "sample": "She will take part in an important science contest next month.",
+        "tip_zh": "不要写 take part an activity，中间需要 in。"
+      }
+    ]
+  }
+}
