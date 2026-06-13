@@ -23,12 +23,12 @@
         "id": "strange_reputation",
         "question": "What place or object had a strange reputation?",
         "options": [
-          "A green bench outside a little bakery.",
           "A tree near an old church.",
           "A red bus in a busy station.",
+          "A green bench outside a little bakery.",
           "A locked box in a school library."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "短文开头说小面包店据说 possess an unlucky bench，重点对象是店门口的 green bench。"
       },
       {
@@ -47,36 +47,36 @@
         "id": "rumour_claim",
         "question": "What did people say would happen to anyone who sat on the bench before buying bread?",
         "options": [
-          "He would have a terrible day.",
           "He would get free cakes for a year.",
           "He would find a lost wallet.",
-          "He would have to paint the bakery."
+          "He would have to paint the bakery.",
+          "He would have a terrible day."
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "explanation_zh": "传言说 anyone who sat on it before buying bread would have a terrible day，这就是 unlucky reputation。"
       },
       {
         "id": "source_of_income",
         "question": "Why did the baker refuse to remove the bench?",
         "options": [
-          "Because it had become a useful source of income.",
           "Because the bench was too heavy for anyone to move.",
+          "Because it had become a useful source of income.",
           "Because he believed the rumour completely.",
           "Because visitors were not allowed to buy cakes."
         ],
-        "answer_index": 0,
+        "answer_index": 1,
         "explanation_zh": "店主指出长椅已经成了 useful source of income，因为游客来了之后常常也会买蛋糕。"
       },
       {
         "id": "evidence_undercuts",
         "question": "How does the evidence undercut the rumour?",
         "options": [
-          "So far, not one visitor has had bad luck.",
           "The bench has disappeared from King Street.",
           "The baker stopped selling bread.",
+          "So far, not one visitor has had bad luck.",
           "Every neighbour now refuses to pass the bakery."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "结尾的 So far, not one of them has had bad luck 用目前的证据削弱了传言。"
       }
     ]
