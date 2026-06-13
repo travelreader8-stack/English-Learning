@@ -8,6 +8,9 @@ return a clear release decision. By default, the QC sub-agent is read-only.
 
 ## Operating Rules
 
+- You must be a newly spawned or otherwise independent QC agent/session. If you
+  are the same agent that produced the lesson, stop and report that QC was not
+  run. A production agent's self-check cannot satisfy the QC gate.
 - Do not edit files unless the production agent or user explicitly asks you to
   fix something.
 - Do not stage, commit, push, merge, or delete files.
@@ -16,6 +19,8 @@ return a clear release decision. By default, the QC sub-agent is read-only.
 - Inspect only the target lesson and directly relevant shared code or tests.
 - Open the lesson in a browser before giving a final decision.
 - End the report with exactly one status: `PASS` or `NEEDS FIX`.
+  Also include the independent QC context, such as `QC agent: <id>` or
+  `QC session: separate Codex session`.
 
 ## Required Inputs
 
@@ -112,6 +117,7 @@ Use this exact structure:
 
 ```markdown
 ## QC Result
+QC agent: <new sub-agent id or separate session>
 PASS
 ```
 
@@ -119,6 +125,7 @@ or:
 
 ```markdown
 ## QC Result
+QC agent: <new sub-agent id or separate session>
 NEEDS FIX
 
 ## Findings

@@ -312,6 +312,16 @@ student's answer against the wrong reference.
 5. **QC sub-agent gate**
    - After production validation passes, the production agent must spawn a QC
      sub-agent before committing or pushing `main`.
+   - Independence is mandatory. A QC pass is valid only if it comes from a
+     different Codex agent context than the production agent. The production
+     agent's own checks are local validation / pre-QC only and must not be
+     reported as the QC gate.
+   - Acceptable QC contexts are:
+     - a newly spawned multi-agent QC sub-agent in the production session; or
+     - a separate user-opened Codex session whose only job is QC for this
+       lesson.
+   - The same agent that produced the lesson must not mark its own work as
+     `PASS`, even if it has opened the browser and run tests.
    - The QC sub-agent must read `LESSON_QC_CHECKLIST.md`, this root plan, the
      matching `lesson_plans/lesson_NNN.md`, and the produced lesson files.
    - The QC sub-agent is read-only by default: it must inspect, open the lesson
@@ -319,6 +329,8 @@ student's answer against the wrong reference.
      commit, or push.
    - The QC report must end with exactly one status:
      `PASS` or `NEEDS FIX`.
+   - The QC report must also identify the independent QC context, for example
+     `QC agent: <sub-agent id>` or `QC session: separate Codex session`.
    - If the QC report is `NEEDS FIX`, the production agent fixes the issues and
      runs the QC sub-agent again. Do not publish after a failed or incomplete
      QC pass.
@@ -386,6 +398,7 @@ A lesson is ready only when:
 - The final `outro` page and narration explicitly include `⓪ 跟读` before
   `① 生活场景`, with the concrete read-aloud steps.
 - A QC sub-agent has inspected the produced lesson with
-  `LESSON_QC_CHECKLIST.md` and returned `PASS`.
+  `LESSON_QC_CHECKLIST.md` from an independent Codex agent context and returned
+  `PASS`.
 - The completed lesson is committed and pushed only after that QC `PASS`, unless
   the user explicitly asks for a local-only run.
