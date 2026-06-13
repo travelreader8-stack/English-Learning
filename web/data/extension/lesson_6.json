@@ -138,11 +138,12 @@
       },
       {
         "id": "once_a_month",
-        "title": "once a month",
+        "title": "calls at ... once a month",
         "source": "He calls at every house in the street once a month.",
-        "focus_zh": "once a month 表示“每月一次”，用来写固定的社区、学校或家庭习惯。",
+        "focus_zh": "calls at 表示“到某处拜访或停留”，once a month 表示“每月一次”，合起来写固定的社区、学校或家庭习惯。",
         "task_zh": "仿写一句：写一个人每月一次到某处做一件固定的事。",
         "must_include": [
+          "calls at",
           "once a month"
         ],
         "min_words": 9,
