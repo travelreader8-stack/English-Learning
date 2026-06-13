@@ -99,12 +99,12 @@
       },
       {
         "id": "while_interruption",
-        "title": "while ...",
+        "title": "while I was ...",
         "source": "They had rushed up to her while she was having a picnic.",
         "focus_zh": "while 用来写一个背景动作正在进行时，另一件事突然发生、把它打断。",
-        "task_zh": "仿写一句：写正在做某事（while ...）的时候，突然发生了别的事情。",
+        "task_zh": "仿写一句：用 while I was ... 写自己正在做某事的时候，突然发生了别的事情。",
         "must_include": [
-          "while"
+          "while I was"
         ],
         "min_words": 12,
         "sample": "A man snatched my phone while I was waiting quietly at the station gate.",
@@ -145,7 +145,7 @@
         "focus_zh": "need + 动词-ing（needs mending / fixing / repairing）用来说某样东西坏了、需要被修理。",
         "task_zh": "仿写一句：写某样东西坏了，需要修理（用 needs 加一个 -ing 动词）。",
         "must_include": [
-          "needs"
+          "needs mending"
         ],
         "min_words": 10,
         "sample": "My old schoolbag strap needs mending, but the books inside are still safe.",
