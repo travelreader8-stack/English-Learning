@@ -1,0 +1,155 @@
+{
+  "lesson_id": 49,
+  "reading": {
+    "title": "The Perfect Study Chair",
+    "intro_zh": "这篇短文把 Lesson 49 的“攒很久钱买到梦想物品”换成安全的现代学习场景：Emma 攒钱买学习椅，装好后才发现自己忽略了尺寸。它不复述屋顶、风暴或危险睡觉安排，而是练习 tired of、save up、owner、assemble、instructions、too wide、unhurt、promptly 这些关键词。",
+    "word_bank": [
+      "tired of",
+      "save up",
+      "owner",
+      "assemble",
+      "instructions",
+      "too wide",
+      "wheels",
+      "unhurt",
+      "realize",
+      "promptly"
+    ],
+    "passage": [
+      "Emma was tired of doing homework on a kitchen stool. Every evening, her back hurt before she finished one page. She saved up for six months to buy a real study chair and felt like the proud owner of a tiny office when the box arrived. Following the instructions, her father helped her assemble it, and the wheels rolled beautifully across the floor. But Emma had not measured the space under her desk. When she tried to push the chair in, it was too wide, and the armrests bumped the drawers. She was unhurt, but her dream looked silly for a minute. Then she realized the armrests could come off. She fixed the chair, put it in the right place, and promptly started her homework. The chair was not perfect, but the dream was still alive."
+    ],
+    "questions": [
+      {
+        "id": "uncomfortable_habit",
+        "question": "What was Emma tired of doing?",
+        "options": [
+          "Sleeping on a roof during hot nights.",
+          "Doing homework on a kitchen stool.",
+          "Carrying a bed into a courtyard.",
+          "Looking for a lost schoolbag every evening."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文开头说 Emma was tired of doing homework on a kitchen stool，她厌倦的是坐在厨房凳子上写作业。"
+      },
+      {
+        "id": "dream_purchase",
+        "question": "What did Emma save up to buy?",
+        "options": [
+          "A real study chair.",
+          "A new kitchen table.",
+          "A box of school books.",
+          "A small office lamp."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 she saved up for six months to buy a real study chair，所以她攒钱买的是一把真正的学习椅。"
+      },
+      {
+        "id": "ignored_detail",
+        "question": "What practical detail did Emma ignore?",
+        "options": [
+          "She forgot to read the instructions.",
+          "She chose a chair without wheels.",
+          "She did not measure the space under her desk.",
+          "She left the box at the shop."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "问题出在尺寸：Emma had not measured the space under her desk，所以椅子推进去时太宽。"
+      },
+      {
+        "id": "comic_problem",
+        "question": "What went wrong in a safe, comic way?",
+        "options": [
+          "The chair was too wide, and the armrests bumped the drawers.",
+          "The wheels broke and Emma was badly hurt.",
+          "A storm blew the chair out of the window.",
+          "Her father refused to assemble the chair."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "安全的小麻烦是椅子 too wide，扶手碰到抽屉；短文也明确说 Emma was unhurt。"
+      },
+      {
+        "id": "sensible_ending",
+        "question": "How does the ending keep Emma's dream alive but more sensible?",
+        "options": [
+          "She gives up studying at the desk forever.",
+          "She buys a second chair without checking anything.",
+          "She removes the armrests, puts the chair in the right place, and uses it.",
+          "She asks her father to hide the chair in the kitchen."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结尾不是梦想破灭：她 realized the armrests could come off，修好后把椅子放到合适位置并开始写作业，梦想还在，只是更理性了。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 49 的“梦想物品和反转”句式：用 Tired of... 开头写原因，用 saved up for years to... 写长期努力，用 For the first time in his life... 写第一次拥有的意义，用 did not...until... 写直到某刻才意识到，最后用 Although... 写意外中的反差。",
+    "patterns": [
+      {
+        "id": "tired_of_reason",
+        "title": "Tired of ..., ...",
+        "source": "Tired of sleeping on the floor, a young man in Teheran saved up for years...",
+        "focus_zh": "Tired of doing... 放在句首，先给出“已经受够了”的原因，再写后面的行动。",
+        "task_zh": "仿写一句：写某人因为厌倦了一种不舒服或不方便的情况，于是决定做出改变。",
+        "must_include": [
+          "Tired of"
+        ],
+        "min_words": 10,
+        "sample": "Tired of doing homework at the kitchen table, Emma saved up for a study chair.",
+        "tip_zh": "Tired of 后面接动词 -ing 或名词；逗号后写真正采取的行动。"
+      },
+      {
+        "id": "saved_up_for_goal",
+        "title": "saved up for years to ...",
+        "source": "He saved up for years to buy a real bed.",
+        "focus_zh": "saved up for...to... 把“攒了多久”和“为了什么目标”连在一起，能写出目标来之不易。",
+        "task_zh": "仿写一句：写某人为了买一件有意义的东西，长期一点点攒钱。",
+        "must_include": [
+          "saved up for"
+        ],
+        "min_words": 10,
+        "sample": "My brother saved up for years to buy a camera for school projects.",
+        "tip_zh": "saved up for years / months 都可以；to 后面接目标动作，如 to buy、to pay for。"
+      },
+      {
+        "id": "first_time_in_life",
+        "title": "For the first time in his life, ...",
+        "source": "For the first time in his life, he became the proud owner of a bed.",
+        "focus_zh": "For the first time in his life 让一个普通动作变成重要时刻，强调“人生第一次”。",
+        "task_zh": "仿写一句：写某人第一次拥有、尝试或完成一件对自己很重要的事。",
+        "must_include": [
+          "For the first time in his life"
+        ],
+        "min_words": 12,
+        "sample": "For the first time in his life, Leo had a quiet corner of his own.",
+        "tip_zh": "这个短语一般放句首，后面接完整句子；如果主语是女孩，可以改成 in her life。"
+      },
+      {
+        "id": "did_not_until",
+        "title": "did not ... until ...",
+        "source": "He did not wake up until the bed had struck the ground.",
+        "focus_zh": "did not...until... 表示“直到……才……”，重点是前面的动作一直没有发生。",
+        "task_zh": "仿写一句：写某人直到某个时刻、某件事发生后，才明白、醒来、注意到或采取行动。",
+        "must_include": [
+          "did not",
+          "until"
+        ],
+        "min_words": 12,
+        "sample": "I did not realize the chair was too wide until I pushed it under the desk.",
+        "tip_zh": "中文常说“直到……才……”，英文要先说 did not do，再用 until 引出那个时间点。"
+      },
+      {
+        "id": "although_contrast",
+        "title": "Although ..., ...",
+        "source": "Although the bed was smashed to pieces, the man was miraculously unhurt.",
+        "focus_zh": "Although 引出“按理说会很糟”的情况，后半句给出真正结果，适合写反差。",
+        "task_zh": "仿写一句：写一件事看起来出了问题，但结果没有那么糟，或者有人仍然想办法解决。",
+        "must_include": [
+          "Although"
+        ],
+        "min_words": 12,
+        "sample": "Although the new chair was too wide at first, Emma fixed it and kept using it.",
+        "tip_zh": "Although 后面不要再加 but；英文通常写 Although..., subject + verb...。"
+      }
+    ]
+  }
+}
