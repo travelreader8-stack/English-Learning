@@ -8,7 +8,7 @@
       "captain",
       "set out",
       "harbour",
-      "important race",
+      "robotics contest",
       "proud",
       "plenty of time",
       "will be away",
@@ -71,12 +71,12 @@
         "id": "why_proud",
         "question": "Why does the narrator feel proud of Mia?",
         "options": [
-          "Because Mia has worked hard and is ready for a real challenge.",
           "Because Mia forgot her robot box.",
           "Because Mia will stay at home tomorrow.",
-          "Because Mia is taking a short train ride for fun."
+          "Because Mia is taking a short train ride for fun.",
+          "Because Mia has worked hard and is ready for a real challenge."
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "explanation_zh": "结尾说 I feel proud of her because she has worked hard and is ready for a real challenge。"
       }
     ]
