@@ -12,8 +12,8 @@
       "disappointed",
       "on the way home",
       "to his surprise",
-      "laugh with",
-      "laugh at"
+      "laughing with",
+      "laughing at"
     ],
     "passage": [
       "On Friday, Daniel prepared a short class speech about his grandfather's old bicycle. He wanted the presentation to be a great success, so he wrote each part carefully and included a funny story about falling into a flower bed. During the speech, his classmates laughed loudly. Daniel lost his smile and finished quickly because he thought they were laughing at him. His teacher noticed his disappointed face and asked him to stay for a minute. To his surprise, she said everyone admired him for his clear voice and sense of humour. They were laughing with him, not at him. On the way home, Daniel told his mother what had happened. She said friendly laughter can show that a speaker has connected with the audience, and Daniel decided to make another speech next month."
@@ -60,11 +60,11 @@
         "question": "What did Daniel's teacher explain?",
         "options": [
           "The class did not understand any part of the speech.",
-          "The class admired his clear voice and sense of humour.",
           "Daniel should never include funny stories again.",
-          "Daniel had to make the same speech at a wedding."
+          "Daniel had to make the same speech at a wedding.",
+          "The class admired his clear voice and sense of humour."
         ],
-        "answer_index": 1,
+        "answer_index": 3,
         "explanation_zh": "老师解释说 everyone admired him for his clear voice and sense of humour，大家是在 laughing with him。"
       },
       {
