@@ -501,15 +501,16 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original social-dinner or school-lunch passage. One student tries polite
+Use an original social-dinner, club-meal, or school-lunch passage rather than a
+second narrator-and-Mrs.-Rumbold dinner party. One student or guest tries polite
 small talk using `Will you be doing...?`, notices the other person gives very
 short answers, and learns that politeness also means stopping gracefully. Keep
 the humor, but do not make the quiet person a villain.
 
-Suggested title: `Two Questions at Dinner`
+Suggested title: `Two Questions at Lunch`
 
 Recommended word bank: `hostess`, `conversation`, `look up`, `be busy doing`,
-`Will you be`, `in despair`, `whether`, `talk less`, `enjoy`, `polite`.
+`Will you be`, `in despair`, `whether`, `more`, `less`, `enjoy`, `polite`.
 
 The 5 reading questions should test:
 
@@ -517,7 +518,7 @@ The 5 reading questions should test:
 2. what polite future-continuous questions were asked
 3. how the listener answered
 4. what the speaker finally realized
-5. the social lesson: ask gently and read the other person's signals
+5. the social lesson: ask gently, read signals, and stop gracefully
 
 ### Sentence Writing
 

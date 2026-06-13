@@ -479,19 +479,21 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original passage about a carefully supervised long-distance swim or
-charity sports challenge. The student should see the English Channel geography,
-training, support boat, planned rests, and waiting family or friends. Keep the
-achievement inspiring but safe and adult-supervised.
+Use an original passage about a carefully supervised long-distance swim, relay,
+or charity sports challenge rather than another version of Debbie's Channel
+swim. The student should still see route planning, training, a support boat or
+safety team, planned rests, and waiting family or friends. If the English
+Channel is mentioned, use it as background inspiration or comparison, not as the
+same main route. Keep the achievement inspiring but safe and adult-supervised.
 
-Suggested title: `The Long Swim Plan`
+Suggested title: `The Harbour Relay Plan`
 
 Recommended word bank: `swim across`, `set out`, `coast`, `record`, `strong`,
 `train`, `anxiously`, `distance`, `take short rests`, `waiting`.
 
 The 5 reading questions should test:
 
-1. what challenge the swimmer is going to try
+1. what challenge the swimmer or team is going to try
 2. where the swimmer will set out from
 3. who will watch or support the swimmer
 4. how the swimmer plans to rest or drink

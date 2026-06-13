@@ -453,23 +453,26 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original coastal safety passage: a teen or family member is caught in bad
-weather near the coast, follows a lighthouse or high cliff light, reaches shore,
-and is helped. Keep it calm and age-appropriate; the point is sequence,
-direction, and endurance, not danger for its own sake.
+Use an original coastal safety passage that does not replay the girl-in-a-boat
+route from the main text. A student, family member, or junior volunteer may set
+out on a coast walk, be caught in sudden fog or rising tide, follow a marked
+cliff path or lifeboat-station light, and reach an adult safely. Keep it calm
+and age-appropriate; the point is sequence, direction, endurance, and safe
+judgment, not danger for its own sake.
 
-Suggested title: `The Light on the Cliff`
+Suggested title: `The Path Above the Tide`
 
 Recommended word bank: `coast`, `storm`, `shore`, `cliff`, `light ahead`,
-`set out`, `be caught in`, `cover a distance`, `struggle up`, `hospital`.
+`set out`, `be caught in`, `cover a distance`, `struggle up`, `safe path`,
+`coastguard`.
 
 The 5 reading questions should test:
 
-1. where the person set out from
-2. what weather problem happened
-3. what light helped them find the shore
-4. what they did after reaching land
-5. why the story is about direction and survival
+1. where the person or group set out from
+2. what weather or tide problem happened
+3. what sign, path, or light helped them choose the safe direction
+4. how they reached an adult or safe place
+5. why the story is about direction and survival without copying the original
 
 ### Sentence Writing
 

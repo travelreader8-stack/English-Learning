@@ -539,14 +539,15 @@ timeline, read-aloud data, or storyboard images.
 ### Extension Reading
 
 Use an original passage about choosing where to live or study after seeing a
-beautiful place online. The character plans the house, school, and daily routine,
-but then checks the weather and realizes climate changes lifestyle. Reuse the
-Mediterranean-versus-England contrast as a transferable idea, not a geography
-lecture.
+beautiful place online. Do not make the passage a second Harrison retirement
+story. A family, student, or exchange visitor can plan the house, school, and
+daily routine, then check the weather and realize climate changes lifestyle.
+Reuse the Mediterranean-versus-England contrast as a transferable idea, not a
+geography lecture or a repeat of the original plot.
 
 Suggested title: `Everything Except the Rain`
 
-Recommended word bank: `Mediterranean`, `retire`, `settle down`, `complain`,
+Recommended word bank: `climate`, `settle down`, `daily routine`, `complain`,
 `continually`, `bitterly`, `immediately`, `get a shock`, `bear`, `except`.
 
 The 5 reading questions should test:

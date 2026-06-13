@@ -498,22 +498,24 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original public-transport story about someone noticing a theft and
-responding safely: a bus driver alerts police, closes doors, remembers the car
-number, or helps the victim without putting passengers in danger. Keep the
-energy of the chase, but make the modern safety judgment explicit.
+Use an original street or public-transport story about someone noticing a theft
+and responding safely without recreating Roy's bus crash. A tram driver, shop
+assistant, bus monitor, or security guard may protect passengers or customers,
+remember a license plate or scooter number, alert police, and help the victim.
+Keep the energy of quick observation and the visible result, but make the modern
+safety judgment explicit.
 
-Suggested title: `The Driver Who Noticed`
+Suggested title: `The Number on the Scooter`
 
 Recommended word bank: `thief`, `driver`, `rush out`, `towards`, `fright`,
-`drop`, `get away`, `damage`, `recognize`, `arrested`.
+`drop`, `get away`, `license plate`, `recognize`, `safe place`, `arrested`.
 
 The 5 reading questions should test:
 
-1. what job the driver used to do or does now
+1. what the helper used to do or does now
 2. what the thieves were carrying
 3. how the driver helped without reckless action
-4. why the thieves became easy to recognize
+4. what detail made the thieves or vehicle easy to recognize
 5. why quick thinking is useful only when it is safe
 
 ### Sentence Writing

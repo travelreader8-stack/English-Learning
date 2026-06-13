@@ -506,21 +506,24 @@ timeline, read-aloud data, or storyboard images.
 ### Extension Reading
 
 Use an original passage about a school sports day, open day, or youth games that
-requires planning: visitors will come, a field will be prepared, signs will be
-made, and several tasks will have been completed by deadlines. The reading
-should echo the Olympic city project but stay within a child's world.
+requires planning, not a miniature retelling of Olympic City. Visitors may come,
+a field or pool may be prepared, signs and routes may be made, and several tasks
+will have been completed by deadlines. The reading should echo the project
+management language of the Olympic city plan while staying within a child's
+world.
 
-Suggested title: `The School Sports City`
+Suggested title: `The Open-Day Countdown`
 
-Recommended word bank: `will be held`, `visitors`, `stadium`, `swimming pool`,
-`railway line`, `complete`, `by the end of`, `modern`, `anxiously`,
+Recommended word bank: `will be held`, `visitors`, `sports field`,
+`swimming pool`, `route signs`, `complete`, `by the end of`, `modern`,
+`anxiously`,
 `look forward to`.
 
 The 5 reading questions should test:
 
 1. what event will be held
 2. why many preparations are needed
-3. what workers or students will be building or preparing
+3. what students, teachers, or workers will be building or preparing
 4. which tasks will have been finished by a deadline
 5. why everyone is looking forward to the event
 

@@ -483,14 +483,16 @@ timeline, read-aloud data, or storyboard images.
 ### Extension Reading
 
 Use an original modern phone-call passage about a student politely asking for
-their own result, appointment, or activity status. The passage should preserve
-the humor of trying to get information, but make the ethics clear: identify
-yourself, ask about your own information, and respect privacy.
+their own result, appointment, or activity status. Do not restage the hospital
+operation trick. The passage should preserve the humor of trying to get
+information, but make the ethics clear: identify yourself, ask about your own
+information, and respect privacy.
 
 Suggested title: `Calling About My Own Result`
 
-Recommended word bank: `patient`, `operation`, `successful`, `refuse`,
-`telephone`, `exchange`, `inquire`, `whether`, `be allowed to`, `private`.
+Recommended word bank: `school office`, `result`, `appointment`, `successful`,
+`refuse`, `telephone`, `office line`, `inquire`, `whether`, `be allowed to`,
+`private`.
 
 The 5 reading questions should test:
 
@@ -498,7 +500,7 @@ The 5 reading questions should test:
 2. how they identified themselves
 3. what indirect question they asked
 4. what private-information boundary was respected
-5. how this differs from tricking someone
+5. how this differs from tricking someone or asking about another person
 
 ### Sentence Writing
 

@@ -453,23 +453,26 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original story about a lost bicycle, skateboard, or instrument that is
-unexpectedly found far away after many years. The modern bridge can involve a
-police notice, serial number, QR code, or online lost-and-found system, but the
-story should keep the comic surprise: the owner never expected it to be found.
+Use an original lost-property story that keeps the comic official-notice
+surprise without retelling Dan's twenty-year bicycle report. The item can be a
+skateboard, camera case, instrument, or school bag traced through a serial
+number, QR tag, repair shop, or online lost-and-found system. It may be found
+far away or after a long delay, but the passage should feel like a fresh modern
+case: the owner is worried at first, then amused because they had given up hope.
 
-Suggested title: `The Bike That Came Back`
+Suggested title: `The Case That Came Home`
 
 Recommended word bank: `police station`, `call at`, `wonder`, `found`,
-`picked up`, `village`, `sent home`, `surprised`, `amused`, `stolen`.
+`picked up`, `serial number`, `repair shop`, `sent home`, `surprised`,
+`amused`, `stolen`.
 
 The 5 reading questions should test:
 
 1. why the owner was worried at first
-2. what item had been found
-3. where it was found
+2. what item had been found and how it was identified
+3. where or by whom it was found
 4. why the owner was surprised or amused
-5. how the long delay creates the joke
+5. how the delay or official notice creates the joke
 
 ### Sentence Writing
 
@@ -479,10 +482,10 @@ Use 5 patterns:
    - Source: `Dan Robinson has been worried all week.`
    - Focus: present perfect for a feeling that continued until now.
    - Must include: `has been worried`
-2. `was asked to ...`
+2. `was asked to call at ...`
    - Source: `He was asked to call at the station.`
-   - Focus: passive request from an official place.
-   - Must include: `was asked to`
+   - Focus: passive request plus the fixed phrase `call at`.
+   - Must include: `was asked to call at`
 3. `wondered why ...`
    - Source: `Dan wondered why he was wanted by the police.`
    - Focus: indirect question after wondered.
