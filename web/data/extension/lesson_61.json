@@ -10,7 +10,7 @@
       "right from the start",
       "disappointing",
       "faulty",
-      "put right",
+      "put the telescope right",
       "repair team",
       "repair",
       "by the time"
@@ -60,11 +60,11 @@
         "question": "How will the repair team put the telescope right?",
         "options": [
           "They will move the telescope to another school and keep it closed.",
-          "They will clean the lens, replace the mirror and check the camera.",
           "They will ask the students to stop recording the repair steps.",
-          "They will paint the library roof before taking more pictures."
+          "They will paint the library roof before taking more pictures.",
+          "They will clean the lens, replace the mirror and check the camera."
         ],
-        "answer_index": 1,
+        "answer_index": 3,
         "explanation_zh": "repair team 的计划是 clean the lens, replace the mirror and check the camera，这就是把 telescope put right 的具体步骤。"
       },
       {
