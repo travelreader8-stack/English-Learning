@@ -1,0 +1,155 @@
+{
+  "lesson_id": 30,
+  "reading": {
+    "title": "The Ball by the River",
+    "intro_zh": "这篇短文不复述原文，而是换到一个现代公园河边的小事故：球飞向船，大家提醒失败，但孩子没有跑掉，而是负责地道歉和确认安全。",
+    "word_bank": [
+      "river bank",
+      "row",
+      "passing boat",
+      "call out",
+      "suddenly",
+      "strike",
+      "realize",
+      "run away",
+      "laugh",
+      "throw back"
+    ],
+    "passage": [
+      "On a bright Saturday, Leo and his friends played football on the river bank beside the park. Some people were rowing quietly, and a passing boat moved under the bridge. Leo kicked the ball too hard. Suddenly, it flew over the grass and went straight towards the boat. People on the bank called out, but the girl in the boat was looking at the water and did not hear them. The ball struck the side of the boat so hard that she nearly dropped an oar. Leo wanted to run away, but he stopped. He called out, said sorry, and asked if she was all right. The girl laughed, threw the ball back, and told the children to look around before they kicked."
+    ],
+    "questions": [
+      {
+        "id": "where_game",
+        "question": "Where did Leo and his friends play football?",
+        "options": [
+          "On the river bank beside the park.",
+          "Inside a boat under the bridge.",
+          "In a money bank near the river.",
+          "On a football field far from the water."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文第一句说 they played football on the river bank beside the park，这里的 bank 是河岸。"
+      },
+      {
+        "id": "sudden_ball",
+        "question": "What suddenly happened to the ball?",
+        "options": [
+          "It fell quietly into Leo's bag.",
+          "It flew over the grass towards a passing boat.",
+          "It was thrown from the boat to the bank.",
+          "It stayed under the bridge all afternoon."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "Leo 踢得太用力，球 suddenly flew over the grass and went straight towards the boat。"
+      },
+      {
+        "id": "did_not_hear",
+        "question": "Why did the girl in the boat not react at first?",
+        "options": [
+          "She was looking at the water and did not hear people call out.",
+          "She had already rowed away from the bridge.",
+          "She thought the children were playing polo.",
+          "She was angry and refused to look back."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "岸上的人 called out，但船上的女孩正在看水面，所以 did not hear them。"
+      },
+      {
+        "id": "leo_choice",
+        "question": "What did Leo do differently from the children in the original lesson?",
+        "options": [
+          "He ran away before anyone saw him.",
+          "He blamed the girl in the boat.",
+          "He stopped, called out, said sorry, and checked if she was all right.",
+          "He hid the ball under the bridge."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "原文里的孩子们 had all run away；这里 Leo wanted to run away, but he stopped，并主动道歉。"
+      },
+      {
+        "id": "practical_lesson",
+        "question": "What practical lesson does the story teach?",
+        "options": [
+          "Play near water without looking around.",
+          "If a ball causes trouble, hide quickly.",
+          "Boats should never pass a park.",
+          "Be careful near water and be honest when an accident happens."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "结尾提醒孩子们 look around before they kicked；Leo 的做法也说明出事后要诚实负责。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 30 的核心结构：用 It was..., so... 写天气和行动，用 There were... 摆场景，用 Suddenly... 推动故事，用 so...that... 写结果，再用 realized what had happened 写明白真相后的反应。",
+    "patterns": [
+      {
+        "id": "it_was_so",
+        "title": "It was ..., so ...",
+        "source": "It was warm last Sunday, so I went and sat on the river bank as usual.",
+        "focus_zh": "用天气、时间或情况自然引出一个行动，so 后面写因此发生的事。",
+        "task_zh": "仿写一句：写天气很好、很冷、很晚或人很多，所以某人做了一个自然的动作。",
+        "must_include": [
+          "so"
+        ],
+        "min_words": 10,
+        "sample": "It was sunny after lunch, so we sat on the river bank.",
+        "tip_zh": "前半句给原因，so 后面给行动；不要只写一个没有结果的天气句。"
+      },
+      {
+        "id": "there_were_scene",
+        "title": "There were ...",
+        "source": "There were some people rowing on the river.",
+        "focus_zh": "There were 用来布置场景，后面可以接人物加动作，让读者看见画面。",
+        "task_zh": "仿写一句：写一个公园、河边或操场上的场景，说明那里有谁正在做什么。",
+        "must_include": [
+          "There were"
+        ],
+        "min_words": 9,
+        "sample": "There were two children playing football near the quiet lake.",
+        "tip_zh": "There were 后面最好接复数人物，再用 doing 补出动作。"
+      },
+      {
+        "id": "suddenly_turn",
+        "title": "Suddenly, ...",
+        "source": "Suddenly, one of the children kicked a ball very hard.",
+        "focus_zh": "Suddenly 把平静场景变成故事转折，后面要出现一个突然动作。",
+        "task_zh": "仿写一句：写一个安静场景中突然发生的小意外。",
+        "must_include": [
+          "Suddenly"
+        ],
+        "min_words": 9,
+        "sample": "Suddenly, a frisbee flew across the path towards a cyclist.",
+        "tip_zh": "Suddenly 后面的动作要能改变局面，比如 flew, fell, hit, shouted。"
+      },
+      {
+        "id": "so_that_result",
+        "title": "so ... that ...",
+        "source": "The ball struck him so hard that he nearly fell into the water.",
+        "focus_zh": "so...that... 用来写程度和结果：前面说明多强，that 后面说明造成了什么。",
+        "task_zh": "仿写一句：写一次击打、风、雨、声音或笑声很强，以至于产生一个明显结果。",
+        "must_include": [
+          "so",
+          "that"
+        ],
+        "min_words": 11,
+        "sample": "The wind blew so hard that the little boat moved sideways.",
+        "tip_zh": "so 后面接形容词或副词，that 后面接一个完整结果。"
+      },
+      {
+        "id": "realized_happened",
+        "title": "when ... realized what had happened",
+        "source": "The man laughed when he realized what had happened.",
+        "focus_zh": "这个结构写某人弄清楚真相后的反应，适合故事结尾。",
+        "task_zh": "仿写一句：写某人明白刚才发生了什么之后，笑了、道歉了或帮忙解决了问题。",
+        "must_include": [
+          "realized what had happened"
+        ],
+        "min_words": 11,
+        "sample": "The coach laughed when he realized what had happened near the gate.",
+        "tip_zh": "when 从句说明“明白真相”这个时刻，主句写那个人的反应。"
+      }
+    ]
+  }
+}
