@@ -1,0 +1,155 @@
+{
+  "lesson_id": 20,
+  "reading": {
+    "title": "Not Really About Winning",
+    "intro_zh": "这篇短文不复述孤舟钓鱼，而是换到一个学生带相机去河边的现代场景：别人看有没有作品和奖项，她自己看重的是安静过程——回收 catch / instead of / empty bag / give up / waste of time / interested in / doing nothing。",
+    "word_bank": [
+      "catch",
+      "fisherman",
+      "old boots",
+      "rubbish",
+      "instead of",
+      "empty bag",
+      "give up",
+      "waste of time",
+      "interested in",
+      "doing nothing"
+    ],
+    "passage": [
+      "Every Saturday, Emma takes her camera and a small cloth bag to the old river path. Her brother thinks she wants to catch the perfect photo for the school contest, but she often comes home with an empty bag and no contest picture. One morning she watched a fisherman pull up old boots and rubbish instead of fish, and she laughed quietly, but she still took no photo. \"Give up photography,\" her brother said. \"It's a waste of time if you never enter anything.\" Emma shook her head. She was not really interested in winning a prize. She was interested in walking slowly, listening to the water, and doing nothing for a while. Sometimes the best part of a hobby is the quiet time before any result."
+    ],
+    "questions": [
+      {
+        "id": "activity",
+        "question": "What activity does Emma enjoy every Saturday?",
+        "options": [
+          "Trying to catch fish from a boat.",
+          "Taking quiet walks with her camera by the river.",
+          "Collecting old boots and rubbish.",
+          "Selling photos at the school contest."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "开头说 Emma 每周六带着相机去 old river path，后面也说明她享受的是慢慢走和听水声。"
+      },
+      {
+        "id": "expected_result",
+        "question": "What result does Emma's brother expect?",
+        "options": [
+          "A clean fishing bag.",
+          "A new camera from the contest.",
+          "The perfect photo for the school contest.",
+          "A fisherman to teach Emma."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "短文写道 her brother thinks she wants to catch the perfect photo for the school contest。"
+      },
+      {
+        "id": "waste_of_time",
+        "question": "Why does her brother call photography a waste of time?",
+        "options": [
+          "Because she never enters anything and often has no contest picture.",
+          "Because she spends all day catching fish.",
+          "Because the river path is too noisy for photos.",
+          "Because the fisherman asks her to give up."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "哥哥说如果你 never enter anything，这就是 a waste of time；前文也说她常常没有 contest picture。"
+      },
+      {
+        "id": "real_interest",
+        "question": "What is Emma really interested in?",
+        "options": [
+          "Winning a prize as quickly as possible.",
+          "Laughing at unlucky fishermen.",
+          "Taking pictures of rubbish for homework.",
+          "Walking slowly, listening to the water, and doing nothing for a while."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "结尾直接说明 She was interested in walking slowly, listening to the water, and doing nothing for a while。"
+      },
+      {
+        "id": "theme",
+        "question": "What lesson idea does the passage show?",
+        "options": [
+          "A hobby only matters if it wins a prize.",
+          "Photography is easier than fishing.",
+          "The quiet process of a hobby can matter more than the visible result.",
+          "People should always give up activities without results."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "最后一句点明：有些爱好的最好部分，是结果出现前那段安静时间。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 20 的核心句式：没有得到预期结果、实际结果和期待相反、花了很久之后、别人判断为浪费时间，以及说清楚自己真正感兴趣的过程。",
+    "patterns": [
+      {
+        "id": "without_doing_anything",
+        "title": "without ...ing anything",
+        "source": "I often fish for hours without catching anything.",
+        "focus_zh": "用 without + 动词-ing + anything 写“做了很久，却没有得到预期结果”。",
+        "task_zh": "仿写一句：写你练习、寻找、等待或尝试了很久，但没有赢到、找到或得到任何东西。",
+        "must_include": [
+          "without",
+          "anything"
+        ],
+        "min_words": 8,
+        "sample": "I played chess all afternoon without winning anything.",
+        "tip_zh": "without 后面接动词-ing，比如 catching, finding, winning, getting；anything 放在句尾能强调“什么也没有”。"
+      },
+      {
+        "id": "instead_of_doing",
+        "title": "Instead of ...ing",
+        "source": "Instead of catching fish, they catch old boots and rubbish.",
+        "focus_zh": "Instead of + 动词-ing 用来写“本来以为会得到 A，结果却是 B”。",
+        "task_zh": "仿写一句：写一个活动里，别人期待赢奖、得分或完成作品，结果你做的是另一件事。",
+        "must_include": [
+          "Instead of"
+        ],
+        "min_words": 10,
+        "sample": "Instead of winning a medal, I enjoyed practicing with my team.",
+        "tip_zh": "Instead of 后面用动词-ing；逗号后面写真正发生的结果或真正有价值的部分。"
+      },
+      {
+        "id": "after_having_spent",
+        "title": "After having spent ...",
+        "source": "After having spent whole mornings on the river, I always go home with an empty bag.",
+        "focus_zh": "这个句式先写“已经花了很长时间”，再写最后的结果，故事感很强。",
+        "task_zh": "仿写一句：写你花了一下午、一整周或很长时间做某件事之后，最后带着一个不完美但真实的结果回家。",
+        "must_include": [
+          "After having spent"
+        ],
+        "min_words": 12,
+        "sample": "After having spent the whole afternoon drawing, I went home with no prize.",
+        "tip_zh": "After having spent 后面接时间或经历；逗号后面接结果，不一定是成功结果。"
+      },
+      {
+        "id": "waste_of_time_judgment",
+        "title": "It's a waste of time",
+        "source": "You must give up fishing! It's a waste of time.",
+        "focus_zh": "a waste of time 是别人的判断：他们只看结果，所以觉得这件事不值得。",
+        "task_zh": "仿写一句：写别人认为某个爱好、练习或慢慢做的事情是浪费时间。",
+        "must_include": [
+          "a waste of time"
+        ],
+        "min_words": 10,
+        "sample": "My friend said it was a waste of time to build slowly.",
+        "tip_zh": "注意这个句式常常是在表达某人的看法，不一定代表事实；可以写 My friend said... 或 They thought...。"
+      },
+      {
+        "id": "only_interested_in_doing",
+        "title": "only interested in ...ing",
+        "source": "I am only interested in sitting in a boat and doing nothing at all!",
+        "focus_zh": "用 only interested in + 动词-ing 说清楚真正喜欢的是过程，而不是外人期待的结果。",
+        "task_zh": "仿写一句：写你并不只是想赢、完成或得到表扬，你真正感兴趣的是某个安静或有意义的过程。",
+        "must_include": [
+          "only interested in"
+        ],
+        "min_words": 10,
+        "sample": "I am only interested in walking quietly and taking a few photos.",
+        "tip_zh": "interested in 后面接动词-ing；可以并列两个动作，比如 walking quietly and taking photos。"
+      }
+    ]
+  }
+}
