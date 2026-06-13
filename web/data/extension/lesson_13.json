@@ -60,11 +60,11 @@
         "question": "What will the drama club be doing during the visit?",
         "options": [
           "They will only watch classes and then go home.",
-          "They will show younger students stage speaking and give three performances.",
           "They will play a football match every evening.",
-          "They will sell bus tickets outside the main hall."
+          "They will sell bus tickets outside the main hall.",
+          "They will show younger students stage speaking and give three performances."
         ],
-        "answer_index": 1,
+        "answer_index": 3,
         "explanation_zh": "短文写他们会教低年级学生舞台表达，还会 give the first of three performances。"
       },
       {
