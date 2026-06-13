@@ -943,10 +943,10 @@ The 5 reading questions should test:
 
 Use 5 patterns:
 
-1. `things got so bad that ...`
-   - Source: `Things got so bad recently that he decided to go on a diet.`
-   - Focus: a situation becoming serious enough to cause a decision.
-   - Must include: `so bad` and `that`
+1. `hurriedly hid ... under ...`
+   - Source: `He led me into his room and hurriedly hid a large parcel under his desk.`
+   - Focus: a quick, secret action that shows guilt or embarrassment.
+   - Must include: `hurriedly hid` and `under`
 2. `First of all, ...`
    - Source: `First of all, he wrote out a long list...`
    - Focus: first step in a plan.

@@ -445,20 +445,24 @@ timeline, read-aloud data, or storyboard images.
 ### Extension Reading
 
 Use an original store story with a modern shopping setting: a large shop,
-self-checkout, a camera, a detective, or a careful assistant. The passage should
-reuse the honesty theme and the hidden-collusion twist without making theft feel
-clever or admirable.
+self-checkout, a returns counter, a camera, a detective, or a careful assistant.
+The passage should reuse the honesty theme and the hidden-collusion twist
+without making theft feel clever or admirable. It must NOT retell the original
+detective-watches-a-regular -> small-items -> most-expensive-item ->
+assistant-wraps-fast -> walks-out-without-paying -> relative-reveal sequence.
+Use a genuinely different case in the same honesty theme, such as a receipt or
+stock mismatch, a false return, or a price-tag/barcode trick.
 
-Suggested title: `The Free Headphones`
+Suggested title: `The False Return`
 
 Recommended word bank: `honest`, `temptation`, `steal`, `detective`,
 `assistant`, `expensive`, `parcel`, `without paying`, `arrested`, `found out`.
 
 The 5 reading questions should test:
 
-1. why the detective watched the shopper
-2. what expensive item was chosen
-3. how the shopper tried to leave without paying
+1. what mismatch made the detective suspicious
+2. what the camera showed
+3. what was found inside the parcel
 4. what hidden relationship explained the trick
 5. the moral point: convenience does not remove honesty
 

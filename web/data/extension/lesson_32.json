@@ -1,8 +1,8 @@
 {
   "lesson_id": 32,
   "reading": {
-    "title": "The Free Headphones",
-    "intro_zh": "这篇短文不复述原文，而是换到现代电子商店和自助付款区：一个顾客看起来在正常购物，实则想不付钱带走昂贵耳机；店内观察和最后关系揭示都提醒我们，方便购物不能取消诚实。",
+    "title": "The False Return",
+    "intro_zh": "这篇短文不复述原文，而是换到现代电子商店的退货柜台：侦探从收据和库存不一致发现问题，最后揭开串通的关系，提醒我们购物再方便，也不能省去诚实。",
     "word_bank": [
       "honest",
       "temptation",
@@ -16,68 +16,68 @@
       "found out"
     ],
     "passage": [
-      "On Tuesday evening, Ryan walked into a large electronics shop with a basket. A store detective watched him because Ryan came in at the same time every week. First, Ryan bought a cheap phone cable and some batteries. Then he chose one of the most expensive pairs of headphones and handed it to a young assistant. The assistant put the headphones into a parcel and moved towards the self-checkout area as quickly as possible. Ryan took the parcel, smiled at the assistant, and walked towards the door without paying. The camera near the exit recorded everything. When Ryan was stopped and arrested, the detective found out that the assistant was his cousin. The temptation to steal had looked easy, but it was not honest. The headphones were not a free gift. They belonged to the shop."
+      "On Saturday afternoon, a store detective checked the self-checkout records in a large electronics shop. One expensive speaker was missing, but the computer showed only a cheap charger. The camera showed a boy scanning the charger twice while a young assistant quietly put a sealed parcel behind the returns counter. Ten minutes later, the boy came back with the parcel and asked for a refund. The assistant tried to help him as quickly as possible. The detective asked to open the parcel and found the speaker inside. He soon found out that the assistant was the boy's elder brother. Both boys were arrested. The temptation to steal had looked easy, but honest shopping still means paying for what is in the parcel."
     ],
     "questions": [
       {
-        "id": "why_watched",
-        "question": "Why did the store detective watch Ryan?",
+        "id": "suspicious_mismatch",
+        "question": "What made the store detective suspicious?",
         "options": [
-          "Because Ryan came in at the same time every week.",
-          "Because Ryan was repairing the shop camera.",
-          "Because Ryan was a new assistant in the shop.",
-          "Because Ryan had already paid for the headphones."
+          "A speaker was missing, but the computer showed only a cheap charger.",
+          "The boy was repairing the shop camera.",
+          "The assistant had already paid for the speaker.",
+          "The shop was busier than ever before."
         ],
         "answer_index": 0,
-        "explanation_zh": "短文说 Ryan had come in at the same time every week，这种 repeated pattern 引起了 store detective 的注意。"
+        "explanation_zh": "短文开头说一只 expensive speaker 不见了，但系统只显示 cheap charger，这个 mismatch 让侦探起疑。"
       },
       {
-        "id": "expensive_item",
-        "question": "What expensive item did Ryan choose?",
+        "id": "camera_showed",
+        "question": "What did the camera show?",
         "options": [
-          "A cheap phone cable.",
-          "A packet of batteries.",
-          "One of the most expensive pairs of headphones.",
-          "A camera near the exit."
+          "The detective wrapped the parcel himself.",
+          "The boy paid for an expensive speaker.",
+          "The boy scanned the charger twice while the assistant moved a parcel.",
+          "The assistant returned the speaker to the shelf."
         ],
         "answer_index": 2,
-        "explanation_zh": "Ryan 先买小东西，后来 chose one of the most expensive pairs of headphones。"
+        "explanation_zh": "camera showed a boy scanning the charger twice，同时 assistant quietly put a sealed parcel behind the returns counter。"
       },
       {
-        "id": "without_paying",
-        "question": "How did Ryan try to leave the shop?",
+        "id": "parcel_contents",
+        "question": "What was inside the parcel?",
         "options": [
-          "He paid at the self-checkout and kept the receipt.",
-          "He took the parcel and walked towards the door without paying.",
-          "He asked the detective to wrap the headphones.",
-          "He returned the parcel to the assistant."
+          "A cheap charger.",
+          "An expensive speaker.",
+          "A broken camera.",
+          "A receipt for two parcels."
         ],
         "answer_index": 1,
-        "explanation_zh": "关键句是 Ryan took the parcel... and walked towards the door without paying，说明他没有付款就想离开。"
+        "explanation_zh": "侦探 asked to open the parcel and found the speaker inside，说明包裹里是 expensive speaker。"
       },
       {
         "id": "hidden_relationship",
         "question": "What hidden relationship explained the trick?",
         "options": [
-          "The detective was Ryan's cousin.",
-          "The shop owner was Ryan's teacher.",
-          "The assistant was Ryan's cousin.",
-          "The camera belonged to Ryan's family."
+          "The detective was the boy's brother.",
+          "The shop owner was the boy's teacher.",
+          "The assistant was the boy's elder brother.",
+          "The camera belonged to the boy's family."
         ],
         "answer_index": 2,
-        "explanation_zh": "最后 detective found out that the assistant was his cousin，这解释了为什么 assistant 会帮他包好商品。"
+        "explanation_zh": "最后 detective found out that the assistant was the boy's elder brother，这解释了为什么 assistant 会帮忙。"
       },
       {
         "id": "moral_point",
         "question": "What is the moral point of the passage?",
         "options": [
-          "Self-checkout means expensive goods can become free gifts.",
+          "A false return can make expensive goods into free gifts.",
           "A family member in a shop may give away anything.",
           "Convenience does not remove the need to be honest and pay.",
           "A camera is useful only when the shop is crowded."
         ],
         "answer_index": 2,
-        "explanation_zh": "结尾强调 The headphones were not a free gift. They belonged to the shop. 方便购物不等于可以不诚实。"
+        "explanation_zh": "结尾说 honest shopping still means paying for what is in the parcel，方便购物不等于可以不诚实。"
       }
     ]
   },
