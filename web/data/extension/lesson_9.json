@@ -1,0 +1,157 @@
+{
+  "lesson_id": 9,
+  "reading": {
+    "title": "The Frozen Countdown",
+    "intro_zh": "这篇短文不复述 Town Hall clock，而是换到学校跨年表演里的公共倒计时屏幕：大家围着同一个时间信号等待，屏幕却在关键时刻卡住。重点回收 crowd / gathered / countdown / five to twelve / minute hand / refused / began to laugh and sing。",
+    "word_bank": [
+      "welcome",
+      "crowd",
+      "gathered",
+      "countdown",
+      "would strike",
+      "five to twelve",
+      "minute hand",
+      "refused",
+      "began to laugh",
+      "sing"
+    ],
+    "passage": [
+      "On the last school day of December, our class held a small New Year show in the playground. A large crowd had gathered in front of the outdoor screen. The screen showed a countdown and a picture of the school clock; it would strike twelve in ten minutes' time. At five to twelve, the numbers froze. The picture's minute hand stopped and refused to move. We waited and waited, but the screen gave us no welcome. Then Lily checked her phone and shouted, \"It is already two minutes past twelve!\" For a second everyone was quiet. Then the music teacher began to laugh, and we all began to sing."
+    ],
+    "questions": [
+      {
+        "id": "why_gathered",
+        "question": "Why had the crowd gathered in the playground?",
+        "options": [
+          "To watch a small New Year show and the public countdown.",
+          "To repair the outdoor screen after school.",
+          "To visit the old Town Hall clock.",
+          "To listen to Lily read the time on her phone."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文开头说同学们在操场举行 New Year show，大家聚在 outdoor screen 前看 countdown。"
+      },
+      {
+        "id": "expected_moment",
+        "question": "What was the screen expected to show?",
+        "options": [
+          "A bus timetable for the next trip.",
+          "A countdown and a school clock that would strike twelve.",
+          "A list of homework for the holiday.",
+          "A message from the Town Hall."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中说屏幕 showed a countdown and a picture of the school clock; it would strike twelve。"
+      },
+      {
+        "id": "what_went_wrong",
+        "question": "What went wrong at five to twelve?",
+        "options": [
+          "The music teacher forgot the song.",
+          "The crowd left the playground.",
+          "The numbers froze and the minute hand refused to move.",
+          "Lily's phone stopped working."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "关键故障是 At five to twelve, the numbers froze，并且 minute hand stopped and refused to move。"
+      },
+      {
+        "id": "true_time",
+        "question": "How did people realize the true time?",
+        "options": [
+          "Lily checked her phone and shouted the time.",
+          "The outdoor screen began to work again.",
+          "The school clock rang loudly.",
+          "The teacher wrote the time on the board."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 Lily checked her phone and shouted, \"It is already two minutes past twelve!\""
+      },
+      {
+        "id": "celebration",
+        "question": "How did the awkward moment become a celebration?",
+        "options": [
+          "Everyone went home in silence.",
+          "The class started another lesson.",
+          "The music teacher began to laugh, and everyone began to sing.",
+          "Lily turned off the outdoor screen."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结尾说 music teacher began to laugh，然后大家 began to sing，把尴尬变成了庆祝。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓 Lesson 9 的五个倒计时句式：设置特殊日期、写人群已经聚集、从过去看即将发生的事、用 waited and waited 写等待太久，再用 began to laugh and... 写气氛转变。",
+    "patterns": [
+      {
+        "id": "last_day_of",
+        "title": "It was the last day of ...",
+        "source": "It was the last day of the year.",
+        "focus_zh": "用 It was the last day of... 设置一个特殊日期，让读者立刻知道这一天为什么重要。",
+        "task_zh": "仿写一句：写某个学期、比赛周、训练营或旅行的最后一天。",
+        "must_include": [
+          "It was the last day of"
+        ],
+        "min_words": 8,
+        "sample": "It was the last day of our winter camp.",
+        "tip_zh": "of 后面接一个时间阶段或活动，比如 the year、the term、our trip。"
+      },
+      {
+        "id": "crowd_had_gathered",
+        "title": "a large crowd of people had gathered ...",
+        "source": "A large crowd of people had gathered under the Town Hall clock.",
+        "focus_zh": "had gathered 表示在主要事件发生前，人群已经到齐并等在那里。",
+        "task_zh": "仿写一句：写一群人已经聚在屏幕、校门、舞台或操场旁边。",
+        "must_include": [
+          "a large crowd of people",
+          "had gathered"
+        ],
+        "min_words": 11,
+        "sample": "A large crowd of people had gathered near the big screen.",
+        "tip_zh": "had gathered 后面最好接地点，这样画面会更清楚。"
+      },
+      {
+        "id": "would_in_time",
+        "title": "would ... in ...",
+        "source": "It would strike twelve in twenty minutes' time.",
+        "focus_zh": "would 表示从过去那个时刻看，某件事很快将要发生；in 后面接还要等多久。",
+        "task_zh": "仿写一句：写钟、屏幕、比赛或表演再过多少分钟就要开始或响起。",
+        "must_include": [
+          "would",
+          "in"
+        ],
+        "min_words": 10,
+        "sample": "The show would begin in ten minutes' time.",
+        "tip_zh": "这里的 in 不是地点，而是“再过多久”。"
+      },
+      {
+        "id": "waited_and_waited_but",
+        "title": "We waited and waited, but ...",
+        "source": "We waited and waited, but nothing happened.",
+        "focus_zh": "重复 waited and waited 能写出等待太久的感觉，再用 but 接期待落空。",
+        "task_zh": "仿写一句：写你们一直等屏幕、门铃、通知或比赛开始，但什么也没发生。",
+        "must_include": [
+          "waited and waited",
+          "but"
+        ],
+        "min_words": 9,
+        "sample": "We waited and waited, but the screen did not change.",
+        "tip_zh": "but 后面写没有发生的结果，句子才有转折。"
+      },
+      {
+        "id": "began_to_laugh_and",
+        "title": "began to laugh and ...",
+        "source": "Everybody began to laugh and sing.",
+        "focus_zh": "began to laugh and... 写人群从紧张或尴尬转向轻松、庆祝的反应。",
+        "task_zh": "仿写一句：写大家突然笑起来，并开始唱歌、鼓掌或互相祝福。",
+        "must_include": [
+          "began to laugh"
+        ],
+        "min_words": 8,
+        "sample": "Everybody began to laugh and clap after the mistake.",
+        "tip_zh": "and 后面接第二个动作，可以把情绪变化写完整。"
+      }
+    ]
+  }
+}

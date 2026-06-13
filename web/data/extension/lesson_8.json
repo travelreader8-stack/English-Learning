@@ -1,0 +1,156 @@
+{
+  "lesson_id": 8,
+  "reading": {
+    "title": "The Neatest Desk Competition",
+    "intro_zh": "这篇短文不复述 Joe 和 Bill 的花园，而是换到班级课桌评比：更大、更努力、东西更多不一定就是最好；最有设计感、最整洁的作品才可能胜出，最后保留一个自嘲的 worst 小奖。",
+    "word_bank": [
+      "competition",
+      "neat",
+      "larger than",
+      "works harder than",
+      "more interesting",
+      "wooden",
+      "pool",
+      "prize",
+      "the best",
+      "the worst"
+    ],
+    "passage": [
+      "On Friday, our class entered the Neatest Desk Competition. Mia's desk was the best in our room. It was not the largest, but every book had a place, and her notes were clean. Ben's desk was larger than Mia's, and he worked harder than anyone. He put more colour pens, model trees, and stickers on it. But Mia's desk was more interesting. She made a tiny reading corner with a wooden bridge over a blue paper pool, so visitors could follow a neat path from books to drawings. I entered too. I like neat desks, but I do not like hard work. I won a little prize for the worst desk in the class, because my ruler was under my lunch box."
+    ],
+    "questions": [
+      {
+        "id": "competition_type",
+        "question": "What competition did the class enter on Friday?",
+        "options": [
+          "The Neatest Desk Competition.",
+          "The Nicest Garden Competition.",
+          "The Fastest Reading Competition.",
+          "The Cleanest Lunch Box Competition."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文开头说 our class entered the Neatest Desk Competition。"
+      },
+      {
+        "id": "usual_winner",
+        "question": "Why was Mia's desk the best in the room?",
+        "options": [
+          "Because it was the largest desk in the class.",
+          "Because every book had a place and her notes were clean.",
+          "Because she put the most stickers on it.",
+          "Because her lunch box was under her ruler."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "Mia 的桌子不是最大，但 every book had a place，而且 notes were clean。"
+      },
+      {
+        "id": "different_standard",
+        "question": "How was Ben better in a different way?",
+        "options": [
+          "His desk was smaller and empty.",
+          "His desk was larger than Mia's, and he worked harder.",
+          "He made a blue paper pool for Mia.",
+          "He won a prize for the worst desk."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "Ben 的优势是 size 和 effort：his desk was larger than Mia's, and he worked harder。"
+      },
+      {
+        "id": "interesting_detail",
+        "question": "What special detail made Mia's desk more interesting?",
+        "options": [
+          "A tiny reading corner with a wooden bridge over a blue paper pool.",
+          "A lunch box under a ruler.",
+          "A pile of model trees with no path.",
+          "A bigger desk near the window."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 Mia made a tiny reading corner with a wooden bridge over a blue paper pool。"
+      },
+      {
+        "id": "funny_prize",
+        "question": "What funny prize did the narrator win?",
+        "options": [
+          "A little prize for the neatest path.",
+          "A little prize for the worst desk in the class.",
+          "A big prize for the largest desk.",
+          "A prize for working harder than anyone."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结尾的自嘲是 I won a little prize for the worst desk in the class。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 8 的比较结构：最高级 has the most...，每年参加 enters for...each year，比大小 is larger than...，用 but 转出不同评价标准，以及自嘲式的 a little prize for the worst...。",
+    "patterns": [
+      {
+        "id": "has_the_most",
+        "title": "has the most ...",
+        "source": "Joe Sanders has the most beautiful garden in our town.",
+        "focus_zh": "用 has the most... 写一个人在某个范围里最突出的特点。",
+        "task_zh": "仿写一句：写某个同学、朋友或作品在班里有最整洁、最有趣或最漂亮的东西。",
+        "must_include": [
+          "has the most"
+        ],
+        "min_words": 9,
+        "sample": "Mia has the most interesting desk in our classroom.",
+        "tip_zh": "the most 后面接形容词，再接名词；句子里最好说明比较范围。"
+      },
+      {
+        "id": "enters_for_each_year",
+        "title": "enters for ... each year",
+        "source": "Nearly everybody enters for 'The Nicest Garden Competition' each year.",
+        "focus_zh": "enters for 表示报名参加比赛，each year 表示这个动作每年都会发生。",
+        "task_zh": "仿写一句：写某人或某个班级每年都会参加一个比赛、展览或评比。",
+        "must_include": [
+          "enters for",
+          "each year"
+        ],
+        "min_words": 10,
+        "sample": "Our class enters for the poster competition each year.",
+        "tip_zh": "enters for 后面接比赛名称；不要把 enter for 理解成“走进”。"
+      },
+      {
+        "id": "is_larger_than",
+        "title": "is larger than ...",
+        "source": "Bill Frith's garden is larger than Joe's.",
+        "focus_zh": "is larger than... 只比较大小，不直接等于“更好”。",
+        "task_zh": "仿写一句：比较两个模型、房间、书桌或作品的大小。",
+        "must_include": [
+          "is larger than"
+        ],
+        "min_words": 8,
+        "sample": "Ben's model is larger than mine, but mine is neater.",
+        "tip_zh": "than 后面要有比较对象；如果只想比较大小，可以不用 best。"
+      },
+      {
+        "id": "harder_but_interesting",
+        "title": "works harder than ... but ... is more interesting",
+        "source": "Bill works harder than Joe, but Joe's garden is more interesting.",
+        "focus_zh": "这个结构用 but 把两个评价标准分开：努力程度是一回事，是否有趣是另一回事。",
+        "task_zh": "仿写一句：写一个人更努力或东西更多，但另一个人的作品更有趣。",
+        "must_include": [
+          "works harder than",
+          "more interesting"
+        ],
+        "min_words": 12,
+        "sample": "Tom works harder than Amy, but Amy's project is more interesting.",
+        "tip_zh": "but 后面不要重复同一个标准，要换成 design, idea, interest 这样的新角度。"
+      },
+      {
+        "id": "little_prize_worst",
+        "title": "a little prize for the worst ...",
+        "source": "I always win a little prize for the worst garden in the town!",
+        "focus_zh": "用 a little prize for the worst... 写轻松自嘲的结尾，不是刻薄地嘲笑别人。",
+        "task_zh": "仿写一句：写自己在整理、画画或做项目时赢了一个有趣的“最差”小奖。",
+        "must_include": [
+          "a little prize for the worst"
+        ],
+        "min_words": 11,
+        "sample": "I won a little prize for the worst drawing in the club.",
+        "tip_zh": "这个句式适合幽默收尾；主语最好用 I，让语气更自嘲、更轻松。"
+      }
+    ]
+  }
+}

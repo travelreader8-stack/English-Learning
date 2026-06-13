@@ -1,0 +1,155 @@
+{
+  "lesson_id": 10,
+  "reading": {
+    "title": "Not for Loud Experiments",
+    "intro_zh": "这篇短文不复述 clavichord / jazz 的原文，而是换到学校音乐社的一件老乐器：实验本身不是坏事，问题是把脆弱的旧物当成可以大力敲打的工具。重点回收 called / was made / has belonged to / damaged / not allowed to / being repaired。",
+    "word_bank": [
+      "instrument",
+      "called",
+      "was made",
+      "has belonged to",
+      "recently",
+      "damaged",
+      "struck",
+      "shocked",
+      "not allowed to",
+      "being repaired"
+    ],
+    "passage": [
+      "Our music club has an old handmade instrument. It is called a table harp. It was made in a small workshop in 1923 and has belonged to the school for many years. It is kept in a glass case near the club room, and visitors may listen while a teacher plays it softly. Recently, a new student used it for a loud sound experiment. He struck the frame with a metal spoon to see how strong the sound would be. The thin bridge was damaged, and two strings came loose. Everyone was shocked, because the instrument was part of the school's history. The experiment itself was not wrong, but this object was too delicate for it. Now students are not allowed to touch it without a teacher. It is being repaired by an old instrument maker."
+    ],
+    "questions": [
+      {
+        "id": "old_object",
+        "question": "What old object did the music club have?",
+        "options": [
+          "A modern electric keyboard.",
+          "An old handmade instrument called a table harp.",
+          "A broken metal spoon.",
+          "A new science machine for sound experiments."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "开头说音乐社有一件 old handmade instrument，并且 It is called a table harp。"
+      },
+      {
+        "id": "object_history",
+        "question": "Why did the object matter to the school?",
+        "options": [
+          "It was bought only last week.",
+          "It was the loudest instrument in the club.",
+          "It was made in 1923 and had belonged to the school for many years.",
+          "It was used for every science lesson."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "短文说它 was made in 1923，并且 has belonged to the school for many years。"
+      },
+      {
+        "id": "damage_event",
+        "question": "How was the table harp damaged?",
+        "options": [
+          "A student struck the frame with a metal spoon during a loud sound experiment.",
+          "A teacher dropped it while moving the glass case.",
+          "Visitors played it too softly.",
+          "An instrument maker repaired it too quickly."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "新同学为了 loud sound experiment，用 metal spoon 敲了 frame，导致它受损。"
+      },
+      {
+        "id": "shocked_reason",
+        "question": "Why was everyone shocked?",
+        "options": [
+          "Because the experiment made no sound.",
+          "Because the instrument was part of the school's history.",
+          "Because students were never interested in old things.",
+          "Because the teacher wanted louder music."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中直接说明 Everyone was shocked, because the instrument was part of the school's history。"
+      },
+      {
+        "id": "new_rule",
+        "question": "What rule changed while the instrument was being repaired?",
+        "options": [
+          "Students are not allowed to touch it without a teacher.",
+          "Students must use a metal spoon to play it.",
+          "Visitors must play it loudly.",
+          "The club must stop doing all experiments."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾说 Now students are not allowed to touch it without a teacher，并且它正在被修理。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天的句式仿写把被动语态当成“物品的一生”来写：它叫什么、在哪里制造、属于谁多久、被谁损坏，以及问题之后的新规则。",
+    "patterns": [
+      {
+        "id": "it_is_called",
+        "title": "It is called ...",
+        "source": "It is called a clavichord.",
+        "focus_zh": "用 It is called 给一个物品命名，适合介绍学生不熟悉的旧物或工具。",
+        "task_zh": "仿写一句：介绍一个旧相机、模型、乐器或收藏品的名字。",
+        "must_include": [
+          "It is called"
+        ],
+        "min_words": 6,
+        "sample": "It is called a wooden music box.",
+        "tip_zh": "called 后面直接接名字或类别，不要再加 as。"
+      },
+      {
+        "id": "was_made_in",
+        "title": "was made in ...",
+        "source": "It was made in Germany in 1681.",
+        "focus_zh": "用 was made in 交代一个物品的产地、年代或制作地点，让它有历史感。",
+        "task_zh": "仿写一句：写一件旧物在哪里或哪一年被制作出来。",
+        "must_include": [
+          "was made in"
+        ],
+        "min_words": 7,
+        "sample": "The old camera was made in Japan in 1975.",
+        "tip_zh": "was made in 后面可以接地点，也可以再接年份。"
+      },
+      {
+        "id": "has_belonged_to_for",
+        "title": "has belonged to ... for ...",
+        "source": "It has belonged to our family for a long time.",
+        "focus_zh": "用 has belonged to ... for ... 表示从过去到现在一直属于某人或某个地方。",
+        "task_zh": "仿写一句：写一件旧物已经属于你的家庭、学校或社团很久了。",
+        "must_include": [
+          "has belonged to",
+          "for"
+        ],
+        "min_words": 9,
+        "sample": "This record player has belonged to our family for many years.",
+        "tip_zh": "belong to 后面接拥有者；for 后面接持续的时间。"
+      },
+      {
+        "id": "was_damaged_by",
+        "title": "was damaged by ...",
+        "source": "Recently it was damaged by a visitor.",
+        "focus_zh": "用 was damaged by 写“东西受损”这件事，重点放在物品上，而不是先指责某个人。",
+        "task_zh": "仿写一句：写一件旧物最近被某个人、某次动作或某个事故损坏了。",
+        "must_include": [
+          "was damaged by"
+        ],
+        "min_words": 8,
+        "sample": "The model ship was damaged by a careless visitor.",
+        "tip_zh": "by 后面写造成损坏的人或原因；语气可以客观，不必骂人。"
+      },
+      {
+        "id": "are_not_allowed_to",
+        "title": "are not allowed to ...",
+        "source": "Now we are not allowed to touch it.",
+        "focus_zh": "用 are not allowed to 写问题之后的新规则，表达“不是不能欣赏，而是不能随便碰”。",
+        "task_zh": "仿写一句：写一条保护旧物的新规则。",
+        "must_include": [
+          "are not allowed to"
+        ],
+        "min_words": 8,
+        "sample": "Now we are not allowed to open the glass case.",
+        "tip_zh": "are not allowed to 后面接动词原形，适合写清楚边界。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "lesson_id": 6,
+  "reading": {
+    "title": "The Monthly Visitor",
+    "intro_zh": "这篇短文不复述 Percy Buttons 的上门讨饭故事，而是换到现代社区里的固定来访者：新搬来的孩子第一次遇到每月来收旧电池的志愿者，邻居解释大家都认识她。重点回收 moved / knocked / asked me for / in return for / everybody knows / calls at / once a month，同时明确现代安全边界。",
+    "word_bank": [
+      "moved",
+      "knocked",
+      "asked me for",
+      "in return for",
+      "neighbour",
+      "everybody knows",
+      "calls at",
+      "once a month",
+      "pocket",
+      "went away"
+    ],
+    "passage": [
+      "I have just moved to a small building near Green Street. On Saturday morning, a woman in an orange vest knocked at our door. I did not open it alone; I called my father. The woman asked me for old batteries from our drawer. In return for this, she gave us a small calendar about recycling days. Then she put the batteries in a safe box, put the calendar in her pocket, and went away. Later, a neighbour told me about her. Everybody knows Ms Lin. She calls at many homes in our street once a month and always asks for old batteries, because she is a community volunteer."
+    ],
+    "questions": [
+      {
+        "id": "new_place",
+        "question": "Why was the narrator surprised by the visitor?",
+        "options": [
+          "Because the narrator had just moved to the building and did not know local routines yet.",
+          "Because the visitor came from another country.",
+          "Because the narrator had already met the visitor every month.",
+          "Because the visitor was looking for a lost meal."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "开头说 I have just moved...，所以叙述者是新来的，还不了解社区里的固定来访。"
+      },
+      {
+        "id": "visitor_request",
+        "question": "What did the visitor ask the family for?",
+        "options": [
+          "A glass of beer.",
+          "A piece of cheese.",
+          "Old batteries from their drawer.",
+          "Money for a new calendar."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "短文说 The woman asked me for old batteries from our drawer。"
+      },
+      {
+        "id": "in_return",
+        "question": "What did the visitor do in return?",
+        "options": [
+          "She sang songs in the street.",
+          "She gave them a small calendar about recycling days.",
+          "She bought them a safe box.",
+          "She told them to move away."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "In return for this 后面写的是 she gave us a small calendar about recycling days。"
+      },
+      {
+        "id": "neighbour_explanation",
+        "question": "What did the neighbour explain later?",
+        "options": [
+          "The visitor was lost and knocked at the wrong door.",
+          "The visitor was Ms Lin, and everybody in the street knows her.",
+          "The visitor only came to this home once.",
+          "The visitor should not collect batteries."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "邻居解释 Everybody knows Ms Lin，并说明她每月都会到很多家收旧电池。"
+      },
+      {
+        "id": "safety_rule",
+        "question": "What modern safety rule does the story show?",
+        "options": [
+          "A child should open the door quickly for every visitor.",
+          "A child should call an adult when someone unknown knocks at the door.",
+          "Neighbours should never explain local routines.",
+          "Community volunteers should only visit at night."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中明确说 I did not open it alone; I called my father，体现现代安全边界。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天的仿写抓住 Lesson 6 最值得迁移的五个结构：刚搬到某地、向某人要某物、作为回报、后来邻居解释、以及 once a month 表示固定频率。写现代例句时要记住安全边界：孩子不要独自开门。",
+    "patterns": [
+      {
+        "id": "have_just_moved_to",
+        "title": "have just moved to ...",
+        "source": "I have just moved to a house in Bridge Street.",
+        "focus_zh": "用 have just moved to 说明刚搬到一个新地方，所以还不了解周围的人和规矩。",
+        "task_zh": "仿写一句：你刚搬到一个新小区、新街道或新学校，还不熟悉当地情况。",
+        "must_include": [
+          "have just moved to"
+        ],
+        "min_words": 9,
+        "sample": "I have just moved to this building, so I know few neighbours.",
+        "tip_zh": "have just moved to 后面接地点；后半句可以自然说明“我为什么不知道”。"
+      },
+      {
+        "id": "asked_me_for",
+        "title": "asked me for ...",
+        "source": "He asked me for a meal and a glass of beer.",
+        "focus_zh": "asked me for 表示“向我请求某物”，后面直接接想要的东西。",
+        "task_zh": "仿写一句：社区志愿者、老师或同学向你要一个安全、合理的小物品。",
+        "must_include": [
+          "asked me for"
+        ],
+        "min_words": 9,
+        "sample": "The volunteer asked me for old batteries from our drawer.",
+        "tip_zh": "asked me for 后面接名词，不要写成 asked me to for。"
+      },
+      {
+        "id": "in_return_for_this",
+        "title": "In return for this, ...",
+        "source": "In return for this, the beggar stood on his head and sang songs.",
+        "focus_zh": "In return for this 放在句首，表示前后两件事是一种交换或回报。",
+        "task_zh": "仿写一句：别人帮忙后，你用一个小行动表示回报。",
+        "must_include": [
+          "In return for this"
+        ],
+        "min_words": 10,
+        "sample": "In return for this, I helped her carry the boxes downstairs.",
+        "tip_zh": "逗号后面写具体动作；动作要和前面的帮助形成清楚的交换关系。"
+      },
+      {
+        "id": "later_a_neighbour_told_me_about",
+        "title": "Later a neighbour told me about ...",
+        "source": "Later a neighbour told me about him.",
+        "focus_zh": "用 Later 把故事推到后面，再让 neighbour 解释一个新来的人不知道的情况。",
+        "task_zh": "仿写一句：后来邻居告诉你某个人、某个地方或某个社区习惯的情况。",
+        "must_include": [
+          "Later a neighbour told me about"
+        ],
+        "min_words": 9,
+        "sample": "Later a neighbour told me about the woman at the gate.",
+        "tip_zh": "about 后面接解释对象，比如 the visitor, the shop, the routine。"
+      },
+      {
+        "id": "once_a_month",
+        "title": "once a month",
+        "source": "He calls at every house in the street once a month.",
+        "focus_zh": "once a month 表示“每月一次”，用来写固定的社区、学校或家庭习惯。",
+        "task_zh": "仿写一句：写一个人每月一次到某处做一件固定的事。",
+        "must_include": [
+          "once a month"
+        ],
+        "min_words": 9,
+        "sample": "The volunteer calls at our building once a month.",
+        "tip_zh": "频率短语 once a month 通常放在句末，让读者最后看到这个 routine。"
+      }
+    ]
+  }
+}

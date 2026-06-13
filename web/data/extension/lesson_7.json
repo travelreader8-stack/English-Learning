@@ -1,0 +1,157 @@
+{
+  "lesson_id": 7,
+  "reading": {
+    "title": "The Empty Trophy Box",
+    "intro_zh": "这篇拓展阅读不复述机场钻石故事，而是换到学校奖杯包裹的安全链：大家守住最后一道门，却发现真正的问题早已发生。",
+    "word_bank": [
+      "detective",
+      "expect",
+      "valuable",
+      "parcel",
+      "thieves",
+      "steal",
+      "keep guard",
+      "to their surprise",
+      "precious",
+      "full of"
+    ],
+    "passage": [
+      "On Friday morning, the science club was expecting a valuable parcel: the first prize trophy for the city fair. A teacher had told the school detective club that thieves would try to steal it during delivery. So the children and two teachers were waiting all morning. Some were waiting in the front office, while others were keeping guard by the hall door. At noon, a driver brought a neat brown box. It looked safe, and everyone felt proud. Two teachers carried the parcel to the display room and opened it. To their surprise, the precious box was full of paper and small stones. The trophy was not there. The guards had watched the last door, but the switch had happened earlier on the delivery chain. They were careful, but they were too late."
+    ],
+    "questions": [
+      {
+        "id": "valuable_thing",
+        "question": "What valuable thing were the students and teachers expecting?",
+        "options": [
+          "A new computer for the office.",
+          "The first prize trophy for the city fair.",
+          "A box of science books.",
+          "A camera for the school newspaper."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文第一句说 science club was expecting a valuable parcel: the first prize trophy。"
+      },
+      {
+        "id": "warning",
+        "question": "What warning made everyone careful?",
+        "options": [
+          "The driver said the box was too heavy.",
+          "A teacher said the trophy had already been shown.",
+          "The school detective club heard that thieves would try to steal the trophy.",
+          "The city fair had been cancelled."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "老师告诉学校 detective club：thieves would try to steal it during delivery。"
+      },
+      {
+        "id": "guard_places",
+        "question": "Where did different people wait or keep guard?",
+        "options": [
+          "In the front office and by the hall door.",
+          "In the playground and on the bus.",
+          "In the kitchen and near the library window.",
+          "At the city fair and beside the stage."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 some were waiting in the front office, while others were keeping guard by the hall door。"
+      },
+      {
+        "id": "inside_box",
+        "question": "What did they find inside the box?",
+        "options": [
+          "The trophy and a letter.",
+          "Paper and small stones.",
+          "A broken science model.",
+          "Nothing at all."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "打开后发现 the precious box was full of paper and small stones。"
+      },
+      {
+        "id": "too_late",
+        "question": "Why were they too late?",
+        "options": [
+          "The fair had started before they arrived.",
+          "The driver forgot the school address.",
+          "The switch had already happened earlier on the delivery chain.",
+          "The students opened the wrong door."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "他们守住的是最后一道门，但调包早已在 delivery chain 的更早处发生。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "这组句式练习侦探故事里的时间层：长时间等待、期待重要物品、提前收到警告、同时守门和开箱，以及最后的反转发现。",
+    "patterns": [
+      {
+        "id": "waiting_all_morning",
+        "title": "were waiting ... all morning",
+        "source": "Detectives were waiting at the airport all morning.",
+        "focus_zh": "用 were waiting...all morning 表示一群人不是等了一小会儿，而是持续等了很久。",
+        "task_zh": "仿写一句：写一群人整个上午都在某个地点等待一个重要包裹、客人或消息。",
+        "must_include": [
+          "were waiting",
+          "all morning"
+        ],
+        "min_words": 9,
+        "sample": "The students were waiting in the hall all morning for the parcel.",
+        "tip_zh": "were waiting 后面可以接地点，all morning 放在句末很自然。"
+      },
+      {
+        "id": "were_expecting",
+        "title": "were expecting ...",
+        "source": "They were expecting a valuable parcel of diamonds.",
+        "focus_zh": "were expecting 表示大家正在等一个明确而重要的东西到来。",
+        "task_zh": "仿写一句：写某人正在等待一个贵重、重要或期待已久的包裹。",
+        "must_include": [
+          "were expecting"
+        ],
+        "min_words": 8,
+        "sample": "We were expecting a valuable parcel for the school display.",
+        "tip_zh": "expecting 后面直接接名词，比 waiting for 更有“心里知道它要来”的感觉。"
+      },
+      {
+        "id": "would_try_to",
+        "title": "would try to ...",
+        "source": "Thieves would try to steal the diamonds.",
+        "focus_zh": "would try to... 常用来转述别人提前说过的未来危险或打算。",
+        "task_zh": "仿写一句：写老师、警卫或朋友提前提醒大家，某人可能会尝试做一件不好的事。",
+        "must_include": [
+          "would try to"
+        ],
+        "min_words": 9,
+        "sample": "The guard warned us that someone would try to take the trophy.",
+        "tip_zh": "would try to 后面接动词原形，比如 take, open, hide, change。"
+      },
+      {
+        "id": "while_keeping_guard",
+        "title": "While ... were keeping guard, ...",
+        "source": "While two detectives were keeping guard at the door, two others opened the parcel.",
+        "focus_zh": "While 把两个同时发生的动作连起来：一边守着，一边检查。",
+        "task_zh": "仿写一句：写一些人在守门或守箱子，同时另一些人打开或检查包裹。",
+        "must_include": [
+          "While",
+          "were keeping guard"
+        ],
+        "min_words": 12,
+        "sample": "While two students were keeping guard at the door, the teacher opened the box.",
+        "tip_zh": "While 开头的从句后面要加逗号，再写主句动作。"
+      },
+      {
+        "id": "to_their_surprise_full_of",
+        "title": "To their surprise, ... was full of ...",
+        "source": "To their surprise, the precious parcel was full of stones and sand!",
+        "focus_zh": "这个句式非常适合写结尾反转：大家以为会看到 A，结果里面全是 B。",
+        "task_zh": "仿写一句：写大家打开某个盒子或包裹后，惊讶地发现里面装的不是预期物品。",
+        "must_include": [
+          "To their surprise",
+          "was full of"
+        ],
+        "min_words": 10,
+        "sample": "To their surprise, the display box was full of paper and stones.",
+        "tip_zh": "full of 后面接里面真正装的东西，能把反转写得很清楚。"
+      }
+    ]
+  }
+}
