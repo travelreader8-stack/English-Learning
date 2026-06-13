@@ -1,0 +1,155 @@
+{
+  "lesson_id": 14,
+  "reading": {
+    "title": "The Quiet Museum Visit",
+    "intro_zh": "这篇短文不复述法国搭车故事，而是换到一次博物馆参观：两个学生都以为对方不会说英语，只用了一句中文问候就沉默了一路，最后一个简单问题解开误会。重点回收 amusing experience、wave、asked me for a lift、reply、apart from、at all、neither of us 和 Do you speak English?。",
+    "word_bank": [
+      "amusing experience",
+      "wave",
+      "lift",
+      "reply",
+      "apart from",
+      "at all",
+      "neither of us",
+      "journey",
+      "as soon as",
+      "Do you speak English?"
+    ],
+    "passage": [
+      "Last summer I had an amusing experience on a school trip to a museum in Singapore. After our bus had left the hotel, a boy from another group waved to us near the station. His teacher asked our guide for a lift to the museum, so they joined our bus. As soon as the boy had sat beside me, I said hello in simple Chinese because I thought he was from China. He smiled and replied in Chinese. Apart from a few words, I do not know any Chinese at all, so I stayed quiet. The boy was quiet too. Neither of us spoke during the short journey. Near the museum door, he suddenly asked, \"Do you speak English?\" We both laughed, because we had been able to talk all morning."
+    ],
+    "questions": [
+      {
+        "id": "misunderstanding_place",
+        "question": "Where did the misunderstanding happen?",
+        "options": [
+          "On a school trip to a museum in Singapore.",
+          "In a small village in the south of France.",
+          "At a hotel where nobody could find the bus.",
+          "In an online game after school."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文第一句说明这是 a school trip to a museum in Singapore，不是原文里的法国搭车场景。"
+      },
+      {
+        "id": "reason_for_silence",
+        "question": "Why did the two students stay quiet?",
+        "options": [
+          "They were angry with each other.",
+          "They both thought they did not share a useful language.",
+          "The guide told them not to speak on the bus.",
+          "They were too tired after visiting the museum."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "叙述者以为男孩来自中国，自己中文很少；男孩也保持安静，所以两人都被语言假设困住了。"
+      },
+      {
+        "id": "first_language",
+        "question": "What language did the narrator first use?",
+        "options": [
+          "French.",
+          "Spanish.",
+          "Simple Chinese.",
+          "No language at all."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "文中写道 I said hello in simple Chinese，男孩也 replied in Chinese。"
+      },
+      {
+        "id": "revealing_question",
+        "question": "What question revealed the truth?",
+        "options": [
+          "Do you speak English?",
+          "Where is the museum door?",
+          "Can you give me a lift?",
+          "Did you enjoy the station?"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "接近博物馆门口时，男孩突然问 Do you speak English? 这句话揭开了误会。"
+      },
+      {
+        "id": "why_amusing",
+        "question": "Why was the experience amusing rather than serious?",
+        "options": [
+          "Because the students mocked each other's accents.",
+          "Because the bus got lost for a long time.",
+          "Because both students could speak English all along.",
+          "Because the museum guide refused to help them."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结尾说 We both laughed, because we had been able to talk all morning，笑点是两人其实一直可以用英语交流。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓 Lesson 14 的五个核心句式：用 After I had... 写过去故事里的先后顺序，用 asked me for... 写求助，用 As soon as... 写立刻发生的动作，用 Apart from a few words...at all 写语言能力很有限，最后用 Neither of us... 写尴尬沉默。",
+    "patterns": [
+      {
+        "id": "after_i_had",
+        "title": "After I had ..., I ...",
+        "source": "After I had left a small village, I drove on to the next town.",
+        "focus_zh": "用 After I had... 表示一个动作在过去故事里更早发生，然后再写下一步动作。",
+        "task_zh": "仿写一句：写你先完成一个动作，之后才在旅行、校园或参观场景里做下一件事。",
+        "must_include": [
+          "After I had"
+        ],
+        "min_words": 10,
+        "sample": "After I had found the right platform, I asked the guide for help.",
+        "tip_zh": "had 后面接过去分词，后半句用一般过去时写下一步动作。"
+      },
+      {
+        "id": "asked_me_for",
+        "title": "asked me for ...",
+        "source": "He asked me for a lift.",
+        "focus_zh": "asked me for... 用来写别人向我请求某种帮助、信息或东西。",
+        "task_zh": "仿写一句：写同学、游客或朋友向你请求帮助、方向、地图、座位或建议。",
+        "must_include": [
+          "asked me for"
+        ],
+        "min_words": 8,
+        "sample": "My classmate asked me for help with the museum map.",
+        "tip_zh": "for 后面接名词或名词短语，比如 help, advice, directions, a seat。"
+      },
+      {
+        "id": "as_soon_as",
+        "title": "As soon as ..., ...",
+        "source": "As soon as he had got into the car, I said good morning to him in French.",
+        "focus_zh": "As soon as... 强调前一个动作刚发生，后一个动作马上跟着发生。",
+        "task_zh": "仿写一句：写一个人刚上车、进教室、到博物馆或打开门，你马上做了什么。",
+        "must_include": [
+          "As soon as"
+        ],
+        "min_words": 10,
+        "sample": "As soon as the guide had opened the door, we entered the museum.",
+        "tip_zh": "如果要强调过去故事里的先后顺序，可以在 as soon as 后面用 had done。"
+      },
+      {
+        "id": "apart_from_at_all",
+        "title": "Apart from a few words, ... at all",
+        "source": "Apart from a few words, I do not know any French at all.",
+        "focus_zh": "这个结构用来承认自己只知道很少一点，并用 at all 加强否定语气。",
+        "task_zh": "仿写一句：写你只会某种语言、技能或话题里的几个词，其他几乎不会。",
+        "must_include": [
+          "Apart from a few words",
+          "at all"
+        ],
+        "min_words": 10,
+        "sample": "Apart from a few words, I do not know any Japanese at all.",
+        "tip_zh": "Apart from a few words 放在句首，后面通常接 do not know...at all。"
+      },
+      {
+        "id": "neither_of_us",
+        "title": "Neither of us ...",
+        "source": "Neither of us spoke during the journey.",
+        "focus_zh": "Neither of us... 强调两个人都没有做某件事，适合写沉默、犹豫或误会。",
+        "task_zh": "仿写一句：写两个人因为紧张、误会或不确定语言而都没有开口。",
+        "must_include": [
+          "Neither of us"
+        ],
+        "min_words": 8,
+        "sample": "Neither of us spoke until the teacher asked a question.",
+        "tip_zh": "Neither of us 后面的动词通常用单数形式，比如 speaks/is/knows；写过去故事时用 spoke/was/knew。"
+      }
+    ]
+  }
+}
