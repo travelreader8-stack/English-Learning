@@ -1,0 +1,155 @@
+{
+  "lesson_id": 42,
+  "reading": {
+    "title": "The Puppet in the Square",
+    "intro_zh": "这篇短文不复述耍蛇场景，而是换到一个城市广场里的木偶表演：孩子们先觉得木偶好像听懂音乐，后来通过仔细观察发现它跟随的是表演者手指的动作。",
+    "word_bank": [
+      "square",
+      "performer",
+      "instrument",
+      "puppet",
+      "tune",
+      "first glimpse",
+      "movement",
+      "obviously",
+      "tell the difference",
+      "careful observation"
+    ],
+    "passage": [
+      "On Saturday, Nina and Ben visited a busy city square during a local festival. As they had walked through the market for a long time, they stopped by a fountain to have a rest. After a time, they noticed a street performer with a bright instrument and a small wooden puppet. As soon as he saw the children, he began to play a cheerful tune. The puppet turned, bowed, and lifted one arm, and the children had their first glimpse of its tiny silver shoes. At first, it seemed to dance to every note. Then Nina watched the performer's left hand carefully. The puppet was obviously following the movement of his fingers, not the music itself. Ben laughed, but he was respectful. Good visitors enjoy a surprise and then use careful observation before they decide what is really happening."
+    ],
+    "questions": [
+      {
+        "id": "square_rest",
+        "question": "Why did Nina and Ben stop in the square?",
+        "options": [
+          "They had walked through the market for a long time and wanted to rest.",
+          "They were looking for a new musical instrument to buy.",
+          "They had lost their way in a museum.",
+          "They wanted to join the performer on the stage."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 As they had walked through the market for a long time, they stopped by a fountain to have a rest。"
+      },
+      {
+        "id": "noticed_performance",
+        "question": "What performance did they notice after a time?",
+        "options": [
+          "A street performer with a bright instrument and a small wooden puppet.",
+          "A singer with two large baskets and a snake.",
+          "A group of students painting signs near the fountain.",
+          "A doctor giving a talk about animals."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "关键句是 they noticed a street performer with a bright instrument and a small wooden puppet。"
+      },
+      {
+        "id": "first_glimpse",
+        "question": "What did the children see at their first glimpse of the puppet?",
+        "options": [
+          "Its tiny silver shoes.",
+          "A basket covered with coins.",
+          "A map of Old Delhi.",
+          "The performer's ticket."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "文中写道 the children had their first glimpse of its tiny silver shoes。"
+      },
+      {
+        "id": "simple_explanation",
+        "question": "What simple explanation did Nina understand later?",
+        "options": [
+          "The puppet was following the movement of the performer's fingers.",
+          "The puppet could tell every music style by itself.",
+          "The puppet was choosing songs for the festival.",
+          "The fountain was making the puppet move."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "后来 Nina 仔细看左手，发现木偶跟随的是手指的 movement，而不是音乐本身。"
+      },
+      {
+        "id": "careful_observation",
+        "question": "What lesson does the story teach about watching something new?",
+        "options": [
+          "Enjoy the surprise, but use careful observation before deciding what is happening.",
+          "Never watch street performances in a public square.",
+          "Assume every performance is exactly what it first seems to be.",
+          "Only music can explain a puppet's movement."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾强调 Good visitors enjoy a surprise and then use careful observation before they decide what is really happening。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 42 的观察顺序句式：用 As we had..., we stopped... 交代背景和结果，用 After a time... 推进观察，用 As soon as... 写立刻反应，用 first glimpse 写第一眼，再用 tell the difference between... 写分辨区别。",
+    "patterns": [
+      {
+        "id": "as_we_had_stopped",
+        "title": "As we had ..., we stopped to ...",
+        "source": "As we had had a long walk through one of the markets of old Delhi, we stopped at a square to have a rest.",
+        "focus_zh": "As 引出原因或背景，had 表示之前已经发生的长时间动作，主句写因此停下来做什么。",
+        "task_zh": "仿写一句：写你们已经走了、等了或练习了很久，所以停下来休息、喝水或查看地图。",
+        "must_include": [
+          "As we had",
+          "stopped"
+        ],
+        "min_words": 12,
+        "sample": "As we had walked through the old market for an hour, we stopped to drink some water.",
+        "tip_zh": "As we had 后面接过去分词；stopped 后面可以接 to have a rest, to drink water, to check the map。"
+      },
+      {
+        "id": "after_a_time_noticed",
+        "title": "After a time, we noticed ...",
+        "source": "After a time, we noticed a snake charmer.",
+        "focus_zh": "After a time 表示过了一会儿，noticed 写慢慢观察到的新事物，适合推进场景。",
+        "task_zh": "仿写一句：写你们在广场、市场或博物馆里过了一会儿注意到一个人、声音或动作。",
+        "must_include": [
+          "After a time"
+        ],
+        "min_words": 9,
+        "sample": "After a time, we noticed a street performer beside the fountain.",
+        "tip_zh": "noticed 后面接具体对象；比 saw 更有“观察中慢慢发现”的感觉。"
+      },
+      {
+        "id": "as_soon_as_action",
+        "title": "As soon as ..., ...",
+        "source": "As soon as he saw us, he picked up a long pipe.",
+        "focus_zh": "As soon as 表示前一个动作一发生，后一个动作马上跟上，节奏很紧。",
+        "task_zh": "仿写一句：写表演者、老师或朋友一看见某人，就立刻做出一个动作。",
+        "must_include": [
+          "As soon as"
+        ],
+        "min_words": 10,
+        "sample": "As soon as the performer saw us, he began to play a cheerful tune.",
+        "tip_zh": "As soon as 从句用过去式，主句也常用过去式来写故事里的连续动作。"
+      },
+      {
+        "id": "first_glimpse_of",
+        "title": "had our first glimpse of ...",
+        "source": "We had our first glimpse of the snake.",
+        "focus_zh": "first glimpse 指第一眼、短暂的一瞥，适合写某个东西刚出现的瞬间。",
+        "task_zh": "仿写一句：写你们第一次看见木偶、舞台、展品或远处建筑的一瞬间。",
+        "must_include": [
+          "first glimpse"
+        ],
+        "min_words": 10,
+        "sample": "We had our first glimpse of the puppet when it lifted one tiny hand.",
+        "tip_zh": "glimpse 前面常搭配 first；后面用 of 加你第一次看到的东西。"
+      },
+      {
+        "id": "tell_difference_between",
+        "title": "could not tell the difference between ... and ...",
+        "source": "It obviously could not tell the difference between Indian music and jazz.",
+        "focus_zh": "tell the difference between A and B 表示分辨 A 和 B 的区别，可以写声音、画面、真假或两个相似事物。",
+        "task_zh": "仿写一句：写某人、某个小孩或一只宠物分辨不出两个相似声音、颜色、词语或动作的区别。",
+        "must_include": [
+          "tell the difference between"
+        ],
+        "min_words": 11,
+        "sample": "My little brother could not tell the difference between the two similar tunes.",
+        "tip_zh": "between 后面要有两个比较对象，中间用 and 连接；可以在前面加 obviously 表示“显然”。"
+      }
+    ]
+  }
+}
