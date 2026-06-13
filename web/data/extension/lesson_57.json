@@ -1,0 +1,160 @@
+{
+  "lesson_id": 57,
+  "reading": {
+    "title": "The Camera in the Window Display",
+    "intro_zh": "这篇短文把 Lesson 57 的“同一个人、不同穿着、不同待遇”换到相机店和学校艺术社团的场景：重点不在报复，而在看清 appearance judgment。重点回收 jeans、expensive、window display、scornfully、serve、not realizing who she was、eager、with great difficulty 和 as soon as。",
+    "word_bank": [
+      "jeans",
+      "expensive",
+      "window display",
+      "scornfully",
+      "serve",
+      "not realizing who she was",
+      "eager",
+      "with great difficulty",
+      "as soon as",
+      "apologized"
+    ],
+    "passage": [
+      "On Saturday, Lily went into a smart camera shop in jeans and old trainers. She wanted to ask about a small camera in the window display for her school art club. The assistant glanced at her scornfully and kept serving a man in a dark suit. \"That one is expensive,\" he said coldly, though Lily had not asked the price. Lily left quietly. The next morning, she returned with her art teacher, dressed in her school uniform, carrying the club's order form in one hand and a long umbrella in the other. Not realizing who she was, the same assistant became eager to serve her. With great difficulty, he opened the locked display and brought out three cameras. As soon as Lily chose the first camera, her teacher said, \"A careful customer does not always look rich.\" The assistant turned red and apologized."
+    ],
+    "questions": [
+      {
+        "id": "why_lily_visited",
+        "question": "Why did Lily go into the camera shop?",
+        "options": [
+          "She wanted to ask about a camera for her school art club.",
+          "She wanted to buy a dark suit for her teacher.",
+          "She wanted to sell her old trainers to the assistant.",
+          "She wanted to close the window display."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 Lily wanted to ask about a small camera in the window display for her school art club，所以她是为学校艺术社团询问相机。"
+      },
+      {
+        "id": "assistant_first_attitude",
+        "question": "How did the assistant treat Lily at first?",
+        "options": [
+          "He served her warmly as soon as she entered.",
+          "He glanced at her scornfully and kept serving another customer.",
+          "He asked her teacher to come back later.",
+          "He apologized before she said anything."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "第一天他 glanced at her scornfully，还继续服务穿深色西装的男人，说明他按外表轻视 Lily。"
+      },
+      {
+        "id": "changed_attitude",
+        "question": "Why did the assistant become eager the next morning?",
+        "options": [
+          "He did not realize Lily was the same girl from Saturday.",
+          "He remembered that Lily had already paid for the camera.",
+          "He saw that the window display was empty.",
+          "He wanted Lily to leave the shop at once."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "关键句是 Not realizing who she was。售货员没认出她，所以看到校服、老师和订单表后态度变得 eager。"
+      },
+      {
+        "id": "display_action",
+        "question": "What did the assistant do with great difficulty?",
+        "options": [
+          "He opened the locked display and brought out three cameras.",
+          "He carried the teacher's umbrella across the street.",
+          "He repaired Lily's old trainers in the shop.",
+          "He wrote a new order form for the art club."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 With great difficulty, he opened the locked display and brought out three cameras，困难的是打开锁住的展示柜并取出相机。"
+      },
+      {
+        "id": "main_theme",
+        "question": "What is the main lesson of the story?",
+        "options": [
+          "A careful customer should not be judged by appearance.",
+          "Only people in school uniforms can buy cameras.",
+          "Expensive shops should serve only rich-looking customers.",
+          "Old trainers are always better than dark suits."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "老师的话 A careful customer does not always look rich 点出主题：不能只看外表判断一个人是否值得被认真服务。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 57 的高价值句式：用 Though..., finally... 写犹豫后行动；用 the way ... was dressed 写外表判断；用 Glancing at..., he told her that... 写动作和说话；用 Not realizing who..., was eager to... 写没认出来造成的态度变化；最后用 As soon as..., ... before finally... 写时间转折和最终动作。",
+    "patterns": [
+      {
+        "id": "though_finally",
+        "title": "Though ..., ... finally ...",
+        "source": "Though she hesitated for a moment, she finally went in.",
+        "focus_zh": "Though 放在句首，先写犹豫、害怕或困难，再用 finally 写这个人还是采取了行动。",
+        "task_zh": "仿写一句：写某人虽然犹豫、紧张或不确定，但最后还是走进某处、开口询问或参加活动。",
+        "must_include": [
+          "Though",
+          "finally"
+        ],
+        "min_words": 10,
+        "sample": "Though Tom felt nervous at the door, he finally went in and asked for help.",
+        "tip_zh": "Though 后面是一件让人退缩的事；finally 后面要接真正发生的动作。"
+      },
+      {
+        "id": "the_way_was_dressed",
+        "title": "the way ... was dressed",
+        "source": "The assistant who served her did not like the way she was dressed.",
+        "focus_zh": "the way someone was dressed 可以准确写“某人的穿着方式”，很适合表达别人按外表判断人。",
+        "task_zh": "仿写一句：写某人因为别人的穿着方式而产生错误判断，但不要赞同这种判断。",
+        "must_include": [
+          "the way",
+          "was dressed"
+        ],
+        "min_words": 11,
+        "sample": "The guard made a mistake because he judged Ben by the way he was dressed.",
+        "tip_zh": "这个结构写的是外表，不是人的价值；句子里可以加 judged 或 made a mistake 来表明判断是错的。"
+      },
+      {
+        "id": "glancing_told_that",
+        "title": "Glancing at ..., ... told ... that ...",
+        "source": "Glancing at her scornfully, he told her that the dress was sold.",
+        "focus_zh": "Glancing at... 放句首，先给出一个短动作，再接 told...that... 写说出的内容，故事感很强。",
+        "task_zh": "仿写一句：写某人看了别人一眼，然后告诉对方一个消息、规则或借口。",
+        "must_include": [
+          "Glancing at",
+          "told",
+          "that"
+        ],
+        "min_words": 12,
+        "sample": "Glancing at the order form, the assistant told Lily that the camera was ready.",
+        "tip_zh": "Glancing at 后面接被看的对象；told 后面要有人，再用 that 引出说的话。"
+      },
+      {
+        "id": "not_realizing_eager",
+        "title": "Not realizing who ..., ... was eager to ...",
+        "source": "Not realizing who she was, the assistant was eager to serve her this time.",
+        "focus_zh": "Not realizing who... 说明“没认出/没意识到身份”，后半句写因此产生的态度或行动。",
+        "task_zh": "仿写一句：写某人没有认出同一个人，于是这一次非常热情、紧张或急着帮忙。",
+        "must_include": [
+          "Not realizing who",
+          "was eager to"
+        ],
+        "min_words": 12,
+        "sample": "Not realizing who the boy was, the clerk was eager to show him every model.",
+        "tip_zh": "Not realizing who 后面接完整小句；was eager to 后面接动词原形，如 help、serve、show。"
+      },
+      {
+        "id": "as_soon_as_before_finally",
+        "title": "As soon as ..., ... before finally ...",
+        "source": "As soon as she saw it, the woman said she did not like it. She enjoyed herself making the assistant bring almost everything in the window before finally buying the dress she had first asked for.",
+        "focus_zh": "As soon as 写“一……就……”，before finally... 写绕了一圈之后才做最终动作，适合写故事里的反转和收束。",
+        "task_zh": "仿写一句：写某人一看到、听到或找到某物，就先做出一个反应，然后最后才完成真正想做的事。",
+        "must_include": [
+          "As soon as",
+          "before finally"
+        ],
+        "min_words": 14,
+        "sample": "As soon as Mia saw the first photo, she asked three questions before finally choosing it.",
+        "tip_zh": "As soon as 后面接时间点；before finally 后面接动词 -ing，表示最后才做。"
+      }
+    ]
+  }
+}
