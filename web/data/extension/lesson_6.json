@@ -60,11 +60,11 @@
         "question": "What did the neighbour explain later?",
         "options": [
           "The visitor was lost and knocked at the wrong door.",
-          "The visitor was Ms Lin, and everybody in the street knows her.",
           "The visitor only came to this home once.",
-          "The visitor should not collect batteries."
+          "The visitor should not collect batteries.",
+          "The visitor was Ms Lin, and everybody in the street knows her."
         ],
-        "answer_index": 1,
+        "answer_index": 3,
         "explanation_zh": "邻居解释 Everybody knows Ms Lin，并说明她每月都会到很多家收旧电池。"
       },
       {
