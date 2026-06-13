@@ -1,0 +1,156 @@
+{
+  "lesson_id": 44,
+  "reading": {
+    "title": "The Safe Witness",
+    "intro_zh": "这篇短文把 Lesson 44 的“抢包—追赶”换成一个现代、更安全的版本：在车站门口，叙述者看到有人抢手机，但没有去追，而是记住方向和特征、找保安、把事情讲清楚。看看课文里那种一环扣一环的动作写法，换个场景你还认得出吗。",
+    "word_bank": [
+      "risk",
+      "rush up",
+      "snatch",
+      "strap",
+      "report",
+      "direction",
+      "security guard",
+      "contents",
+      "fright",
+      "mending"
+    ],
+    "passage": [
+      "Last Saturday, I was waiting near the station gate when a man in a grey hood rushed up to a woman beside me and snatched her phone. The strap of her bag broke too, and the contents spilled across the ground. I got such a fright that my heart jumped, but I did not run after him. Chasing a stranger through a crowd is a real risk, so I stayed where I was. I watched which way he went — left, past the coffee shop, toward the bus stop. Then I found a security guard and reported everything: the grey hood, the broken strap, and the direction. Later, the woman said her strap needed mending, but the police soon returned her phone. My memory, not my speed, had helped the most."
+    ],
+    "questions": [
+      {
+        "id": "what_was_taken",
+        "question": "What did the man take from the woman?",
+        "options": [
+          "Her shopping bag.",
+          "Her coffee cup.",
+          "Her phone.",
+          "Her umbrella."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "短文说 a man ... rushed up to a woman ... and snatched her phone，他抢走的是手机；包带断了，但包并没有被拿走。"
+      },
+      {
+        "id": "where_he_went",
+        "question": "Which detail showed where the man went?",
+        "options": [
+          "He turned left, past the coffee shop, toward the bus stop.",
+          "He climbed onto the station roof.",
+          "He disappeared into a dark forest.",
+          "He walked back to sit beside the woman."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "叙述者说 I watched which way he went — left, past the coffee shop, toward the bus stop，这正是指出他逃跑方向的细节。"
+      },
+      {
+        "id": "safe_choice",
+        "question": "What safe choice did the narrator make?",
+        "options": [
+          "They chased the man through the crowd.",
+          "They did not run after him and stayed where they were.",
+          "They grabbed the man's hood to stop him.",
+          "They jumped onto the moving bus."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文说 I did not run after him ... so I stayed where I was，叙述者选择不去追，而是待在原地保持安全。"
+      },
+      {
+        "id": "what_helped_police",
+        "question": "What helped the security guard and the police the most?",
+        "options": [
+          "The narrator's running speed.",
+          "The narrator's loud shouting.",
+          "A photograph of the man's face.",
+          "The clear report: the grey hood, the broken strap, and the direction."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "叙述者 reported everything: the grey hood, the broken strap, and the direction，并说 My memory, not my speed, had helped the most，是清楚的描述帮了大忙。"
+      },
+      {
+        "id": "story_vs_imitation",
+        "question": "What is the main lesson of this story?",
+        "options": [
+          "You should always chase a thief to get things back.",
+          "Telling a vivid story is a waste of time.",
+          "Describing an event clearly is helpful, but copying a dangerous chase in real life is not.",
+          "The fastest runner always solves the problem."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "课文的动作描写很生动，但现实里不应模仿追赶。把事情讲清楚很有用，照搬危险的追逐却不安全——这才是这篇短文的重点。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 44 的动作叙事句式：用 did not think of the risk 写“事后才意识到危险”，用 while 写背景动作被突然打断，用 With ... in their possession 写拿到东西后的下一步，用 was soon out of breath, but ... continued to 写累了仍坚持，再用 needs mending 写某样东西需要修理。",
+    "patterns": [
+      {
+        "id": "did_not_think_of_risk",
+        "title": "did not think of the risk ...",
+        "source": "Mrs. Anne Sterling did not think of the risk she was taking.",
+        "focus_zh": "did not think of the risk 用来写一个人做某事时没有意识到自己正在冒的风险，往往是事后才明白。",
+        "task_zh": "仿写一句：写某人（或自己）做某件事时，没有想到其中的风险。",
+        "must_include": [
+          "did not think of the risk"
+        ],
+        "min_words": 12,
+        "sample": "My cousin did not think of the risk he was taking when he ran across the busy road.",
+        "tip_zh": "did not think of the risk 后面常接 she/he was taking，再用 when 引出当时正在做的事。"
+      },
+      {
+        "id": "while_interruption",
+        "title": "while ...",
+        "source": "They had rushed up to her while she was having a picnic.",
+        "focus_zh": "while 用来写一个背景动作正在进行时，另一件事突然发生、把它打断。",
+        "task_zh": "仿写一句：写正在做某事（while ...）的时候，突然发生了别的事情。",
+        "must_include": [
+          "while"
+        ],
+        "min_words": 12,
+        "sample": "A man snatched my phone while I was waiting quietly at the station gate.",
+        "tip_zh": "while 后面接正在进行的背景动作（was/were doing），主句再写突然发生的事。"
+      },
+      {
+        "id": "with_in_their_possession",
+        "title": "With ... in their possession, ...",
+        "source": "With the bag in their possession, both men started running through the trees.",
+        "focus_zh": "With ... in their possession 表示某人已经拿到、掌控了某样东西，逗号后再接他们接着做的动作。",
+        "task_zh": "仿写一句：写某人拿到某样东西之后，紧接着开始做下一件事。",
+        "must_include": [
+          "With",
+          "in their possession"
+        ],
+        "min_words": 12,
+        "sample": "With the stolen phone in their possession, the thieves walked quickly toward the bus stop.",
+        "tip_zh": "in their possession = 在他们手里 / 由他们掌控；逗号后写他们接下来做的事。"
+      },
+      {
+        "id": "out_of_breath_continued_to",
+        "title": "was soon out of breath, but ... continued to ...",
+        "source": "She was soon out of breath, but she continued to run.",
+        "focus_zh": "out of breath 表示累得上气不接下气，再用 but ... continued to ... 写出虽然很累却仍然坚持。",
+        "task_zh": "仿写一句：写某人虽然累得上气不接下气，但仍然坚持做某事。",
+        "must_include": [
+          "out of breath",
+          "continued to"
+        ],
+        "min_words": 12,
+        "sample": "The young runner was soon out of breath, but she continued to climb the steep hill.",
+        "tip_zh": "out of breath 是固定短语“上气不接下气”；continued to 后面接动词原形。"
+      },
+      {
+        "id": "needs_mending",
+        "title": "... needs mending / needs fixing",
+        "source": "The strap needs mending.",
+        "focus_zh": "need + 动词-ing（needs mending / fixing / repairing）用来说某样东西坏了、需要被修理。",
+        "task_zh": "仿写一句：写某样东西坏了，需要修理（用 needs 加一个 -ing 动词）。",
+        "must_include": [
+          "needs"
+        ],
+        "min_words": 10,
+        "sample": "My old schoolbag strap needs mending, but the books inside are still safe.",
+        "tip_zh": "needs 后面直接接动词-ing：needs mending / needs fixing / needs repairing，都表示“需要修理”。"
+      }
+    ]
+  }
+}
