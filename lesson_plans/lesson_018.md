@@ -32,10 +32,11 @@ story.
   - He cannot pay because he cannot find his bag, not because he wants to avoid
     paying.
 - Treat obvious source-text errors responsibly.
-  - The raw `web/data/lessons.json` text currently has `My dog had taken in into
-    the garden.`
+  - The shared `web/data/lessons.json` text has been corrected to
+    `My dog had taken it into the garden.`
   - Student-facing script, read-aloud data, storyboard narration, and exercise
-    text should normalize this to `My dog had taken it into the garden.`
+    text must preserve this corrected wording and must not reintroduce
+    `taken in into`.
   - Do not edit `web/data/lessons.json` during normal lesson production unless
     the user explicitly asks for a shared-data fix.
 - The raw quote punctuation around `Did you have a good meal?` may also look
