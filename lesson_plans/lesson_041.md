@@ -526,7 +526,7 @@ you do not humiliate someone. Include the practical modal contrast `needn't`,
 Suggested title: `A More Polite Opinion`
 
 Recommended word bank: `rude`, `mirror`, `try on`, `needn't`, `mustn't`,
-`regret`, `remind`, `tie`, `lighthouse`, `budget`.
+`regret`, `remind`, `tie`, `terrible`, `too many`.
 
 The 5 reading questions should test:
 

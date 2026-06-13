@@ -997,12 +997,12 @@ timeline, read-aloud data, or storyboard images.
 
 ### Extension Reading
 
-Use an original rumor-to-tourism passage about a small cafe, old chair, bridge,
-or tree that becomes famous online. The passage should make
-`blessing in disguise` concrete: a bad reputation unexpectedly brings visitors
-and income, but people should still respect the place.
+Use an original rumor-to-tourism passage about a small cafe beside an old tree
+that becomes famous online. The passage should make `blessing in disguise`
+concrete: a bad reputation unexpectedly brings visitors and income, but people
+should still respect the place.
 
-Suggested title: `The Unlucky Chair`
+Suggested title: `The Cursed Tree Cafe`
 
 Recommended word bank: `blessing in disguise`, `is said to`, `possess`,
 `cursed`, `reputation`, `victim`, `cut down`, `source of income`, `in spite of`,
