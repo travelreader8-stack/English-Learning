@@ -2,7 +2,7 @@
   "lesson_id": 23,
   "reading": {
     "title": "The Modern House on the Corner",
-    "intro_zh": "这篇短文不复述姐姐从 Nigeria 回来的原文，而是换到奶奶离开一段时间后回到老街角的家庭故事：工程在她离开前已经开始，后来完工；新房间很 modern，所以在旧街区里显得 strange。重点练习 had begun、was completed、would come、If she comes、stay with us、district 和 must be。",
+    "intro_zh": "这篇短文不复述姐姐从 Nigeria 回来的原文，而是换成一个新故事：姑姑多年前去了国外，她离开前街角就 had begun 盖一座大胆的新房子，她走得太早没看到样子；房子大约一年后 was completed。她来信说 would come 回来探亲，If she comes 一定会大吃一惊。家人说她可以 stay with us。这座房子非常 modern，在一片旧砖房的 district 里显得 strange，对姑姑来说它 must be 整条街最大的变化。重点练习 had begun、was completed、would come、If she comes、stay with us、district 和 must be。",
     "word_bank": [
       "complete",
       "modern",
@@ -16,68 +16,68 @@
       "must be"
     ],
     "passage": [
-      "Last winter, Grandma moved to my aunt's flat while our old corner house was being repaired. In her first letter, she said that she would come back for the summer holiday. If she comes, she will get a surprise. Work on the new reading room had begun before she left, but nobody sent her pictures. It was completed three months ago. Now the corner house has a bright glass room, two large windows, and a small garden path. My father told Grandma she could stay with us as long as she wanted. The room is very modern, so it looks strange beside the old brick houses in our district. To us it is warm and useful, but to Grandma it must be the only modern room on the whole street."
+      "My aunt grew up on our old street, but she moved abroad years ago. Before she packed her bags, builders had begun work on a bold new house on the empty corner, though she left too soon to see what it would become. The house was completed about a year later. It has wide glass walls, a flat roof, and a quiet courtyard. She wrote to us last week and said that she would come back to visit this autumn. If she comes, she will not believe her eyes. My parents say she can stay with us during her trip. The building is so modern that it still looks strange in our district of old brick homes. To my aunt, it must be the biggest change on the whole street."
     ],
     "questions": [
       {
         "id": "returning_person",
-        "question": "Who is going to return for the summer holiday?",
+        "question": "Who is going to return to the old street this autumn?",
         "options": [
-          "Grandma.",
-          "The narrator's aunt.",
-          "A new neighbour.",
-          "The builder of the reading room."
+          "A young architect from another city.",
+          "The narrator's aunt, who moved abroad years ago.",
+          "The narrator's parents.",
+          "A new family moving into the district."
         ],
-        "answer_index": 0,
-        "explanation_zh": "短文说 Grandma 在信中 said that she would come back for the summer holiday。"
+        "answer_index": 1,
+        "explanation_zh": "短文说 my aunt ... moved abroad years ago，并在信里 said that she would come back to visit this autumn。"
       },
       {
         "id": "work_had_begun",
-        "question": "What had already begun before Grandma left?",
+        "question": "What had already begun before the aunt left?",
         "options": [
-          "Work on a new school library.",
-          "Work on the new reading room.",
-          "A summer holiday trip.",
-          "A plan to move to another district."
+          "A trip abroad for the whole family.",
+          "Repair work on the old brick homes.",
+          "Work on a bold new house on the empty corner.",
+          "A plan to open a small shop."
         ],
-        "answer_index": 1,
-        "explanation_zh": "文中写道：Work on the new reading room had begun before she left。"
+        "answer_index": 2,
+        "explanation_zh": "文中写道 builders had begun work on a bold new house on the empty corner，而且发生在她 packed her bags 之前。"
       },
       {
         "id": "completion_time",
-        "question": "When was the new reading room completed?",
+        "question": "When was the new house completed?",
         "options": [
-          "Last winter.",
-          "Before Grandma moved away.",
-          "Three months ago.",
-          "On the first day of the summer holiday."
+          "About a year after the aunt left.",
+          "Before the aunt moved abroad.",
+          "Last week, when her letter arrived.",
+          "This autumn, on the day she returns."
         ],
-        "answer_index": 2,
-        "explanation_zh": "短文直接说 It was completed three months ago。"
+        "answer_index": 0,
+        "explanation_zh": "短文说 work had begun before she left，而 The house was completed about a year later，所以是在她离开大约一年之后完工。"
       },
       {
         "id": "why_surprised",
-        "question": "Why will Grandma get a surprise if she comes back?",
+        "question": "Why will the aunt be surprised if she comes back?",
         "options": [
-          "Because the family has moved to her aunt's flat.",
-          "Because nobody remembers the old corner house.",
-          "Because the district has no old brick houses left.",
-          "Because the old house now has a modern glass reading room."
+          "Because her family has moved abroad as well.",
+          "Because the empty corner is exactly as she remembers it.",
+          "Because the old brick homes have all been knocked down.",
+          "Because a strikingly modern house now stands on the once-empty corner."
         ],
         "answer_index": 3,
-        "explanation_zh": "奶奶没有看到照片，回来会发现 old corner house 多了 bright glass room，这就是 surprise。"
+        "explanation_zh": "她离开时街角还是空的，回来会看到一座非常 modern 的新房子，所以 If she comes, she will not believe her eyes。"
       },
       {
         "id": "modern_strange",
-        "question": "Why can the modern room look strange in the district?",
+        "question": "Why does the new house look strange in the district?",
         "options": [
-          "Because it is useful and warm for the family.",
-          "Because it stands beside old brick houses and has a different style.",
-          "Because Grandma does not like reading rooms.",
-          "Because every house on the street is modern too."
+          "Because it is too small for one family.",
+          "Because the aunt does not like glass walls.",
+          "Because it is very modern and stands among old brick homes.",
+          "Because every other house nearby is modern too."
         ],
-        "answer_index": 1,
-        "explanation_zh": "modern 在这里不是 bad，而是和 old brick houses 风格不同，所以在 district 里显得 unfamiliar。"
+        "answer_index": 2,
+        "explanation_zh": "modern 在这里不是 bad，而是因为它和周围的 old brick homes 风格不同，所以在 district 里显得 strange。"
       }
     ]
   },
