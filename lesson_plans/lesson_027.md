@@ -381,6 +381,105 @@ Target output pattern:
 
 Keep the focus on judgment and explanation.
 
+## Extension Practice Direction
+
+Lesson 27 extension production should be extension-only if the main lesson assets
+already exist. The producing session should create:
+
+- `web/data/extension/lesson_27.json`
+- add `27` to `web/data/extension/index.json`
+
+Do not regenerate script, audio, timeline, read-aloud data, or storyboard images
+for this extension-only task unless a separate defect is found.
+
+### Extension Reading
+
+Use an original same-topic passage, not an internet article and not a paraphrase
+of the New Concept text. The new reading should feel like a modern campsite
+decision story:
+
+`a family or school group is choosing a tent spot -> someone notices low ground
+and water marks -> they move the tent to higher ground -> heavy rain comes at
+night -> water forms a small stream where the tent would have been -> the safe
+choice is confirmed`
+
+Suggested title:
+
+`A Better Place for the Tent`
+
+Target length:
+
+- 90-140 English words
+- clear enough for independent reading
+- concrete outdoor details, but no frightening emergency
+
+Recommended word bank:
+
+- `tent`
+- `field`
+- `campsite`
+- `higher ground`
+- `low ground`
+- `put up`
+- `put out`
+- `sleeping bag`
+- `heavily`
+- `stream`
+- `formed`
+- `right under`
+
+The reading should test these ideas:
+
+1. Where the group first wanted to put the tent.
+2. What sign showed the place might be unsafe in rain.
+3. Why they moved the tent.
+4. What happened when it rained heavily at night.
+5. What practical lesson the story teaches.
+
+Keep the ending memorable: water followed the low path, and preparation made the
+night safe instead of wet.
+
+### Sentence Writing
+
+Choose 5 patterns. These should reinforce structure and writing quality, not just
+check easy vocabulary.
+
+Recommended patterns:
+
+1. `Late in the afternoon, ...`
+   - Source: `Late in the afternoon, the boys put up their tent in the middle of a field.`
+   - Focus: a time phrase that opens a story scene.
+   - Writing task: write a camping or picnic sentence that begins with this
+     time phrase.
+   - Must include: `Late in the afternoon`
+2. `As soon as this was done, ...`
+   - Source: `As soon as this was done, they cooked a meal over an open fire.`
+   - Focus: one action follows immediately after another.
+   - Writing task: after setting up the tent or moving the bags, write what the
+     group did next.
+   - Must include: `As soon as this was done`
+3. `... so ...`
+   - Source: `The boys felt tired so they put out the fire and crept into their tent.`
+   - Focus: a natural result, not just two unrelated actions.
+   - Writing task: connect weather, tiredness, or safety with the next action.
+   - Must include: `so`
+4. `found that ... had formed`
+   - Source: `They found that a stream had formed in the field.`
+   - Focus: discovering the real reason after something has already happened.
+   - Writing task: write what someone discovered after the heavy rain.
+   - Must include: `found that` and `had formed`
+5. `right under ...`
+   - Source: `The stream wound its way across the field and then flowed right under their tent!`
+   - Focus: `right` means exactly / directly; useful for vivid location.
+   - Writing task: write where the water flowed or where a problem appeared.
+   - Must include: `right under`
+
+Optional stronger challenge if the student is ready:
+
+- Use `wound its way across ...` to describe water moving in a curving path.
+- Only use this if the sample answer can stay natural and not overburden the
+  student.
+
 ## Chinese-To-English Exercise Direction
 
 The Chinese-to-English practice should emphasize sequence and the outdoor
@@ -455,7 +554,9 @@ The final courseware flow should include the read-aloud step explicitly:
 2. 完形填空
 3. 中译英
 4. 英译中
-5. 默写
+5. 拓展阅读
+6. 句式仿写
+7. 默写
 
 If the final page is auto-generated from shared code, do not edit shared code
 during this lesson production unless the user separately asks for platform work.
@@ -484,7 +585,14 @@ A Lesson 27 production is acceptable only if:
 - `right under` is explained as exactly / directly under.
 - The living-scene exercise practices choosing a safe tent spot and explaining
   why low ground is risky in heavy rain.
+- The extension practice creates `web/data/extension/lesson_27.json` and
+  registers Lesson 27 in `web/data/extension/index.json`.
+- The extension reading is an original same-topic campsite passage about moving
+  the tent to higher ground before heavy rain, not a copied article or a
+  paraphrase of the lesson text.
+- The extension writing patterns include story time order, immediate sequence,
+  cause/result, discovering a formed stream, and the location emphasis
+  `right under`.
 - The read-aloud step is included in the lesson flow.
 - No shared platform files are edited unless the user explicitly asks for that
   in the production thread.
-
