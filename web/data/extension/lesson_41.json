@@ -35,48 +35,49 @@
         "id": "rude_comment",
         "question": "Why did Ben's first comment sound rude?",
         "options": [
-          "Because he laughed and made Mia feel silly in front of the shopkeeper.",
           "Because he quietly asked whether she liked the color.",
+          "Because he offered to buy the phone case for her.",
+          "Because he laughed and made Mia feel silly in front of the shopkeeper.",
           "Because he reminded her to look in the mirror.",
-          "Because he offered to buy the phone case for her."
+          "Because he asked Mia to choose it if she loved it."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "文中说 The words sounded rude because he made her feel silly in front of the shopkeeper，问题不在于不同意，而在于让人难堪。"
       },
       {
         "id": "money_rule",
         "question": "What did Ben say they mustn't do?",
         "options": [
-          "They mustn't spend all their money on things they don't need.",
           "They mustn't try on any unusual accessories.",
+          "They mustn't spend all their money on things they don't need.",
           "They mustn't look in the shop mirror.",
           "They mustn't talk to the shopkeeper."
         ],
-        "answer_index": 0,
+        "answer_index": 1,
         "explanation_zh": "Ben 后来解释说 we mustn't spend all our money on things we don't need，意思是不要把钱都花在不需要的东西上。"
       },
       {
         "id": "repair_comment",
         "question": "How did Ben repair his rude comment?",
         "options": [
-          "He admitted he needn't have said that and gave a kinder opinion.",
           "He laughed louder so everyone could hear him.",
           "He told Mia never to buy phone cases again.",
-          "He asked the shopkeeper to hide the mirror."
+          "He asked the shopkeeper to hide the mirror.",
+          "He admitted he needn't have said that and gave a kinder opinion."
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "explanation_zh": "Ben 说 I needn't have said that，承认刚才那句话没必要，然后改成 It is unusual, but if you love it, choose it。"
       },
       {
         "id": "kind_language",
         "question": "What social lesson does the story teach?",
         "options": [
-          "Honest opinions need kind language.",
           "Friends should always agree about fashion.",
           "People must buy every unusual thing they see.",
+          "Honest opinions need kind language.",
           "A bright tie is always worse than a phone case."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "故事不是说不能给意见，而是说明 honest opinions 也需要 kind language，不要用嘲笑让别人丢脸。"
       }
     ]

@@ -23,36 +23,36 @@
         "id": "survey_goal",
         "question": "What was the survey team trying to photograph?",
         "options": [
-          "A long mountain ridge in a snowy valley.",
           "A busy airport beside a city.",
           "A group of ships on the sea.",
+          "A long mountain ridge in a snowy valley.",
           "A village road after a storm."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "开头说 the survey team flew over a snowy valley to photograph a long mountain ridge，目标是拍摄雪地山谷里的长山脊。"
       },
       {
         "id": "height_problem",
         "question": "What trouble appeared during the flight?",
         "options": [
-          "A wall of cloud forced the aircraft toward the ridge.",
           "The team lost all of its photographs.",
+          "A wall of cloud forced the aircraft toward the ridge.",
           "The plain suddenly became a lake.",
           "The pilot could not find the camera."
         ],
-        "answer_index": 0,
+        "answer_index": 1,
         "explanation_zh": "短文说 A wall of cloud forced the aircraft toward the ridge，飞机被云墙逼向山脊，危险出现了。"
       },
       {
         "id": "weight_mattered",
         "question": "Why did the weight of the aircraft matter?",
         "options": [
-          "The aircraft could only clear the ridge if it rose higher.",
           "The team wanted to land and buy more fuel.",
           "The camera was too small to take photographs.",
-          "The valley was already below the plain."
+          "The valley was already below the plain.",
+          "The aircraft could only clear the ridge if it rose higher."
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "explanation_zh": "飞机必须 rise higher 才能 clear the ridge，而额外重量会让上升更困难，所以重量很关键。"
       },
       {
@@ -71,12 +71,12 @@
         "id": "clear_ridge",
         "question": "Why could the aircraft finally clear the ridge?",
         "options": [
-          "It became lighter and was able to rise.",
           "The ridge moved away from the valley.",
           "The clouds pulled the aircraft upward.",
+          "It became lighter and was able to rise.",
           "The team found a road on the plain."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "结尾说 The aircraft became lighter, rose slowly, and cleared the ridge，减重以后飞机才能上升并越过山脊。"
       }
     ]
