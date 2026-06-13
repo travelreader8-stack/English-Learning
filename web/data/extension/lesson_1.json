@@ -35,48 +35,48 @@
         "id": "noise_problem",
         "question": "What made the private conversation disturb other people?",
         "options": [
-          "The students were talking loudly in a quiet shared space.",
           "The students were writing science notes.",
           "The narrator chose a seat near the window.",
+          "The students were talking loudly in a quiet shared space.",
           "The librarian closed the library early."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "他们聊的是 private conversation，但 they were talking loudly，所以打扰了共享空间里的其他人。"
       },
       {
         "id": "first_reaction",
         "question": "How did the narrator first react?",
         "options": [
-          "The narrator tried to pay attention to the work.",
           "The narrator shouted at the students at once.",
+          "The narrator tried to pay attention to the work.",
           "The narrator left the library immediately.",
           "The narrator joined the conversation."
         ],
-        "answer_index": 0,
+        "answer_index": 1,
         "explanation_zh": "文中说 At first I tried to pay attention to my work，说明叙述者一开始先努力专心。"
       },
       {
         "id": "rude_answer",
         "question": "Why was \"It's none of your business\" not acceptable here?",
         "options": [
-          "Because the students' loud voices affected people in a shared space.",
           "Because nobody is allowed to have a birthday party.",
           "Because the narrator wanted to know their secret.",
-          "Because libraries never allow students to sit together."
+          "Because libraries never allow students to sit together.",
+          "Because the students' loud voices affected people in a shared space."
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "explanation_zh": "对话内容可以是私人的，但声音影响了别人，就不只是“与你无关”的问题了。"
       },
       {
         "id": "social_lesson",
         "question": "What is the social lesson of the story?",
         "options": [
-          "Private content still needs public manners.",
           "A private conversation should always be louder.",
           "It is rude to ask a librarian for help.",
+          "Private content still needs public manners.",
           "A good seat makes every problem disappear."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "结尾点明：A conversation may be private, but loud voices are still public。私人内容也需要公共礼貌。"
       }
     ]
