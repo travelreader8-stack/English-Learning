@@ -1,0 +1,157 @@
+{
+  "lesson_id": 47,
+  "reading": {
+    "title": "The Empty Club Room",
+    "intro_zh": "这篇短文把 Lesson 47 的“闹鬼小酒馆”改成校园社团室的轻喜剧推理：同样是门被堵、家具被挪、灯亮着、瓶子空了，但不涉及酒精。重点仍然是 evidence 和 interpretation：看到同一组证据，人物可以用 must have done 做不同推断，最后用 even if 推出反转笑点。",
+    "word_bank": [
+      "club room",
+      "haunted",
+      "blocked",
+      "furniture",
+      "turned off",
+      "empty bottles",
+      "must have had",
+      "suggested",
+      "accept",
+      "even if"
+    ],
+    "passage": [
+      "Mr. Carter looked after a small club room behind the library. Last month, he tried to give it to the chess club for free, but the students refused. They said the room was haunted. One evening, Mr. Carter locked the door and turned off the lights. The next morning, the chairs had been pushed against the door, the tables had been moved into a circle, and three bottles of lemonade were empty. Mr. Carter was pale. \"A ghost must have had a meeting here,\" he said. I suggested that some students must have found his spare key and come in after basketball practice. Mr. Carter shook his head. \"They would not do that,\" he said. \"They told me they would not accept this room even if I paid them to use it.\""
+    ],
+    "questions": [
+      {
+        "id": "what_room",
+        "question": "What place does Mr. Carter look after?",
+        "options": [
+          "A public house in a village.",
+          "A small club room behind the library.",
+          "A school dining room full of teachers.",
+          "A new sports field near the station."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文开头说 Mr. Carter looked after a small club room behind the library，所以地点是图书馆后面的小社团室，不是课文里的 pub。"
+      },
+      {
+        "id": "morning_evidence",
+        "question": "Which detail was part of the strange evidence in the morning?",
+        "options": [
+          "The chess club had already accepted the room.",
+          "A new sign had been painted on the library wall.",
+          "The chairs had been pushed against the door.",
+          "Mr. Carter had sold lemonade to the students."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "早上的证据包括 chairs had been pushed against the door、tables had been moved 和 bottles were empty。第三项正是其中一个现场细节。"
+      },
+      {
+        "id": "ghost_guess",
+        "question": "What did Mr. Carter think must have happened?",
+        "options": [
+          "A ghost must have had a meeting in the club room.",
+          "The librarian must have moved the library shelves.",
+          "The chess club must have cleaned the room.",
+          "Basketball practice must have been cancelled."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "Mr. Carter 的推断是 A ghost must have had a meeting here，用 must have done 对过去做强推测。"
+      },
+      {
+        "id": "narrator_suggestion",
+        "question": "What did the narrator suggest?",
+        "options": [
+          "The club room should be locked forever.",
+          "Some students must have found the spare key and come in.",
+          "Mr. Carter should paint the room a darker colour.",
+          "The chess club must pay for every bottle of lemonade."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "叙述者给出更现实的解释：some students must have found his spare key and come in after basketball practice。"
+      },
+      {
+        "id": "final_joke",
+        "question": "Why is the ending funny?",
+        "options": [
+          "Because the students want the room only at night.",
+          "Because Mr. Carter has forgotten where the room is.",
+          "Because the room is so unpopular that students will not accept it even if he pays them.",
+          "Because the lemonade bottles are more valuable than the room."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结尾的笑点是社团室名声太差：不是免费不免费，甚至 paid them to use it 学生都不要，对应课文 even if he gives it away 的反转。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 47 的“证据和推断”句式：用 is up for sale 写某物待售，用 had been blocked / had been moved 描写现场证据，用 must have done 对过去做强推测，用 suggested that...must have... 给出另一种解释，最后用 will not accept...even if... 写强烈拒绝。",
+    "patterns": [
+      {
+        "id": "up_for_sale",
+        "title": "is up for sale",
+        "source": "A public house which was recently bought by Mr. Ian Thompson is up for sale.",
+        "focus_zh": "be up for sale 是固定表达，意思是“正在出售、待售”。它常用来制造故事开头的问题：为什么刚买不久又要卖？",
+        "task_zh": "仿写一句：写一件东西、一个小店、一个房间或一辆车正在出售，并补出一个让人好奇的背景。",
+        "must_include": [
+          "is up for sale"
+        ],
+        "min_words": 10,
+        "sample": "The little snack shop near our school is up for sale after only one month.",
+        "tip_zh": "注意介词是 for：up for sale，不是 on sale。on sale 常表示打折或正在销售。"
+      },
+      {
+        "id": "blocked_and_moved",
+        "title": "had been blocked / had been moved",
+        "source": "The doors had been blocked by chairs and the furniture had been moved.",
+        "focus_zh": "had been + 过去分词 用来写“之前已经被怎样了”。这里不先说谁做的，而是先呈现现场证据。",
+        "task_zh": "仿写一句：写早上、课后或活动结束后，你发现门、桌椅、书包或物品已经被移动、挡住或改变位置。",
+        "must_include": [
+          "had been",
+          "moved"
+        ],
+        "min_words": 12,
+        "sample": "When we arrived in the morning, the desks had been moved into a circle.",
+        "tip_zh": "如果要突出“被堵住”，可以写 had been blocked by...；如果要突出“被挪动”，可以写 had been moved。"
+      },
+      {
+        "id": "must_have_done",
+        "title": "must have done",
+        "source": "The ghost must have drunk the night before.",
+        "focus_zh": "must have done 不是“必须做”，而是根据证据推断“过去一定做过”。这课里它让同一组证据变成不同解释。",
+        "task_zh": "仿写一句：根据一个明显证据，推断某人过去一定做过某件事。",
+        "must_include": [
+          "must have"
+        ],
+        "min_words": 10,
+        "sample": "The floor is wet, so someone must have spilled water here.",
+        "tip_zh": "must have 后面接过去分词：must have come, must have moved, must have forgotten。"
+      },
+      {
+        "id": "suggested_that_must_have",
+        "title": "suggested that ... must have ...",
+        "source": "I suggested that some villagers must have come in for a free drink.",
+        "focus_zh": "suggested that... 用来提出一个可能解释，再接 must have... 表示这个解释很有把握。",
+        "task_zh": "仿写一句：写你根据证据提出另一个解释，句中要有 suggested that 和 must have。",
+        "must_include": [
+          "suggested that",
+          "must have"
+        ],
+        "min_words": 12,
+        "sample": "I suggested that the club members must have come in after practice.",
+        "tip_zh": "suggest 这里不是“建议去做”，而是“暗示、提出一种解释”。"
+      },
+      {
+        "id": "even_if_refusal",
+        "title": "will not accept ... even if ...",
+        "source": "They will not accept the pub even if he gives it away.",
+        "focus_zh": "even if 表示“即使”。will not accept...even if... 可以把拒绝写得很强：不是条件不够好，而是再好也不要。",
+        "task_zh": "仿写一句：写某人不会接受某个东西、邀请、建议或房间，即使对方免费提供或给出很好的条件。",
+        "must_include": [
+          "will not accept",
+          "even if"
+        ],
+        "min_words": 12,
+        "sample": "The team will not accept the old room even if the school gives it to them for free.",
+        "tip_zh": "even if 后面接假设条件，主句写结果：即使这样，结果仍然不变。"
+      }
+    ]
+  }
+}
