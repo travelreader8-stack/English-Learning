@@ -35,48 +35,48 @@
         "id": "common_causes",
         "question": "Which common causes did they check first?",
         "options": [
-          "Rain and a carelessly closed bottle.",
-          "A broken window and a lost key.",
           "A dirty desk and a noisy class.",
+          "A broken window and a lost key.",
+          "Rain and a carelessly closed bottle.",
           "A heavy book and a torn pocket."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "短文说 wet bags are often caused by rain or by bottles which students carelessly close，他们先检查了下雨和水瓶没关好这两个常见原因。"
       },
       {
         "id": "missing_evidence",
         "question": "What evidence could they not find?",
         "options": [
-          "Water on the floor.",
           "A dry lunch box.",
+          "Water on the floor.",
           "An art paper in the pocket.",
           "A cold juice box."
         ],
-        "answer_index": 0,
+        "answer_index": 1,
         "explanation_zh": "他们 were not able to find any water on the floor，所以没有找到地上有水这个证据。"
       },
       {
         "id": "unusual_cause",
         "question": "What unusual cause did Leo discover?",
         "options": [
-          "Drops from a cold juice box had made one corner of the paper wet.",
+          "The lunch box had spilled soup all over the books.",
           "Rain had fallen through a hole in the roof.",
           "A classmate had poured water into the backpack.",
-          "The lunch box had spilled soup all over the books."
+          "Drops from a cold juice box had made one corner of the paper wet."
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "explanation_zh": "真正原因不是雨或水瓶，而是 a cold juice box 旁边的水珠把纸的一角弄湿了。"
       },
       {
         "id": "logical_solution",
         "question": "How did Leo solve the mystery logically?",
         "options": [
-          "He checked common causes, noticed the wet corner, and matched it with the juice box.",
-          "He guessed the answer before examining anything.",
           "He threw the wet paper away and stopped asking questions.",
+          "He guessed the answer before examining anything.",
+          "He checked common causes, noticed the wet corner, and matched it with the juice box.",
           "He blamed the weather because wet bags are always caused by rain."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "Leo 先排除常见原因，再注意到 paper 只有一个角湿，最后把这个 evidence 和 cold juice box 对上，所以是按逻辑解谜。"
       }
     ]
