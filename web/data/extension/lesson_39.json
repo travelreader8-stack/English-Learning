@@ -1,0 +1,156 @@
+{
+  "lesson_id": 39,
+  "reading": {
+    "title": "Calling About My Own Result",
+    "intro_zh": "这篇短文不复述 John Gilbert 的医院电话反转，而是换到一个现代学校办公室电话：学生礼貌地询问自己的活动申请结果，先说明身份，再用 indirect questions 提问，同时尊重隐私边界。",
+    "word_bank": [
+      "school office",
+      "result",
+      "application",
+      "successful",
+      "refuse",
+      "telephone",
+      "office line",
+      "inquire",
+      "whether",
+      "be allowed to",
+      "private"
+    ],
+    "passage": [
+      "On Monday afternoon, Nina called the school office because the music club result had not appeared in the app. She wanted to know whether her application had been successful, but she refused to ask about anyone else's private information. When the secretary answered the office line, Nina introduced herself clearly. \"My name is Nina Chen, from Class Two. I am inquiring about my own music club result.\" The secretary said she had to check Nina's student number first, because the information was private. Nina understood and waited. After the check, the secretary told her that her application had been successful and that she would be allowed to join the first meeting on Friday. Nina laughed softly. \"So the mystery was about me, and I was allowed to ask because I was myself.\""
+    ],
+    "questions": [
+      {
+        "id": "why_call",
+        "question": "Why did Nina call the school office?",
+        "options": [
+          "To ask whether her music club application had been successful.",
+          "To find out another student's private club result.",
+          "To complain that the school app was too difficult.",
+          "To ask the secretary to join the music club."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "开头说 Nina called the school office，因为 music club result 还没有出现在 app 里，她想知道自己的申请是否成功。"
+      },
+      {
+        "id": "identity",
+        "question": "How did Nina identify herself on the phone?",
+        "options": [
+          "She pretended to be the secretary.",
+          "She gave her name and class clearly.",
+          "She used another student's number.",
+          "She refused to say who she was."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "Nina 说 My name is Nina Chen, from Class Two，先清楚说明自己是谁。"
+      },
+      {
+        "id": "indirect_question",
+        "question": "Which indirect question idea did Nina need?",
+        "options": [
+          "Whether her application had been successful.",
+          "Why the secretary liked music.",
+          "Where Doctor Millington worked.",
+          "Whether another student had failed."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文中的核心问题是 whether her application had been successful，对应本课的 indirect yes/no question。"
+      },
+      {
+        "id": "privacy_boundary",
+        "question": "What private-information rule did Nina respect?",
+        "options": [
+          "She asked about every club member.",
+          "She refused to give her student number.",
+          "She asked only about her own result and waited for an identity check.",
+          "She told the secretary not to check anything."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "Nina 只询问自己的结果，并接受 student number check，因为这类信息是 private。"
+      },
+      {
+        "id": "not_a_trick",
+        "question": "How is Nina's call different from tricking someone?",
+        "options": [
+          "She hides her name until the end.",
+          "She asks about another patient.",
+          "She refuses to answer any questions.",
+          "She identifies herself and asks about her own information."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "这篇短文保留“想知道结果”的轻松悬念，但做法是现代、礼貌、合规的：说明身份，只问自己的信息。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓 Lesson 39 的五个电话询问句式：用 asked...whether...问结果，用 refused to...写拒绝，用 When he was alone,...写时间条件，用 was inquiring about...说明正式来意，再用 would be allowed to...询问许可。",
+    "patterns": [
+      {
+        "id": "asked_whether_successful",
+        "title": "asked ... whether ...",
+        "source": "He asked his doctor whether his operation had been successful.",
+        "focus_zh": "whether 引出间接 yes/no question，适合礼貌地询问一个结果是否成功或完成。",
+        "task_zh": "仿写一句：写某人询问老师、办公室或工作人员，自己的申请、测试或项目是否成功。",
+        "must_include": [
+          "asked",
+          "whether"
+        ],
+        "min_words": 10,
+        "sample": "Nina asked the secretary whether her application had been successful.",
+        "tip_zh": "asked 后面可以接人，再用 whether 引出真正的问题；注意 whether 后面用陈述语序。"
+      },
+      {
+        "id": "refused_to_action",
+        "title": "refused to ...",
+        "source": "The doctor refused to do so.",
+        "focus_zh": "refused to 表示明确拒绝做某事，语气比 did not 更坚定。",
+        "task_zh": "仿写一句：写老师、工作人员或学生礼貌但坚定地拒绝泄露私人信息或做不合适的事。",
+        "must_include": [
+          "refused to"
+        ],
+        "min_words": 9,
+        "sample": "The teacher refused to share another student's private result.",
+        "tip_zh": "refused to 后面接动词原形；如果是隐私场景，可以补出 why 或具体边界。"
+      },
+      {
+        "id": "when_he_was_alone",
+        "title": "When he was alone, ...",
+        "source": "When he was alone, he telephoned the hospital exchange.",
+        "focus_zh": "When 引导时间从句，先交代某个时刻或条件，再写主动作。",
+        "task_zh": "仿写一句：用本结构写一个人独自一人时，打电话、写邮件或认真询问信息。",
+        "must_include": [
+          "When he was alone"
+        ],
+        "min_words": 10,
+        "sample": "When he was alone, he called the school office politely.",
+        "tip_zh": "逗号前是时间背景，逗号后是主动作；不要把主句动词漏掉。"
+      },
+      {
+        "id": "was_inquiring_about",
+        "title": "was inquiring about ...",
+        "source": "He said he was inquiring about a certain patient.",
+        "focus_zh": "was inquiring about 是正式电话或办公场景里说明来意的表达，比 asking about 更正式。",
+        "task_zh": "仿写一句：写来电者说明自己正在询问自己的结果、预约、申请或活动状态。",
+        "must_include": [
+          "was inquiring about"
+        ],
+        "min_words": 9,
+        "sample": "She said she was inquiring about her own club result.",
+        "tip_zh": "about 后面接要询问的对象；现代隐私场景里最好加 own，说明只问自己的信息。"
+      },
+      {
+        "id": "would_be_allowed_to",
+        "title": "would be allowed to ...",
+        "source": "He asked when Mr. Gilbert would be allowed to go home.",
+        "focus_zh": "would be allowed to 用在间接问题里，表示“将被允许做某事”。",
+        "task_zh": "仿写一句：写某人询问自己什么时候可以被允许参加活动、回家、进入教室或领取结果。",
+        "must_include": [
+          "would be allowed to"
+        ],
+        "min_words": 11,
+        "sample": "Nina asked when she would be allowed to join the first meeting.",
+        "tip_zh": "when 后面用陈述语序：she would be allowed to，不要写成 would she be allowed to。"
+      }
+    ]
+  }
+}
