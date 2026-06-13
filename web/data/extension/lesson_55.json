@@ -1,0 +1,156 @@
+{
+  "lesson_id": 55,
+  "reading": {
+    "title": "The Old Box Search",
+    "intro_zh": "这篇短文把 Lesson 55 的“期待很大、结果很小、仍然有希望”换到安全的学校历史社团场景：学生发现旧盒子里的线索，带着探测工具去找可能的 treasure，最后只找到一个 almost worthless 的小物件。重点练习 treasure、detect、buried、signal、armed with、examine、showed that、in spite of 等表达。",
+    "word_bank": [
+      "treasure",
+      "detect",
+      "buried",
+      "signal",
+      "display",
+      "armed with",
+      "examine",
+      "showed that",
+      "almost worthless",
+      "in spite of"
+    ],
+    "passage": [
+      "During a history-club cleanup, Nora opened an old box in a school cupboard. Inside was a faded note. It said that a prize had been buried near the old garden bench for a future display. Armed with a small metal detector and the teacher's permission, the club formed a careful search party. The detector gave a clear signal beside the bench, so Nora began to examine the soil while the others watched excitedly. The signal showed that something metal was under the ground. After ten minutes, they found a rusty badge from an old sports day. It was almost worthless, not the treasure they had imagined. In spite of this, the club kept the badge for the display and believed another clue might lead to something of value later."
+    ],
+    "questions": [
+      {
+        "id": "hoped_to_find",
+        "question": "What did the history club hope to find?",
+        "options": [
+          "A buried prize that could become part of a display.",
+          "A new garden bench for the school yard.",
+          "A map to a cave near the sea.",
+          "A box of sports uniforms."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "旧纸条说有一个 prize had been buried near the old garden bench for a future display，所以他们期待找到能展出的奖品。"
+      },
+      {
+        "id": "exciting_signal",
+        "question": "What made the club excited beside the bench?",
+        "options": [
+          "Nora found a fresh flower under the bench.",
+          "The teacher promised them a day off.",
+          "The metal detector gave a clear signal.",
+          "The old box suddenly opened by itself."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "短文说 The detector gave a clear signal beside the bench，这个 signal 让大家觉得地下可能有东西。"
+      },
+      {
+        "id": "actual_find",
+        "question": "What did they actually find after ten minutes?",
+        "options": [
+          "A valuable ring for the display.",
+          "A rusty badge from an old sports day.",
+          "A heavy chest full of coins.",
+          "A second metal detector."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结果不是想象中的宝物，而是 a rusty badge from an old sports day。"
+      },
+      {
+        "id": "disappointing_result",
+        "question": "Why was the result disappointing?",
+        "options": [
+          "The badge was almost worthless, not the treasure they had imagined.",
+          "The teacher asked them to stop the club forever.",
+          "The detector could not find any signal at all.",
+          "The garden bench was too heavy to move."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "关键落差在 almost worthless：他们想象的是 treasure，找到的却是几乎不值钱的旧徽章。"
+      },
+      {
+        "id": "hope_remains",
+        "question": "Why did hope remain in spite of the small result?",
+        "options": [
+          "The club believed another clue might lead to something of value later.",
+          "The rusty badge became expensive at once.",
+          "Nora decided to hide the note again.",
+          "The teacher said the search was only a game with no clues."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾说 they believed another clue might lead to something of value later，所以小结果之后还有希望。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 55 的寻宝反讽句式：用 Dreams of ... almost came true 写期待差点成真，用 called...has been invented 写被命名的新发明，用 has been used to detect... 写工具用途，用 Armed with... 写带着准备出发，最后用 In spite of this,... 写结果不理想但希望仍在。",
+    "patterns": [
+      {
+        "id": "dreams_almost_came_true",
+        "title": "Dreams of ... almost came true",
+        "source": "Dreams of finding lost treasure almost came true recently.",
+        "focus_zh": "这个句式把一个长期期待写成“差点真的发生”，很适合铺垫寻宝、比赛、发明或发现故事。",
+        "task_zh": "仿写一句：写某个梦想、计划或期待差点成真，但先不要直接说最后结果。",
+        "must_include": [
+          "Dreams of",
+          "almost came true"
+        ],
+        "min_words": 10,
+        "sample": "Dreams of finding the old school prize almost came true during the cleanup.",
+        "tip_zh": "Dreams of 后面接名词或动词 -ing；almost came true 放在后半句制造期待。"
+      },
+      {
+        "id": "called_has_been_invented",
+        "title": "called ... has been invented",
+        "source": "A new machine called 'The Revealer' has been invented.",
+        "focus_zh": "called... 用来给物品或工具命名；has been invented 是现在完成时被动语态，强调“已经被发明出来”。",
+        "task_zh": "仿写一句：写一台有名字的新工具或新机器已经被发明出来。",
+        "must_include": [
+          "called",
+          "has been invented"
+        ],
+        "min_words": 10,
+        "sample": "A small school tool called the Finder has been invented for lost keys.",
+        "tip_zh": "called 后面直接接名字；has been invented 前面的主语应是工具、机器或方法。"
+      },
+      {
+        "id": "used_to_detect",
+        "title": "has been used to detect ...",
+        "source": "It has been used to detect gold which has been buried in the ground.",
+        "focus_zh": "has been used to detect... 能说明一个工具被用来发现看不见或藏起来的东西，和本课机器逻辑直接相关。",
+        "task_zh": "仿写一句：写一种工具被用来探测、发现或检查隐藏的东西。",
+        "must_include": [
+          "has been used to detect"
+        ],
+        "min_words": 10,
+        "sample": "The small detector has been used to detect metal under the garden soil.",
+        "tip_zh": "detect 后面接被探测的东西，如 metal, heat, movement, sound；不要把 detect 写成普通的 see。"
+      },
+      {
+        "id": "armed_with",
+        "title": "Armed with ..., ...",
+        "source": "Armed with the new machine, a search party went into the cave...",
+        "focus_zh": "Armed with 在本课里不是“拿武器”，而是“带着某种装备或准备”。它适合放在句首，先写准备，再写行动。",
+        "task_zh": "仿写一句：写某人带着工具、线索或许可，开始一次安全的搜索或调查。",
+        "must_include": [
+          "Armed with"
+        ],
+        "min_words": 11,
+        "sample": "Armed with a note and a small detector, Nora examined the garden carefully.",
+        "tip_zh": "Armed with..., 后面要接完整句子；这里重点是 equipped with，不要写成危险动作。"
+      },
+      {
+        "id": "in_spite_of_this",
+        "title": "In spite of this, ...",
+        "source": "In spite of this, many people are confident...",
+        "focus_zh": "In spite of this 把“结果让人失望”和“仍然有信心”连起来，是本课最后反转的核心连接词。",
+        "task_zh": "仿写一句：先承认一个小失败或失望结果，再写人们仍然相信、继续寻找或保持希望。",
+        "must_include": [
+          "In spite of this"
+        ],
+        "min_words": 11,
+        "sample": "In spite of this, the club believed another clue might reveal something valuable.",
+        "tip_zh": "逗号后面写新的态度或行动；不要再加 although，直接写 In spite of this, 主语 + 动词。"
+      }
+    ]
+  }
+}
