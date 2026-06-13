@@ -1,0 +1,156 @@
+{
+  "lesson_id": 51,
+  "reading": {
+    "title": "A Reward for Practice",
+    "intro_zh": "这篇短文把 Lesson 51 的“严格规则、诱惑和借口”换成练琴计划：Leo 写出一张 forbidden list，却把自己喜欢的小休息全禁掉了。重点练习 strict、forbidden、include、pay a visit、hurriedly hid、obvious、embarrassed、guiltily、reward 和 occasionally。",
+    "word_bank": [
+      "strict",
+      "forbidden",
+      "include",
+      "pay a visit",
+      "hurriedly hid",
+      "obvious",
+      "embarrassed",
+      "guiltily",
+      "reward",
+      "occasionally"
+    ],
+    "passage": [
+      "After the school concert, Leo decided to follow a strict practice plan. First of all, he wrote out a list of things which were forbidden during practice time: phone games, short videos, comic books, and snacks on the piano bench. The list included most of the little breaks he loved. On Friday, his cousin paid him a visit and heard the music stop suddenly. Leo hurriedly hid a game controller under his music book. It was obvious that he was embarrassed. When his cousin asked what he was doing, Leo smiled guiltily. He said his plan was so strict that he had to reward himself occasionally. His cousin laughed kindly and helped him make a better plan: twenty minutes of practice first, then a short break without hiding anything."
+    ],
+    "questions": [
+      {
+        "id": "practice_plan",
+        "question": "What plan did Leo decide to follow?",
+        "options": [
+          "A strict practice plan after the school concert.",
+          "A plan to stop playing music forever.",
+          "A plan to visit his cousin every Friday.",
+          "A plan to hide all his music books."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文开头说 Leo decided to follow a strict practice plan，所以他决定执行一个严格的练习计划。"
+      },
+      {
+        "id": "forbidden_list",
+        "question": "What did Leo put on his forbidden list?",
+        "options": [
+          "Only difficult songs for the concert.",
+          "Phone games, short videos, comic books, and snacks on the piano bench.",
+          "His cousin's books and school bag.",
+          "All visits from family members."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "他的 forbidden list 包括 phone games、short videos、comic books 和 snacks on the piano bench，都是练习时不许碰的小诱惑。"
+      },
+      {
+        "id": "hidden_controller",
+        "question": "What did Leo hurriedly hide when his cousin arrived?",
+        "options": [
+          "A bag of sweets under the desk.",
+          "A concert ticket inside his pocket.",
+          "A game controller under his music book.",
+          "A piano bench behind the door."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "短文写道 Leo hurriedly hid a game controller under his music book，他慌忙藏起来的是游戏手柄。"
+      },
+      {
+        "id": "embarrassed_reason",
+        "question": "Why was Leo embarrassed?",
+        "options": [
+          "He forgot how to play the piano at all.",
+          "He knew he was breaking his own strict practice rule.",
+          "His cousin laughed cruelly at his music.",
+          "The school concert had been cancelled."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "他把游戏手柄藏起来，又 smiled guiltily，说明他知道自己正在违背自己定下的严格规则，所以很尴尬。"
+      },
+      {
+        "id": "better_plan",
+        "question": "Why may an over-strict plan lead to a comic reward?",
+        "options": [
+          "Because it can forbid every small break someone enjoys, so the person starts looking for an excuse.",
+          "Because strict plans always make people better at once.",
+          "Because rewards are never allowed in any practice plan.",
+          "Because cousins should never pay anyone a visit."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "Leo 的规则把喜欢的小休息几乎全禁掉了，于是他用 reward himself occasionally 来找借口；这正对应 Lesson 51 的反讽逻辑。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 51 的“严格规则和内疚反应”句式：用 hurriedly hid...under... 写慌忙藏东西，用 First of all 写计划第一步，用 which were forbidden 写禁掉的内容，用 It was obvious that 写明显情绪，最后用 so strict that 写规则太严导致的结果。",
+    "patterns": [
+      {
+        "id": "hurriedly_hid_under",
+        "title": "hurriedly hid ... under ...",
+        "source": "He led me into his room and hurriedly hid a large parcel under his desk.",
+        "focus_zh": "这个句式用一个快速动作表现心虚或尴尬；hurriedly 说明动作很急，under 交代藏到哪里。",
+        "task_zh": "仿写一句：写某人因为心虚或不好意思，慌忙把一样东西藏到另一样东西下面。",
+        "must_include": [
+          "hurriedly hid",
+          "under"
+        ],
+        "min_words": 10,
+        "sample": "Leo hurriedly hid the game controller under his music book.",
+        "tip_zh": "先写人，再写 hurriedly hid + 物品 + under + 地点；不要把 hurriedly 放到句尾。"
+      },
+      {
+        "id": "first_of_all_step",
+        "title": "First of all, ...",
+        "source": "First of all, he wrote out a long list of all the foods which were forbidden.",
+        "focus_zh": "First of all 用来写计划的第一步，后面接一个完整动作，让安排更有条理。",
+        "task_zh": "仿写一句：写某人开始一个学习、练习或整理计划时，第一步做了什么。",
+        "must_include": [
+          "First of all"
+        ],
+        "min_words": 9,
+        "sample": "First of all, I wrote out a practice plan for the week.",
+        "tip_zh": "First of all 后面要加逗号，再写主语和动词。"
+      },
+      {
+        "id": "list_which_were_forbidden",
+        "title": "a list of ... which were forbidden",
+        "source": "He wrote out a long list of all the foods which were forbidden.",
+        "focus_zh": "which were forbidden 是关系从句，用来说明 list 里的东西是不被允许的。",
+        "task_zh": "仿写一句：写一张清单，说明上面列的是某段时间里不允许做或不允许碰的东西。",
+        "must_include": [
+          "a list of",
+          "which were forbidden"
+        ],
+        "min_words": 12,
+        "sample": "She wrote out a list of games which were forbidden during homework time.",
+        "tip_zh": "which were forbidden 要紧跟它修饰的复数名词，比如 games, snacks, websites。"
+      },
+      {
+        "id": "obvious_that_feeling",
+        "title": "It was obvious that ...",
+        "source": "It was obvious that he was very embarrassed.",
+        "focus_zh": "It was obvious that 用来写“别人一眼就看得出来”的事实或情绪。",
+        "task_zh": "仿写一句：写某人的紧张、尴尬、骄傲或开心非常明显。",
+        "must_include": [
+          "It was obvious that"
+        ],
+        "min_words": 9,
+        "sample": "It was obvious that Leo was embarrassed when the music stopped.",
+        "tip_zh": "that 后面接完整句子；如果写情绪，常用 nervous, embarrassed, proud, excited。"
+      },
+      {
+        "id": "so_strict_that_result",
+        "title": "so strict that ...",
+        "source": "His diet was so strict that he had to reward himself occasionally.",
+        "focus_zh": "so strict that 表示“严格到产生某个结果”，特别适合写规则过严带来的反应或借口。",
+        "task_zh": "仿写一句：写一个学习、练习或作息计划太严格，以至于某人想给自己一点奖励或休息。",
+        "must_include": [
+          "so strict that"
+        ],
+        "min_words": 11,
+        "sample": "My practice plan was so strict that I needed a short break after dinner.",
+        "tip_zh": "so strict that 中间不要拆开；that 后面写结果，可以是 needed, had to, wanted to。"
+      }
+    ]
+  }
+}
