@@ -1,0 +1,156 @@
+{
+  "lesson_id": 45,
+  "reading": {
+    "title": "The Club Envelope",
+    "intro_zh": "这篇短文把“良心分期”搬到了校园：象棋社装着活动经费的信封不见了，钱被人匿名地、一点一点放回来，还附上越来越“诚实”的小纸条。它和课文里的村庄、屠夫、邮局完全不同，但道德主线一样：拖着不还、只还一部分、最后才问心无愧。",
+    "word_bank": [
+      "envelope",
+      "club money",
+      "must have been",
+      "returned",
+      "wrapped up",
+      "contained",
+      "note",
+      "in time",
+      "honest",
+      "clear conscience"
+    ],
+    "passage": [
+      "After the school fair, the chess club could not find its envelope of club money. The club had saved it for a weekend trip, so a large sum of money had been lost. Because only its own members used the club room, the teacher was sure the envelope must have been found by a student. For two weeks, though, it was not returned. Then, one morning, part of the money appeared on the club desk. It had been wrapped up in paper and contained a short note: \"I am only half a thief.\" A week later, more money came back with another note: \"Almost honest now.\" In time, every coin was returned, and the last note said, \"Now I have a clear conscience.\" But the teacher reminded the club that honest people return everything at once, not bit by bit."
+    ],
+    "questions": [
+      {
+        "id": "what_lost",
+        "question": "What had the chess club lost, and why did it matter?",
+        "options": [
+          "A set of chess boards borrowed from the school library.",
+          "A list with the names of all the club members.",
+          "Its envelope of club money, which had been saved for a weekend trip.",
+          "A small prize the club had won at the school fair."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "开头说 the chess club could not find its envelope of club money，而这笔钱是 saved...for a weekend trip，所以丢的是攒着去旅行的活动经费，影响很大。"
+      },
+      {
+        "id": "why_a_student",
+        "question": "Why was the teacher sure the envelope had been found by a student?",
+        "options": [
+          "Because only the club's own members used the club room.",
+          "Because a student had already said sorry to the teacher.",
+          "Because someone had seen the envelope fall into the river.",
+          "Because the school fair was held far outside the town."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 Because only its own members used the club room，老师据此推断信封一定是被某个学生捡到的（must have been found by a student）。"
+      },
+      {
+        "id": "returned_in_stages",
+        "question": "How did the money come back?",
+        "options": [
+          "All at once, on the day after the fair.",
+          "It was mailed back inside a new envelope from a bank.",
+          "The teacher found it all under the club desk by accident.",
+          "A little at a time, over several weeks, with notes."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "钱不是一次还清：先是 part of the money 出现，A week later more money came back，最后 In time, every coin was returned，分几次、还带着 note，是分阶段归还。"
+      },
+      {
+        "id": "what_notes_showed",
+        "question": "What did the notes show about the person who returned the money?",
+        "options": [
+          "That the person blamed another student for taking it.",
+          "That the person slowly admitted being less of a thief and more honest.",
+          "That the person wanted a reward for giving it back.",
+          "That the person had never really taken the money at all."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "三张 note 从 \"I am only half a thief\" 到 \"Almost honest now\"，再到 \"Now I have a clear conscience\"，显示这个人一点点承认自己不再那么像小偷、越来越诚实。"
+      },
+      {
+        "id": "ethical_lesson",
+        "question": "What did the teacher want the club to learn?",
+        "options": [
+          "That winning the fair matters more than the money.",
+          "That it is fine to keep money if you feel sorry later.",
+          "That honest people return everything at once, not bit by bit.",
+          "That the club should stop keeping any money at all."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结尾老师提醒大家 honest people return everything at once, not bit by bit，意思是诚实就要一次、完整地归还，而不是像分期那样一点点还。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 45 的“匿名归还”句式：用 had been lost 写之前已经丢了，用 while taking 写丢东西时正在做的事，用 must have been found 对过去做强推测，用 had been wrapped up...and contained... 描写被送回的包裹，最后用 In time...was paid back 写一笔钱终于被一点点还清。",
+    "patterns": [
+      {
+        "id": "had_been_lost",
+        "title": "a large sum of money had been lost",
+        "source": "A large sum of money had been lost.",
+        "focus_zh": "had been lost 是被动 + 过去完成，强调“在那之前钱已经丢了”，重点在丢失这件事，而不是谁弄丢的。",
+        "task_zh": "仿写一句：写一笔钱、一件东西或一份文件在某件事发生时已经丢了，用 had been lost 突出丢失的结果。",
+        "must_include": [
+          "had been lost"
+        ],
+        "min_words": 10,
+        "sample": "By the end of the trip, a large sum of money had been lost.",
+        "tip_zh": "had been + 过去分词 是被动；它发生在另一个过去时间点之前，所以用 had。"
+      },
+      {
+        "id": "while_taking",
+        "title": "while taking ...",
+        "source": "Sam Benton had lost his wallet while taking his savings to the post office.",
+        "focus_zh": "while taking... 表示“正在做某事的时候”，用来交代事情发生时的背景动作。",
+        "task_zh": "仿写一句：写某人在做某件事的过程中（while taking...）丢了、弄坏了或忘了某样东西。",
+        "must_include": [
+          "while taking"
+        ],
+        "min_words": 10,
+        "sample": "She lost her phone while taking the heavy box to the office.",
+        "tip_zh": "while taking 后面接正在进行的背景动作，主句再写真正发生的事。"
+      },
+      {
+        "id": "must_have_been_found",
+        "title": "must have been found by ...",
+        "source": "The wallet must have been found by one of the villagers.",
+        "focus_zh": "must have been found 是对过去的强推测：说话人没看见，但很确定某样东西一定被某人找到了。",
+        "task_zh": "仿写一句：写你没亲眼看见、但很肯定某样东西过去一定被某个人找到或捡到了。",
+        "must_include": [
+          "must have been found"
+        ],
+        "min_words": 10,
+        "sample": "The keys are gone from the desk, so they must have been found by someone.",
+        "tip_zh": "must have been + 过去分词 = 对过去的强烈推测，比 maybe 更肯定。"
+      },
+      {
+        "id": "wrapped_up_and_contained",
+        "title": "It had been wrapped up ... and contained ...",
+        "source": "It had been wrapped up in newspaper and it contained half the money.",
+        "focus_zh": "用 had been wrapped up 写它被包起来，用 contained 写里面装着什么，一起描述一件被送回来的东西。",
+        "task_zh": "仿写一句：描写一个被送回或被发现的包裹、盒子或信封——它被什么包着，里面装着什么。",
+        "must_include": [
+          "had been wrapped up",
+          "contained"
+        ],
+        "min_words": 12,
+        "sample": "The parcel had been wrapped up in old paper and contained half the club money.",
+        "tip_zh": "had been wrapped up 说“被包好了”，contained 说“里面有”，两个动词分工不同。"
+      },
+      {
+        "id": "in_time_paid_back",
+        "title": "In time, ... was paid back",
+        "source": "In time, all Sam's money was paid back in this way.",
+        "focus_zh": "In time 表示“经过一段时间，终于”，was paid back 是被动，一起写出一笔钱最终被还清。",
+        "task_zh": "仿写一句：写一笔钱、一份债或一件东西经过一段时间后，终于被一点点还清或归还。",
+        "must_include": [
+          "In time",
+          "was paid back"
+        ],
+        "min_words": 12,
+        "sample": "In time, every coin of the club money was paid back to us.",
+        "tip_zh": "In time 不是“准时”，而是“最终、过了一段时间以后”；was paid back 强调钱被还回来的结果。"
+      }
+    ]
+  }
+}
