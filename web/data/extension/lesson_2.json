@@ -47,12 +47,12 @@
         "id": "wrong_time_activity",
         "question": "What was Leo doing at the wrong time?",
         "options": [
-          "He was making breakfast at lunchtime.",
           "He was going to school on Sunday.",
           "He was buying noodles for breakfast.",
+          "He was making breakfast at lunchtime.",
           "He was waiting for a train."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "他以为是早晨，正在 make breakfast，但真实时间已经是 lunchtime。"
       },
       {
@@ -60,11 +60,11 @@
         "question": "How did Leo's sister react?",
         "options": [
           "She became angry and left at once.",
-          "She laughed and pointed to the clock.",
           "She repeated his words and went back to bed.",
-          "She closed the curtains again."
+          "She closed the curtains again.",
+          "She laughed and pointed to the clock."
         ],
-        "answer_index": 1,
+        "answer_index": 3,
         "explanation_zh": "姐姐的反应是 laughed and pointed to the clock，语气是轻松好笑的。"
       },
       {
