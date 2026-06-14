@@ -9,7 +9,7 @@
       "url": "https://science.nasa.gov/mission/hubble/observatory/design/optics/hubbles-mirror-flaw/"
     },
     "passage": [
-      "When the Hubble Space Telescope reached orbit in April 1990, astronomers expected it to deliver the sharpest views of the cosmos ever obtained. Within weeks, however, that optimism collapsed. The images streaming back to Earth were strangely fuzzy, surrounded by faint halos that no amount of focusing could remove. By late June, NASA had confirmed a humiliating diagnosis: the telescope's primary mirror, ground to extraordinary precision, was nonetheless subtly defective.",
+      "When the Hubble Space Telescope reached orbit in April 1990, astronomers expected it to deliver the sharpest views of the cosmos ever obtained. Within weeks, however, that optimism began to fade: the images streaming back to Earth were strangely fuzzy, surrounded by faint halos that no amount of focusing could remove. Only after weeks of careful analysis, in late June, did NASA confirm a humiliating diagnosis: the telescope's primary mirror, ground to extraordinary precision, was nonetheless subtly defective.",
       "The flaw was a textbook case of spherical aberration. The outer edge of the mirror had been polished too flat, deviating from the intended curve by an amount roughly ten times greater than the design allowed. Because light striking the rim came to a focus at a different point from light near the centre, the instrument possessed several competing focal points rather than one. Investigators eventually traced the error to a testing device, the null corrector, that had been assembled incorrectly years earlier, quietly misleading the engineers who polished the glass.",
       "Rather than abandon the observatory, NASA engineered an ingenious remedy. In December 1993, a shuttle crew installed corrective optics, including the instrument known as COSTAR, whose tiny mirrors functioned essentially like a pair of spectacles, bending the distorted light back into proper alignment. The intervention succeeded brilliantly. Almost overnight, Hubble began returning the crisp, luminous images that have since transformed our understanding of the universe."
     ],
@@ -72,7 +72,7 @@
           "very expensive"
         ],
         "answer_index": 0,
-        "explanation_zh": "humiliating 指令人蒙羞、非常尴尬的。文中说 NASA 不得不确认这一“humiliating diagnosis”，即一面极其精密打磨的镜子却存在缺陷，这对团队来说是令人难堪的，故意为 deeply embarrassing。"
+        "explanation_zh": "humiliating 指令人蒙羞、非常尴尬的。文中说 NASA 不得不确认这一“humiliating diagnosis”，即一面极其精密打磨的镜子却存在缺陷，这对团队来说是令人难堪的，故应为 deeply embarrassing。"
       }
     ]
   },
