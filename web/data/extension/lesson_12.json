@@ -1,101 +1,96 @@
 {
   "lesson_id": 12,
   "reading": {
-    "title": "Good Luck at the Station",
-    "intro_zh": "这篇短文不复述 Captain Alison 的海港启航，而是换到车站送别同学去参加机器人比赛：大家提前集合，说 goodbye 和 good luck，并为一个重要挑战感到 proud。重点回收 will、set out、take part in、plenty of time、will be away 和 proud。",
-    "word_bank": [
-      "good luck",
-      "captain",
-      "set out",
-      "harbour",
-      "robotics contest",
-      "proud",
-      "plenty of time",
-      "will be away",
-      "take part in",
-      "tomorrow"
-    ],
+    "title": "The Everest of the Seas",
+    "intro_zh": "本文承接课文的“横渡大西洋送别”主题，但不复述课文故事，而是介绍真实存在的旺代环球帆船赛（Vendée Globe）——一项单人、不间断、无外援的环球航行赛事。内容改编自旺代环球赛官方网站。",
+    "source": {
+      "title": "What is the Vendée Globe?",
+      "publisher": "Vendée Globe (Official Website)",
+      "url": "https://www.vendeeglobe.org/en/what-vendee-globe"
+    },
     "passage": [
-      "Tomorrow, our classmate Mia will take part in an important robotics contest in another city. She is the captain of the school team, so everyone wants to send her off. We will meet her at the railway station early in the morning. It is not a harbour, but it feels like one: a safe place before a long journey. Mia will set out at seven o'clock, so we will have plenty of time to check her robot box, take photos, and say goodbye. She will be away for ten days. Before she gets on the train, our teacher will say, \"Good luck, Mia!\" I feel proud of her because she has worked hard and is ready for a real challenge."
+      "Every four years, a small fleet of skippers gathers at the French port of Les Sables d'Olonne for what is widely regarded as the most demanding contest in sailing. Founded in 1989 by the navigator Philippe Jeantot, the Vendée Globe sends each competitor around the planet entirely alone, without ever stopping in a harbour and without accepting any outside assistance. The route stretches for roughly 45,000 kilometres and forces sailors to round the three great capes—Good Hope, Leeuwin and the notoriously treacherous Cape Horn—where mountainous seas and savage weather batter both vessel and nerve.",
+      "The boats themselves are extraordinary machines. Built to the strict IMOCA standard, these monohulls measure over eighteen metres and can surge across the water at more than thirty knots, yet a single exhausted person must navigate, repair and steer them for weeks on end. Such isolation exacts a heavy toll: of the 240 entries across ten editions, fewer than 150 have ever reached the finish line, which explains why the race has earned the formidable nickname “the Everest of the Seas.”",
+      "What draws competitors back, despite the obvious peril, is the rare combination of solitude and self-reliance the voyage demands. The fastest skippers now complete the loop in well under seventy days, a feat that would have seemed inconceivable to the pioneers of 1989. Yet speed is not the only measure of success. For many sailors, simply crossing the line—battered, sleep-deprived, but unbroken—represents a personal triumph that no record can capture."
     ],
     "questions": [
       {
-        "id": "who_is_leaving",
-        "question": "Who is leaving, and what challenge will she face?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "Mia is leaving to take part in an important robotics contest.",
-          "Mia is leaving to sail across the Atlantic.",
-          "The teacher is leaving to visit a harbour.",
-          "The narrator is leaving for a holiday."
+          "How to build a fast IMOCA racing boat from scratch.",
+          "A famous solo, non-stop sailing race and why it is so difficult.",
+          "The history of the French port of Les Sables d'Olonne.",
+          "The dangers of sailing near Cape Horn in winter."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "全文围绕旺代环球赛这项单人、不间断的帆船赛展开，介绍其规则、航线、船只与极高难度，故主旨是“一项著名的单人不间断帆船赛及其为何如此艰难”。"
+      },
+      {
+        "id": "detail_capes",
+        "question": "According to the passage, which three capes must competitors round?",
+        "options": [
+          "Good Hope, Leeuwin and Cape Horn.",
+          "Good Hope, Cape Cod and Cape Horn.",
+          "Leeuwin, Cape Horn and Land's End.",
+          "Cape Horn, Good Hope and Gibraltar."
         ],
         "answer_index": 0,
-        "explanation_zh": "开头说明 Mia will take part in an important robotics contest in another city。"
+        "explanation_zh": "文中明确说航线要绕过三大海角：Good Hope、Leeuwin 和 Cape Horn。"
       },
       {
-        "id": "meeting_place",
-        "question": "Where will people meet to say goodbye?",
+        "id": "cause_effect",
+        "question": "Why has the race earned the nickname “the Everest of the Seas”?",
         "options": [
-          "At the school library.",
-          "At the railway station.",
-          "At a small harbour.",
-          "At Mia's home."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "短文说 We will meet her at the railway station early in the morning。"
-      },
-      {
-        "id": "set_out_time",
-        "question": "When will Mia set out?",
-        "options": [
-          "At six o'clock.",
-          "At seven o'clock.",
-          "At eight o'clock.",
-          "At ten o'clock."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "文中直接说 Mia will set out at seven o'clock。"
-      },
-      {
-        "id": "away_duration",
-        "question": "How long will Mia be away?",
-        "options": [
-          "For two months.",
-          "For one night.",
-          "For ten days.",
-          "For a whole year."
+          "Because the boats are taller than most mountains.",
+          "Because the start port is located high in the mountains.",
+          "Because so few of those who start it ever manage to finish.",
+          "Because competitors must climb to reach their boats."
         ],
         "answer_index": 2,
-        "explanation_zh": "短文写道 She will be away for ten days。"
+        "explanation_zh": "文中说在十届、240 次参赛中完成者不到 150 人，正是这种极低的完赛率让它被称为“海上珠峰”。"
       },
       {
-        "id": "why_proud",
-        "question": "Why does the narrator feel proud of Mia?",
+        "id": "inference",
+        "question": "What can be inferred about the sailors who take part?",
         "options": [
-          "Because Mia forgot her robot box.",
-          "Because Mia will stay at home tomorrow.",
-          "Because Mia is taking a short train ride for fun.",
-          "Because Mia has worked hard and is ready for a real challenge."
+          "They rely heavily on a large support crew during the voyage.",
+          "They value personal achievement, not only setting speed records.",
+          "They usually give up once they round the first cape.",
+          "They consider the modern boats too slow to be worthwhile."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结尾指出对许多水手而言，仅仅完成比赛就是无可替代的个人胜利，说明他们看重个人成就，而不只是刷新纪录，可据此推断。"
+      },
+      {
+        "id": "vocab_in_context",
+        "question": "In the passage, the word “treacherous” (describing Cape Horn) most nearly means:",
+        "options": [
+          "calm and predictable.",
+          "famous and beautiful.",
+          "crowded and noisy.",
+          "dangerous and full of hidden risks."
         ],
         "answer_index": 3,
-        "explanation_zh": "结尾说 I feel proud of her because she has worked hard and is ready for a real challenge。"
+        "explanation_zh": "treacherous 意为“暗藏危险的、险恶的”，文中紧接 mountainous seas and savage weather（巨浪与狂风），说明合恩角凶险难测，故选”危险且暗藏风险的”。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天只抓 Lesson 12 的五个送行句式：用 will 写明天的计划，用 meet...at... 写集合地点，用 set out at 写出发时间，用 be away for 写离开多久，再用 take part in 写挑战目的。",
+    "intro_zh": "今天仍抓 Lesson 12 的五个送行/计划句式，但把语境提升到 B2+：用 will + tomorrow 写一个郑重的未来安排，用 We'll meet...at... 约定送别地点，用 will set out at 写启程时刻，用 will be away for 写离开时长，再用 take part in 写所投身的重大挑战。每句都要更长、更具体、更有画面感。",
     "patterns": [
       {
         "id": "will_tomorrow",
         "title": "will ... tomorrow",
         "source": "Captain Charles Alison will sail from Portsmouth tomorrow.",
         "focus_zh": "用 will 加 tomorrow 写一个已经安排好的未来计划。",
-        "task_zh": "仿写一句：写某人明天要去参加比赛、训练营、旅行或重要活动。",
+        "task_zh": "仿写一句（更抽象/更正式的语境）：写某人明天将启程去完成一项严肃而重要的任务，如答辩、出征、远征或代表团队比赛。",
         "must_include": [
           "will",
           "tomorrow"
         ],
-        "min_words": 8,
-        "sample": "My brother will leave for a football match tomorrow.",
+        "min_words": 16,
+        "sample": "My elder sister will fly to Geneva tomorrow to defend her thesis before an international panel of scientists.",
         "tip_zh": "tomorrow 通常放在句末；will 后面直接接动词原形。"
       },
       {
@@ -103,13 +98,13 @@
         "title": "We'll meet ... at ...",
         "source": "We'll meet him at the harbour early in the morning.",
         "focus_zh": "用 We'll meet...at... 写清楚送行或集合的对象和地点。",
-        "task_zh": "仿写一句：写你们将在机场、车站、校门口或体育馆见某人。",
+        "task_zh": "仿写一句：写你们将在某个有意义的地点迎接或送别某人，并点明那一刻的情景或心情。",
         "must_include": [
           "We'll meet",
           "at"
         ],
-        "min_words": 8,
-        "sample": "We'll meet our team captain at the station early tomorrow.",
+        "min_words": 17,
+        "sample": "We'll meet the exhausted but triumphant skipper at the harbour entrance the moment her battered yacht finally appears.",
         "tip_zh": "meet 后面先写人，at 后面写地点；再补时间会更完整。"
       },
       {
@@ -117,12 +112,12 @@
         "title": "will set out at ...",
         "source": "Captain Alison will set out at eight o'clock.",
         "focus_zh": "set out 表示正式出发，at 后面接具体时间。",
-        "task_zh": "仿写一句：写某人几点出发去参加一个重要活动。",
+        "task_zh": "仿写一句：写一支队伍或一个人将在某个具体时刻启程，去迎接一段艰难而漫长的挑战，并说明原因。",
         "must_include": [
           "will set out at"
         ],
-        "min_words": 8,
-        "sample": "The runners will set out at six o'clock on Sunday morning.",
+        "min_words": 18,
+        "sample": "The expedition team will set out at dawn, long before the first tourists wake, so that they can reach the summit safely.",
         "tip_zh": "set out 比 leave 更有“启程去完成任务”的感觉，适合比赛或长途挑战。"
       },
       {
@@ -130,12 +125,12 @@
         "title": "will be away for ...",
         "source": "He will be away for two months.",
         "focus_zh": "用 will be away for 写未来离开多长时间。",
-        "task_zh": "仿写一句：写朋友、亲人或队友将离开多久。",
+        "task_zh": "仿写一句：写某人将长时间离开去参与一项艰巨的事业，并交代他/她要去做什么。",
         "must_include": [
           "will be away for"
         ],
-        "min_words": 7,
-        "sample": "My sister will be away for three weeks during the camp.",
+        "min_words": 17,
+        "sample": "Our team captain will be away for almost three months while she competes in a gruelling solo race across the open ocean.",
         "tip_zh": "for 后面接一段时间，比如 ten days、three weeks、two months。"
       },
       {
@@ -143,12 +138,12 @@
         "title": "take part in ...",
         "source": "He will take part in an important race across the Atlantic.",
         "focus_zh": "take part in 表示参加活动或比赛，后面接具体项目。",
-        "task_zh": "仿写一句：写某人将参加一个比赛、表演、竞赛或学校活动。",
+        "task_zh": "仿写一句：写某人不顾困难或风险，决定投身于一项重大的比赛、竞赛或挑战。",
         "must_include": [
           "take part in"
         ],
-        "min_words": 9,
-        "sample": "She will take part in an important science contest next month.",
+        "min_words": 18,
+        "sample": "Despite the obvious dangers and her parents' quiet worries, she has decided to take part in the toughest endurance race on the continent.",
         "tip_zh": "不要写 take part an activity，中间需要 in。"
       }
     ]
