@@ -1,100 +1,95 @@
 {
   "lesson_id": 49,
   "reading": {
-    "title": "The Perfect Study Chair",
-    "intro_zh": "这篇短文把 Lesson 49 的“攒很久钱买到梦想物品”换成安全的现代学习场景：Emma 攒钱买学习椅，装好后才发现自己忽略了尺寸。它不复述屋顶、风暴或危险睡觉安排，而是练习 tired of、save up、owner、assemble、instructions、too wide、unhurt、promptly 这些关键词。",
-    "word_bank": [
-      "tired of",
-      "save up",
-      "owner",
-      "assemble",
-      "instructions",
-      "too wide",
-      "wheels",
-      "unhurt",
-      "realize",
-      "promptly"
-    ],
+    "title": "The Marshmallow and the Long Wait",
+    "intro_zh": "Lesson 49 里那个攒了多年钱才买到一张真床的年轻人，正是“延迟满足”的写照。这篇文章改写自罗切斯特大学的研究报道，介绍著名的斯坦福棉花糖实验，以及为什么愿意等待其实取决于孩子对环境的信任。",
+    "source": {
+      "title": "The Marshmallow Study Revisited: Delaying Gratification Depends as Much on Nurture as on Nature",
+      "publisher": "University of Rochester",
+      "url": "https://www.rochester.edu/news/printable.php?id=4622"
+    },
     "passage": [
-      "Emma was tired of doing homework on a kitchen stool. Every evening, her back hurt before she finished one page. She saved up for six months to buy a real study chair and felt like the proud owner of a tiny office when the box arrived. Following the instructions, her father helped her assemble it, and the wheels rolled beautifully across the floor. But Emma had not measured the space under her desk. When she tried to push the chair in, it was too wide, and the armrests bumped the drawers. She was unhurt, but her dream looked silly for a minute. Then she realized the armrests could come off. She fixed the chair, put it in the right place, and promptly started her homework. The chair was not perfect, but the dream was still alive."
+      "We learn early that good things are worth waiting for, yet resisting an immediate temptation for a larger future reward is surprisingly hard. Psychologists call this capacity delayed gratification, and few studies have examined it more famously than the Stanford marshmallow experiment, conducted by Walter Mischel in the late 1960s. Young children were seated alone with a single marshmallow and a simple choice: eat it now, or wait roughly fifteen minutes and receive two instead. Those who succeeded rarely relied on willpower; they distracted themselves by dancing in their seats, singing, or taking pretend naps so the treat would not dominate attention.",
+      "For decades the experiment was treated as a measure of innate self-control, and follow-up research reported that the children who waited tended to earn higher test scores and better social outcomes years later. More recent work, however, has complicated that conclusion. In a 2012 study at the University of Rochester, researchers first exposed children to either a reliable or an unreliable adult before presenting the marshmallow. Those who had learned that promises were kept waited about twelve minutes on average, whereas those who had been let down lasted barely three. Nine of fourteen in the reliable group waited the full quarter of an hour; in the unreliable group, only one did.",
+      "The lesson is subtle but powerful. Waiting is not merely a matter of grit; it is a rational calculation that hinges on trust. A child who doubts that the second marshmallow will ever arrive is behaving sensibly, not weakly, by seizing the one before her. The young man who scrimped for years to buy a proper bed was betting, like those children, that self-denial would pay off."
     ],
     "questions": [
       {
-        "id": "uncomfortable_habit",
-        "question": "What was Emma tired of doing?",
+        "id": "main_idea",
+        "question": "What is the main idea of the passage?",
         "options": [
-          "Sleeping on a roof during hot nights.",
-          "Doing homework on a kitchen stool.",
-          "Carrying a bed into a courtyard.",
-          "Looking for a lost schoolbag every evening."
+          "Children who eat marshmallows quickly grow up to be more successful adults.",
+          "The marshmallow experiment proves that willpower is fixed at birth.",
+          "Delayed gratification depends not only on willpower but also on whether the environment can be trusted.",
+          "Scientists no longer believe that waiting for rewards has any value."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "全文先介绍延迟满足和棉花糖实验，再用罗切斯特的研究说明等待与否取决于对环境的信任，所以主旨是延迟满足既靠意志力也靠可信任的环境。"
+      },
+      {
+        "id": "detail",
+        "question": "In the original Stanford experiment, what choice were the children given?",
+        "options": [
+          "Eat one marshmallow now, or wait about fifteen minutes and get two.",
+          "Choose between a marshmallow and a pretzel right away.",
+          "Wait an hour to receive a large box of sweets.",
+          "Share one marshmallow with another child in the room."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "文章明确写到孩子可以现在吃掉一颗棉花糖，或者等大约十五分钟换得两颗，所以正确答案是第一项。"
+      },
+      {
+        "id": "cause_effect",
+        "question": "According to the Rochester study, why did the children in the unreliable group wait a much shorter time?",
+        "options": [
+          "They were younger and could not understand the instructions.",
+          "They had been taught special strategies for resisting temptation.",
+          "They were given a less appealing treat than the other group.",
+          "They had learned that the adult's promises could not be relied on."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "实验先让一组孩子经历“说话不算数”的大人，这些孩子学到承诺不可靠，因此几乎不愿等待，只坚持了大约三分钟。"
+      },
+      {
+        "id": "inference",
+        "question": "What can be inferred about a child who quickly eats the single marshmallow after meeting an unreliable adult?",
+        "options": [
+          "The child is acting reasonably, because the promised reward may never come.",
+          "The child clearly lacks the intelligence to plan ahead.",
+          "The child will certainly struggle academically in later life.",
+          "The child has misunderstood the rules of the experiment."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "文章说怀疑第二颗棉花糖永远不会来的孩子是“理性而非软弱”，所以马上吃掉的行为可以推断为合理的选择。"
+      },
+      {
+        "id": "vocab",
+        "question": "In the final paragraph, the word \"scrimped\" is closest in meaning to",
+        "options": [
+          "spent money carelessly",
+          "saved carefully by spending as little as possible",
+          "borrowed money from friends",
+          "complained loudly about prices"
         ],
         "answer_index": 1,
-        "explanation_zh": "短文开头说 Emma was tired of doing homework on a kitchen stool，她厌倦的是坐在厨房凳子上写作业。"
-      },
-      {
-        "id": "dream_purchase",
-        "question": "What did Emma save up to buy?",
-        "options": [
-          "A real study chair.",
-          "A new kitchen table.",
-          "A box of school books.",
-          "A small office lamp."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文说 she saved up for six months to buy a real study chair，所以她攒钱买的是一把真正的学习椅。"
-      },
-      {
-        "id": "ignored_detail",
-        "question": "What practical detail did Emma ignore?",
-        "options": [
-          "She forgot to read the instructions.",
-          "She chose a chair without wheels.",
-          "She did not measure the space under her desk.",
-          "She left the box at the shop."
-        ],
-        "answer_index": 2,
-        "explanation_zh": "问题出在尺寸：Emma had not measured the space under her desk，所以椅子推进去时太宽。"
-      },
-      {
-        "id": "comic_problem",
-        "question": "What went wrong in a safe, comic way?",
-        "options": [
-          "The chair was too wide, and the armrests bumped the drawers.",
-          "The wheels broke and Emma was badly hurt.",
-          "A storm blew the chair out of the window.",
-          "Her father refused to assemble the chair."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "安全的小麻烦是椅子 too wide，扶手碰到抽屉；短文也明确说 Emma was unhurt。"
-      },
-      {
-        "id": "sensible_ending",
-        "question": "How does the ending keep Emma's dream alive but more sensible?",
-        "options": [
-          "She gives up studying at the desk forever.",
-          "She buys a second chair without checking anything.",
-          "She removes the armrests, puts the chair in the right place, and uses it.",
-          "She asks her father to hide the chair in the kitchen."
-        ],
-        "answer_index": 2,
-        "explanation_zh": "结尾不是梦想破灭：她 realized the armrests could come off，修好后把椅子放到合适位置并开始写作业，梦想还在，只是更理性了。"
+        "explanation_zh": "scrimped 指为了攒钱而省吃俭用、尽量少花，与课文里年轻人攒多年钱买床的情节一致，所以意思最接近“省吃俭用地攒钱”。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 49 的“梦想物品和反转”句式：用 Tired of... 开头写原因，用 saved up for years to... 写长期努力，用 For the first time in his life... 写第一次拥有的意义，用 did not...until... 写直到某刻才意识到，最后用 Although... 写意外中的反差。",
+    "intro_zh": "今天把 Lesson 49 的五个句式提升到 B2+ 难度：用 Tired of... 开头写更抽象的处境与决断，用 saved up for years to... 写长期克制换取目标，用 For the first time in his life... 写人生第一次的转折意义，用 did not...until... 写迟来的觉察，最后用 Although... 写出乎意料的反差。每句都要更长、更复杂。",
     "patterns": [
       {
         "id": "tired_of_reason",
         "title": "Tired of ..., ...",
         "source": "Tired of sleeping on the floor, a young man in Teheran saved up for years...",
         "focus_zh": "Tired of doing... 放在句首，先给出“已经受够了”的原因，再写后面的行动。",
-        "task_zh": "仿写一句：写某人因为厌倦了一种不舒服或不方便的情况，于是决定做出改变。",
+        "task_zh": "仿写一句：写某人因为长期厌倦了一种习惯性的拖延、妥协或自我设限，于是下定决心做出一个理性的改变。",
         "must_include": [
           "Tired of"
         ],
-        "min_words": 10,
-        "sample": "Tired of doing homework at the kitchen table, Emma saved up for a study chair.",
+        "min_words": 18,
+        "sample": "Tired of postponing every purchase until the perfect moment that never came, she finally drew up a realistic budget and stuck to it.",
         "tip_zh": "Tired of 后面接动词 -ing 或名词；逗号后写真正采取的行动。"
       },
       {
@@ -102,12 +97,12 @@
         "title": "saved up for years to ...",
         "source": "He saved up for years to buy a real bed.",
         "focus_zh": "saved up for...to... 把“攒了多久”和“为了什么目标”连在一起，能写出目标来之不易。",
-        "task_zh": "仿写一句：写某人为了买一件有意义的东西，长期一点点攒钱。",
+        "task_zh": "仿写一句：写某人为了一个长远而有意义的目标，多年克制眼前的小诱惑，一点点攒钱。",
         "must_include": [
           "saved up for"
         ],
-        "min_words": 10,
-        "sample": "My brother saved up for years to buy a camera for school projects.",
+        "min_words": 16,
+        "sample": "Determined to study abroad one day, my cousin saved up for nearly three years, resisting countless small luxuries along the way.",
         "tip_zh": "saved up for years / months 都可以；to 后面接目标动作，如 to buy、to pay for。"
       },
       {
@@ -115,13 +110,13 @@
         "title": "For the first time in his life, ...",
         "source": "For the first time in his life, he became the proud owner of a bed.",
         "focus_zh": "For the first time in his life 让一个普通动作变成重要时刻，强调“人生第一次”。",
-        "task_zh": "仿写一句：写某人第一次拥有、尝试或完成一件对自己很重要的事。",
+        "task_zh": "仿写一句：写某人第一次真正领悟到一个关于耐心、信任或自律的深刻道理。",
         "must_include": [
           "For the first time in",
           "life"
         ],
-        "min_words": 12,
-        "sample": "For the first time in his life, Leo had a quiet corner of his own.",
+        "min_words": 18,
+        "sample": "For the first time in his life, he understood that genuine patience is less about willpower than about trusting that the reward will eventually arrive.",
         "tip_zh": "这个短语一般放句首，后面接完整句子；如果主语是女孩，可以改成 in her life。"
       },
       {
@@ -129,13 +124,13 @@
         "title": "did not ... until ...",
         "source": "He did not wake up until the bed had struck the ground.",
         "focus_zh": "did not...until... 表示“直到……才……”，重点是前面的动作一直没有发生。",
-        "task_zh": "仿写一句：写某人直到某个时刻、某件事发生后，才明白、醒来、注意到或采取行动。",
+        "task_zh": "仿写一句：写某人或某群体直到某个明确的事件或结果出现后，才意识到一个之前被忽略的关键因素。",
         "must_include": [
           "did not",
           "until"
         ],
-        "min_words": 12,
-        "sample": "I did not realize the chair was too wide until I pushed it under the desk.",
+        "min_words": 16,
+        "sample": "The researchers did not realise how strongly the environment shaped self-control until the unreliable group gave up after barely three minutes.",
         "tip_zh": "中文常说“直到……才……”，英文要先说 did not do，再用 until 引出那个时间点。"
       },
       {
@@ -143,12 +138,12 @@
         "title": "Although ..., ...",
         "source": "Although the bed was smashed to pieces, the man was miraculously unhurt.",
         "focus_zh": "Although 引出“按理说会很糟”的情况，后半句给出真正结果，适合写反差。",
-        "task_zh": "仿写一句：写一件事看起来出了问题，但结果没有那么糟，或者有人仍然想办法解决。",
+        "task_zh": "仿写一句：写一件看似是吃亏、软弱或失败的事情，实际上却是合理、聪明或成功的选择。",
         "must_include": [
           "Although"
         ],
-        "min_words": 12,
-        "sample": "Although the new chair was too wide at first, Emma fixed it and kept using it.",
+        "min_words": 16,
+        "sample": "Although waiting for a larger reward looks like pure self-denial, it is in fact a rational bet that the promise will be honoured.",
         "tip_zh": "Although 后面不要再加 but；英文通常写 Although..., subject + verb...。"
       }
     ]
