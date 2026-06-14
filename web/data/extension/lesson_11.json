@@ -1,101 +1,96 @@
 {
   "lesson_id": 11,
   "reading": {
-    "title": "One Snack Deserves Another",
-    "intro_zh": "这篇短文不复述 Tony Steele 的餐厅故事，而是换到同桌午餐和小物品借还：有人常常 borrow 却忘记 pay back，又把 one good turn 说成让别人 pay for 零食的理由。重点回收 borrow / lend / pay back / pay for 的方向。",
-    "word_bank": [
-      "turn",
-      "deserve",
-      "borrow",
-      "lend",
-      "pay back",
-      "pay for",
-      "salary",
-      "immediately",
-      "to my surprise",
-      "same table"
-    ],
+    "title": "When a Good Turn Keeps a Bat Alive",
+    "intro_zh": "这篇短文不复述 Tony 的餐厅故事，而是介绍真实科学话题：吸血蝙蝠之间的「互惠利他」(reciprocal altruism)——它们会把吸到的血分给曾经帮过自己的同伴，正是动物界版的「礼尚往来」。改编自 National Geographic 对俄亥俄州立大学 Gerry Carter 团队研究的报道。",
+    "source": {
+      "title": "How vampire bat friendship is surprisingly like our own",
+      "publisher": "National Geographic",
+      "url": "https://www.nationalgeographic.com/animals/article/bats-vampire-friendships-altruism"
+    },
     "passage": [
-      "At lunch, I was sitting at the same table with Leo. He often borrowed pencils or snack money from classmates, and he always said he would pay back soon. He had even started a small weekend job and got a little salary, but he still forgot. That day he had no fork, so I did a good turn and lent him mine. Later, I asked him to lend me his spare pen for the class form. To my surprise, he gave it to me immediately. Then he smiled and said, \"One snack deserves another. Since I helped you, you can pay for my cookie.\" We laughed, but I told him a fair turn means returning things, not turning help into a bill."
+      "The proverb \"one good turn deserves another\" describes a habit so deeply rooted that biologists have found versions of it far beyond the human world. One of the most striking examples involves the common vampire bat, an animal whose survival depends on a meal it cannot always obtain. Because these bats must feed roughly every three days, a single failed hunt can push an individual toward starvation. To soften that risk, a well-fed bat will regurgitate part of its blood meal and pass it to a hungry roost-mate, a costly favour that may keep the recipient alive until its next chance to feed.",
+      "What fascinates researchers is that this generosity is not random. A long-term study led by Gerry Carter, a behavioural ecologist at Ohio State University, tracked common vampire bats and showed that an animal is markedly more likely to feed a partner that has previously fed it. In other words, the bats appear to keep an informal account of who has been reliable. Crucially, trust is built gradually rather than granted outright: strangers first invest in low-stakes grooming, and only later, once that loyalty has been tested, do they risk the far greater cost of sharing food.",
+      "This cautious escalation supports what scientists call the \"raising the stakes\" theory, and it makes the bats' behaviour strikingly familiar. Carter compares it to human friendship, which carries its own quiet expectations: a bond rarely endures if one person takes endlessly and never reciprocates. Whether among bats or people, then, cooperation seems to rest on the same fragile principle of fairness."
     ],
     "questions": [
       {
-        "id": "small_favour",
-        "question": "What small favour did the narrator do for Leo at lunch?",
+        "id": "main_idea",
+        "question": "What is the main point of the passage?",
         "options": [
-          "He paid for Leo's cookie.",
-          "He lent Leo his fork.",
-          "He gave Leo a new salary.",
-          "He moved to another table."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "短文说 Leo 没有叉子，所以叙述者 did a good turn and lent him mine。"
-      },
-      {
-        "id": "usual_borrower",
-        "question": "What did Leo usually do?",
-        "options": [
-          "He always returned borrowed things immediately.",
-          "He borrowed pencils or snack money and often forgot to pay back.",
-          "He never sat at the same table with anyone.",
-          "He paid for everyone's snacks every day."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "文中说 Leo often borrowed pencils or snack money，并且总说会 pay back soon，但还是忘。"
-      },
-      {
-        "id": "surprising_request",
-        "question": "What did the narrator ask Leo to lend him later?",
-        "options": [
-          "A spare pen for the class form.",
-          "A fork for lunch.",
-          "A cookie from the snack shop.",
-          "Money from his weekend salary."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "叙述者后来 asked him to lend me his spare pen for the class form。"
-      },
-      {
-        "id": "twisted_turn",
-        "question": "How did Leo twist the fairness idea?",
-        "options": [
-          "He returned every pencil he had borrowed before.",
-          "He asked the teacher to explain the proverb.",
-          "He gave the narrator his whole lunch.",
-          "He said the narrator should pay for his cookie because Leo had helped him."
-        ],
-        "answer_index": 3,
-        "explanation_zh": "Leo 把 Since I helped you 接到 you can pay for my cookie，把帮忙变成了让别人付钱。"
-      },
-      {
-        "id": "fair_payback",
-        "question": "What should fair payback mean in real life?",
-        "options": [
-          "Turning every small favour into a bill.",
-          "Borrowing more because a friend helped once.",
-          "Returning borrowed things and paying back what you promised.",
-          "Using a proverb to get free snacks."
+          "Vampire bats are dangerous predators that humans should avoid.",
+          "Grooming is the only way vampire bats communicate with one another.",
+          "Vampire bats practise a form of reciprocity that resembles human cooperation.",
+          "Scientists cannot explain why vampire bats share food at all."
         ],
         "answer_index": 2,
-        "explanation_zh": "结尾说 a fair turn means returning things, not turning help into a bill。"
+        "explanation_zh": "全文围绕吸血蝙蝠的「互惠利他」展开，并指出这种行为与人类的合作十分相似，故主旨是 C。"
+      },
+      {
+        "id": "detail_feed_interval",
+        "question": "According to the passage, how often must a common vampire bat feed?",
+        "options": [
+          "Roughly every three days.",
+          "Once a month.",
+          "Only after grooming a stranger.",
+          "Every fifteen months."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "文中明确说 these bats must feed roughly every three days，所以选 A。"
+      },
+      {
+        "id": "process_trust",
+        "question": "How do unfamiliar bats build a food-sharing relationship?",
+        "options": [
+          "They immediately share blood with any hungry bat.",
+          "They compete to hunt the largest prey together.",
+          "They are forced to share by the dominant bat in the roost.",
+          "They begin with low-stakes grooming before risking the costlier act of sharing food."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "文中说陌生蝙蝠先进行 low-stakes grooming，等忠诚被检验后才承担分享食物的更高代价，故选 D。"
+      },
+      {
+        "id": "inference",
+        "question": "What can be inferred about a bat that repeatedly takes food but never gives any back?",
+        "options": [
+          "It will be fed more often than cooperative bats.",
+          "It is likely to lose its partners' willingness to help it.",
+          "It will automatically be removed from the roost by researchers.",
+          "It must groom twice as many bats to survive."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中说蝙蝠更愿意喂曾喂过自己的同伴，并把这比作人类友谊——只索取不回报的关系难以维系，可推断这样的蝙蝠会失去同伴的帮助，故选 B。"
+      },
+      {
+        "id": "vocab_reciprocates",
+        "question": "In the final paragraph, the word \"reciprocates\" most nearly means",
+        "options": [
+          "gives something back in return.",
+          "refuses to cooperate.",
+          "hunts independently.",
+          "forgets a past favour."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "reciprocates 指「回报、礼尚往来」，对应 gives something back in return，故选 A。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天的仿写只抓 Lesson 11 最有用的五个结构：背景动作被打断、过去和现在对比、borrow from 与 pay back、ask someone to lend me，以及 To my surprise...immediately。写作时特别分清 borrow / lend / pay back / pay for 的方向。",
+    "intro_zh": "今天的仿写仍锁定 Lesson 11 最有用的五个结构：背景动作被打断、过去与现在的对比、borrow from 与 never pays it back、ask someone to lend me，以及 To my surprise...immediately。但请在更抽象、更成熟的语境里造句，并始终分清 borrow / lend / pay back / pay for 的方向。",
     "patterns": [
       {
         "id": "was_having_when",
         "title": "was having ... when ...",
         "source": "I was having dinner at a restaurant when Tony Steele came in.",
         "focus_zh": "用 was having 写一个正在进行的背景动作，再用 when 引出突然出现的人或事。",
-        "task_zh": "仿写一句：你正在吃午饭、上课或写作业时，某人突然进来或发生了一件小事。",
+        "task_zh": "仿写一句：你正在专注做某件事（如准备演讲、整理资料、独自用餐）时，一个意想不到的人或消息突然打断了这个场景。",
         "must_include": [
           "was having",
           "when"
         ],
-        "min_words": 10,
-        "sample": "I was having lunch in the classroom when Amy came in.",
+        "min_words": 16,
+        "sample": "I was having a quiet dinner alone at the window when an old colleague suddenly walked into the restaurant.",
         "tip_zh": "was having 后面接正在进行的活动；when 后面写打断这个场景的新动作。"
       },
       {
@@ -103,14 +98,14 @@
         "title": "used to ... but now ...",
         "source": "Tony worked in a lawyer's office years ago, but he is now working at a bank.",
         "focus_zh": "用 but 和 now 把过去的工作、习惯或状态同现在对比起来。",
-        "task_zh": "仿写一句：写一个人过去的习惯或工作，再写他现在的变化。",
+        "task_zh": "仿写一句：把某人过去的职业、地位或生活方式，与他如今截然不同的处境进行鲜明对比。",
         "must_include": [
           "used to",
           "but",
           "now"
         ],
-        "min_words": 10,
-        "sample": "My cousin used to walk to school, but now he rides a bus.",
+        "min_words": 18,
+        "sample": "My uncle used to manage a busy factory in the city, but he now spends his days growing vegetables in a quiet village.",
         "tip_zh": "used to 后面接动词原形；but now 后面写现在的新情况。"
       },
       {
@@ -118,14 +113,14 @@
         "title": "borrows ... from ... and never pays it back",
         "source": "He always borrows money from his friends and never pays it back.",
         "focus_zh": "borrow from 表示东西或钱从别人那里来到自己这里；never pays it back 表示没有归还。",
-        "task_zh": "仿写一句：写一个人总是从同学那里借小额零食钱或活动费，却从不还。",
+        "task_zh": "仿写一句：描写一个总是反复向周围许多人借东西或借钱、却从不归还的人，突出这种行为的习惯性。",
         "must_include": [
           "borrows",
           "from",
           "never pays it back"
         ],
-        "min_words": 10,
-        "sample": "Evan borrows snack money from Tom and never pays it back.",
+        "min_words": 16,
+        "sample": "A certain neighbour constantly borrows tools and small sums of cash from everyone on our street and never pays it back.",
         "tip_zh": "money 才适合用 pay it back；如果借的是铅笔或尺子，要说 give it back。"
       },
       {
@@ -133,12 +128,12 @@
         "title": "asked him to lend me ...",
         "source": "I asked him to lend me twenty pounds.",
         "focus_zh": "lend me 表示对方把东西暂时给我；方向和 borrow from 正好相反。",
-        "task_zh": "仿写一句：你请别人暂时借给你一支笔、一把尺子或一本书。",
+        "task_zh": "仿写一句：在某个关键时刻，你请某人把一件重要或贵重的东西暂时借给你使用。",
         "must_include": [
           "asked him to lend me"
         ],
-        "min_words": 10,
-        "sample": "I asked him to lend me a ruler before the test.",
+        "min_words": 16,
+        "sample": "Before the important interview, I nervously asked him to lend me his only formal jacket for the entire afternoon.",
         "tip_zh": "asked him to lend me 后面直接接借来的东西；不要写成 asked him to borrow me。"
       },
       {
@@ -146,13 +141,13 @@
         "title": "To my surprise, ... immediately",
         "source": "To my surprise, he gave me the money immediately.",
         "focus_zh": "To my surprise 放在句首，告诉读者接下来的反应和预期不同；immediately 强调动作很快。",
-        "task_zh": "仿写一句：你原以为对方会犹豫，结果他立刻归还、同意或帮忙。",
+        "task_zh": "仿写一句：你原以为对方会犹豫或拒绝，结果他出乎意料地立刻答应、归还或伸出援手。",
         "must_include": [
           "To my surprise",
           "immediately"
         ],
-        "min_words": 9,
-        "sample": "To my surprise, she returned the borrowed book immediately.",
+        "min_words": 16,
+        "sample": "To my surprise, instead of hesitating as I had feared, she agreed to help with the whole project immediately.",
         "tip_zh": "这句话很适合制造转折：先让读者知道你没想到，再写对方立刻做了什么。"
       }
     ]
