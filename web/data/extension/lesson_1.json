@@ -1,100 +1,94 @@
 {
   "lesson_id": 1,
   "reading": {
-    "title": "Too Loud in the Library",
-    "intro_zh": "这篇短文不复述剧院里的争执，而是换到现代图书馆自习区：两位同学聊的是私人事情，但音量太大，仍然打扰了共享空间里的其他人。重点回收 private / conversation / seat / loudly / pay attention / angry / rudely / none of your business，并把社交边界讲清楚。",
-    "word_bank": [
-      "private",
-      "conversation",
-      "seat",
-      "loudly",
-      "pay attention",
-      "angry",
-      "rudely",
-      "shared space",
-      "polite reminder",
-      "none of your business"
-    ],
+    "title": "When Noise Becomes Pollution",
+    "intro_zh": "本文不复述课文里剧院的争执，而是把“私人内容、公共音量”的主题升级到一个真实的公共健康议题：环境噪声为何会成为污染。内容改编自世界卫生组织（WHO）欧洲区办公室的权威资料。",
+    "source": {
+      "title": "Noise (Fact sheet)",
+      "publisher": "World Health Organization (WHO), Regional Office for Europe",
+      "url": "https://www.who.int/europe/news-room/fact-sheets/item/noise"
+    },
     "passage": [
-      "Last Friday I went to the library after school. I had a very good seat near the window, and I wanted to finish my science notes. Two students sat behind me and began a private conversation about a birthday party. At first I tried to pay attention to my work, but they were talking loudly. Other readers looked at them, but they did not stop. I turned round and gave them a polite reminder. One student answered rudely, \"It's none of your business.\" I felt angry, but I did not shout. I told the librarian instead. She explained that a library is a shared space. A conversation may be private, but loud voices are still public."
+      "We tend to think of noise as a private irritation, something we can simply ignore if we try hard enough. Public-health authorities take a far less forgiving view. According to the World Health Organization, environmental noise has emerged as a leading environmental nuisance in the WHO European Region. The crucial point is that unwanted sound is not merely annoying; it is a measurable threat. Long-term exposure to road traffic and aircraft noise has been linked to disturbed sleep and cardiovascular effects. Research focused on aircraft noise also reveals that children chronically exposed to it show consistent evidence of impaired cognitive performance, even when those affected insist that they have grown accustomed to the din.",
+      "The thresholds recommended by WHO are surprisingly low. Bedrooms should stay below thirty decibels at night, and classrooms below thirty-five, so that sleep and learning are not compromised. Yet across the European Union roughly forty per cent of residents are exposed to road-traffic noise above fifty-five decibels, a level that exceeds what specialists consider safe. The consequences are unevenly distributed. Children, whose cognitive development can be impaired by chronic exposure, and the elderly, the chronically ill and shift workers are especially vulnerable. So too are poorer households, who can rarely afford quiet neighbourhoods or well-insulated homes. What this evidence ultimately demonstrates is that a sound may originate in one person's private life, yet its effects spill relentlessly into the shared environment, eroding the well-being of an entire community."
     ],
     "questions": [
       {
-        "id": "shared_space",
-        "question": "Where did the shared-space problem happen?",
+        "id": "main_idea",
+        "question": "What is the main point the passage is making about noise?",
         "options": [
-          "In a library after school.",
-          "In a theatre during a play.",
-          "On a noisy bus.",
-          "At a birthday party."
+          "Noise is only a problem for people who refuse to ignore it.",
+          "Noise is harmless once people get used to living with it.",
+          "Noise is a measurable public-health threat, not merely a private annoyance.",
+          "Noise affects wealthy and poor households in exactly the same way."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "全文反复强调：噪声不只是私人层面的“烦扰”，而是可被测量、危害公共健康的威胁，因此 C 是主旨。"
+      },
+      {
+        "id": "detail_threshold",
+        "question": "According to WHO, what is the recommended night-time noise limit for bedrooms?",
+        "options": [
+          "Below thirty decibels.",
+          "Below thirty-five decibels.",
+          "Below fifty-five decibels.",
+          "Below sixty-five decibels."
         ],
         "answer_index": 0,
-        "explanation_zh": "短文开头说 Last Friday I went to the library after school，问题发生在图书馆。"
+        "explanation_zh": "第二段明确指出 Bedrooms should stay below thirty decibels at night，所以卧室夜间建议低于 30 分贝。"
       },
       {
-        "id": "noise_problem",
-        "question": "What made the private conversation disturb other people?",
+        "id": "cause_effect",
+        "question": "Why does the passage say the health consequences of noise are 'unevenly distributed'?",
         "options": [
-          "The students were writing science notes.",
-          "The narrator chose a seat near the window.",
-          "The students were talking loudly in a quiet shared space.",
-          "The librarian closed the library early."
-        ],
-        "answer_index": 2,
-        "explanation_zh": "他们聊的是 private conversation，但 they were talking loudly，所以打扰了共享空间里的其他人。"
-      },
-      {
-        "id": "first_reaction",
-        "question": "How did the narrator first react?",
-        "options": [
-          "The narrator shouted at the students at once.",
-          "The narrator tried to pay attention to the work.",
-          "The narrator left the library immediately.",
-          "The narrator joined the conversation."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "文中说 At first I tried to pay attention to my work，说明叙述者一开始先努力专心。"
-      },
-      {
-        "id": "rude_answer",
-        "question": "Why was \"It's none of your business\" not acceptable here?",
-        "options": [
-          "Because nobody is allowed to have a birthday party.",
-          "Because the narrator wanted to know their secret.",
-          "Because libraries never allow students to sit together.",
-          "Because the students' loud voices affected people in a shared space."
+          "Because only aircraft noise, and no other source, harms people.",
+          "Because noise damages hearing but nothing else.",
+          "Because everyone is affected to precisely the same degree.",
+          "Because children, the elderly, the ill and poorer households are hit harder than others."
         ],
         "answer_index": 3,
-        "explanation_zh": "对话内容可以是私人的，但声音影响了别人，就不只是“与你无关”的问题了。"
+        "explanation_zh": "第二段说后果分布不均，并列出儿童、老人、病患、轮班工人和贫困家庭更脆弱，故 D 正确。"
       },
       {
-        "id": "social_lesson",
-        "question": "What is the social lesson of the story?",
+        "id": "inference",
+        "question": "What can be inferred from the passage about people who say they have 'grown accustomed to the din'?",
         "options": [
-          "A private conversation should always be louder.",
-          "It is rude to ask a librarian for help.",
-          "Private content still needs public manners.",
-          "A good seat makes every problem disappear."
+          "Their bodies may still be harmed even though they no longer feel bothered.",
+          "They are completely protected from any health risk.",
+          "They must be living in officially approved quiet zones.",
+          "They have certainly suffered permanent hearing loss."
         ],
-        "answer_index": 2,
-        "explanation_zh": "结尾点明：A conversation may be private, but loud voices are still public。私人内容也需要公共礼貌。"
+        "answer_index": 0,
+        "explanation_zh": "首段指出即使人们觉得自己已经习惯噪声，长期暴露仍与睡眠紊乱、心血管影响相关，故可推断身体仍可能受损，而本人并未察觉。"
+      },
+      {
+        "id": "vocab_in_context",
+        "question": "In the final sentence, the word 'eroding' most nearly means:",
+        "options": [
+          "suddenly improving",
+          "gradually wearing away",
+          "loudly announcing",
+          "carefully protecting"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "eroding the well-being 指噪声的影响渗入共享环境，慢慢侵蚀、削弱整个社区的福祉，故意为“逐渐侵蚀/削弱”。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天的句式仿写围绕 Lesson 1 的冲突推进：先写一个很好的位置，再写别人不理会提醒，接着写自己忍到极限，最后理解一句很冲的边界话。注意：none of your business 很直接，仿写时要知道语气，不要随便用来怼人。",
+    "intro_zh": "今天的句式仿写仍锚定 Lesson 1 的语法点，但把语境升级到 B2+：用更抽象、更正式的表达去描写期待、忽视、忍耐极限与冲突中的无礼回应。注意 none of your business 语气很冲，理解即可，谨慎使用。",
     "patterns": [
       {
         "id": "had_a_very_good",
         "title": "I had a very good ...",
         "source": "I had a very good seat.",
         "focus_zh": "用 I had a very good ... 先建立一个好的期待，再让后面的麻烦形成反差。",
-        "task_zh": "仿写一句：你在电影院、教室、图书馆或比赛现场有一个很好的位置。",
+        "task_zh": "仿写一句（更抽象的语境）：你在某个正式或重要的场合占据了一个极佳的位置或视角，并暗示后面会出现反差。",
         "must_include": [
           "had a very good"
         ],
-        "min_words": 8,
-        "sample": "I had a very good seat near the window.",
+        "min_words": 16,
+        "sample": "I had a very good vantage point at the back of the lecture hall, where every diagram on the screen was perfectly clear.",
         "tip_zh": "had a very good 后面接具体名词，比如 seat, place, view。"
       },
       {
@@ -102,12 +96,12 @@
         "title": "did not pay any attention",
         "source": "They did not pay any attention.",
         "focus_zh": "用 did not pay any attention 写别人没有理会提醒、眼神或规则。",
-        "task_zh": "仿写一句：有人没有理会老师、同学、家长或公共提示。",
+        "task_zh": "仿写一句（更抽象的语境）：尽管有反复的提醒、规则或警示，某些人依然没有理会，并因此带来后果。",
         "must_include": [
           "did not pay any attention"
         ],
-        "min_words": 8,
-        "sample": "The two boys did not pay any attention to the sign.",
+        "min_words": 16,
+        "sample": "Despite the repeated warnings printed on every wall, the passengers did not pay any attention to the safety instructions.",
         "tip_zh": "后面常接 to，再写被忽视的人、提醒或标志。"
       },
       {
@@ -115,13 +109,13 @@
         "title": "In the end, I could not ...",
         "source": "In the end, I could not bear it.",
         "focus_zh": "用 In the end, I could not ... 表示事情持续了一段时间后，终于到了忍耐极限。",
-        "task_zh": "仿写一句：你一开始忍着，最后实在不能继续忍受某件事。",
+        "task_zh": "仿写一句（更抽象的语境）：经过长时间的反复干扰或压力，你最终无法继续完成某件需要专注的事情。",
         "must_include": [
           "In the end",
           "could not"
         ],
-        "min_words": 9,
-        "sample": "In the end, I could not finish my homework in the noise.",
+        "min_words": 16,
+        "sample": "In the end, after hours of constant interruption, I simply could not concentrate on the report I had to finish.",
         "tip_zh": "In the end 放句首后加逗号；could not 后面接动词原形。"
       },
       {
@@ -129,12 +123,12 @@
         "title": "It's none of your business",
         "source": "It's none of your business.",
         "focus_zh": "这句话表示“这不关你的事”，语气很硬。适合理解冲突中的无礼回应，不适合随便对朋友或老师说。",
-        "task_zh": "仿写一句：在一个小故事里写出这句无礼回应，并让读者看出为什么它不合适。",
+        "task_zh": "仿写一句（更抽象的语境）：在一个小情景里写出这句无礼的边界回应，并让读者看出说话人忽视了自己对他人造成的影响。",
         "must_include": [
           "none of your business"
         ],
-        "min_words": 10,
-        "sample": "He said, \"It's none of your business,\" but his loud music kept everyone awake.",
+        "min_words": 16,
+        "sample": "When a neighbour gently asked him to lower the volume, he snapped, \"It's none of your business,\" ignoring how far his music carried.",
         "tip_zh": "可以放在引号里当人物原话；后半句说明它为什么 rude。"
       }
     ]
