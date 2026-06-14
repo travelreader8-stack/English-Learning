@@ -1,0 +1,157 @@
+{
+  "lesson_id": 65,
+  "reading": {
+    "title": "The Big Mascot In The Hall",
+    "intro_zh": "这篇短文把 Lesson 65 的“好心也要安全规划”换到学校假日送礼物场景：学生想给 children's ward 送 presents，却让 huge mascot 堵住 main hall。重点练 presents、main hall、side door、approached、ought to have、holding up、refused to move、weigh、fortunate 和 let off。",
+    "word_bank": [
+      "presents",
+      "main hall",
+      "side door",
+      "approached",
+      "ought to have",
+      "holding up",
+      "refused to move",
+      "weigh",
+      "fortunate",
+      "let off"
+    ],
+    "passage": [
+      "Before the winter show, Leo's class decided to take presents to the children's ward. They wanted the visit to feel cheerful, so one student dressed up as a huge smiling mascot. At first, the group set off through the main hall, but the mascot was so wide that students and parents had to stop and wait. A teacher approached Leo and said they ought to have used the side door. Leo agreed at once, but the mascot refused to move because its soft feet were stuck on a mat. Two helpers had to push very carefully to free it. The teacher laughed and said it was fortunate that nobody had to carry the mascot. She let the group off this time, but reminded them that a kind idea needs a safe route."
+    ],
+    "questions": [
+      {
+        "id": "kind_purpose",
+        "question": "What kind thing did Leo's class want to do?",
+        "options": [
+          "They wanted to block the main hall.",
+          "They wanted to take presents to the children's ward.",
+          "They wanted to buy a new mascot.",
+          "They wanted to hold a traffic lesson outside."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文第一句说 Leo's class decided to take presents to the children's ward。"
+      },
+      {
+        "id": "route_problem",
+        "question": "Why did the first route cause a problem?",
+        "options": [
+          "The mascot was so wide that people had to stop and wait.",
+          "The children forgot all the presents.",
+          "The side door was locked by the police.",
+          "The teacher told everyone to run."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 the mascot was so wide that students and parents had to stop and wait。"
+      },
+      {
+        "id": "ought_to_have_done",
+        "question": "What did the teacher say the group ought to have done?",
+        "options": [
+          "They ought to have carried the teacher.",
+          "They ought to have stayed at home.",
+          "They ought to have used the side door.",
+          "They ought to have made the mascot heavier."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "老师说 they ought to have used the side door。"
+      },
+      {
+        "id": "hard_to_move",
+        "question": "Why was the mascot hard to move?",
+        "options": [
+          "Its soft feet were stuck on a mat.",
+          "It wanted to visit a circus.",
+          "It was reading a hospital sign.",
+          "It was waiting for a bus."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 the mascot refused to move because its soft feet were stuck on a mat。"
+      },
+      {
+        "id": "lesson_learned",
+        "question": "What lesson did the group learn?",
+        "options": [
+          "A funny costume is more important than safety.",
+          "People should never take presents to others.",
+          "A main hall is always better than a side door.",
+          "A kind idea needs a safe route."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "结尾说 a kind idea needs a safe route。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 65 的故事句式：decided to take ... to ... 写好心目的，Dressed up as ... 写生动开头，should have known that ... 写事后判断，ought to have gone ... 写本该选择的路线，it was fortunate that ... didn't have to ... 写幸好不必做某事。",
+    "patterns": [
+      {
+        "id": "decided_to_take_to",
+        "title": "decided to take ... to ...",
+        "source": "Jimmy Gates decided to take some presents to a children's hospital.",
+        "focus_zh": "这个结构用来说明某人决定把某物带到某个地方，特别适合写 charity、delivery 或 visit 的目的。",
+        "task_zh": "仿写一句：写一个 student group、class 或 volunteer team 决定把礼物、书或卡片送到某个地方。",
+        "must_include": [
+          "decided to take",
+          "to"
+        ],
+        "min_words": 10,
+        "sample": "Our class decided to take warm cards to the children's ward.",
+        "tip_zh": "take 后面接物品，to 后面接目的地；不要把两个 to 漏掉。"
+      },
+      {
+        "id": "dressed_up_as",
+        "title": "Dressed up as ..., he ...",
+        "source": "Dressed up as Father Christmas, he set off down the main street.",
+        "focus_zh": "Dressed up as ... 可以放在句首，先给人物一个生动画面，再接主句动作。",
+        "task_zh": "仿写一句：写某人装扮成 mascot、guide 或 holiday helper，然后开始某个活动。",
+        "must_include": [
+          "Dressed up as"
+        ],
+        "min_words": 10,
+        "sample": "Dressed up as a school mascot, Leo walked toward the side door.",
+        "tip_zh": "句首短语后面加逗号，主句要有明确主语和动作。"
+      },
+      {
+        "id": "should_have_known_that",
+        "title": "should have known that ...",
+        "source": "He should have known that the police would never allow this sort of thing.",
+        "focus_zh": "should have known that 用来表达事后回头看：某人本该想到某件事，但当时没有。",
+        "task_zh": "仿写一句：写某人本该知道 busy hall、teacher、guard 或 rules 不会允许某个计划。",
+        "must_include": [
+          "should have known that"
+        ],
+        "min_words": 11,
+        "sample": "We should have known that the teacher would not allow a crowded route.",
+        "tip_zh": "that 后面接完整句子，说明本该知道的内容。"
+      },
+      {
+        "id": "ought_to_have_gone",
+        "title": "ought to have gone ...",
+        "source": "he ought to have gone along a side street",
+        "focus_zh": "ought to have gone 用来写“本该走某条路”，非常适合纠正路线选择。",
+        "task_zh": "仿写一句：写某个 group、team 或 student 本该走 side door、side route 或 quieter hall。",
+        "must_include": [
+          "ought to have",
+          "gone"
+        ],
+        "min_words": 10,
+        "sample": "The group ought to have gone through the quiet side door.",
+        "tip_zh": "ought to have 后面用过去分词 gone；后面再接路线。"
+      },
+      {
+        "id": "fortunate_didnt_have_to",
+        "title": "it was fortunate that ... didn't have to ...",
+        "source": "it was fortunate that we didn't have to carry him",
+        "focus_zh": "这个结构用来说明幸好不必做更麻烦或更危险的事。",
+        "task_zh": "仿写一句：写幸好老师、helpers 或 students 不必 carry、cancel 或 call for help。",
+        "must_include": [
+          "it was fortunate that",
+          "didn't have to"
+        ],
+        "min_words": 12,
+        "sample": "It was fortunate that the helpers didn't have to carry the heavy mascot.",
+        "tip_zh": "didn't have to 表示“不必”，不是“没有能力做到”。"
+      }
+    ]
+  }
+}

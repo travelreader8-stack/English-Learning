@@ -1,0 +1,51 @@
+{
+  "lesson_id": 65,
+  "title": "A Safer Route",
+  "question": "把今天“好心活动 -> 路线不合适 -> 本该提前规划 -> 换到安全路线”的表达，放进 school holiday delivery 场景：用 word bank 补完整 5 个空。",
+  "example_answer": "We wanted to take presents to the children's ward. We should have chosen a side route because the main hall was too busy. The huge mascot was holding up the traffic near the door. We ought to have asked first. It was fortunate that nobody was hurt, and we will use the side door next time.",
+  "word_bank": [
+    "take presents to",
+    "the children's ward",
+    "should have chosen",
+    "a side route",
+    "was holding up",
+    "the traffic",
+    "ought to have",
+    "first",
+    "It was fortunate that",
+    "nobody was hurt"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "先说明你们的好心目的",
+      "english_template": "We wanted to ___ the children's ward.",
+      "expected_phrase": "take presents to"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "承认路线本来应该更安全",
+      "english_template": "We ___ a side route.",
+      "expected_phrase": "should have chosen"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说明 mascot 正在挡住通行",
+      "english_template": "The huge mascot ___ the traffic near the door.",
+      "expected_phrase": "was holding up"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "用 ought to have 说明本该提前询问",
+      "english_template": "We ___ asked first.",
+      "expected_phrase": "ought to have"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "用 fortunate 说明幸好没有人受伤",
+      "english_template": "___ nobody was hurt.",
+      "expected_phrase": "It was fortunate that"
+    }
+  ],
+  "mode": "all_fills"
+}

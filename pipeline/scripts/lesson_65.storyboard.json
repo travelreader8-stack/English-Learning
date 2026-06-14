@@ -1,0 +1,23 @@
+{
+  "lesson_id": 65,
+  "title": "Jumbo versus the police",
+  "visual_consistency": "A continuous warm city-at-Christmas educational illustration sequence. Jimmy Gates is the same adult circus owner in every frame: middle-aged, round friendly face, short brown hair partly hidden under a Father Christmas hat, red Father Christmas coat with white trim, black boots, warm but slightly overconfident expression, carrying or arranging wrapped presents. Jumbo is the same calm baby elephant in every frame: gentle expressive eyes, small rounded body for an elephant but visibly heavy, soft grey skin, relaxed ears, never frightened or chained. Police officers are friendly and practical in dark blue uniforms, firm but amused. The setting is a winter city street with warm Christmas colors balanced by neutral city greys. Images must contain no readable text, no signs, no labels, no banners, no cards with writing, no speech bubbles, no captions, no UI panels, and no fake writing.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Frame 1 of a continuous comic public-safety story: Jimmy Gates, the same middle-aged man dressed as Father Christmas in a red coat with white trim and black boots, prepares wrapped presents for a children's hospital visit. The same calm baby elephant Jumbo stands nearby with gentle eyes, relaxed and friendly. The scene feels warm and charitable inside or just outside a circus storage area decorated only with non-readable holiday shapes, no words. Presents are visible but have no readable cards or labels. Gentle watercolor children's book illustration, warm Christmas colors with city greys, kind intention mood, no readable text, no signs, no labels, no captions, no speech bubbles, no fake writing."
+    },
+    {
+      "frame": 2,
+      "prompt": "Frame 2 of the same continuous story: Jimmy Gates in the identical Father Christmas outfit rides the same calm baby elephant Jumbo down a busy winter city main street. A small ceremonial accompanying group follows at a respectful distance, treated as simple helpers rather than a beauty display. Cars and pedestrians slow patiently around them; the mood is comic and safe, not dangerous. Show busy public space and traffic delay through body language and spacing only. No readable street signs, no shop names, no banners, no notices, no labels, no captions, no speech bubbles, no fake writing."
+    },
+    {
+      "frame": 3,
+      "prompt": "Frame 3 of the same continuous story: a friendly but firm policeman in a dark blue uniform approaches Jimmy Gates and gestures toward a quieter side street in the background. Jimmy remains seated on the same calm baby elephant Jumbo, looking apologetic. Vehicles and pedestrians wait patiently behind them, showing that Jumbo is holding up traffic without danger or anger. The city-at-Christmas setting continues with warm lights and neutral greys, but no readable signs or words anywhere. Gentle educational illustration, public-safety humour, no readable text, no labels, no captions, no speech bubbles, no fake writing."
+    },
+    {
+      "frame": 4,
+      "prompt": "Frame 4 of the same continuous story: several friendly policemen push gently and comically against the same calm baby elephant Jumbo to move him off the main street. Jumbo stays relaxed and heavy with soft eyes; Jimmy Gates in the same Father Christmas costume stands nearby apologetically holding presents. The police look tired but amused, never angry or rough. Keep the action warm, safe, and humorous; no chains, no whips, no cruelty, no frightened animal expression. Winter city street background, no readable text, no signs, no labels, no banners, no cards with writing, no captions, no speech bubbles, no fake writing."
+    }
+  ]
+}

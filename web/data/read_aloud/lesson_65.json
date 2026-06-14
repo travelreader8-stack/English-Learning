@@ -1,0 +1,114 @@
+{
+  "lesson_id": 65,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按公共安全故事线跟读：Jimmy Gates 决定把 presents 送到 children's hospital；他 dressed up as Father Christmas 并骑 Jumbo 上 main street；警察指出 he should have known 和 ought to have gone along a side street；Jumbo refused to move；最后用 must weigh、fortunate、didn't have to carry 和 let him off 读出轻松的警察玩笑。",
+  "sentences": [
+    {
+      "id": "l65_s1",
+      "text": "Last Christmas, the circus owner, Jimmy Gates, decided to take some presents to a children's hospital.",
+      "focus_zh": "中文锚点：去年圣诞节，马戏团老板 Jimmy Gates 决定给儿童医院送礼物。注意 Last Christmas 后轻停，decided to take ... to ... 说明目的和去向。",
+      "start": 287.301,
+      "end": 293.709,
+      "focus_words": [
+        "Last Christmas",
+        "the circus owner",
+        "decided to take",
+        "presents",
+        "children's hospital"
+      ]
+    },
+    {
+      "id": "l65_s2",
+      "text": "Dressed up as Father Christmas and accompanied by a 'guard of honour' of six pretty girls, he set off down the main street of the city riding a baby elephant called Jumbo.",
+      "focus_zh": "中文锚点：他打扮成 Father Christmas，在仪仗队陪同下骑着 Jumbo 沿主街出发。长句先读 Dressed up as... and accompanied by...，再进入 he set off down...。",
+      "start": 294.059,
+      "end": 303.275,
+      "focus_words": [
+        "Dressed up as",
+        "Father Christmas",
+        "accompanied by",
+        "guard of honour",
+        "set off down the main street",
+        "riding a baby elephant"
+      ]
+    },
+    {
+      "id": "l65_s3",
+      "text": "He should have known that the police would never allow this sort of thing.",
+      "focus_zh": "中文锚点：他本该知道警察不会允许这种事。Should have known 是事后判断，读出“本该想到”的语气。",
+      "start": 303.625,
+      "end": 307.609,
+      "focus_words": [
+        "should have known",
+        "the police",
+        "would never allow",
+        "this sort of thing"
+      ]
+    },
+    {
+      "id": "l65_s4",
+      "text": "A policeman approached Jimmy and told him he ought to have gone along a side street as Jumbo was holding up the traffic.",
+      "focus_zh": "中文锚点：警察走近 Jimmy，告诉他本该走 side street，因为 Jumbo 正在挡交通。Approached 和 ought to have gone 要读清楚，holding up the traffic 是核心短语。",
+      "start": 307.959,
+      "end": 314.319,
+      "focus_words": [
+        "approached Jimmy",
+        "ought to have gone",
+        "along a side street",
+        "holding up the traffic"
+      ]
+    },
+    {
+      "id": "l65_s5",
+      "text": "Though Jimmy agreed to go at once, Jumbo refused to move.",
+      "focus_zh": "中文锚点：虽然 Jimmy 同意马上走，Jumbo 却拒绝移动。Though 开头先让步，refused to move 读出喜剧转折。",
+      "start": 314.669,
+      "end": 318.797,
+      "focus_words": [
+        "Though",
+        "agreed to go at once",
+        "refused to move"
+      ]
+    },
+    {
+      "id": "l65_s6",
+      "text": "Fifteen policemen had to push very hard to get him off the main street.",
+      "focus_zh": "中文锚点：十五个警察不得不用力把它推离主街。Fifteen policemen 开头要稳，had to push very hard 表示费力，to get him off 是目的。",
+      "start": 319.147,
+      "end": 323.635,
+      "focus_words": [
+        "Fifteen policemen",
+        "had to push very hard",
+        "get him off",
+        "the main street"
+      ]
+    },
+    {
+      "id": "l65_s7",
+      "text": "Jumbo must weigh a few tons, said a policeman afterwards, so it was fortunate that we didn't have to carry him.",
+      "focus_zh": "中文锚点：Jumbo 一定有好几吨重，幸好警察不用把它抬走。Must 是根据证据的强判断；fortunate 和 didn't have to carry him 读出轻松的玩笑。",
+      "start": 328.438,
+      "end": 334.942,
+      "focus_words": [
+        "must weigh",
+        "a few tons",
+        "fortunate",
+        "didn't have to carry him"
+      ]
+    },
+    {
+      "id": "l65_s8",
+      "text": "Of course, we should arrest him, but as he has a good record, we shall let him off this time.",
+      "focus_zh": "中文锚点：当然我们应该逮捕它，但因为它记录良好，这次就放过它。读 final quote 时带一点轻松幽默，let him off this time 是笑点。",
+      "start": 335.292,
+      "end": 340.668,
+      "focus_words": [
+        "Of course",
+        "arrest him",
+        "good record",
+        "let him off",
+        "this time"
+      ]
+    }
+  ]
+}

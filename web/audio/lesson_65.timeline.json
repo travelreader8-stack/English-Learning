@@ -1,0 +1,1942 @@
+{
+  "total_duration": 646.318,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 3.96,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果你想给儿童医院送礼物，这当然是一件很温暖的事。"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 4.31,
+      "end": 8.99,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是，如果你骑着一头小象走在城市主街上，会发生什么？"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 9.34,
+      "end": 13.38,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Jimmy Gates 的好心没有问题，可是他的方式出了问题。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 13.73,
+      "end": 19.05,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Jumbo 太大、太重，还不肯走，结果警察也被卷进来了。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 19.4,
+      "end": 23.999,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天记住一句话："
+        },
+        {
+          "lang": "en",
+          "text": "kind idea, safe plan"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 24.349,
+      "end": 27.189,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，先看 Jimmy 的好心。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 27.539,
+      "end": 34.539,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：去年圣诞节，马戏团老板 Jimmy Gates 想把礼物送到儿童医院。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 34.889,
+      "end": 43.313,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文开头说："
+        },
+        {
+          "lang": "en",
+          "text": "Last Christmas, the circus owner, Jimmy Gates, decided to take some presents to a children's hospital"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 43.663,
+      "end": 49.199,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Circus owner"
+        },
+        {
+          "lang": "zh",
+          "text": "是马戏团老板；这个背景属于旧时代生活。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 49.549,
+      "end": 56.669,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天我们会更在意动物福利和公共安全，所以不要把骑小象上街当成可以模仿的办法。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 57.018,
+      "end": 64.186,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "Last Christmas, the circus owner, take some presents, to a children's hospital"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 64.536,
+      "end": 68.576,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，好心计划变成了公共道路问题。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 68.926,
+      "end": 75.206,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：Jimmy 打扮成 Father Christmas，骑着小象 Jumbo 走上城市主街。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 75.556,
+      "end": 82.856,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Dressed up as Father Christmas and accompanied by a guard of honour, he set off down the main street"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 83.206,
+      "end": 90.534,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Father Christmas"
+        },
+        {
+          "lang": "zh",
+          "text": "是英式说法，意思相当于 Santa Claus，圣诞老人。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 90.884,
+      "end": 99.328,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Main street"
+        },
+        {
+          "lang": "zh",
+          "text": "是城市里最忙的主路；一头小象走在这里，车辆和行人都会慢下来。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 99.677,
+      "end": 108.869,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "dressed up as Father Christmas, accompanied by a guard of honour, set off down the main street, riding a baby elephant"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 109.219,
+      "end": 112.499,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，警察把交通逻辑说清楚。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 112.849,
+      "end": 120.169,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：警察走过来提醒 Jimmy，他本应该走 side street，因为 Jumbo 正在挡交通。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 120.519,
+      "end": 125.611,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "He should have known that the police would never allow this sort of thing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 125.961,
+      "end": 132.057,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着是："
+        },
+        {
+          "lang": "en",
+          "text": "A policeman approached Jimmy and told him he ought to have gone along a side street"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 132.407,
+      "end": 138.166,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Side street"
+        },
+        {
+          "lang": "zh",
+          "text": "是小路、支路，通常没有 main street 那么忙。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 138.516,
+      "end": 145.38,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Jumbo was holding up the traffic"
+        },
+        {
+          "lang": "zh",
+          "text": "，不是举起交通，而是把交通堵住、耽误了。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 145.73,
+      "end": 152.778,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "should have known, approached Jimmy, ought to have gone, holding up the traffic"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 153.128,
+      "end": 155.708,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，真正的笑点来了。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 156.058,
+      "end": 163.898,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：Jimmy 同意马上离开，可 Jumbo 拒绝移动，十五个警察只好费力把它推走。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 164.248,
+      "end": 169.46,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Though Jimmy agreed to go at once, Jumbo refused to move"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 169.809,
+      "end": 175.689,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "于是："
+        },
+        {
+          "lang": "en",
+          "text": "Fifteen policemen had to push very hard to get him off the main street"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 176.039,
+      "end": 184.263,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "警察很辛苦，但他们觉得这件事很好笑："
+        },
+        {
+          "lang": "en",
+          "text": "The police had a difficult time, but they were most amused"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 184.613,
+      "end": 189.573,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后那句 arrest Jumbo 是友好的玩笑，不是真的要惩罚小象。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 189.923,
+      "end": 198.235,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "refused to move, had to push very hard, must weigh a few tons, let him off this time"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 198.585,
+      "end": 202.243,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，Jimmy 到底是好人，还是 troublemaker？"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 202.593,
+      "end": 208.633,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他的 intention 是 kind。他想给 children's hospital 送 presents，这一点很温暖。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 208.983,
+      "end": 212.128,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是他骑 Jumbo 走 main street，就不合适了？"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 212.477,
+      "end": 218.277,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。公共道路属于 everyone。Kind intention 不能取消 traffic rules。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 218.627,
+      "end": 223.011,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么 baby elephant 也是问题？它又不是 naughty。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 223.361,
+      "end": 232.401,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Jumbo 不是坏，也不是危险角色。它只是 very large, very heavy, and not easy to control in a busy street。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 232.751,
+      "end": 234.921,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那他应该怎么办？"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 235.271,
+      "end": 242.191,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他应该提前申请 permission，选 safer route，也就是 side street 或安排好的路线。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 242.541,
+      "end": 245.409,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里的 circus 是不是以前常见？"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 245.759,
+      "end": 254.839,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "是的，old circuses often used animal acts。但今天我们更重视 animal welfare，也会避免这种 city street stunt。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 255.189,
+      "end": 258.818,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以我们可以理解旧故事，但不复制旧做法。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 259.168,
+      "end": 265.528,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Exactly. 这就是 modern bridge：kind idea 加 safe plan，加 respect for others。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 265.878,
+      "end": 269.493,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那警察说 arrest Jumbo，是不是很严肃？"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 269.842,
+      "end": 275.642,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。那是 friendly police humour。因为他们累坏了，却也觉得场面 amusing。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 275.992,
+      "end": 280.242,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Let him off this time"
+        },
+        {
+          "lang": "zh",
+          "text": "就是这次放过它？"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 280.592,
+      "end": 286.952,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。这句话把笑点收住：Jumbo has a good record，所以这次就 let him off。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 287.301,
+      "end": 293.709,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Last Christmas, the circus owner, Jimmy Gates, decided to take some presents to a children's hospital."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 294.059,
+      "end": 303.275,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Dressed up as Father Christmas and accompanied by a 'guard of honour' of six pretty girls, he set off down the main street of the city riding a baby elephant called Jumbo."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 303.625,
+      "end": 307.609,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He should have known that the police would never allow this sort of thing."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 307.959,
+      "end": 314.319,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A policeman approached Jimmy and told him he ought to have gone along a side street as Jumbo was holding up the traffic."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 314.669,
+      "end": 318.797,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Though Jimmy agreed to go at once, Jumbo refused to move."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 319.147,
+      "end": 323.635,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Fifteen policemen had to push very hard to get him off the main street."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 323.985,
+      "end": 328.089,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The police had a difficult time, but they were most amused."
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 328.438,
+      "end": 334.942,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Jumbo must weigh a few tons,' said a policeman afterwards, 'so it was fortunate that we didn't have to carry him."
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 335.292,
+      "end": 340.668,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Of course, we should arrest him, but as he has a good record, we shall let him off this time.'"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 341.018,
+      "end": 343.986,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "versus"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组词："
+        },
+        {
+          "lang": "en",
+          "text": "versus"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 344.336,
+      "end": 346.112,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "versus"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Versus"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 346.462,
+      "end": 356.758,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "versus"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Versus"
+        },
+        {
+          "lang": "zh",
+          "text": "的意思接近 against，常常写作"
+        },
+        {
+          "lang": "en",
+          "text": "vs."
+        },
+        {
+          "lang": "zh",
+          "text": "，在比赛、游戏、标题里很常见。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 357.108,
+      "end": 363.131,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "versus"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课标题是"
+        },
+        {
+          "lang": "en",
+          "text": "Jumbo versus the police"
+        },
+        {
+          "lang": "zh",
+          "text": "，听起来像一场对阵。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 363.481,
+      "end": 368.601,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "versus"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但它不是 fight。Jumbo 没有攻击警察，警察也没有伤害 Jumbo。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 368.951,
+      "end": 376.759,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "versus"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "versus"
+        },
+        {
+          "lang": "zh",
+          "text": "是 playful title，把“推不动小象”的喜剧冲突说得更有趣。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 377.109,
+      "end": 383.937,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "versus"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住："
+        },
+        {
+          "lang": "en",
+          "text": "versus"
+        },
+        {
+          "lang": "zh",
+          "text": "可以有对抗感，但这一课的语气是 gentle humour。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 384.287,
+      "end": 387.23,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "circus"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组词："
+        },
+        {
+          "lang": "en",
+          "text": "circus"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 387.58,
+      "end": 389.332,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "circus"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Circus"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 389.682,
+      "end": 396.466,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "circus"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Circus"
+        },
+        {
+          "lang": "zh",
+          "text": "是马戏团，以前常有 travelling show、performers，也常出现 animal acts。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 396.816,
+      "end": 404.048,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "circus"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里的 Jimmy 是"
+        },
+        {
+          "lang": "en",
+          "text": "the circus owner"
+        },
+        {
+          "lang": "zh",
+          "text": "，所以他会想到 elephant 和 festive show。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 404.398,
+      "end": 411.078,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "circus"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但现代孩子要知道：today people care much more about animal welfare and public safety。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 411.428,
+      "end": 417.228,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "circus"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以我们学的是旧故事里的语言和笑点，不是把 animal street stunt 当成好主意。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 417.577,
+      "end": 427.621,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "circus"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "相关词还有："
+        },
+        {
+          "lang": "en",
+          "text": "Father Christmas"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "present"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "guard of honour"
+        },
+        {
+          "lang": "zh",
+          "text": "，还有"
+        },
+        {
+          "lang": "en",
+          "text": "set off"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 427.971,
+      "end": 431.171,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "fortunate"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组词："
+        },
+        {
+          "lang": "en",
+          "text": "fortunate"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 431.521,
+      "end": 433.345,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "fortunate"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Fortunate"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 433.695,
+      "end": 439.454,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "fortunate"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Fortunate"
+        },
+        {
+          "lang": "zh",
+          "text": "是 lucky，表示“幸好情况没有更糟”。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 439.804,
+      "end": 444.388,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "fortunate"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "警察说："
+        },
+        {
+          "lang": "en",
+          "text": "it was fortunate that we didn't have to carry him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 444.738,
+      "end": 450.498,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "fortunate"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的笑点是：Jumbo 太重了，推走已经很难，更别说 carry him。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 450.848,
+      "end": 460.872,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "fortunate"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还要连上几个词："
+        },
+        {
+          "lang": "en",
+          "text": "weigh"
+        },
+        {
+          "lang": "zh",
+          "text": "是称重；"
+        },
+        {
+          "lang": "en",
+          "text": "arrest"
+        },
+        {
+          "lang": "zh",
+          "text": "是逮捕；"
+        },
+        {
+          "lang": "en",
+          "text": "good record"
+        },
+        {
+          "lang": "zh",
+          "text": "是良好记录。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 461.221,
+      "end": 466.817,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "fortunate"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后"
+        },
+        {
+          "lang": "en",
+          "text": "let him off"
+        },
+        {
+          "lang": "zh",
+          "text": "是这次放过他，不处罚。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 467.167,
+      "end": 473.467,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "fortunate"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "fortunate"
+        },
+        {
+          "lang": "zh",
+          "text": "把辛苦和幽默连在一起：it could have been worse。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 473.817,
+      "end": 477.857,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法从“事情已经发生以后，大家回头看”开始。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 478.207,
+      "end": 483.599,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一句："
+        },
+        {
+          "lang": "en",
+          "text": "He should have known that the police would never allow this sort of thing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 483.948,
+      "end": 490.172,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Should have known"
+        },
+        {
+          "lang": "zh",
+          "text": "是本来应该知道，但当时没有想清楚。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 490.522,
+      "end": 494.602,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二句："
+        },
+        {
+          "lang": "en",
+          "text": "he ought to have gone along a side street"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 494.952,
+      "end": 502.024,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Ought to have gone"
+        },
+        {
+          "lang": "zh",
+          "text": "也是回头判断：本来应该走 side street，而不是 main street。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 502.374,
+      "end": 507.294,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这两句都不是现在命令，而是 after-the-event judgment。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 507.644,
+      "end": 511.668,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个结构："
+        },
+        {
+          "lang": "en",
+          "text": "Jumbo must weigh a few tons"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 512.018,
+      "end": 521.597,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里"
+        },
+        {
+          "lang": "en",
+          "text": "must"
+        },
+        {
+          "lang": "zh",
+          "text": "不是命令 Jumbo 去 weigh，而是根据证据强烈判断：它肯定有好几吨重。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 521.947,
+      "end": 525.715,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四个结构："
+        },
+        {
+          "lang": "en",
+          "text": "we didn't have to carry him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 526.065,
+      "end": 532.713,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Didn't have to"
+        },
+        {
+          "lang": "zh",
+          "text": "是“不必”，不是“没能”。幸好他们不用把 Jumbo 抬走。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 533.063,
+      "end": 538.459,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后："
+        },
+        {
+          "lang": "en",
+          "text": "we shall let him off this time"
+        },
+        {
+          "lang": "zh",
+          "text": "，意思是这次放过他。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 538.809,
+      "end": 551.512,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天带走五个故事表达："
+        },
+        {
+          "lang": "en",
+          "text": "should have known"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "ought to have gone"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "must weigh"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "didn't have to carry"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "let him off"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 551.862,
+      "end": 558.022,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把小象游街换成一个现代安全场景："
+        },
+        {
+          "lang": "en",
+          "text": "A Safer Route"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 558.372,
+      "end": 563.852,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你和同学要把 holiday gifts 送到 children's ward，这是一个 kind idea。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 564.202,
+      "end": 571.322,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "一开始，你们想让一个 huge mascot 走过最忙的 main hall，结果挡住了入口。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 571.672,
+      "end": 576.192,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师提醒你们：you should have chosen a safer route。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 576.541,
+      "end": 585.261,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你要解释好心、承认路线不合适、说明什么 was holding up the traffic，再 promise a safer plan。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 585.611,
+      "end": 594.475,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，用 word bank 补完整 5 个空，把"
+        },
+        {
+          "lang": "en",
+          "text": "kind idea, safe route, permission"
+        },
+        {
+          "lang": "zh",
+          "text": "说清楚。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 594.825,
+      "end": 602.145,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 602.495,
+      "end": 608.535,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓好心线：Jimmy decided to take presents to a children's hospital。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 608.885,
+      "end": 614.525,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓规则线：main street 太忙，he ought to have gone along a side street。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 614.875,
+      "end": 623.835,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后抓笑点线：Jumbo refused to move, must weigh a few tons, and the police let him off this time。"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 624.184,
+      "end": 637.504,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，② 完形，③ 中译英，④ 英译中，⑤ 拓展阅读，⑥ 句式仿写，⑦ 默写，一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 637.854,
+      "end": 646.318,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "a kind idea still needs a safe plan"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 65
+}
