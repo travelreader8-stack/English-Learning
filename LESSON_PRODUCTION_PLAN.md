@@ -248,14 +248,14 @@ student's answer against the wrong reference.
 
 - Do not add or preserve uneven `chunks` in `web/data/lessons.json`.
 - If a lesson has `chunks`, `chunks.zh.length` must equal `chunks.en.length`.
-- Prefer 3-5 meaning-based chunks for lessons where detailed translation
-  feedback matters.
-- If a lesson has no chunks, the frontend may auto-split the passage. When the
-  auto-split Chinese and English counts differ, the frontend intentionally falls
-  back to one whole-passage segment so references do not drift.
+- Each translation test unit should be one or two sentences, grouped by meaning
+  rather than as a full paragraph.
+- If a lesson has no chunks, the frontend auto-splits and then groups Chinese
+  and English into the same number of one- or two-sentence units. A whole-passage
+  fallback is treated as a data/segmentation bug, not an acceptable experience.
 - During production validation, `python3 tests/test_pipeline.py` must pass; it
-  checks all 96 lessons for uneven manual chunks and reports how many currently
-  use the whole-passage fallback.
+  checks all 96 lessons for uneven manual chunks, overlong manual chunks, and
+  any remaining whole-passage fallback.
 
 ## Standard Production Steps
 
@@ -265,7 +265,8 @@ student's answer against the wrong reference.
    - Confirm that the course design card exists at
      `lesson_plans/lesson_NNN.md`.
    - If the lesson already has `chunks`, confirm Chinese and English chunk
-     counts are equal before producing or publishing.
+     counts are equal and each unit stays within one or two sentences before
+     producing or publishing.
 
 2. **Script and exercise assets**
    - Create `pipeline/scripts/lesson_N.script.md`.
@@ -313,8 +314,9 @@ student's answer against the wrong reference.
    - Verify the timeline has all required scene types, 4 retell frames, 3 vocab
      words, and monotonic timing.
    - Verify translation practice segmentation is safe: manual `chunks`, if
-     present, must be equal length; otherwise the frontend whole-passage fallback
-     is acceptable.
+     present, must be equal length and no unit may exceed two sentences. The
+     frontend should generate one- or two-sentence units; whole-passage fallback
+     is a failure to fix before publishing.
    - For any lesson whose plan contains an `Extension Practice Direction`,
      verify `web/data/extension/lesson_N.json` exists, is registered in
      `web/data/extension/index.json`, and contains both `reading` and
@@ -411,8 +413,8 @@ A lesson is ready only when:
 - The lesson audio, timeline, and 4 WebP frames exist.
 - The lesson can be opened at `/lesson.html?id=N`.
 - Translation practice cannot pair a Chinese segment with the wrong English
-  reference: manual chunks are equal length, or the lesson uses the frontend's
-  whole-passage fallback.
+  reference: manual chunks are equal length, and all generated translation units
+  are one or two sentences rather than a whole paragraph.
 - The script clearly follows the modern bridge and story focus from the
   per-lesson plan.
 - The `hook` is brief and non-duplicative; it sets up the key bridge or joke

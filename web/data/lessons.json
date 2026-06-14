@@ -126,16 +126,26 @@
     "audio_path": "/audio/lesson_1.mp3",
     "chunks": {
       "zh": [
-        "上星期我去看戏。我的座位很好,戏很有趣,但我却无法欣赏。",
-        "一青年男子与一青年女子坐在我的身后,大声说话。我非常生气,因为我听不见演员在说什么。",
-        "我回过头去怒视着那一男一女,他们却毫不理会。最后,我忍不住了。",
-        "我又一次回过头去,生气地说:\"我一个字也听不见了!\" \"不关你的事,\"那男的毫不客气地说,\"这是私人间的谈话!\""
+        "上星期我去看戏。",
+        "我的座位很好，戏很有意思。",
+        "但我却无法欣赏。一青年男子与一青年女子坐在我的身后。",
+        "他们大声地说着话。我非常生气。",
+        "因为我听不见演员在说什么。我回过头去。",
+        "我怒视着那一男一女，他们却毫不理会。",
+        "最后，我忍不住了，又一次回过头去。",
+        "我生气地说：“我一个字也听不见了！”",
+        "“不关你的事，”那男的毫不客气地说，“这是私人间的谈话！”"
       ],
       "en": [
-        "Last week I went to the theatre. I had a very good seat. The play was very interesting. I did not enjoy it.",
-        "A young man and a young woman were sitting behind me. They were talking loudly. I got very angry. I could not hear the actors.",
-        "I turned round. I looked at the man and the woman angrily. They did not pay any attention. In the end, I could not bear it.",
-        "I turned round again. 'I can't hear a word!' I said angrily. 'It's none of your business,' the young man said rudely. 'This is a private conversation!'"
+        "Last week I went to the theatre.",
+        "I had a very good seat. The play was very interesting.",
+        "I did not enjoy it. A young man and a young woman were sitting behind me.",
+        "They were talking loudly. I got very angry.",
+        "I could not hear the actors. I turned round.",
+        "I looked at the man and the woman angrily. They did not pay any attention.",
+        "In the end, I could not bear it. I turned round again.",
+        "'I can't hear a word!' I said angrily.",
+        "'It's none of your business,' the young man said rudely. 'This is a private conversation!'"
       ]
     }
   },
@@ -238,21 +248,7 @@
         }
       ]
     },
-    "audio_path": "/audio/lesson_2.mp3",
-    "chunks": {
-      "zh": [
-        "那是个星期天，而在星期天我是从来不早起的，有时我要一直躺到吃午饭的时候。",
-        "上个星期天，我起得很晚。我望望窗外，外面一片昏暗。\"鬼天气！\"我想，\"又下雨了。\"",
-        "正在这时，电话铃响了。是我姑母露西打来的。\"我刚下火车，\"她说，\"我这就来看你。\"\"但我还在吃早饭，\"我说。",
-        "\"你在干什么？\"她问道。\"我正在吃早饭，\"我又说了一遍。\"天啊，\"她说，\"你总是起得这么晚吗？现在已经1点钟了！\""
-      ],
-      "en": [
-        "It was Sunday. I never get up early on Sundays. I sometimes stay in bed until lunchtime.",
-        "Last Sunday I got up very late. I looked out of the window. It was dark outside. 'What a day!' I thought. 'It's raining again.'",
-        "Just then, the telephone rang. It was my aunt Lucy. 'I've just arrived by train,' she said. 'I'm coming to see you.' 'But I'm still having breakfast,' I said.",
-        "'What are you doing?' she asked. 'I'm having breakfast,' I repeated. 'Dear me,' she said. 'Do you always get up so late? It's one o'clock!'"
-      ]
-    }
+    "audio_path": "/audio/lesson_2.mp3"
   },
   {
     "id": 3,
@@ -1232,20 +1228,6 @@
     "title_zh": "是不是疯了",
     "english": "Aeroplanes are slowly driving me mad. I live near an airport and passing planes can be heard night and day. The airport was built years ago, but for some reason it could not be used then. Last year, however, it came into use. Over a hundred people must have been driven away from their homes by the noise. I am one of the few people left. Sometimes I think this house will be knocked down by a passing plane. I have been offered a large sum of money to go away, but I am determined to stay here. Everybody says I must be mad and they are probably right.",
     "chinese": "飞机正在逐渐把我逼疯。我住在一个机场附近，过往飞机日夜不绝于耳。机场是许多年前建的，但由于某种原因当时未能启用。然而去年机场开始使用了。有100多人肯定是被噪音逼得已经弃家远去，我是少数留下来的人中的一个。有时我觉得这房子就要被一架飞过的飞机撞倒。他们曾向我提供一大笔钱让我搬走，但我决定留在这儿。大家都说我肯定是疯了，也许他们说的是对的。",
-    "chunks": {
-      "zh": [
-        "飞机正在逐渐把我逼疯。我住在一个机场附近，过往飞机日夜不绝于耳。",
-        "机场是许多年前建的，但由于某种原因当时未能启用。然而去年机场开始使用了。",
-        "有100多人肯定是被噪音逼得已经弃家远去，我是少数留下来的人中的一个。有时我觉得这房子就要被一架飞过的飞机撞倒。",
-        "他们曾向我提供一大笔钱让我搬走，但我决定留在这儿。大家都说我肯定是疯了，也许他们说的是对的。"
-      ],
-      "en": [
-        "Aeroplanes are slowly driving me mad. I live near an airport and passing planes can be heard night and day.",
-        "The airport was built years ago, but for some reason it could not be used then. Last year, however, it came into use.",
-        "Over a hundred people must have been driven away from their homes by the noise. I am one of the few people left. Sometimes I think this house will be knocked down by a passing plane.",
-        "I have been offered a large sum of money to go away, but I am determined to stay here. Everybody says I must be mad and they are probably right."
-      ]
-    },
     "keywords": [
       "mad",
       "reason",
@@ -1459,7 +1441,7 @@
     "title": "The best art critics",
     "title_zh": "最佳艺术评论家",
     "english": "I am an art student and I paint a lot of pictures. Many people pretend that they understand modern art. They always tell you what a picture is 'about'. Of course, many pictures are not 'about' anything. They are just pretty patterns. We like them in the same way that we like pretty curtain material. I think that young children often appreciate modern pictures better than anyone else. They notice more. My sister is only seven, but she always tells me whether my pictures are good or not. She came into my room yesterday. 'What are you doing?' she asked. 'I'm hanging this picture on the wall,' I answered. 'It's a new one. Do you like it?' She looked at it critically for a moment. 'It's all right,' she said, 'but isn't it upside down?' I looked at it again. She was right! It was!",
-    "chinese": "我是个学艺术的学生，画了很多画。有很多人装成很懂现代艺术的样子，总是告诉你一幅画的“意思”是什么。当然，有很多画是什么“意思”也没有的。它们就是些好看的图案，我们喜爱它们就像我们喜欢漂亮的窗帘布一样。我觉得小孩子们往往比任何人都更能欣赏现代绘画，他们观察到的东西更多。我的妹妹只有7岁，但她总能说出我的画是好还是坏。昨天她到我房里来了。",
+    "chinese": "我是个学艺术的学生，画了很多画。有很多人装成很懂现代艺术的样子，总是告诉你一幅画的“意思”是什么。当然，有很多画是什么“意思”也没有的。它们就是些好看的图案，我们喜爱它们就像我们喜欢漂亮的窗帘布一样。我觉得小孩子们往往比任何人都更能欣赏现代绘画，他们观察到的东西更多。我的妹妹只有7岁，但她总能说出我的画是好还是坏。昨天她到我房里来了。“你在干什么？”她问。“我正把这幅画挂在墙上，”我回答。“这是幅新画。你喜欢吗？”她挑剔地看了一会儿。“还可以，”她说，“不过，它是不是挂倒了？”我又看了看。她说得对！是挂倒了！",
     "keywords": [
       "art",
       "critic",

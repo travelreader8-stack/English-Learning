@@ -65,7 +65,9 @@ Check that:
   than 2 times. Each `answer_index` must still point to the correct option
   after shuffling.
 - Translation chunks, if present in `web/data/lessons.json`, have equal Chinese
-  and English segment counts.
+  and English segment counts, and each translation unit is one or two sentences.
+- The `中译英` and `英译中` screens do not show a whole paragraph as a single
+  test unit; automatic grouping should also stay within one or two sentences.
 
 ## Media QC
 

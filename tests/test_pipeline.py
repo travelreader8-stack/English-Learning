@@ -155,27 +155,30 @@ def main() -> None:
     else:
         ok("audio_path 全部 /audio/lesson_N.mp3")
 
-    section("Lesson 1 chunks（如有）")
+    section("Lesson 1 手工翻译 chunks")
     L1 = next((L for L in lessons if L["id"] == 1), None)
     if L1 and L1.get("chunks"):
         zh_chunks = L1["chunks"].get("zh", [])
         en_chunks = L1["chunks"].get("en", [])
-        if 2 <= len(zh_chunks) <= 5 and len(zh_chunks) == len(en_chunks):
+        if len(zh_chunks) == len(en_chunks):
             ok(f"Lesson 1 chunks: zh={len(zh_chunks)}, en={len(en_chunks)}")
         else:
-            warn(f"Lesson 1 chunks 数量异常: zh={len(zh_chunks)}, en={len(en_chunks)}")
+            bad(f"Lesson 1 chunks 数量不一致: zh={len(zh_chunks)}, en={len(en_chunks)}")
         # 串起来应该约等于 english/chinese
         en_join = " ".join(en_chunks).strip()
         if abs(len(en_join) - len(L1["english"])) < 50:
             ok("en chunks 拼起来约等于 english 全文")
         else:
-            warn(f"en chunks 拼合 {len(en_join)} 字 vs english {len(L1['english'])} 字差距大")
+            bad(f"en chunks 拼合 {len(en_join)} 字 vs english {len(L1['english'])} 字差距大")
     else:
-        warn("Lesson 1 还没有 chunks（其余课更不会有）— 后续要加")
+        bad("Lesson 1 需要手工 chunks，因为中文翻译压缩了多句英文")
 
-    section("翻译练习 chunks 对齐")
+    section("翻译练习分段")
+    max_translation_sentences = 2
     mismatched_chunks = []
+    oversize_manual_chunks = []
     auto_fallback_lessons = []
+    generated_counts = []
 
     def split_sentences_en(text):
         if not text:
@@ -212,28 +215,129 @@ def main() -> None:
     def split_sentences_zh(text):
         if not text:
             return []
-        matches = re.findall(r"[^。！？!?]+[。！？!?]+['\"」']*", text)
-        return [s.strip() for s in (matches or [text]) if s.strip()]
+        matches = re.findall(r"[^。！？!?]+[。！？!?]+[’'\"\”」]*", text)
+        parts = [s.strip() for s in (matches or [text]) if s.strip()]
+        merged = []
+        i = 0
+        while i < len(parts):
+            cur = parts[i].strip()
+            nxt = parts[i + 1].strip() if i + 1 < len(parts) else ""
+            is_quoted_question = re.match(r"^[‘'\"\“].+[？?！!][’'\"\”」]?$", cur) is not None
+            next_is_dialog_tag = re.match(
+                r"^[’'\"\”」]*(?:[^，。！？!?]{1,16})?(?:说|问|回答|答道|说道|喊道|叫道|惊叫|解释|补充|想)",
+                nxt,
+            ) is not None
+            if is_quoted_question and next_is_dialog_tag:
+                merged.append(cur + nxt)
+                i += 2
+            else:
+                merged.append(cur)
+                i += 1
+        return [s for s in merged if s]
 
-    for L in lessons:
-        chunks = L.get("chunks") or {}
+    def translation_chunk_length(text):
+        return len(re.sub(r"\s+", "", str(text or ""))) or 1
+
+    def chunks_stay_small(chunks, splitter):
+        return all((len(splitter(chunk)) or 1) <= max_translation_sentences for chunk in chunks)
+
+    def partition_sentences(sentences, chunk_count, joiner):
+        clean = [str(s or "").strip() for s in sentences if str(s or "").strip()]
+        n = len(clean)
+        count = max(1, min(chunk_count, n))
+        if not n:
+            return []
+        if count == n:
+            return clean
+        lengths = [translation_chunk_length(s) for s in clean]
+        total = sum(lengths) or n
+        average = total / count
+        inf = 10**18
+        dp = [[inf] * (count + 1) for _ in range(n + 1)]
+        prev = [[None] * (count + 1) for _ in range(n + 1)]
+        dp[0][0] = 0
+        for i in range(1, n + 1):
+            for c in range(1, count + 1):
+                for size in range(1, max_translation_sentences + 1):
+                    j = i - size
+                    if j < 0 or dp[j][c - 1] >= inf:
+                        continue
+                    group_length = sum(lengths[j:i])
+                    cost = dp[j][c - 1] + (group_length - average) ** 2
+                    if cost < dp[i][c]:
+                        dp[i][c] = cost
+                        prev[i][c] = (j, c - 1)
+        if dp[n][count] >= inf:
+            return []
+        groups = []
+        i, c = n, count
+        while c > 0:
+            step = prev[i][c]
+            if not step:
+                return []
+            j, previous_count = step
+            groups.append(joiner.join(clean[j:i]).strip())
+            i, c = j, previous_count
+        return list(reversed(groups))
+
+    def get_translation_chunks(lesson):
+        chunks = lesson.get("chunks") or {}
         zh_chunks = [s.strip() for s in chunks.get("zh", []) if isinstance(s, str) and s.strip()]
         en_chunks = [s.strip() for s in chunks.get("en", []) if isinstance(s, str) and s.strip()]
         if zh_chunks or en_chunks:
             if len(zh_chunks) != len(en_chunks):
-                mismatched_chunks.append((L["id"], len(zh_chunks), len(en_chunks)))
-            continue
+                return "bad_manual", zh_chunks, en_chunks
+            if chunks_stay_small(zh_chunks, split_sentences_zh) and chunks_stay_small(en_chunks, split_sentences_en):
+                return "manual", zh_chunks, en_chunks
+            return "bad_manual_size", zh_chunks, en_chunks
 
-        zh_auto = split_sentences_zh(L.get("chinese", ""))
-        en_auto = split_sentences_en(L.get("english", ""))
-        if len(zh_auto) != len(en_auto):
-            auto_fallback_lessons.append((L["id"], len(zh_auto), len(en_auto)))
+        zh_auto = split_sentences_zh(lesson.get("chinese", ""))
+        en_auto = split_sentences_en(lesson.get("english", ""))
+        if zh_auto and len(zh_auto) == len(en_auto):
+            return "auto_equal", zh_auto, en_auto
+
+        chunk_count = max(
+            (len(zh_auto) + max_translation_sentences - 1) // max_translation_sentences,
+            (len(en_auto) + max_translation_sentences - 1) // max_translation_sentences,
+            1,
+        )
+        if zh_auto and en_auto and chunk_count <= min(len(zh_auto), len(en_auto)):
+            zh_grouped = partition_sentences(zh_auto, chunk_count, "")
+            en_grouped = partition_sentences(en_auto, chunk_count, " ")
+            if zh_grouped and len(zh_grouped) == len(en_grouped):
+                return "auto_grouped", zh_grouped, en_grouped
+
+        return "fallback", ["".join(zh_auto)], [" ".join(en_auto)]
+
+    for L in lessons:
+        mode, zh_units, en_units = get_translation_chunks(L)
+        generated_counts.append((L["id"], mode, len(zh_units)))
+        if mode == "bad_manual":
+            mismatched_chunks.append((L["id"], len(zh_units), len(en_units)))
+            continue
+        if mode == "bad_manual_size":
+            oversize_manual_chunks.append((L["id"], len(zh_units), len(en_units)))
+            continue
+        if len(zh_units) != len(en_units):
+            mismatched_chunks.append((L["id"], len(zh_units), len(en_units)))
+        if not chunks_stay_small(zh_units, split_sentences_zh) or not chunks_stay_small(en_units, split_sentences_en):
+            if mode == "manual":
+                oversize_manual_chunks.append((L["id"], len(zh_units), len(en_units)))
+            else:
+                auto_fallback_lessons.append((L["id"], mode, len(zh_units), len(en_units)))
 
     if mismatched_chunks:
         bad(f"手工 chunks 中英数量不一致: {mismatched_chunks[:10]}")
     else:
         ok("所有手工 chunks 中英数量一致")
-    ok(f"已检查全部 {len(lessons)} 课；其中自动切句不一致的 {len(auto_fallback_lessons)} 课会在前端退回整篇一段，避免参考译文错位")
+    if oversize_manual_chunks:
+        bad(f"手工 chunks 超过 {max_translation_sentences} 句: {oversize_manual_chunks[:10]}")
+    else:
+        ok(f"所有手工 chunks 均不超过 {max_translation_sentences} 句")
+    if auto_fallback_lessons:
+        bad(f"仍有课会退回整篇一段或生成超长单位: {auto_fallback_lessons[:10]}")
+    else:
+        ok(f"已检查全部 {len(lessons)} 课；中译英/英译中均可生成 1-2 句测试单位")
 
     section("生活场景填空不提前显示参考答案")
     you_too_dir = ROOT / "web" / "data" / "you_too"

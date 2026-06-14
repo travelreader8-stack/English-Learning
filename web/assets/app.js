@@ -82,6 +82,8 @@ function escapeCssIdent(s) {
 
 // ─── 句子拆分（中英） ─────────────────────────────────────
 // 启发式切句子：英文按 .!? 切，中文按 。！？！？ 切；引号 + 后置说话标签会合并回一句。
+const MAX_TRANSLATION_SENTENCES_PER_UNIT = 2;
+
 function splitSentencesEN(text) {
   if (!text) return [];
   // 切点：.!? 后跟空格 + 大写字母（或引号 + 大写）
@@ -106,28 +108,121 @@ function splitSentencesEN(text) {
 function splitSentencesZH(text) {
   if (!text) return [];
   // 匹配「非句末标点 + 句末标点 + 可选引号」反复
-  const matches = text.match(/[^。！？!?]+[。！？!?]+['"」']*/g);
-  return (matches || [text]).map(s => s.trim()).filter(Boolean);
+  const matches = text.match(/[^。！？!?]+[。！？!?]+[’'"\”」]*/g);
+  const parts = (matches || [text]).map(s => s.trim()).filter(Boolean);
+  const merged = [];
+  for (let i = 0; i < parts.length; i++) {
+    const cur = parts[i].trim();
+    const next = (parts[i + 1] || "").trim();
+    const isQuotedQuestion = /^[‘'"\“].+[？?！!][’'"\”」]?$/.test(cur);
+    const nextIsDialogTag = /^[’'"\”」]*(?:[^，。！？!?]{1,16})?(?:说|问|回答|答道|说道|喊道|叫道|惊叫|解释|补充|想)/.test(next);
+    if (isQuotedQuestion && nextIsDialogTag) {
+      merged.push(cur + next);
+      i++;
+    } else if (cur) {
+      merged.push(cur);
+    }
+  }
+  return merged.filter(Boolean);
+}
+
+function translationChunkLength(text) {
+  return String(text ?? "").replace(/\s+/g, "").length || 1;
+}
+
+function splitChunkCount(chunks, splitter) {
+  return chunks.map(chunk => splitter(chunk).length || 1);
+}
+
+function chunksStaySmall(chunks, splitter) {
+  return splitChunkCount(chunks, splitter).every(count => count <= MAX_TRANSLATION_SENTENCES_PER_UNIT);
+}
+
+function partitionSentencesForTranslation(sentences, chunkCount, joiner) {
+  const clean = sentences.map(s => String(s ?? "").trim()).filter(Boolean);
+  const n = clean.length;
+  const count = Math.max(1, Math.min(chunkCount, n));
+  if (!n) return [];
+  if (count === n) return clean;
+
+  const lengths = clean.map(translationChunkLength);
+  const total = lengths.reduce((sum, len) => sum + len, 0) || n;
+  const average = total / count;
+  const dp = Array.from({ length: n + 1 }, () => Array(count + 1).fill(Infinity));
+  const prev = Array.from({ length: n + 1 }, () => Array(count + 1).fill(null));
+  dp[0][0] = 0;
+
+  for (let i = 1; i <= n; i++) {
+    for (let c = 1; c <= count; c++) {
+      for (let size = 1; size <= MAX_TRANSLATION_SENTENCES_PER_UNIT; size++) {
+        const j = i - size;
+        if (j < 0 || !Number.isFinite(dp[j][c - 1])) continue;
+        const groupLength = lengths.slice(j, i).reduce((sum, len) => sum + len, 0);
+        const cost = dp[j][c - 1] + Math.pow(groupLength - average, 2);
+        if (cost < dp[i][c]) {
+          dp[i][c] = cost;
+          prev[i][c] = [j, c - 1];
+        }
+      }
+    }
+  }
+
+  if (!Number.isFinite(dp[n][count])) return [];
+
+  const groups = [];
+  let i = n;
+  let c = count;
+  while (c > 0) {
+    const step = prev[i][c];
+    if (!step) return [];
+    const [j, previousCount] = step;
+    groups.push(clean.slice(j, i).join(joiner).trim());
+    i = j;
+    c = previousCount;
+  }
+  return groups.reverse();
+}
+
+function buildAlignedTranslationChunks(splitZh, splitEn) {
+  const zh = splitZh.map(s => String(s ?? "").trim()).filter(Boolean);
+  const en = splitEn.map(s => String(s ?? "").trim()).filter(Boolean);
+  if (!zh.length || !en.length) return { zhSentences: zh, enSentences: en };
+  if (zh.length === en.length) return { zhSentences: zh, enSentences: en };
+
+  const chunkCount = Math.max(
+    Math.ceil(zh.length / MAX_TRANSLATION_SENTENCES_PER_UNIT),
+    Math.ceil(en.length / MAX_TRANSLATION_SENTENCES_PER_UNIT)
+  );
+  if (chunkCount <= Math.min(zh.length, en.length)) {
+    const zhChunks = partitionSentencesForTranslation(zh, chunkCount, "");
+    const enChunks = partitionSentencesForTranslation(en, chunkCount, " ");
+    if (zhChunks.length && zhChunks.length === enChunks.length) {
+      return { zhSentences: zhChunks, enSentences: enChunks };
+    }
+  }
+
+  // 极端脏数据仍保留安全兜底，测试会把这种情况标出来。
+  return {
+    zhSentences: [zh.join("")].filter(Boolean),
+    enSentences: [en.join(" ")].filter(Boolean),
+  };
 }
 
 function getTranslationSentences(lesson) {
   const chunkZh = Array.isArray(lesson.chunks?.zh) ? lesson.chunks.zh.map(s => String(s ?? "").trim()).filter(Boolean) : [];
   const chunkEn = Array.isArray(lesson.chunks?.en) ? lesson.chunks.en.map(s => String(s ?? "").trim()).filter(Boolean) : [];
-  if (chunkZh.length && chunkZh.length === chunkEn.length) {
+  if (
+    chunkZh.length &&
+    chunkZh.length === chunkEn.length &&
+    chunksStaySmall(chunkZh, splitSentencesZH) &&
+    chunksStaySmall(chunkEn, splitSentencesEN)
+  ) {
     return { zhSentences: chunkZh, enSentences: chunkEn };
   }
 
   const splitZh = splitSentencesZH(lesson.chinese);
   const splitEn = splitSentencesEN(lesson.english);
-  if (splitZh.length === splitEn.length) {
-    return { zhSentences: splitZh, enSentences: splitEn };
-  }
-
-  // 自动切句中英数量不一致时，整篇作为一段，避免参考译文串行错位。
-  return {
-    zhSentences: [String(lesson.chinese ?? "").trim()].filter(Boolean),
-    enSentences: [String(lesson.english ?? "").trim()].filter(Boolean),
-  };
+  return buildAlignedTranslationChunks(splitZh, splitEn);
 }
 
 // ─── State ─────────────────────────────────────────────────
@@ -1695,7 +1790,7 @@ function renderLesson(lesson) {
 
   renderCloze(lesson.cloze.rendered_html, lesson.cloze.blanks);
 
-  // 中译英 / 英译中：优先用对齐的 chunks；自动切句不等长时整篇作为一段。
+  // 中译英 / 英译中：优先用合格 chunks；否则自动组成 1-2 句的小测试单位。
   const { zhSentences, enSentences } = getTranslationSentences(lesson);
   state.lesson.zhSentences = zhSentences;
   state.lesson.enSentences = enSentences;
