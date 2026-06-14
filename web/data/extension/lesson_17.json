@@ -1,100 +1,95 @@
 {
   "lesson_id": 17,
   "reading": {
-    "title": "Playing a Younger Role",
-    "intro_zh": "这篇短文不复述 Jennifer 的舞台故事，而是换到学校短片拍摄：真实的学生和表演中的 role 不一样，costume、声音和动作帮助观众相信角色。重点回收 actress、stage、appear、bright、in spite of this、grown up。",
-    "word_bank": [
-      "actress",
-      "stage",
-      "appear",
-      "take part in",
-      "bright",
-      "costume",
-      "stockings",
-      "at least",
-      "in spite of this",
-      "grown up"
-    ],
+    "title": "What a Costume Really Does",
+    "intro_zh": "这篇短文不复述 Jennifer 的舞台故事，而是介绍戏剧服装（costume）背后的真实原理：服装如何帮助演员从真实的自己转变成角色，并让观众在第一句台词之前就读懂这个人。内容改编自 LibreTexts 开放教材《Theatre Appreciation》。",
+    "source": {
+      "title": "The Costume Team (Theatre Appreciation)",
+      "publisher": "Humanities LibreTexts / SUNY Oneonta",
+      "url": "https://human.libretexts.org/Bookshelves/Theater_and_Film/Theatre_Appreciation_(Pipino)/02:_Professionals_in_the_Theatre_-_Who_Does_What/2.07:_The_Costume_Team"
+    },
     "passage": [
-      "Next month, our class will make a short film on the classroom stage for the school festival, and Mei will take part in it. Mei is not a professional actress; she is the tallest student in our group, and she must be at least fourteen, but her role is a lost little child. In spite of this, she appears on screen as a six-year-old because she changes her voice, walks slowly, and wears a bright yellow costume with white stockings. At first, some students laughed, but after rehearsal everyone believed the role. Mei said the costume helped her stop thinking like herself and start thinking like the child. When our teacher asked whether it was hard to act so young, Mei smiled and said, \"It must be terrible to be grown up all the time!\""
+      "When an actor steps onto a stage, the audience begins judging the character long before a single line is spoken. Theatre specialists argue that a costume is never mere decoration; it is a silent language that conveys a character's age, wealth, occupation, confidence, and even the season and region in which the story unfolds. Because spectators instinctively draw conclusions from clothing in everyday life, designers can exploit those expectations, dressing a figure in shabby rags or an immaculate suit so that viewers form an opinion in an instant. A skilful designer may also overturn that opinion deliberately, letting a richly dressed character behave shamefully in order to surprise the audience.",
+      "For the performer, the costume serves a more intimate purpose. Many actors rely on it as the final step in transformation — the moment an ordinary person genuinely begins to feel like someone else. A story widely repeated in actor training illustrates this: a performer said he could not inhabit his college-professor role until he put on the brown suit the character wore. That psychological shift explains why designers are urged to picture each character as a real, breathing individual with a personal history rather than an abstract idea. The measure of a good costume is not how beautiful it looks, but how effectively it helps both actor and audience believe.",
+      "The tradition is ancient. In classical Greek theatre, elaborate masks transformed performers into gods and heroes, projecting both emotion and voice across vast open-air amphitheatres. In spite of the centuries that separate those festivals from a modern auditorium, the underlying principle has scarcely changed: cloth, paint, and disguise allow one human being to appear, convincingly, as another."
     ],
     "questions": [
       {
-        "id": "performer_role",
-        "question": "What role does Mei have to play?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "A theatre teacher.",
-          "A lost little child.",
-          "A professional actress.",
-          "A costume designer."
+          "How modern theatres are physically built and lit.",
+          "How costume helps create a character for both the audience and the actor.",
+          "Why beautiful clothing is the most important part of a play.",
+          "The biographies of famous Greek actors and directors."
         ],
         "answer_index": 1,
-        "explanation_zh": "短文说 Mei 的 role is a lost little child。"
+        "explanation_zh": "全文围绕 costume 如何同时帮助观众理解角色、帮助演员进入角色这一主题展开，而不是讲剧院建筑或某些演员的生平。"
       },
       {
-        "id": "identity_difference",
-        "question": "How is Mei's real identity different from the role?",
+        "id": "detail_info",
+        "question": "According to the passage, which of the following can a costume communicate to the audience?",
         "options": [
-          "She is at least fourteen, but she appears as a six-year-old child.",
-          "She is six years old, but she plays a grown-up teacher.",
-          "She is a professional actress, but she plays a student.",
-          "She is short, but she plays the tallest student."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "文中对比了 Mei must be at least fourteen 和 appears on screen as a six-year-old。"
-      },
-      {
-        "id": "costume_help",
-        "question": "Why is Mei's costume important?",
-        "options": [
-          "It helps her win a fashion prize.",
-          "It makes everyone forget the film.",
-          "It helps her think like the child and helps others believe the role.",
-          "It proves that short socks are always required."
-        ],
-        "answer_index": 2,
-        "explanation_zh": "短文说 costume helped her stop thinking like herself and start thinking like the child。"
-      },
-      {
-        "id": "audience_belief",
-        "question": "What did everyone believe after rehearsal?",
-        "options": [
-          "Mei was really six years old.",
-          "The school festival was cancelled.",
-          "Costumes were not useful.",
-          "The role in the short film."
+          "The ticket price of the performance.",
+          "The exact words of the script.",
+          "The opinions of the theatre critics.",
+          "The character's age, wealth, and occupation."
         ],
         "answer_index": 3,
-        "explanation_zh": "短文写道 after rehearsal everyone believed the role，不是相信 Mei 真的变小了。"
+        "explanation_zh": "第一段明确说服装能传达角色的 age、wealth、occupation、confidence 以及季节和地区等信息。"
       },
       {
-        "id": "acting_idea",
-        "question": "What lesson idea does the passage show?",
+        "id": "cause_effect",
+        "question": "Why can designers shape the audience's first impression so quickly through clothing?",
         "options": [
-          "A performer can appear as someone different from their real self.",
-          "Only young children can act in school films.",
-          "A bright costume is more important than acting.",
-          "Being grown up is always terrible."
+          "Because audiences are told the plot in advance.",
+          "Because people naturally judge others by their clothes in everyday life.",
+          "Because the lighting forces viewers to look only at the costume.",
+          "Because actors explain their costumes before each scene."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中说观众在日常生活中本能地根据衣着下判断，设计师正是利用了这种现实中的习惯，所以观众会立刻形成印象。"
+      },
+      {
+        "id": "inference",
+        "question": "What can we infer from the actor who mentioned the brown suit?",
+        "options": [
+          "Wearing the right costume can help an actor mentally become the character.",
+          "Brown suits are required for every serious role.",
+          "Real college professors must always wear brown suits.",
+          "The actor disliked the costume he was given."
         ],
         "answer_index": 0,
-        "explanation_zh": "整篇强调真实身份和角色身份不同，演员可以 appear as someone else。"
+        "explanation_zh": "演员说穿上棕色西装之前无法相信自己是大学教授，由此可推断合适的服装能帮助演员在心理上真正成为角色。"
+      },
+      {
+        "id": "vocab_in_context",
+        "question": "In the passage, the word \"exploit\" (in \"designers can exploit those expectations\") is closest in meaning to:",
+        "options": [
+          "to ignore completely.",
+          "to apologise for.",
+          "to make clever use of.",
+          "to forbid or block."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "exploit those expectations 指设计师巧妙地利用观众已有的预期，因此最接近 make clever use of（善加利用）。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓 Lesson 17 的五个核心句式：must be at least 表示强推测，In spite of this 写现实和角色的反差，appears ... as ... 写角色身份，will have to 写未来要求，it must be terrible to 写带玩笑感的强烈判断。",
+    "intro_zh": "今天把 Lesson 17 的五个核心句式提升到 B2+：must be at least 做有依据的强推测，In spite of this 写现实与角色之间的反差，appears ... as ... 写表演中的角色身份，will have to 写将来不得不承担的要求，it must be terrible to 用戏剧化口吻表达强烈判断。",
     "patterns": [
       {
         "id": "must_be_at_least",
         "title": "must be at least ...",
         "source": "She must be at least thirty-five years old.",
         "focus_zh": "must be at least 表示根据线索做强推测：一定至少是某个年龄、数量或程度。",
-        "task_zh": "仿写一句：根据声音、身高、经验或行为，推测某人至少多少岁或至少有多少经验。",
+        "task_zh": "仿写一句：根据某人的技巧、举止或经验等线索，推断他/她在年龄、资历或训练时长上至少达到某个程度，并说明你的依据。",
         "must_include": [
           "must be at least"
         ],
-        "min_words": 10,
-        "sample": "The new actor must be at least twenty because he drives to school.",
+        "min_words": 16,
+        "sample": "Judging by her flawless timing and the confidence she shows on stage, the lead actress must be at least a decade older than the teenagers she portrays.",
         "tip_zh": "这里的 must be 不是“必须”，而是“一定是”；at least 后面接数字或程度。"
       },
       {
@@ -102,12 +97,12 @@
         "title": "In spite of this, ...",
         "source": "In spite of this, she often appears on the stage as a young girl.",
         "focus_zh": "用 In spite of this 写“虽然前面是真的，但后面出现了一个反差”。",
-        "task_zh": "仿写一句：写一个演员真实情况和舞台角色之间的反差。",
+        "task_zh": "仿写一句：先陈述一个关于演员真实身份的事实，再用 In spite of this 写出舞台上出人意料、与现实形成强烈反差的角色呈现。",
         "must_include": [
           "In spite of this"
         ],
-        "min_words": 9,
-        "sample": "In spite of this, she still appears cheerful on the stage.",
+        "min_words": 16,
+        "sample": "In spite of this, the veteran performer manages to appear as a nervous teenager the instant the curtain rises and the lights find her.",
         "tip_zh": "this 指前文已经说过的事实；逗号后面写出乎意料的结果。"
       },
       {
@@ -115,13 +110,13 @@
         "title": "appears ... as ...",
         "source": "She often appears on the stage as a young girl.",
         "focus_zh": "appear as 用来说明表演中“呈现为什么角色”。",
-        "task_zh": "仿写一句：写某人在短片、舞台、配音或 cosplay 中扮演什么角色。",
+        "task_zh": "仿写一句：写某人借助声音、动作或服装等手段，在短片、舞台或配音中令人信服地呈现为一个与本人差距很大的角色。",
         "must_include": [
           "appears",
           "as"
         ],
-        "min_words": 8,
-        "sample": "He appears in the video as a tired old king.",
+        "min_words": 16,
+        "sample": "Through a borrowed voice, a stooped posture, and carefully chosen rags, the young actor convincingly appears in the documentary as a weary old fisherman.",
         "tip_zh": "as 后面接角色身份，比如 a detective, a robot, a young prince。"
       },
       {
@@ -129,12 +124,12 @@
         "title": "will have to ...",
         "source": "Jennifer will have to take part in a new play soon.",
         "focus_zh": "will have to 表示将来因为安排、任务或角色要求而必须做某事。",
-        "task_zh": "仿写一句：写你或同学为了一个角色、演出或比赛将不得不做什么准备。",
+        "task_zh": "仿写一句：为了一次演出、比赛或角色，写出某人或某个团队在未来不得不进行的、有一定难度的准备工作。",
         "must_include": [
           "will have to"
         ],
-        "min_words": 10,
-        "sample": "I will have to wear a dark coat for the detective role.",
+        "min_words": 16,
+        "sample": "Before the premiere, every member of the cast will have to rehearse the difficult final scene until the transformation looks completely effortless.",
         "tip_zh": "have to 后面接动词原形；可以写服装、排练、说话方式或动作要求。"
       },
       {
@@ -142,12 +137,12 @@
         "title": "it must be terrible to ...",
         "source": "Darling, it must be terrible to be grown up!",
         "focus_zh": "这个句式用 must be 表达一种强烈感受或玩笑式判断。",
-        "task_zh": "仿写一句：用轻松、戏剧化的语气说某件事一定很糟糕或很难。",
+        "task_zh": "仿写一句：用轻松、夸张、带戏剧色彩的语气，对某种处境做出强烈判断，说它一定非常糟糕或难以忍受。",
         "must_include": [
           "it must be terrible to"
         ],
-        "min_words": 9,
-        "sample": "It must be terrible to forget your lines before the show.",
+        "min_words": 16,
+        "sample": "Slipping back into character with a theatrical sigh, she whispered that it must be terrible to lose your disguise in front of a watching audience.",
         "tip_zh": "这句话可以很夸张、很戏剧化；注意 it must be terrible to 后面接动词原形。"
       }
     ]
