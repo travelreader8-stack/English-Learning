@@ -35,12 +35,12 @@
         "id": "rain_danger",
         "question": "Why was heavy rain dangerous after the fire?",
         "options": [
-          "It could wash away the loose soil because there were no roots.",
           "It would make the volunteers forget the garden path.",
           "It would stop all green shoots from ever growing.",
+          "It could wash away the loose soil because there were no roots.",
           "It could turn the seed bags into readable signs."
         ],
-        "answer_index": 0,
+        "answer_index": 2,
         "explanation_zh": "没有 roots 抓住土，heavy rain could wash away the loose soil，这就是危险。"
       },
       {
@@ -59,12 +59,12 @@
         "id": "why_seed_helped",
         "question": "Why did the grass seed help?",
         "options": [
-          "The grass could take root and help protect the slope.",
           "The grass made the clouds disappear immediately.",
           "The grass covered all signs with readable labels.",
-          "The grass turned the soil into stone."
+          "The grass turned the soil into stone.",
+          "The grass could take root and help protect the slope."
         ],
-        "answer_index": 0,
+        "answer_index": 3,
         "explanation_zh": "结尾说 new grass had begun to take root，first green patches helped protect the slope。"
       },
       {
