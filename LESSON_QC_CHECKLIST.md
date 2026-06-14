@@ -32,6 +32,7 @@ For Lesson N, inspect:
 - `pipeline/scripts/lesson_N.storyboard.json`
 - `web/data/you_too/lesson_N.json`
 - `web/data/read_aloud/lesson_N.json`
+- `web/data/extension/lesson_N.json`, if extension practice is enabled
 - `web/audio/lesson_N.mp3`
 - `web/audio/lesson_N.timeline.json`
 - `web/audio/lesson_N_frame_1.webp` through `lesson_N_frame_4.webp`
@@ -58,6 +59,11 @@ Check that:
 - `you_too` and `read_aloud` JSON are lesson-local and match the lesson focus.
 - `read_aloud` has 5-8 high-value sentences with `focus_zh`, `start`, `end`,
   and `focus_words`.
+- Extension reading multiple-choice answers, if present, are not front-loaded:
+  for a typical 5-question set, correct answers use at least 3 different option
+  positions, include at least one C/D answer, and no position is correct more
+  than 2 times. Each `answer_index` must still point to the correct option
+  after shuffling.
 - Translation chunks, if present in `web/data/lessons.json`, have equal Chinese
   and English segment counts.
 

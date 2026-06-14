@@ -658,6 +658,12 @@ The 5 reading questions should test:
 4. what improvement was put forward
 5. what problem the final plan would solve
 
+When creating the JSON, shuffle the options so the correct answers are
+distributed. For these 5 questions, use at least 3 different `answer_index`
+positions, include at least one correct answer in C or D, and do not put more
+than 2 correct answers in the same position. Avoid a sequence like
+`A, B, A, A, A`.
+
 ### Sentence Writing
 
 Use 5 patterns:
@@ -787,6 +793,9 @@ Lesson 64 production is successful only if:
 - The extension practice follows the `Extension Practice Direction` above,
   creates `web/data/extension/lesson_64.json`, and registers the lesson in
   `web/data/extension/index.json`.
+- The extension reading answers are distributed across option positions; they
+  are not concentrated in A or the first two options, and every `answer_index`
+  matches the correct option after shuffling.
 - The outro includes the full practice order and the concrete read-aloud steps:
   `⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈`, then
   `① 生活场景`, `② 完形`, `③ 中译英`, `④ 英译中`, `⑤ 拓展阅读`,

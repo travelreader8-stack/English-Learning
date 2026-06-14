@@ -217,6 +217,13 @@ the target vocabulary and emotional situation, but do not merely paraphrase the
 original New Concept passage. A typical target is 90-140 English words with 4-6
 comprehension questions.
 
+For extension reading multiple-choice questions, distribute correct answers
+across the option positions. Do not leave all correct answers in A, or clustered
+only in A/B. For a typical 5-question reading set, use at least 3 different
+correct-answer positions, include at least one answer in C or D, and put no more
+than 2 correct answers in the same position. After shuffling options, verify
+that every `answer_index` still points to the correct option.
+
 The sentence-writing section should contain 3-5 carefully chosen patterns from
 the lesson. Do not pick random easy sentences. Prefer:
 
@@ -311,6 +318,9 @@ student's answer against the wrong reference.
      verify `web/data/extension/lesson_N.json` exists, is registered in
      `web/data/extension/index.json`, and contains both `reading` and
      `writing` sections.
+   - For extension reading multiple-choice questions, verify the correct-answer
+     positions are distributed rather than front-loaded in A/B, and verify each
+     `answer_index` after shuffling options.
    - Run baseline tests that do not require changing shared files:
      `python3 tests/test_pipeline.py`
      `node tests/test_slide_player.mjs`
@@ -395,6 +405,8 @@ A lesson is ready only when:
   - one original same-topic reading passage with comprehension questions
   - one sentence-writing section with carefully selected source patterns,
     `must_include`, `min_words`, samples, and coaching tips
+  - reading-question correct answers distributed across option positions, not
+    concentrated in A or the first two options
 - The lesson audio, timeline, and 4 WebP frames exist.
 - The lesson can be opened at `/lesson.html?id=N`.
 - Translation practice cannot pair a Chinese segment with the wrong English
