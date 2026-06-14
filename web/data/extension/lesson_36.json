@@ -1,100 +1,95 @@
 {
   "lesson_id": 36,
   "reading": {
-    "title": "The Harbour Relay Plan",
-    "intro_zh": "这篇短文不复述黛比横渡海峡，而是换到一个成人严密监督的港湾慈善接力：学生们有路线、训练、安全船、休息安排和等候的亲友，目标听起来勇敢，但真正重要的是准备充分。",
-    "word_bank": [
-      "swim across",
-      "set out",
-      "coast",
-      "record",
-      "strong",
-      "train",
-      "anxiously",
-      "distance",
-      "take short rests",
-      "waiting"
-    ],
+    "title": "The First Channel Swimmer",
+    "intro_zh": "本文讲述真实历史：1875 年英国船长马修·韦布首次徒手横渡英吉利海峡，改编自英国格林尼治皇家博物馆（Royal Museums Greenwich）的史料文章，重点看准备、潮汐与支持如何成就这项壮举。",
+    "source": {
+      "title": "Captain Matthew Webb (1848-1883): the first person to swim the Channel",
+      "publisher": "Royal Museums Greenwich",
+      "url": "https://www.rmg.co.uk/stories/ocean/library-archive/captain-matthew-webb-1848-1883-first-person-swim-channel"
+    },
     "passage": [
-      "Next month, four older students at Bay School are going to swim across Blue Harbour for charity. They are not trying to set a record or copy an English Channel story. Their coach has planned a safe relay from East Pier to the lighthouse coast, and each swimmer has trained for months. At six o'clock, Maya, a strong swimmer, will set out from East Pier while a support boat follows closely. A teacher, a doctor, and two parents in the boat will be watching the team anxiously as they swim the long distance. The swimmers intend to take short rests every thirty minutes and drink warm juice from the boat. Their families and friends will be waiting near the lighthouse with dry coats. Everyone hopes to finish, but the coach says a careful plan matters more than courage alone."
+      "On 25 August 1875, a long-held ambition reached its end on a French beach. Captain Matthew Webb, a merchant-navy officer from Shropshire, hauled himself onto the sand at Calais after nearly twenty-two hours in the water, becoming the first person known to have swum the English Channel unaided. He had set out the previous afternoon from the Admiralty Pier in Dover, yet the feat was anything but spontaneous. Webb had announced his intention years earlier and trained methodically, swimming for hours off Dover and in the baths at Lambeth. An earlier attempt had failed, proving that ambition without preparation rarely survives open water.",
+      "The crossing was a study in endurance against a hostile environment. To blunt the chill, Webb smeared himself in porpoise grease before diving in; even so, the cold steadily sapped his strength. The Channel's powerful tides refused to cooperate, first dragging him south-west and later sweeping him eastward, so that the twenty-one-mile gap between the coasts became a far longer and more punishing journey. A jellyfish sting added to his misery. Unable to stop and eat, he sustained himself on liquids passed from the accompanying boat, taking ale and, later, warm beef tea rather than solid food.",
+      "Webb's feat was so formidable that no one repeated it for over thirty years, until Thomas William Burgess succeeded in 1911. His celebrity, however, proved perilous: in 1883 he drowned attempting the violent rapids below Niagara Falls, a reckless stunt meant to revive a fading career. The contrast is instructive. The Channel swim that made his name was deliberate and supported, whereas the gamble that killed him was neither, proving that great feats demand patience, planning, and respect."
     ],
     "questions": [
       {
-        "id": "relay_challenge",
-        "question": "What challenge are the students going to try?",
+        "id": "main_idea",
+        "question": "What is the main point the passage makes about Matthew Webb's Channel swim?",
         "options": [
-          "They are going to swim across Blue Harbour for charity in a safe relay.",
-          "They are going to swim across the English Channel alone.",
-          "They are going to row a boat to East Pier.",
-          "They are going to run along the lighthouse coast."
+          "It was a sudden act of daring that anyone could have copied.",
+          "It was a carefully prepared and supported achievement, not a reckless impulse.",
+          "It was less impressive than his later attempt at Niagara Falls.",
+          "It was made easy by calm seas and cooperative tides."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "全文强调韦布提前多年宣布并系统训练、还有陪同船只补给，结尾也明说这次横渡是 deliberate and supported，所以重点是“准备充分、有支持的成就”，而非鲁莽冲动。"
+      },
+      {
+        "id": "detail_duration",
+        "question": "According to the passage, how long was Webb in the water during the successful crossing?",
+        "options": [
+          "Exactly twenty-one hours.",
+          "More than thirty years.",
+          "About six and a half hours.",
+          "Nearly twenty-two hours."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "第一段写他 after nearly twenty-two hours in the water 抵达加来，所以答案是“将近二十二小时”。"
+      },
+      {
+        "id": "cause_tides",
+        "question": "Why did the actual swim become much longer than the twenty-one-mile gap between the coasts?",
+        "options": [
+          "Because powerful tides dragged him south-west and then swept him eastward.",
+          "Because he deliberately took a longer scenic route.",
+          "Because he stopped frequently to eat solid food.",
+          "Because the boat crew forced him to turn back repeatedly."
         ],
         "answer_index": 0,
-        "explanation_zh": "开头说 four older students are going to swim across Blue Harbour for charity，后面说明这是 a safe relay。"
+        "explanation_zh": "第二段说海峡强大的潮汐先把他拖向西南、又把他卷向东边，使二十一英里的直线距离变成更长更艰难的旅程。"
       },
       {
-        "id": "set_out_place",
-        "question": "Where will Maya set out from?",
+        "id": "inference_niagara",
+        "question": "What can be inferred from the contrast between the Channel swim and Webb's death at Niagara Falls?",
         "options": [
-          "From the lighthouse coast.",
-          "From Bay School.",
-          "From East Pier.",
-          "From the English Channel."
+          "He was a stronger swimmer in 1883 than in 1875.",
+          "The Niagara attempt was better planned than the Channel swim.",
+          "Success in extreme feats depends on preparation and support, not courage alone.",
+          "He never intended to survive the Niagara rapids."
         ],
         "answer_index": 2,
-        "explanation_zh": "短文写道 Maya will set out from East Pier，所以出发点是 East Pier。"
+        "explanation_zh": "文中把成名的横渡（有计划、有支持）与致命的尼亚加拉冒险（鲁莽、无支持）对比，并总结非凡挑战需要 patience, planning and respect，可推断成功靠的是准备与支持，而不只是勇气。"
       },
       {
-        "id": "safety_support",
-        "question": "Who will watch and support the team from the boat?",
+        "id": "vocab_formidable",
+        "question": "In the final paragraph, the word \"formidable\" most nearly means",
         "options": [
-          "Only the students' school friends.",
-          "A teacher, a doctor, and two parents.",
-          "A record keeper and a news reporter.",
-          "Maya's friends near the lighthouse."
+          "easily achieved.",
+          "impressively difficult.",
+          "poorly recorded.",
+          "financially rewarding."
         ],
         "answer_index": 1,
-        "explanation_zh": "support boat 里有 a teacher, a doctor, and two parents，他们会 watch the team anxiously。"
-      },
-      {
-        "id": "rest_plan",
-        "question": "How do the swimmers plan to rest and drink?",
-        "options": [
-          "They will eat solid food every hour.",
-          "They will stop only when they reach the coast.",
-          "They will take short rests every thirty minutes and drink warm juice.",
-          "They will wait for their families before drinking anything."
-        ],
-        "answer_index": 2,
-        "explanation_zh": "文中说 the swimmers intend to take short rests every thirty minutes and drink warm juice from the boat。"
-      },
-      {
-        "id": "preparation_matters",
-        "question": "Why does preparation matter more than courage alone?",
-        "options": [
-          "Because the harbour is short and needs no training.",
-          "Because a long-distance swim needs training, safety support, and a careful plan.",
-          "Because a record is the only important part of the swim.",
-          "Because friends can finish the swim for the team."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "短文强调 trained for months、support boat、planned rests，结尾也说 a careful plan matters more than courage alone。"
+        "explanation_zh": "原句说这一壮举太 formidable，以至三十多年无人能再做到，可见 formidable 指“令人敬畏地艰难、了不起的”，即 impressively difficult。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 36 的计划型结构：用 is going to 写明确计划，用 hopes to 写目标，用 is sure to 写强烈期待，用 will be watching...as... 写陪伴和关注，再用 intends to...every... 写可执行的安排。",
+    "intro_zh": "今天把 Lesson 36 的五个计划型结构升到 B2+：用 is going to 写已定的未来计划，用 hopes to 写更抽象的目标，用 is sure to 写有依据的强烈期待，用 will be watching...as... 写未来进行中的持续陪伴，再用 intends to...every... 写可执行的规律安排。",
     "patterns": [
       {
         "id": "is_going_to_plan",
         "title": "is going to ...",
         "source": "Debbie Hart is going to swim across the English Channel tomorrow.",
         "focus_zh": "is going to 表示已经安排好的未来行动，比 will 更有“计划已经定了”的感觉。",
-        "task_zh": "仿写一句：写某人明天、周末或下个月准备完成一个有挑战但安全的行动。",
+        "task_zh": "仿写一句：写某人计划在未来完成一项有挑战、但有专业陪同与安全保障的行动，点明陪同或保障。",
         "must_include": [
           "is going to"
         ],
-        "min_words": 10,
-        "sample": "My cousin is going to swim across the lake next Saturday.",
+        "min_words": 16,
+        "sample": "Next summer my cousin is going to attempt a supervised crossing of the lake, accompanied by a coach and a safety kayak.",
         "tip_zh": "is going to 后面接动词原形；前面主语要能和 is 搭配，比如 she, he, my cousin。"
       },
       {
@@ -102,12 +97,12 @@
         "title": "hopes to ...",
         "source": "She hopes to set up a new world record.",
         "focus_zh": "hopes to 用来写愿望或目标，语气比 plans to 更有期待感。",
-        "task_zh": "仿写一句：写一个学生、队伍或运动员希望完成某个目标。",
+        "task_zh": "仿写一句：写一个团队或运动员在长期准备的前提下，希望在某种限制条件之前达成一个具体目标。",
         "must_include": [
           "hopes to"
         ],
-        "min_words": 10,
-        "sample": "Our team hopes to finish the relay before the afternoon wind rises.",
+        "min_words": 16,
+        "sample": "Through years of disciplined preparation, our relay team hopes to complete the harbour swim before the afternoon tide turns against us.",
         "tip_zh": "hopes to 后面接动词原形；后面最好补出具体目标，不要只写 hopes to win。"
       },
       {
@@ -115,12 +110,12 @@
         "title": "is sure to ...",
         "source": "Many people feel that she is sure to succeed.",
         "focus_zh": "is sure to 表示“很可能、一定会”，适合写旁人对某人成功的强烈期待。",
-        "task_zh": "仿写一句：写大家为什么认为某个训练充分的人一定会安全完成挑战。",
+        "task_zh": "仿写一句：先给出充分训练或专业支持作为依据，再说明为什么大家相信某人一定能安全完成挑战。",
         "must_include": [
           "is sure to"
         ],
-        "min_words": 10,
-        "sample": "With careful training, the strong swimmer is sure to finish safely.",
+        "min_words": 16,
+        "sample": "Backed by months of structured coaching and constant supervision, the well-prepared swimmer is sure to reach the far coast safely.",
         "tip_zh": "is sure to 后面接动词原形；可以用 With careful training 先给出信心来源。"
       },
       {
@@ -128,13 +123,13 @@
         "title": "will be watching ... as ...",
         "source": "Mr. Hart will be watching her anxiously as she swims the long distance to England.",
         "focus_zh": "这个结构写未来某个过程中的持续动作：一边有人在做事，另一边有人一直看着、陪着或关注着。",
-        "task_zh": "仿写一句：写父母、老师或朋友将在某人完成挑战时一直看着或陪着。",
+        "task_zh": "仿写一句：写在某人完成艰难挑战的同时，亲人、教练或队友将一直关注或陪伴着这个过程。",
         "must_include": [
           "will be watching",
           "as"
         ],
-        "min_words": 11,
-        "sample": "Her father will be watching from the boat as she crosses the harbour.",
+        "min_words": 16,
+        "sample": "From the support boat her anxious father will be watching every stroke as she battles the shifting currents toward the distant shore.",
         "tip_zh": "will be watching 是持续关注，as 后面接同时发生的动作，比如 as she swims。"
       },
       {
@@ -142,13 +137,13 @@
         "title": "intends to ... every ...",
         "source": "Debbie intends to take short rests every two hours.",
         "focus_zh": "intends to 写打算，every 写固定间隔；两者合起来像一份清楚的执行计划。",
-        "task_zh": "仿写一句：写一个团队或运动员打算每隔一段时间休息、喝水、检查路线或换人。",
+        "task_zh": "仿写一句：写一个团队或运动员打算在漫长任务中，按固定间隔休息、补水、换人或检查路线。",
         "must_include": [
           "intends to",
           "every"
         ],
-        "min_words": 11,
-        "sample": "The team intends to take short rests every thirty minutes during the swim.",
+        "min_words": 16,
+        "sample": "Throughout the demanding crossing the marathon swimmer intends to pause briefly and take warm fluids every forty minutes to fend off exhaustion.",
         "tip_zh": "intends to 后面接具体动作，every 后面接时间间隔，比如 every hour 或 every thirty minutes。"
       }
     ]
