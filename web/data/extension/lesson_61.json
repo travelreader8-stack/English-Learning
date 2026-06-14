@@ -1,101 +1,96 @@
 {
   "lesson_id": 61,
   "reading": {
-    "title": "The Blurry Telescope",
-    "intro_zh": "这篇短文把 Lesson 61 的“高科技设备一开始出错，经过诊断和修复后看清世界”换到 school observatory 的小型数字 telescope：第一次照片 disappointing，因为 tiny mirror was faulty；老师请 repair team 来 put the telescope right。重点练习 telescope、launch、at a cost of、right from the start、disappointing、faulty、put right、repair team、repair 和 by the time。",
-    "word_bank": [
-      "telescope",
-      "launch",
-      "at a cost of",
-      "right from the start",
-      "disappointing",
-      "faulty",
-      "put the telescope right",
-      "repair team",
-      "repair",
-      "by the time"
-    ],
+    "title": "Hubble's Flawed Eye",
+    "intro_zh": "本文讲述哈勃太空望远镜主镜的真实故障：1990 年入轨后因球面像差导致图像模糊，最终在 1993 年用 COSTAR 等校正光学修复。改编自权威来源 NASA Science。",
+    "source": {
+      "title": "Hubble's Mirror Flaw",
+      "publisher": "NASA",
+      "url": "https://science.nasa.gov/mission/hubble/observatory/design/optics/hubbles-mirror-flaw/"
+    },
     "passage": [
-      "Last month, our science club bought a small digital telescope at a cost of nearly two thousand yuan and launched it on the roof of the library. Right from the start, there was trouble with the telescope. The first pictures of the moon were very disappointing because one tiny mirror was faulty. Everyone had expected sharp craters, but the screen showed only a pale grey blur. Our teacher is going to put the telescope right, so she has invited a repair team from the city observatory. They will clean the lens, replace the mirror and check the camera while we record each step. By the time the open night begins next Friday, the telescope will have sent clearer pictures to every tablet in the lab."
+      "When the Hubble Space Telescope reached orbit in April 1990, astronomers expected it to deliver the sharpest views of the cosmos ever obtained. Within weeks, however, that optimism collapsed. The images streaming back to Earth were strangely fuzzy, surrounded by faint halos that no amount of focusing could remove. By late June, NASA had confirmed a humiliating diagnosis: the telescope's primary mirror, ground to extraordinary precision, was nonetheless subtly defective.",
+      "The flaw was a textbook case of spherical aberration. The outer edge of the mirror had been polished too flat, deviating from the intended curve by an amount roughly ten times greater than the design allowed. Because light striking the rim came to a focus at a different point from light near the centre, the instrument possessed several competing focal points rather than one. Investigators eventually traced the error to a testing device, the null corrector, that had been assembled incorrectly years earlier, quietly misleading the engineers who polished the glass.",
+      "Rather than abandon the observatory, NASA engineered an ingenious remedy. In December 1993, a shuttle crew installed corrective optics, including the instrument known as COSTAR, whose tiny mirrors functioned essentially like a pair of spectacles, bending the distorted light back into proper alignment. The intervention succeeded brilliantly. Almost overnight, Hubble began returning the crisp, luminous images that have since transformed our understanding of the universe."
     ],
     "questions": [
       {
-        "id": "problem_device",
-        "question": "What device had a problem in the science club?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "A small digital telescope on the roof of the library.",
-          "A school bus parked near the city observatory.",
-          "A radio that sent messages to the moon.",
-          "A library printer used for open-night posters."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文开头说 science club bought a small digital telescope，并把它 launched on the roof of the library，后面的问题也围绕这台 telescope。"
-      },
-      {
-        "id": "disappointing_pictures",
-        "question": "Why were the first pictures disappointing?",
-        "options": [
-          "The club forgot to invite any visitors to the open night.",
-          "The screen showed only a pale grey blur instead of sharp craters.",
-          "The city observatory refused to help the students.",
-          "The telescope was left inside the library all night."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "学生期待看到 sharp craters，但 screen showed only a pale grey blur，所以第一批照片令人失望。"
-      },
-      {
-        "id": "faulty_part",
-        "question": "What part was faulty?",
-        "options": [
-          "The roof of the library.",
-          "The teacher's tablet.",
-          "One tiny mirror.",
-          "The poster for open night."
+          "How the Hubble telescope was first designed and launched into orbit.",
+          "Why astronomers prefer space telescopes to ground-based ones.",
+          "How a serious flaw in Hubble's mirror was discovered and later corrected.",
+          "The kinds of objects Hubble has photographed since 1993."
         ],
         "answer_index": 2,
-        "explanation_zh": "原句说 The first pictures...were very disappointing because one tiny mirror was faulty，故障点是 one tiny mirror。"
+        "explanation_zh": "全文围绕哈勃主镜的缺陷如何被发现（球面像差、多个焦点）以及如何在 1993 年用 COSTAR 等校正光学修好展开，所以主旨是一个严重缺陷被发现并最终被纠正。"
       },
       {
-        "id": "repair_plan",
-        "question": "How will the repair team put the telescope right?",
+        "id": "detail_magnitude",
+        "question": "How serious was the error in the mirror's shape, according to the passage?",
         "options": [
-          "They will move the telescope to another school and keep it closed.",
-          "They will ask the students to stop recording the repair steps.",
-          "They will paint the library roof before taking more pictures.",
-          "They will clean the lens, replace the mirror and check the camera."
-        ],
-        "answer_index": 3,
-        "explanation_zh": "repair team 的计划是 clean the lens, replace the mirror and check the camera，这就是把 telescope put right 的具体步骤。"
-      },
-      {
-        "id": "future_result",
-        "question": "What result is expected by the time the open night begins?",
-        "options": [
-          "The telescope will have sent clearer pictures to every tablet in the lab.",
-          "The mirror will still be faulty, and the screen will stay grey.",
-          "The repair team will have cancelled the science club.",
-          "The students will have hidden the telescope in the library."
+          "The outer edge deviated from the intended curve by about ten times what the design allowed.",
+          "The mirror was cracked along its outer edge during launch.",
+          "The mirror was the wrong size and too small for the telescope.",
+          "Half of the mirror's surface had not been polished at all."
         ],
         "answer_index": 0,
-        "explanation_zh": "结尾用 By the time...will have... 说明到 open night 开始时，telescope will have sent clearer pictures to every tablet in the lab。"
+        "explanation_zh": "第二段明确说外缘被磨得太平，偏离设计曲线的量大约是设计允许值的十倍（roughly ten times greater than the design allowed）。"
+      },
+      {
+        "id": "cause_blurry",
+        "question": "Why did the mirror produce blurry images?",
+        "options": [
+          "Dust on the mirror scattered the incoming starlight.",
+          "The telescope was vibrating too much to hold a steady focus.",
+          "The corrective optics had been installed in the wrong order.",
+          "Light from the rim and light from the centre came to focus at different points."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "第二段解释，因为打在边缘的光与靠近中心的光聚焦在不同的点上，仪器有多个相互竞争的焦点，因此图像模糊。"
+      },
+      {
+        "id": "inference_costar",
+        "question": "What can we infer about COSTAR from the passage?",
+        "options": [
+          "It replaced Hubble's entire primary mirror with a new one.",
+          "It did not repair the mirror itself but compensated for its faulty optics.",
+          "It was installed before Hubble was launched in 1990.",
+          "It made Hubble's images worse rather than better."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中把 COSTAR 的小镜子比作“一副眼镜”，把扭曲的光重新对齐——这说明它没有更换或修复主镜本身，而是补偿了有缺陷的光学系统。"
+      },
+      {
+        "id": "vocab_humiliating",
+        "question": "In the first paragraph, the word \"humiliating\" is closest in meaning to:",
+        "options": [
+          "deeply embarrassing",
+          "highly technical",
+          "completely unexpected",
+          "very expensive"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "humiliating 指令人蒙羞、非常尴尬的。文中说 NASA 不得不确认这一“humiliating diagnosis”，即一面极其精密打磨的镜子却存在缺陷，这对团队来说是令人难堪的，故意为 deeply embarrassing。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 61 的修复故事句式：用 was launched...by... 写被谁发射或启用，用 Right from the start 写问题一开始就出现，用 because...was faulty 写技术原因，用 is going to put...right 写修复计划，用 By the time..., ...will have... 写到未来某时已经完成的结果。",
+    "intro_zh": "今天用更高阶的方式练五个 Lesson 61 的修复故事句式：用 was launched...by... 写设备被某机构发射或启用，用 Right from the start 写问题从一开始就显现，用 because...was faulty 写技术性原因，用 is going to put...right 写明确的修复计划，用 By the time..., ...will have... 写到未来某时已经取得的成果。语言要求达到 B2+：句子更长、信息更抽象、用词更正式。",
     "patterns": [
       {
         "id": "was_launched_by",
         "title": "was launched ... by ...",
         "source": "The Hubble telescope was launched into space by NASA.",
         "focus_zh": "was launched...by... 是被动语态，重点放在被发射、被启用的设备上，再用 by 说明执行者。",
-        "task_zh": "仿写一句：写一个 telescope、weather balloon、model rocket 或 school app 被某个团队、老师或学生启用。",
+        "task_zh": "仿写一句：描述某个科研项目、卫星、平台或倡议被某个机构、联盟或团队正式启动或发射，并尽量加入地点或目的等抽象信息。",
         "must_include": [
           "was launched",
           "by"
         ],
-        "min_words": 10,
-        "sample": "The school weather balloon was launched by our science club at noon.",
+        "min_words": 16,
+        "sample": "The deep-space probe was launched into a precise transfer orbit by an international consortium of space agencies.",
         "tip_zh": "主语先写被启用的东西；was launched 后面可以接地点或时间，by 后面写执行者。"
       },
       {
@@ -103,12 +98,12 @@
         "title": "Right from the start, ...",
         "source": "Right from the start there was trouble with the Hubble.",
         "focus_zh": "Right from the start 表示问题不是后来才慢慢出现，而是一开始就出现，适合写故事里的突然失望。",
-        "task_zh": "仿写一句：写某个设备、计划、比赛或展示从一开始就遇到了 trouble。",
+        "task_zh": "仿写一句：描述某个复杂项目、研究、谈判或计划从一开始就遭遇了出乎意料、难以察觉的困难。",
         "must_include": [
           "Right from the start"
         ],
-        "min_words": 8,
-        "sample": "Right from the start, there was trouble with the new telescope.",
+        "min_words": 16,
+        "sample": "Right from the start, the mission was plagued by subtle technical problems that the engineers had never anticipated.",
         "tip_zh": "逗号后面直接写 trouble、a problem 或 something wrong，让开头的转折很清楚。"
       },
       {
@@ -116,13 +111,13 @@
         "title": "because ... was faulty",
         "source": "The pictures it sent us were very disappointing because its main mirror was faulty.",
         "focus_zh": "because...was faulty 用来给出清楚的技术原因：结果不好，是因为某个部件有故障。",
-        "task_zh": "仿写一句：写照片、声音、机器人动作或实验结果令人失望，因为某个 part was faulty。",
+        "task_zh": "仿写一句：描述某个重要结果（数据、诊断、产品、决策）变得不可靠或失败，原因是某个关键部件或环节存在故障。",
         "must_include": [
           "because",
           "was faulty"
         ],
-        "min_words": 10,
-        "sample": "The robot moved badly because its left wheel was faulty.",
+        "min_words": 16,
+        "sample": "The entire dataset proved unreliable because the instrument's primary sensor was faulty and quietly corrupting every measurement.",
         "tip_zh": "because 前面写结果，because 后面写故障部件；faulty 前面通常用 was 或 were。"
       },
       {
@@ -130,13 +125,13 @@
         "title": "is going to put ... right",
         "source": "NASA is now going to put the telescope right.",
         "focus_zh": "is going to put...right 表示已经有明确的修复计划，put right 不是放到右边，而是把问题纠正好。",
-        "task_zh": "仿写一句：写老师、队长、工程师或 repair team 准备把某个出问题的东西修好。",
+        "task_zh": "仿写一句：描述某位负责人、专家或团队准备在关键时刻之前，纠正某个出现问题的系统或流程。",
         "must_include": [
           "is going to put",
           "right"
         ],
-        "min_words": 10,
-        "sample": "Our teacher is going to put the telescope right before open night.",
+        "min_words": 16,
+        "sample": "The chief engineer is going to put the malfunctioning navigation system right before the spacecraft attempts its final approach.",
         "tip_zh": "is going to 后面接动词原形 put；put 和 right 中间放要修好的对象。"
       },
       {
@@ -144,13 +139,13 @@
         "title": "By the time ..., ... will have ...",
         "source": "By the time you read this, the Hubble's eagle eye will have sent us thousands and thousands of wonderful pictures.",
         "focus_zh": "By the time..., ...will have... 是将来完成时：到未来某个时间点，某件事已经完成或产生结果。",
-        "task_zh": "仿写一句：写到 open night、比赛、展示或家长到达时，设备已经传回、拍到或完成了某个清楚的结果。",
+        "task_zh": "仿写一句：描述到未来某个评审、截止点或里程碑到来时，某个系统或团队已经积累、完成或取得了某项可观的成果。",
         "must_include": [
           "By the time",
           "will have"
         ],
-        "min_words": 12,
-        "sample": "By the time the guests arrive, the camera will have sent clear pictures.",
+        "min_words": 16,
+        "sample": "By the time the next funding review takes place, the upgraded observatory will have transmitted years of unprecedented data.",
         "tip_zh": "By the time 后面用现在时表示未来时间点；主句用 will have 加过去分词。"
       }
     ]
