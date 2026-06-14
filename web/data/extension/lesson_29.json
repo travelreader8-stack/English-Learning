@@ -1,101 +1,96 @@
 {
   "lesson_id": 29,
   "reading": {
-    "title": "The Small Plane Service",
-    "intro_zh": "这篇短文不复述原文，而是换到一个现代小型空中服务：飞机能到普通交通很难到达的地方，也能帮助真正需要的人，但飞行员会拒绝危险请求。",
-    "word_bank": [
-      "taxi",
-      "aeroplane",
-      "passenger",
-      "land",
-      "mountain",
-      "village",
-      "unusual",
-      "request",
-      "dangerous",
-      "refuse"
-    ],
+    "title": "A Mantle of Safety Over the Outback",
+    "intro_zh": "本文不复述课文，而是介绍真实存在的澳大利亚皇家飞行医生服务（Royal Flying Doctor Service）——一项用飞机把医疗送进偏远内陆的服务，改编自其官方历史资料。",
+    "source": {
+      "title": "History of the Flying Doctor",
+      "publisher": "Royal Flying Doctor Service of Australia",
+      "url": "https://www.flyingdoctor.org.au/about-the-rfds/history/"
+    },
     "passage": [
-      "Mia's uncle runs a small air taxi in the north. His aeroplane is not fast like a big jet, but it is useful. It can carry six passengers and land on short grass, snow, and calm water. One winter morning, a nurse needed medicine for a mountain clinic because the road was closed. The small plane landed near the village, and the people were grateful. Later, a tourist asked for a flight to a tiny island during strong wind. The island looked exciting, but the sea was rough and the clouds were low. Mia's uncle refused the request. He said, \"A good service takes people safely, not just quickly.\""
+      "For families scattered across the Australian outback, distance was once a matter of life and death. Until the late 1920s, a person who fell seriously ill on a remote cattle station faced an agonising overland journey of hundreds of kilometres before reaching any medical help, and many died before they could get there. A Presbyterian minister named John Flynn was determined to change this. He imagined a \"mantle of safety\" stretching over the inland, so that no settler would be beyond the reach of medical help. In 1928, with funds left by a wealthy supporter for an \"aerial experiment\", his idea finally took to the air from the Queensland town of Cloncurry.",
+      "Flynn's vision faced an obvious obstacle: a doctor in the sky was useless unless the sick could somehow summon him. The breakthrough came from an inventor, Alfred Traeger, who built a foot-powered generator capable of driving a two-way radio in locations where grid electricity had never existed. By 1929, isolated households could pedal furiously and tap out a call for help across hundreds of kilometres of empty country. Combined with the aeroplane, this humble device transformed remote medicine.",
+      "What began as a single timber-and-fabric biplane has grown into one of the world's largest aeromedical organisations, today operating dozens of aircraft from bases scattered across the continent. The Flying Doctor still lands on rough bush airstrips and lonely dirt roads to reach patients that ordinary transport cannot. Its enduring lesson is that technology matters less than the principle behind it: a service is judged not by how far it can fly, but by whose lives it manages to protect."
     ],
     "questions": [
       {
-        "id": "different_taxi",
-        "question": "What makes this taxi different from an ordinary taxi?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "It is a small aeroplane service.",
-          "It is a bus for school children.",
-          "It can only drive through the city.",
-          "It belongs to a tourist on the island."
+          "How a flying medical service was created to protect people in remote Australia.",
+          "Why camels were once the fastest way to cross the outback.",
+          "How radios replaced doctors in isolated Australian towns.",
+          "The technical design of early Australian biplanes."
         ],
         "answer_index": 0,
-        "explanation_zh": "短文里的 air taxi 不是路上的出租车，而是一架 small aeroplane 提供的服务。"
+        "explanation_zh": "全文围绕 John Flynn 创立飞行医生服务、用飞机和无线电保护偏远地区居民展开，主旨是这项空中医疗服务的诞生与意义。"
       },
       {
-        "id": "landing_places",
-        "question": "Where can the small aeroplane land?",
+        "id": "detail_traeger",
+        "question": "According to the passage, why was Alfred Traeger's invention so important?",
         "options": [
-          "Only at large international airports.",
-          "On short grass, snow, and calm water.",
-          "Inside the mountain clinic.",
-          "On busy city roads."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "文中说它 can land on short grass, snow, and calm water，说明它能在不寻常的地方降落。"
-      },
-      {
-        "id": "nurse_need",
-        "question": "Why did the nurse need the air service?",
-        "options": [
-          "She wanted to see the island in strong wind.",
-          "She needed medicine for a mountain clinic when the road was closed.",
-          "She wanted to buy a faster jet.",
-          "She had lost six passengers in the village."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "护士需要把 medicine 送到 mountain clinic，因为路被封了，小飞机能帮上忙。"
-      },
-      {
-        "id": "refused_request",
-        "question": "Which request did Mia's uncle refuse?",
-        "options": [
-          "A flight to a mountain clinic in good weather.",
-          "A short landing near a village.",
-          "A flight to a tiny island during strong wind.",
-          "A safe trip with six passengers."
+          "It allowed aeroplanes to land safely on dirt roads.",
+          "It made aircraft fly hundreds of kilometres faster.",
+          "It let isolated people call for help without needing mains electricity.",
+          "It replaced the need for any doctors in the outback."
         ],
         "answer_index": 2,
-        "explanation_zh": "游客想在 strong wind 里飞去 tiny island，这个请求被飞行员拒绝了。"
+        "explanation_zh": "文中说 Traeger 的脚踏发电机让无线电不依赖电网供电，使偏远家庭能够呼叫求助，而当时内陆几乎没有电。"
       },
       {
-        "id": "safety_first",
-        "question": "Why is safety more important than an exciting trip?",
+        "id": "cause_effect",
+        "question": "Why did so many sick settlers fail to survive before the service existed?",
         "options": [
-          "Because the plane should never carry passengers.",
-          "Because a good service must take people safely.",
-          "Because the tourist did not like islands.",
-          "Because small planes cannot help anyone."
+          "Because doctors refused to treat people on cattle stations.",
+          "Because the journey to the nearest doctor was hundreds of kilometres long.",
+          "Because radios gave them the wrong medical advice.",
+          "Because aeroplanes were too dangerous to fly inland."
         ],
         "answer_index": 1,
-        "explanation_zh": "结尾说 A good service takes people safely, not just quickly，强调能飞不等于应该冒险飞。"
+        "explanation_zh": "文章开头指出，重病者要走数百公里去看医生，很多人没能熬过这段旅程，距离才是致命原因。"
+      },
+      {
+        "id": "inference",
+        "question": "What does the final paragraph suggest about the value of a service?",
+        "options": [
+          "A service is great only if it owns the most aircraft.",
+          "Older technology is always better than modern technology.",
+          "Flying long distances is the only true measure of success.",
+          "Its worth lies in the people it protects, not in how far it can travel."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "末段强调服务的价值不在飞得多远，而在保护了谁的生命，可推断衡量标准是它保护的人，而非飞行距离。"
+      },
+      {
+        "id": "vocab_enduring",
+        "question": "In the last paragraph, the word \"enduring\" is closest in meaning to",
+        "options": [
+          "lasting",
+          "forgotten",
+          "expensive",
+          "accidental"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "enduring 意为“持久的、长久不变的”，指这项服务历久弥新的核心道理，最接近 lasting。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 29 的核心结构：用现在完成时写新服务，用 The most surprising thing... 引出亮点，用冒号列举能力，用 Since then 写服务历史，再用 refused...because... 写出安全判断。",
+    "intro_zh": "今天把 Lesson 29 的五个核心结构提升到 B2+：用现在完成时写一个延续至今的服务，用 The most surprising thing... 推出关键亮点，用冒号列举能力，用 Since then 写服务历史，再用 refused...because... 写出有原则的拒绝。尝试写更长、更抽象的句子。",
     "patterns": [
       {
         "id": "has_bought_has_begun",
         "title": "has bought ... and has begun ...",
         "source": "Captain Ben Fawcett has bought an unusual taxi and has begun a new service.",
         "focus_zh": "用现在完成时说明一个新变化已经发生，而且现在还重要：买了某个工具，并开始了一项服务。",
-        "task_zh": "仿写一句：写某人已经买了一种特别的交通工具，并开始了一项新的服务。",
+        "task_zh": "仿写一句（B2+）：写某个机构或个人已经购入一种特殊工具，并已开始一项能改变现状、惠及他人的新服务。",
         "must_include": [
           "has bought",
           "has begun"
         ],
-        "min_words": 11,
-        "sample": "My aunt has bought a small boat and has begun a river service.",
+        "min_words": 16,
+        "sample": "A retired surgeon has bought a single-engine aircraft and has begun a volunteer service that ferries medicine to communities cut off by the floods.",
         "tip_zh": "两个 has done 并列时，动作要能连成一个真实的新变化。"
       },
       {
@@ -103,12 +98,12 @@
         "title": "The most surprising thing about it is that ...",
         "source": "The most surprising thing about it, however, is that it can land anywhere.",
         "focus_zh": "这个结构用来推出最让人意外的特点，比直接写 It is surprising 更有层次。",
-        "task_zh": "仿写一句：介绍一辆车、一架飞机或一种服务最令人惊讶的能力。",
+        "task_zh": "仿写一句（B2+）：介绍某项技术、交通工具或服务最令人意外的能力，并补充一个对比，凸显这种能力为什么了不起。",
         "must_include": [
           "The most surprising thing about it"
         ],
-        "min_words": 12,
-        "sample": "The most surprising thing about it is that it can stop on the snow.",
+        "min_words": 16,
+        "sample": "The most surprising thing about it is that it can reach stranded villagers within an hour, long before any rescue convoy could arrive.",
         "tip_zh": "about it 后面的 is that 要接一个完整句子，说明真正惊讶的内容。"
       },
       {
@@ -116,12 +111,12 @@
         "title": "can land anywhere: ...",
         "source": "It can land anywhere: on snow, water, or even on a ploughed field.",
         "focus_zh": "冒号后面列出具体地点，能把 can land anywhere 写得更有画面感。",
-        "task_zh": "仿写一句：写一种交通工具能在几个不寻常的地方降落或停靠。",
+        "task_zh": "仿写一句（B2+）：描写一种为应对困难环境而设计的交通工具，能在三个不寻常的地方降落或停靠，用 or even 加强最意外的一个。",
         "must_include": [
           "can land anywhere"
         ],
-        "min_words": 10,
-        "sample": "The small plane can land anywhere: on grass, snow, or calm water.",
+        "min_words": 16,
+        "sample": "Designed for emergencies, the aircraft can land anywhere: on rough bush airstrips, on deserted dirt roads, or even on a dry salt lake.",
         "tip_zh": "冒号后最好列 2-3 个具体地点，最后一个可以用 or even 加强惊讶感。"
       },
       {
@@ -129,12 +124,12 @@
         "title": "Since then, ... has ...",
         "source": "Since then, Captain Fawcett has flown passengers to many unusual places.",
         "focus_zh": "Since then 表示“从那以后一直到现在”，后面常接现在完成时写持续到现在的经历。",
-        "task_zh": "仿写一句：写从某次成功之后，一个人或服务已经帮助过很多乘客、村庄或病人。",
+        "task_zh": "仿写一句（B2+）：写从某个起点之后，一个组织或个人已经持续帮助大量乘客、病人或村庄，强调这是延续至今的成就。",
         "must_include": [
           "Since then"
         ],
-        "min_words": 11,
-        "sample": "Since then, the pilot has taken doctors to many mountain villages.",
+        "min_words": 16,
+        "sample": "Since then, the charity has carried thousands of critically ill patients out of regions that ordinary ambulances could never hope to reach.",
         "tip_zh": "Since then 后面不要只写一次动作，要写一段延续到现在的服务历史。"
       },
       {
@@ -142,13 +137,13 @@
         "title": "refused ... because ...",
         "source": "Captain Fawcett did not take him because the trip was too dangerous.",
         "focus_zh": "refused...because... 用来写负责任的拒绝：不是不愿意帮忙，而是有清楚的安全原因。",
-        "task_zh": "仿写一句：写一位飞行员、司机或负责人拒绝一个危险请求，并说明原因。",
+        "task_zh": "仿写一句（B2+）：写一位负责人拒绝了一个危险请求，并给出一个具体、专业的安全理由，说明 can do 不等于 should do。",
         "must_include": [
           "refused",
           "because"
         ],
-        "min_words": 10,
-        "sample": "The pilot refused the trip because the wind was too strong.",
+        "min_words": 16,
+        "sample": "The chief pilot refused the night-time evacuation because the storm had reduced visibility to a point where any landing would have endangered everyone aboard.",
         "tip_zh": "because 后面要给具体原因，比如 weather, road, sea, landing place，不要只写 because it was bad。"
       }
     ]
