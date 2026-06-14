@@ -1,100 +1,95 @@
 {
   "lesson_id": 31,
   "reading": {
-    "title": "From a Small Desk to a Big Company",
-    "intro_zh": "这篇短文不复述原文，而是换到一个现代修理手机的小故事：主人公从一个小桌子开始，慢慢有了自己的 workshop 和更大的 factory，最后又被家人请回最早的修理本领。",
-    "word_bank": [
-      "used to",
-      "repair",
-      "workshop",
-      "save money",
-      "helper",
-      "factory",
-      "employ",
-      "retire",
-      "experience",
-      "success"
-    ],
+    "title": "How the Assembly Line Changed the Factory",
+    "intro_zh": "这篇短文讲的是真实历史话题——福特公司在 1913 年推出的流水线如何把汽车从手工小作坊式生产推向大规模制造，改编自 The Henry Ford 博物馆与 History.com 的权威资料。",
+    "source": {
+      "title": "The Moving Assembly Line and the Five-Dollar Workday",
+      "publisher": "The Henry Ford; HISTORY",
+      "url": "https://askus.thehenryford.org/K12/faq/433848"
+    },
     "passage": [
-      "When Nora Chen was sixteen, she used to repair old phones at a small desk in her aunt's shop. It was her job to find tiny broken parts, and at that time she often worked after school until late evening. She saved money for years and bought a little workshop of her own. In her twenties, Nora began to make spare parts for cameras and tablets. At first she had only one helper. In a few years, the workshop had become a factory which employed three hundred people. When Nora retired, she liked telling young workers about her hard early years and the long road to success. One Sunday, while she was smiling over those experiences, her nephew came in with a cracked phone and asked, \"Can you fix this?\""
+      "Before 1913, building an automobile was slow, skilled work. Teams of mechanics gathered around a single stationary frame and fitted each part by hand, so completing one Ford Model T chassis used to take roughly twelve and a half hours. That year, at the company's Highland Park plant in Michigan, engineers borrowed an unlikely idea from the meatpacking houses of Chicago and Cincinnati, where overhead trolleys had long carried carcasses from one worker to the next. Instead of moving people toward the product, Ford decided to move the product past the people.",
+      "On the new moving assembly line, a motor and a rope dragged each chassis steadily along the floor while workers, each trained for a single repeated task, added their parts as it passed. The effect was dramatic: by early 1914 a finished Model T was rolling off the line every ninety-three minutes rather than every twelve hours. Because each car now cost far less to build, its price eventually fell from around eight hundred and fifty dollars to as little as two hundred and sixty, and between 1908 and 1927 the company produced more than fifteen million of them.",
+      "Yet the relentless pace exhausted the workforce, and labor turnover climbed sharply as employees abandoned the monotonous stations. To keep them, in January 1914 Ford astonished the country by offering five dollars for an eight-hour day, more than double the previous wage. The moving line had not merely sped up manufacturing; it had quietly rewritten the bargain between industry and the ordinary worker."
     ],
     "questions": [
       {
-        "id": "young_skill",
-        "question": "What did Nora use to do when she was sixteen?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "She used to repair old phones at a small desk.",
-          "She used to fly aeroplanes for a factory.",
-          "She used to sell bicycles outside a school.",
-          "She used to teach workers how to retire."
+          "How a new method of moving the product past workers transformed car manufacturing.",
+          "Why mechanics in Michigan preferred building cars entirely by hand.",
+          "How meatpacking houses in Chicago became more profitable than car plants.",
+          "Why the Model T was considered an unreliable and expensive automobile."
         ],
         "answer_index": 0,
-        "explanation_zh": "短文开头说 Nora was sixteen 时，她 used to repair old phones at a small desk。"
+        "explanation_zh": "全文围绕福特把“产品移动经过工人”的流水线方法，以及它如何彻底改变汽车制造展开，故选 A。"
       },
       {
-        "id": "hard_work",
-        "question": "How hard did Nora work at that time?",
+        "id": "detail_time",
+        "question": "According to the passage, how did assembly time change?",
         "options": [
-          "She only worked on Sunday mornings.",
-          "She often worked after school until late evening.",
-          "She never worked in her aunt's shop.",
-          "She had three hundred helpers every day."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "文中说 at that time she often worked after school until late evening，说明早期很辛苦。"
-      },
-      {
-        "id": "own_workshop",
-        "question": "What did Nora buy after saving money for years?",
-        "options": [
-          "A cracked phone for her nephew.",
-          "A very large business company.",
-          "A little workshop of her own.",
-          "A school desk in her aunt's shop."
+          "It rose from ninety-three minutes to twelve hours.",
+          "It stayed about twelve and a half hours throughout 1914.",
+          "It fell from about twelve and a half hours to ninety-three minutes.",
+          "It was cut to exactly one hour for every finished car."
         ],
         "answer_index": 2,
-        "explanation_zh": "她 saved money for years 之后，bought a little workshop of her own。"
+        "explanation_zh": "文中说装配一辆车原来约需十二个半小时，到 1914 年初每九十三分钟就能下线一辆，故选 C。"
       },
       {
-        "id": "business_growth",
-        "question": "How did Nora's work grow in a few years?",
+        "id": "cause_effect",
+        "question": "Why did Ford introduce the five-dollar, eight-hour workday in January 1914?",
         "options": [
-          "Her workshop had become a factory which employed three hundred people.",
-          "Her small desk disappeared and she stopped repairing things.",
-          "Her aunt's shop became a quiet library for retired workers.",
-          "Her nephew employed one helper to make old phones."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "关键句是 the workshop had become a factory which employed three hundred people。"
-      },
-      {
-        "id": "funny_return",
-        "question": "What small job came back at the end of the story?",
-        "options": [
-          "Nora had to tell young workers about cameras.",
-          "Her nephew asked her to fix a cracked phone.",
-          "Her helper asked her to open a new factory.",
-          "Nora repaired an aeroplane part after retirement."
+          "Because the government ordered all factories to raise wages.",
+          "Because the fast, monotonous line drove workers away and turnover had to be reduced.",
+          "Because the company had run out of meatpacking ideas to copy.",
+          "Because each Model T had suddenly become much more expensive to sell."
         ],
         "answer_index": 1,
-        "explanation_zh": "结尾的幽默回环是 nephew 带着 cracked phone 进来，请她 Can you fix this?"
+        "explanation_zh": "文中说流水线节奏紧张让工人纷纷离开、人员流动率上升，福特为留住工人才提高工资，故选 B。"
+      },
+      {
+        "id": "inference",
+        "question": "What can be inferred about Ford's borrowing of the meatpacking idea?",
+        "options": [
+          "Ford copied the exact machines used to slaughter animals.",
+          "The idea failed because cars are heavier than carcasses.",
+          "Meatpacking and car making had always shared the same workforce.",
+          "A useful manufacturing principle can be adapted from a completely different industry."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "福特从肉类加工厂的“吊轨传送”得到灵感，说明有用的制造原理可以从完全不同的行业借鉴过来，故选 D。"
+      },
+      {
+        "id": "vocab_relentless",
+        "question": "In the passage, the word \"relentless\" (in \"the relentless pace exhausted the workforce\") most nearly means:",
+        "options": [
+          "occasional and gentle",
+          "constant and unforgiving",
+          "carefully balanced",
+          "cheerful and relaxed"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "relentless 指“持续不断、毫不放松”的，文中说这种节奏让工人筋疲力尽，故选 B（constant and unforgiving）。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 31 的核心结构：用 used to 写过去习惯，用 It was his job to 写职责，用 At that time 放进过去时间，用 had become 写变化完成，再用 the long road to 写长期努力。",
+    "intro_zh": "今天把 Lesson 31 的五个核心结构提升到更高水平：用 used to 写过去的习惯或状态，用 It was his job to 写职责，用 At that time 把动作锚在过去某一阶段，用 had become 写已完成的成长变化，再用 the long road to 写漫长的努力过程。请尽量写出更抽象、更复杂的句子。",
     "patterns": [
       {
         "id": "used_to_past",
         "title": "used to ...",
         "source": "As a boy he used to work in a small shop.",
         "focus_zh": "used to 写过去经常发生的事或过去的状态，现在通常已经不是这样。",
-        "task_zh": "仿写一句：写某人小时候或年轻时经常做的一件事，强调那是过去的习惯。",
+        "task_zh": "仿写一句：描述某个行业、机构或群体过去长期保持、如今却已改变的一种工作方式或生活状态。",
         "must_include": [
           "used to"
         ],
-        "min_words": 9,
-        "sample": "My uncle used to repair radios in a small shop after school.",
+        "min_words": 16,
+        "sample": "Before the factory was modernised, the elderly craftsmen used to assemble every component entirely by hand, often working late into the night.",
         "tip_zh": "used to 后面接动词原形，不要写成 used to repaired。"
       },
       {
@@ -102,13 +97,13 @@
         "title": "It was his job to ...",
         "source": "It was his job to repair bicycles.",
         "focus_zh": "这个结构用来说明一个人的职责，比直接写 He repaired... 更强调“这是他的工作”。",
-        "task_zh": "仿写一句：写某人的职责，可以是修理、整理、检查、照顾或帮助别人。",
+        "task_zh": "仿写一句：描述某人一项需要责任心或专业判断的职责，并补出具体的检查、维护或决策对象。",
         "must_include": [
           "It was",
           "job to"
         ],
-        "min_words": 9,
-        "sample": "It was his job to check every bicycle before the race.",
+        "min_words": 16,
+        "sample": "It was his job to inspect each delicate mechanism for hidden faults before the entire production line was allowed to start.",
         "tip_zh": "to 后面接动词原形；后面最好补出具体对象，让职责更清楚。"
       },
       {
@@ -116,12 +111,12 @@
         "title": "At that time, ...",
         "source": "At that time he used to work fourteen hours a day.",
         "focus_zh": "At that time 把习惯放回过去某个阶段，帮助读者跟上时间线。",
-        "task_zh": "仿写一句：写在过去某段时间里，某人经常做什么或每天工作多久。",
+        "task_zh": "仿写一句：把一种过去阶段才有的依赖、习惯或工作节奏放回那个特定时期，体现今昔对比。",
         "must_include": [
           "At that time"
         ],
-        "min_words": 9,
-        "sample": "At that time, she used to work ten hours a day.",
+        "min_words": 16,
+        "sample": "At that time, the company used to depend on a handful of skilled mechanics who could rebuild almost any engine from memory.",
         "tip_zh": "At that time 后面不要只写一个名词，要接完整句子。"
       },
       {
@@ -129,13 +124,13 @@
         "title": "In a few years, ... had become ...",
         "source": "In a few years the small workshop had become a large factory.",
         "focus_zh": "had become 写从小到大的变化已经完成，适合讲一个长期成长的结果。",
-        "task_zh": "仿写一句：写一个小工作室、小队伍或小项目几年后变成了更大的东西。",
+        "task_zh": "仿写一句：描述一个不起眼的起点，几年后已经发展成规模可观、影响更广的事物。",
         "must_include": [
           "In a few years",
           "had become"
         ],
-        "min_words": 11,
-        "sample": "In a few years, the tiny kitchen had become a busy bakery.",
+        "min_words": 16,
+        "sample": "In a few years, what had started as a cluttered backyard workshop had become a sprawling plant supplying customers across the continent.",
         "tip_zh": "前面写起点，had become 后面写结果，变化要清楚。"
       },
       {
@@ -143,12 +138,12 @@
         "title": "the long road to ...",
         "source": "the long road to success",
         "focus_zh": "the long road to... 是一个漂亮的比喻，适合写慢慢努力得到的结果。",
-        "task_zh": "仿写一句：写某人回想通向成功、进步、独立或更好生活的漫长过程。",
+        "task_zh": "仿写一句：让某人回望一段通向成功、变革或精通的漫长历程，点出途中的代价或反复。",
         "must_include": [
           "the long road to"
         ],
-        "min_words": 10,
-        "sample": "He remembered the long road to success with a quiet smile.",
+        "min_words": 16,
+        "sample": "Looking back, the engineers spoke modestly about the long road to mass production, with all its failed prototypes and sleepless nights.",
         "tip_zh": "road 前面用 the，to 后面接名词，比如 success, progress, independence。"
       }
     ]
