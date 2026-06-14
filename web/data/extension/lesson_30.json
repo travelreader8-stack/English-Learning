@@ -1,101 +1,96 @@
 {
   "lesson_id": 30,
   "reading": {
-    "title": "The Ball by the River",
-    "intro_zh": "这篇短文不复述原文，而是换到一个现代公园河边的小事故：球飞向船，大家提醒失败，但孩子没有跑掉，而是负责地道歉和确认安全。",
-    "word_bank": [
-      "river bank",
-      "row",
-      "passing boat",
-      "call out",
-      "suddenly",
-      "strike",
-      "realize",
-      "run away",
-      "laugh",
-      "throw back"
-    ],
+    "title": "Where the Rain Goes",
+    "intro_zh": "课文里那条穿过公园的小河，其实正承受着城市的考验。这篇说明文改编自美国国家地理学会（National Geographic Society）的科普资料，讲的是雨水径流（runoff）如何把城市的污染带进河流。",
+    "source": {
+      "title": "Runoff",
+      "publisher": "National Geographic Society (Education)",
+      "url": "https://education.nationalgeographic.org/resource/runoff/"
+    },
     "passage": [
-      "On a bright Saturday, Leo and his friends played football on the river bank beside the park. Some people were rowing quietly, and a passing boat moved under the bridge. Leo kicked the ball too hard. Suddenly, it flew over the grass and went straight towards the boat. People on the bank called out, but the girl in the boat was looking at the water and did not hear them. The ball struck the side of the boat so hard that she nearly dropped an oar. Leo wanted to run away, but he stopped. He called out, said sorry, and asked if she was all right. The girl laughed, threw the ball back, and told the children to look around before they kicked."
+      "When rain falls on an undisturbed meadow, much of it seeps quietly into the soil, which draws in the moisture and cleanses it gradually, long before it ever reaches a river. A city works in an entirely different way. Paved roads, sidewalks, and parking lots all form impervious surfaces — sealed layers that water cannot penetrate — so rainfall has nowhere to soak in. Instead, it accumulates and rushes across the pavement as surface runoff. Because so little of it can penetrate the ground, this runoff arrives in nearby streams faster, in greater volume, and with far more force than the gentle flow a natural landscape would have released.",
+      "The trouble is not merely the quantity of water but everything it carries. As the runoff sweeps along streets and gutters, it gathers a toxic cargo — oil residue, agricultural chemicals, waste litter, and other contaminants — and delivers them straight into rivers and lakes. Scientists distinguish such diffuse, hard-to-trace contamination, known as nonpoint-source pollution, from point-source pollution, which escapes from a single identifiable pipe. The consequences ripple outward: certain chemicals undergo biomagnification, accumulating in ever-higher concentrations as they pass up the food chain, so that the predators at the top, including humans, may ultimately ingest the heaviest dose.",
+      "Fortunately, the remedy follows logically from the cause. Because soil is a natural filter, communities can reduce the harm by replacing impervious surfaces with permeable ones and by restoring vegetation that slows the water and lets it sink in. Each patch of porous ground that a city recovers allows the landscape, rather than the river, to absorb the next storm."
     ],
     "questions": [
       {
-        "id": "where_game",
-        "question": "Where did Leo and his friends play football?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "On the river bank beside the park.",
-          "Inside a boat under the bridge.",
-          "In a money bank near the river.",
-          "On a football field far from the water."
+          "How cities turn rainfall into polluted runoff and what can reduce the problem.",
+          "Why meadows receive more rainfall than cities do.",
+          "How rivers are formed by melting snow in the mountains.",
+          "Why parking lots are cheaper to build than gardens."
         ],
         "answer_index": 0,
-        "explanation_zh": "短文第一句说 they played football on the river bank beside the park，这里的 bank 是河岸。"
+        "explanation_zh": "全文围绕城市的不透水表面如何把雨水变成污染径流，以及怎样减轻这一问题展开，A 概括了主旨。其余选项都只是细枝末节或文中未谈的内容。"
       },
       {
-        "id": "sudden_ball",
-        "question": "What suddenly happened to the ball?",
+        "id": "detail_impervious",
+        "question": "According to the passage, what is an impervious surface?",
         "options": [
-          "It fell quietly into Leo's bag.",
-          "It flew over the grass towards a passing boat.",
-          "It was thrown from the boat to the bank.",
-          "It stayed under the bridge all afternoon."
+          "Soil that filters and stores rainwater like a sponge.",
+          "A surface, such as a road or parking lot, that cannot absorb water.",
+          "A pipe that releases pollution from one identifiable place.",
+          "Vegetation planted to slow down moving water."
         ],
         "answer_index": 1,
-        "explanation_zh": "Leo 踢得太用力，球 suddenly flew over the grass and went straight towards the boat。"
+        "explanation_zh": "第一段明确指出，Paved roads, sidewalks, and parking lots all form impervious surfaces，即无法吸水的封闭层，所以选 B。"
       },
       {
-        "id": "did_not_hear",
-        "question": "Why did the girl in the boat not react at first?",
+        "id": "process_runoff",
+        "question": "Why does runoff reach urban streams faster and with more force than in a natural landscape?",
         "options": [
-          "She was looking at the water and did not hear people call out.",
-          "She had already rowed away from the bridge.",
-          "She thought the children were playing polo.",
-          "She was angry and refused to look back."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "岸上的人 called out，但船上的女孩正在看水面，所以 did not hear them。"
-      },
-      {
-        "id": "leo_choice",
-        "question": "What did Leo do after the ball struck the boat?",
-        "options": [
-          "He ran away before anyone saw him.",
-          "He blamed the girl in the boat.",
-          "He stopped, called out, said sorry, and checked if she was all right.",
-          "He hid the ball under the bridge."
+          "Because city rivers are built on steeper slopes.",
+          "Because rain falls harder over cities than over meadows.",
+          "Because so little water can soak into the ground, it rushes across the pavement instead.",
+          "Because soil in cities stores the water and releases it all at once."
         ],
         "answer_index": 2,
-        "explanation_zh": "短文写道 Leo wanted to run away, but he stopped，并主动道歉、确认对方是否没事。"
+        "explanation_zh": "第一段解释，城市表面无法吸水，雨水无处下渗，只能在路面上汇集冲刷（surface runoff），因此更快、更猛地涌入河流，选 C。"
       },
       {
-        "id": "practical_lesson",
-        "question": "What practical lesson does the story teach?",
+        "id": "inference_biomagnification",
+        "question": "What can be inferred about why top predators may receive the heaviest dose of certain chemicals?",
         "options": [
-          "Play near water without looking around.",
-          "If a ball causes trouble, hide quickly.",
-          "Boats should never pass a park.",
-          "Be careful near water and be honest when an accident happens."
+          "They drink directly from point-source pipes.",
+          "They live closest to the city's parking lots.",
+          "They are the only animals affected by nonpoint-source pollution.",
+          "The chemicals build up at each step as they move up the food chain."
         ],
         "answer_index": 3,
-        "explanation_zh": "结尾提醒孩子们 look around before they kicked；Leo 的做法也说明出事后要诚实负责。"
+        "explanation_zh": "第二段说某些化学物质会发生 biomagnification，浓度沿食物链层层升高，因此处于顶端的捕食者（含人类）摄入量最大，可推出 D。"
+      },
+      {
+        "id": "vocab_permeable",
+        "question": "In the final paragraph, the word \"permeable\" is closest in meaning to which of the following?",
+        "options": [
+          "Able to let water pass through.",
+          "Brightly colored and decorative.",
+          "Extremely hard and waterproof.",
+          "Expensive and difficult to build."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "permeable 与前文 impervious（不透水）相对，文中说用 permeable 表面替换 impervious 表面，让水下渗，故意为“可让水透过的”，选 A。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 30 的核心结构：用 It was..., so... 写天气和行动，用 There were... 摆场景，用 Suddenly... 推动故事，用 so...that... 写结果，再用 realized what had happened 写明白真相后的反应。",
+    "intro_zh": "今天把 Lesson 30 的五个核心结构提升到 B2+：用 It was..., so... 由情境引出行动，用 There were... 铺陈更复杂的场景，用 Suddenly... 制造转折，用 so...that... 写程度与结果，再用 realized what had happened 写真相被看清后的反应。请尽量写出更抽象、更书面的长句。",
     "patterns": [
       {
         "id": "it_was_so",
         "title": "It was ..., so ...",
         "source": "It was warm last Sunday, so I went and sat on the river bank as usual.",
         "focus_zh": "用天气、时间或情况自然引出一个行动，so 后面写因此发生的事。",
-        "task_zh": "仿写一句：写天气很好、很冷、很晚或人很多，所以某人做了一个自然的动作。",
+        "task_zh": "仿写一句：用一个抽象或社会性的情境（如天气异常、经济紧张、舆论压力）自然引出一个机构或群体所采取的行动。",
         "must_include": [
           "It was",
           "so"
         ],
-        "min_words": 10,
-        "sample": "It was sunny after lunch, so we sat on the river bank.",
+        "min_words": 16,
+        "sample": "It was unusually dry that summer, so the council finally agreed to replace the cracked car park with a permeable garden.",
         "tip_zh": "前半句给原因，so 后面给行动；不要只写一个没有结果的天气句。"
       },
       {
@@ -103,12 +98,12 @@
         "title": "There were ...",
         "source": "There were some people rowing on the river.",
         "focus_zh": "There were 用来布置场景，后面可以接人物加动作，让读者看见画面。",
-        "task_zh": "仿写一句：写一个公园、河边或操场上的场景，说明那里有谁正在做什么。",
+        "task_zh": "仿写一句：用 There were 引出一群人，并补充他们正在做什么以及背后的目的或原因，让画面有层次。",
         "must_include": [
           "There were"
         ],
-        "min_words": 9,
-        "sample": "There were two children playing football near the quiet lake.",
+        "min_words": 16,
+        "sample": "There were dozens of volunteers planting native grasses along the bank, each hoping to slow the runoff before it reached the river.",
         "tip_zh": "There were 后面最好接复数人物，再用 doing 补出动作。"
       },
       {
@@ -116,12 +111,12 @@
         "title": "Suddenly, ...",
         "source": "Suddenly, one of the children kicked a ball very hard.",
         "focus_zh": "Suddenly 把平静场景变成故事转折，后面要出现一个突然动作。",
-        "task_zh": "仿写一句：写一个安静场景中突然发生的小意外。",
+        "task_zh": "仿写一句：在一个看似平静或稳定的局面中，用 Suddenly 引出一个改变全局、带有后果的突发事件。",
         "must_include": [
           "Suddenly"
         ],
-        "min_words": 9,
-        "sample": "Suddenly, a frisbee flew across the path towards a cyclist.",
+        "min_words": 16,
+        "sample": "Suddenly, after weeks of drought, a violent storm sent a torrent of polluted water surging across the pavement and into the stream.",
         "tip_zh": "Suddenly 后面的动作要能改变局面，比如 flew, fell, hit, shouted。"
       },
       {
@@ -129,13 +124,13 @@
         "title": "so ... that ...",
         "source": "The ball struck him so hard that he nearly fell into the water.",
         "focus_zh": "so...that... 用来写程度和结果：前面说明多强，that 后面说明造成了什么。",
-        "task_zh": "仿写一句：写一次击打、风、雨、声音或笑声很强，以至于产生一个明显结果。",
+        "task_zh": "仿写一句：描写某种力量（水流、风暴、噪音、压力）强到产生一个明显且具体的后果，体现因果链。",
         "must_include": [
           "so",
           "that"
         ],
-        "min_words": 11,
-        "sample": "The wind blew so hard that the little boat moved sideways.",
+        "min_words": 16,
+        "sample": "The runoff rushed downhill so violently that it tore away the soil and carried the loosened earth into the river within minutes.",
         "tip_zh": "so 后面接形容词或副词，that 后面接一个完整结果。"
       },
       {
@@ -143,12 +138,12 @@
         "title": "when ... realized what had happened",
         "source": "The man laughed when he realized what had happened.",
         "focus_zh": "这个结构写某人弄清楚真相后的反应，适合故事结尾。",
-        "task_zh": "仿写一句：写某人明白刚才发生了什么之后，笑了、道歉了或帮忙解决了问题。",
+        "task_zh": "仿写一句：写某人或某团队在弄清真相后的反应，并点明那个被理解的事件具有意外或深远的含义。",
         "must_include": [
           "realized what had happened"
         ],
-        "min_words": 11,
-        "sample": "The coach laughed when he realized what had happened near the gate.",
+        "min_words": 16,
+        "sample": "The engineers fell silent when they realized what had happened: a single layer of concrete had quietly redirected every drop of rain into the overloaded drain.",
         "tip_zh": "when 从句说明“明白真相”这个时刻，主句写那个人的反应。"
       }
     ]
