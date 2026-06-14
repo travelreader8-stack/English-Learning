@@ -1,100 +1,95 @@
 {
   "lesson_id": 14,
   "reading": {
-    "title": "The Quiet Museum Visit",
-    "intro_zh": "这篇短文不复述法国搭车故事，而是换到一次博物馆参观：两个学生都以为对方不会说英语，只用了一句中文问候就沉默了一路，最后一个简单问题解开误会。重点回收 amusing experience、wave、asked me for a lift、reply、apart from、at all、neither of us 和 Do you speak English?。",
-    "word_bank": [
-      "amusing experience",
-      "wave",
-      "lift",
-      "replied",
-      "apart from",
-      "at all",
-      "neither of us",
-      "journey",
-      "as soon as",
-      "Do you speak English?"
-    ],
+    "title": "Two Languages, One Mind",
+    "intro_zh": "这篇短文不复述法国搭车故事，而是介绍一个真实的语言科学话题：会两种语言的人，大脑里其实两种语言一直同时活跃。内容改编自《科学美国人》(Scientific American) 一篇关于双语大脑如何切换语言的报道。",
+    "source": {
+      "title": "How Brains Seamlessly Switch between Languages",
+      "publisher": "Scientific American",
+      "url": "https://www.scientificamerican.com/article/how-brains-seamlessly-switch-between-languages/"
+    },
     "passage": [
-      "Last summer I had an amusing experience on a school trip to a museum in Singapore. After our bus had left the hotel, a boy from another group waved to us near the station. His teacher asked our guide for a lift to the museum, so they joined our bus. As soon as the boy had sat beside me, I said hello in simple Chinese because I thought he was from China. He smiled and replied in Chinese. Apart from a few words, I do not know any Chinese at all, so I stayed quiet. The boy was quiet too. Neither of us spoke during the short journey. Near the museum door, he suddenly asked, \"Do you speak English?\" We both laughed, because we had been able to talk all morning."
+      "When two strangers fall silent because each assumes the other cannot understand a shared language, the awkward pause hides a remarkable fact about the human mind. According to research reported by Scientific American, the brain of a bilingual person never truly shuts one language off. Both languages remain active and accessible at the same time, even when the speaker is talking to someone who knows only one of them. Because of this constant parallel activation, a multilingual brain must continuously suppress the words it does not need, quietly resolving the competition between two vocabularies that are always ready to surface.",
+      "This hidden effort overturns a common assumption. Many people imagine that mixing languages, or switching rapidly from one to another, signals confusion or a deficiency. Neuroscientists argue the opposite. Using magnetoencephalography, which measures the tiny magnetic fields produced by neural activity, researchers tracked the brains of English-Korean bilinguals across hundreds of trials. They discovered that the same region, the left anterior temporal lobe, combines concepts into meaning regardless of which language supplies the words, and it does so without slowing down. Switching between languages is therefore neurologically natural rather than a flaw.",
+      "Strikingly, the studies suggest that holding to a single language can demand more cognitive control than alternating freely between two. Suppressing the unused language is genuinely taxing, so a bilingual speaker who must accommodate a monolingual listener may work harder than two bilinguals chatting comfortably. The silent travellers in our story, then, were not limited by their brains. Their minds were fully equipped for either language; only their mistaken assumption kept the conversation locked away."
     ],
     "questions": [
       {
-        "id": "misunderstanding_place",
-        "question": "Where did the misunderstanding happen?",
+        "id": "main_idea",
+        "question": "What is the main point of the passage?",
         "options": [
-          "On a school trip to a museum in Singapore.",
-          "In a small village in the south of France.",
-          "At a hotel where nobody could find the bus.",
-          "In an online game after school."
+          "Bilingual people should avoid mixing two languages in one sentence.",
+          "Learning a second language permanently damages the first one.",
+          "A bilingual brain keeps both languages active and switching between them is natural, not a flaw.",
+          "Most strangers stay silent because they genuinely share no common language."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "全文核心是：双语者大脑里两种语言一直同时活跃，语言之间的切换在神经层面是自然的，而不是缺陷。"
+      },
+      {
+        "id": "detail_parallel",
+        "question": "According to the passage, what happens to a bilingual person's two languages while they speak?",
+        "options": [
+          "Both languages stay active at the same time, even when talking to a monolingual listener.",
+          "The unused language is completely switched off until it is needed.",
+          "Only the language learned first remains available in the brain.",
+          "The two languages take turns and are never active together."
         ],
         "answer_index": 0,
-        "explanation_zh": "短文第一句说明这是 a school trip to a museum in Singapore，不是原文里的法国搭车场景。"
+        "explanation_zh": "文中说 Both languages remain active and accessible at the same time，即使对方只懂其中一种语言。"
       },
       {
-        "id": "reason_for_silence",
-        "question": "Why did the two students stay quiet?",
+        "id": "process_method",
+        "question": "How did researchers study the bilingual brain in this passage?",
         "options": [
-          "They were angry with each other.",
-          "They both thought they did not share a useful language.",
-          "The guide told them not to speak on the bus.",
-          "They were too tired after visiting the museum."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "叙述者以为男孩来自中国，自己中文很少；男孩也保持安静，所以两人都被语言假设困住了。"
-      },
-      {
-        "id": "first_language",
-        "question": "What language did the narrator first use?",
-        "options": [
-          "French.",
-          "Spanish.",
-          "Simple Chinese.",
-          "No language at all."
-        ],
-        "answer_index": 2,
-        "explanation_zh": "文中写道 I said hello in simple Chinese，男孩也 replied in Chinese。"
-      },
-      {
-        "id": "revealing_question",
-        "question": "What question revealed the truth?",
-        "options": [
-          "Where is the museum door?",
-          "Can you give me a lift?",
-          "Did you enjoy the station?",
-          "Do you speak English?"
+          "By asking participants to fill in a written grammar test.",
+          "By comparing how fast people typed in two languages.",
+          "By recording how often bilinguals forgot common words.",
+          "By using magnetoencephalography to measure neural activity across many trials."
         ],
         "answer_index": 3,
-        "explanation_zh": "接近博物馆门口时，男孩突然问 Do you speak English? 这句话揭开了误会。"
+        "explanation_zh": "研究者使用 magnetoencephalography（脑磁图）测量神经活动产生的磁场，并对英韩双语者做了数百次试验。"
       },
       {
-        "id": "why_amusing",
-        "question": "Why was the experience amusing rather than serious?",
+        "id": "inference",
+        "question": "What can we infer about the two silent travellers mentioned at the end?",
         "options": [
-          "Because the students mocked each other's accents.",
-          "Because the bus got lost for a long time.",
-          "Because both students could speak English all along.",
-          "Because the museum guide refused to help them."
+          "Their brains were unable to handle a second language.",
+          "Their silence came from a wrong assumption, not from any limit of the mind.",
+          "They had each forgotten how to speak their shared language.",
+          "Speaking two languages had made them too tired to talk."
         ],
-        "answer_index": 2,
-        "explanation_zh": "结尾说 We both laughed, because we had been able to talk all morning，笑点是两人其实一直可以用英语交流。"
+        "answer_index": 1,
+        "explanation_zh": "最后一段指出他们的大脑完全有能力使用任一语言，沉默只是源于错误的假设（only their mistaken assumption kept the conversation locked away）。"
+      },
+      {
+        "id": "vocab_suppress",
+        "question": "In the passage, the word \"suppress\" most nearly means to",
+        "options": [
+          "hold back or keep from surfacing.",
+          "translate quickly into another language.",
+          "speak loudly and with confidence.",
+          "forget completely and permanently."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "suppress 指大脑把暂时不需要的语言“压住、不让它冒出来”，即 hold back or keep from surfacing，与 forget（彻底遗忘）不同。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓 Lesson 14 的五个核心句式：用 After I had... 写过去故事里的先后顺序，用 asked me for... 写求助，用 As soon as... 写立刻发生的动作，用 Apart from a few words...at all 写语言能力很有限，最后用 Neither of us... 写尴尬沉默。",
+    "intro_zh": "今天抓 Lesson 14 的五个核心句式，并把例句提升到 B2+ 难度：用 After I had... 写过去故事里更早发生的动作，用 asked me for... 写求助，用 As soon as... 写紧接着发生的动作，用 Apart from a few words...at all 写能力极其有限，最后用 Neither of us... 写尴尬或迟疑的沉默。",
     "patterns": [
       {
         "id": "after_i_had",
         "title": "After I had ..., I ...",
         "source": "After I had left a small village, I drove on to the next town.",
         "focus_zh": "用 After I had... 表示一个动作在过去故事里更早发生，然后再写下一步动作。",
-        "task_zh": "仿写一句：写你先完成一个动作，之后才在旅行、校园或参观场景里做下一件事。",
+        "task_zh": "仿写一句：写你先完成了某个准备或决定，之后才在一个较抽象或正式的情境（如研究、旅行、面试、谈判）里采取下一步行动。",
         "must_include": [
           "After I had"
         ],
-        "min_words": 10,
-        "sample": "After I had found the right platform, I asked the guide for help.",
+        "min_words": 16,
+        "sample": "After I had carefully weighed every option, I finally decided to delay the project until the budget was approved.",
         "tip_zh": "had 后面接过去分词，后半句用一般过去时写下一步动作。"
       },
       {
@@ -102,12 +97,12 @@
         "title": "asked me for ...",
         "source": "He asked me for a lift.",
         "focus_zh": "asked me for... 用来写别人向我请求某种帮助、信息或东西。",
-        "task_zh": "仿写一句：写同学、游客或朋友向你请求帮助、方向、地图、座位或建议。",
+        "task_zh": "仿写一句：写一个陌生人、同事或访客在某个具体场景里向你请求帮助、信息、建议或指引，并补充一点背景。",
         "must_include": [
           "asked me for"
         ],
-        "min_words": 8,
-        "sample": "My classmate asked me for help with the museum map.",
+        "min_words": 16,
+        "sample": "A confused tourist at the crowded station asked me for directions to the museum, although she barely spoke the local language.",
         "tip_zh": "for 后面接名词或名词短语，比如 help, advice, directions, a seat。"
       },
       {
@@ -115,12 +110,12 @@
         "title": "As soon as ..., ...",
         "source": "As soon as he had got into the car, I said good morning to him in French.",
         "focus_zh": "As soon as... 强调前一个动作刚发生，后一个动作马上跟着发生。",
-        "task_zh": "仿写一句：写一个人刚上车、进教室、到博物馆或打开门，你马上做了什么。",
+        "task_zh": "仿写一句：写某件事刚一发生，你或别人立刻采取了一个有结果或有影响的行动，场景尽量正式或抽象。",
         "must_include": [
           "As soon as"
         ],
-        "min_words": 10,
-        "sample": "As soon as the guide had opened the door, we entered the museum.",
+        "min_words": 16,
+        "sample": "As soon as the negotiations had collapsed, the two delegations quietly withdrew their offers and prepared for a longer dispute.",
         "tip_zh": "如果要强调过去故事里的先后顺序，可以在 as soon as 后面用 had done。"
       },
       {
@@ -128,13 +123,13 @@
         "title": "Apart from a few words, ... at all",
         "source": "Apart from a few words, I do not know any French at all.",
         "focus_zh": "这个结构用来承认自己只知道很少一点，并用 at all 加强否定语气。",
-        "task_zh": "仿写一句：写你只会某种语言、技能或话题里的几个词，其他几乎不会。",
+        "task_zh": "仿写一句：承认在某个专业领域、语言或技能里你只掌握极少的内容，其余几乎一无所知，并点出这带来的影响。",
         "must_include": [
           "Apart from a few words",
           "at all"
         ],
-        "min_words": 10,
-        "sample": "Apart from a few words, I do not know any Japanese at all.",
+        "min_words": 16,
+        "sample": "Apart from a few words of medical jargon, I do not understand the specialist's report at all, which makes me nervous.",
         "tip_zh": "Apart from a few words 放在句首，后面通常接 do not know...at all。"
       },
       {
@@ -142,12 +137,12 @@
         "title": "Neither of us ...",
         "source": "Neither of us spoke during the journey.",
         "focus_zh": "Neither of us... 强调两个人都没有做某件事，适合写沉默、犹豫或误会。",
-        "task_zh": "仿写一句：写两个人因为紧张、误会或不确定语言而都没有开口。",
+        "task_zh": "仿写一句：写两个人因为误会、紧张或不确定而都没有开口或行动，并暗示这种沉默造成的后果。",
         "must_include": [
           "Neither of us"
         ],
-        "min_words": 8,
-        "sample": "Neither of us spoke until the teacher asked a question.",
+        "min_words": 16,
+        "sample": "Neither of us dared to break the tense silence, so a simple misunderstanding slowly hardened into a lasting resentment.",
         "tip_zh": "Neither of us 后面的动词通常用单数形式，比如 speaks/is/knows；写过去故事时用 spoke/was/knew。"
       }
     ]
