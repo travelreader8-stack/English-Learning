@@ -5,8 +5,9 @@
 #   2. test_pipeline.py     —— 96 课 lessons.json schema（不需要服务器）
 #   3. test_read_aloud_data.mjs —— 跟读数据结构（不需要服务器）
 #   4. test_slide_player.mjs —— slide-player 单元测试（不需要服务器）
-#   5. test_api.sh          —— 各 endpoint 验证（需要 dev-server）
-#   6. test_session_e2e.sh  —— 完整 session 流程（需要 dev-server）
+#   5. test_dictation_grading.ts —— 默写评分逻辑（不需要服务器）
+#   6. test_api.sh          —— 各 endpoint 验证（需要 dev-server）
+#   7. test_session_e2e.sh  —— 完整 session 流程（需要 dev-server）
 
 set -o pipefail   # 保留 pipefail、但不开 -u（路径含空格时 array 默认值会触发 unbound）
 TESTS_DIR="$(cd "$(dirname "$0")" && pwd)"
@@ -49,6 +50,9 @@ run_suite "4. slide-player 单元测试" node "$TESTS_DIR/test_slide_player.mjs"
 
 # 4.5) scrubber + click-to-play 行为
 run_suite "4.5 scrubber + 卡拉 OK 点击跳读" node "$TESTS_DIR/test_browser_scrubber.mjs"
+
+# 4.6) dictation grading logic
+run_suite "4.6 默写评分逻辑" bash -lc "cd \"$ROOT/web\" && npx tsx \"$TESTS_DIR/test_dictation_grading.ts\""
 
 # 4) API 端点测试 — 先确认 dev-server 在线
 DEV_OK=0

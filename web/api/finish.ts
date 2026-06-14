@@ -94,12 +94,16 @@ function renderDictationBlock(d: DictationResult | null, answer: string): string
   if (d.error) return `<h3>⑤ 默写</h3><p style="color:#dc2626">⚠️ ${escapeHtml(d.error)}</p>`;
   return `
     <h3>⑤ 默写 <span style="color:#2563eb">${d.match_pct}%</span></h3>
+    <div style="margin:8px 0 12px">
+      <div style="font-size:13px;color:#6b7280;margin-bottom:4px">学生提交的默写原文</div>
+      <pre style="background:#fafaf7;border:1px solid #e5e7eb;padding:10px;border-radius:6px;white-space:pre-wrap;font-size:14px;line-height:1.7">${escapeHtml(answer || "(未作答)")}</pre>
+    </div>
+    <div style="font-size:13px;color:#6b7280;margin:8px 0 4px">系统对照结果</div>
     <div style="background:#fff;border:1px solid #e5e7eb;border-radius:6px;padding:12px;font-family:Helvetica,sans-serif;font-size:15px;line-height:1.8">
       <style>del{background:#fee2e2;color:#dc2626}ins{background:#dcfce7;color:#16a34a;text-decoration:none;padding:0 2px}</style>
       ${d.diff_html ?? ""}
     </div>
     ${d.ai_tip ? `<div style="background:#dbeafe;border-left:3px solid #2563eb;padding:10px 14px;border-radius:6px;margin-top:10px">📌 ${escapeHtml(d.ai_tip)}</div>` : ""}
-    <details><summary style="cursor:pointer;color:#6b7280;font-size:13px;margin-top:8px">学生默写原文</summary><pre style="background:#fafaf7;padding:10px;border-radius:6px;white-space:pre-wrap;font-size:14px">${escapeHtml(answer)}</pre></details>
   `;
 }
 

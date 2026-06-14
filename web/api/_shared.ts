@@ -114,7 +114,10 @@ export function gradeDictation(submitted: string, original: string): { match_pct
     else if (op === -1) { html += `<del>${safe}</del> `; }
     else if (op === 1) { html += `<ins>${safe}</ins> `; }
   }
-  const total = origWords.length || 1;
+  // Penalize extra submitted words as well as missing original words. The old
+  // denominator used only original length, so "perfect text + extra words"
+  // could still score 100%.
+  const total = Math.max(origWords.length, subWords.length, 1);
   const matchPct = Math.round((matched / total) * 100);
   return { match_pct: matchPct, diff_html: html.trim() };
 }
