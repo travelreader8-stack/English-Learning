@@ -1,100 +1,95 @@
 {
   "lesson_id": 43,
   "reading": {
-    "title": "Clearing the Mountain Ridge",
-    "intro_zh": "这篇短文换到一支雪地测绘队：他们起初能顺利拍摄山脊，后来因为高度和重量遇到危险，必须迅速减重，飞机才终于越过山脊。",
-    "word_bank": [
-      "survey team",
-      "photograph",
-      "mountain ridge",
-      "run into",
-      "serious trouble",
-      "crash",
-      "rise",
-      "throw out",
-      "clear",
-      "plain"
-    ],
+    "title": "Flying Laboratories Over the Ice",
+    "intro_zh": "这篇拓展阅读讲述今天科学家如何驾驶专用飞机在南极开展考察与科研，改编自英国南极调查局（British Antarctic Survey）的权威介绍。",
+    "source": {
+      "title": "Aircraft",
+      "publisher": "British Antarctic Survey",
+      "url": "https://www.bas.ac.uk/polar-capabilities/aircraft/"
+    },
     "passage": [
-      "Early one morning, a survey team flew over a snowy valley to photograph a long mountain ridge. At first, the light was clear, and the small aircraft moved smoothly above the white plain. The camera operator took careful photographs of dark rocks and ice lines below. Soon, however, the pilot ran into serious trouble. A wall of cloud forced the aircraft toward the ridge, but the plane was carrying extra fuel cans and a heavy box of metal markers. It could only clear the ridge if it rose higher, and the engine was already working hard. The leader made a quick decision. The team threw out the metal markers and the empty fuel cans. The aircraft became lighter, rose slowly, and cleared the ridge by a narrow distance. Beyond it lay a wide, quiet plain."
+      "Almost a century after the first pioneers crossed Antarctica by air, aircraft remain indispensable to scientific work on the continent. The British Antarctic Survey operates a small fleet of five specialised machines: a four-engine Dash-7 and four rugged Twin Otters. The Twin Otters are high-wing turboprops fitted with a combined wheel and ski undercarriage, which lets them land on snow, ice, or a prepared runway. Because they can take off and touch down on extremely short, unimproved strips, they reach remote field camps that would otherwise be inaccessible, ferrying fuel, equipment, and researchers deep into the interior.",
+      "Yet these aircraft are far more than flying lorries. Several have been transformed into sophisticated airborne laboratories. Specialised instruments mounted on the airframe gather atmospheric data such as temperature, humidity, and turbulence, while geophysical sensors map what lies hidden beneath the surface. Polarimetric ice-penetrating radar, gravimeters, and magnetometers allow scientists to chart the rock and water concealed under kilometres of ice without ever digging. Such surveys are essential for understanding how the ice sheet is responding to a warming climate.",
+      "Operating in this environment demands meticulous preparation. The continent's weather is notoriously volatile, and visibility can collapse within minutes, so pilots undergo specialised training and carry contingency plans for emergencies. Flights are routinely grounded for days until conditions improve. From the gravel runway of the Rothera research station, these aircraft sustain a permanent human presence in one of the harshest places on Earth."
     ],
     "questions": [
       {
-        "id": "survey_goal",
-        "question": "What was the survey team trying to photograph?",
+        "id": "main_idea",
+        "question": "What is the main idea of the passage?",
         "options": [
-          "A busy airport beside a city.",
-          "A group of ships on the sea.",
-          "A long mountain ridge in a snowy valley.",
-          "A village road after a storm."
+          "Antarctic aircraft are mainly used to carry tourists across the continent.",
+          "The Dash-7 has replaced every other aircraft used in Antarctica.",
+          "Specialised aircraft are vital both for reaching remote sites and for conducting research in Antarctica.",
+          "Modern aircraft have made polar weather far easier to predict."
         ],
         "answer_index": 2,
-        "explanation_zh": "开头说 the survey team flew over a snowy valley to photograph a long mountain ridge，目标是拍摄雪地山谷里的长山脊。"
+        "explanation_zh": "全文围绕飞机在南极既能抵达偏远营地、又能充当“空中实验室”做科研这两大作用展开，所以主旨是专用飞机对到达偏远地点和开展研究都不可或缺。"
       },
       {
-        "id": "height_problem",
-        "question": "What trouble appeared during the flight?",
+        "id": "detail_undercarriage",
+        "question": "According to the passage, what allows the Twin Otters to land on snow, ice, or a runway?",
         "options": [
-          "The team lost all of its photographs.",
-          "A wall of cloud forced the aircraft toward the ridge.",
-          "The plain suddenly became a lake.",
-          "The pilot could not find the camera."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "短文说 A wall of cloud forced the aircraft toward the ridge，飞机被云墙逼向山脊，危险出现了。"
-      },
-      {
-        "id": "weight_mattered",
-        "question": "Why did the weight of the aircraft matter?",
-        "options": [
-          "The team wanted to land and buy more fuel.",
-          "The camera was too small to take photographs.",
-          "The valley was already below the plain.",
-          "The aircraft could only clear the ridge if it rose higher."
-        ],
-        "answer_index": 3,
-        "explanation_zh": "飞机必须 rise higher 才能 clear the ridge，而额外重量会让上升更困难，所以重量很关键。"
-      },
-      {
-        "id": "quick_decision",
-        "question": "What quick decision did the team make?",
-        "options": [
-          "They threw out the metal markers and the empty fuel cans.",
-          "They turned off the camera and slept.",
-          "They flew back to the city at once.",
-          "They waited for the ridge to disappear."
+          "A combined wheel and ski undercarriage.",
+          "Four powerful engines like the Dash-7.",
+          "Ice-penetrating radar mounted on the airframe.",
+          "A gravel runway built at every field camp."
         ],
         "answer_index": 0,
-        "explanation_zh": "短文说 The team threw out the metal markers and the empty fuel cans，这是他们为减重做出的快速决定。"
+        "explanation_zh": "文中明确说 Twin Otters 装有 a combined wheel and ski undercarriage，正是这种轮滑结合的起落架让它们能在雪地、冰面或跑道上降落。"
       },
       {
-        "id": "clear_ridge",
-        "question": "Why could the aircraft finally clear the ridge?",
+        "id": "cause_effect",
+        "question": "Why are the Twin Otters able to reach remote field camps that would otherwise be inaccessible?",
         "options": [
-          "The ridge moved away from the valley.",
-          "The clouds pulled the aircraft upward.",
-          "It became lighter and was able to rise.",
-          "The team found a road on the plain."
+          "Because they can carry up to sixteen passengers at a time.",
+          "Because they are flown only when the weather is perfect.",
+          "Because they avoid the interior and stay near the coast.",
+          "Because they can take off and land on extremely short, unimproved strips."
         ],
-        "answer_index": 2,
-        "explanation_zh": "结尾说 The aircraft became lighter, rose slowly, and cleared the ridge，减重以后飞机才能上升并越过山脊。"
+        "answer_index": 3,
+        "explanation_zh": "文中说因为它们能在极短、未经修整的简易跑道上起降（take off and touch down on extremely short, unimproved strips），所以才能抵达原本无法到达的偏远营地。"
+      },
+      {
+        "id": "inference",
+        "question": "What can be inferred about the geophysical surveys described in the passage?",
+        "options": [
+          "They require scientists to dig deep pits into the ice sheet.",
+          "They help reveal features hidden beneath the ice without physical excavation.",
+          "They are carried out only after the aircraft have landed.",
+          "They have made atmospheric instruments unnecessary."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中说雷达、重力仪和磁力仪能在不挖掘的情况下绘制冰层下隐藏的岩石和水（without ever digging），可推断这些勘测能揭示冰下的隐藏地貌而无需实地开挖。"
+      },
+      {
+        "id": "vocab_volatile",
+        "question": "In the final paragraph, the word \"volatile\" describing the weather most nearly means:",
+        "options": [
+          "Likely to change suddenly and unpredictably.",
+          "Warm and comfortable for most of the year.",
+          "Carefully measured and recorded by instruments.",
+          "Calm and reliable for long periods."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "下一句说能见度几分钟内就会骤降、飞行常被迫停飞数日，说明 volatile 指天气变化突然且难以预测，即“易变、不稳定”。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 43 的危险飞行句式：用 Though, at first 写顺利开头后的反差，用 ran into serious trouble 写突然遇险，用 could only...if...写必要条件，用 at once 写立刻决策，再用 was able to...and cleared...by...写解决问题后的结果。",
+    "intro_zh": "今天把 Lesson 43 的五个危险飞行句式提升到 B2+：用 Though, at first 写顺利开头与转折的张力，用 ran into serious trouble 写突遇险境，用 could only...if... 写严苛的必要条件，用 at once 写危急中的果断决策，再用 was able to...and cleared...by... 写历经险阻后的精确结果。每句都要更抽象、更复杂，并保留原有语法骨架。",
     "patterns": [
       {
         "id": "though_at_first",
         "title": "Though, at first, ...",
         "source": "Though, at first, Byrd and his men were able to take a great many photographs...",
         "focus_zh": "Though, at first 用来写故事一开始看起来顺利，但后面会出现转折或困难。",
-        "task_zh": "仿写一句：写一次飞行、比赛、项目或旅行，一开始很顺利，但后面遇到了问题。",
+        "task_zh": "仿写一句：写一支科考队、探险队或工程团队一开始进展顺利、信心十足，但环境或形势随后急转直下，使任务变得异常艰难。",
         "must_include": [
           "Though, at first"
         ],
-        "min_words": 12,
-        "sample": "Though, at first, our drone was able to take clear photos, the wind soon became stronger.",
+        "min_words": 16,
+        "sample": "Though, at first, the polar survey crew was able to gather flawless data above the glacier, a sudden whiteout soon reduced visibility to almost nothing.",
         "tip_zh": "Though, at first 后面先写顺利的开头，主句再写真正的变化或困难。"
       },
       {
@@ -102,12 +97,12 @@
         "title": "ran into serious trouble",
         "source": "They soon ran into serious trouble.",
         "focus_zh": "ran into serious trouble 表示突然遇到严重麻烦，比 simply had a problem 更有故事紧张感。",
-        "task_zh": "仿写一句：写一个队伍、机器人、无人机或计划突然遇到严重麻烦。",
+        "task_zh": "仿写一句：写一支远征队、研究团队或自动化系统在一个偏远、危险或高压的环境中突然陷入严重困境。",
         "must_include": [
           "ran into serious trouble"
         ],
-        "min_words": 10,
-        "sample": "The hiking team ran into serious trouble when thick fog covered the path.",
+        "min_words": 16,
+        "sample": "Deep inside the frozen interior of the continent, the exhausted expedition ran into serious trouble when a violent storm buried their only fuel depot.",
         "tip_zh": "run into 在这里不是跑进去，而是“遇到、碰上”一个问题。"
       },
       {
@@ -115,13 +110,13 @@
         "title": "could only ... if ...",
         "source": "It could only get over the mountains if it rose to 10,000 feet.",
         "focus_zh": "could only...if... 用来表达“只有满足某个条件，才有可能做到某事”。",
-        "task_zh": "仿写一句：写一个任务只有在达到某个高度、速度、分数、时间或条件时才能完成。",
+        "task_zh": "仿写一句：写一项艰巨任务只有在满足某个严苛而具体的条件（高度、温度、时间窗口或资源）时才有可能成功。",
         "must_include": [
           "could only",
           "if"
         ],
-        "min_words": 12,
-        "sample": "The rescue drone could only cross the valley if it rose above the trees.",
+        "min_words": 16,
+        "sample": "The overloaded research aircraft could only reach the distant ice camp if every unnecessary kilogram of equipment was stripped from the cabin first.",
         "tip_zh": "could only 后面写要完成的动作，if 后面写必须满足的条件。"
       },
       {
@@ -129,12 +124,12 @@
         "title": "at once ...",
         "source": "Byrd at once ordered his men to throw out two heavy food sacks.",
         "focus_zh": "at once 表示立刻、马上，适合写紧急情况下的快速决定。",
-        "task_zh": "仿写一句：写队长、老师、飞行员或朋友在危险或紧急时刻马上采取行动。",
+        "task_zh": "仿写一句：写一位指挥官、机长或团队负责人在能见度骤降或险情逼近的危急时刻立刻做出果断决定。",
         "must_include": [
           "at once"
         ],
-        "min_words": 10,
-        "sample": "The pilot at once told everyone to remove the extra equipment.",
+        "min_words": 16,
+        "sample": "As the threatening clouds closed in over the runway, the experienced captain at once abandoned the approach and diverted toward safer terrain.",
         "tip_zh": "at once 常放在动词前后，突出没有犹豫：at once ordered, at once decided。"
       },
       {
@@ -142,13 +137,13 @@
         "title": "was able to ... and cleared ... by ...",
         "source": "The plane was then able to rise and it cleared the mountains by 400 feet.",
         "focus_zh": "was able to...and cleared...by... 可以写出“终于做到”以及“以多小的差距越过障碍”。",
-        "task_zh": "仿写一句：写飞机、无人机、队伍或选手终于完成动作，并以一个具体距离、时间或分数越过难关。",
+        "task_zh": "仿写一句：写一架飞机、一支队伍或一位选手在卸下负担或克服阻力后终于成功，并以一个精确的差距越过险阻。",
         "must_include": [
           "was able to",
           "cleared"
         ],
-        "min_words": 12,
-        "sample": "The small drone was able to rise and cleared the wall by two metres.",
+        "min_words": 16,
+        "sample": "Once the heavy cargo had been jettisoned, the lightened aircraft was able to climb steadily and cleared the towering ridge by a mere thirty metres.",
         "tip_zh": "clear 在这里是“越过而没有碰到”，不是“清理干净”；by 后面可以接差距。"
       }
     ]
