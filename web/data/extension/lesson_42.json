@@ -1,101 +1,96 @@
 {
   "lesson_id": 42,
   "reading": {
-    "title": "The Puppet in the Square",
-    "intro_zh": "这篇短文不复述耍蛇场景，而是换到一个城市广场里的木偶表演：孩子们先觉得木偶好像听懂音乐，后来通过仔细观察发现它跟随的是表演者手指的动作。",
-    "word_bank": [
-      "square",
-      "performer",
-      "instrument",
-      "puppet",
-      "tune",
-      "first glimpse",
-      "movement",
-      "obviously",
-      "tell the difference",
-      "careful observation"
-    ],
+    "title": "The Snake Was Never Listening",
+    "intro_zh": "这篇短文不复述耍蛇人的故事，而是讲述蛇类听觉的真实科学：蛇没有外耳，主要依靠地面与下颌骨传来的震动感知世界。内容改编自权威同行评审期刊 PLOS ONE 的研究。",
+    "source": {
+      "title": "Sound garden: How snakes respond to airborne and groundborne sounds",
+      "publisher": "PLOS ONE",
+      "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0281285"
+    },
     "passage": [
-      "On Saturday, Nina and Ben visited a busy city square during a local festival. As they had walked through the market for a long time, they stopped by a fountain to have a rest. After a time, they noticed a street performer with a bright instrument and a small wooden puppet. As soon as he saw the children, he began to play a cheerful tune. The puppet turned, bowed, and lifted one arm, and the children had their first glimpse of its tiny silver shoes. At first, it seemed to dance to every note. Then Nina watched the performer's left hand carefully. The puppet was obviously following the movement of his fingers, not the music itself. Ben laughed, but he was respectful. Good visitors enjoy a surprise and then use careful observation before they decide what is really happening."
+      "For centuries, audiences have assumed that a cobra rising from a charmer's basket is entranced by the melody pouring from the pipe. The biology tells a more surprising story. Snakes possess no external ears and no eardrum, so the airborne notes that delight a human crowd reach them only faintly. Instead, vibrations travel through the ground and through the animal's own jawbone, passing along the quadrate and a slender bone called the columella into the inner ear. What looks like rapt appreciation is, in fact, a wary creature tracking the swaying instrument and the performer's hands, the moving objects it perceives as the nearest threat.",
+      "A 2023 study published in PLOS ONE put this folklore to a rigorous test. Researchers exposed nineteen snakes from five genera to filtered sound in a soundproof room and recorded how each one behaved. They confirmed that snakes are most sensitive to low frequencies, roughly forty to six hundred hertz, whereas human hearing peaks more than ten times higher. Crucially, the snakes reacted to sound carried purely through the air, not merely to ground vibration as scientists had long supposed. Yet their responses were anything but enchanted dancing. Several species tended to retreat from the noise, a defensive impulse rather than musical pleasure.",
+      "The lesson behind the spectacle is a quietly humbling one. A snake cannot tell the difference between a traditional tune and a burst of jazz, because it was never listening to either in the way we imagine. Careful observation, not first impressions, reveals what an animal is genuinely doing."
     ],
     "questions": [
       {
-        "id": "square_rest",
-        "question": "Why did Nina and Ben stop in the square?",
+        "id": "main_idea",
+        "question": "What is the main point of the passage?",
         "options": [
-          "They were looking for a new musical instrument to buy.",
-          "They had walked through the market for a long time and wanted to rest.",
-          "They had lost their way in a museum.",
-          "They wanted to join the performer on the stage."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "短文说 As they had walked through the market for a long time, they stopped by a fountain to have a rest。"
-      },
-      {
-        "id": "noticed_performance",
-        "question": "What performance did they notice after a time?",
-        "options": [
-          "A singer with two large baskets and a snake.",
-          "A group of students painting signs near the fountain.",
-          "A doctor giving a talk about animals.",
-          "A street performer with a bright instrument and a small wooden puppet."
-        ],
-        "answer_index": 3,
-        "explanation_zh": "关键句是 they noticed a street performer with a bright instrument and a small wooden puppet。"
-      },
-      {
-        "id": "first_glimpse",
-        "question": "What did the children see at their first glimpse of the puppet?",
-        "options": [
-          "A basket covered with coins.",
-          "A map of Old Delhi.",
-          "Its tiny silver shoes.",
-          "The performer's ticket."
+          "Cobras prefer traditional Indian melodies to modern jazz.",
+          "Snake charmers train their snakes for many years before performing.",
+          "A snake's apparent dancing is a response to movement and vibration, not musical appreciation.",
+          "Snakes hear airborne music better than any other animal."
         ],
         "answer_index": 2,
-        "explanation_zh": "文中写道 the children had their first glimpse of its tiny silver shoes。"
+        "explanation_zh": "全文的核心是：蛇看似随音乐起舞，其实是在追踪移动的乐器和表演者的手，对地面与下颌骨传来的震动作出反应，而非欣赏旋律。"
       },
       {
-        "id": "simple_explanation",
-        "question": "What simple explanation did Nina understand later?",
+        "id": "detail_anatomy",
+        "question": "According to the passage, how do vibrations reach a snake's inner ear?",
         "options": [
-          "The puppet was following the movement of the performer's fingers.",
-          "The puppet could tell every music style by itself.",
-          "The puppet was choosing songs for the festival.",
-          "The fountain was making the puppet move."
+          "Through the jawbone, the quadrate, and a bone called the columella.",
+          "Through a large external ear similar to a human's.",
+          "Through the snake's tongue as it flicks the air.",
+          "Through an eardrum that vibrates with airborne notes."
         ],
         "answer_index": 0,
-        "explanation_zh": "后来 Nina 仔细看左手，发现木偶跟随的是手指的 movement，而不是音乐本身。"
+        "explanation_zh": "文中说蛇没有外耳和鼓膜，震动经地面和下颌骨，沿 quadrate 和一块叫 columella 的细骨传入内耳。"
       },
       {
-        "id": "careful_observation",
-        "question": "What lesson does the story teach about watching something new?",
+        "id": "process_study",
+        "question": "What did the 2023 PLOS ONE study newly confirm about snakes?",
         "options": [
-          "Never watch street performances in a public square.",
-          "Enjoy the surprise, but use careful observation before deciding what is happening.",
-          "Assume every performance is exactly what it first seems to be.",
-          "Only music can explain a puppet's movement."
+          "That snakes enjoy low-frequency music more than high-frequency music.",
+          "That snakes can only sense sound through ground vibration.",
+          "That snakes are completely deaf to all forms of sound.",
+          "That snakes react to sound carried purely through the air, not only to ground vibration."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "研究的关键发现是：蛇会对纯粹经空气传播的声音作出反应，而不只是像过去认为的那样只感知地面震动。"
+      },
+      {
+        "id": "inference",
+        "question": "What can be inferred about a cobra that sways and rises during a performance?",
+        "options": [
+          "It is choosing which song it likes best.",
+          "It is reacting defensively to what it sees as a nearby threat.",
+          "It has been hypnotized by the sound of the pipe.",
+          "It is trying to imitate the performer's dance steps."
         ],
         "answer_index": 1,
-        "explanation_zh": "结尾强调 Good visitors enjoy a surprise and then use careful observation before they decide what is really happening。"
+        "explanation_zh": "文中指出，看似陶醉的姿态其实是警觉的蛇在追踪它视为最近威胁的移动物体，属于防御性反应。"
+      },
+      {
+        "id": "vocab_rapt",
+        "question": "In the phrase \"what looks like rapt appreciation,\" the word \"rapt\" most nearly means:",
+        "options": [
+          "deeply absorbed and fascinated",
+          "quickly frightened and confused",
+          "carelessly bored and distracted",
+          "loudly angry and aggressive"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "rapt 意为“全神贯注、入迷的”，文中用它形容蛇貌似沉醉于音乐的样子，因此最接近“深深着迷、专注”。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 42 的观察顺序句式：用 As we had..., we stopped... 交代背景和结果，用 After a time... 推进观察，用 As soon as... 写立刻反应，用 first glimpse 写第一眼，再用 tell the difference between... 写分辨区别。",
+    "intro_zh": "今天把 Lesson 42 的五个观察顺序句式提升到 B2+：用 As we had..., we stopped... 交代背景与结果，用 After a time... 推进观察，用 As soon as... 写立刻反应，用 first glimpse 写第一眼，再用 tell the difference between... 写更抽象的分辨。每句都要写得更长、更复杂。",
     "patterns": [
       {
         "id": "as_we_had_stopped",
         "title": "As we had ..., we stopped to ...",
         "source": "As we had had a long walk through one of the markets of old Delhi, we stopped at a square to have a rest.",
         "focus_zh": "As 引出原因或背景，had 表示之前已经发生的长时间动作，主句写因此停下来做什么。",
-        "task_zh": "仿写一句：写你们已经走了、等了或练习了很久，所以停下来休息、喝水或查看地图。",
+        "task_zh": "仿写一句：写你们已经长时间步行、排队或专注工作之后，因此停下来重新评估计划、补充体力或重新校准方向（语境更抽象、句子更长）。",
         "must_include": [
           "As we had",
           "stopped"
         ],
-        "min_words": 12,
-        "sample": "As we had walked through the old market for an hour, we stopped to drink some water.",
+        "min_words": 16,
+        "sample": "As we had spent the entire morning navigating the crowded labyrinth of the old bazaar, we finally stopped beneath a shaded archway to recover our strength.",
         "tip_zh": "As we had 后面接过去分词；stopped 后面可以接 to have a rest, to drink water, to check the map。"
       },
       {
@@ -103,12 +98,12 @@
         "title": "After a time, we noticed ...",
         "source": "After a time, we noticed a snake charmer.",
         "focus_zh": "After a time 表示过了一会儿，noticed 写慢慢观察到的新事物，适合推进场景。",
-        "task_zh": "仿写一句：写你们在广场、市场或博物馆里过了一会儿注意到一个人、声音或动作。",
+        "task_zh": "仿写一句：写你们在嘈杂或陌生的环境里经过一段时间后，才逐渐注意到一个之前被忽略的细节、规律或人物（强调慢慢觉察）。",
         "must_include": [
           "After a time"
         ],
-        "min_words": 9,
-        "sample": "After a time, we noticed a street performer beside the fountain.",
+        "min_words": 16,
+        "sample": "After a time, we noticed that the performer's subtle hand movements, rather than the music itself, were quietly steering every gesture of the marionette.",
         "tip_zh": "noticed 后面接具体对象；比 saw 更有“观察中慢慢发现”的感觉。"
       },
       {
@@ -116,12 +111,12 @@
         "title": "As soon as ..., ...",
         "source": "As soon as he saw us, he picked up a long pipe.",
         "focus_zh": "As soon as 表示前一个动作一发生，后一个动作马上跟上，节奏很紧。",
-        "task_zh": "仿写一句：写表演者、老师或朋友一看见某人，就立刻做出一个动作。",
+        "task_zh": "仿写一句：写某位专家、研究者或表演者一察觉到某种信号，就立刻采取一个经过深思熟虑的反应动作（语境更专业、句子更长）。",
         "must_include": [
           "As soon as"
         ],
-        "min_words": 10,
-        "sample": "As soon as the performer saw us, he began to play a cheerful tune.",
+        "min_words": 16,
+        "sample": "As soon as the researcher detected the faint vibration travelling through the ground, she immediately adjusted the sensitive instruments to capture the elusive signal.",
         "tip_zh": "As soon as 从句用过去式，主句也常用过去式来写故事里的连续动作。"
       },
       {
@@ -129,12 +124,12 @@
         "title": "had our first glimpse of ...",
         "source": "We had our first glimpse of the snake.",
         "focus_zh": "first glimpse 指第一眼、短暂的一瞥，适合写某个东西刚出现的瞬间。",
-        "task_zh": "仿写一句：写你们第一次看见木偶、舞台、展品或远处建筑的一瞬间。",
+        "task_zh": "仿写一句：写你们在一段铺垫之后第一次瞥见某个壮观、罕见或意味深长的景象，并点明那一瞬间带来的感受或领悟。",
         "must_include": [
           "first glimpse"
         ],
-        "min_words": 10,
-        "sample": "We had our first glimpse of the puppet when it lifted one tiny hand.",
+        "min_words": 16,
+        "sample": "When the heavy curtain finally lifted, we caught our first glimpse of the ancient mechanism, its delicate brass gears glinting under the museum lights.",
         "tip_zh": "glimpse 前面常搭配 first；后面用 of 加你第一次看到的东西。"
       },
       {
@@ -142,12 +137,12 @@
         "title": "could not tell the difference between ... and ...",
         "source": "It obviously could not tell the difference between Indian music and jazz.",
         "focus_zh": "tell the difference between A and B 表示分辨 A 和 B 的区别，可以写声音、画面、真假或两个相似事物。",
-        "task_zh": "仿写一句：写某人、某个小孩或一只宠物分辨不出两个相似声音、颜色、词语或动作的区别。",
+        "task_zh": "仿写一句：写某个人、动物或系统在缺乏足够线索的情况下，显然分辨不出两个相似而抽象的事物之间的区别（语境更抽象）。",
         "must_include": [
           "tell the difference between"
         ],
-        "min_words": 11,
-        "sample": "My little brother could not tell the difference between the two similar tunes.",
+        "min_words": 16,
+        "sample": "Lacking any external ears, the snake obviously could not tell the difference between a soothing melody and a sudden burst of chaotic, dissonant noise.",
         "tip_zh": "between 后面要有两个比较对象，中间用 and 连接；可以在前面加 obviously 表示“显然”。"
       }
     ]
