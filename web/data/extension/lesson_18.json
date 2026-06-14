@@ -1,100 +1,94 @@
 {
   "lesson_id": 18,
   "reading": {
-    "title": "The Missing Backpack",
-    "intro_zh": "这篇短文不复述 pub 和狗的原文，而是换到一家带小花园的 cafe：主人公把背包放在身边，付 bill 时才发现不见了；一家人 looked for，最后发现是四岁的弟弟 had taken 背包到 garden 里玩，服务员 immediately 把它 returned 并 gave it back。重点练习 earlier past、looked for、returned、gave it back 和 He often does this。",
-    "word_bank": [
-      "cafe",
-      "bill",
-      "looked for",
-      "beside",
-      "immediately",
-      "returned",
-      "gave it back",
-      "garden",
-      "had taken",
-      "He often does this"
-    ],
+    "title": "Why Dogs Hide Things",
+    "intro_zh": "这篇短文不复述课文里的 pub 和狗的故事，而是讲一个真实的科学话题：狗为什么爱把东西叼走、藏起来。内容改编自权威科普媒体 Live Science 的报道，介绍源自狼祖先的 food caching（藏食）本能。",
+    "source": {
+      "title": "Why do dogs bury bones?",
+      "publisher": "Live Science",
+      "url": "https://www.livescience.com/why-do-dogs-bury-bones.html"
+    },
     "passage": [
-      "My family stopped at a cafe with a small play garden last Sunday. I put my backpack on the seat beside me, with my wallet zipped inside, and went to choose a cake. When the waiter brought the bill, I reached for the bag to pay, but it was gone. We looked for it under every table and asked the people nearby. Then my mother pointed at the window: my four-year-old brother had taken the backpack out to the garden and was dragging it across the grass like a sledge. A kind waiter immediately went outside. He returned a minute later and gave it back to me, still covered in grass. My brother only giggled. \"He often does this,\" my mother sighed, \"so I always keep one hand on our bags.\""
+      "When a dog drags a shoe behind the sofa or buries a treat in a flower bed, it is not simply misbehaving; it is acting on an inheritance written deep into its biology. Scientists call this impulse food caching, and one common form of it is known as scatter-hoarding, in which an animal conceals surplus supplies across many separate hiding places rather than piling everything into a single store. The behaviour is ancient. The domestic dog descends from the grey wolf, a predator whose meals were anything but predictable. After a successful hunt a wolf might find far more meat than it could eat at once, so concealing the leftovers was a sensible insurance policy against the lean days that were certain to follow.",
+      "Evidence for these deep roots reaches back decades. A 1976 study published in the journal Ethology recorded wolves burying the remains of their kills, and even observed wolf pups stashing food and later relocating their hoards so that hungry siblings could not pilfer them. Such relocation is striking, since it shows that the pups could return to the exact spot days later and successfully retrieve what they had hidden. Modern pets rarely face genuine hunger, yet the instinct endures. As the trainer Teoti Anderson observes, when you cannot predict your next meal, hiding the leftovers makes perfect sense. Today the same urge may surface as savouring a cherished toy, relieving anxiety, or, in breeds such as terriers and dachshunds bred to dig, an irrepressible compulsion to excavate the nearest patch of soft earth."
     ],
     "questions": [
       {
-        "id": "where_left",
-        "question": "Where did the narrator put the backpack at the cafe?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "On the seat beside the narrator, with the wallet inside.",
-          "On a hook by the play-garden gate.",
-          "Under the cafe counter.",
-          "In the family's car outside."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文说 I put my backpack on the seat beside me, with my wallet zipped inside。"
-      },
-      {
-        "id": "when_missing",
-        "question": "When did the narrator notice the backpack was missing?",
-        "options": [
-          "Before the family ordered anything.",
-          "When the waiter brought the bill and the narrator reached for the bag to pay.",
-          "After the family had got home that night.",
-          "As soon as the family sat down."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "短文说 When the waiter brought the bill, I reached for the bag to pay, but it was gone，这时才发现背包不见了。"
-      },
-      {
-        "id": "awkward_reason",
-        "question": "Why was the missing backpack a problem at that moment?",
-        "options": [
-          "Because the cafe was about to close.",
-          "Because the waiter had lost the family's order.",
-          "Because the wallet was zipped inside it, so the narrator could not pay the bill.",
-          "Because the play-garden gate was locked."
+          "How to train a dog to stop digging up the garden.",
+          "Which dog breeds make the best family pets.",
+          "Why dogs hide objects, and how the habit traces back to their wolf ancestors.",
+          "The difference between wild wolves and modern pet dogs."
         ],
         "answer_index": 2,
-        "explanation_zh": "钱包 zipped inside 背包，背包不见了就 could not pay the bill，所以很尴尬。"
+        "explanation_zh": "全文围绕狗藏东西（food caching / scatter-hoarding）这一行为，并解释它源自灰狼祖先的生存本能，所以主旨是“狗为什么藏东西，以及这一习惯如何追溯到狼祖先”。"
       },
       {
-        "id": "who_moved",
-        "question": "Who had moved the backpack, and where to?",
+        "id": "detail_scatter",
+        "question": "According to the passage, what is 'scatter-hoarding'?",
         "options": [
-          "The kind waiter, behind the counter.",
-          "The narrator's mother, into the family car.",
-          "Another customer, to a nearby table.",
-          "The narrator's four-year-old brother, out to the garden."
+          "Hiding surplus food in many separate places instead of one single store.",
+          "Eating all available food at once before it can be stolen.",
+          "Burying food only in a single, carefully chosen location.",
+          "Sharing leftover food equally among the pack."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 scatter-hoarding 指动物把多余食物分散藏在许多不同地点，而不是堆在一个仓库里。"
+      },
+      {
+        "id": "cause_wolf",
+        "question": "Why did wolves cache leftover meat after a hunt?",
+        "options": [
+          "Because they preferred the taste of buried, aged meat.",
+          "Because their den was too small to keep food inside.",
+          "Because other predators ordered them to share it.",
+          "Because their food supply was unpredictable, so saving meat protected them against lean days."
         ],
         "answer_index": 3,
-        "explanation_zh": "短文揭示 my four-year-old brother had taken the backpack out to the garden。"
+        "explanation_zh": "短文说狼的食物来源很不稳定，一次猎到的肉可能吃不完，把剩肉藏起来是为应对随后必然到来的“饥荒日”，是一种保险。"
       },
       {
-        "id": "funny_ending",
-        "question": "Why is the mother's last comment funny?",
+        "id": "inference_memory",
+        "question": "What can we infer about wolves that relocate their hidden food?",
         "options": [
-          "Because waiters never help with lost bags.",
-          "Because the little brother does this so often that the mother already expects it.",
-          "Because backpacks can pay bills by themselves.",
-          "Because the garden had no grass at all."
+          "They are unable to find food on their own.",
+          "They must have a good memory for where things are located.",
+          "They never actually return to eat the food they hide.",
+          "They hide food only when they are not hungry."
         ],
         "answer_index": 1,
-        "explanation_zh": "\"He often does this\" 说明弟弟经常这样，妈妈早就习惯，所以结尾轻松好笑。"
+        "explanation_zh": "短文提到狼崽能把藏物转移到别处，并在数天后准确返回原地取回所藏之物；这一行为说明它们必须对位置有良好的记忆。"
+      },
+      {
+        "id": "vocab_irrepressible",
+        "question": "In the last sentence, the word 'irrepressible' most nearly means",
+        "options": [
+          "easily forgotten",
+          "rarely noticed",
+          "impossible to hold back",
+          "carefully planned"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "irrepressible 意为“无法抑制的、压不住的”。文中说梗犬、腊肠犬有 irrepressible compulsion to excavate（无法抑制的挖掘冲动），故最接近 impossible to hold back。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓 Lesson 18 的五个故事句式：After I had had 写更早发生的事，I had left it 说明东西原来放在哪里，As I was looking for 写寻找时被打断，In a few minutes ... returned 写短时间后的回转，gave it back to me 写归还。",
+    "intro_zh": "今天把 Lesson 18 的五个故事句式提升到 B2+：After I had had 写更早完成的事，I had left it 回溯东西原先的去处，As I was looking for 写寻找时被打断，In a few minutes ... returned 写短时间后的回转，gave it back to me 写归还。请用更抽象、更复杂的语境和更长的句子来仿写，保持过去完成时这一语法重点。",
     "patterns": [
       {
         "id": "after_i_had_had",
         "title": "After I had had ...",
         "source": "After I had had lunch at a village pub, I looked for my bag.",
         "focus_zh": "用 After I had had 说明“我已经做完某件事之后，又发生了后面的事”。",
-        "task_zh": "仿写一句：写你吃完饭、上完课或完成活动后，开始寻找某个东西。",
+        "task_zh": "用 After I had had 写一件更早完成、且带有情绪或后果的事，然后描述随之而来的较抽象的行动或后果（如反思、寻找、道歉）。",
         "must_include": [
           "After I had had"
         ],
-        "min_words": 10,
-        "sample": "After I had had dinner, I looked for my phone near the sofa.",
+        "min_words": 16,
+        "sample": "After I had had a long argument with my colleague about the budget, I anxiously looked for the report I had carelessly misplaced.",
         "tip_zh": "第一个 had 是过去完成时助动词，第二个 had 表示 eat / experience；不要漏掉其中一个。"
       },
       {
@@ -102,12 +96,12 @@
         "title": "I had left it ...",
         "source": "I had left it on a chair beside the door.",
         "focus_zh": "用 had left it 回头解释东西在更早的时候被放在哪里。",
-        "task_zh": "仿写一句：写你原本把书包、钥匙、饭卡或笔袋放在了哪里。",
+        "task_zh": "用 had left it 回头解释某个重要物品在更早的时候被你放在了哪里，并交代当时的背景或原因。",
         "must_include": [
           "had left it"
         ],
-        "min_words": 9,
-        "sample": "I had left it on my desk before the bell rang.",
+        "min_words": 14,
+        "sample": "I suddenly remembered that I had left it locked inside my desk drawer at the office on the evening before the holiday.",
         "tip_zh": "it 指代前一句已经提到的东西；后面常接 on / in / beside 等地点。"
       },
       {
@@ -115,12 +109,12 @@
         "title": "As I was looking for ...",
         "source": "As I was looking for it, the landlord came in.",
         "focus_zh": "这个句式写“我正在找的时候，另一个动作发生了”，很有故事感。",
-        "task_zh": "仿写一句：写你正在找某个东西时，老师、同学、家人或店员出现了。",
+        "task_zh": "用 As I was looking for 写你正在焦急寻找某个重要东西时，另一个出乎意料、可能带来压力的事件突然发生。",
         "must_include": [
           "As I was looking for"
         ],
-        "min_words": 10,
-        "sample": "As I was looking for my pencil case, my brother called me.",
+        "min_words": 16,
+        "sample": "As I was looking for the missing contract among the scattered files, my manager unexpectedly walked into the office and asked for an explanation.",
         "tip_zh": "As I was looking for 后面接要找的东西；逗号后写突然出现或发生的动作。"
       },
       {
@@ -128,13 +122,13 @@
         "title": "In a few minutes ... returned",
         "source": "In a few minutes he returned with my bag.",
         "focus_zh": "用 In a few minutes 写“过了几分钟”，再用 returned 推动故事回来。",
-        "task_zh": "仿写一句：写某人几分钟后带着你丢的东西回来了。",
+        "task_zh": "用 In a few minutes ... returned 写过了几分钟后，某人带着你以为弄丢的重要物品回来，并刻画当时的情绪转变。",
         "must_include": [
           "In a few minutes",
           "returned"
         ],
-        "min_words": 10,
-        "sample": "In a few minutes, she returned with my notebook from the library.",
+        "min_words": 16,
+        "sample": "In a few minutes the security guard returned with the laptop I had abandoned in the conference room, looking faintly amused at my panic.",
         "tip_zh": "returned with 后面接带回来的东西；这能让故事从紧张转向安心。"
       },
       {
@@ -142,12 +136,12 @@
         "title": "gave it back to me",
         "source": "He gave it back to me.",
         "focus_zh": "gave it back to me 是很实用的“把东西还给我”。",
-        "task_zh": "仿写一句：写同学、店员、家人或朋友找到了你的东西并还给你。",
+        "task_zh": "用 gave it back to me 写在一番周折之后，某人找到了你贵重或要紧的东西并郑重地还给你。",
         "must_include": [
           "gave it back to me"
         ],
-        "min_words": 8,
-        "sample": "The monitor found my ruler and gave it back to me.",
+        "min_words": 16,
+        "sample": "After patiently searching through the lost-property cupboard for nearly ten minutes, the receptionist finally found my passport and gave it back to me.",
         "tip_zh": "gave it back to me 可以接在 found / picked up / brought 等动作后面。"
       }
     ]
