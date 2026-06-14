@@ -1,101 +1,96 @@
 {
   "lesson_id": 23,
   "reading": {
-    "title": "The Modern House on the Corner",
-    "intro_zh": "这篇短文不复述姐姐从 Nigeria 回来的原文，而是换成一个新故事：姑姑多年前去了国外，她离开前街角就 had begun 盖一座大胆的新房子，她走得太早没看到样子；房子大约一年后 was completed。她来信说 would come 回来探亲，If she comes 一定会大吃一惊。家人说她可以 stay with us。这座房子非常 modern，在一片旧砖房的 district 里显得 strange，对姑姑来说它 must be 整条街最大的变化。重点练习 had begun、was completed、would come、If she comes、stay with us、district 和 must be。",
-    "word_bank": [
-      "complete",
-      "modern",
-      "strange",
-      "district",
-      "had begun",
-      "was completed",
-      "would come",
-      "If she comes",
-      "stay with us",
-      "must be"
-    ],
+    "title": "From Death Avenue to the High Line",
+    "intro_zh": "这篇短文不复述姐姐从 Nigeria 回来的故事，而是讲一个真实的城市变化案例：纽约一条废弃的高架铁路如何变成今天著名的空中花园 High Line，让一个旧工业街区彻底改头换面。内容改编自权威资料 Encyclopaedia Britannica。",
+    "source": {
+      "title": "High Line | New York, Map, History, & Facts",
+      "publisher": "Encyclopaedia Britannica",
+      "url": "https://www.britannica.com/place/High-Line"
+    },
     "passage": [
-      "My aunt grew up on our old street, but she moved abroad years ago. Before she packed her bags, builders had begun work on a bold new house on the empty corner, though she left too soon to see what it would become. The house was completed about a year later. It has wide glass walls, a flat roof, and a quiet courtyard. She wrote to us last week and said that she would come back to visit this autumn. If she comes, she will not believe her eyes. My parents say she can stay with us during her trip. The building is so modern that it still looks strange in our district of old brick homes. To my aunt, it must be the biggest change on the whole street."
+      "On the West Side of Manhattan, an elevated steel railway opened in 1934, lifting freight trains roughly nine metres above streets that had grown so dangerous they were nicknamed \"Death Avenue.\" For decades the line hauled meat, produce, and other goods directly into warehouses, but as trucks gradually took over, traffic dwindled. The last train, reportedly loaded with frozen turkeys, rolled along the tracks in 1980. After that the structure was abandoned. Rather than being demolished, it was slowly colonized by wild grasses and self-seeded trees, becoming a hidden ribbon of greenery that most New Yorkers below never noticed.",
+      "By the late 1990s the rusting viaduct faced demolition, and few residents imagined it could be saved. In 1999, however, two neighbours founded a community group determined to preserve it, inspired by an elevated promenade they had seen in Paris. Work on transforming the derelict line into a public park had begun before the first section was completed, and that first stretch was finally opened to the public in 2009. The remaining sections were finished in stages, and the full 1.45-mile park was completed in 2014. What had been an industrial relic was reborn as a striking modern landscape of walkways and gardens.",
+      "The effect on the surrounding district was profound. Drawing millions of visitors each year, the High Line acted as a catalyst, attracting hotels, galleries, and a major new art museum to a once-neglected area. To anyone who remembered the rotting tracks, the transformation must seem almost unbelievable. The project has since become a global model, inspiring cities worldwide to reimagine forgotten infrastructure as vibrant public space rather than tearing it down."
     ],
     "questions": [
       {
-        "id": "returning_person",
-        "question": "Who is going to return to the old street this autumn?",
+        "id": "main_idea",
+        "question": "What is the main idea of the passage?",
         "options": [
-          "A young architect from another city.",
-          "The narrator's aunt, who moved abroad years ago.",
-          "The narrator's parents.",
-          "A new family moving into the district."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "短文说 my aunt ... moved abroad years ago，并在信里 said that she would come back to visit this autumn。"
-      },
-      {
-        "id": "work_had_begun",
-        "question": "What had already begun before the aunt left?",
-        "options": [
-          "A trip abroad for the whole family.",
-          "Repair work on the old brick homes.",
-          "Work on a bold new house on the empty corner.",
-          "A plan to open a small shop."
-        ],
-        "answer_index": 2,
-        "explanation_zh": "文中写道 builders had begun work on a bold new house on the empty corner，而且发生在她 packed her bags 之前。"
-      },
-      {
-        "id": "completion_time",
-        "question": "When was the new house completed?",
-        "options": [
-          "About a year after the aunt left.",
-          "Before the aunt moved abroad.",
-          "Last week, when her letter arrived.",
-          "This autumn, on the day she returns."
+          "How a disused elevated railway was transformed into a celebrated modern park that reshaped its district.",
+          "Why freight trains in Manhattan were eventually replaced by trucks.",
+          "How dangerous street-level trains made 10th Avenue famous as \"Death Avenue.\"",
+          "Why Paris built an elevated promenade before New York did."
         ],
         "answer_index": 0,
-        "explanation_zh": "短文说 work had begun before she left，而 The house was completed about a year later，所以是在她离开大约一年之后完工。"
+        "explanation_zh": "全文主线是一条废弃高架铁路如何被改造成著名的现代公园 High Line，并彻底改变了周边街区，这是文章的中心意思。其余选项只是文中的细节或背景。"
       },
       {
-        "id": "why_surprised",
-        "question": "Why will the aunt be surprised if she comes back?",
+        "id": "detail_last_train",
+        "question": "According to the passage, what did the last train on the line reportedly carry?",
         "options": [
-          "Because her family has moved abroad as well.",
-          "Because the empty corner is exactly as she remembers it.",
-          "Because the old brick homes have all been knocked down.",
-          "Because a strikingly modern house now stands on the once-empty corner."
-        ],
-        "answer_index": 3,
-        "explanation_zh": "她离开时街角还是空的，回来会看到一座非常 modern 的新房子，所以 If she comes, she will not believe her eyes。"
-      },
-      {
-        "id": "modern_strange",
-        "question": "Why does the new house look strange in the district?",
-        "options": [
-          "Because it is too small for one family.",
-          "Because the aunt does not like glass walls.",
-          "Because it is very modern and stands among old brick homes.",
-          "Because every other house nearby is modern too."
+          "Building materials for new warehouses.",
+          "Passengers on a farewell ride.",
+          "Frozen turkeys.",
+          "Wild grasses and young trees."
         ],
         "answer_index": 2,
-        "explanation_zh": "modern 在这里不是 bad，而是因为它和周围的 old brick homes 风格不同，所以在 district 里显得 strange。"
+        "explanation_zh": "文中明确写道，最后一班列车 \"reportedly loaded with frozen turkeys\"，于 1980 年驶过，所以答案是冷冻火鸡。"
+      },
+      {
+        "id": "process_completion",
+        "question": "How was the High Line park completed?",
+        "options": [
+          "It was built and opened all at once in 2009.",
+          "It was opened in stages, with the first section in 2009 and the full park finished in 2014.",
+          "It was completed before the community group was founded in 1999.",
+          "It was finished only after the original railway was demolished."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文章说第一段在 2009 年向公众开放，其余部分分阶段完成，整座 1.45 英里的公园在 2014 年建成，所以是分阶段开放、2009 到 2014 完工。"
+      },
+      {
+        "id": "inference_demolition",
+        "question": "What can be inferred about the railway's fate in the late 1990s if the community group had not been formed?",
+        "options": [
+          "It would have been restored to carry freight trains again.",
+          "It would have been sold to the city of Paris.",
+          "It would have continued to grow wild without any change.",
+          "It would most likely have been torn down."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "文中说到 1990 年代末高架桥 \"faced demolition\"，而 1999 年成立的社区组织 \"determined to preserve it\"，可推断若没有他们，铁路很可能会被拆除。"
+      },
+      {
+        "id": "vocab_catalyst",
+        "question": "In the passage, the High Line \"acted as a catalyst\" for the district. The word \"catalyst\" most nearly means something that",
+        "options": [
+          "blocks or slows down development.",
+          "triggers or speeds up change.",
+          "keeps an area exactly as it was.",
+          "replaces old buildings with copies of themselves."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "catalyst 指\"催化剂、促成变化的因素\"。文中说它吸引了酒店、画廊和博物馆来到曾被忽视的街区，说明它\"引发并加速了变化\"，故选 B。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 23 的时间线句式：用 said that...would... 转述过去说的未来计划，用 If...will... 写真实可能，用 had begun before... 排出更早的过去，用 was completed...ago 写被动完成时间，再用 must be the only... 表达强烈判断。",
+    "intro_zh": "今天把五个 Lesson 23 的时间线句式提升到 B2+：用 said that...would... 转述过去说的未来计划，用 If...will... 写真实可能，用 had begun before... 排出更早的过去，用 was completed...ago 写被动完成时间，再用 must be the only... 表达有把握的推断。请尝试把它们用在更抽象、更正式的语境里。",
     "patterns": [
       {
         "id": "said_that_would",
         "title": "said that she would ...",
         "source": "In her letter, she said that she would come to England next year.",
         "focus_zh": "用 said that...would... 转述别人过去说过的未来计划，适合写信、消息或转告。",
-        "task_zh": "仿写一句：某人在信、消息或电话里说，他/她明年、下周或假期会回来、参观或入住。",
+        "task_zh": "仿写一句：在一份正式的公告、报告或书面声明里，某机构或某人说他们将在未来某个时间启动、完成或公开某个项目或计划。",
         "must_include": [
           "said that",
           "would"
         ],
-        "min_words": 10,
-        "sample": "In his message, he said that he would visit our new classroom next week.",
+        "min_words": 16,
+        "sample": "In its official statement, the committee said that it would publish the full restoration plan before the end of the financial year.",
         "tip_zh": "said 是过去说，would 把当时说的“将来会做”放进转述里。"
       },
       {
@@ -103,13 +98,13 @@
         "title": "If she comes, she will ...",
         "source": "If she comes, she will get a surprise.",
         "focus_zh": "If...will... 写真实可能发生的未来：如果前面的条件发生，后面就会有结果。",
-        "task_zh": "仿写一句：如果一个亲戚、朋友或同学回来，他/她会看到一个惊喜或变化。",
+        "task_zh": "仿写一句：如果某项政策、技术或趋势真的实现，它将给一座城市、一个行业或一群人带来深远的改变或好处。",
         "must_include": [
           "If",
           "will"
         ],
-        "min_words": 9,
-        "sample": "If my cousin comes home this winter, she will see our new kitchen.",
+        "min_words": 16,
+        "sample": "If this ambitious regeneration scheme finally goes ahead, it will transform a neglected industrial district into a thriving public space.",
         "tip_zh": "If 后面常用现在时 comes，主句用 will；不要写 If she will comes。"
       },
       {
@@ -117,12 +112,12 @@
         "title": "had begun before ...",
         "source": "Work on it had begun before my sister left.",
         "focus_zh": "had begun before... 用来说明一件事在另一个过去动作之前已经开始。",
-        "task_zh": "仿写一句：某个装修、建设、训练或准备工作在某人离开、到达或发现之前已经开始。",
+        "task_zh": "仿写一句：某项研究、建设或改革工程在某个关键事件、转折点或决定公布之前就已经悄悄开始了。",
         "must_include": [
           "had begun before"
         ],
-        "min_words": 10,
-        "sample": "Work on the new library had begun before we left for the holiday.",
+        "min_words": 16,
+        "sample": "Work on converting the derelict railway into a green promenade had begun before the city council formally approved the entire budget.",
         "tip_zh": "had begun 是更早的过去；before 后面接另一个过去动作，时间线就清楚了。"
       },
       {
@@ -130,13 +125,13 @@
         "title": "was completed ... ago",
         "source": "The house was completed five months ago.",
         "focus_zh": "was completed 把重点放在“东西被完成”，后面加 ... ago 说明完成时间。",
-        "task_zh": "仿写一句：某个房间、花园、教室或项目在几天、几周或几个月前完工。",
+        "task_zh": "仿写一句：某座地标、基础设施或大型工程在若干年前正式建成，如今已成为当地的象征或重要资产。",
         "must_include": [
           "was completed",
           "ago"
         ],
-        "min_words": 8,
-        "sample": "The new reading room was completed three months ago.",
+        "min_words": 14,
+        "sample": "The final section of the elevated park was completed several years ago, and it now draws millions of visitors annually.",
         "tip_zh": "was completed 是被动语态；不需要说明是谁完成的，重点是 finished result。"
       },
       {
@@ -144,12 +139,12 @@
         "title": "must be the only ...",
         "source": "It must be the only modern house in the district.",
         "focus_zh": "must be the only... 表示很有把握的判断：它很可能是唯一一个。",
-        "task_zh": "仿写一句：一个现代房间、建筑、商店或教室在老街区、学校或小区里很可能是唯一的。",
+        "task_zh": "仿写一句：根据有力的证据或观察，某个建筑、机构、做法或现象在某个城市、行业或时代里很可能是独一无二的。",
         "must_include": [
           "must be the only"
         ],
-        "min_words": 9,
-        "sample": "It must be the only modern cafe in the old district.",
+        "min_words": 15,
+        "sample": "Judging by the historical records, it must be the only surviving elevated freight line ever reborn as a famous public garden.",
         "tip_zh": "must be 不是命令，而是强烈推测；the only 后面接名词，说明它很特别。"
       }
     ]
