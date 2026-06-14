@@ -1,100 +1,94 @@
 {
   "lesson_id": 10,
   "reading": {
-    "title": "Not for Loud Experiments",
-    "intro_zh": "这篇短文不复述 clavichord / jazz 的原文，而是换到学校音乐社的一件老乐器：实验本身不是坏事，问题是把脆弱的旧物当成可以大力敲打的工具。重点回收 called / was made / has belonged to / damaged / not allowed to / being repaired。",
-    "word_bank": [
-      "instrument",
-      "called",
-      "was made",
-      "has belonged to",
-      "recently",
-      "damaged",
-      "struck",
-      "shocked",
-      "not allowed to",
-      "being repaired"
-    ],
+    "title": "The Silent Galleries",
+    "intro_zh": "这篇短文讲一个真实话题：纽约大都会艺术博物馆为什么几乎从不演奏馆藏的古乐器，以及它如何在“保存”与“被听见”之间取舍。改编自史密森尼杂志（Smithsonian Magazine）对大都会博物馆乐器录音项目的报道。",
+    "source": {
+      "title": "Now Streaming, the Swan Songs of the Met's Historic Instruments",
+      "publisher": "Smithsonian Magazine",
+      "url": "https://www.smithsonianmag.com/smart-news/now-streaming-swan-songs-mets-historic-instruments-180969297/"
+    },
     "passage": [
-      "Our music club has an old handmade instrument. It is called a table harp. It was made in a small workshop in 1923 and has belonged to the school for many years. It is kept in a glass case near the club room, and visitors may listen while a teacher plays it softly. Recently, a new student used it for a loud sound experiment. He struck the frame with a metal spoon to see how strong the sound would be. The thin bridge was damaged, and two strings came loose. Everyone was shocked, because the instrument was part of the school's history. The experiment itself was not wrong, but this object was too delicate for it. Now students are not allowed to touch it without a teacher. It is being repaired by an old instrument maker."
+      "Step into the Metropolitan Museum of Art in New York and you will move past glass cases crowded with antique violins, harps, and keyboards, yet the rooms themselves stay strangely hushed. The museum keeps about five thousand musical instruments, but only a tiny fraction are ever kept ready to play. The silence is not the product of neglect; it is a deliberate choice. Many of these objects were built from perishable materials such as animal skin, slender plant fibre, and timber that has dried and weakened with age, so the strain of being struck, bowed, or blown can split a panel or break a string that has lasted for hundreds of years. Because such damage usually cannot be undone, curators treat each performance as a measured gamble rather than an everyday liberty.",
+      "Before a single note sounds, the conservation staff balance the insight that playing might reveal against the harm it could cause. When an instrument is found robust enough, the museum invites only a specialist who truly grasps how it behaves, and the whole session is carefully recorded. This care reflects a deeper tension in the field: an instrument that is never played falls mute and its character slowly fades from memory, while one that is played too often wears itself away. To sidestep that trap, the Met has produced high-quality recordings of around forty selected instruments, so visitors can call up their sound through gallery kiosks or their own phones. The delicate originals remain safe behind glass, while their voices live on in a form that no clumsy touch can spoil."
     ],
     "questions": [
       {
-        "id": "old_object",
-        "question": "What old object did the music club have?",
+        "id": "main_idea",
+        "question": "What is the main idea of the passage?",
         "options": [
-          "A modern electric keyboard.",
-          "An old handmade instrument called a table harp.",
-          "A broken metal spoon.",
-          "A new science machine for sound experiments."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "开头说音乐社有一件 old handmade instrument，并且 It is called a table harp。"
-      },
-      {
-        "id": "object_history",
-        "question": "Why did the object matter to the school?",
-        "options": [
-          "It was bought only last week.",
-          "It was the loudest instrument in the club.",
-          "It was made in 1923 and had belonged to the school for many years.",
-          "It was used for every science lesson."
+          "The Met wants to sell its musical instruments to private collectors.",
+          "Antique instruments sound better than modern ones.",
+          "Museums protect fragile historic instruments by rarely playing them and recording them instead.",
+          "Visitors are forbidden from entering the instrument galleries."
         ],
         "answer_index": 2,
-        "explanation_zh": "短文说它 was made in 1923，并且 has belonged to the school for many years。"
+        "explanation_zh": "全文的核心是：博物馆为了保护脆弱的古乐器，几乎不演奏它们，而是用高质量录音让公众听到它们的声音。"
       },
       {
-        "id": "damage_event",
-        "question": "How was the table harp damaged?",
+        "id": "detail_count",
+        "question": "According to the passage, how many of the Met's instruments are kept ready to play?",
         "options": [
-          "A student struck the frame with a metal spoon during a loud sound experiment.",
-          "A teacher dropped it while moving the glass case.",
-          "Visitors played it too softly.",
-          "An instrument maker repaired it too quickly."
+          "Only a small fraction of them.",
+          "Roughly half of the five thousand.",
+          "Almost all five thousand.",
+          "None of them at all."
         ],
         "answer_index": 0,
-        "explanation_zh": "新同学为了 loud sound experiment，用 metal spoon 敲了 frame，导致它受损。"
+        "explanation_zh": "文中说博物馆约有五千件乐器，但只有极少数（a tiny fraction）被保持在可演奏状态。"
       },
       {
-        "id": "shocked_reason",
-        "question": "Why was everyone shocked?",
+        "id": "cause_effect",
+        "question": "Why does playing many of these instruments pose such a serious risk?",
         "options": [
-          "Because the experiment made no sound.",
-          "Because students were never interested in old things.",
-          "Because the teacher wanted louder music.",
-          "Because the instrument was part of the school's history."
+          "The musicians are not skilled enough to handle them.",
+          "The galleries are too cold for the wood.",
+          "The instruments are kept in locked cases that are hard to open.",
+          "Their delicate materials can crack or break, and the damage usually cannot be undone."
         ],
         "answer_index": 3,
-        "explanation_zh": "文中直接说明 Everyone was shocked, because the instrument was part of the school's history。"
+        "explanation_zh": "文中说乐器由动物皮、纤细植物纤维和老化木材等易损材料制成，演奏带来的应力可能使其开裂或断弦，而这种损坏通常无法挽回。"
       },
       {
-        "id": "new_rule",
-        "question": "What rule changed while the instrument was being repaired?",
+        "id": "inference",
+        "question": "What can we infer about why the Met makes recordings of its instruments?",
         "options": [
-          "Students are not allowed to touch it without a teacher.",
-          "Students must use a metal spoon to play it.",
-          "Visitors must play it loudly.",
-          "The club must stop doing all experiments."
+          "It wants people to hear the instruments without endangering the fragile originals.",
+          "It no longer cares whether the instruments survive.",
+          "Recordings sound exactly like a live concert in every way.",
+          "It plans to stop displaying the instruments to the public."
         ],
         "answer_index": 0,
-        "explanation_zh": "结尾说 Now students are not allowed to touch it without a teacher，并且它正在被修理。"
+        "explanation_zh": "可以推断：录音让公众能听到乐器的声音，同时避免反复演奏对脆弱原件造成伤害——这正是为了在保存与被听见之间取得平衡。"
+      },
+      {
+        "id": "vocab_irreversible",
+        "question": "In the passage, the phrase \"cannot be undone\" most nearly means",
+        "options": [
+          "easily repeated many times.",
+          "impossible to reverse or repair.",
+          "extremely expensive to clean.",
+          "surprising but harmless."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "“cannot be undone”意为“无法逆转、不可挽回”；文中指乐器一旦受损往往无法修复，所以演奏被视为有风险的行为。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天的句式仿写把被动语态当成“物品的一生”来写：它叫什么、在哪里制造、属于谁多久、被谁损坏，以及问题之后的新规则。",
+    "intro_zh": "今天的句式仿写把被动语态当成“物品的一生”来写：它叫什么、在哪里制造、属于谁多久、被谁损坏，以及问题之后的新规则。请把句子写得更长、更抽象，尽量描述博物馆藏品、传家旧物或珍贵器物等更正式的语境。",
     "patterns": [
       {
         "id": "it_is_called",
         "title": "It is called ...",
         "source": "It is called a clavichord.",
         "focus_zh": "用 It is called 给一个物品命名，适合介绍学生不熟悉的旧物或工具。",
-        "task_zh": "仿写一句：介绍一个旧相机、模型、乐器或收藏品的名字。",
+        "task_zh": "仿写一句：为一件博物馆藏品或珍贵旧物命名，并补充一个说明它身份或特点的从句。",
         "must_include": [
           "It is called"
         ],
-        "min_words": 6,
-        "sample": "It is called a wooden music box.",
+        "min_words": 14,
+        "sample": "It is called a clavichord, an early keyboard instrument far more fragile than any modern piano.",
         "tip_zh": "called 后面直接接名字或类别，不要再加 as。"
       },
       {
@@ -102,12 +96,12 @@
         "title": "was made in ...",
         "source": "It was made in Germany in 1681.",
         "focus_zh": "用 was made in 交代一个物品的产地、年代或制作地点，让它有历史感。",
-        "task_zh": "仿写一句：写一件旧物在哪里或哪一年被制作出来。",
+        "task_zh": "仿写一句：说明一件历史器物在何地、何时被制造，并暗示它惊人的年代或工艺。",
         "must_include": [
           "was made in"
         ],
-        "min_words": 7,
-        "sample": "The old camera was made in Japan in 1975.",
+        "min_words": 16,
+        "sample": "The delicate ivory keyboard was made in a Florentine workshop in 1681, long before the modern piano existed.",
         "tip_zh": "was made in 后面可以接地点，也可以再接年份。"
       },
       {
@@ -115,13 +109,13 @@
         "title": "has belonged to ... for ...",
         "source": "It has belonged to our family for a long time.",
         "focus_zh": "用 has belonged to ... for ... 表示从过去到现在一直属于某人或某个地方。",
-        "task_zh": "仿写一句：写一件旧物已经属于你的家庭、学校或社团很久了。",
+        "task_zh": "仿写一句：说明一件珍贵器物已经长期属于某个机构或家族，并补充它经历过什么。",
         "must_include": [
           "has belonged to",
           "for"
         ],
-        "min_words": 9,
-        "sample": "This record player has belonged to our family for many years.",
+        "min_words": 16,
+        "sample": "This battered violin has belonged to the museum's collection for more than a century, surviving wars and countless moves.",
         "tip_zh": "belong to 后面接拥有者；for 后面接持续的时间。"
       },
       {
@@ -129,12 +123,12 @@
         "title": "was damaged by ...",
         "source": "Recently it was damaged by a visitor.",
         "focus_zh": "用 was damaged by 写“东西受损”这件事，重点放在物品上，而不是先指责某个人。",
-        "task_zh": "仿写一句：写一件旧物最近被某个人、某次动作或某个事故损坏了。",
+        "task_zh": "仿写一句：用被动语态描述一件器物如何被某次动作或事故损坏，并说明后果可能无法挽回。",
         "must_include": [
           "was damaged by"
         ],
-        "min_words": 8,
-        "sample": "The model ship was damaged by a careless visitor.",
+        "min_words": 16,
+        "sample": "The centuries-old harp was damaged by a single careless performance, and the cracked soundboard may never be fully restored.",
         "tip_zh": "by 后面写造成损坏的人或原因；语气可以客观，不必骂人。"
       },
       {
@@ -142,12 +136,12 @@
         "title": "are not allowed to ...",
         "source": "Now we are not allowed to touch it.",
         "focus_zh": "用 are not allowed to 写问题之后的新规则，表达“不是不能欣赏，而是不能随便碰”。",
-        "task_zh": "仿写一句：写一条保护旧物的新规则。",
+        "task_zh": "仿写一句：写一条保护脆弱器物的正式规则，并说明设立这条规则的原因。",
         "must_include": [
           "are not allowed to"
         ],
-        "min_words": 8,
-        "sample": "Now we are not allowed to open the glass case.",
+        "min_words": 16,
+        "sample": "Because the originals are so fragile, ordinary visitors are not allowed to touch the instruments without a trained conservator present.",
         "tip_zh": "are not allowed to 后面接动词原形，适合写清楚边界。"
       }
     ]
