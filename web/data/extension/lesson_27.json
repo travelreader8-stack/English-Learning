@@ -1,102 +1,95 @@
 {
   "lesson_id": 27,
   "reading": {
-    "title": "A Better Place for the Tent",
-    "intro_zh": "这篇短文不复述原文，而是换成现代营地选址故事：先观察低洼地和水痕，再把帐篷移到高处，最后用夜里的大雨验证这个判断。",
-    "word_bank": [
-      "tent",
-      "field",
-      "campsite",
-      "higher ground",
-      "low ground",
-      "put up",
-      "put out",
-      "sleeping bag",
-      "heavily",
-      "stream",
-      "formed",
-      "right under"
-    ],
+    "title": "Why Low Ground Floods First",
+    "intro_zh": "本文承接“雨夜”露营选址的主题，转向真实的科学话题：暴雨之后水为什么总是先涌向低洼地、临时溪流如何形成。内容改写自美国国家强风暴实验室（NOAA NSSL）的科普资料。",
+    "source": {
+      "title": "Severe Weather 101: Flood Basics",
+      "publisher": "NOAA National Severe Storms Laboratory (NSSL)",
+      "url": "https://www.nssl.noaa.gov/education/svrwx101/floods/"
+    },
     "passage": [
-      "Late in the afternoon, our school group reached a quiet campsite beside a field. Some students wanted to put up the tent on the soft low ground near the trees. It looked flat and comfortable. Then Miss Green noticed old water marks on the grass. \"If it rains heavily, water may run this way,\" she said. So we carried the tent and the sleeping bags to higher ground. After supper, we put out the small cooking fire and went to sleep. In the middle of the night, rain beat on the tent. By morning, a narrow stream had formed in the field. It flowed right under the place we had first chosen. Our tent was dry, and we learned that a good campsite begins with careful eyes."
+      "A grassy field may look perfectly flat to a tired camper, yet beneath that calm surface the land is quietly sloping, and water always obeys gravity. A flash flood develops whenever rain falls faster than the ground can soak it up. The surplus water cannot vanish, so it slides downhill and gathers in every hollow, ditch and depression, sometimes carving a temporary stream where minutes earlier there was only dry grass.",
+      "Several factors decide how violently this happens. Rocky or shallow clay soils absorb almost nothing, and once any soil is already saturated, additional rain simply runs off the surface. Paved cities make the problem worse, because roofs, roads and parking lots seal the earth and accelerate the runoff. The terrain matters too: in steep country a creek only six inches deep can swell into a ten-foot torrent in under an hour. Most alarmingly, a storm many miles upstream can send floodwater rushing through a canyon or dry wash where not a single drop has fallen locally.",
+      "This is why experts insist that the safest spot is rarely the most comfortable one. Low-lying ground, underpasses and dry streambeds may feel sheltered, but they are precisely the channels that water seeks out, and a mere six inches of moving water is enough to knock an adult off their feet. Reading the slope of the land before nightfall, rather than trusting an inviting flat patch, is the quiet skill that keeps an outdoor night dry."
     ],
     "questions": [
       {
-        "id": "first_place",
-        "question": "Where did some students first want to put up the tent?",
+        "id": "main_idea",
+        "question": "What is the main point the passage makes about flash floods?",
         "options": [
-          "On the soft low ground near the trees.",
-          "On higher ground beside the teacher's car.",
-          "Inside a small wooden house.",
-          "Right under a bridge."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文说 some students wanted to put up the tent on the soft low ground near the trees。"
-      },
-      {
-        "id": "warning_sign",
-        "question": "What sign made Miss Green think the place might be unsafe in rain?",
-        "options": [
-          "A broken tent pole.",
-          "Old water marks on the grass.",
-          "A loud noise in the trees.",
-          "A wet sleeping bag."
+          "They occur only in deserts and canyons during the summer.",
+          "Water collecting on low ground explains why site choice matters so much.",
+          "They are mainly caused by rivers overflowing their permanent banks.",
+          "They can be stopped if campers dig small drainage ditches."
         ],
         "answer_index": 1,
-        "explanation_zh": "Miss Green 注意到草地上有 old water marks，这说明下雨时水可能会经过那里。"
+        "explanation_zh": "全文围绕“水往低处流、低洼地最先积水”展开，并由此说明为什么选址（高处还是低处）如此重要，这是文章的主旨。"
       },
       {
-        "id": "move_reason",
-        "question": "Why did the group move the tent to higher ground?",
+        "id": "soil_detail",
+        "question": "According to the passage, why does already-saturated soil make flooding worse?",
         "options": [
-          "Because the field was too noisy for sleeping.",
-          "Because they wanted to be closer to the fire.",
-          "Because rainwater might run across the low ground.",
-          "Because they lost their sleeping bags."
+          "It freezes and blocks the river channels.",
+          "It releases stored heat that fuels the storm.",
+          "It can no longer absorb the rain, so the water simply runs off.",
+          "It turns into mud that flows uphill."
         ],
         "answer_index": 2,
-        "explanation_zh": "老师判断大雨时水会从低处流过，所以大家把帐篷搬到 higher ground。"
+        "explanation_zh": "文中说一旦土壤已经饱和，多余的雨水只能在地表流走（additional rain simply runs off the surface），所以洪水更严重。"
       },
       {
-        "id": "rain_result",
-        "question": "What happened after it rained heavily at night?",
+        "id": "process",
+        "question": "How can a flood rush through a canyon where no rain has fallen?",
         "options": [
-          "The cooking fire became bigger.",
-          "A narrow stream formed in the field.",
-          "The group moved back to the low ground.",
-          "The tent blew away."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "第二天早上他们发现 a narrow stream had formed in the field。"
-      },
-      {
-        "id": "lesson",
-        "question": "What practical lesson does the story teach?",
-        "options": [
-          "A dry campsite needs careful observation before rain comes.",
-          "A tent should always be put under trees.",
-          "Rain is not important when camping.",
-          "Students should never sleep in sleeping bags."
+          "A storm many miles upstream sends floodwater down into it.",
+          "Underground springs suddenly burst open in the canyon floor.",
+          "Strong winds blow standing water from a nearby lake.",
+          "The dry ground heats up and produces its own rain."
         ],
         "answer_index": 0,
-        "explanation_zh": "结尾说 a good campsite begins with careful eyes：先观察地形和水痕，才能避免湿帐篷。"
+        "explanation_zh": "文章指出上游数英里之外的暴雨会把洪水冲进峡谷或干涸的河床，即使当地一滴雨都没下。"
+      },
+      {
+        "id": "inference",
+        "question": "What can we infer about a 'comfortable' flat patch a camper might choose?",
+        "options": [
+          "It is always the warmest place to sleep at night.",
+          "It guarantees protection from wind and rain.",
+          "It is impossible to find in mountainous country.",
+          "Its apparent comfort can hide a real risk of collecting water."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "文章说最安全的地点往往不是最舒适的，看起来平整诱人的低地恰恰是水汇聚的通道，可见“舒适”可能掩盖了积水风险。"
+      },
+      {
+        "id": "vocab",
+        "question": "In the passage, the word \"torrent\" most nearly means:",
+        "options": [
+          "a violent, fast-flowing rush of water",
+          "a thin layer of frost on the ground",
+          "a slow, gentle trickle from a tap",
+          "a sudden gust of dry wind"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "torrent 指湍急、汹涌的水流；文中说六英寸深的小溪能在一小时内涨成十英尺深的 torrent，可知是猛烈奔流的水。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个能让故事更清楚的结构：时间开场、动作衔接、原因结果、雨后发现，以及 right under 带来的位置强调。",
+    "intro_zh": "今天仍以露营选址为背景，但把仿写难度提到 B2+：用更抽象、更复杂的句子练习五个结构——时间开场、动作衔接、原因结果、雨后发现，以及 right under 带来的位置强调。",
     "patterns": [
       {
         "id": "late_in_the_afternoon",
         "title": "Late in the afternoon, ...",
         "source": "Late in the afternoon, the boys put up their tent in the middle of a field.",
         "focus_zh": "用时间短语开头，先把故事场景立起来，再写人物做了什么。",
-        "task_zh": "仿写一句：写一个露营或野餐场景，句子必须以 Late in the afternoon 开头。",
+        "task_zh": "仿写一句：以 Late in the afternoon 开头，描写一个户外场景，并加入一个表示判断或观察的从句或细节，让画面更有层次。",
         "must_include": [
           "Late in the afternoon"
         ],
-        "min_words": 9,
-        "sample": "Late in the afternoon, we put up our tent beside the lake.",
+        "min_words": 16,
+        "sample": "Late in the afternoon, an experienced ranger studied the gentle slope of the meadow before deciding exactly where the tents should stand.",
         "tip_zh": "这个开头很适合讲故事：时间一出现，读者马上知道画面从哪里开始。"
       },
       {
@@ -104,12 +97,12 @@
         "title": "As soon as this was done, ...",
         "source": "As soon as this was done, they cooked a meal over an open fire.",
         "focus_zh": "表示一件事刚完成，下一件事马上发生，适合写动作顺序。",
-        "task_zh": "仿写一句：帐篷搭好、行李搬好或地点换好以后，大家马上做了什么。",
+        "task_zh": "仿写一句：用 As soon as this was done 衔接两个动作，但让后半句包含一个原因或目的，体现行动背后的考量。",
         "must_include": [
           "As soon as this was done"
         ],
-        "min_words": 10,
-        "sample": "As soon as this was done, we carried the bags into the tent.",
+        "min_words": 16,
+        "sample": "As soon as this was done, the group moved every backpack onto higher ground so that no sudden downpour could reach their supplies.",
         "tip_zh": "this 指代前一个动作，所以后半句要接一个自然发生的下一步。"
       },
       {
@@ -117,12 +110,12 @@
         "title": "... so ...",
         "source": "The boys felt tired so they put out the fire and crept into their tent.",
         "focus_zh": "so 连接原因和自然结果，不能只是把两个无关动作硬放在一起。",
-        "task_zh": "仿写一句：把天气、疲惫或安全判断和下一步行动连起来。",
+        "task_zh": "仿写一句：用 so 连接原因和结果，原因部分写一个对天气或地形的判断，结果部分写一个有预见性的决定。",
         "must_include": [
           "so"
         ],
-        "min_words": 10,
-        "sample": "The ground looked wet, so we moved the tent to higher ground.",
+        "min_words": 15,
+        "sample": "The clay soil had clearly stopped absorbing the rain, so the cautious campers abandoned the low meadow and climbed toward the ridge.",
         "tip_zh": "so 前面给原因，后面给结果，句子就有了清楚的逻辑。"
       },
       {
@@ -130,13 +123,13 @@
         "title": "found that ... had formed",
         "source": "They found that a stream had formed in the field.",
         "focus_zh": "found that 说明“发现了什么”；had formed 表示这件事在发现之前已经发生。",
-        "task_zh": "仿写一句：写大雨之后，有人发现田野、路边或帐篷旁已经形成了水流。",
+        "task_zh": "仿写一句：用 found that ... had formed 写出有人在某个时刻发现某种水流或痕迹早已悄然形成，背景尽量具体。",
         "must_include": [
           "found that",
           "had formed"
         ],
-        "min_words": 10,
-        "sample": "In the morning, we found that a small stream had formed near the tent.",
+        "min_words": 16,
+        "sample": "When dawn finally broke over the valley, the hikers found that a muddy stream had formed exactly along the path they once planned to follow.",
         "tip_zh": "这个结构很适合写故事揭晓：先发现，再解释问题早已形成。"
       },
       {
@@ -144,12 +137,12 @@
         "title": "right under ...",
         "source": "The stream wound its way across the field and then flowed right under their tent!",
         "focus_zh": "right 在这里表示“正好、直接”，让位置描写更有画面感。",
-        "task_zh": "仿写一句：写水流、影子或问题正好出现在某个东西下面。",
+        "task_zh": "仿写一句：用 right under 强调水流、阴影或危险正好出现在某物正下方，并加入一个让句子更有张力的细节。",
         "must_include": [
           "right under"
         ],
-        "min_words": 8,
-        "sample": "The rainwater ran right under the place we had chosen.",
+        "min_words": 14,
+        "sample": "By midnight the swollen water was racing right under the very ledge where the inexperienced travellers had nearly pitched their tent.",
         "tip_zh": "right under 比 under 更强调“就是那个位置”，适合写最后的惊讶或确认。"
       }
     ]
