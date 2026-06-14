@@ -1,102 +1,95 @@
 {
   "lesson_id": 39,
   "reading": {
-    "title": "Calling About My Own Result",
-    "intro_zh": "这篇短文不复述 John Gilbert 的医院电话反转，而是换到一个现代学校办公室电话：学生礼貌地询问自己的活动申请结果，先说明身份，再用 indirect questions 提问，同时尊重隐私边界。",
-    "word_bank": [
-      "school office",
-      "result",
-      "application",
-      "successful",
-      "refuse",
-      "telephone",
-      "office line",
-      "inquire",
-      "whether",
-      "be allowed to",
-      "private"
-    ],
+    "title": "The Voices Behind the Switchboard",
+    "intro_zh": "这篇短文不复述 John Gilbert 的医院电话反转，而是真实回顾“电话总机（exchange）”时代：人工接线员如何用插线接通每一通电话，以及这一职业的兴衰。改编自权威媒体 History（History.com）的报道。",
+    "source": {
+      "title": "The Rise and Fall of Telephone Operators",
+      "publisher": "History.com (A&E Television Networks)",
+      "url": "https://www.history.com/articles/rise-fall-telephone-switchboard-operators"
+    },
     "passage": [
-      "On Monday afternoon, Nina called the school office because the music club result had not appeared in the app. She wanted to know whether her application had been successful, but she refused to ask about anyone else's private information. When the secretary answered the office line, Nina introduced herself clearly. \"My name is Nina Chen, from Class Two. I am inquiring about my own music club result.\" The secretary said she had to check Nina's student number first, because the information was private. Nina understood and waited. After the check, the secretary told her that her application had been successful and that she would be allowed to join the first meeting on Friday. Nina laughed softly. \"So the mystery was about me, and I was allowed to ask because I was myself.\""
+      "Long before callers could dial a number themselves, every telephone conversation depended on a human intermediary seated at a manual exchange. When the first commercial switchboard opened in New Haven, Connecticut, in 1878, it served only twenty-one subscribers, yet it established a model that would shape communication for decades. To connect two people, an operator listened to the caller, identified the destination, and physically inserted a patch cord into the matching socket, momentarily holding the entire conversation in her hands. Long-distance calls required the local exchange to patch the call through to more distant exchanges, each connected by a further series of cables.",
+      "The earliest operators were boys, but they proved so unruly and inattentive that companies soon replaced them with women, whose calm and courteous manner suited the demanding work. The profession expanded dramatically, from roughly 88,000 operators in 1910 to about 235,000 by 1930, though the conditions were severe: rigid dress codes, constant supervision, and a rule requiring women to resign once they married. During the First World War, more than two hundred American operators, nicknamed the \"Hello Girls,\" served near the front, frequently acting as translators between Allied forces. This indispensable workforce ultimately vanished because of its own technological context: by the 1930s, technology that allowed subscribers to dial without an operator had become widespread, enabling phone companies to slash their workforces, and by 1940 the number of operators had fallen below 200,000."
     ],
     "questions": [
       {
-        "id": "why_call",
-        "question": "Why did Nina call the school office?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "To ask whether her music club application had been successful.",
-          "To find out another student's private club result.",
-          "To complain that the school app was too difficult.",
-          "To ask the secretary to join the music club."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "开头说 Nina called the school office，因为 music club result 还没有出现在 app 里，她想知道自己的申请是否成功。"
-      },
-      {
-        "id": "identity",
-        "question": "How did Nina identify herself on the phone?",
-        "options": [
-          "She pretended to be the secretary.",
-          "She gave her name and class clearly.",
-          "She used another student's number.",
-          "She refused to say who she was."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "Nina 说 My name is Nina Chen, from Class Two，先清楚说明自己是谁。"
-      },
-      {
-        "id": "indirect_question",
-        "question": "Which indirect question idea did Nina need?",
-        "options": [
-          "Whether her application had been successful.",
-          "Why the secretary liked music.",
-          "Where Doctor Millington worked.",
-          "Whether another student had failed."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文中的核心问题是 whether her application had been successful，对应本课的 indirect yes/no question。"
-      },
-      {
-        "id": "privacy_boundary",
-        "question": "What private-information rule did Nina respect?",
-        "options": [
-          "She asked about every club member.",
-          "She refused to give her student number.",
-          "She asked only about her own result and waited for an identity check.",
-          "She told the secretary not to check anything."
+          "How modern smartphones replaced landline telephones worldwide.",
+          "Why long-distance calls remain expensive in many countries today.",
+          "The rise and eventual disappearance of human telephone operators.",
+          "How telephone companies trained boys to behave more politely."
         ],
         "answer_index": 2,
-        "explanation_zh": "Nina 只询问自己的结果，并接受 student number check，因为这类信息是 private。"
+        "explanation_zh": "全文围绕人工电话接线员的兴起、工作方式、规模扩张，以及最终因自动拨号而消失，主旨是接线员这一职业的兴衰。"
       },
       {
-        "id": "not_a_trick",
-        "question": "How is Nina's call different from tricking someone?",
+        "id": "detail_first_exchange",
+        "question": "How many subscribers did the first commercial switchboard in New Haven serve?",
         "options": [
-          "She hides her name until the end.",
-          "She asks about another patient.",
-          "She refuses to answer any questions.",
-          "She identifies herself and asks about her own information."
+          "Only twenty-one subscribers.",
+          "About eighty-eight thousand subscribers.",
+          "More than two hundred subscribers.",
+          "Roughly two hundred thousand subscribers."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "第一段明确说 1878 年纽黑文的第一个商用交换台只服务 twenty-one subscribers（21 个用户）。"
+      },
+      {
+        "id": "cause_decline",
+        "question": "According to the passage, why did the operator workforce ultimately disappear?",
+        "options": [
+          "Because women were no longer willing to accept the strict rules.",
+          "Because long-distance calls became too difficult to relay.",
+          "Because the First World War removed most of the operators.",
+          "Because automatic dialing let subscribers connect calls without an operator."
         ],
         "answer_index": 3,
-        "explanation_zh": "这篇短文保留“想知道结果”的轻松悬念，但做法是现代、礼貌、合规的：说明身份，只问自己的信息。"
+        "explanation_zh": "第二段指出，到 1930 年代，让用户无需接线员即可自行拨号的技术已经普及，电话公司随之大幅裁员，接线员队伍因此最终消失。"
+      },
+      {
+        "id": "inference_boys",
+        "question": "What can be inferred about why companies replaced boy operators with women?",
+        "options": [
+          "Women were willing to work for no wages at all.",
+          "Women were considered better suited to the patient, courteous demands of the job.",
+          "Boys were needed for the more profitable long-distance exchanges.",
+          "Boys refused to learn how to use the patch cords."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中说男孩 unruly and inattentive（粗野、不专心），而女性 calm and courteous manner 适合这份要求耐心的工作，可推断公司认为女性更胜任。"
+      },
+      {
+        "id": "vocab_indispensable",
+        "question": "In the passage, the word \"indispensable\" most nearly means:",
+        "options": [
+          "easily replaced.",
+          "poorly organized.",
+          "absolutely essential.",
+          "highly profitable."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "indispensable 意为“不可或缺的、必不可少的”，文中形容这支接线员队伍极其重要，故选 absolutely essential。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓 Lesson 39 的五个电话询问句式：用 asked...whether...问结果，用 refused to...写拒绝，用 When he was alone,...写时间条件，用 was inquiring about...说明正式来意，再用 would be allowed to...询问许可。",
+    "intro_zh": "今天把 Lesson 39 的五个电话询问句式提升到 B2+：用 asked...whether... 问一个结果是否成立，用 refused to... 写有原则的拒绝，用 When he was alone,... 写独处时刻引出的正式行动，用 was inquiring about... 说明来电的正式来意，再用 would be allowed to... 在间接问句里询问许可。",
     "patterns": [
       {
         "id": "asked_whether_successful",
         "title": "asked ... whether ...",
         "source": "He asked his doctor whether his operation had been successful.",
         "focus_zh": "whether 引出间接 yes/no question，适合礼貌地询问一个结果是否成功或完成。",
-        "task_zh": "仿写一句：写某人询问老师、办公室或工作人员，自己的申请、测试或项目是否成功。",
+        "task_zh": "仿写一句较复杂的句子：在一个正式或紧张的情境里，写某人询问权威方（注册处、评审、机构）自己的申请、评估或项目是否最终成功，并加入时间或心理背景。",
         "must_include": [
           "asked",
           "whether"
         ],
-        "min_words": 10,
-        "sample": "Nina asked the secretary whether her application had been successful.",
+        "min_words": 16,
+        "sample": "Before the results were posted online, the anxious candidate asked the registrar whether her long-awaited application had finally been successful.",
         "tip_zh": "asked 后面可以接人，再用 whether 引出真正的问题；注意 whether 后面用陈述语序。"
       },
       {
@@ -104,12 +97,12 @@
         "title": "refused to ...",
         "source": "The doctor refused to do so.",
         "focus_zh": "refused to 表示明确拒绝做某事，语气比 did not 更坚定。",
-        "task_zh": "仿写一句：写老师、工作人员或学生礼貌但坚定地拒绝泄露私人信息或做不合适的事。",
+        "task_zh": "仿写一句较复杂的句子：写一位专业人士（接线员、职员、医生）出于规则或职业操守，坚决拒绝向外人透露机密或私人信息，并点出拒绝的依据。",
         "must_include": [
           "refused to"
         ],
-        "min_words": 9,
-        "sample": "The teacher refused to share another student's private result.",
+        "min_words": 16,
+        "sample": "Citing strict privacy regulations, the experienced operator firmly refused to disclose another subscriber's confidential number to the persistent caller.",
         "tip_zh": "refused to 后面接动词原形；如果是隐私场景，可以补出 why 或具体边界。"
       },
       {
@@ -117,13 +110,13 @@
         "title": "When he was alone, ...",
         "source": "When he was alone, he telephoned the hospital exchange.",
         "focus_zh": "When 引导时间从句，先交代某个时刻或条件，再写主动作。",
-        "task_zh": "仿写一句：用本结构写一个人独自一人时，打电话、写邮件或认真询问信息。",
+        "task_zh": "仿写一句较复杂的句子：用 When he was alone 开头，写某人在独处的关键时刻才进行一项需要隐秘或专注的行动（核实、求证、正式询问），并交代目的。",
         "must_include": [
           "When",
           "was alone"
         ],
-        "min_words": 10,
-        "sample": "When he was alone, he called the school office politely.",
+        "min_words": 16,
+        "sample": "When he was alone in the quiet office at last, he carefully telephoned the regional exchange to verify the disputed account before anyone could overhear.",
         "tip_zh": "逗号前是时间背景，逗号后是主动作；不要把主句动词漏掉。"
       },
       {
@@ -131,12 +124,12 @@
         "title": "was inquiring about ...",
         "source": "He said he was inquiring about a certain patient.",
         "focus_zh": "was inquiring about 是正式电话或办公场景里说明来意的表达，比 asking about 更正式。",
-        "task_zh": "仿写一句：写来电者说明自己正在询问自己的结果、预约、申请或活动状态。",
+        "task_zh": "仿写一句较复杂的句子：写来电者或来访者用正式语气说明自己正在询问与自己相关的状态、进度或资格，体现现代隐私场景下只问自己信息的分寸。",
         "must_include": [
           "was inquiring about"
         ],
-        "min_words": 9,
-        "sample": "She said she was inquiring about her own club result.",
+        "min_words": 16,
+        "sample": "Speaking in a measured, professional tone, the visitor explained that he was inquiring about the current status of his own pending membership request.",
         "tip_zh": "about 后面接要询问的对象；现代隐私场景里最好加 own，说明只问自己的信息。"
       },
       {
@@ -144,12 +137,12 @@
         "title": "would be allowed to ...",
         "source": "He asked when Mr. Gilbert would be allowed to go home.",
         "focus_zh": "would be allowed to 用在间接问题里，表示“将被允许做某事”。",
-        "task_zh": "仿写一句：写某人询问自己什么时候可以被允许参加活动、回家、进入教室或领取结果。",
+        "task_zh": "仿写一句较复杂的句子：在间接问句里写某人询问自己确切在什么时候、在什么条件下才会被允许参加、进入或获得某项资格。",
         "must_include": [
           "would be allowed to"
         ],
-        "min_words": 11,
-        "sample": "Nina asked when she would be allowed to join the first meeting.",
+        "min_words": 16,
+        "sample": "The newly admitted student politely asked the coordinator when exactly she would be allowed to attend the orientation meeting reserved for first-year members.",
         "tip_zh": "when 后面用陈述语序：she would be allowed to，不要写成 would she be allowed to。"
       }
     ]
