@@ -1,101 +1,96 @@
 {
   "lesson_id": 2,
   "reading": {
-    "title": "A Very Late Morning",
-    "intro_zh": "这篇短文不复述 Aunt Lucy 的电话，而是换到一个现代周末场景：学生因为窗帘紧闭、天气阴暗、手机放在客厅，误以为还是清晨，直到外卖午餐到了才发现已经一点钟。重点回收 until / outside / rang / arrived / repeat / lunchtime / looked out / dark / What a day / one o'clock。",
-    "word_bank": [
-      "until",
-      "outside",
-      "rang",
-      "arrived",
-      "repeat",
-      "lunchtime",
-      "looked out",
-      "dark",
-      "What a day",
-      "one o'clock"
-    ],
+    "title": "The Clock Inside Us",
+    "intro_zh": "本课主题是“误判时间”的小幽默。这篇拓展阅读转向其背后的科学：人体内部的生物钟（昼夜节律）。文章改编自美国国立卫生研究院下属 NIGMS 的权威科普资料，介绍我们为何会在没有外界提示时弄错时间。",
+    "source": {
+      "title": "Circadian Rhythms",
+      "publisher": "National Institute of General Medical Sciences (NIH)",
+      "url": "https://www.nigms.nih.gov/education/fact-sheets/Pages/circadian-rhythms"
+    },
     "passage": [
-      "It was Sunday, and Leo never got up early on Sundays. He stayed in bed until the room was quiet and dark. His phone was charging in the living room, so no alarm rang beside him. When he finally opened his eyes, he looked out through the closed curtains. It was dark outside, and rain was tapping on the window. \"What a day!\" he thought. \"It must still be morning.\" He went to the kitchen and began to make breakfast. Just then, the doorbell rang. His sister had arrived with two boxes of noodles. \"Are you really making breakfast?\" she asked. \"I'm making breakfast,\" Leo repeated. She laughed and pointed to the clock. \"It's one o'clock. This is lunchtime!\""
+      "When someone wakes in a curtained room and confidently mistakes one o'clock for dawn, the error is not merely careless; it exposes how heavily we depend on an internal timekeeper. Scientists call this timekeeper the circadian clock, and it governs a roughly twenty-four-hour cycle of physical, mental, and behavioural changes that touches nearly every tissue and organ in the body. The clock does not run in isolation. It is continually calibrated against environmental cues, of which light and darkness are by far the most influential, although meals, exercise, stress, and temperature also nudge it.",
+      "At the centre of this system sits a tiny cluster of nerve cells in the brain known as the suprachiasmatic nucleus, which functions as the body's master clock. Responding to signals about ambient light, it instructs the brain to release more of the hormone melatonin as evening falls, and that surge is what makes us drowsy. The rhythm is also driven at the molecular level: certain proteins are manufactured and then broken down in a recurring feedback loop, a mechanism so fundamental that it earned a Nobel Prize. Because these clock genes are remarkably similar across species, researchers can probe them in fruit flies, zebrafish, and mice.",
+      "The consequences of a misaligned clock extend well beyond a comical breakfast at noon. Travelling across time zones throws the rhythm out of step, producing the grogginess, clumsiness, and impaired learning familiar as jet lag. More worryingly, chronic disruption from shift work or persistent sleep loss has been linked to elevated risks of obesity, diabetes, mood disorders, and cardiovascular disease."
     ],
     "questions": [
       {
-        "id": "dark_room",
-        "question": "Why did Leo think it was still morning?",
+        "id": "main_idea",
+        "question": "What is the main idea of the passage?",
         "options": [
-          "Because his room was quiet and dark, and it was raining outside.",
-          "Because his sister told him it was morning.",
-          "Because he had already eaten lunch.",
-          "Because the sun was shining through the curtains."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文说房间 quiet and dark，外面又在下雨，所以 Leo 误以为还是早晨。"
-      },
-      {
-        "id": "real_time_signal",
-        "question": "What finally showed Leo the real time?",
-        "options": [
-          "His school bell rang.",
-          "His sister arrived with noodles and pointed to the clock.",
-          "His phone alarm rang beside his bed.",
-          "He looked at a train ticket."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "姐姐带着面条到了，并指着钟说 It's one o'clock，这才揭示真实时间。"
-      },
-      {
-        "id": "wrong_time_activity",
-        "question": "What was Leo doing at the wrong time?",
-        "options": [
-          "He was going to school on Sunday.",
-          "He was buying noodles for breakfast.",
-          "He was making breakfast at lunchtime.",
-          "He was waiting for a train."
+          "Drinking coffee in the evening is the best way to stay alert.",
+          "Jet lag is the only serious problem caused by modern travel.",
+          "An internal biological clock regulates the body's daily rhythms and influences health.",
+          "People who sleep late are usually lazier than those who wake early."
         ],
         "answer_index": 2,
-        "explanation_zh": "他以为是早晨，正在 make breakfast，但真实时间已经是 lunchtime。"
+        "explanation_zh": "全文围绕“昼夜节律”这一体内生物钟展开，说明它如何调控人体约 24 小时的节律并影响健康，故选第三项。"
       },
       {
-        "id": "sister_reaction",
-        "question": "How did Leo's sister react?",
+        "id": "master_clock_detail",
+        "question": "According to the passage, where is the body's master clock located?",
         "options": [
-          "She became angry and left at once.",
-          "She repeated his words and went back to bed.",
-          "She closed the curtains again.",
-          "She laughed and pointed to the clock."
-        ],
-        "answer_index": 3,
-        "explanation_zh": "姐姐的反应是 laughed and pointed to the clock，语气是轻松好笑的。"
-      },
-      {
-        "id": "breakfast_lunch_joke",
-        "question": "What is the joke in the story?",
-        "options": [
-          "Leo uses breakfast words, but the day has already reached lunchtime.",
-          "Leo does not like eating noodles.",
-          "Leo thinks Sunday is a school day.",
-          "Leo's phone is broken forever."
+          "In a small cluster of nerve cells in the brain called the suprachiasmatic nucleus.",
+          "In the muscles that control the eyes.",
+          "In the stomach, where food is digested.",
+          "In a single clock gene found only in humans."
         ],
         "answer_index": 0,
-        "explanation_zh": "笑点在于 Leo 坚持说 breakfast，可实际已经 one o'clock，是午饭时间。"
+        "explanation_zh": "文中明确指出主时钟是大脑中一小簇神经细胞，即视交叉上核（suprachiasmatic nucleus），故选第一项。"
+      },
+      {
+        "id": "melatonin_process",
+        "question": "Why do we tend to feel drowsy as evening falls?",
+        "options": [
+          "Because clock genes stop working completely at night.",
+          "Because the body's temperature rises sharply after sunset.",
+          "Because melatonin production is blocked by darkness.",
+          "Because the master clock signals the brain to release more melatonin."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "文中说傍晚时主时钟指示大脑分泌更多褪黑激素，正是这种激增让人困倦，故选第四项。"
+      },
+      {
+        "id": "inference",
+        "question": "What can be inferred about why a person in a dark, curtained room might misjudge the time?",
+        "options": [
+          "The brain becomes physically unable to count hours after sleeping.",
+          "Without the light cue the clock relies on, the body loses an important way to stay aligned with the real time.",
+          "Melatonin disappears entirely when the curtains are closed.",
+          "The suprachiasmatic nucleus shuts down whenever it is dark."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文章强调光是校准生物钟最重要的线索；房间黑暗、缺少光信号，身体就失去了与真实时间对齐的重要依据，故可推断选第二项。"
+      },
+      {
+        "id": "vocab_calibrated",
+        "question": "In the passage, \"calibrated against environmental cues\" most nearly means the clock is",
+        "options": [
+          "adjusted and kept accurate by signals from the surroundings.",
+          "permanently fixed regardless of the surroundings.",
+          "damaged by exposure to the surroundings.",
+          "hidden away from the surroundings."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "calibrate 意为“校准、调校”；文中指生物钟不断依据环境线索（如光暗）进行调整以保持准确，故选第一项。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天的句式仿写抓住 Lesson 2 的四个关键结构：星期几的固定习惯、until 表示一直到某个时间、Just then 推出突然打断、以及 Do you always...? 表达惊讶的追问。",
+    "intro_zh": "今天的句式仿写仍锚定 Lesson 2 的四个关键结构：星期几的固定习惯、until 表示一直持续到某个时间、Just then 推出突然的打断、以及 Do you always...? 表达惊讶的追问；但把例句和任务情境提升到更抽象、更书面的 B2+ 水平。",
     "patterns": [
       {
         "id": "never_on_days",
         "title": "I never ... on ...",
         "source": "I never get up early on Sundays.",
         "focus_zh": "用 I never ... on ... 写某人在某一天通常不做的事，强调固定习惯。",
-        "task_zh": "仿写一句：写你在某个星期几或某类日子里从不做的一件事。",
+        "task_zh": "仿写一句：写你在某类日子里坚持从不做的一件事，并说明你为什么把那一天留给别的安排。",
         "must_include": [
           "I never",
           "on"
         ],
-        "min_words": 8,
-        "sample": "I never check school messages on Sunday mornings.",
+        "min_words": 16,
+        "sample": "I never check work emails or open my laptop on the rare Sundays when I manage to switch everything off.",
         "tip_zh": "never 后面直接接动词原形；on 后面接具体日子，比如 on Sundays 或 on rainy days。"
       },
       {
@@ -103,13 +98,13 @@
         "title": "I sometimes stay ... until ...",
         "source": "I sometimes stay in bed until lunchtime.",
         "focus_zh": "用 sometimes 写偶尔发生的习惯，用 until 写这个状态一直持续到什么时候。",
-        "task_zh": "仿写一句：写你有时会一直待在某个地方，直到一个具体时间或事件发生。",
+        "task_zh": "仿写一句：写你有时会长时间专注于某件需要毅力的事，一直持续到某个具体时刻或某件小事发生为止。",
         "must_include": [
           "sometimes",
           "until"
         ],
-        "min_words": 9,
-        "sample": "I sometimes stay in the library until the lights go out.",
+        "min_words": 16,
+        "sample": "I sometimes stay buried in a difficult research paper until the library lights flicker off and the security guard finally appears.",
         "tip_zh": "until 后面可以接时间，也可以接一个小事件；前半句要有能持续的动作或状态。"
       },
       {
@@ -117,13 +112,13 @@
         "title": "Just then, ... rang",
         "source": "Just then, the telephone rang.",
         "focus_zh": "Just then 放在故事转折处，后面用 rang 写突然响起的电话、门铃或闹钟。",
-        "task_zh": "仿写一句：写一个人正在做某事，突然电话、门铃或闹钟响了。",
+        "task_zh": "仿写一句：写一个人正全神贯注、内心紧张地做某事，突然电话、门铃或闹钟响起，打断了整个局面。",
         "must_include": [
           "Just then",
           "rang"
         ],
-        "min_words": 8,
-        "sample": "Just then, the doorbell rang outside our flat.",
+        "min_words": 16,
+        "sample": "I was rehearsing my final excuse for being late when, just then, the doorbell rang and ruined everything.",
         "tip_zh": "Just then 后面加逗号；rang 是 ring 的过去式，适合叙述过去的突然事件。"
       },
       {
@@ -131,13 +126,13 @@
         "title": "Do you always ... so ...?",
         "source": "Do you always get up so late?",
         "focus_zh": "用 Do you always ... so ...? 写对别人习惯的惊讶追问，so 后面放形容词或副词。",
-        "task_zh": "仿写一句：写你惊讶地问别人是不是总是这么早、这么晚、这么快或这么慢。",
+        "task_zh": "仿写一句：用略带惊讶的口吻追问别人是不是总是把某类事情处理得这么快、这么从容或这么彻底。",
         "must_include": [
           "Do you always",
           "so"
         ],
-        "min_words": 7,
-        "sample": "Do you always finish your lunch so quickly?",
+        "min_words": 14,
+        "sample": "Do you always make important decisions so quickly, or do some choices keep you awake at night?",
         "tip_zh": "这个句式带一点惊讶，但不要太尖刻；so 后面接 late, early, quickly, slowly 等词。"
       }
     ]
