@@ -1,100 +1,95 @@
 {
   "lesson_id": 45,
   "reading": {
-    "title": "The Club Envelope",
-    "intro_zh": "这篇短文把“良心分期”搬到了校园：象棋社装着活动经费的信封不见了，钱被人匿名地、一点一点放回来，还附上越来越“诚实”的小纸条。它和课文里的村庄、屠夫、邮局完全不同，但道德主线一样：拖着不还、只还一部分、最后才问心无愧。",
-    "word_bank": [
-      "envelope",
-      "club money",
-      "must have been",
-      "returned",
-      "wrapped up",
-      "contained",
-      "note",
-      "in time",
-      "honest",
-      "clear conscience"
-    ],
+    "title": "The Science of Honesty",
+    "intro_zh": "课文讲的是良心与归还失物；这篇拓展阅读改写自一项发表在《科学》(Science) 杂志、由密歇根大学等机构开展的全球“丢钱包”实验，用真实数据揭示人为什么会把别人的钱还回来。",
+    "source": {
+      "title": "Moral concerns override desire to profit from finding a lost wallet (Cohn et al., Science, 2019)",
+      "publisher": "ScienceDaily / University of Michigan",
+      "url": "https://www.sciencedaily.com/releases/2019/06/190620153447.htm"
+    },
     "passage": [
-      "After the school fair, the chess club could not find its envelope of club money. The club had saved it for a weekend trip, so a large sum of money had been lost. Because only its own members used the club room, the teacher was sure the envelope must have been found by a student. For two weeks, though, it was not returned. Then, one morning, part of the money appeared on the club desk. It had been wrapped up in paper and contained a short note: \"I am only half a thief.\" A week later, more money came back with another note: \"Almost honest now.\" In time, every coin was returned, and the last note said, \"Now I have a clear conscience.\" But the teacher reminded the club that honest people return everything at once, not bit by bit."
+      "Would you return a stranger's lost wallet, especially if it were stuffed with cash? Economists once assumed that the more money a wallet contained, the greater the temptation to keep it. A landmark experiment published in the journal Science overturned that intuition. Researchers deliberately handed in 17,303 \"lost\" wallets to banks, museums, post offices and police stations across 355 cities in 40 countries, then quietly recorded whether each one was reported to its supposed owner.",
+      "The results were strikingly counterintuitive. Empty wallets were returned only about 40 per cent of the time, yet wallets holding a modest sum were reported in 51 per cent of cases, and those bulging with roughly ninety dollars came back 72 per cent of the time. In thirty-eight of the forty countries surveyed, the presence of more cash actually raised, rather than lowered, the likelihood of an honest return. Rates varied widely between nations, with Switzerland, Norway and the Netherlands among the most scrupulous.",
+      "Why would temptation produce honesty? The investigators concluded that the decisive factor was psychological rather than financial. Pocketing a wallet thick with money forces people to confront an uncomfortable self-image: that of a thief. Because most of us are reluctant to revise our view of ourselves as decent, the internal cost of dishonesty climbs as the stolen amount rises. In other words, conscience, not the fear of punishment, did the heavy lifting. Honesty, the authors argue, is sustained less by external surveillance than by the quiet desire to remain, in our own eyes, a trustworthy person."
     ],
     "questions": [
       {
-        "id": "what_lost",
-        "question": "What had the chess club lost, and why did it matter?",
+        "id": "main_idea",
+        "question": "What is the main point of the passage?",
         "options": [
-          "A set of chess boards borrowed from the school library.",
-          "A list with the names of all the club members.",
-          "Its envelope of club money, which had been saved for a weekend trip.",
-          "A small prize the club had won at the school fair."
+          "Wallets are most often lost in banks, museums and police stations.",
+          "Honesty is mainly enforced by the fear of being caught and punished.",
+          "A global experiment found that people returned wallets containing more money more often, driven by conscience.",
+          "Switzerland and Norway have the strictest laws against keeping lost property."
         ],
         "answer_index": 2,
-        "explanation_zh": "开头说 the chess club could not find its envelope of club money，而这笔钱是 saved...for a weekend trip，所以丢的是攒着去旅行的活动经费，影响很大。"
+        "explanation_zh": "全文主线是：一项全球“丢钱包”实验发现，钱越多反而越可能被归还，原因是良心而非外部惩罚。选项C概括了这一核心。"
       },
       {
-        "id": "why_a_student",
-        "question": "Why was the teacher sure the envelope had been found by a student?",
+        "id": "detail_scale",
+        "question": "How large was the experiment described in the passage?",
         "options": [
-          "Because only the club's own members used the club room.",
-          "Because a student had already said sorry to the teacher.",
-          "Because someone had seen the envelope fall into the river.",
-          "Because the school fair was held far outside the town."
+          "17,303 wallets were handed in across 355 cities in 40 countries.",
+          "Exactly 40 wallets were tested in a single Swiss city.",
+          "About ninety wallets were left in banks and museums worldwide.",
+          "355 wallets were mailed to police stations in 17 countries."
         ],
         "answer_index": 0,
-        "explanation_zh": "短文说 Because only its own members used the club room，老师据此推断信封一定是被某个学生捡到的（must have been found by a student）。"
+        "explanation_zh": "第一段明确写道：研究者上交了 17,303 个“丢失”的钱包，分布在 40 个国家的 355 座城市，所以选项A正确。"
       },
       {
-        "id": "returned_in_stages",
-        "question": "How did the money come back?",
+        "id": "cause_effect",
+        "question": "According to the researchers, why did wallets with more money come back more often?",
         "options": [
-          "All at once, on the day after the fair.",
-          "It was mailed back inside a new envelope from a bank.",
-          "The teacher found it all under the club desk by accident.",
-          "A little at a time, over several weeks, with notes."
+          "Because larger wallets were easier for staff to notice and store.",
+          "Because the law punishes the theft of large sums far more severely.",
+          "Because people hoped to receive a bigger reward for returning them.",
+          "Because keeping a great deal of money would force people to see themselves as thieves."
         ],
         "answer_index": 3,
-        "explanation_zh": "钱不是一次还清：先是 part of the money 出现，A week later more money came back，最后 In time, every coin was returned，分几次、还带着 note，是分阶段归还。"
+        "explanation_zh": "第三段解释：拿走装满钱的钱包会迫使人面对“自己是小偷”这一自我形象，金额越大，不诚实的内心代价越高，因此更可能归还。选项D对应。"
       },
       {
-        "id": "what_notes_showed",
-        "question": "What did the notes show about the person who returned the money?",
+        "id": "inference",
+        "question": "What can we infer about human honesty from the study's conclusion?",
         "options": [
-          "That the person blamed another student for taking it.",
-          "That the person slowly admitted being less of a thief and more honest.",
-          "That the person wanted a reward for giving it back.",
-          "That the person had never really taken the money at all."
+          "People are honest only when cameras or guards are watching them.",
+          "For many people, the wish to keep a good self-image matters more than the money itself.",
+          "Honesty disappears completely once the sum involved becomes very large.",
+          "Financial reward is the single strongest reason people return lost property."
         ],
         "answer_index": 1,
-        "explanation_zh": "三张 note 从 \"I am only half a thief\" 到 \"Almost honest now\"，再到 \"Now I have a clear conscience\"，显示这个人一点点承认自己不再那么像小偷、越来越诚实。"
+        "explanation_zh": "作者总结诚实更多源于“想在自己眼中保持可信赖形象”的内心愿望，而非外部监督，可推断对许多人而言良好的自我形象比金钱更重要，故选B。"
       },
       {
-        "id": "ethical_lesson",
-        "question": "What did the teacher want the club to learn?",
+        "id": "vocab_in_context",
+        "question": "In the passage, the word \"scrupulous\" most nearly means",
         "options": [
-          "That winning the fair matters more than the money.",
-          "That it is fine to keep money if you feel sorry later.",
-          "That honest people return everything at once, not bit by bit.",
-          "That the club should stop keeping any money at all."
+          "wealthy and generous with strangers.",
+          "suspicious of other people's motives.",
+          "careful to behave honestly and do what is right.",
+          "indifferent to whether money is returned."
         ],
         "answer_index": 2,
-        "explanation_zh": "结尾老师提醒大家 honest people return everything at once, not bit by bit，意思是诚实就要一次、完整地归还，而不是像分期那样一点点还。"
+        "explanation_zh": "“scrupulous”指做事一丝不苟、严守道德、诚实正直。文中说瑞士、挪威、荷兰是“among the most scrupulous”，即归还率最高、最讲诚信，故选C。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 45 的“匿名归还”句式：用 had been lost 写之前已经丢了，用 while taking 写丢东西时正在做的事，用 must have been found 对过去做强推测，用 had been wrapped up...and contained... 描写被送回的包裹，最后用 In time...was paid back 写一笔钱终于被一点点还清。",
+    "intro_zh": "今天把五个 Lesson 45 的“匿名归还”句式提升到 B2+：用 had been lost 写之前已经丢失，用 while taking 交代背景动作，用 must have been found 对过去做强推测，用 had been wrapped up...and contained... 描写被送回的物件，最后用 In time...was paid back 写一笔钱终于被还清。试着把它们用到更抽象、更正式的语境里。",
     "patterns": [
       {
         "id": "had_been_lost",
         "title": "a large sum of money had been lost",
         "source": "A large sum of money had been lost.",
         "focus_zh": "had been lost 是被动 + 过去完成，强调“在那之前钱已经丢了”，重点在丢失这件事，而不是谁弄丢的。",
-        "task_zh": "仿写一句：写一笔钱、一件东西或一份文件在某件事发生时已经丢了，用 had been lost 突出丢失的结果。",
+        "task_zh": "仿写一句：在一次审计、核对或事故被发现之前，一笔款项、一批数据或一份重要档案“早已不知去向”，用 had been lost 突出丢失这一既成结果。",
         "must_include": [
           "had been lost"
         ],
-        "min_words": 10,
-        "sample": "By the end of the trip, a large sum of money had been lost.",
+        "min_words": 16,
+        "sample": "By the time the auditors finished their review, a startling sum of donated money had been lost without any clear record of where it went.",
         "tip_zh": "had been + 过去分词 是被动；它发生在另一个过去时间点之前，所以用 had。"
       },
       {
@@ -102,12 +97,12 @@
         "title": "while taking ...",
         "source": "Sam Benton had lost his wallet while taking his savings to the post office.",
         "focus_zh": "while taking... 表示“正在做某事的时候”，用来交代事情发生时的背景动作。",
-        "task_zh": "仿写一句：写某人在做某件事的过程中（while taking...）丢了、弄坏了或忘了某样东西。",
+        "task_zh": "仿写一句：某人在执行一项有责任的任务（while taking...，比如运送、保管或交接某物）的过程中，意外地弄丢、损坏或泄露了重要东西。",
         "must_include": [
           "while taking"
         ],
-        "min_words": 10,
-        "sample": "She lost her phone while taking the heavy box to the office.",
+        "min_words": 15,
+        "sample": "The young cashier accidentally dropped an envelope of takings while taking the day's earnings down to the night safe.",
         "tip_zh": "while taking 后面接正在进行的背景动作，主句再写真正发生的事。"
       },
       {
@@ -115,12 +110,12 @@
         "title": "must have been found by ...",
         "source": "The wallet must have been found by one of the villagers.",
         "focus_zh": "must have been found 是对过去的强推测：说话人没看见，但很确定某样东西一定被某人找到了。",
-        "task_zh": "仿写一句：写你没亲眼看见、但很肯定某样东西过去一定被某个人找到或捡到了。",
+        "task_zh": "仿写一句：面对一件你没有亲眼目睹的离奇消失或出现，根据线索做出强烈推断——某样东西过去一定已经被某个人发现或取走。",
         "must_include": [
           "must have been found"
         ],
-        "min_words": 10,
-        "sample": "The keys are gone from the desk, so they must have been found by someone.",
+        "min_words": 16,
+        "sample": "Since the documents had vanished overnight, the manager concluded they must have been found and quietly removed by an insider.",
         "tip_zh": "must have been + 过去分词 = 对过去的强烈推测，比 maybe 更肯定。"
       },
       {
@@ -128,13 +123,13 @@
         "title": "It had been wrapped up ... and contained ...",
         "source": "It had been wrapped up in newspaper and it contained half the money.",
         "focus_zh": "用 had been wrapped up 写它被包起来，用 contained 写里面装着什么，一起描述一件被送回来的东西。",
-        "task_zh": "仿写一句：描写一个被送回或被发现的包裹、盒子或信封——它被什么包着，里面装着什么。",
+        "task_zh": "仿写一句：描写一个被匿名送回或意外发现的包裹、信封或盒子——它被什么样的东西包裹着，里面又完整地装着什么。",
         "must_include": [
           "had been wrapped up",
           "contained"
         ],
-        "min_words": 12,
-        "sample": "The parcel had been wrapped up in old paper and contained half the club money.",
+        "min_words": 18,
+        "sample": "The anonymous package left at reception had been wrapped up in plain brown paper and contained the entire missing fund, down to the last coin.",
         "tip_zh": "had been wrapped up 说“被包好了”，contained 说“里面有”，两个动词分工不同。"
       },
       {
@@ -142,13 +137,13 @@
         "title": "In time, ... was paid back",
         "source": "In time, all Sam's money was paid back in this way.",
         "focus_zh": "In time 表示“经过一段时间，终于”，was paid back 是被动，一起写出一笔钱最终被还清。",
-        "task_zh": "仿写一句：写一笔钱、一份债或一件东西经过一段时间后，终于被一点点还清或归还。",
+        "task_zh": "仿写一句：写一笔被挪用、拖欠或丢失的款项，经过一段时间后终于被全部还清，并暗示金钱之外仍有难以弥补的代价。",
         "must_include": [
           "In time",
           "was paid back"
         ],
-        "min_words": 12,
-        "sample": "In time, every coin of the club money was paid back to us.",
+        "min_words": 17,
+        "sample": "In time, every penny of the misappropriated grant was paid back, though the trust it had broken proved far harder to restore.",
         "tip_zh": "In time 不是“准时”，而是“最终、过了一段时间以后”；was paid back 强调钱被还回来的结果。"
       }
     ]
