@@ -1,99 +1,96 @@
 {
   "lesson_id": 24,
   "reading": {
-    "title": "The Pen in the Lost-and-Found",
-    "intro_zh": "这篇短文不复述原文，而是换到一个校园失物的故事：丢的东西看起来糟糕，结果没那么坏，而且有人很诚实——回收 upset / sympathetic / complain / envelope / contained / honesty / It could be worse。",
-    "word_bank": [
-      "lost-and-found",
-      "upset",
-      "sympathetic",
-      "complain",
-      "envelope",
-      "contained",
-      "honesty",
-      "It could be worse"
-    ],
+    "title": "Why People Return Wallets With More Money",
+    "intro_zh": "本文不复述课文，而是介绍一项关于“拾金不昧”的真实研究：把钱包遗落在全球各地，看人们会不会归还——改编自《科学》(Science) 期刊 2019 年的研究论文。",
+    "source": {
+      "title": "Civic honesty around the globe",
+      "publisher": "Science (American Association for the Advancement of Science)",
+      "url": "https://www.science.org/doi/10.1126/science.aau8712"
+    },
     "passage": [
-      "On Friday, Leo could not find his pencil case after the school trip. It was only a cheap case, but it contained his grandmother's old fountain pen. He felt very upset and began to complain that someone must have taken it. The teacher was sympathetic, but she could do nothing until Monday. All weekend Leo imagined the worst. On Monday, a younger student came to the lost-and-found desk with a small envelope. Inside was the pen, safe and clean. \"I saw it under a seat on the bus,\" she said. Leo smiled. \"It could be worse,\" he told his teacher. \"There is still some honesty in this world.\""
+      "When you find a stranger's lost wallet, do you track down the owner or quietly pocket the cash? Standard economic theory predicts that the more money a wallet contains, the greater the temptation to keep it. A landmark 2019 study published in the journal Science set out to test that assumption on an unprecedented scale. Researchers deliberately handed in more than 17,000 \"lost\" wallets to banks, hotels, museums, and police stations across 355 cities in 40 countries, then waited to see how many recipients would email the owner to return them.",
+      "The results overturned conventional wisdom. Empty wallets were reported only about 40 percent of the time, whereas those containing roughly thirteen dollars were returned in 51 percent of cases. When the experimenters raised the sum to nearly a hundred dollars in selected countries, honesty climbed higher still, reaching seventy-two percent. Remarkably, in 98 percent of the wallets that were handed back, the money remained untouched. Neither ordinary citizens nor professional economists had anticipated this counterintuitive pattern.",
+      "What explains such widespread integrity? The authors argue that two psychological forces intensify as the stakes rise: a genuine concern for the rightful owner's welfare, and a powerful reluctance to regard oneself as a thief. Keeping a substantial sum forces people to confront an unflattering self-image, and for most that discomfort outweighs the financial gain. The findings suggest that everyday honesty is far more resilient than cynics assume."
     ],
     "questions": [
       {
-        "id": "lost_item",
-        "question": "What did Leo lose after the school trip?",
+        "id": "main_idea",
+        "question": "What is the main point of the passage?",
         "options": [
-          "His school bag.",
-          "His pencil case.",
-          "His bus ticket.",
-          "His teacher's envelope."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "第一句说明 Leo could not find his pencil case after the school trip。"
-      },
-      {
-        "id": "important_pen",
-        "question": "Why did losing the pencil case matter so much?",
-        "options": [
-          "Because it contained his grandmother's old fountain pen.",
-          "Because it contained all the class money.",
-          "Because it was a very expensive case.",
-          "Because it belonged to a younger student."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文说铅笔盒本身不贵，但里面有祖母的旧钢笔。"
-      },
-      {
-        "id": "teacher_response",
-        "question": "What could the teacher do at first?",
-        "options": [
-          "She found the pen under the seat at once.",
-          "She asked every student to stay after school.",
-          "She bought Leo a new fountain pen.",
-          "She was sympathetic but could do nothing until Monday."
-        ],
-        "answer_index": 3,
-        "explanation_zh": "短文写道：The teacher was sympathetic, but she could do nothing until Monday。"
-      },
-      {
-        "id": "returner",
-        "question": "Who returned the pen, and where?",
-        "options": [
-          "A teacher returned it in the classroom.",
-          "A bus driver returned it at the station.",
-          "A younger student returned it at the lost-and-found desk.",
-          "Leo's grandmother returned it at home."
+          "Economists are usually right about how people behave with money.",
+          "Wallets are most often lost in banks and hotels.",
+          "People tend to return lost wallets more often when they hold more money.",
+          "Honesty is declining rapidly in most countries of the world."
         ],
         "answer_index": 2,
-        "explanation_zh": "周一，一个 younger student 把装着钢笔的小信封带到 lost-and-found desk。"
+        "explanation_zh": "全文的核心发现是：钱包里钱越多，人们反而越倾向归还，这推翻了传统经济学的预测。"
       },
       {
-        "id": "theme",
-        "question": "What does the ending show?",
+        "id": "detail_scale",
+        "question": "How large was the study described in the passage?",
         "options": [
-          "School trips always make students lose things.",
-          "The situation was not as bad as feared, and someone was honest.",
-          "Teachers should never wait until Monday.",
-          "Cheap pencil cases are not worth keeping."
+          "More than 17,000 wallets across 355 cities in 40 countries.",
+          "About 1,000 wallets in a single large city.",
+          "Exactly 40 wallets, one for each country studied.",
+          "Around 355 wallets distributed worldwide."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "文中明确写道：研究人员投放了超过 17,000 个钱包，覆盖 40 个国家的 355 座城市。"
+      },
+      {
+        "id": "cause_effect",
+        "question": "According to the study, what happened as the amount of money in the wallets increased?",
+        "options": [
+          "Fewer wallets were returned because temptation grew.",
+          "The recipients usually kept the cash but returned the empty wallet.",
+          "The results stayed exactly the same regardless of the sum.",
+          "The reporting rate rose, reaching about seventy-two percent with the largest sum."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "随着金额增加，归还率不降反升：空钱包约 40%，约十三美元时 51%，将近一百美元时达到约 72%。"
+      },
+      {
+        "id": "inference",
+        "question": "What can be inferred about how most people view themselves?",
+        "options": [
+          "Most people value avoiding the self-image of a thief more than the money they could gain.",
+          "Most people care only about the financial reward and ignore the owner.",
+          "Most people believe economists understand human behavior perfectly.",
+          "Most people return wallets only when there is a reward offered."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "作者解释，金额越大，人们越不愿把自己看成小偷，这种心理代价通常超过经济利益，可推断多数人更看重不当贼的自我形象。"
+      },
+      {
+        "id": "vocab_in_context",
+        "question": "In the final paragraph, the word \"resilient\" most nearly means:",
+        "options": [
+          "easily broken or weakened",
+          "able to stay strong and steady over time",
+          "rare and difficult to find",
+          "expensive to maintain"
         ],
         "answer_index": 1,
-        "explanation_zh": "Leo 原本 imagined the worst，但钢笔被诚实归还，所以结尾强调 It could be worse 和 honesty。"
+        "explanation_zh": "resilient 在此意为「稳固持久、不易动摇」；文中说日常的诚实比愤世嫉俗者认为的更 resilient，即更能经得住时间考验、保持强劲。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天不做泛泛的造句，只抓四个值得背下来的结构：刚刚发生的事、同情但无能为力、动作被打断、以及有文采的收束句。",
+    "intro_zh": "今天不做泛泛的造句，只抓四个值得背下来的结构，并把语境提升到 B2+：刚刚发生的事、同情却无能为力、动作被打断、以及有文采的收束句。",
     "patterns": [
       {
         "id": "had_just_felt",
         "title": "had just done + felt ...",
         "source": "I had just lost $50 and I felt very upset.",
         "focus_zh": "用过去完成时说明“刚刚发生了一件事”，再接情绪。",
-        "task_zh": "仿写一句：你刚丢了学生卡、钥匙或作业，所以很着急。",
+        "task_zh": "仿写一句：用过去完成时描述一件刚刚发生、影响重大的事（如错过末班车、丢失重要文件、得知坏消息），并接上一种复杂的情绪。",
         "must_include": [
           "had just",
           "felt"
         ],
-        "min_words": 8,
-        "sample": "I had just lost my student card and I felt very worried.",
+        "min_words": 15,
+        "sample": "I had just discovered that my graduation thesis file was corrupted, and I felt utterly devastated and powerless.",
         "tip_zh": "这个结构比 I lost... 更有故事感：先交代刚刚发生的事，再说情绪。"
       },
       {
@@ -101,14 +98,14 @@
         "title": "was sympathetic, but ... could do nothing",
         "source": "The manager was sympathetic, but he could do nothing.",
         "focus_zh": "这是很地道的转折：对方理解你，但客观上帮不上忙。",
-        "task_zh": "仿写一句：老师、工作人员或同学理解你，但当时也帮不上忙。",
+        "task_zh": "仿写一句：在一个正式或制度受限的情境中，对方很理解、同情你的处境，但受规则或权限所限，当时确实帮不上忙。",
         "must_include": [
           "was sympathetic",
           "but",
           "could do nothing"
         ],
-        "min_words": 8,
-        "sample": "The teacher was sympathetic, but she could do nothing at that moment.",
+        "min_words": 16,
+        "sample": "The senior consultant was sympathetic when I explained my predicament, but she could do nothing to override the company's rigid policy.",
         "tip_zh": "sympathetic 不是简单的 nice，而是“理解你的处境、同情你”。"
       },
       {
@@ -116,13 +113,13 @@
         "title": "started to complain about ... but was interrupted by ...",
         "source": "He started to complain about this wicked world but was interrupted by a knock at the door.",
         "focus_zh": "连续动作有电影感：刚开始抱怨，就被一个声音或动作打断。",
-        "task_zh": "仿写一句：某人开始抱怨噪音、天气或作业，却被电话、敲门或老师打断。",
+        "task_zh": "仿写一句：某位有身份的人（教授、经理、官员）正要开始抱怨一个抽象的社会现象，却被一个突如其来的事件打断。",
         "must_include": [
           "started to complain about",
           "was interrupted by"
         ],
-        "min_words": 10,
-        "sample": "He started to complain about the noise but was interrupted by a phone call.",
+        "min_words": 16,
+        "sample": "The professor started to complain about the declining standards of academic integrity but was interrupted by an unexpected announcement over the intercom.",
         "tip_zh": "这个句式适合写故事转折，比 He complained. Then someone called. 更紧凑。"
       },
       {
@@ -130,13 +127,13 @@
         "title": "There is still some ... in this world.",
         "source": "There is still some honesty in this world!",
         "focus_zh": "这是一个有文采的结尾句，用来表达“事情没有那么糟”。",
-        "task_zh": "仿写一句：看到有人归还东西后，说世界上仍然有善意、诚实或希望。",
+        "task_zh": "仿写一句：在目睹一件令人动容的善举后，用这个句式收束，表达世界上仍存有某种珍贵的品质（善意、诚实、希望）。",
         "must_include": [
           "There is still some",
           "in this world"
         ],
-        "min_words": 7,
-        "sample": "There is still some kindness in this world.",
+        "min_words": 16,
+        "sample": "Witnessing that stranger quietly return the overflowing wallet, I was reminded that there is still some genuine decency in this world.",
         "tip_zh": "这个句式可以把一个小故事收束成一句有力量的话。"
       }
     ]
