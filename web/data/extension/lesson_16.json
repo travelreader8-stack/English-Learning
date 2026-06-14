@@ -1,101 +1,96 @@
 {
   "lesson_id": 16,
   "reading": {
-    "title": "A Polite Reminder at School",
-    "intro_zh": "这篇短文不复述瑞典停车故事，而是换到校园自行车停放提醒：有人把车停在 wrong place，以为会收到 ticket，结果得到一张 polite note。重点回收 if...will、reminder、pay attention to、request 和 obey。",
-    "word_bank": [
-      "park",
-      "wrong place",
-      "ticket",
-      "polite",
-      "note",
-      "request",
-      "reminder",
-      "pay attention to",
-      "signs",
-      "obey"
-    ],
+    "title": "Nudges: When Polite Wording Changes Behaviour",
+    "intro_zh": "本文改编自权威行为科学机构 The Decision Lab 的案例研究，介绍英国“行为洞察小组”如何通过改写税务提醒信的措辞——而非加重处罚——显著提高纳税合规率。它和课文一样说明：礼貌而清晰的表达，往往比冷冰冰的命令更有效。",
+    "source": {
+      "title": "How normative messaging increased tax compliance by 15%",
+      "publisher": "The Decision Lab",
+      "url": "https://thedecisionlab.com/intervention/how-normative-messaging-increased-tax-compliance-by-15"
+    },
     "passage": [
-      "On Monday, Ben parked his bike in the wrong place, right beside the library door. A red sign said that bikes should stay in the rack, but he was late and did not pay attention to it. After class, he expected an angry ticket from the school guard. Instead, he found a small polite note on the seat. \"Welcome back to the library area,\" it said. \"This door must stay clear. You will help everyone if you pay attention to the signs. Please park your bike in the rack next time. This note is only a reminder.\" Ben moved the bike at once. The request was gentle, but the rule was clear, so he could not fail to obey it."
+      "Governments have long assumed that the surest way to make citizens follow a rule is to threaten them with a penalty. Behavioural scientists, however, argue that the precise wording of an official request can matter just as much as the fine attached to it. This insight lies at the heart of \"nudge theory,\" popularised by Richard Thaler and Cass Sunstein, who showed that small, carefully designed changes in how a choice is presented can steer people toward a desired behaviour without removing their freedom to decide. A nudge persuades rather than commands.",
+      "A striking demonstration came from the United Kingdom's Behavioural Insights Team, an advisory unit nicknamed the \"Nudge Unit.\" Working with the national tax authority, the team rewrote ordinary reminder letters sent to people who had not yet paid. Rather than emphasising threats, the most effective version simply stated that nine out of ten people in the UK pay their tax on time, leaving the reader in an uncomfortable minority. Letters that referred to the recipient's own neighbourhood proved even more persuasive, raising compliance by roughly fifteen per cent.",
+      "The mechanism behind this success is the power of descriptive social norms: when we learn what most others around us actually do, we feel a subtle pressure to conform. The financial consequences were considerable, with millions of pounds in overdue tax collected far sooner than expected, all without harsher punishments. The lesson extends well beyond taxation. Whether on a parking notice, a hospital appointment slip, or a classroom rule, a message that is courteous, specific, and grounded in what reasonable people already do is often far more compelling than a stern warning."
     ],
     "questions": [
       {
-        "id": "broken_rule",
-        "question": "What small rule did Ben break?",
+        "id": "main_idea",
+        "question": "What is the main idea of the passage?",
         "options": [
-          "He rode his bike inside the library.",
-          "He parked his bike beside the library door instead of in the rack.",
-          "He lost a ticket from the school guard.",
-          "He took down the red sign."
+          "Heavier fines are the only reliable way to make citizens obey the law.",
+          "How a request is worded can influence behaviour as much as the penalties behind it.",
+          "Tax authorities should stop sending reminder letters altogether.",
+          "Richard Thaler and Cass Sunstein invented the modern income tax."
         ],
         "answer_index": 1,
-        "explanation_zh": "短文开头说 Ben 把自行车停在图书馆门旁边，而标志要求 bikes should stay in the rack。"
+        "explanation_zh": "全文主旨是：官方请求的措辞方式（“轻推”）可以像处罚一样有效地影响人们的行为，而不必依赖更重的惩罚。"
       },
       {
-        "id": "expected_punishment",
-        "question": "What did Ben expect after class?",
+        "id": "detail_message",
+        "question": "According to the passage, what did the most effective reminder letter emphasise?",
         "options": [
-          "An angry ticket from the school guard.",
-          "A prize for using the library.",
-          "A new bike rack near the door.",
-          "A letter from his classmate."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "文中直接说 he expected an angry ticket from the school guard。"
-      },
-      {
-        "id": "note_explained",
-        "question": "What did the polite note explain?",
-        "options": [
-          "The library would be closed all week.",
-          "Ben should never ride a bike again.",
-          "The door must stay clear, and bikes should be parked in the rack.",
-          "The guard had already moved Ben's bike away."
+          "That late payers would immediately be taken to court.",
+          "That the tax rate had recently been lowered.",
+          "That nine out of ten people in the UK pay their tax on time.",
+          "That the recipient could ignore the letter without consequences."
         ],
         "answer_index": 2,
-        "explanation_zh": "note 说 This door must stay clear，并提醒 Please park your bike in the rack next time。"
+        "explanation_zh": "文中指出最有效的信件强调“英国十分之九的人都按时纳税”，把未缴税者置于少数人之列。"
       },
       {
-        "id": "attention_to_signs",
-        "question": "What did Ben need to pay attention to?",
+        "id": "cause_effect",
+        "question": "Why does telling people what most others do increase compliance?",
         "options": [
-          "The color of his bike.",
-          "The library books on the desk.",
-          "The school bell before class.",
-          "The signs about where to park bikes."
-        ],
-        "answer_index": 3,
-        "explanation_zh": "短文里 red sign 和 note 都提醒他 pay attention to the signs。"
-      },
-      {
-        "id": "why_obey",
-        "question": "Why was Ben willing to obey the request?",
-        "options": [
-          "Because the request was polite but the rule was clear.",
-          "Because the guard shouted at him angrily.",
-          "Because there were no signs near the library.",
-          "Because he wanted another ticket."
+          "Because it triggers descriptive social norms, creating pressure to conform with the majority.",
+          "Because it removes any legal obligation to pay.",
+          "Because it offers a cash reward to everyone who replies.",
+          "Because it makes the rule itself unclear and easy to ignore."
         ],
         "answer_index": 0,
-        "explanation_zh": "结尾说明 The request was gentle, but the rule was clear，所以他愿意 obey it。"
+        "explanation_zh": "文章解释其机制是“描述性社会规范”：当人们得知周围多数人怎么做时，会产生一种与多数人保持一致的微妙压力。"
+      },
+      {
+        "id": "inference",
+        "question": "What can be inferred about the author's view of nudges?",
+        "options": [
+          "Nudges work only for collecting taxes and nothing else.",
+          "Nudges are a form of punishment disguised as politeness.",
+          "Nudges should always replace every law and regulation.",
+          "Polite, well-designed wording can be a practical tool in many everyday situations."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "末段把这一原理推广到停车通知、医院预约、课堂规则等场景，可推断作者认为礼貌而精心设计的措辞在许多日常情境中都是实用工具。"
+      },
+      {
+        "id": "vocab_in_context",
+        "question": "In the passage, the word \"compelling\" most nearly means",
+        "options": [
+          "persuasive and hard to resist",
+          "expensive and time-consuming",
+          "confusing and poorly written",
+          "optional and easily ignored"
+        ],
+        "answer_index": 0,
+        "explanation_zh": "compelling 在文中指“有说服力、令人难以抗拒”，与上文说礼貌而具体的信息比严厉警告更有效相呼应。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓 Lesson 16 的五个核心表达：用 if...will 写规则和结果，用 lucky if 写条件，用 does not always happen 转折，用 pay attention to 提醒别人注意规则，最后用 cannot fail to 写清楚“礼貌但有效”。",
+    "intro_zh": "今天把 Lesson 16 的五个核心表达提升到 B2+ 难度：用 if...will 写规则与后果，用 lucky if 写条件，用 does not always happen 做转折，用 pay attention to 提醒注意，用 cannot fail to 写“礼貌却有效”的结论。尽量把句子放进更抽象、更正式的语境里。",
     "patterns": [
       {
         "id": "if_you_will",
         "title": "If you ..., ... will ...",
         "source": "If you park your car in the wrong place, a traffic policeman will soon find it.",
         "focus_zh": "用 if 给出条件，用 will 写自然会发生的结果，适合说明规则和后果。",
-        "task_zh": "仿写一句：写一个学校、图书馆、运动场或小区里的规则和结果。",
+        "task_zh": "仿写一句：描述一种公共政策、提醒方式或沟通策略的条件与可预期结果，语境要比校园例子更抽象正式。",
         "must_include": [
           "If you",
           "will"
         ],
-        "min_words": 10,
-        "sample": "If you block the classroom door, others will have trouble entering.",
+        "min_words": 16,
+        "sample": "If you frame an official request as a polite reminder rather than a threat, ordinary citizens will usually comply far more willingly.",
         "tip_zh": "If you 后面接现在时动作；另一半用 will 写结果，不要把 will 放进 if 从句里。"
       },
       {
@@ -103,12 +98,12 @@
         "title": "You will be very lucky if ...",
         "source": "You will be very lucky if he lets you go without a ticket.",
         "focus_zh": "这个句式强调“如果某件好事发生，你就很幸运”。",
-        "task_zh": "仿写一句：写犯了小错以后，如果别人给你一次机会，你会很幸运。",
+        "task_zh": "仿写一句：写在某个充满不确定的局面里，如果某件难得的好结果真的发生，你会非常幸运。",
         "must_include": [
           "You will be very lucky if"
         ],
-        "min_words": 10,
-        "sample": "You will be very lucky if the teacher gives you another chance.",
+        "min_words": 16,
+        "sample": "You will be very lucky if a single carefully worded sentence persuades thousands of reluctant people to change their long-standing habits.",
         "tip_zh": "if 后面写具体条件，比如 gives you another chance / lets you try again。"
       },
       {
@@ -116,12 +111,12 @@
         "title": "This does not always happen",
         "source": "However, this does not always happen.",
         "focus_zh": "用这句话把“通常会这样”转到“但并不总是这样”，很适合制造故事转折。",
-        "task_zh": "仿写一句：写一个看似常见的结果，但提醒读者并不总是会发生。",
+        "task_zh": "仿写一句：先陈述一个被普遍认为理所当然的结果，再指出在现实中它并不总是会发生。",
         "must_include": [
           "does not always happen"
         ],
-        "min_words": 9,
-        "sample": "This does not always happen when people break an important rule.",
+        "min_words": 14,
+        "sample": "Stricter penalties are widely expected to guarantee obedience, yet this does not always happen in real behavioural experiments.",
         "tip_zh": "前一句可以写大家预期的结果；这一句负责把故事拐向例外。"
       },
       {
@@ -129,12 +124,12 @@
         "title": "pay attention to ...",
         "source": "You will enjoy your stay here if you pay attention to our street signs.",
         "focus_zh": "pay attention to 用来提醒别人认真看、认真听或认真注意某个规则。",
-        "task_zh": "仿写一句：礼貌提醒同学注意标志、说明、作业要求或安全规则。",
+        "task_zh": "仿写一句：提醒读者认真注意某个抽象但重要的细节，例如措辞、语气、规则的设计或数据背后的含义。",
         "must_include": [
           "pay attention to"
         ],
-        "min_words": 9,
-        "sample": "Please pay attention to the quiet signs near the library door.",
+        "min_words": 16,
+        "sample": "Effective policymakers pay attention to the precise wording of a message, because subtle phrasing can quietly reshape how people behave.",
         "tip_zh": "to 后面接名词或名词短语，比如 signs, rules, instructions。"
       },
       {
@@ -142,12 +137,12 @@
         "title": "cannot fail to ...",
         "source": "You cannot fail to obey it!",
         "focus_zh": "cannot fail to 表示“肯定会、很难不”，语气比 will 更有结论感。",
-        "task_zh": "仿写一句：写一个提醒非常清楚、礼貌，所以别人一定会理解或遵守。",
+        "task_zh": "仿写一句：描述一个表达得既礼貌又清晰的信息，因而读者一定会理解、认同或遵从，语境尽量抽象。",
         "must_include": [
           "cannot fail to"
         ],
-        "min_words": 10,
-        "sample": "You cannot fail to understand the note because it is polite and clear.",
+        "min_words": 16,
+        "sample": "Once a reminder is courteous, specific, and rooted in what most reasonable people already do, you cannot fail to recognise its quiet persuasive power.",
         "tip_zh": "这个结构有点正式，适合放在故事结尾，强调提醒真的有效。"
       }
     ]
