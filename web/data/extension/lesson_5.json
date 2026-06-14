@@ -1,101 +1,96 @@
 {
   "lesson_id": 5,
   "reading": {
-    "title": "The Offline Message Board",
-    "intro_zh": "这篇短文不复述原文，而是换到学校社团的新活动室：网络用不了时，学生自己设计了一个离线留言板服务。重点回收 message / distance / request / urgent / spare / up to now / in this way / service / backup。",
-    "word_bank": [
-      "message",
-      "distance",
-      "request",
-      "urgent",
-      "spare",
-      "only five minutes away",
-      "up to now",
-      "in this way",
-      "service",
-      "backup"
-    ],
+    "title": "Messages Without a Tower",
+    "intro_zh": "这篇文章不复述课文，而是讲一个真实话题：当你走出最后一座基站的覆盖范围、或当地根本没有电话网络时，人们如何用 Meshtastic 把廉价的 LoRa 电台拼成自己的网状网络(mesh network)来收发信息。内容改编自 IEEE Spectrum 记者 Stephen Cass 的报道《Build Long-Range IoT Applications Fast With Meshtastic》。",
+    "source": {
+      "title": "Build Long-Range IoT Applications Fast With Meshtastic",
+      "publisher": "IEEE Spectrum",
+      "url": "https://spectrum.ieee.org/build-iot-apps-with-meshtastic"
+    },
     "passage": [
-      "The science club has just opened another activity room beside the library. The old room is only five minutes away, but the new room cannot get Wi-Fi, so the students made a backup message board. One student carries a small notebook between the two rooms every break. On Monday, the notebook carried the first message about a missing charger. It covered the distance in three minutes. Up to now, the club has sent a great many requests for spare wires, tools, and other urgent messages from one room to the other. In this way, the students have begun their own private information service. It is not high-tech, but it works when the normal channel fails."
+      "Most of the time, our messages ride on a hidden web of cell towers, fiber cables, and data centers. But what happens when you wander beyond the last tower, or when that infrastructure is not there? A growing community of tinkerers has answered with Meshtastic, a project that turns inexpensive LoRa radios into a clever workaround for staying in touch without any phone network. LoRa is a long-range, low-power, low-bandwidth technology that travels over unlicensed radio bands and, in ideal conditions, can reach as far as roughly sixteen kilometers.",
+      "What makes Meshtastic interesting is how it stretches that range even further. Instead of relying on one central transmitter, the radios pass messages along for each other: a node that overhears a broadcast can rebroadcast it so the text travels onward node by node. The early version let every radio repeat everything it heard, which quickly clogged the airwaves. The current scheme is smarter. It treats signal strength as a rough measure of distance, lets the more distant nodes broadcast first, and tells any radio that hears the same message twice to stay quiet, which keeps congestion down.",
+      "There are real limits to what such a network can do. You will never pull off a fast download over it, the kind that once streamed at 1.5 megabits per second; the bandwidth is far too thin for that. Yet within those modest bounds, cheap radios can still exchange text messages and location data in the absence of any other communications infrastructure. With a starter kit costing as little as twenty-five dollars, almost anyone can build a small decentralized web that keeps a conversation alive where the ordinary channels reach their end."
     ],
     "questions": [
       {
-        "id": "normal_channel",
-        "question": "What normal communication channel was unavailable in the new room?",
+        "id": "main_idea",
+        "question": "What is the main idea of the passage?",
         "options": [
-          "The new room could not get Wi-Fi.",
-          "The library could not get new books.",
-          "The old room could not find a charger.",
-          "The students could not open the door."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文说 the new room cannot get Wi-Fi，所以正常通信渠道是 Wi-Fi 用不了。"
-      },
-      {
-        "id": "backup_system",
-        "question": "What backup system did the students create?",
-        "options": [
-          "They bought twelve walkie-talkies for the club.",
-          "They moved the library to another building.",
-          "They made a backup message board and used a notebook.",
-          "They sent every message to the wrong group."
-        ],
-        "answer_index": 2,
-        "explanation_zh": "学生 made a backup message board，并让 notebook 在两个房间之间传递信息。"
-      },
-      {
-        "id": "short_distance",
-        "question": "How far apart were the two activity rooms?",
-        "options": [
-          "They were five miles away.",
-          "They were only five minutes away.",
-          "They were in different cities.",
-          "They were across a large river."
+          "Cell towers and fiber cables are the only reliable way to send any message.",
+          "Meshtastic uses cheap LoRa radios to pass messages when there is no phone network.",
+          "LoRa radios can stream high-speed video almost anywhere in the world.",
+          "Most tinkerers prefer location data to ordinary text messages."
         ],
         "answer_index": 1,
-        "explanation_zh": "文中说 The old room is only five minutes away，强调距离很近。"
+        "explanation_zh": "全文围绕 Meshtastic 如何用廉价 LoRa 电台在没有电话网络时传递信息这一中心展开，因此主旨是 B。"
       },
       {
-        "id": "message_types",
-        "question": "What kinds of messages has the club sent up to now?",
+        "id": "detail_range",
+        "question": "According to the passage, how far can LoRa reach in ideal conditions?",
         "options": [
-          "Long stories about holidays and birthday parties.",
-          "Secret game scores from another school.",
-          "Messages about buying new desks.",
-          "Requests for spare wires, tools, and other urgent messages."
+          "About 1.5 kilometers.",
+          "Exactly twenty-five kilometers.",
+          "Only a few hundred meters.",
+          "About sixteen kilometers."
         ],
         "answer_index": 3,
-        "explanation_zh": "关键句是 requests for spare wires, tools, and other urgent messages。"
+        "explanation_zh": "文中说 LoRa 在理想条件下可达约十六公里(roughly sixteen kilometers)，对应 D。"
       },
       {
-        "id": "why_worked",
-        "question": "Why did the backup service work?",
+        "id": "cause_congestion",
+        "question": "Why did the early version of the network clog the airwaves?",
         "options": [
-          "Because it made the Wi-Fi faster than before.",
-          "Because it moved messages reliably when the normal channel failed.",
-          "Because it stopped students from writing messages.",
-          "Because it made the two rooms farther apart."
+          "Every radio repeated everything it heard.",
+          "The radios were too far apart to hear one another.",
+          "Users tried to send large photos and files.",
+          "A central tower kept resending the same data."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "文章说最初的版本让每台电台重复它听到的一切(let every radio repeat everything it heard)，因而堵塞了频道，对应 A。"
+      },
+      {
+        "id": "inference_quiet",
+        "question": "What can be inferred about a radio that hears the same message twice?",
+        "options": [
+          "It must immediately contact the nearest cell tower.",
+          "It boosts the signal so the message travels faster.",
+          "Its silence helps prevent the network from getting congested.",
+          "It deletes the message so no one else can read it."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "文中说听到同一条消息两次的电台被要求保持安静以降低拥堵(keeps congestion down)，可推断它的沉默有助于防止网络堵塞，对应 C。"
+      },
+      {
+        "id": "vocab_thin",
+        "question": "In the third paragraph, the phrase \"the bandwidth is far too thin\" most nearly means the bandwidth is",
+        "options": [
+          "physically narrow and lightweight.",
+          "very limited in capacity.",
+          "unusually wide and generous.",
+          "completely free of charge."
         ],
         "answer_index": 1,
-        "explanation_zh": "结尾说 it works when the normal channel fails，说明它可靠地完成了备用通信。"
+        "explanation_zh": "thin 在这里形容带宽“窄、容量很小”，作者用它解释为什么无法高速下载，故意为“容量非常有限”，对应 B。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天的句式仿写抓住 Lesson 5 的五个核心结构：刚刚扩展到另一个地点、两个地方距离很近、无法获得某种服务所以想办法、到目前为止已经发送了许多信息，以及用 In this way 收束成一个新系统。",
+    "intro_zh": "今天的仿写继续锁定 Lesson 5 的五个现在完成时与对比结构，但把语境提升到 B2+：用更抽象、更贴近真实科技与社会的话题来练习“刚刚扩展、距离很近、无法获得所以想办法、到目前为止已发送、用这种方式开始”。",
     "patterns": [
       {
         "id": "has_just_another",
         "title": "has just ... another ...",
         "source": "He has just bought another garage.",
         "focus_zh": "has just 表示刚刚完成的动作，another 表示又多了一个同类地点或物品，适合写最近的扩展。",
-        "task_zh": "仿写一句：写某人、学校或社团刚刚又买了、做了、开了或建立了另一个东西。",
+        "task_zh": "仿写一句较抽象的句子：写某个机构、团队或社区刚刚又建立、推出或开辟了另一个项目、平台或系统，用以应对某种现实需求。",
         "must_include": [
           "has just",
           "another"
         ],
-        "min_words": 9,
-        "sample": "Our club has just opened another room for weekend projects.",
+        "min_words": 16,
+        "sample": "Our volunteer team has just deployed another relay node so that emergency messages can travel even farther across the valley.",
         "tip_zh": "another 后面接单数名词；has just 后面用过去分词，如 opened, made, bought。"
       },
       {
@@ -103,13 +98,13 @@
         "title": "is only ... from ...",
         "source": "Pinhurst is only five miles from Silbury.",
         "focus_zh": "is only ... from ... 用来说明两个地点距离不远，only 让短距离更突出。",
-        "task_zh": "仿写一句：写两个教室、两栋楼或两个地点之间距离很近。",
+        "task_zh": "仿写一句：用 is only ... from ... 说明两个地点、节点或设施之间距离很近，并点出这种邻近带来的实际好处或影响。",
         "must_include": [
           "is only",
           "from"
         ],
-        "min_words": 8,
-        "sample": "The new activity room is only five minutes from the library.",
+        "min_words": 16,
+        "sample": "The new mesh node is only three hundred meters from the shelter, yet it still relays warnings to households across the entire neighborhood.",
         "tip_zh": "中间可以写 five minutes, two blocks, one street 等距离或时间。"
       },
       {
@@ -117,13 +112,13 @@
         "title": "cannot get ... so ...",
         "source": "Mr. Scott cannot get a telephone for his new garage, so he has just bought twelve pigeons.",
         "focus_zh": "这个结构先写无法获得某种服务或工具，再用 so 引出解决办法。",
-        "task_zh": "仿写一句：写一个地方无法获得信号、网络、钥匙或工具，所以大家想出一个实际办法。",
+        "task_zh": "仿写一句：写一个地区或机构在某种危机或限制下无法获得某项关键服务，因而被迫设计出一个有创意的、切实可行的替代方案。",
         "must_include": [
           "cannot get",
           "so"
         ],
-        "min_words": 11,
-        "sample": "The room cannot get Wi-Fi, so we use a shared notebook.",
+        "min_words": 16,
+        "sample": "After the storm the coastal town cannot get any cellular signal, so residents have quietly assembled a decentralized network of cheap radios.",
         "tip_zh": "so 后面要给出真正的解决动作，不要只重复问题。"
       },
       {
@@ -131,13 +126,13 @@
         "title": "Up to now, ... has sent ...",
         "source": "Up to now, Mr. Scott has sent a great many requests for spare parts and other urgent messages from one garage to the other.",
         "focus_zh": "Up to now 把时间拉到现在，has sent 表示从过去到现在已经发送了许多次。",
-        "task_zh": "仿写一句：写一个人、班级或团队到目前为止已经发送了许多请求或紧急消息。",
+        "task_zh": "仿写一句：用 Up to now ... has sent ... 总结一个组织、系统或个人到目前为止已经累计发送了大量请求、警报或关键信息，体现长期积累。",
         "must_include": [
           "Up to now",
           "has sent"
         ],
-        "min_words": 12,
-        "sample": "Up to now, the team has sent many requests for spare wires.",
+        "min_words": 16,
+        "sample": "Up to now, the experimental network has sent thousands of urgent requests and weather alerts across a region where conventional towers had collapsed.",
         "tip_zh": "Up to now 后面常用现在完成时；主语是单数时用 has sent。"
       },
       {
@@ -145,13 +140,13 @@
         "title": "In this way, ... has begun ...",
         "source": "In this way, he has begun his own private 'telephone' service.",
         "focus_zh": "In this way 总结前面的办法，has begun 说明这个办法已经形成了一个新系统。",
-        "task_zh": "仿写一句：写某人用这种方法开始了自己的小服务、小系统或新习惯。",
+        "task_zh": "仿写一句：用 In this way ... has begun ... 收束前文的做法，说明某人或某团体凭这种方法已经开创了一套全新的、可持续的服务或机制。",
         "must_include": [
           "In this way",
           "has begun"
         ],
-        "min_words": 10,
-        "sample": "In this way, our class has begun its own backup service.",
+        "min_words": 16,
+        "sample": "In this way, a loose community of hobbyists has begun to build a resilient backup system that functions precisely when official channels fail.",
         "tip_zh": "In this way 后面不要只写想法，要写已经开始的结果。"
       }
     ]
