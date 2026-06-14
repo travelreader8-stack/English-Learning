@@ -1,100 +1,94 @@
 {
   "lesson_id": 44,
   "reading": {
-    "title": "The Safe Witness",
-    "intro_zh": "这篇短文把 Lesson 44 的“抢包—追赶”换成一个现代、更安全的版本：在车站门口，叙述者看到有人抢手机，但没有去追，而是记住方向和特征、找保安、把事情讲清楚。看看课文里那种一环扣一环的动作写法，换个场景你还认得出吗。",
-    "word_bank": [
-      "risk",
-      "rush up",
-      "snatch",
-      "strap",
-      "report",
-      "direction",
-      "security guard",
-      "contents",
-      "fright",
-      "mending"
-    ],
+    "title": "Life at the Forest's Edge",
+    "intro_zh": "Lesson 44 的故事就发生在“森林边缘”。这篇拓展短文带你认识真实科学概念“边缘效应”（edge effect）：森林与开阔地相接的交错带为什么生命格外活跃，又为什么在森林破碎化下变得脆弱。内容改编自权威学术期刊 New Phytologist 的综述论文。",
+    "source": {
+      "title": "A unifying framework for understanding how edge effects reshape the structure, composition and function of forests",
+      "publisher": "New Phytologist (Wiley)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC12445831/"
+    },
     "passage": [
-      "Last Saturday, I was waiting near the station gate when a man in a grey hood rushed up to a woman beside me and snatched her phone. The strap of her bag broke too, and the contents spilled across the ground. I got such a fright that my heart jumped, but I did not run after him. Chasing a stranger through a crowd is a real risk, so I stayed where I was. I watched which way he went — left, past the coffee shop, toward the bus stop. Then I found a security guard and reported everything: the grey hood, the broken strap, and the direction. Later, the woman said her strap needed mending, but the police soon returned her phone. My memory, not my speed, had helped the most."
+      "When Mrs. Sterling spread her picnic blanket at the edge of a forest, she had chosen one of the most biologically active places on Earth. Ecologists call such a boundary an ecotone, and the changes that occur there are known as the edge effect. Where two contrasting habitats meet, conditions shift abruptly: the forest margin is warmer, brighter and windier than the shaded interior, yet it also holds less moisture, leaving the trees nearest the open ground under noticeably greater water stress. Because species from both the woodland and the surrounding meadow can survive in this transitional strip, the population density and variety of life there are often higher than in either neighbouring community.",
+      "These bright, exposed margins are not, however, a uniform benefit. A recent synthesis in New Phytologist reports that roughly 70 percent of the world's forests now lie within one kilometre of an edge, and about 20 percent within a mere hundred metres. Such widespread fragmentation profoundly reshapes the woodland that remains. Towering canopy trees, being the most vulnerable to windthrow and drought, are precisely the ones that perish first; in tropical forests in particular, this process can suppress canopy height and erode stored carbon for several hundred metres inward, while temperate forests often show little change or even a slight gain in biomass at their edges. As shade-tolerant, late-successional species retreat, the forest's composition is gradually rewritten. The quiet boundary that frames a family picnic is therefore also a frontier where ecological pressure steadily redraws the living architecture of the trees."
     ],
     "questions": [
       {
-        "id": "what_was_taken",
-        "question": "What did the man take from the woman?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "Her shopping bag.",
-          "Her coffee cup.",
-          "Her phone.",
-          "Her umbrella."
-        ],
-        "answer_index": 2,
-        "explanation_zh": "短文说 a man ... rushed up to a woman ... and snatched her phone，他抢走的是手机；包带断了，但包并没有被拿走。"
-      },
-      {
-        "id": "where_he_went",
-        "question": "Which detail showed where the man went?",
-        "options": [
-          "He turned left, past the coffee shop, toward the bus stop.",
-          "He climbed onto the station roof.",
-          "He disappeared into a dark forest.",
-          "He walked back to sit beside the woman."
+          "How a forest boundary teems with life yet is reshaped by edge effects.",
+          "Why picnics should be held deep inside a forest rather than at its margin.",
+          "How canopy trees grow taller when they are exposed to more sunlight.",
+          "Why meadows contain more species than any nearby woodland."
         ],
         "answer_index": 0,
-        "explanation_zh": "叙述者说 I watched which way he went — left, past the coffee shop, toward the bus stop，这正是指出他逃跑方向的细节。"
+        "explanation_zh": "全文围绕“森林边缘”这一交错带（ecotone）展开：边缘既因两种生境交汇而物种更丰富，又因边缘效应被气候压力和破碎化不断改写。选项A正是这一主旨。"
       },
       {
-        "id": "safe_choice",
-        "question": "What safe choice did the narrator make?",
+        "id": "detail_conditions",
+        "question": "According to the passage, how do conditions at the forest margin differ from the interior?",
         "options": [
-          "They chased the man through the crowd.",
-          "They did not run after him and stayed where they were.",
-          "They grabbed the man's hood to stop him.",
-          "They jumped onto the moving bus."
+          "The margin is cooler, darker and more humid.",
+          "The margin is warmer, brighter and windier, with less moisture.",
+          "The margin and interior have almost identical conditions.",
+          "The margin receives less light but holds more water."
         ],
         "answer_index": 1,
-        "explanation_zh": "短文说 I did not run after him ... so I stayed where I was，叙述者选择不去追，而是待在原地保持安全。"
+        "explanation_zh": "短文说 the forest margin is warmer, brighter and windier than the shaded interior, yet it also holds less moisture，与选项B完全一致。"
       },
       {
-        "id": "what_helped_police",
-        "question": "What helped the security guard and the police the most?",
+        "id": "cause_effect",
+        "question": "Why does the edge effect tend to reduce canopy height and stored carbon?",
         "options": [
-          "The narrator's running speed.",
-          "The narrator's loud shouting.",
-          "A photograph of the man's face.",
-          "The clear report: the grey hood, the broken strap, and the direction."
-        ],
-        "answer_index": 3,
-        "explanation_zh": "叙述者 reported everything: the grey hood, the broken strap, and the direction，并说 My memory, not my speed, had helped the most，是清楚的描述帮了大忙。"
-      },
-      {
-        "id": "story_vs_imitation",
-        "question": "What is the main lesson of this story?",
-        "options": [
-          "You should always chase a thief to get things back.",
-          "Telling a vivid story is a waste of time.",
-          "Describing an event clearly is helpful, but copying a dangerous chase in real life is not.",
-          "The fastest runner always solves the problem."
+          "Because edges receive too little sunlight for trees to grow.",
+          "Because animals eat the seeds of the tallest trees first.",
+          "Because tall canopy trees are most vulnerable to windthrow and drought and die first.",
+          "Because picnickers cut down the largest trees for firewood."
         ],
         "answer_index": 2,
-        "explanation_zh": "课文的动作描写很生动，但现实里不应模仿追赶。把事情讲清楚很有用，照搬危险的追逐却不安全——这才是这篇短文的重点。"
+        "explanation_zh": "短文指出 Towering canopy trees, being the most vulnerable to windthrow and drought, are precisely the ones that perish first，因而（尤其在热带森林中）边缘效应会压低树冠、侵蚀储存的碳数百米之深；温带森林因林冠较低、温差较小，边缘处生物量反而可能持平甚至略增。选项C正确。"
+      },
+      {
+        "id": "inference",
+        "question": "What can be inferred about forests as fragmentation increases?",
+        "options": [
+          "Forests will become completely immune to wind and drought.",
+          "An ever-larger share of forest is exposed to edge conditions, so interior habitat shrinks.",
+          "Edge effects disappear once a forest is split into smaller pieces.",
+          "All forest species benefit equally from more edges."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "由“约70%的森林已在距边缘1公里内、20%在100米内”且破碎化“深刻改写”森林可推断：边缘条件覆盖的范围越来越大，真正的林内生境随之缩小。选项B为合理推断。"
+      },
+      {
+        "id": "vocab_in_context",
+        "question": "In the passage, the word \"ecotone\" most nearly means a —",
+        "options": [
+          "type of tall tree found only in tropical regions.",
+          "tool ecologists use to measure temperature.",
+          "season when forests lose the most carbon.",
+          "transitional boundary zone where two habitats meet."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "短文把 ecotone 定义为 such a boundary（两种对比生境相接之处），即两个生境交汇的过渡边界带。选项D符合语境。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 44 的动作叙事句式：用 did not think of the risk 写“事后才意识到危险”，用 while 写背景动作被突然打断，用 With ... in their possession 写拿到东西后的下一步，用 was soon out of breath, but ... continued to 写累了仍坚持，再用 needs mending 写某样东西需要修理。",
+    "intro_zh": "把 Lesson 44 的五个动作叙事句式提升到 B2+：用 did not think of the risk 写事后才意识到的危险，用 while I was 写背景动作被突然打断，用 With ... in their possession 写拿到东西后的下一步，用 was soon out of breath, but ... continued to 写筋疲力尽仍坚持，再用 needs mending 写某物亟待修理。尽量写更抽象、更复杂的长句。",
     "patterns": [
       {
         "id": "did_not_think_of_risk",
         "title": "did not think of the risk ...",
         "source": "Mrs. Anne Sterling did not think of the risk she was taking.",
         "focus_zh": "did not think of the risk 用来写一个人做某事时没有意识到自己正在冒的风险，往往是事后才明白。",
-        "task_zh": "仿写一句：写某人（或自己）做某件事时，没有想到其中的风险。",
+        "task_zh": "仿写一句（14-18词以上）：写某人在追求某个目标时，因一时冲动而没有意识到自己正在承担的严重风险。",
         "must_include": [
           "did not think of the risk"
         ],
-        "min_words": 12,
-        "sample": "My cousin did not think of the risk he was taking when he ran across the busy road.",
+        "min_words": 18,
+        "sample": "Eager to be the first to reach the summit before dusk, the inexperienced hiker did not think of the risk he was taking when he abandoned the marked trail.",
         "tip_zh": "did not think of the risk 后面常接 she/he was taking，再用 when 引出当时正在做的事。"
       },
       {
@@ -102,12 +96,12 @@
         "title": "while I was ...",
         "source": "They had rushed up to her while she was having a picnic.",
         "focus_zh": "while 用来写一个背景动作正在进行时，另一件事突然发生、把它打断。",
-        "task_zh": "仿写一句：用 while I was ... 写自己正在做某事的时候，突然发生了别的事情。",
+        "task_zh": "仿写一句（14-18词以上）：用 while I was 写自己全神贯注做某事时，一件出乎意料的事情突然发生并打断了你。",
         "must_include": [
           "while I was"
         ],
-        "min_words": 12,
-        "sample": "A man snatched my phone while I was waiting quietly at the station gate.",
+        "min_words": 16,
+        "sample": "A pickpocket quietly slipped his hand into my jacket while I was studying the departure board, completely absorbed in finding the right platform.",
         "tip_zh": "while 后面接正在进行的背景动作（was/were doing），主句再写突然发生的事。"
       },
       {
@@ -115,13 +109,13 @@
         "title": "With ... in their possession, ...",
         "source": "With the bag in their possession, both men started running through the trees.",
         "focus_zh": "With ... in their possession 表示某人已经拿到、掌控了某样东西，逗号后再接他们接着做的动作。",
-        "task_zh": "仿写一句：写某人拿到某样东西之后，紧接着开始做下一件事。",
+        "task_zh": "仿写一句（14-18词以上）：写某人/某方一旦掌握了某种关键资源或信息之后，随即采取的下一步行动及其影响。",
         "must_include": [
           "With",
           "in their possession"
         ],
-        "min_words": 12,
-        "sample": "With the stolen phone in their possession, the thieves walked quickly toward the bus stop.",
+        "min_words": 15,
+        "sample": "With the confidential documents in their possession, the rival negotiators immediately changed their strategy and pressed for far more favourable terms.",
         "tip_zh": "in their possession = 在他们手里 / 由他们掌控；逗号后写他们接下来做的事。"
       },
       {
@@ -129,13 +123,13 @@
         "title": "was soon out of breath, but ... continued to ...",
         "source": "She was soon out of breath, but she continued to run.",
         "focus_zh": "out of breath 表示累得上气不接下气，再用 but ... continued to ... 写出虽然很累却仍然坚持。",
-        "task_zh": "仿写一句：写某人虽然累得上气不接下气，但仍然坚持做某事。",
+        "task_zh": "仿写一句（14-18词以上）：写某人在艰难处境中已经上气不接下气，却出于责任或决心仍然坚持把某件事做完。",
         "must_include": [
           "out of breath",
           "continued to"
         ],
-        "min_words": 12,
-        "sample": "The young runner was soon out of breath, but she continued to climb the steep hill.",
+        "min_words": 18,
+        "sample": "Although the marathon volunteer was soon out of breath in the stifling heat, she continued to hand water to runners until the very last competitor crossed the line.",
         "tip_zh": "out of breath 是固定短语“上气不接下气”；continued to 后面接动词原形。"
       },
       {
@@ -143,12 +137,12 @@
         "title": "... needs mending / needs fixing",
         "source": "The strap needs mending.",
         "focus_zh": "need + 动词-ing（needs mending / fixing / repairing）用来说某样东西坏了、需要被修理。",
-        "task_zh": "仿写一句：写某样东西坏了，需要修理（用 needs 加一个 -ing 动词）。",
+        "task_zh": "仿写一句（14-18词以上）：写一件有价值或长期使用的物品/设施已经损坏，在某个期限前急需修理（用 needs 加一个 -ing 动词）。",
         "must_include": [
           "needs mending"
         ],
-        "min_words": 10,
-        "sample": "My old schoolbag strap needs mending, but the books inside are still safe.",
+        "min_words": 14,
+        "sample": "The historic stone bridge that has carried traffic for two centuries now badly needs mending before the winter floods arrive.",
         "tip_zh": "needs 后面直接接动词-ing：needs mending / needs fixing / needs repairing，都表示“需要修理”。"
       }
     ]
