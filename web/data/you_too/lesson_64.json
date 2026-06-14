@@ -1,0 +1,51 @@
+{
+  "lesson_id": 64,
+  "title": "My Tunnel Plan",
+  "question": "把今天“连接两地 -> 平台用途 -> 通风方案 -> 安全改进 -> 解决问题”的工程表达，放进 science fair 的模型隧道场景：用 word bank 补完整 5 个空。",
+  "example_answer": "Our model tunnel would connect the library and the science building. This small platform would serve as a station. Fresh air must come in, so the tunnel needs ventilation. A second tunnel should be built for safety. This would solve the problem of walking outside in heavy rain.",
+  "word_bank": [
+    "would connect",
+    "the library and the science building",
+    "would serve as",
+    "a station",
+    "needs ventilation",
+    "fresh air can come in",
+    "should be built",
+    "for safety",
+    "would solve the problem",
+    "walking outside in heavy rain"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "先说明模型隧道连接哪两个地方",
+      "english_template": "Our model tunnel ___ the library and the science building.",
+      "expected_phrase": "would connect"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说明小平台在方案里的用途",
+      "english_template": "This small platform ___ a station.",
+      "expected_phrase": "would serve as"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "解释为什么需要通风",
+      "english_template": "The tunnel ___, so fresh air can come in.",
+      "expected_phrase": "needs ventilation"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "用 should be built 提出一个安全改进",
+      "english_template": "A second tunnel ___ for safety.",
+      "expected_phrase": "should be built"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "说明这个计划能解决什么实际问题",
+      "english_template": "This ___ of walking outside in heavy rain.",
+      "expected_phrase": "would solve the problem"
+    }
+  ],
+  "mode": "all_fills"
+}

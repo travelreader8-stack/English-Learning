@@ -1,0 +1,2140 @@
+{
+  "total_duration": 746.033,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 6.32,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果一个国家是一座岛，和大陆之间隔着一片海，你会怎么过去？"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 6.67,
+      "end": 13.55,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "坐船可以，坐飞机也可以。可是很早以前，有人想：能不能从海底坐火车过去？"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 13.9,
+      "end": 17.948,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这就是"
+        },
+        {
+          "lang": "en",
+          "text": "The Channel Tunnel"
+        },
+        {
+          "lang": "zh",
+          "text": "，海峡隧道。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 18.297,
+      "end": 26.737,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它难的不是“挖一个洞”这么简单，而是通风、安全、火车运行，还有人们心里的信任。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 27.087,
+      "end": 32.127,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天我们看一个工程梦想，为什么等了 100 多年才真正实现。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 32.477,
+      "end": 34.877,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，先把地理画清楚。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 35.227,
+      "end": 42.227,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：英国是一座岛，英吉利海峡把英国和法国、欧洲大陆隔开。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 42.577,
+      "end": 47.817,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "1858 年，一位法国工程师带着海底隧道计划来到英国。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 48.167,
+      "end": 55.727,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文开头说："
+        },
+        {
+          "lang": "en",
+          "text": "In 1858, a French engineer, Aime Thome de Gamond, arrived in England"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 56.077,
+      "end": 62.853,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他不是来旅游，而是"
+        },
+        {
+          "lang": "en",
+          "text": "with a plan for a twenty-one-mile tunnel under the English Channel"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 63.202,
+      "end": 68.07,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The English Channel"
+        },
+        {
+          "lang": "zh",
+          "text": "不是电视 channel，而是英吉利海峡。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 68.42,
+      "end": 74.172,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "arrived in England, with a plan, under the English Channel"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 74.522,
+      "end": 79.162,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，看这个早期计划为什么需要一个海中平台。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 79.512,
+      "end": 85.552,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：他认为可以在海峡中央建一座平台，用作港口和火车站。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 85.902,
+      "end": 91.57,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "He said that it would be possible to build a platform in the centre of the Channel"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 91.92,
+      "end": 97.871,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个平台的作用是："
+        },
+        {
+          "lang": "en",
+          "text": "This platform would serve as a port and a railway station"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 98.221,
+      "end": 102.653,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Would serve as"
+        },
+        {
+          "lang": "zh",
+          "text": "是在当时的计划里“会用作”。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 103.003,
+      "end": 110.775,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有一个关键问题是空气："
+        },
+        {
+          "lang": "en",
+          "text": "The tunnel would be well-ventilated if tall chimneys were built above sea level"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 111.125,
+      "end": 116.045,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为长长的海底隧道里，火车和人都需要新鲜空气。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 116.395,
+      "end": 122.899,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "platform, port, railway station, well-ventilated, sea level"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 123.249,
+      "end": 128.609,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，William Low 提出一个更合理的双轨铁路隧道方案。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 128.958,
+      "end": 136.318,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：1860 年，一个英国人提出更好的计划，建双轨铁路隧道来解决通风问题。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 136.668,
+      "end": 143.344,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "In 1860, a better plan was put forward by an Englishman, William Low"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 143.694,
+      "end": 149.374,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Was put forward"
+        },
+        {
+          "lang": "zh",
+          "text": "是“被提出”，工程计划里常常这样说。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 149.724,
+      "end": 154.98,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他的建议是："
+        },
+        {
+          "lang": "en",
+          "text": "He suggested that a double railway-tunnel should be built"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 155.33,
+      "end": 161.578,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么 double 有帮助？课文解释："
+        },
+        {
+          "lang": "en",
+          "text": "This would solve the problem of ventilation"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 161.928,
+      "end": 169.631,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果一列火车进入隧道，它会把新鲜空气带进来："
+        },
+        {
+          "lang": "en",
+          "text": "it would draw in fresh air behind it"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 169.981,
+      "end": 177.677,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "a better plan, should be built, solve the problem of ventilation, draw in fresh air"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 178.027,
+      "end": 182.947,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，看一个好想法为什么还是被时代按下暂停键。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 183.297,
+      "end": 190.777,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：42 年后工程真的开始了，但英国人担心入侵，所以没有早早完成。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 191.127,
+      "end": 195.931,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Forty-two years later a tunnel was actually begun"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 196.281,
+      "end": 204.273,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着是这句很有力量的话："
+        },
+        {
+          "lang": "en",
+          "text": "If, at the time, the British had not feared invasion, it would have been completed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 204.622,
+      "end": 212.014,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Feared invasion"
+        },
+        {
+          "lang": "zh",
+          "text": "不是简单地“不喜欢别人”，而是岛屿国家在那个年代对安全的担心。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 212.364,
+      "end": 220.3,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "于是世界又等了将近 100 年："
+        },
+        {
+          "lang": "en",
+          "text": "The world had to wait almost another 100 years for the Channel Tunnel"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 220.65,
+      "end": 230.802,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后课文保留教材日期："
+        },
+        {
+          "lang": "en",
+          "text": "It was officially opened on March 7,1994, finally connecting Britain to the European continent"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 231.152,
+      "end": 240.232,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "feared invasion, almost another 100 years, finally connecting Britain to the European continent"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 240.582,
+      "end": 244.289,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，为什么一条 tunnel 会是这么大的事？"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 244.639,
+      "end": 255.199,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为它不是普通地下通道。英国是一座 island，外面有 English Channel。以前去欧洲大陆，主要靠 ships，后来还有 planes。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 255.549,
+      "end": 259.236,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以 tunnel 就像在海底画出一条固定的路？"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 259.586,
+      "end": 268.906,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。但这条路要让 trains 安全通过，还要让 people breathe。长隧道如果没有 fresh air，就会很危险。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 269.256,
+      "end": 273.038,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那早期方案里的 chimneys 是为了 ventilation？"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 273.388,
+      "end": 283.008,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "正好。"
+        },
+        {
+          "lang": "en",
+          "text": "Ventilation"
+        },
+        {
+          "lang": "zh",
+          "text": "就是让 fresh air 进来，让不好的空气出去。海底隧道不能只想着路线，还要想着空气。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 283.358,
+      "end": 286.306,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "William Low 的 double railway-tunnel 为什么更好？"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 286.656,
+      "end": 295.02,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为 moving train 本身能帮助"
+        },
+        {
+          "lang": "en",
+          "text": "draw in fresh air"
+        },
+        {
+          "lang": "zh",
+          "text": "。这个想法更接近“让系统自己工作起来”。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 295.37,
+      "end": 298.677,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是后来工程已经 begun，为什么还停了？"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 299.027,
+      "end": 309.707,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "当时英国很重视岛屿安全。海峡像天然保护线，固定 tunnel 会让一些人担心 invasion。这是历史里的安全焦虑，不是笑话。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 310.057,
+      "end": 314.179,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那课文说 March 7,1994，是不是就照读？"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 314.529,
+      "end": 327.793,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对，课文日期我们照读照学："
+        },
+        {
+          "lang": "en",
+          "text": "March 7,1994"
+        },
+        {
+          "lang": "zh",
+          "text": "。不过如果查现代历史资料，正式揭幕常见写法是"
+        },
+        {
+          "lang": "en",
+          "text": "May 6, 1994"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 328.143,
+      "end": 333.081,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以今天不是争日期，而是学会尊重课文，也学会核对资料。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 333.431,
+      "end": 342.191,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Exactly. 一个工程梦想真正落地，需要 imagination, technology, safety, and trust 一起成熟。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 342.54,
+      "end": 350.868,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In 1858, a French engineer, Aime Thome de Gamond, arrived in England with a plan for a twenty-one-mile tunnel under the English Channel."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 351.218,
+      "end": 356.042,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He said that it would be possible to build a platform in the centre of the Channel."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 356.392,
+      "end": 360.28,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "This platform would serve as a port and a railway station."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 360.63,
+      "end": 365.454,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The tunnel would be well-ventilated if tall chimneys were built above sea level."
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 365.804,
+      "end": 371.084,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In 1860, a better plan was put forward by an Englishman, William Low."
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 371.434,
+      "end": 375.178,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He suggested that a double railway-tunnel should be built."
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 375.528,
+      "end": 381.816,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "This would solve the problem of ventilation, for if a train entered this tunnel, it would draw in fresh air behind it."
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 382.166,
+      "end": 385.934,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Forty-two years later a tunnel was actually begun."
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 386.283,
+      "end": 391.635,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "If, at the time, the British had not feared invasion, it would have been completed."
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 391.985,
+      "end": 396.833,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The world had to wait almost another 100 years for the Channel Tunnel."
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 397.183,
+      "end": 404.167,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It was officially opened on March 7,1994, finally connecting Britain to the European continent."
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 404.517,
+      "end": 407.221,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "tunnel"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组词："
+        },
+        {
+          "lang": "en",
+          "text": "tunnel"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 407.571,
+      "end": 409.179,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "tunnel"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Tunnel"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 409.529,
+      "end": 416.353,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "tunnel"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Tunnel"
+        },
+        {
+          "lang": "zh",
+          "text": "是隧道，可以在山里、地下，也可以像这一课一样在海底。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 416.702,
+      "end": 423.37,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "tunnel"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The Channel Tunnel"
+        },
+        {
+          "lang": "zh",
+          "text": "是海峡隧道，连接 Britain 和 the European continent。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 423.72,
+      "end": 431.448,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "tunnel"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里还要分清"
+        },
+        {
+          "lang": "en",
+          "text": "the English Channel"
+        },
+        {
+          "lang": "zh",
+          "text": "：它是英吉利海峡，不是电视或网络 channel。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 431.798,
+      "end": 438.102,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "tunnel"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里的 early plan 是"
+        },
+        {
+          "lang": "en",
+          "text": "a twenty-one-mile tunnel under the English Channel"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 438.452,
+      "end": 446.776,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "tunnel"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "tunnel"
+        },
+        {
+          "lang": "zh",
+          "text": "不是一个孤立单词，它背后有 geography：island, Channel, continent。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 447.126,
+      "end": 450.285,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "ventilation"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组词："
+        },
+        {
+          "lang": "en",
+          "text": "ventilation"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 450.635,
+      "end": 452.627,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "ventilation"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Ventilation"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 452.977,
+      "end": 459.217,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "ventilation"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Ventilation"
+        },
+        {
+          "lang": "zh",
+          "text": "是通风，让 fresh air 进来，让 bad air 出去。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 459.567,
+      "end": 463.847,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "ventilation"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在教室、地铁站、长隧道里，ventilation 都很重要。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 464.197,
+      "end": 473.301,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "ventilation"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "早期方案说隧道会"
+        },
+        {
+          "lang": "en",
+          "text": "be well-ventilated"
+        },
+        {
+          "lang": "zh",
+          "text": "，条件是"
+        },
+        {
+          "lang": "en",
+          "text": "tall chimneys were built above sea level"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 473.65,
+      "end": 480.442,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "ventilation"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Chimney"
+        },
+        {
+          "lang": "zh",
+          "text": "是烟囱状通风管，"
+        },
+        {
+          "lang": "en",
+          "text": "sea level"
+        },
+        {
+          "lang": "zh",
+          "text": "是海平面。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 480.792,
+      "end": 486.416,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "ventilation"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "William Low 的方案更聪明，因为 train 可以"
+        },
+        {
+          "lang": "en",
+          "text": "draw in fresh air"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 486.766,
+      "end": 493.326,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "ventilation"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一组词帮你听懂工程逻辑：platform, port, railway station, chimney, ventilation。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 493.676,
+      "end": 496.828,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "invasion"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组词："
+        },
+        {
+          "lang": "en",
+          "text": "invasion"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 497.178,
+      "end": 498.906,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "invasion"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Invasion"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 499.255,
+      "end": 506.127,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "invasion"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Invasion"
+        },
+        {
+          "lang": "zh",
+          "text": "是一支军队用武力进入另一个国家，中文可以说入侵。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 506.477,
+      "end": 514.381,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "invasion"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说"
+        },
+        {
+          "lang": "en",
+          "text": "the British had not feared invasion"
+        },
+        {
+          "lang": "zh",
+          "text": "，不是说他们随便害怕，而是有当时的历史背景。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 514.731,
+      "end": 519.091,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "invasion"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "英国是 island country，sea 本来像一层自然保护。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 519.441,
+      "end": 524.321,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "invasion"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "一条固定 tunnel 可能让人担心安全，所以这个 fear 影响了工程。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 524.671,
+      "end": 530.294,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "invasion"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还要注意"
+        },
+        {
+          "lang": "en",
+          "text": "fear"
+        },
+        {
+          "lang": "zh",
+          "text": "可以作动词：害怕、担心。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 530.644,
+      "end": 541.092,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "invasion"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后"
+        },
+        {
+          "lang": "en",
+          "text": "officially opened"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "connect"
+        },
+        {
+          "lang": "zh",
+          "text": "把故事收回来：隧道最终连接了 Britain 和 the European continent。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 541.442,
+      "end": 546.362,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法不要从大表格开始，而是从三个工程故事任务开始。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 546.712,
+      "end": 554.184,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一，过去计划里的未来："
+        },
+        {
+          "lang": "en",
+          "text": "This platform would serve as a port and a railway station"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 554.534,
+      "end": 564.313,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里"
+        },
+        {
+          "lang": "en",
+          "text": "would"
+        },
+        {
+          "lang": "zh",
+          "text": "不是 would like，而是 1858 年的人在说：如果平台建成，它将会用作港口和火车站。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 564.663,
+      "end": 569.311,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "同一类还有："
+        },
+        {
+          "lang": "en",
+          "text": "This would solve the problem of ventilation"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 569.661,
+      "end": 575.565,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二，工程方案常用被动："
+        },
+        {
+          "lang": "en",
+          "text": "a better plan was put forward"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 575.915,
+      "end": 579.715,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "重点放在 plan 身上，而不是只盯着谁提出。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 580.065,
+      "end": 587.045,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有："
+        },
+        {
+          "lang": "en",
+          "text": "a double railway-tunnel should be built"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "tall chimneys were built above sea level"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 587.394,
+      "end": 593.458,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Should be built"
+        },
+        {
+          "lang": "zh",
+          "text": "是“应该被建造”，很适合写设计方案。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 593.808,
+      "end": 602.4,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三，想象一个没有发生的过去："
+        },
+        {
+          "lang": "en",
+          "text": "If, at the time, the British had not feared invasion, it would have been completed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 602.75,
+      "end": 608.31,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "真实历史是：they feared invasion, so it was not completed then。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 608.66,
+      "end": 618.52,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "英语用"
+        },
+        {
+          "lang": "en",
+          "text": "had not feared"
+        },
+        {
+          "lang": "zh",
+          "text": "加"
+        },
+        {
+          "lang": "en",
+          "text": "would have been completed"
+        },
+        {
+          "lang": "zh",
+          "text": "，表达“过去本来可能发生，但没有发生”。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 618.869,
+      "end": 633.549,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天最值得带走的结构是："
+        },
+        {
+          "lang": "en",
+          "text": "would serve as"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "would solve"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "was put forward"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "should be built"
+        },
+        {
+          "lang": "zh",
+          "text": "，以及"
+        },
+        {
+          "lang": "en",
+          "text": "If... had not..., it would have been..."
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 633.899,
+      "end": 639.619,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把海峡隧道换成一个安全的小场景："
+        },
+        {
+          "lang": "en",
+          "text": "My Tunnel Plan"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 639.969,
+      "end": 644.409,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你和同学在 science fair 上展示一个 model underground tunnel。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 644.758,
+      "end": 650.838,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它不是给真人冒险用的，而是说明一个 plan 怎样 connect two places。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 651.188,
+      "end": 661.644,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师会问：你的 tunnel 连接哪里？platform 会"
+        },
+        {
+          "lang": "en",
+          "text": "serve as"
+        },
+        {
+          "lang": "zh",
+          "text": "什么？为什么需要"
+        },
+        {
+          "lang": "en",
+          "text": "ventilation"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 661.994,
+      "end": 668.818,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你还要提出一个 safety idea，用"
+        },
+        {
+          "lang": "en",
+          "text": "should be built"
+        },
+        {
+          "lang": "zh",
+          "text": "说出改进。"
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 669.168,
+      "end": 677.888,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后说明这个 plan 会"
+        },
+        {
+          "lang": "en",
+          "text": "solve the problem"
+        },
+        {
+          "lang": "zh",
+          "text": "of something practical，比如下雨天走路不方便。"
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "start": 678.237,
+      "end": 684.877,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，你要用 word bank 补完整 5 个空，像 young engineer 一样解释方案。"
+        }
+      ]
+    },
+    {
+      "i": 103,
+      "start": 685.227,
+      "end": 692.547,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "start": 692.897,
+      "end": 700.457,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓地理线：Britain 是 island，English Channel 隔开 Britain 和 the European continent。"
+        }
+      ]
+    },
+    {
+      "i": 105,
+      "start": 700.807,
+      "end": 710.847,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓工程线：platform would serve as a port and railway station；chimneys help ventilation；double railway-tunnel would draw in fresh air。"
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "start": 711.197,
+      "end": 721.437,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后抓历史线：work was actually begun，但 fear of invasion 让工程停下；world waited almost another 100 years。"
+        }
+      ]
+    },
+    {
+      "i": 107,
+      "start": 721.787,
+      "end": 735.107,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，② 完形，③ 中译英，④ 英译中，⑤ 拓展阅读，⑥ 句式仿写，⑦ 默写，一条线做下来。"
+        }
+      ]
+    },
+    {
+      "i": 108,
+      "start": 735.457,
+      "end": 746.033,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "做完以后，爸爸的邮箱里就会收到你今天的成绩。记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "a great idea needs imagination, engineering, safety, and trust"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 64
+}

@@ -1,0 +1,157 @@
+{
+  "lesson_id": 64,
+  "reading": {
+    "title": "The School Tunnel Model",
+    "intro_zh": "这篇短文把 Lesson 64 的工程计划换到 science fair：学生提出一个模型隧道，用 platform 说明 station 功能，用 ventilation 和 chimneys 说明空气流动，再用 double tunnel 改进安全。重点练 tunnel、platform、serve as、ventilation、chimney、put forward、double、draw in、connect 和 solve the problem。",
+    "word_bank": [
+      "tunnel",
+      "platform",
+      "serve as",
+      "ventilation",
+      "chimney",
+      "sea level",
+      "put forward",
+      "double",
+      "draw in",
+      "connect"
+    ],
+    "passage": [
+      "For the school science fair, Mia put forward a plan for a model tunnel. Her tunnel would connect the library and the science building, so students could imagine a safe path on rainy days. In the centre of the model, a small platform would serve as a station where tiny trains could stop. Mia knew that a long tunnel needed ventilation, so she added two clear chimneys above the model sea level. They would draw in fresh air and show visitors how air could move. After testing the model, her teammate suggested a double tunnel. One tunnel could be used for trains going out, and the other for trains coming back. This better plan would solve the problem of crowding and make the model easier to explain."
+    ],
+    "questions": [
+      {
+        "id": "places_connected",
+        "question": "What two places would Mia's model tunnel connect?",
+        "options": [
+          "The library and the science building.",
+          "The dining hall and the playground.",
+          "Britain and the European continent.",
+          "A port and a real railway station under the sea."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 Her tunnel would connect the library and the science building。"
+      },
+      {
+        "id": "platform_function",
+        "question": "What would the small platform serve as?",
+        "options": [
+          "A chimney above sea level.",
+          "A station where tiny trains could stop.",
+          "A place for storing books.",
+          "A double tunnel for rainy days."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文说 a small platform would serve as a station where tiny trains could stop。"
+      },
+      {
+        "id": "ventilation_needed",
+        "question": "Why did Mia add two clear chimneys?",
+        "options": [
+          "To make the model look like a library shelf.",
+          "To stop visitors from asking questions.",
+          "To show how fresh air could move through the tunnel.",
+          "To turn the platform into a classroom."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "她知道 long tunnel needed ventilation，所以 chimneys would draw in fresh air。"
+      },
+      {
+        "id": "improvement_put_forward",
+        "question": "What improvement did Mia's teammate suggest?",
+        "options": [
+          "A higher platform with readable labels.",
+          "A plan without ventilation.",
+          "A real tunnel under the school.",
+          "A double tunnel."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "测试模型后，her teammate suggested a double tunnel。"
+      },
+      {
+        "id": "problem_solved",
+        "question": "What problem would the better plan solve?",
+        "options": [
+          "It would solve the problem of crowding.",
+          "It would solve the problem of too much homework.",
+          "It would solve the problem of missing chimneys.",
+          "It would solve the problem of old history dates."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "结尾说 This better plan would solve the problem of crowding。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 64 的工程和历史句式：with a plan for 用来介绍项目，would serve as 说明用途，would be well-ventilated if...were built 说明条件和结果，was put forward by 用被动写方案提出者，If...had not..., it would have been... 用来想象没有发生的过去。",
+    "patterns": [
+      {
+        "id": "with_a_plan_for",
+        "title": "with a plan for ...",
+        "source": "arrived in England with a plan for a twenty-one-mile tunnel",
+        "focus_zh": "with a plan for 可以把人物和项目自然连在一起，适合介绍一个设计、工程或活动方案。",
+        "task_zh": "仿写一句：写一个学生、engineer 或 team 带着某个模型、桥、隧道或学校项目计划来到展示现场。",
+        "must_include": [
+          "with a plan for"
+        ],
+        "min_words": 10,
+        "sample": "Mia came to the science fair with a plan for a model tunnel.",
+        "tip_zh": "with a plan for 后面接名词短语，不要急着写完整句子。"
+      },
+      {
+        "id": "would_serve_as",
+        "title": "would serve as ...",
+        "source": "This platform would serve as a port and a railway station.",
+        "focus_zh": "would serve as 用来说明一个东西在计划里的用途，相当于“将会用作……”。",
+        "task_zh": "仿写一句：写 platform、room、table 或 small station 在你的方案里会起什么作用。",
+        "must_include": [
+          "would serve as"
+        ],
+        "min_words": 9,
+        "sample": "This small platform would serve as a station for the model train.",
+        "tip_zh": "serve as 后面直接接用途，比如 a station、a safe path、a meeting place。"
+      },
+      {
+        "id": "well_ventilated_if",
+        "title": "would be well-ventilated if ... were built",
+        "source": "The tunnel would be well-ventilated if tall chimneys were built above sea level.",
+        "focus_zh": "这个结构用条件说明工程效果：如果某些东西被建好，系统就会通风良好。",
+        "task_zh": "仿写一句：写 tunnel、classroom 或 model 会通风良好，条件是 vents、windows 或 chimneys 被建好。",
+        "must_include": [
+          "would be well-ventilated",
+          "were built"
+        ],
+        "min_words": 12,
+        "sample": "The model tunnel would be well-ventilated if two clear chimneys were built above it.",
+        "tip_zh": "if 后面用 were built，强调“被建造出来”这个条件。"
+      },
+      {
+        "id": "was_put_forward_by",
+        "title": "was put forward by ...",
+        "source": "a better plan was put forward by an Englishman, William Low",
+        "focus_zh": "was put forward by 用被动语态介绍一个方案由谁提出，语气更像正式说明。",
+        "task_zh": "仿写一句：写一个 better plan、safer idea 或 new suggestion 是由某人提出的。",
+        "must_include": [
+          "was put forward by"
+        ],
+        "min_words": 10,
+        "sample": "A safer plan was put forward by our science teacher.",
+        "tip_zh": "主语通常是 plan、idea、suggestion；by 后面写提出者。"
+      },
+      {
+        "id": "if_had_not_would_have_been",
+        "title": "If ... had not ..., it would have been ...",
+        "source": "If, at the time, the British had not feared invasion, it would have been completed.",
+        "focus_zh": "这个句式用来想象一个不同的过去，真实情况是那件事没有发生。",
+        "task_zh": "仿写一句：写如果某个问题当时没有出现，project、model 或 repair 本来会被完成。",
+        "must_include": [
+          "If",
+          "had not",
+          "would have been"
+        ],
+        "min_words": 12,
+        "sample": "If the team had not lost the parts, the model would have been completed.",
+        "tip_zh": "If 从句写 had not done，主句写 would have been done，表达“过去本来会……”。"
+      }
+    ]
+  }
+}

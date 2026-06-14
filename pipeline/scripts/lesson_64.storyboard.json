@@ -1,0 +1,23 @@
+{
+  "lesson_id": 64,
+  "title": "The Channel Tunnel",
+  "visual_consistency": "A continuous semi-realistic educational illustration style with a recurring sea-map and undersea tunnel motif across all four frames. Use cool sea blues, muted engineering greys, and warm human details. Early frames use nineteenth-century engineering paper and model-table atmosphere; the final frame introduces a clean modern undersea train tunnel. Aime Thome de Gamond appears as a nineteenth-century French engineer, middle-aged, neat moustache, dark formal coat, carrying rolled plans. William Low appears as a nineteenth-century English engineer, middle-aged, calm technical presence, formal suit. Images must contain no readable text, no labels, no captions, no signs, no plaques, no readable maps, no speech bubbles, and no fake writing.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Frame 1 of a continuous Channel Tunnel engineering history story: a simplified map-table view of Britain, France, and the English Channel shown as land shapes and sea only, with no readable labels or writing. A nineteenth-century French engineer, middle-aged with a neat moustache, dark formal coat, and rolled plans, arrives in England beside the map table. A faint route line crosses under the sea as a visual idea, not as a labeled diagram. Semi-realistic educational illustration, curious and grounded mood, cool sea blues and muted engineering greys, no readable country names, no captions, no signs, no plaques, no speech bubbles, no UI panels, no fake writing."
+    },
+    {
+      "frame": 2,
+      "prompt": "Frame 2 of the same continuous Channel Tunnel story: a child-readable undersea cross-section of the early plan, showing the sea surface above, a simple tunnel idea below, a central offshore platform, and tall chimney-like ventilation shafts rising above the water. Keep the nineteenth-century engineering model-table feel with plain rolled plans nearby, but do not show readable marks on them. The same cool sea blue and muted grey palette continues. Educational semi-realistic illustration, clear and simple, no readable labels, no map words, no captions, no signs, no plaques, no speech bubbles, no fake writing."
+    },
+    {
+      "frame": 3,
+      "prompt": "Frame 3 of the same continuous Channel Tunnel story: William Low, a calm middle-aged nineteenth-century English engineer in a formal suit, presents a cleaner double railway tunnel cross-section model. A small train enters one tunnel while subtle non-text airflow arrows show fresh air being drawn behind it. The model and people should feel realistic and understandable for a child, with the sea-map and tunnel motif still visible. Semi-realistic educational illustration, technical progress mood, no readable labels, no engineering notes, no captions, no signs, no plaques, no speech bubbles, no fake writing."
+    },
+    {
+      "frame": 4,
+      "prompt": "Frame 4 of the same continuous Channel Tunnel story: a split-time but calm composition. On one side, early tunnel works are paused with worried nineteenth-century officials near a quiet construction entrance, suggesting security anxiety without soldiers or frightening war imagery. On the other side, a modern train passes through a clean undersea railway tunnel that visually connects the island side and the continent side. The tunnel and route are the protagonist; modern travelers, if present, are small and secondary. Hopeful educational illustration, cool sea blues, muted greys, warm final light, no readable labels, no dates, no captions, no signs, no plaques, no speech bubbles, no fake writing."
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "lesson_id": 64,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按工程时间线跟读：1858 年法国工程师带着 Channel Tunnel 计划来到英国；平台 would serve as a port and railway station；chimneys 让 tunnel well-ventilated；William Low 的 double railway-tunnel was put forward；最后用 had not feared invasion 和 officially opened 读出历史延迟与最终连接。读的时候注意 Aime Thome de Gamond、twenty-one-mile、would serve as、well-ventilated、was put forward、should be built、feared invasion 和 European continent。",
+  "sentences": [
+    {
+      "id": "l64_s1",
+      "text": "In 1858, a French engineer, Aime Thome de Gamond, arrived in England with a plan for a twenty-one-mile tunnel under the English Channel.",
+      "focus_zh": "中文锚点：1858 年，一位法国工程师带着穿越英吉利海峡的隧道计划来到英国。长句分成 with a plan / for a tunnel / under the English Channel 三段，专名自然读过即可。",
+      "start": 342.54,
+      "end": 350.868,
+      "focus_words": [
+        "In 1858",
+        "Aime Thome de Gamond",
+        "with a plan",
+        "twenty-one-mile tunnel",
+        "under the English Channel"
+      ]
+    },
+    {
+      "id": "l64_s2",
+      "text": "He said that it would be possible to build a platform in the centre of the Channel.",
+      "focus_zh": "中文锚点：他认为可以在海峡中央建一座平台。Would be possible 要连成一个想法，in the centre of the Channel 说明位置。",
+      "start": 351.218,
+      "end": 356.042,
+      "focus_words": [
+        "would be possible",
+        "build a platform",
+        "in the centre of",
+        "the Channel"
+      ]
+    },
+    {
+      "id": "l64_s3",
+      "text": "This platform would serve as a port and a railway station.",
+      "focus_zh": "中文锚点：这个平台会用作港口和火车站。Would serve as 是本课核心结构，后面两个用途 port 和 railway station 要读清楚。",
+      "start": 356.392,
+      "end": 360.28,
+      "focus_words": [
+        "This platform",
+        "would serve as",
+        "a port",
+        "a railway station"
+      ]
+    },
+    {
+      "id": "l64_s4",
+      "text": "The tunnel would be well-ventilated if tall chimneys were built above sea level.",
+      "focus_zh": "中文锚点：如果在海平面以上建造高烟囱，隧道就会通风良好。Well-ventilated 四个音节稳住，if 后面是条件。",
+      "start": 360.63,
+      "end": 365.454,
+      "focus_words": [
+        "would be well-ventilated",
+        "if tall chimneys",
+        "were built",
+        "above sea level"
+      ]
+    },
+    {
+      "id": "l64_s5",
+      "text": "In 1860, a better plan was put forward by an Englishman, William Low.",
+      "focus_zh": "中文锚点：1860 年，一个英国人 William Low 提出了更好的计划。Was put forward 是被动表达，William Low 作为专名自然收尾。",
+      "start": 365.804,
+      "end": 371.084,
+      "focus_words": [
+        "In 1860",
+        "a better plan",
+        "was put forward",
+        "William Low"
+      ]
+    },
+    {
+      "id": "l64_s6",
+      "text": "He suggested that a double railway-tunnel should be built.",
+      "focus_zh": "中文锚点：他建议建一条双轨铁路隧道。Suggested that 后面接方案内容，should be built 要读出“应该被建造”。",
+      "start": 371.434,
+      "end": 375.178,
+      "focus_words": [
+        "He suggested that",
+        "double railway-tunnel",
+        "should be built"
+      ]
+    },
+    {
+      "id": "l64_s7",
+      "text": "If, at the time, the British had not feared invasion, it would have been completed.",
+      "focus_zh": "中文锚点：如果当时英国人没有害怕入侵，隧道本来会完成。If 后面轻停，had not feared 和 would have been completed 搭配表达没有发生的过去。",
+      "start": 386.283,
+      "end": 391.635,
+      "focus_words": [
+        "If, at the time",
+        "had not feared invasion",
+        "would have been completed"
+      ]
+    },
+    {
+      "id": "l64_s8",
+      "text": "It was officially opened on March 7,1994, finally connecting Britain to the European continent.",
+      "focus_zh": "中文锚点：它于 1994 年 3 月 7 日正式开通，最终把英国和欧洲大陆连在一起。Officially opened 稳住重音，finally connecting 读出最终实现的感觉。",
+      "start": 397.183,
+      "end": 404.167,
+      "focus_words": [
+        "officially opened",
+        "March 7,1994",
+        "finally connecting",
+        "Britain",
+        "European continent"
+      ]
+    }
+  ]
+}
