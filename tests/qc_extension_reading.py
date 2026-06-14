@@ -8,11 +8,15 @@ manual review step in the plan.
 """
 import json, re, sys
 from collections import Counter
+from pathlib import Path
 
 def check(n):
-    path = f"web/data/extension/lesson_{n}.json"
-    raw = open(path, encoding="utf-8").read()
-    d = json.loads(raw)
+    path = Path(__file__).resolve().parent.parent / "web" / "data" / "extension" / f"lesson_{n}.json"
+    try:
+        raw = open(path, encoding="utf-8").read()
+        d = json.loads(raw)
+    except (OSError, json.JSONDecodeError) as exc:
+        return [f"cannot load file: {exc}"]
     errs = []
 
     # round-trip cleanliness (surgical diffs)
@@ -50,7 +54,7 @@ def check(n):
         if len(opts) != 4:
             errs.append(f"Q{i+1} must have 4 options")
         idx = q.get("answer_index")
-        if not isinstance(idx, int) or not (0 <= idx < len(opts)):
+        if not isinstance(idx, int) or isinstance(idx, bool) or not (0 <= idx < len(opts)):
             errs.append(f"Q{i+1} answer_index invalid")
         else:
             ai.append(idx)
