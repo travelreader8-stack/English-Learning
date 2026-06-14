@@ -1,101 +1,96 @@
 {
   "lesson_id": 62,
   "reading": {
-    "title": "Green on the School Slope",
-    "intro_zh": "这篇短文把 Lesson 62 的“火后裸露土壤需要快速恢复”换到 school garden 的小山坡：小火后留下 bare slope，heavy rain 可能 wash away soil，学生和志愿者 scatter fast-growing seed，roots 帮助 protect the slope。重点练习 bare slope、wash away、soil、fast-growing seed、scatter、take root、green shoots、protect、volunteers 和 at last。",
-    "word_bank": [
-      "bare slope",
-      "wash away",
-      "soil",
-      "fast-growing seed",
-      "scatter",
-      "take root",
-      "green shoots",
-      "protect",
-      "volunteers",
-      "at last"
-    ],
+    "title": "When the Fire Is Out: Rescuing Burned Land",
+    "intro_zh": "这篇延展阅读讲的是真实的火后土地修复科学：野火扑灭后，裸露的山坡如何因暴雨引发泥石流，以及管理者怎样通过覆盖、播种和植被恢复来稳固土壤。内容改编自美国国家公园管理局（U.S. National Park Service）的权威资料，难度提升到 B2+。",
+    "source": {
+      "title": "Post-Fire Rehabilitation and Recovery - Wildland Fire Program",
+      "publisher": "U.S. National Park Service",
+      "url": "https://www.nps.gov/orgs/1965/post-fire-rehabilitation-and-recovery.htm"
+    },
     "passage": [
-      "After a small fire near the school garden, one side of the bank was left as a bare slope. No one was hurt, but the gardener was worried because dark clouds were coming. Without roots, heavy rain could wash away the loose soil and carry mud onto the path below. On Saturday morning, several students and volunteers helped him scatter fast-growing seed over the ground. They pressed the seed gently into the soil and covered the slope with thin straw so birds would not eat it all. For a few days, nothing seemed to change. Then, at last, tiny green shoots appeared. The new grass had begun to take root, and the first green patches helped protect the slope."
+      "When a wildfire is finally extinguished, the danger to the land is far from over. Intense heat strips away the protective layer of plants whose roots once held the soil in place, and it can even bake the ground into a water-repellent, or hydrophobic, crust. On such scorched slopes, the first heavy rains no longer soak in. Instead, they rush downhill as runoff, tearing loose ash and sediment, triggering floods and fast-moving debris flows that can bury roads, damage homes, and clog the reservoirs that supply communities with drinking water.",
+      "To confront these threats, land managers in the United States deploy a rapid program known as Burned Area Emergency Response, or BAER. Specialists assess a burned area within days and decide whether emergency conditions exist before the next storms arrive. Their treatments are designed to stabilize the soil and slow the movement of water, sediment, and debris. Crews spread mulch across vulnerable hillslopes to blunt the impact of raindrops and reduce runoff, and they sow seed, favoring native species that will not crowd out the local ecosystem with invasive plants.",
+      "These emergency measures, however, buy only time. Lasting stability depends on the gradual return of living vegetation, whose spreading roots knit the soil together and anchor the slope against erosion. Longer-term efforts, carried out under restoration programs, nurture this recovery until a resilient ecosystem reestablishes itself. Until that green cover is dense enough, a burned watershed remains fragile, and a single downpour can undo months of patient repair."
     ],
     "questions": [
       {
-        "id": "damage_happened",
-        "question": "What damage had happened near the school garden?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "A small fire left one side of the bank as a bare slope.",
-          "A plane dropped seed over a large forest.",
-          "A flood destroyed every classroom in the school.",
-          "A gardener cut down all the mature trees for fun."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文开头说 After a small fire near the school garden, one side of the bank was left as a bare slope。"
-      },
-      {
-        "id": "rain_danger",
-        "question": "Why was heavy rain dangerous after the fire?",
-        "options": [
-          "It would make the volunteers forget the garden path.",
-          "It would stop all green shoots from ever growing.",
-          "It could wash away the loose soil because there were no roots.",
-          "It could turn the seed bags into readable signs."
+          "How firefighters use aeroplanes to put out forest fires.",
+          "Why native grasses grow faster than imported grasses.",
+          "Why burned land stays dangerous and how people work to stabilize it.",
+          "How reservoirs are built to store a community's drinking water."
         ],
         "answer_index": 2,
-        "explanation_zh": "没有 roots 抓住土，heavy rain could wash away the loose soil，这就是危险。"
+        "explanation_zh": "全文围绕“火后土地为何依然危险”以及“人们如何通过应急处理和植被恢复来稳固土壤”展开，选项 C 概括了主旨。"
       },
       {
-        "id": "solution_used",
-        "question": "What solution did the students and volunteers use?",
+        "id": "detail_baer",
+        "question": "According to the passage, what does the BAER program do?",
         "options": [
-          "They painted the slope black and left it alone.",
-          "They scattered fast-growing seed over the ground.",
-          "They moved the path to another city.",
-          "They waited for tall trees to grow in one afternoon."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "周六上午，students and volunteers helped him scatter fast-growing seed over the ground。"
-      },
-      {
-        "id": "why_seed_helped",
-        "question": "Why did the grass seed help?",
-        "options": [
-          "The grass made the clouds disappear immediately.",
-          "The grass covered all signs with readable labels.",
-          "The grass turned the soil into stone.",
-          "The grass could take root and help protect the slope."
-        ],
-        "answer_index": 3,
-        "explanation_zh": "结尾说 new grass had begun to take root，first green patches helped protect the slope。"
-      },
-      {
-        "id": "hopeful_sign",
-        "question": "What hopeful sign appeared at last?",
-        "options": [
-          "Tiny green shoots and the first green patches appeared.",
-          "A large forest grew back overnight.",
-          "The fire started again on the bank.",
-          "The path below was covered with mud."
+          "Specialists assess a burned area within days and act before the next storms.",
+          "Volunteers plant tall trees that grow back in a single season.",
+          "Engineers immediately rebuild every home damaged by the fire.",
+          "Scientists wait several years before deciding whether to act."
         ],
         "answer_index": 0,
-        "explanation_zh": "短文说 Then, at last, tiny green shoots appeared，并且 first green patches helped protect the slope。"
+        "explanation_zh": "文中说 Specialists assess a burned area within days and decide whether emergency conditions exist before the next storms arrive，对应选项 A。"
+      },
+      {
+        "id": "cause_effect",
+        "question": "Why do the first heavy rains cause runoff and debris flows on scorched slopes?",
+        "options": [
+          "Because crews have already spread too much mulch on the ground.",
+          "Because native seed quickly crowds out the falling rain.",
+          "Because new roots pull the rainwater deep underground.",
+          "Because the burned, water-repellent ground no longer lets the rain soak in."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "文中说火把地面烤成 water-repellent crust，第一场暴雨 no longer soak in，而是 rush downhill as runoff，引发泥石流，所以正确答案是 D。"
+      },
+      {
+        "id": "inference",
+        "question": "What can we infer about the emergency treatments described in the passage?",
+        "options": [
+          "They permanently fix the slope without any need for vegetation.",
+          "They protect the slope temporarily but cannot replace returning plant life.",
+          "They are mainly meant to improve the taste of drinking water.",
+          "They work only on slopes that were never touched by fire."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中说应急措施 buy only time，真正的 lasting stability depends on the gradual return of living vegetation，可推断应急处理只是临时保护，无法替代植被恢复，故选 B。"
+      },
+      {
+        "id": "vocab_anchor",
+        "question": "In the last paragraph, what does the word \"anchor\" most nearly mean in \"anchor the slope against erosion\"?",
+        "options": [
+          "to flood",
+          "to photograph",
+          "to hold firmly in place",
+          "to set on fire"
+        ],
+        "answer_index": 2,
+        "explanation_zh": "anchor the slope 指植物的根系把斜坡“牢牢固定住”，抵抗侵蚀，所以 anchor 意为 to hold firmly in place（固定、稳固），选 C。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 62 的恢复故事句式：用 had been...before 写长时间努力后成功，用 threatened...with 写某个地方或情况带来的危险，用 not only...but...as well 写双重后果，用 had at last been put out 写被动完成，用 had already taken root 写后来事件发生前已经出现的希望。",
+    "intro_zh": "今天把 Lesson 62 火后恢复的五个句式提升到 B2+ 难度：用 had been...before 写长时间努力后的成功，用 threatened...with 写灾害带来的威胁，用 not only...but...as well 写双重且更严重的后果，用 had at last been put out 写被动完成的转折，用 had already taken root 写关键时刻之前已经出现的成果。结构不变，但要求更长、更抽象的句子。",
     "patterns": [
       {
         "id": "had_been_before",
         "title": "had been ... for nearly ... before ...",
         "source": "Firemen had been fighting the forest fire for nearly three weeks before they could get it under control.",
         "focus_zh": "had been...before... 用来写一个动作在过去某个成功时刻之前已经持续了很久。",
-        "task_zh": "仿写一句：写消防员、志愿者、学生或 gardener 持续处理一个问题，过了一段时间才成功。",
+        "task_zh": "仿写一句：写应急队伍、研究人员或管理者长时间应对一个抽象或大规模的灾后难题，过了一段时间某个关键时刻才到来或成功。",
         "must_include": [
           "had been",
           "before"
         ],
-        "min_words": 12,
-        "sample": "The volunteers had been clearing the muddy path for nearly two hours before they finished.",
+        "min_words": 18,
+        "sample": "The emergency crews had been stabilizing the scorched hillsides for nearly two weeks before the first major storm finally arrived.",
         "tip_zh": "had been 后面接 doing；before 后面写终于发生的结果。"
       },
       {
@@ -103,13 +98,13 @@
         "title": "threatened ... with ...",
         "source": "The hills threatened the surrounding villages with destruction.",
         "focus_zh": "threatened...with... 可以写某个地方、天气或情况用某种危险威胁人或地点。",
-        "task_zh": "仿写一句：写 heavy rain、a loose slope 或 a broken wall 对 school garden、path 或 houses 造成威胁。",
+        "task_zh": "仿写一句：写裸露的山坡、被烧毁的流域或不稳定的土壤如何用洪水、泥石流或淤积等抽象危险威胁下游社区或水源。",
         "must_include": [
           "threatened",
           "with"
         ],
-        "min_words": 10,
-        "sample": "The bare slope threatened the garden path with mud and water.",
+        "min_words": 16,
+        "sample": "The barren, water-repellent slopes above the valley threatened the downstream town with sudden floods and destructive debris flows.",
         "tip_zh": "threatened 后面接被威胁对象；with 后面写具体危险。"
       },
       {
@@ -117,13 +112,13 @@
         "title": "not only ... but ... as well",
         "source": "Heavy rain would not only wash away the soil but would cause serious floods as well.",
         "focus_zh": "not only...but...as well 用来写两层结果，第二层通常更严重或更进一步。",
-        "task_zh": "仿写一句：写 rain、wind 或 careless repair 不只造成一个问题，还会造成另一个问题。",
+        "task_zh": "仿写一句：写一场暴雨、强风或一次草率的修复不仅造成一种损害，还会引发另一种更深远、更抽象的后果。",
         "must_include": [
           "not only",
           "as well"
         ],
-        "min_words": 12,
-        "sample": "Heavy rain would not only wash away the soil but would block the path as well.",
+        "min_words": 18,
+        "sample": "After the blaze, a single downpour could not only strip the exposed slopes of their soil but choke the reservoirs below with ash as well.",
         "tip_zh": "not only 后面写第一个结果；but 后面写第二个结果，句尾加 as well。"
       },
       {
@@ -131,12 +126,12 @@
         "title": "had at last been put out",
         "source": "When the fire had at last been put out...",
         "focus_zh": "had at last been put out 是 past perfect passive，强调一件事经过努力终于被完成。",
-        "task_zh": "仿写一句：写火、small flame 或 dangerous problem 终于被处理掉以后，人们开始修复环境。",
+        "task_zh": "仿写一句：写野火、危险隐患或一场危机终于被处理掉之后，专业人员或管理者随即展开评估与修复行动。",
         "must_include": [
           "had at last been put out"
         ],
-        "min_words": 12,
-        "sample": "When the small fire had at last been put out, we checked the garden slope.",
+        "min_words": 18,
+        "sample": "When the wildfire had at last been put out, specialists hurried in to assess the damage before the rains returned.",
         "tip_zh": "这个短语整体保留；后面接逗号，再写下一步行动。"
       },
       {
@@ -144,12 +139,12 @@
         "title": "had already taken root",
         "source": "By then, however, in many places the grass had already taken root.",
         "focus_zh": "had already taken root 写后来事件发生前，好的结果已经先出现了。",
-        "task_zh": "仿写一句：写雨来之前、老师检查之前或 open day 之前，grass 或 idea 已经扎根。",
+        "task_zh": "仿写一句：写在最猛烈的暴雨、严峻考验或某个关键期限到来之前，新植被或某种修复成果已经在斜坡或流域上扎根。",
         "must_include": [
           "had already taken root"
         ],
-        "min_words": 10,
-        "sample": "By the time the rain came, the new grass had already taken root.",
+        "min_words": 18,
+        "sample": "By the time the heaviest storms swept through that autumn, the newly sown vegetation had already taken root across the slope.",
         "tip_zh": "By the time 或 By then 能帮助你标出“到那个时候为止”。"
       }
     ]
