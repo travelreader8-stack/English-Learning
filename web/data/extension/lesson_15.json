@@ -1,101 +1,96 @@
 {
   "lesson_id": 15,
   "reading": {
-    "title": "Good News From the Coach",
-    "intro_zh": "这篇短文不复述 Mr. Harmsworth 和 salary，而是换到校队办公室：学生被叫去见 coach，以为会被换下，结果得到 junior captain 的好消息。重点回收 secretary、nervous、weak voice、interrupt、could not afford、my turn had come、extra 和 good news。",
-    "word_bank": [
-      "secretary",
-      "nervous",
-      "office",
-      "weak voice",
-      "interrupt",
-      "budget",
-      "could not afford",
-      "my turn had come",
-      "extra",
-      "good news"
-    ],
+    "title": "Why Bad News Grips Us",
+    "intro_zh": "本文介绍心理学中的“消极偏误”(negativity bias)——为什么大脑总是先为坏消息做准备，正好对应课文中主人公被叫去谈话时的紧张心理。内容改编自 PNAS（美国国家科学院院刊）上 Soroka、Fournier 与 Nir 的一项跨国研究。",
+    "source": {
+      "title": "Cross-national evidence of a negativity bias in psychophysiological reactions to news",
+      "publisher": "Proceedings of the National Academy of Sciences (PNAS)",
+      "url": "https://www.pnas.org/doi/10.1073/pnas.1908369116"
+    },
     "passage": [
-      "On Friday afternoon, the school secretary told me that Coach Lin would see me after practice. I felt very nervous when I went into her office. She did not look up from a pile of forms. After I had sat down, she said that the team budget was very small and the club could not afford to send everyone to the city match. Three students had already left the team. I thought my turn had come. \"Coach Lin,\" I said in a weak voice, but she raised a hand. \"Don't interrupt,\" she said. Then she smiled and told me the good news: I would receive an extra responsibility as junior captain for the city match."
+      "When someone in authority calls us in and speaks in a serious tone, our minds rarely rush toward the cheerful explanation. Instead, we brace for the worst. Psychologists call this the negativity bias: the well-documented finding that human cognition gives disproportionate weight to threatening or unpleasant information. The explanation is thought to be evolutionary. Ancestors who reacted swiftly to signs of danger were more likely to survive and pass on their genes, so the brain came to treat a possible threat as more urgent than an equally probable reward.",
+      "Researchers have not been content merely to assert this pattern; they have measured it. In a study published in the Proceedings of the National Academy of Sciences, Stuart Soroka and his colleagues recruited participants across seventeen countries on six continents and recorded their bodily responses while they watched real video news. By tracking subtle changes in skin conductance and heart-rate variability, the team found that, on average, people were more physiologically aroused by negative stories than by positive ones. This reaction proved remarkably consistent worldwide, lending unusually broad support to a phenomenon once demonstrated only in small Anglo-American samples.",
+      "Yet the findings were not entirely bleak. Alongside the shared bias, the researchers observed considerable individual variation: some participants responded just as strongly to encouraging news as to alarming reports. That diversity implies that the journalistic maxim \"if it bleeds, it leads\" may overstate our appetite for gloom. Understanding the negativity bias cannot erase the dread we feel when a coach or a manager asks us to sit down, but it can remind us that our anxious forecast is an inherited reflex, not a reliable prediction."
     ],
     "questions": [
       {
-        "id": "called_in",
-        "question": "Why did the narrator go to Coach Lin's office?",
+        "id": "main_idea",
+        "question": "What is the main idea of the passage?",
         "options": [
-          "The school secretary said that Coach Lin would see the narrator after practice.",
-          "The narrator wanted to borrow a pile of forms.",
-          "Coach Lin asked everyone to clean the gym.",
-          "The team had already left for the city match."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "开头说 the school secretary told me that Coach Lin would see me after practice，所以主人公去了教练办公室。"
-      },
-      {
-        "id": "nervous_reason",
-        "question": "Why did the narrator feel nervous?",
-        "options": [
-          "Because the office was too noisy.",
-          "Because Coach Lin looked serious and did not look up from her forms.",
-          "Because the narrator had never played in a match before.",
-          "Because the secretary forgot the narrator's name."
+          "News organizations deliberately invent negative stories to frighten viewers.",
+          "Humans have a built-in tendency to give negative information extra weight, a bias now confirmed across many countries.",
+          "People in every country dislike watching the news entirely.",
+          "Scientists have proven that good news is more memorable than bad news."
         ],
         "answer_index": 1,
-        "explanation_zh": "主人公进办公室时很紧张，Coach Lin 还一直低头看表格，这让气氛更像坏消息。"
+        "explanation_zh": "全文围绕“消极偏误”展开：人脑天生更重视负面信息，并由一项跨国研究证实，所以选项 B 是主旨。"
       },
       {
-        "id": "bad_news_clues",
-        "question": "Which details made the news sound bad at first?",
+        "id": "study_detail",
+        "question": "How did Soroka and his colleagues measure people's reactions to the news?",
         "options": [
-          "The coach smiled and gave the narrator a prize.",
-          "The secretary invited the whole team to a party.",
-          "The budget was small, the club could not afford to send everyone, and three students had left.",
-          "The city match had already been won."
+          "By asking participants to fill out written questionnaires after each story.",
+          "By counting how many news articles each person chose to read.",
+          "By recording bodily signals such as skin conductance and heart-rate variability.",
+          "By interviewing journalists in seventeen different countries."
         ],
         "answer_index": 2,
-        "explanation_zh": "small budget、could not afford to send everyone、three students had already left 都让主人公以为坏消息要来了。"
+        "explanation_zh": "文中明确说研究者通过测量皮肤电导(skin conductance)和心率变异性(heart-rate variability)等身体信号来记录反应。"
       },
       {
-        "id": "weak_reply",
-        "question": "What showed that the narrator was afraid?",
+        "id": "cause_effect",
+        "question": "According to the passage, why did the human brain develop a stronger response to threats than to rewards?",
         "options": [
-          "The narrator shouted happily.",
-          "The narrator left the office at once.",
-          "The narrator read all the forms carefully.",
-          "The narrator spoke in a weak voice and was stopped by \"Don't interrupt.\""
+          "Because ancestors who reacted quickly to danger were more likely to survive and reproduce.",
+          "Because rewards in ancient times were far more common than threats.",
+          "Because modern news media trained people to fear bad outcomes.",
+          "Because the brain cannot process positive and negative information at the same time."
         ],
-        "answer_index": 3,
-        "explanation_zh": "文中说 I said in a weak voice，接着教练说 Don't interrupt，说明主人公想解释或求情，很害怕。"
+        "answer_index": 0,
+        "explanation_zh": "文中用进化论解释：祖先若能迅速对危险作出反应，就更可能存活并繁衍后代，所以大脑把威胁视为更紧急。"
       },
       {
-        "id": "real_good_news",
-        "question": "What was the real good news?",
+        "id": "inference",
+        "question": "What can we infer from the finding that some people responded just as strongly to encouraging news as to alarming news?",
         "options": [
-          "The narrator would leave the team.",
-          "The narrator would receive an extra responsibility as junior captain.",
-          "The club would cancel the city match.",
-          "The secretary would become the new coach."
+          "The negativity bias does not exist in those countries.",
+          "The saying \"if it bleeds, it leads\" may exaggerate how much people crave bad news.",
+          "Positive news always produces a stronger reaction than negative news.",
+          "Researchers made a mistake in measuring those participants."
         ],
         "answer_index": 1,
-        "explanation_zh": "结尾反转：Coach Lin smiled，并告诉主人公会成为 city match 的 junior captain。"
+        "explanation_zh": "个体差异说明并非人人都偏爱坏消息，因此可推断“带血才上头条”这句行话可能夸大了大众对坏消息的需求。"
+      },
+      {
+        "id": "vocab_in_context",
+        "question": "In the passage, the word \"disproportionate\" (in \"gives disproportionate weight\") is closest in meaning to:",
+        "options": [
+          "perfectly balanced and fair",
+          "extremely small or barely noticeable",
+          "carefully measured and accurate",
+          "larger than is reasonable or warranted"
+        ],
+        "answer_index": 3,
+        "explanation_zh": "disproportionate 指“不成比例的、过大的”，文中指大脑对负面信息给予“超出合理程度”的重视，故选 D（第四项：larger than is reasonable or warranted）。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓 Lesson 15 的五个核心句式：用 told me that...would... 转述过去说的未来安排，用 felt very nervous when... 写紧张时刻，用 did not look up from... 制造严肃气氛，用 could not afford to... 说明资源不够，最后用 Then he smiled and told me... 写好消息反转。",
+    "intro_zh": "今天把 Lesson 15 的五个转述与心理句式提升到更高难度：用 told me that...would... 转述过去说的未来安排，用 felt very nervous when... 刻画紧张瞬间，用 did not look up from... 营造严肃气氛，用 could not afford to... 说明资源受限，最后用 Then he smiled and told me... 完成好消息的反转。语境更抽象、更接近真实场景。",
     "patterns": [
       {
         "id": "told_me_that_would",
         "title": "told me that ... would ...",
         "source": "The secretary told me that Mr. Harmsworth would see me.",
         "focus_zh": "用 told me that...would... 转述别人过去告诉你的未来安排，特别适合写通知、约谈或消息。",
-        "task_zh": "仿写一句：写老师、班长、教练或家长告诉你，某个人稍后会见你或找你谈话。",
+        "task_zh": "仿写一句：写一位负责人(老师、招生官、面试官或评委)告诉你,某个重要的评审或决定将在以后某个时间公布。",
         "must_include": [
           "told me that",
           "would"
         ],
-        "min_words": 10,
-        "sample": "The monitor told me that our teacher would see me after class.",
+        "min_words": 16,
+        "sample": "The admissions officer told me that the committee would announce its final scholarship decision the following Monday.",
         "tip_zh": "told 是过去的通知；would 表示当时看来还没有发生的安排。"
       },
       {
@@ -103,12 +98,12 @@
         "title": "felt very nervous when ...",
         "source": "I felt very nervous when I went into his office.",
         "focus_zh": "这个句式把情绪和触发它的时刻连在一起，让读者马上进入主人公的心理。",
-        "task_zh": "仿写一句：写你走进办公室、考场、比赛场或老师面前时很紧张。",
+        "task_zh": "仿写一句：写你在毫无预警、又不知缘由的情况下被叫去面对某位权威时,内心的紧张。",
         "must_include": [
           "felt very nervous when"
         ],
-        "min_words": 9,
-        "sample": "I felt very nervous when I walked into the music room.",
+        "min_words": 16,
+        "sample": "I felt very nervous when the principal summoned me to her office without giving any reason for the meeting.",
         "tip_zh": "when 后面写具体场景，不要只写 a thing；画面越具体，紧张感越清楚。"
       },
       {
@@ -116,12 +111,12 @@
         "title": "did not look up from ...",
         "source": "He did not look up from his desk when I entered.",
         "focus_zh": "did not look up from... 可以写一个人继续低头做事，制造严肃、冷静或紧张的气氛。",
-        "task_zh": "仿写一句：写老师、教练、家长或工作人员在你进来时没有从某样东西上抬头。",
+        "task_zh": "仿写一句：写一位评审、面试官或负责人在你进入时仍专注于手头的材料,迟迟不抬头,制造出令人不安的气氛。",
         "must_include": [
           "did not look up from"
         ],
-        "min_words": 10,
-        "sample": "My coach did not look up from her notebook when I entered.",
+        "min_words": 16,
+        "sample": "The interviewer did not look up from the stack of resumes on her desk even as I quietly took my seat.",
         "tip_zh": "from 后面接 desk, book, notebook, forms, screen 等具体物品。"
       },
       {
@@ -129,12 +124,12 @@
         "title": "could not afford to ...",
         "source": "The firm could not afford to pay such large salaries.",
         "focus_zh": "could not afford to... 表示没有足够的钱、时间或资源去做某事。",
-        "task_zh": "仿写一句：写一个团队、家庭、社团或学校因为资源不够，做不了某件事。",
+        "task_zh": "仿写一句：写一个组织、团队或机构因资源(资金、时间或精力)有限,承担不起忽视某件重要事情的代价。",
         "must_include": [
           "could not afford to"
         ],
-        "min_words": 10,
-        "sample": "Our club could not afford to buy new uniforms this year.",
+        "min_words": 16,
+        "sample": "Faced with shrinking funds, the research team could not afford to overlook even a single promising candidate for the grant.",
         "tip_zh": "afford 后面接 to do；这里不一定只讲钱，也可以讲时间、空间或资源。"
       },
       {
@@ -142,12 +137,12 @@
         "title": "Then he smiled and told me ...",
         "source": "Then he smiled and told me I would receive an extra thousand pounds a year!",
         "focus_zh": "这个句式适合放在故事结尾：前面一直像坏消息，smiled 之后才揭示真正的好消息。",
-        "task_zh": "仿写一句：写一个人先显得很严肃，最后微笑着告诉你一个表扬、机会或奖励。",
+        "task_zh": "仿写一句：先铺垫一段令人担忧的严肃沉默,再用这个句式揭示一个出乎意料的表扬、机会或奖励。",
         "must_include": [
           "Then he smiled and told me"
         ],
-        "min_words": 10,
-        "sample": "Then he smiled and told me I would lead the next group project.",
+        "min_words": 16,
+        "sample": "After a long, solemn pause that made me fear the worst, then he smiled and told me my proposal had been chosen.",
         "tip_zh": "如果主语不是 he，可以先练原句结构；熟了以后再换成 she / my teacher。"
       }
     ]
