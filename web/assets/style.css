@@ -861,12 +861,14 @@ input:disabled {
   color: var(--ink);
 }
 .extension-article p + p { margin-top: 10px; }
-.extension-source {
-  margin-top: 12px;
+.extension-article p.extension-source {
+  margin-top: 14px;
+  font-family: var(--font-zh);
   font-size: 13px;
-  color: var(--muted, #888);
+  line-height: 1.5;
+  color: var(--muted, #8a8580);
 }
-.extension-source a { color: inherit; text-decoration: underline; }
+.extension-article p.extension-source a { color: inherit; text-decoration: underline; }
 .extension-questions,
 .sentence-writing-patterns {
   display: flex;
