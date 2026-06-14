@@ -1,155 +1,150 @@
 {
   "lesson_id": 26,
   "reading": {
-    "title": "The Poster on the Wall",
-    "intro_zh": "这篇短文把“现代艺术和认真观察”的主题换到学校海报展：大家在解释设计含义，一个学生却先看出了最简单的问题。",
-    "word_bank": [
-      "art project",
-      "pretend",
-      "modern art",
-      "pattern",
-      "appreciate",
-      "notice",
-      "critically",
-      "whether... or not",
-      "upside down",
-      "the same way that"
-    ],
+    "title": "Seeing Beneath the Paint",
+    "intro_zh": "这篇文章讲博物馆科学家如何用红外线和紫外线成像“看穿”一幅画的表层，发现肉眼看不到的底稿、修改与修复痕迹；内容改编自史密森尼博物馆文物保护研究所（Smithsonian Museum Conservation Institute）的权威资料。",
+    "source": {
+      "title": "Infrared and Ultraviolet Imaging",
+      "publisher": "Smithsonian Museum Conservation Institute",
+      "url": "https://mci.si.edu/infrared-and-ultraviolet-imaging"
+    },
     "passage": [
-      "Our class put several art projects on the wall for the school display. One poster was full of bright colours and pretty patterns. Some students pretended that they understood every part of it. They said what the poster was about, but they did not really look at it carefully. Lily, a quiet girl in our class, stood in front of the poster for a moment. She looked at it critically and asked whether the photo in the middle was right or not. Then we all noticed the problem. The photo was upside down. Our teacher smiled and said, \"Sometimes the best critic is the person who really looks.\""
+      "When you stand before a famous painting, what you see is only the final layer. Beneath that polished surface may lie an entirely different picture: a discarded composition, a figure the artist later painted over, or a network of preparatory lines that guided every brushstroke. For centuries, even the most experienced critics could only judge a work by its visible appearance. Today, conservators at institutions such as the Smithsonian rely on the invisible regions of the electromagnetic spectrum to look far deeper than the naked eye ever could.",
+      "Infrared imaging is one of their most revealing tools. Because infrared light passes through the upper paint layers at depths that ordinary visible light never reaches, it brings to the surface hidden details such as preliminary sketches, overpainting, and signatures buried beneath later work. When carbon-based materials are present, the difference in reflectance can be striking, allowing the artist’s earliest sketch to emerge from beneath layers of colour. Ultraviolet imaging serves a complementary purpose. It is well suited to identifying organic materials such as resins, binding media, and adhesives, and it traces successive interventions a painting has undergone across the centuries, including later restorations that an admiring visitor would never suspect.",
+      "What makes these techniques so valuable is that they are entirely non-destructive. Rather than cutting into a fragile masterpiece, scientists simply record how its materials absorb, reflect, and fluoresce under different kinds of light. The result is a quiet revolution in how we understand art. Genuine appreciation, it turns out, no longer depends solely on a confident opinion or an educated guess; increasingly, it rests on patient, evidence-based observation of what truly lies beneath the paint."
     ],
     "questions": [
       {
-        "id": "display",
-        "question": "Where did the class put the art projects?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "On the wall for the school display.",
-          "In a box under the teacher's desk.",
-          "On a bus near the school.",
-          "In Lily's bedroom."
+          "Why infrared light is more powerful than ultraviolet light.",
+          "How famous critics learned to paint in layers.",
+          "How scientists use invisible light to study what lies beneath a painting’s surface.",
+          "Why museums should stop restoring old varnishes."
         ],
-        "answer_index": 0,
-        "explanation_zh": "第一句说 Our class put several art projects on the wall for the school display。"
+        "answer_index": 2,
+        "explanation_zh": "全文围绕保护专家如何利用红外线和紫外线等不可见光，探究画作表层之下的隐藏信息，这是文章的主旨。"
       },
       {
-        "id": "pretend",
-        "question": "What did some students pretend?",
+        "id": "detail_infrared",
+        "question": "According to the passage, what can infrared imaging expose?",
         "options": [
-          "That they painted the poster alone.",
-          "That they understood every part of the poster.",
-          "That the poster was too small.",
-          "That Lily was their art teacher."
+          "Hidden details such as preliminary sketches and signatures buried beneath later work.",
+          "The exact year a painting was sold.",
+          "The name of the museum that owns the work.",
+          "The price an admiring visitor would pay."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "第二段明确指出红外成像能显露隐藏细节，如初步草稿（preliminary sketches）和被后来涂层掩盖的签名（signatures buried beneath later work）。"
+      },
+      {
+        "id": "cause_process",
+        "question": "Why is infrared imaging able to reveal what is hidden under the top layer of paint?",
+        "options": [
+          "Because it physically removes a thin layer of varnish.",
+          "Because it makes the painting glow in bright colours.",
+          "Because critics already know where the hidden lines are.",
+          "Because infrared light passes through the upper paint layers at depths that ordinary visible light never reaches."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "文中说明红外光能穿透上层颜料，到达普通可见光从未抵达的深度，因此才能揭示被掩盖的内容。"
+      },
+      {
+        "id": "inference",
+        "question": "What can we infer about how art was judged before these scientific tools existed?",
+        "options": [
+          "Critics could examine the hidden layers whenever they wished.",
+          "Judgements relied mainly on the visible surface and the critic’s opinion.",
+          "Paintings were routinely cut open to study their lower layers.",
+          "Ultraviolet light was used instead of infrared light."
         ],
         "answer_index": 1,
-        "explanation_zh": "短文写道：Some students pretended that they understood every part of it。"
+        "explanation_zh": "第一段提到几个世纪以来即使最有经验的评论家也只能凭可见的外观来判断作品，可推断过去主要依赖表面与评论家的主观意见。"
       },
       {
-        "id": "lily",
-        "question": "How did Lily look at the poster?",
+        "id": "vocab_non_destructive",
+        "question": "In the passage, what does “non-destructive” most nearly mean?",
         "options": [
-          "Angrily and loudly.",
-          "Quickly and carelessly.",
-          "Critically and carefully.",
-          "Sadly and silently."
+          "Extremely expensive and slow.",
+          "Done without permission from the museum.",
+          "Not causing any damage to the artwork.",
+          "Visible only under bright daylight."
         ],
         "answer_index": 2,
-        "explanation_zh": "critically 在这里不是挑刺，而是认真、有判断地看。"
-      },
-      {
-        "id": "problem",
-        "question": "What was wrong with the photo in the middle?",
-        "options": [
-          "It was upside down.",
-          "It was too expensive.",
-          "It was missing from the poster.",
-          "It was about curtain material."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "最后大家发现中间的照片 upside down，也就是倒过来了。"
-      },
-      {
-        "id": "message",
-        "question": "What is the main idea of the story?",
-        "options": [
-          "A good critic always uses difficult art words.",
-          "Modern art should never use bright colours.",
-          "Really looking can be better than pretending to understand.",
-          "A school display must have only one poster."
-        ],
-        "answer_index": 2,
-        "explanation_zh": "这和 Lesson 26 的核心一致：不是假装懂，而是真正观察。"
+        "explanation_zh": "文章解释这些技术不需切割脆弱的画作，只记录材料对光的反应，所以 non-destructive 意为“不会对作品造成损害”。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个值得背的结构：假装懂、比较欣赏能力、用 whether 表达两种可能、用 in the same way that 类比，以及用 Isn't it...? 礼貌指出问题。",
+    "intro_zh": "今天把课文的五个结构提升到 B2+ 水平：用 pretend that 写“装懂”、用 in the same way that 做类比、用 better than anyone else 做强比较、用 whether... or not 表达两种可能、用 Isn’t it...? 礼貌地提出观察。每句都要更抽象、更复杂。",
     "patterns": [
       {
         "id": "pretend_that",
         "title": "pretend that ...",
         "source": "Many people pretend that they understand modern art.",
         "focus_zh": "pretend that 表示“假装某件事是真的”，适合写人装懂、装会、装没看见。",
-        "task_zh": "仿写一句：有些同学假装他们懂这张海报、图片或设计。",
+        "task_zh": "仿写一句（更抽象的语境）：有些观众或专家假装自己看穿了一幅作品的全部含义，其实只是在重复别人的说法。",
         "must_include": [
           "pretend that"
         ],
-        "min_words": 8,
-        "sample": "Some students pretend that they understand the poster.",
-        "tip_zh": "pretend 后面接 that 从句，可以把“假装的内容”说完整。"
+        "min_words": 16,
+        "sample": "Some visitors confidently pretend that they grasp every layer of meaning in a painting, yet they are merely repeating opinions they have overheard.",
+        "tip_zh": "pretend 后面接 that 从句，可以把“假装的内容”说得更复杂、更具体。"
       },
       {
         "id": "same_way_that",
         "title": "in the same way that ...",
         "source": "We like them in the same way that we like pretty curtain material.",
-        "focus_zh": "这个结构用来类比：我们喜欢 A 的方式，和喜欢 B 的方式相似。",
-        "task_zh": "仿写一句：我们欣赏一张海报的颜色，就像欣赏一件漂亮衣服或一个好看的图案。",
+        "focus_zh": "这个结构用来类比：我们对待 A 的方式，和对待 B 的方式相似。",
+        "task_zh": "仿写一句（更抽象的语境）：科学家审视一幅画的隐藏图层，就像历史学家审视一份文件背后被涂改的草稿。",
         "must_include": [
           "in the same way that"
         ],
-        "min_words": 10,
-        "sample": "We enjoy the poster in the same way that we enjoy a colourful T-shirt.",
-        "tip_zh": "这个句式比 because 更细腻，能写出“相似的感受或原因”。"
+        "min_words": 16,
+        "sample": "Conservators examine the hidden layers of a canvas in the same way that historians study the crossed-out drafts behind an important document.",
+        "tip_zh": "这个句式比 because 更细腻，能在抽象语境里写出“两种行为在本质上的相似”。"
       },
       {
         "id": "better_than_anyone_else",
         "title": "better than anyone else",
         "source": "Young children often appreciate modern pictures better than anyone else.",
         "focus_zh": "better than anyone else 是很强的比较，表示“比所有其他人都更好”。",
-        "task_zh": "仿写一句：一个小孩、同学或妹妹比别人更能注意到细节。",
+        "task_zh": "仿写一句（更抽象的语境）：一台红外相机或一种科学方法，比任何人都更能发现表面之下被掩盖的细节。",
         "must_include": [
           "better than anyone else"
         ],
-        "min_words": 8,
-        "sample": "My little sister notices small details better than anyone else.",
-        "tip_zh": "这个表达能自然连接到标题 the best art critics。"
+        "min_words": 16,
+        "sample": "An infrared camera can reveal the faint underdrawings concealed beneath the paint better than anyone else relying on the naked eye alone.",
+        "tip_zh": "这个表达能把“科学手段胜过主观判断”的对比说得很有力。"
       },
       {
         "id": "whether_or_not",
         "title": "whether ... or not",
         "source": "She always tells me whether my pictures are good or not.",
-        "focus_zh": "whether... or not 用在有两种可能的时候：好或不好，对或不对，像或不像。",
-        "task_zh": "仿写一句：老师、同学或妹妹告诉你这张图是不是挂对了。",
+        "focus_zh": "whether... or not 用在有两种可能的时候：真或假、对或错、原作或仿作。",
+        "task_zh": "仿写一句（更抽象的语境）：科学分析帮助专家判断一幅画到底是真迹还是后人的仿作。",
         "must_include": [
           "whether",
           "or not"
         ],
-        "min_words": 9,
-        "sample": "She told me whether the picture was right or not.",
-        "tip_zh": "whether 比 if 更适合正式地表达“是不是”。"
+        "min_words": 16,
+        "sample": "Careful scientific analysis can finally tell experts whether a disputed painting is a genuine masterpiece or not, ending decades of argument.",
+        "tip_zh": "whether 比 if 更适合在正式、抽象的语境里表达“是不是”。"
       },
       {
         "id": "isnt_it_upside_down",
-        "title": "Isn't it ...?",
-        "source": "But isn't it upside down?",
-        "focus_zh": "Isn't it...? 可以礼貌地提出一个观察，不是直接指责别人错了。",
-        "task_zh": "仿写一句：你觉得图片、照片或海报好像倒了，用礼貌的问题说出来。",
+        "title": "Isn’t it ...?",
+        "source": "But isn’t it upside down?",
+        "focus_zh": "Isn’t it...? 可以礼貌地提出一个观察或质疑，而不是直接断定别人错了。",
+        "task_zh": "仿写一句（更抽象的语境）：你怀疑馆里展出的某幅画可能挂反了，用礼貌的反问表达这个观察。",
         "must_include": [
           "isn't",
           "upside down"
         ],
-        "min_words": 6,
-        "sample": "But isn't this photo upside down?",
-        "tip_zh": "这句话短，但很有用：先保留余地，再指出自己看到的问题。"
+        "min_words": 14,
+        "sample": "I may be mistaken, but isn't this celebrated landscape actually hanging upside down on the gallery wall?",
+        "tip_zh": "先用 I may be mistaken 保留余地，再用 Isn’t it...? 礼貌地指出自己看到的问题。"
       }
     ]
   }
