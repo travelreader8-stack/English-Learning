@@ -1,100 +1,95 @@
 {
   "lesson_id": 19,
   "reading": {
-    "title": "The Wednesday Tickets",
-    "intro_zh": "这篇短文不复述剧院窗口买票，而是换到学校音乐会：想看的这场 sold out，别人 return 两张票带来希望，最后发现是 next Wednesday 的 performance。重点回收 may、May I、return、pity、at once 和 might as well。",
-    "word_bank": [
-      "sold out",
-      "ticket office",
-      "performance",
-      "hurried",
-      "pity",
-      "exclaim",
-      "return",
-      "at once",
-      "may have",
-      "might as well"
-    ],
+    "title": "Why Concerts Sell Out So Fast",
+    "intro_zh": "这篇文章不复述剧院窗口买票，而是介绍真实世界里“为什么热门演出会瞬间 sold out”——演出方故意压低票价、黄牛用 bots 抢票、预售先占走大量座位、二级市场层层加价。改编自美国政府问责局（GAO）的官方报告。",
+    "source": {
+      "title": "Event Ticket Sales: Market Characteristics and Consumer Protection Issues (GAO-18-347)",
+      "publisher": "U.S. Government Accountability Office (GAO)",
+      "url": "https://www.gao.gov/products/gao-18-347"
+    },
     "passage": [
-      "On Friday evening, Noah and Amy hurried to the school auditorium because the concert may begin at any moment. Amy checked her phone and said it may have begun already. At the ticket office, Noah asked, \"May I have two tickets please?\" The girl shook her head. All seats for tonight were sold out. \"What a pity!\" Amy exclaimed. Just then, a student ran up with two tickets. \"Can I return these? My sister is ill.\" Noah asked for them at once, feeling hopeful. But the girl looked at the date and said, \"These are for next Wednesday's performance, not tonight's concert.\" Noah sighed. The tickets were real, but they could not save this evening. He might as well take them for next week."
+      "When fans of a popular concert see the words \"sold out\" only minutes after tickets are released, they often assume the venue was simply too small. The reality is more complicated. According to a U.S. Government Accountability Office study of the event-ticket market, shows can vanish so quickly partly because performers and promoters deliberately price tickets below what the market would bear. By keeping the face value modest, artists protect their reputation and reward loyal followers, but they also create a gap between the official price and what some buyers are willing to pay.",
+      "That gap is exactly what professional resellers, known as brokers, exploit. Using batteries of staff and automated programs called bots, brokers can seize large blocks of seats the instant they appear, then list them again on resale platforms at a steep premium. A further squeeze comes from presales: a sizeable share of inventory is reserved for fan clubs and credit-card partners before the general public ever gets a chance. By the time ordinary buyers log on, much of the supply has already been spoken for.",
+      "Fees compound the frustration. The GAO found that primary sellers added charges averaging twenty-seven percent of a ticket's price, while resale sites averaged thirty-one percent, and certain deceptive \"white-label\" sites pushed costs even higher by disguising themselves as official outlets. Although a 2016 federal law outlawed the worst bot tactics, enforcement has lagged. For most consumers, then, a returned or resold ticket is rarely the lucky rescue it appears to be; more often it is the moment the hidden costs finally surface."
     ],
     "questions": [
       {
-        "id": "why_hurry",
-        "question": "Why were Noah and Amy in a hurry?",
+        "id": "main_idea",
+        "question": "What is the main idea of the passage?",
         "options": [
-          "The concert may begin at any moment.",
-          "They wanted to return their tickets first.",
-          "They had to clean the auditorium.",
-          "Next Wednesday's performance was ending."
+          "Concert venues should be made much larger to satisfy demand.",
+          "Most fans prefer buying tickets on resale platforms.",
+          "Several deliberate practices, not just limited seating, explain why popular tickets sell out and cost more.",
+          "Federal law has successfully ended ticket-buying bots."
         ],
-        "answer_index": 0,
-        "explanation_zh": "第一句说明他们 hurry 的原因是 the concert may begin at any moment。"
+        "answer_index": 2,
+        "explanation_zh": "全文围绕“为什么热门票瞬间售罄且更贵”，指出原因不止座位有限，还包括故意压低票价、黄牛与 bots、预售占座和层层加价，所以主旨是第三项。"
       },
       {
-        "id": "sold_out_meaning",
-        "question": "What does sold out mean in the story?",
+        "id": "detail_fees",
+        "question": "According to the GAO, what were the average fees added by sellers?",
         "options": [
-          "The seats are free for everyone.",
-          "All seats for tonight have been sold.",
-          "The ticket desk is closed forever.",
-          "The concert has moved to another school."
+          "About 31% on the primary market and about 27% on resale sites.",
+          "About 27% on the primary market and about 31% on resale sites.",
+          "A flat 16% on every ticket sold anywhere.",
+          "No fees on official sites and 40% everywhere else."
         ],
         "answer_index": 1,
-        "explanation_zh": "文中说 All seats for tonight were sold out，意思是今晚没有票了。"
+        "explanation_zh": "文中明确说 primary sellers 平均加收约 27%，而 resale sites 平均约 31%，所以第二项正确。"
       },
       {
-        "id": "returned_tickets_help",
-        "question": "Why did the returned tickets first seem helpful?",
+        "id": "cause_effect",
+        "question": "Why does pricing tickets below market value help resellers?",
         "options": [
-          "They were cheaper than all the other tickets.",
-          "They belonged to Noah already.",
-          "They looked like two available tickets just when Noah needed two.",
-          "They proved the concert had not begun."
-        ],
-        "answer_index": 2,
-        "explanation_zh": "Noah 需要两张票，正好有人拿来 return two tickets，所以他 at once 感到有希望。"
-      },
-      {
-        "id": "wrong_detail",
-        "question": "What was wrong with the tickets?",
-        "options": [
-          "They were not real tickets.",
-          "They were for a museum slot in the morning.",
-          "They had already been used by Amy.",
-          "They were for next Wednesday's performance, not tonight's concert."
+          "It forces venues to cancel popular shows.",
+          "It makes performers lose money on every seat.",
+          "It guarantees that bots are automatically banned.",
+          "It opens a gap between the face value and what buyers will pay, which brokers capture by reselling at a premium."
         ],
         "answer_index": 3,
-        "explanation_zh": "售票员说明 These are for next Wednesday's performance, not tonight's concert。"
+        "explanation_zh": "故意压低票价造成“官方价”与“买家愿意付的价”之间的差额，黄牛抢票后高价转卖正是赚取这个差额，所以第四项正确。"
       },
       {
-        "id": "resigned_choice",
-        "question": "Why is the final choice disappointed, not excited?",
+        "id": "inference",
+        "question": "What can be inferred about an ordinary fan trying to buy a ticket at face value?",
         "options": [
-          "Noah loves next Wednesday more than Friday.",
-          "The tickets solve tonight's problem perfectly.",
-          "Noah takes the tickets only because they are the only option left.",
-          "Amy asks Noah to return the tickets at once."
+          "They will always succeed if they log on the moment tickets open.",
+          "They pay lower fees than professional brokers do.",
+          "They are the group the 2016 law was designed to harm.",
+          "They face a real disadvantage, because much of the supply is already taken by presales and brokers."
         ],
-        "answer_index": 2,
-        "explanation_zh": "He might as well take them 表示不是理想选择，只是没有更好的办法。"
+        "answer_index": 3,
+        "explanation_zh": "文中说预售先占走大量库存、黄牛又用 bots 瞬间扫货，等普通人上线时供给已所剩无几，可推断普通买家处于明显劣势，所以第四项正确。"
+      },
+      {
+        "id": "vocab_premium",
+        "question": "In \"list them again on resale platforms at a steep premium,\" what does premium most nearly mean?",
+        "options": [
+          "An amount charged well above the original price.",
+          "A free gift offered to early buyers.",
+          "A penalty paid for returning a ticket.",
+          "A discount given to loyal fans."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "premium 在此指“高于原价的溢价/加价”，黄牛把票以远高于原价的价格转卖，所以第一项正确。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓 Lesson 19 的五个买票现场表达：may begin at any moment 写马上可能开始，may have begun already 写可能已经发生，May I have...please 写礼貌请求，Can I return...? 写退票/退物，might as well 写无奈接受。",
+    "intro_zh": "今天抓 Lesson 19 的五个买票现场表达，并把语境升级到更抽象的真实场景：may begin at any moment 写马上可能开始，may have begun already 写可能已经发生，May I have...please 写礼貌请求，Can I return...? 写退票/退物，might as well 写无奈接受。",
     "patterns": [
       {
         "id": "may_begin_at_any_moment",
         "title": "may begin at any moment",
         "source": "The play may begin at any moment.",
         "focus_zh": "这个句式写一种马上可能发生的事，带紧迫感。",
-        "task_zh": "仿写一句：写电影、比赛、演出、会议或活动可能马上开始，所以大家很着急。",
+        "task_zh": "仿写一句：描写一场抢票、拍卖或限量发售随时可能开始，因此你必须时刻盯紧屏幕、做好准备。",
         "must_include": [
           "may begin at any moment"
         ],
-        "min_words": 9,
-        "sample": "The museum tour may begin at any moment, so we should hurry.",
+        "min_words": 16,
+        "sample": "The online ticket sale may begin at any moment, so I am refreshing the page constantly and keeping my payment details ready.",
         "tip_zh": "may 表示可能；at any moment 表示随时、马上，常和 hurry 搭配。"
       },
       {
@@ -102,13 +97,13 @@
         "title": "may have begun already",
         "source": "It may have begun already.",
         "focus_zh": "may have done 表示现在猜测某件事可能已经发生了。",
-        "task_zh": "仿写一句：根据灯光、声音、时间或人群，猜测电影、课或活动可能已经开始。",
+        "task_zh": "仿写一句：根据线索（评论、销量、屏幕提示）推测某场限量发售或预售可能已经悄悄开始，而你却错过了。",
         "must_include": [
           "may have",
           "already"
         ],
-        "min_words": 9,
-        "sample": "The film may have begun already because the lights are off.",
+        "min_words": 16,
+        "sample": "Judging by the sudden flood of resale listings online, the official presale may have already quietly sold out the best seats.",
         "tip_zh": "may have 后面接过去分词；already 通常放在句末或 have 后面。"
       },
       {
@@ -116,13 +111,13 @@
         "title": "May I have ... please?",
         "source": "May I have two tickets please?",
         "focus_zh": "May I have...? 是礼貌请求，适合买票、点餐、借物。",
-        "task_zh": "仿写一句：在票务、餐厅、图书馆或服务窗口礼貌地请求某样东西。",
+        "task_zh": "仿写一句：在服务窗口或客服面前，礼貌地请求一份退款说明、收费明细或座位调换等需要解释的东西。",
         "must_include": [
           "May I have",
           "please"
         ],
-        "min_words": 7,
-        "sample": "May I have a student ticket please?",
+        "min_words": 14,
+        "sample": "May I have a full breakdown of every service fee before I confirm this purchase, please?",
         "tip_zh": "May I have 后面接你想要的东西；please 可以放在句末，让语气更礼貌。"
       },
       {
@@ -130,12 +125,12 @@
         "title": "Can I return ...?",
         "source": "Can I return these two tickets?",
         "focus_zh": "return 在这里不是“回来”，而是把票或物品退回去。",
-        "task_zh": "仿写一句：写你买错日期、买错尺寸或不能参加时，询问能不能退票或退物。",
+        "task_zh": "仿写一句：当你发现买到的是错误日期、转售或不可使用的票时，询问能否退票并要求退还包含手续费在内的全部费用。",
         "must_include": [
           "Can I return"
         ],
-        "min_words": 9,
-        "sample": "Can I return this ticket if I choose the wrong date?",
+        "min_words": 16,
+        "sample": "Can I return these resale tickets and recover the full amount, including the fees, since they are for the wrong date?",
         "tip_zh": "Can I return 后面接要退的东西；可以加原因，比如 because / if。"
       },
       {
@@ -143,12 +138,12 @@
         "title": "might as well ...",
         "source": "I might as well have them.",
         "focus_zh": "might as well 表示“虽然不理想，但也只好这样了”。",
-        "task_zh": "仿写一句：写你没有最想要的选择，只能接受另一个时间、座位、路线或计划。",
+        "task_zh": "仿写一句：当心仪的票早已售罄、又无更好选择时，无奈地决定接受溢价转售票或退而求其次的另一场次。",
         "must_include": [
           "might as well"
         ],
-        "min_words": 9,
-        "sample": "I might as well wait for the next bus home.",
+        "min_words": 16,
+        "sample": "Since every face-value seat had vanished within seconds, I might as well accept the overpriced resale ticket and move on.",
         "tip_zh": "这个短语的情绪不是兴奋，而是有点无奈的接受。"
       }
     ]
