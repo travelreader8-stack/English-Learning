@@ -1,100 +1,94 @@
 {
   "lesson_id": 8,
   "reading": {
-    "title": "The Neatest Desk Competition",
-    "intro_zh": "这篇短文不复述 Joe 和 Bill 的花园，而是换到班级课桌评比：更大、更努力、东西更多不一定就是最好；最有设计感、最整洁的作品才可能胜出，最后保留一个自嘲的 worst 小奖。",
-    "word_bank": [
-      "competition",
-      "neat",
-      "larger than",
-      "worked harder than",
-      "more interesting",
-      "wooden",
-      "pool",
-      "prize",
-      "the best",
-      "the worst"
-    ],
+    "title": "How Figure Skating Is Really Judged",
+    "intro_zh": "这篇短文不复述课文里的花园评比，而是介绍真实世界中花样滑冰的评分机制——技术难度和艺术表现被分开打分，呼应本课“比较要看不同标准”的主题；内容改编自美国花样滑冰协会（U.S. Figure Skating）对国际评分系统的官方说明。",
+    "source": {
+      "title": "Scoring System",
+      "publisher": "U.S. Figure Skating",
+      "url": "https://usfigureskating.org/sports/2025/8/12/scoring-system.aspx"
+    },
     "passage": [
-      "On Friday, our class entered the Neatest Desk Competition. Mia's desk was the best in our room. It was not the largest, but every book had a place, and her notes were clean. Ben's desk was larger than Mia's, and he worked harder than anyone. He put more colour pens, model trees, and stickers on it. But Mia's desk was more interesting. She made a tiny reading corner with a wooden bridge over a blue paper pool, so visitors could follow a neat path from books to drawings. I entered too. I like neat desks, but I do not like hard work. I won a little prize for the worst desk in the class, because my ruler was under my lunch box."
+      "When figure skaters glide across the rink, the marks that flash on the screen are not the verdict of a single admirer with a favourite. Under the International Judging System, every performance is broken into two separate measurements that are added together, because raw difficulty and overall artistry are judged as genuinely different things. The first, the Technical Element Score, gives each jump, spin and sequence a fixed base value that rewards how demanding it is. A panel then assigns a Grade of Execution, ranging from minus five to plus five, that is added to or subtracted from that base value according to how cleanly the move is performed. To curb bias, each element's score is calculated by stripping away one top mark and one bottom mark, then averaging what remains.",
+      "The second measurement, the Program Component Score, ignores the catalogue of tricks altogether and instead weighs the quality of the skating as a whole. Judges award points on a scale from 0.25 to 10, in quarter-point steps, across three components: composition, which concerns how the movements are arranged into a coherent design; presentation, which captures the skater's engagement with the music; and skating skills, which measures the command of edges, steps and turns. Once again the extreme marks are discarded and the rest averaged, and the result is multiplied by a fixed factor — a scaling step designed to keep the two measurements broadly comparable. The lesson embedded in the system is unmistakable: attempting the hardest elements is never, on its own, the same as skating the best."
     ],
     "questions": [
       {
-        "id": "competition_type",
-        "question": "What competition did the class enter on Friday?",
+        "id": "main_idea",
+        "question": "What is the main idea of the passage?",
         "options": [
-          "The Neatest Desk Competition.",
-          "The Nicest Garden Competition.",
-          "The Fastest Reading Competition.",
-          "The Cleanest Lunch Box Competition."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文开头说 our class entered the Neatest Desk Competition。"
-      },
-      {
-        "id": "usual_winner",
-        "question": "Why was Mia's desk the best in the room?",
-        "options": [
-          "Because it was the largest desk in the class.",
-          "Because every book had a place and her notes were clean.",
-          "Because she put the most stickers on it.",
-          "Because her lunch box was under her ruler."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "Mia 的桌子不是最大，但 every book had a place，而且 notes were clean。"
-      },
-      {
-        "id": "different_standard",
-        "question": "How was Ben better in a different way?",
-        "options": [
-          "His desk was smaller and empty.",
-          "He made a blue paper pool for Mia.",
-          "His desk was larger than Mia's, and he worked harder.",
-          "He won a prize for the worst desk."
+          "Figure skating judges only reward the most difficult jumps and spins.",
+          "A single experienced admirer decides each skater's final mark.",
+          "Skating is scored by separating technical difficulty from overall artistry and combining the two.",
+          "The scoring system has remained unchanged since the sport began."
         ],
         "answer_index": 2,
-        "explanation_zh": "Ben 的优势是 size 和 effort：his desk was larger than Mia's, and he worked harder。"
+        "explanation_zh": "全文核心是：评分把技术难度（TES）和整体艺术性（PCS）分开衡量，再相加得出成绩，强调“难”不等于“好”。"
       },
       {
-        "id": "interesting_detail",
-        "question": "What special detail made Mia's desk more interesting?",
+        "id": "detail_goe",
+        "question": "What does the Grade of Execution do?",
         "options": [
-          "A lunch box under a ruler.",
-          "A pile of model trees with no path.",
-          "A bigger desk near the window.",
-          "A tiny reading corner with a wooden bridge over a blue paper pool."
+          "It adds or subtracts up to five points from an element's base value based on how well the move is done.",
+          "It fixes the base value of each jump before the skater performs.",
+          "It measures how the skater engages with the music.",
+          "It multiplies the artistic score by a fixed factor."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "文中说 Grade of Execution 范围为 -5 到 +5，根据动作完成得是否干净，在 base value 基础上加分或减分。"
+      },
+      {
+        "id": "process_drop_marks",
+        "question": "Why are the highest and lowest marks for each element thrown out?",
+        "options": [
+          "To make the competition finish faster.",
+          "To give the audience a simpler number to read.",
+          "To raise every skater's total score equally.",
+          "To curb bias before the remaining scores are averaged."
         ],
         "answer_index": 3,
-        "explanation_zh": "短文说 Mia made a tiny reading corner with a wooden bridge over a blue paper pool。"
+        "explanation_zh": "文中明确指出，去掉每个动作的最高分和最低分是为了抑制偏见（curb bias），再对其余分数取平均。"
       },
       {
-        "id": "funny_prize",
-        "question": "What funny prize did the narrator win?",
+        "id": "inference",
+        "question": "What can we infer about a skater who attempts many extremely hard elements but performs them sloppily?",
         "options": [
-          "A little prize for the neatest path.",
-          "A little prize for the worst desk in the class.",
-          "A big prize for the largest desk.",
-          "A prize for working harder than anyone."
+          "They are guaranteed to win because difficulty matters most.",
+          "They may still lose, because clean execution and artistry are scored separately and can outweigh raw difficulty.",
+          "Their Program Component Score will automatically be the highest.",
+          "Their highest and lowest marks will never be discarded."
         ],
         "answer_index": 1,
-        "explanation_zh": "结尾的自嘲是 I won a little prize for the worst desk in the class。"
+        "explanation_zh": "由“难度不等于好”以及 GOE 会因完成质量加减分、PCS 单独评艺术性可推出：动作再难，若做得粗糙，仍可能落败。"
+      },
+      {
+        "id": "vocab_curb",
+        "question": "In the passage, the word \"curb\" most nearly means to",
+        "options": [
+          "encourage or reward.",
+          "explain in detail.",
+          "restrain or limit.",
+          "record and average."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "curb bias 意为“抑制/限制偏见”，所以 curb 最接近 restrain or limit（约束、限制）。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 8 的比较结构：最高级 has the most...，每年参加 enters for...each year，比大小 is larger than...，用 but 转出不同评价标准，以及自嘲式的 a little prize for the worst...。",
+    "intro_zh": "今天抓五个 Lesson 8 的比较结构，但把语境提升到 B2+：最高级 has the most...，每年参加 enters for...each year，比大小 is larger than...，用 but 转出不同评价标准 works harder than...more interesting，以及自嘲式的 a little prize for the worst...。重点仍是“比较要看清比的是哪一个标准”。",
     "patterns": [
       {
         "id": "has_the_most",
         "title": "has the most ...",
         "source": "Joe Sanders has the most beautiful garden in our town.",
         "focus_zh": "用 has the most... 写一个人在某个范围里最突出的特点。",
-        "task_zh": "仿写一句：写某个同学、朋友或作品在班里有最整洁、最有趣或最漂亮的东西。",
+        "task_zh": "仿写一句：在一个评比、展览或作品集的语境里，描述某人或某作品在某个抽象维度（如构思、设计、影响力）上最突出。",
         "must_include": [
           "has the most"
         ],
-        "min_words": 9,
-        "sample": "Mia has the most interesting desk in our classroom.",
+        "min_words": 14,
+        "sample": "Among all the entries, her quietly arranged exhibit has the most thoughtful composition in the entire gallery.",
         "tip_zh": "the most 后面接形容词，再接名词；句子里最好说明比较范围。"
       },
       {
@@ -102,13 +96,13 @@
         "title": "enters for ... each year",
         "source": "Nearly everybody enters for 'The Nicest Garden Competition' each year.",
         "focus_zh": "enters for 表示报名参加比赛，each year 表示这个动作每年都会发生。",
-        "task_zh": "仿写一句：写某人或某个班级每年都会参加一个比赛、展览或评比。",
+        "task_zh": "仿写一句：写某个团队或机构每年都会参加一个有挑战性的比赛、评审或竞标，并点出他们的动机或目标。",
         "must_include": [
           "enters for",
           "each year"
         ],
-        "min_words": 10,
-        "sample": "Our class enters for the city poster competition with new ideas each year.",
+        "min_words": 14,
+        "sample": "Our debating society faithfully enters for the national rhetoric tournament each year, hoping to refine its arguments.",
         "tip_zh": "enters for 后面接比赛名称；不要把 enter for 理解成“走进”。"
       },
       {
@@ -116,12 +110,12 @@
         "title": "is larger than ...",
         "source": "Bill Frith's garden is larger than Joe's.",
         "focus_zh": "is larger than... 只比较大小，不直接等于“更好”。",
-        "task_zh": "仿写一句：比较两个模型、房间、书桌或作品的大小。",
+        "task_zh": "仿写一句：比较两个项目或作品的规模，但暗示“更大”不一定就更有说服力或更好。",
         "must_include": [
           "is larger than"
         ],
-        "min_words": 8,
-        "sample": "Ben's model is larger than mine, but mine is neater.",
+        "min_words": 14,
+        "sample": "Although his ambitious installation is larger than every rival project, scale alone rarely persuades demanding judges.",
         "tip_zh": "than 后面要有比较对象；如果只想比较大小，可以不用 best。"
       },
       {
@@ -129,13 +123,13 @@
         "title": "works harder than ... but ... is more interesting",
         "source": "Bill works harder than Joe, but Joe's garden is more interesting.",
         "focus_zh": "这个结构用 but 把两个评价标准分开：努力程度是一回事，是否有趣是另一回事。",
-        "task_zh": "仿写一句：写一个人更努力或东西更多，但另一个人的作品更有趣。",
+        "task_zh": "仿写一句：写一个人投入更多努力，但另一个人的作品在设计、构思或表达上更有趣，用 but 把两种评判标准分开。",
         "must_include": [
           "works harder than",
           "more interesting"
         ],
-        "min_words": 12,
-        "sample": "Tom works harder than Amy, but Amy's science project is far more interesting.",
+        "min_words": 15,
+        "sample": "The diligent freshman works harder than any veteran competitor, but the veteran's restrained design feels far more interesting.",
         "tip_zh": "but 后面不要重复同一个标准，要换成 design, idea, interest 这样的新角度。"
       },
       {
@@ -143,12 +137,12 @@
         "title": "a little prize for the worst ...",
         "source": "I always win a little prize for the worst garden in the town!",
         "focus_zh": "用 a little prize for the worst... 写轻松自嘲的结尾，不是刻薄地嘲笑别人。",
-        "task_zh": "仿写一句：写自己在整理、画画或做项目时赢了一个有趣的“最差”小奖。",
+        "task_zh": "仿写一句：用轻松自嘲的口吻，写自己在某次评比中赢得了一个有趣的“最差”小奖，并补充一点原因或细节。",
         "must_include": [
           "a little prize for the worst"
         ],
-        "min_words": 11,
-        "sample": "I won a little prize for the worst drawing in the club.",
+        "min_words": 15,
+        "sample": "I cheerfully accepted a little prize for the worst time-management plan our productivity workshop had ever reviewed.",
         "tip_zh": "这个句式适合幽默收尾；主语最好用 I，让语气更自嘲、更轻松。"
       }
     ]
