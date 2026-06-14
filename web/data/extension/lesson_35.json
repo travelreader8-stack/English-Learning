@@ -1,155 +1,149 @@
 {
   "lesson_id": 35,
   "reading": {
-    "title": "The Number on the Scooter",
-    "intro_zh": "这篇短文不复述 Roy 的公交车撞车情节，而是换到现代有轨电车站旁：司机看见偷窃后保护乘客、记住车牌和线索，让警察能够安全处理。",
-    "word_bank": [
-      "thief",
-      "driver",
-      "rush out",
-      "towards",
-      "fright",
-      "drop",
-      "get away",
-      "license plate",
-      "recognize",
-      "safe place",
-      "arrested"
-    ],
+    "title": "How Police Catch a Car",
+    "intro_zh": "本文不复述课文里 Roy 开公交车撞小偷的情节，而是延伸到真实话题：今天警方如何用“车牌自动识别（ANPR）”技术来识别和追踪车辆。内容依据英国 Policing.uk 发布的 ANPR 权威说明整理。",
+    "source": {
+      "title": "ANPR: Automatic Number Plate Recognition",
+      "publisher": "Policing.uk",
+      "url": "https://policing.uk/knowledge/powers-and-procedures/anpr-explained"
+    },
     "passage": [
-      "Leah used to check tickets on a busy tram, but this year she became a driver. One afternoon, while she was waiting near Green Market, she saw a thief rush out of a shop with a small cash box. A second man was waiting on a black scooter. Leah did not chase them. She closed the tram doors, kept the passengers in a safe place, and called the police. She also wrote down the scooter's license plate and noticed that the thief dropped a red glove in fright. The men tried to get away, but the number was easy to recognize on the traffic camera. Shortly afterwards, the police stopped the scooter and both men were arrested."
+      "When a car is stolen or used to flee a crime, the police rarely chase it through busy streets, as that endangers everyone. Instead, much of the modern hunt is carried out by Automatic Number Plate Recognition, or ANPR. Roadside and patrol-car cameras photograph every passing vehicle, and software locates the registration plate within each image, sharpens it, and uses optical character recognition to convert the picture into machine-readable letters and numbers. That text is then compared against the Police National Computer and other databases of vehicles linked to crime or theft.",
+      "In the United Kingdom, a nationwide network of cameras reads tens of millions of number plates every single day, and the records flow into a central archive -- the National ANPR Data Centre -- run on behalf of police forces across the country. When a plate matches one on a watch list, officers receive an alert almost instantly. Rather than risk a high-speed pursuit, they can stop the vehicle in a controlled way under section 163 of the Road Traffic Act 1988.",
+      "Yet the technology raises genuine concerns. Because the cameras record where ordinary, innocent drivers travel, and because those records may be retained for up to two years, privacy campaigners warn that such sweeping surveillance could be abused. Legislation -- including the Data Protection Act 2018 and the Surveillance Camera Code of Practice under the Protection of Freedoms Act 2012 -- governs how data is stored, accessed, and shared, attempting to balance public safety against personal freedom. Catching criminals today depends less on dramatic action and far more on a clear, recognisable clue and the patient power of a database."
     ],
     "questions": [
       {
-        "id": "leah_old_and_new_job",
-        "question": "What did Leah used to do, and what is she now?",
+        "id": "main_idea_anpr",
+        "question": "What is the passage mainly about?",
         "options": [
-          "She used to check tickets, but now she is a tram driver.",
-          "She used to drive a taxi, but now she sells scooters.",
-          "She used to work in Green Market, but now she is a police officer.",
-          "She used to repair cameras, but now she catches thieves alone."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文第一句说 Leah used to check tickets on a busy tram, but this year she became a driver，说明她过去查票，现在是司机。"
-      },
-      {
-        "id": "cash_box",
-        "question": "What was the thief carrying when he rushed out of the shop?",
-        "options": [
-          "A bag full of clothes.",
-          "A small cash box.",
-          "A black scooter.",
-          "A red camera."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "文中说 the thief rushed out of a shop with a small cash box，所以他拿的是一个小钱箱。"
-      },
-      {
-        "id": "safe_help",
-        "question": "How did Leah help without doing anything reckless?",
-        "options": [
-          "She chased the scooter through traffic.",
-          "She drove the tram straight at the men.",
-          "She kept passengers safe, called the police, and wrote down details.",
-          "She asked the passengers to stop the thieves themselves."
+          "Why drivers should avoid busy city streets at night.",
+          "How privacy campaigners design surveillance cameras.",
+          "How police use number-plate recognition technology to identify and trace vehicles.",
+          "Why stolen cars are usually painted a different colour."
         ],
         "answer_index": 2,
-        "explanation_zh": "Leah 没有追小偷，而是关好车门、让乘客待在安全处、报警并记录线索，这就是现代安全反应。"
+        "explanation_zh": "全文围绕 ANPR（车牌自动识别）如何拍摄、识别车牌并与数据库比对，从而帮助警方追踪车辆展开，因此主旨是警方如何利用车牌识别技术识别和追踪车辆。"
       },
       {
-        "id": "easy_to_recognize",
-        "question": "What made the scooter easy to recognize?",
+        "id": "detail_legal_stop",
+        "question": "According to the passage, under which law can officers stop a vehicle identified by an ANPR alert?",
         "options": [
-          "The tram driver painted the scooter red.",
-          "The license plate number was clear on the traffic camera.",
-          "The scooter was moving more slowly than usual.",
-          "The thief left the cash box on the tram."
+          "The Data Protection Act 2018.",
+          "Section 163 of the Road Traffic Act 1988.",
+          "The Protection of Freedoms Act 2012.",
+          "The Police National Computer Regulations."
         ],
         "answer_index": 1,
-        "explanation_zh": "Leah 记下了 scooter's license plate，交通摄像头里也能看清这个号码，所以警察容易识别。"
+        "explanation_zh": "第二段明确说 they can stop the vehicle in a controlled way under section 163 of the Road Traffic Act 1988，即依据 1988 年《道路交通法》第 163 条停车，而非数据保护法或其他法规。"
       },
       {
-        "id": "quick_but_safe",
-        "question": "Why was Leah's quick thinking useful only because it was safe?",
+        "id": "process_ocr",
+        "question": "What does the software do after a camera photographs a vehicle?",
         "options": [
-          "Because she protected people and gave the police clear clues.",
-          "Because she made the thieves more frightened by crashing into them.",
-          "Because passengers should always chase thieves in the street.",
-          "Because a driver should ignore theft near a station."
+          "It immediately sends a patrol car to chase the vehicle.",
+          "It deletes the image to protect the driver’s privacy.",
+          "It paints a digital mark on the licence plate.",
+          "It locates the plate, sharpens it, and converts it into readable text to check against databases."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "第一段说软件先定位车牌、锐化图像，再用光学字符识别把图片转成可读的字母和数字，然后与犯罪相关车辆的数据库比对，所以正确答案是定位、锐化并转成文字去比对数据库。"
+      },
+      {
+        "id": "inference_safer",
+        "question": "What can be inferred about why police prefer ANPR alerts to chasing vehicles?",
+        "options": [
+          "Because intercepting a flagged vehicle is safer than a dangerous high-speed pursuit.",
+          "Because ANPR cameras can physically stop a moving car.",
+          "Because the law forbids police from ever driving fast.",
+          "Because stolen cars are no longer a serious problem."
         ],
         "answer_index": 0,
-        "explanation_zh": "快速反应有用，是因为 Leah 先保证安全，再提供 license plate、red glove 等线索，让警察处理危险。"
+        "explanation_zh": "文中说在繁忙街道追车 endangers everyone，而收到警报后可以 stop the vehicle in a controlled way rather than risk a high-speed pursuit，可推断警方偏好警报是因为拦截被标记的车辆比高速追逐更安全。"
+      },
+      {
+        "id": "vocab_retained",
+        "question": "In the passage, the word “retained” (in “records may be retained for up to two years”) most nearly means:",
+        "options": [
+          "quickly deleted",
+          "kept and stored",
+          "sold to companies",
+          "printed on paper"
+        ],
+        "answer_index": 1,
+        "explanation_zh": "retained 意为“被保留、保存”，句子说这些记录可能被保存长达两年，因此最接近的意思是 kept and stored（保存、留存），而非删除或出售。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 35 的核心结构：用 used to 写过去身份，用 far more 加强比较，用 saw...rush out of...写完整动作，用 such a...that...写强烈原因和可见结果，再用 While...连接同时发生的动作。",
+    "intro_zh": "今天把 Lesson 35 的五个核心结构提升到更高水平：用 used to 写过去与现在的对照，用 far more 加强带评价的比较，用 saw...rush out of...写完整的目击动作，用 such a...that...写强烈原因导致的可见结果，再用 While...连接同时发生的两个动作。请尽量写出更抽象、更正式的句子。",
     "patterns": [
       {
         "id": "used_to_old_job",
         "title": "used to ...",
         "source": "Roy Trenton used to drive a taxi.",
         "focus_zh": "used to 写过去常常做或过去的身份，现在情况已经不同。",
-        "task_zh": "仿写一句：写一个人过去常做某事或过去做某种工作，但现在已经改变。",
+        "task_zh": "仿写一句：对比某种职业或做法过去的样子和现在的转变，最好点出转变背后的原因或影响。",
         "must_include": [
           "used to"
         ],
-        "min_words": 9,
-        "sample": "My uncle used to drive a taxi near the station.",
-        "tip_zh": "used to 后接动词原形，句子最好让读者感觉到“过去是这样，现在不一定”。"
+        "min_words": 16,
+        "sample": "Detectives used to rely on eyewitnesses, but today they depend far more on cameras and digital records.",
+        "tip_zh": "used to 后接动词原形，句子最好让读者感觉到“过去是这样，现在已经不同”，并带出对比。"
       },
       {
         "id": "far_more_feeling",
         "title": "far more ...",
         "source": "He is finding his new work far more exciting.",
         "focus_zh": "far more 比 more 更强，适合写一种感受或评价明显增强。",
-        "task_zh": "仿写一句：写一份工作、一项活动或一个新地方比以前令人兴奋、安全、忙碌或有趣得多。",
+        "task_zh": "仿写一句：说明某种新方法、制度或技术在效率、安全或可靠性上比旧的做法明显强出许多。",
         "must_include": [
           "far more"
         ],
-        "min_words": 10,
-        "sample": "This new route is far more exciting than the quiet old one.",
-        "tip_zh": "far more 后面常接形容词，比如 exciting, useful, difficult, important。"
+        "min_words": 16,
+        "sample": "Modern plate-recognition systems make tracing a suspect’s vehicle far more reliable than the old method of asking witnesses.",
+        "tip_zh": "far more 后面常接形容词，比如 reliable, efficient, accurate, important，并用 than 引出对比对象。"
       },
       {
         "id": "saw_rush_out_of",
         "title": "saw ... rush out of ...",
         "source": "He saw two thieves rush out of a shop.",
         "focus_zh": "saw somebody do something 表示看见了整个动作；rush out of 让动作很突然。",
-        "task_zh": "仿写一句：写某人看见另一个人或几个人突然从商店、教室、车站或房间里冲出来。",
+        "task_zh": "仿写一句：写目击者看见若干人突然从某个封闭空间冲出来，并补充一个能成为破案线索的细节。",
         "must_include": [
           "saw",
           "rush out of"
         ],
-        "min_words": 10,
-        "sample": "The guard saw two boys rush out of the back door.",
-        "tip_zh": "saw 后面直接接人，再接动词原形 rush，不要写 saw two boys rushed。"
+        "min_words": 16,
+        "sample": "A startled cashier saw three masked figures rush out of the bank, one of them clutching a torn grey bag.",
+        "tip_zh": "saw 后面直接接人，再接动词原形 rush，不要写 saw three figures rushed。"
       },
       {
         "id": "such_a_that_result",
         "title": "such a ... that ...",
         "source": "The one with the money got such a fright that he dropped the bag.",
         "focus_zh": "such a...that...把镜头放在一次强烈的感受或事件上，然后写出看得见的结果。",
-        "task_zh": "仿写一句：写某人受到很大的惊吓、惊喜或冲击，以至于发生了一个明显结果。",
+        "task_zh": "仿写一句：写某次强烈的冲击、震惊或意外，强烈到引发一个明确而可观察的后果。",
         "must_include": [
           "such a",
           "that"
         ],
-        "min_words": 10,
-        "sample": "She got such a shock that she dropped her keys.",
-        "tip_zh": "such a 后面要接名词短语，比如 fright, shock, surprise；that 后面写完整结果。"
+        "min_words": 16,
+        "sample": "The fleeing driver got such a fright when the alert sounded that he abandoned the car and ran on foot.",
+        "tip_zh": "such a 后面要接名词短语，比如 fright, shock, surprise；that 后面写出完整、具体的结果。"
       },
       {
         "id": "while_two_actions",
         "title": "While ..., ...",
         "source": "While the battered car was moving away, Roy stopped his bus and telephoned the police.",
         "focus_zh": "While 用来把两个正在同一时间段发生的动作放在一起，常常一边是背景动作，一边是主要反应。",
-        "task_zh": "仿写一句：写一个人或车辆正在移动、等待或离开时，另一个人做出安全反应。",
+        "task_zh": "仿写一句：写一辆车或一个人正在移动或逃离时，某个系统或某个人在同一时刻做出冷静而安全的反应。",
         "must_include": [
           "While"
         ],
-        "min_words": 10,
-        "sample": "While the scooter was moving away, the driver called the police.",
+        "min_words": 16,
+        "sample": "While the stolen vehicle was speeding along the motorway, the camera network was quietly logging its every move.",
         "tip_zh": "While 引导的部分常用 was/were doing，让读者看到动作正在进行。"
       }
     ]
