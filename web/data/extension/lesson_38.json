@@ -1,101 +1,95 @@
 {
   "lesson_id": 38,
   "reading": {
-    "title": "Everything Except the Rain",
-    "intro_zh": "这篇短文不复述 Harrison 的退休故事，而是换到一个学生看见海边城市视频后想去那里学习：她认真计划学校、路线和房间，却忘了真正会改变日常生活的气候。",
-    "word_bank": [
-      "climate",
-      "settle down",
-      "daily routine",
-      "complain",
-      "continually",
-      "bitterly",
-      "immediately",
-      "get a shock",
-      "bear",
-      "except"
-    ],
+    "title": "Why the Mediterranean Promises Sunshine",
+    "intro_zh": "本文不复述 Harrison 的退休故事，而是介绍真实的“地中海气候”：它为什么夏季干热、冬季湿冷，又为何分布在全球五个相似的角落。内容改编自加州大学戴维斯分校土壤健康项目的资料。",
+    "source": {
+      "title": "Mediterranean Climatic Zone",
+      "publisher": "University of California, Davis - Soil Health Program",
+      "url": "https://soilhealth.ucdavis.edu/climatic-zones/mediterranean"
+    },
     "passage": [
-      "When Amy saw videos of Harbour Bay, she had often dreamed of studying there for a year. The town looked bright, with blue water, small cafes, and students walking by the beach after class. Before she left home, she had planned almost everything: the school, the bus route, the room, and even a desk by the window. But she did not check the climate carefully. No sooner had she arrived than the rain began. It rained continually for days, and the wind was often bitterly cold. Amy got a shock. She could not sit outside or cycle to school as she had imagined, and at first she began to complain. Later, she bought warm clothes and made a better daily routine indoors. A beautiful picture is not enough for real life; we should not plan everything except the weather."
+      "The sun-soaked image that draws dreamers to the Mediterranean coast is not an accident of geography but the predictable outcome of a distinctive climate. A Mediterranean climate is defined by a striking seasonal reversal: summers are hot and arid, while winters are mild and comparatively wet. This pattern emerges chiefly because of shifting belts of atmospheric pressure. During the warm months, a vast zone of high pressure expands poleward over the ocean, and the descending, stabilising air it carries suppresses cloud formation, delivering month after month of cloudless skies. As the seasons turn, that high-pressure system retreats toward the equator and yields to the westerly winds, which usher in the travelling storms responsible for the bulk of the year's rainfall.",
+      "This pattern is not unique to the shores of southern Europe and North Africa — the Mediterranean Basin is merely the most famous of five widely separated regions where it occurs, each clustered between roughly thirty and forty-five degrees of latitude on the western edge of a continent. The others are California, central Chile, the Cape district of South Africa, and parts of southern Australia, all sharing the same rhythm of dry summers and rainy winters. Precipitation is modest and concentrated, ranging from about thirty-five to ninety centimetres a year and falling overwhelmingly outside the summer. Such conditions sustain hardy oak woodlands and grasslands and have long favoured the cultivation of drought-tolerant crops. Yet the very predictability that makes these places so alluring can mislead newcomers, who picture perpetual sunshine and forget that the winters, however mild, are genuinely wet."
     ],
     "questions": [
       {
-        "id": "amy_dream",
-        "question": "What had Amy dreamed of doing?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "Studying in Harbour Bay for a year.",
-          "Retiring in the English countryside.",
-          "Opening a cafe near her old school.",
-          "Making weather videos for tourists."
+          "How tourists choose holiday destinations near the sea.",
+          "Why one country has better weather than its neighbours.",
+          "What defines the Mediterranean climate and where it is found.",
+          "How farmers irrigate crops during a long dry season."
         ],
-        "answer_index": 0,
-        "explanation_zh": "开头说 Amy had often dreamed of studying there for a year，there 指 Harbour Bay。"
+        "answer_index": 2,
+        "explanation_zh": "全文先解释地中海气候的定义和成因，再说明它分布在全球五个地区（地中海盆地及另外四个），主旨是介绍这种气候的特征与分布。"
       },
       {
-        "id": "planned_details",
-        "question": "What had Amy planned carefully before she left home?",
+        "id": "detail_regions",
+        "question": "According to the passage, in how many widely separated regions does this climate occur?",
         "options": [
-          "The school, bus route, room, and desk.",
-          "Only the beach cafes and video camera.",
-          "A new house in the countryside.",
-          "A job as a weather reporter."
+          "Five.",
+          "Three.",
+          "Seven.",
+          "Two."
         ],
         "answer_index": 0,
-        "explanation_zh": "短文说她计划了 the school, the bus route, the room, and even a desk by the window。"
+        "explanation_zh": "第二段说地中海盆地是全球五个地中海气候区中最有名的一个，其余四个依次是加利福尼亚、智利中部、南非开普区和澳大利亚南部部分地区，共五个。"
       },
       {
-        "id": "forgot_weather",
-        "question": "What important detail did Amy forget to check?",
+        "id": "cause_dry_summer",
+        "question": "Why are the summers so dry in a Mediterranean climate?",
         "options": [
-          "The local climate and rainy weather.",
-          "The name of the school.",
-          "The colour of the sea.",
-          "The price of the desk."
+          "Cold ocean currents push all the rain clouds away.",
+          "An expanding high-pressure zone brings descending air that suppresses clouds.",
+          "The westerly winds blow constantly throughout the summer months.",
+          "Travelling storms release all their rain before reaching the coast."
         ],
-        "answer_index": 0,
-        "explanation_zh": "关键句是 But she did not check the climate carefully，后来才发现雨和冷风会影响生活。"
+        "answer_index": 1,
+        "explanation_zh": "第一段说夏季高压向极地扩张，下沉、稳定的空气抑制云的形成，因此夏季干燥少雨。"
       },
       {
-        "id": "daily_life_changed",
-        "question": "How did the weather change Amy's daily life?",
+        "id": "inference",
+        "question": "What can be inferred about a newcomer who imagines 'perpetual sunshine' in such a region?",
         "options": [
-          "She could not sit outside or cycle to school as she had imagined.",
-          "She immediately opened a cafe by the beach.",
-          "She stopped going to school and left the country.",
-          "She spent every afternoon swimming in warm sunshine."
+          "They will find the summers cooler than they expected.",
+          "They are likely to be surprised by genuinely wet winters.",
+          "They will never experience any rain at all.",
+          "They have correctly understood the local climate."
         ],
-        "answer_index": 0,
-        "explanation_zh": "天气让她不能像想象中那样 sit outside or cycle to school，后来只好调整室内日常安排。"
+        "answer_index": 1,
+        "explanation_zh": "末句指出新来者只想着永远阳光，却忘了冬天确实多雨，可推断他们会被湿润的冬季弄得意外。"
       },
       {
-        "id": "beyond_picture",
-        "question": "What lesson does Amy learn about planning a real life?",
+        "id": "vocab_arid",
+        "question": "In this passage, the word 'arid' most nearly means:",
         "options": [
-          "A beautiful picture is not enough; daily details like weather matter.",
-          "Videos always show the whole truth about a place.",
-          "It is useless to plan schools or bus routes.",
-          "Rainy places are impossible to enjoy."
+          "Very warm and pleasant.",
+          "Crowded and noisy.",
+          "Bright and colourful.",
+          "Extremely dry."
         ],
-        "answer_index": 0,
-        "explanation_zh": "结尾说 A beautiful picture is not enough for real life，意思是计划生活不能只看漂亮画面，还要看每天会遇到的细节。"
+        "answer_index": 3,
+        "explanation_zh": "arid 与 hot 并列描述夏季，且与后文 cloudless、suppresses rainfall 呼应，意为“极度干燥的”。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 38 的梦境和现实落差句式：用 had lived...before...写过去经历，用 had often dreamed of...写长期梦想，用 had no sooner...than...写动作太快，用 even though...写期待和现实的反差，再用 everything except...点出计划里漏掉的关键因素。",
+    "intro_zh": "今天抓五个 Lesson 38 的梦境与现实落差句式，并把它们提升到 B2+ 难度：用 had lived...before...写更久远的过去经历，用 had often dreamed of...写抽象而长期的向往，用 had no sooner...than...写转折之快，用 even though...写期待与现实的反差，再用 everything except...点出周密计划里被忽略的关键变量。",
     "patterns": [
       {
         "id": "had_lived_before",
         "title": "had lived ... before ...",
         "source": "Harrison had lived in the Mediterranean for many years before he returned to England.",
         "focus_zh": "过去完成时 had lived 用来写“在另一个过去动作发生以前，已经生活过一段时间”。",
-        "task_zh": "仿写一句：写某人在搬家、回国、换学校或参加新活动以前，已经在某个地方生活过一段时间。",
+        "task_zh": "仿写一句：写某人在经历一次重大人生转变（移居、退休、转行或留学）之前，已经在某种环境或氛围中沉浸了很长时间，并暗示这段经历塑造了他。",
         "must_include": [
           "had lived",
           "before"
         ],
-        "min_words": 12,
-        "sample": "My cousin had lived near the sea for three years before she moved inland.",
+        "min_words": 16,
+        "sample": "My grandmother had lived under the relentless sunshine of the southern coast for two decades before she reluctantly relocated to the misty north.",
         "tip_zh": "had lived 放在更早的过去；before 后面接后发生的过去动作。"
       },
       {
@@ -103,12 +97,12 @@
         "title": "had often dreamed of ...",
         "source": "He had often dreamed of retiring in England.",
         "focus_zh": "had often dreamed of 写一个持续很久的梦想，适合放在故事真正行动开始之前。",
-        "task_zh": "仿写一句：写某人长期梦想住在某地、加入某个学校、学习某项技能或开始一种新生活。",
+        "task_zh": "仿写一句：写某人长期、反复地向往一种抽象的生活方式或理想状态，而不只是一个具体地点。",
         "must_include": [
           "had often dreamed of"
         ],
-        "min_words": 10,
-        "sample": "She had often dreamed of studying in a bright seaside town.",
+        "min_words": 15,
+        "sample": "Throughout those grey winters abroad, she had often dreamed of returning to a sunlit town where life unfolded slowly outdoors.",
         "tip_zh": "dreamed of 后面接名词或动名词，比如 studying, living, joining。"
       },
       {
@@ -116,13 +110,13 @@
         "title": "had no sooner ... than ...",
         "source": "He had no sooner returned than he bought a house and went to live there.",
         "focus_zh": "had no sooner...than...强调前一个动作刚发生，后一个动作就立刻跟上，带有“太快了”的故事感。",
-        "task_zh": "仿写一句：写某人刚到一个新地方、刚做出决定或刚看见机会，就马上采取了另一个行动。",
+        "task_zh": "仿写一句：写某人刚刚完成一个看似圆满的决定，紧接着一个意料之外的现实就迫使他重新评估。",
         "must_include": [
           "had no sooner",
           "than"
         ],
-        "min_words": 12,
-        "sample": "He had no sooner arrived at the camp than he joined the football team.",
+        "min_words": 16,
+        "sample": "He had no sooner settled into the charming coastal apartment than the relentless winter storms forced him to reconsider everything.",
         "tip_zh": "no sooner 后写第一个动作，than 后写立刻发生的第二个动作。"
       },
       {
@@ -130,12 +124,12 @@
         "title": "Even though ..., ...",
         "source": "Even though it was still summer, it rained continually.",
         "focus_zh": "even though 用来写期待和现实的反差：按理说应该这样，结果却那样。",
-        "task_zh": "仿写一句：写虽然是夏天、假期或一个漂亮地方，但天气、交通或日常生活并不像想象中那样。",
+        "task_zh": "仿写一句：写尽管某个宣传、印象或预期承诺了美好，真实情况却与之形成鲜明落差。",
         "must_include": [
           "even though"
         ],
-        "min_words": 11,
-        "sample": "Even though it was still summer, the mountain town was bitterly cold.",
+        "min_words": 15,
+        "sample": "Even though the brochures had promised endless sunshine, the resort lay shrouded in cold drizzle for the entire holiday.",
         "tip_zh": "even though 后面给出“本来以为会顺利”的条件，主句写真实情况。"
       },
       {
@@ -143,12 +137,12 @@
         "title": "everything except ...",
         "source": "Harrison had thought of everything except the weather.",
         "focus_zh": "everything except...用一个小缺口收束故事：很多事都想到了，唯独漏掉了最关键的一点。",
-        "task_zh": "仿写一句：写某人计划旅行、搬家、活动或学习安排时，什么都想到了，唯独漏掉一个会影响每天生活的因素。",
+        "task_zh": "仿写一句：写某人对一项重大计划做了极其周密的准备，却唯独遗漏了一个会持续影响日常生活的隐性变量。",
         "must_include": [
           "everything except"
         ],
-        "min_words": 10,
-        "sample": "We had planned everything except the long rainy walk to school.",
+        "min_words": 15,
+        "sample": "The couple had meticulously researched everything except the damp climate that would quietly shape their every waking hour.",
         "tip_zh": "except 后面接漏掉的因素；这个因素最好能改变后面的生活或行动。"
       }
     ]
