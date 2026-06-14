@@ -1,100 +1,94 @@
 {
   "lesson_id": 13,
   "reading": {
-    "title": "The School Drama Schedule",
-    "intro_zh": "这篇短文不复述绿林少年的车站接待，而是换成一个校园戏剧社来访的三天安排：谁来、怎么来、在哪里接待、接下来会做什么、老师为什么要维持秩序。重点回收 group / at present / will be arriving / will be coming by / will be staying / performances / as usual / keep order。",
-    "word_bank": [
-      "group",
-      "pop singers",
-      "at present",
-      "will be arriving",
-      "will be coming by",
-      "will be staying",
-      "performances",
-      "as usual",
-      "keep order",
-      "occasion"
-    ],
+    "title": "When a Crowd Behaves Like a Liquid",
+    "intro_zh": "这篇短文不复述绿林少年的车站接待，而是讲一个真实的科学话题：当成千上万的人群在大型活动中聚集时，密集的人群会像液体一样流动，物理学家正用摄像头研究这种现象，以帮助维持秩序、预防踩踏。内容改编自英国权威科普媒体 BBC Science Focus 的报道。",
+    "source": {
+      "title": "Human crowds act just like liquids, and we have the footage to prove it",
+      "publisher": "BBC Science Focus Magazine",
+      "url": "https://www.sciencefocus.com/news/human-crowds-act-just-like-liquids-and-we-have-the-footage-to-prove-it"
+    },
     "passage": [
-      "At present, the North Hill Drama Club is visiting schools near the city. The club is a group of student performers, not pop singers, but everyone knows their new play. Tomorrow morning, they will be arriving at Green Street School. They will be coming by bus, and the school choir will be meeting them outside the main hall. After lunch, the visitors will be showing younger students how to speak clearly on stage. In the evening, they will give the first of three performances in the auditorium. The drama club will be staying for three days. During this time, some students will be helping with lights, tickets, and seats. As usual on a popular school occasion, teachers will be trying to keep order while everyone finds the right place."
+      "Whenever a famous group tours from town to town, the same scene repeats itself: crowds gather, excitement builds, and someone must keep order. For decades that task rested on intuition, but physicists have begun to treat dense crowds as a measurable phenomenon. A team led by Denis Bartolo filmed the opening ceremony of the San Fermin festival in Spain, where roughly five thousand people pack into a plaza measuring only fifty metres by twenty. Using overhead cameras and computer vision, the researchers tracked how the density of bodies climbed from about two people per square metre to six, and finally to a perilous nine.",
+      "What they discovered was startling. Once the crowd grew sufficiently dense, it stopped behaving like a collection of individuals and started flowing like a liquid. Clusters of a few hundred people started oscillating rhythmically, each cycle lasting roughly eighteen seconds, even though nobody was deliberately pushing. These spontaneous waves emerged purely from the physics of bodies pressed together. The pattern was not unique to a single celebration; the scientists detected an almost identical rhythm in archived footage of the 2010 Love Parade in Germany, a tragedy in which twenty-one people died. Because such oscillations are predictable, organisers may one day read them as an early warning, intervening before a joyful gathering tips into a deadly crush."
     ],
     "questions": [
       {
-        "id": "visiting_group",
-        "question": "Who is visiting Green Street School?",
+        "id": "main_idea",
+        "question": "What is the main point of the passage?",
         "options": [
-          "A group of pop singers.",
-          "The North Hill Drama Club.",
-          "A team of police officers.",
-          "The school choir from another city."
+          "Music festivals in Spain are more dangerous than concerts elsewhere.",
+          "Crowds should be banned from small public squares.",
+          "Scientists have found that dense crowds move in measurable, liquid-like patterns.",
+          "The Love Parade was the first event ever studied by physicists."
         ],
-        "answer_index": 1,
-        "explanation_zh": "短文开头说明 the North Hill Drama Club is visiting schools，后来点明他们明天到 Green Street School。"
+        "answer_index": 2,
+        "explanation_zh": "全文围绕一个核心发现展开：密集人群会像液体一样流动，并呈现可测量的规律波动，因此选 C。其余选项都是文中未支持或被夸大的细节。"
       },
       {
-        "id": "arrival_plan",
-        "question": "How and when will the visitors arrive?",
+        "id": "detail_density",
+        "question": "According to the passage, how did the crowd density change during the ceremony?",
         "options": [
-          "They will be arriving tomorrow morning and coming by bus.",
-          "They will be arriving tonight and coming by train.",
-          "They will be arriving next week and coming by plane.",
-          "They will be arriving after three performances."
+          "It rose from about two people per square metre to roughly nine.",
+          "It stayed constant at five people per square metre.",
+          "It fell from nine people per square metre to two.",
+          "It never exceeded three people per square metre."
         ],
         "answer_index": 0,
-        "explanation_zh": "文中连续写道 Tomorrow morning, they will be arriving... They will be coming by bus。"
+        "explanation_zh": "文中明确说密度从大约每平方米两人上升到六人，最后达到危险的九人，所以选 A。"
       },
       {
-        "id": "meeting_place",
-        "question": "Where will the school choir meet the visitors?",
+        "id": "cause_waves",
+        "question": "What caused the regular swaying waves in the crowd?",
         "options": [
-          "At the bus station.",
-          "In the auditorium after the show.",
-          "Outside the main hall.",
-          "In the city theatre."
-        ],
-        "answer_index": 2,
-        "explanation_zh": "短文说 the school choir will be meeting them outside the main hall。"
-      },
-      {
-        "id": "visit_activities",
-        "question": "What will the drama club be doing during the visit?",
-        "options": [
-          "They will only watch classes and then go home.",
-          "They will play a football match every evening.",
-          "They will sell bus tickets outside the main hall.",
-          "They will show younger students stage speaking and give three performances."
+          "Security staff pushing people into lines.",
+          "Loud music forcing people to dance in rhythm.",
+          "People deliberately rocking together on purpose.",
+          "The physics of densely packed bodies, with no one deliberately pushing."
         ],
         "answer_index": 3,
-        "explanation_zh": "短文写他们会教低年级学生舞台表达，还会 give the first of three performances。"
+        "explanation_zh": "短文指出这些波动是自发产生的，源于紧密挤压的身体之间的物理作用，而且没有人故意推搡，所以选 D。"
       },
       {
-        "id": "keep_order_reason",
-        "question": "Why will teachers need to keep order?",
+        "id": "inference_warning",
+        "question": "What can we infer about why this research matters for event organisers?",
         "options": [
-          "Because the visitors are lost in the city.",
-          "Because no students want to see the play.",
-          "Because many people will be finding seats and the right places for a popular occasion.",
-          "Because the drama club refuses to perform."
+          "It proves that large festivals should always be cancelled.",
+          "The predictable waves could serve as an early warning to prevent a crush.",
+          "It shows that crowds are impossible to study or control.",
+          "It suggests cameras should be banned at public events."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结尾说这种振荡是可预测的，组织者也许有朝一日能把它当作预警信号，在欢乐聚会变成致命踩踏之前介入，因此可推断研究有助于提前预警，选 B。"
+      },
+      {
+        "id": "vocab_perilous",
+        "question": "In the passage, the word \"perilous\" most nearly means:",
+        "options": [
+          "comfortable and relaxed",
+          "ordinary and unremarkable",
+          "dangerous and risky",
+          "quiet and empty"
         ],
         "answer_index": 2,
-        "explanation_zh": "结尾说明这是受欢迎的 school occasion，大家要找座位和位置，所以老师要 keep order。"
+        "explanation_zh": "perilous 用来形容每平方米九人的高密度状态，这是一个危险的水平，所以意思最接近 dangerous and risky，选 C。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓 Lesson 13 的五个时间表句式：现在正在发生的安排、未来到达、未来交通方式、停留时长，以及为了管理现场会努力做什么。",
+    "intro_zh": "今天把 Lesson 13 的五个时间表句式提升到 B2+：用 At present 描述当前正在展开的安排，用 will be arriving / will be coming by / will be staying for 把已经确定的未来行程像日程表一样铺开，再用 will be trying to 写现场管理的努力。每句都要更抽象、更书面，并保持将来进行时的语感。",
     "patterns": [
       {
         "id": "at_present_now",
         "title": "At present, ...",
         "source": "At present, they are visiting all parts of the country.",
         "focus_zh": "用 At present 写“目前正在发生的事”，适合介绍一个活动、团队或计划的当前状态。",
-        "task_zh": "仿写一句：写一个团队、班级或活动目前正在准备、参观或巡回。",
+        "task_zh": "仿写一句：描述某个机构、研究团队或活动当前正处于哪个阶段（如正在筹备、巡演、调研或转型），语气尽量正式抽象。",
         "must_include": [
           "At present"
         ],
-        "min_words": 8,
-        "sample": "At present, our class is preparing for the school concert.",
+        "min_words": 15,
+        "sample": "At present, our research team is gathering crowd-density data at several major festivals across the country.",
         "tip_zh": "At present 比 now 更正式一点，适合放在活动介绍或小短文开头。"
       },
       {
@@ -102,12 +96,12 @@
         "title": "will be arriving ...",
         "source": "They will be arriving here tomorrow.",
         "focus_zh": "用 will be arriving 写已经安排好的未来到达，让读者看到时间表上的到达动作。",
-        "task_zh": "仿写一句：说明某个团队、客人或亲戚明天或周末会到达某地。",
+        "task_zh": "仿写一句：说明一个代表团、专家或来访团体将在某个具体时间到达某地，并补充到达后的背景或目的。",
         "must_include": [
           "will be arriving"
         ],
-        "min_words": 8,
-        "sample": "The debate team will be arriving at our school tomorrow.",
+        "min_words": 15,
+        "sample": "A delegation of safety experts will be arriving at the conference centre early tomorrow to inspect the venue.",
         "tip_zh": "arrive 后面常接 at/in 加地点；小地点用 at，大城市或国家常用 in。"
       },
       {
@@ -115,12 +109,12 @@
         "title": "will be coming by ...",
         "source": "They will be coming by train.",
         "focus_zh": "用 will be coming by 写未来的交通方式，像在活动通知里交代来路。",
-        "task_zh": "仿写一句：说明某人将乘火车、公交、飞机或地铁来到活动地点。",
+        "task_zh": "仿写一句：在一个正式的活动通知里交代某个团体将采用的交通方式，并说明原因或随之而来的安排。",
         "must_include": [
           "will be coming by"
         ],
-        "min_words": 8,
-        "sample": "The visiting students will be coming by bus after lunch.",
+        "min_words": 15,
+        "sample": "Most of the international visitors will be coming by high-speed train, so the station staff are preparing extra signs.",
         "tip_zh": "by 后面直接接交通工具，不加 a 或 the：by bus, by train, by plane。"
       },
       {
@@ -128,12 +122,12 @@
         "title": "will be staying for ...",
         "source": "The Greenwood Boys will be staying for five days.",
         "focus_zh": "用 will be staying for 写未来停留多久，帮助你把活动安排讲完整。",
-        "task_zh": "仿写一句：说明某个团队、朋友或亲戚会停留几天、几小时或一周。",
+        "task_zh": "仿写一句：说明某个团队、专家或代表团将停留多长时间，并补充他们在此期间的安排或目标。",
         "must_include": [
           "will be staying for"
         ],
-        "min_words": 8,
-        "sample": "The drama club will be staying for three days.",
+        "min_words": 15,
+        "sample": "The visiting orchestra will be staying for an entire week, rehearsing each morning and giving concerts every night.",
         "tip_zh": "for 后面接一段时间，比如 three days, two hours, one week。"
       },
       {
@@ -141,12 +135,12 @@
         "title": "will be trying to ...",
         "source": "They will be trying to keep order.",
         "focus_zh": "用 will be trying to 写未来某人会努力处理一个现场任务，常用于维持秩序、帮助别人或解决问题。",
-        "task_zh": "仿写一句：写老师、工作人员或学生干部在活动中会努力维持秩序或帮助大家。",
+        "task_zh": "仿写一句：描述工作人员、组织者或研究人员在大型活动中会努力完成的复杂任务（如维持秩序、监测人群、协调流程）。",
         "must_include": [
           "will be trying to"
         ],
-        "min_words": 9,
-        "sample": "The teachers will be trying to keep order near the hall.",
+        "min_words": 16,
+        "sample": "Throughout the festival, the organisers will be trying to keep order by monitoring crowd density with overhead cameras and trained spotters.",
         "tip_zh": "try to 后面接动词原形；如果是现场管理，keep order 是一个很有用的固定表达。"
       }
     ]
