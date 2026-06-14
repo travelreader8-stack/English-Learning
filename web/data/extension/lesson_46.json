@@ -1,101 +1,95 @@
 {
   "lesson_id": 46,
   "reading": {
-    "title": "The Heavy Trunk",
-    "intro_zh": "这篇短文把 Lesson 46 的“异常沉重的箱子”换到学校后台：大家发现一个戏剧社木箱重得不正常，但没有冒险乱开，而是请老师按安全规则检查。它不复述机场偷搭飞机，而是练习 account for、It occurred to... 和 admit doing：解释一个奇怪现象，做出安全判断，再看规则捷径为什么会变贵。",
-    "word_bank": [
-      "delivery",
-      "unload",
-      "wooden box",
-      "account for",
-      "extremely",
-      "occurred",
-      "astonished",
-      "admit",
-      "safety rule",
-      "normal price"
-    ],
+    "title": "What Hides Inside Air Cargo",
+    "intro_zh": "本文承接 Lesson 46“货运木箱里藏着意外”的主题，转向真实世界的航空货运安全：为什么没有申报的危险品会威胁整架飞机。内容改写自国际航空运输协会（IATA）《危险品规则》常见问题，并参考美国联邦航空管理局（FAA）资料。",
+    "source": {
+      "title": "Frequently Asked Questions on Transportation of Dangerous Goods by Air",
+      "publisher": "International Air Transport Association (IATA)",
+      "url": "https://www.iata.org/en/programs/cargo/dgr/faq/"
+    },
     "passage": [
-      "On Friday afternoon, two drama-club students helped unload a wooden trunk from a delivery van. The trunk was supposed to contain only costumes for the school play, but it was extremely heavy. No one could account for the fact that a box of shirts and hats needed three people to move it. It occurred to Ms. Lee, the club teacher, to check the delivery form before opening it. She asked everyone to stand back and called the school office. When the trunk was opened safely, they were astonished to find a lighting machine and several metal stands under the costumes. Later, one student admitted adding the equipment to the trunk to avoid paying the normal delivery price for a second box. Ms. Lee explained that breaking a safety rule had made the delivery slower, more expensive, and much more dangerous."
+      "Every day, aircraft carry far more than passengers; their holds are packed with freight whose contents the crew can never fully verify. To keep flights safe, the industry relies on a strict definition: dangerous goods are items that may endanger the safety of an aircraft or the people aboard it. The framework that governs them is laid down internationally in the ICAO Technical Instructions and translated into the more practical IATA Dangerous Goods Regulations, which airlines often tighten still further. Crucially, the burden of classifying a shipment correctly falls on the shipper, not the carrier. An airline is never obliged to accept a given substance, and a single mislabelled carton can be turned away at the loading dock.",
+      "The real menace, however, is the cargo that arrives undeclared. When a hazardous item travels without the proper papers, markings or labels, handlers are denied any chance to stow it safely or to brief the flight crew. Lithium batteries illustrate the danger vividly. Officially recognised as dangerous goods, they can undergo thermal runaway, a chain reaction in which a damaged or overheated cell releases its stored energy as intense heat, flammable gas and fire. Investigators have warned that a sealed cargo hold is poorly equipped to contain such a blaze, because conventional suppression systems were never engineered for it. What makes the problem so insidious is that countless ordinary household products, from aerosols to spare power banks, also qualify as dangerous goods, so an unwitting passenger or supplier can transform routine freight into a latent threat at thirty thousand feet."
     ],
     "questions": [
       {
-        "id": "strange_weight",
-        "question": "What made the wooden trunk seem strange?",
+        "id": "main_idea",
+        "question": "What is the main point of the passage?",
         "options": [
-          "It had arrived on the wrong day.",
-          "It was supposed to contain costumes, but it was extremely heavy.",
-          "It had no costumes inside it at all.",
-          "It was too small to fit through the classroom door."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "短文说箱子本来只该装 costumes，但 it was extremely heavy，所以奇怪的是“装衣服道具的箱子重得不正常”。"
-      },
-      {
-        "id": "teacher_decision",
-        "question": "Who decided what to do next?",
-        "options": [
-          "Ms. Lee, the club teacher, checked the form and called the school office.",
-          "The delivery driver opened the trunk alone.",
-          "The two students carried the trunk home.",
-          "The office asked the students to ignore the problem."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "Ms. Lee 想到先查看 delivery form，并让大家退后、联系学校办公室；她是按安全规则决定下一步的人。"
-      },
-      {
-        "id": "inside_trunk",
-        "question": "What was found under the costumes?",
-        "options": [
-          "A pile of woolen goods from London.",
-          "A lost school envelope full of money.",
-          "A lighting machine and several metal stands.",
-          "A normal ticket for a school bus."
+          "Lithium batteries should be banned from every kind of aircraft.",
+          "Airlines refuse to carry most ordinary household products.",
+          "Undeclared and mislabelled dangerous goods pose a serious, regulated threat to air safety.",
+          "Passengers are usually to blame for cargo accidents."
         ],
         "answer_index": 2,
-        "explanation_zh": "安全打开后，大家发现 costumes 下面有 a lighting machine and several metal stands。"
+        "explanation_zh": "全文围绕“危险品，尤其是未申报或贴错标签的货物，对飞行安全构成受到严格监管的威胁”展开，其他选项要么过窄，要么文中并未支持。"
       },
       {
-        "id": "admitted_action",
-        "question": "What did one student admit doing?",
+        "id": "responsibility_detail",
+        "question": "According to the passage, who is responsible for classifying a shipment correctly?",
         "options": [
-          "Hiding inside the trunk during the delivery.",
-          "Adding the equipment to avoid paying for a second box.",
-          "Breaking the costumes before the school play.",
-          "Selling the lighting machine to another club."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "原文说 one student admitted adding the equipment...to avoid paying the normal delivery price for a second box。"
-      },
-      {
-        "id": "shortcut_lesson",
-        "question": "What lesson does the story teach about shortcuts?",
-        "options": [
-          "A shortcut that avoids rules can become slower, more expensive, and more dangerous.",
-          "It is always safe to hide heavy equipment under soft clothes.",
-          "Students should open strange boxes quickly before adults arrive.",
-          "The normal delivery price is never worth paying."
+          "The shipper who sends the goods.",
+          "The flight crew on board.",
+          "The passengers who check baggage.",
+          "The international regulators at ICAO."
         ],
         "answer_index": 0,
-        "explanation_zh": "结尾点明：breaking a safety rule made the delivery slower, more expensive, and much more dangerous。逃规则的捷径反而代价更大。"
+        "explanation_zh": "原文明确写道 the burden of classifying a shipment correctly falls on the shipper, not the carrier，即责任在托运人（shipper）。"
+      },
+      {
+        "id": "thermal_runaway_process",
+        "question": "Why are lithium batteries described as especially dangerous in a cargo hold?",
+        "options": [
+          "They are heavier than the freight around them.",
+          "They can enter thermal runaway, releasing heat, gas and fire that the hold cannot easily contain.",
+          "They are always shipped without any packaging.",
+          "They make the aircraft fly more slowly."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中解释锂电池可能发生 thermal runaway，释放强热、可燃气体和火焰，而密封货舱难以扑灭这种火灾，因此格外危险。"
+      },
+      {
+        "id": "inference_undeclared",
+        "question": "What can be inferred about why undeclared cargo is more dangerous than declared dangerous goods?",
+        "options": [
+          "Undeclared cargo is always heavier and harder to lift.",
+          "Declared goods are never actually hazardous.",
+          "Without proper papers and labels, handlers cannot stow the item safely or warn the crew.",
+          "Airlines charge more money for undeclared cargo."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "可推断：未申报意味着没有正确的文件、标记和标签，handlers 无法安全装载，也无法提醒机组——因此比已申报的危险品更危险。"
+      },
+      {
+        "id": "vocab_insidious",
+        "question": "In the final sentence, the word \"insidious\" most nearly means",
+        "options": [
+          "loud and obvious to everyone.",
+          "cheap and easy to replace.",
+          "carefully labelled and declared.",
+          "harmful in a hidden, gradually dangerous way."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "insidious 指“暗藏危害、不易察觉却逐渐危险”。文中说普通家居用品也可能是危险品，危险正在于其隐蔽，故选“以隐蔽方式造成危害”。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 46 的“发现问题到承担后果”句式：用 When..., workers began to... 写时间背景和主动作，用 No one could account for the fact that... 写解释不了的异常，用 It occurred to...to... 写突然想到的办法，用 so surprised at being...that... 写被发现后的反应，再用 admitted doing... 写承认做过的事。",
+    "intro_zh": "今天抓五个 Lesson 46 的“发现问题到承担后果”句式，并把它们升级到更正式、更抽象的语境：用 When..., workers began to... 写时间背景与主动作，用 No one could account for the fact that... 写无法解释的异常，用 It occurred to...to... 写突然产生的念头，用 so surprised at being...that... 写被发现/被揭露后的反应，再用 admitted doing... 写承认做过的事。",
     "patterns": [
       {
         "id": "when_began_to",
         "title": "When ..., workers began to ...",
         "source": "When a plane from London arrived at Sydney airport, workers began to unload a number of wooden boxes which contained clothing.",
         "focus_zh": "When 从句先交代时间背景，主句用 began to 写某个动作开始发生，适合搭建故事第一幕。",
-        "task_zh": "仿写一句：写某个时间、地点或事件发生后，工作人员、同学或志愿者开始做一件具体的事。",
+        "task_zh": "仿写一句：写在某个正式或抽象的时刻（如政策生效后、调查启动后、风险被识别后），相关人员开始进行一项严肃的工作。",
         "must_include": [
           "When",
           "began to"
         ],
-        "min_words": 12,
-        "sample": "When the delivery van arrived at the school gate, the students began to unload the wooden boxes.",
+        "min_words": 16,
+        "sample": "When the unmarked consignment finally cleared the loading dock, the cargo handlers began to inspect every carton for undeclared hazardous materials.",
         "tip_zh": "When 后面写背景，逗号后写主动作；began to 后面接动词原形。"
       },
       {
@@ -103,12 +97,12 @@
         "title": "No one could account for the fact that ...",
         "source": "No one could account for the fact that one of the boxes was extremely heavy.",
         "focus_zh": "account for 在这里不是“占比”，而是“解释原因”；这个句式专门用来写一个没人解释得清的异常。",
-        "task_zh": "仿写一句：写一个声音、重量、价格或结果很奇怪，没人能解释为什么会这样。",
+        "task_zh": "仿写一句：写一个反常的结果、数据或故障，说明唯有经过分析或调查后才能解释清楚其原因。",
         "must_include": [
           "could account for the fact that"
         ],
-        "min_words": 12,
-        "sample": "No one could account for the fact that the small trunk was extremely heavy.",
+        "min_words": 16,
+        "sample": "Investigators could account for the fact that the suppression system failed only after they traced the fire to a single overheated lithium cell.",
         "tip_zh": "No one could account for... 比 No one knew why... 更正式，也更贴近课文。"
       },
       {
@@ -116,12 +110,12 @@
         "title": "It occurred to ... to ...",
         "source": "It suddenly occurred to one of the workers to open up the box.",
         "focus_zh": "It occurred to someone to do something 表示“某人突然想到去做某事”，不是“某事发生在某人身上”。",
-        "task_zh": "仿写一句：写某人突然想到一个安全、聪明或负责任的办法。",
+        "task_zh": "仿写一句：写某人在关键时刻突然想到去采取一个谨慎、负责或具有预见性的措施。",
         "must_include": [
           "It occurred to"
         ],
-        "min_words": 12,
-        "sample": "It occurred to the teacher to check the delivery form before opening the trunk.",
+        "min_words": 16,
+        "sample": "It occurred to the safety officer to cross-check the shipping declaration against the actual contents before the consignment was loaded onto the aircraft.",
         "tip_zh": "to 后面接想到要做的动作：to check, to call, to ask, to open。"
       },
       {
@@ -129,13 +123,13 @@
         "title": "so surprised at being ... that ...",
         "source": "He was so surprised at being discovered that he did not even try to run away.",
         "focus_zh": "so...that... 写“太……以至于……”；being discovered 这种 being + 过去分词强调“被发现”这个状态。",
-        "task_zh": "仿写一句：写某人因为被发现、被表扬、被点名或被提醒而非常吃惊，以至于做出了一个反应。",
+        "task_zh": "仿写一句：写某人因为被追责、被揭露、被问询或被审查而极为震惊，以至于采取了一个重大的应对行动。",
         "must_include": [
           "so surprised at being",
           "that"
         ],
-        "min_words": 12,
-        "sample": "The student was so surprised at being questioned that he told the truth at once.",
+        "min_words": 16,
+        "sample": "The supplier was so surprised at being held legally responsible for the mislabelled cargo that he immediately revised the company's entire shipping procedure.",
         "tip_zh": "being 后面用过去分词：being discovered, being called, being chosen。"
       },
       {
@@ -143,12 +137,12 @@
         "title": "admitted doing ...",
         "source": "The man admitted hiding in the box.",
         "focus_zh": "admit 后面常接动词 -ing，表示承认自己做过某件不该做或尴尬的事。",
-        "task_zh": "仿写一句：写某人承认做过一件违反规则、造成麻烦或让人尴尬的事。",
+        "task_zh": "仿写一句：写某人或某机构最终承认做过一件违反规定、规避监管或造成安全隐患的事。",
         "must_include": [
           "admitted"
         ],
-        "min_words": 10,
-        "sample": "The student admitted putting the heavy equipment into the trunk.",
+        "min_words": 16,
+        "sample": "The exporter eventually admitted concealing the lithium batteries among ordinary goods in order to avoid the stricter declaration requirements.",
         "tip_zh": "注意不是 admitted to put；这里要用 admitted putting / hiding / breaking / making。"
       }
     ]
