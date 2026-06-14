@@ -861,6 +861,12 @@ input:disabled {
   color: var(--ink);
 }
 .extension-article p + p { margin-top: 10px; }
+.extension-source {
+  margin-top: 12px;
+  font-size: 13px;
+  color: var(--muted, #888);
+}
+.extension-source a { color: inherit; text-decoration: underline; }
 .extension-questions,
 .sentence-writing-patterns {
   display: flex;

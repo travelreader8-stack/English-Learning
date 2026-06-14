@@ -1293,6 +1293,18 @@ function renderExtension() {
   renderSentenceWriting();
 }
 
+function renderExtensionSource(source) {
+  if (!source || typeof source !== "object") return "";
+  const label = [source.publisher, source.title]
+    .filter(Boolean).map(v => escapeHtml(String(v))).join(" — ");
+  if (!label) return "";
+  const url = typeof source.url === "string" ? source.url : "";
+  const inner = /^https?:\/\//i.test(url)
+    ? `<a href="${escapeHtml(url)}" target="_blank" rel="noopener noreferrer">${label}</a>`
+    : label;
+  return `<p class="extension-source">来源：${inner}</p>`;
+}
+
 function renderExtensionReading() {
   const reading = getExtensionReading();
   if (!reading) return;
@@ -1310,6 +1322,7 @@ function renderExtensionReading() {
     article.innerHTML = `
       ${reading.title ? `<h3>${escapeHtml(reading.title)}</h3>` : ""}
       ${passage.map(p => `<p>${escapeHtml(p)}</p>`).join("")}
+      ${renderExtensionSource(reading.source)}
     `;
   }
 
