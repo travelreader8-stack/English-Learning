@@ -1,100 +1,95 @@
 {
   "lesson_id": 3,
   "reading": {
-    "title": "The Unsent Travel Message",
-    "intro_zh": "这篇短文不复述明信片故事，而是换到现代旅行里的小承诺：答应发送旅行相册和几句话，却一直在准备、挑选、修改，最后仍然什么也没有发出去。",
-    "word_bank": [
-      "spoil",
-      "holiday",
-      "travel photos",
-      "a few lines",
-      "decision",
-      "the whole day",
-      "not a single",
-      "message",
-      "promise",
-      "quickly"
-    ],
+    "title": "Why We Put Things Off",
+    "intro_zh": "这篇文章不复述明信片故事，而是探讨拖延背后的真实心理：根据美国心理学会（APA）的访谈研究改编，说明拖延其实是一种情绪调节，而非时间管理或懒惰的问题。",
+    "source": {
+      "title": "Why we procrastinate and what to do about it, with Fuschia Sirois, PhD",
+      "publisher": "American Psychological Association (Speaking of Psychology)",
+      "url": "https://www.apa.org/news/podcasts/speaking-of-psychology/procrastinate"
+    },
     "passage": [
-      "Before her school holiday, Mina made a promise to her cousin: she would send a small travel album and a short message from the seaside. At first, the promise sounded easy. Every evening she took many travel photos, but the little task began to spoil her holiday. She kept thinking, \"I must send it tonight.\" On the last day, Mina made a big decision. She stayed in the hotel room, chose twelve photos, changed their order, and wrote a few lines under the first picture. The whole day passed quickly. At dinner, her mother asked, \"Did you send the album?\" Mina looked at her phone. She had prepared everything, but not a single message had been sent."
+      "Most of us assume that procrastination is a flaw in time management, or simply a kind of laziness. Psychologists who study the behaviour, however, argue that this assumption is misleading. According to research discussed by the American Psychological Association, putting things off is better understood as a failure of emotion regulation rather than of scheduling. When a task stirs up anxiety, boredom, or the fear of doing it badly, delaying that task delivers an immediate sense of relief. The unpleasant feeling fades, at least for the moment, and that fleeting comfort is precisely what makes the habit so difficult to break.",
+      "The trouble is that this short-term mood repair comes at a steep long-term cost. Each time avoidance is rewarded with relief, the brain learns to repeat it, and a temporary escape hardens into a chronic pattern. Researchers have linked persistent procrastination not only to weaker academic and career outcomes and lower earnings, but also to genuine physical consequences: one study found that every one-point rise on a measure of chronic procrastination was associated with a markedly higher risk of poor heart health. The behaviour, in other words, is far from harmless.",
+      "What seems to help is counterintuitive. Rather than scolding themselves, people who treat their own lapses with compassion tend to recover faster. In one study, students who genuinely forgave themselves for delaying their work were found to procrastinate less on the next assignment. The lesson is subtle but powerful: because procrastination is driven by uncomfortable emotions, the remedy lies not in harsher self-criticism but in managing those emotions more kindly, so that the task itself no longer feels like a threat to be avoided."
     ],
     "questions": [
       {
-        "id": "promised_task",
-        "question": "What small task did Mina promise to do?",
+        "id": "main_idea",
+        "question": "What is the main point the passage makes about procrastination?",
         "options": [
-          "Send a small travel album and a short message to her cousin.",
-          "Buy postcards for every student in her class.",
-          "Teach her cousin a few words of Italian.",
-          "Write a long report about all seaside hotels."
+          "It is mainly caused by having too many tasks to schedule.",
+          "It is best understood as a problem of managing emotions, not time.",
+          "It is a harmless habit that disappears on its own.",
+          "It is a sign that a person lacks intelligence."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "全文核心是：拖延应被理解为情绪调节的失败，而非时间管理或懒惰的问题，所以选第二项。"
+      },
+      {
+        "id": "detail_health",
+        "question": "According to the passage, what physical consequence has research linked to chronic procrastination?",
+        "options": [
+          "A markedly higher risk of poor heart health.",
+          "A permanent loss of memory.",
+          "A weakened sense of smell.",
+          "A higher chance of catching colds."
         ],
         "answer_index": 0,
-        "explanation_zh": "开头说明 Mina promised to send a small travel album and a short message from the seaside。"
+        "explanation_zh": "第二段提到，慢性拖延量表每上升一分，心脏健康变差的风险显著升高，所以选第一项。"
       },
       {
-        "id": "spoiled_mood",
-        "question": "Why did the task begin to spoil her holiday?",
+        "id": "cause_effect",
+        "question": "Why does procrastination become such a hard habit to break?",
         "options": [
-          "Because she had to take photos for a newspaper.",
-          "Because she kept thinking that she must send it tonight.",
-          "Because her cousin did not like travel photos.",
-          "Because the hotel room had no windows."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "短文说 she kept thinking, \"I must send it tonight.\" 这个没完成的小任务影响了她的假期心情。"
-      },
-      {
-        "id": "looked_productive",
-        "question": "Which action looked productive but still did not finish the task?",
-        "options": [
-          "She swam in the sea all morning.",
-          "She chose photos, changed their order, and wrote a few lines.",
-          "She called her cousin and sent the album at once.",
-          "She bought thirty-seven cards from a shop."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "这些准备看起来很忙，但还没有真正完成发送这个动作。"
-      },
-      {
-        "id": "not_sent",
-        "question": "What had Mina still not sent at the end?",
-        "options": [
-          "A hotel key.",
-          "A school bag.",
-          "A seaside ticket.",
-          "A single message."
-        ],
-        "answer_index": 3,
-        "explanation_zh": "结尾说 she had not sent a single message，强调一条也没有发出去。"
-      },
-      {
-        "id": "main_lesson",
-        "question": "What lesson does the story show?",
-        "options": [
-          "Taking photos is always a waste of time.",
-          "A holiday should never include any promise.",
-          "Preparation is not the same as completion.",
-          "A short message must be longer than an album."
+          "Because deadlines are usually set too far in advance.",
+          "Because most tasks are genuinely impossible to finish.",
+          "Because the relief from avoiding a task rewards the brain and is repeated.",
+          "Because other people keep interrupting the work."
         ],
         "answer_index": 2,
-        "explanation_zh": "Mina 做了很多准备，但没有发送，所以重点是：准备不等于完成。"
+        "explanation_zh": "文章说每次回避带来解脱，大脑就学会重复这种行为，于是临时逃避固化成习惯，所以选第三项。"
+      },
+      {
+        "id": "inference",
+        "question": "What can be inferred about harsh self-criticism as a response to procrastinating?",
+        "options": [
+          "It is the fastest way to stop procrastinating.",
+          "It is likely to be less effective than treating oneself with compassion.",
+          "It has no effect on future behaviour at all.",
+          "It is recommended by the researchers in the passage."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文章指出原谅自己的学生下次拖延更少，由此可推断严厉自责的效果不如自我体谅，所以选第二项。"
+      },
+      {
+        "id": "vocab_fleeting",
+        "question": "In the passage, the word \"fleeting\" (\"that fleeting comfort\") most nearly means:",
+        "options": [
+          "Lasting a very long time.",
+          "Extremely intense.",
+          "Shared with other people.",
+          "Lasting only a short time."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "fleeting 意为“短暂的”，上下文说这种安慰只在“at least for the moment”存在，所以选第四项。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天的仿写不围绕明信片本身，而是抓住 Lesson 3 里最有迁移价值的拖延表达：某事总破坏心情、学会一点点、完全没看懂、作出重大决定，以及 not a single 强调一件也没完成。",
+    "intro_zh": "今天的仿写不围绕明信片本身，而是抓住 Lesson 3 里最有迁移价值的拖延表达：某事总破坏心情、学会一点点、完全没看懂、作出重大决定，以及 not a single 强调一件也没完成。请把句子写得更长、更抽象、更接近 B2+ 水平。",
     "patterns": [
       {
         "id": "always_spoil_my",
         "title": "always spoil my ...",
         "source": "Postcards always spoil my holidays.",
         "focus_zh": "用 always spoil my... 写某件反复出现的小事破坏了心情、假期或周末。",
-        "task_zh": "仿写一句：写一个没完成的任务、提醒或消息总是破坏你的好心情。",
+        "task_zh": "仿写一句：写一种反复出现的压力源（如未读消息、未完成的任务）总是破坏你本该放松或专注的某段时光。",
         "must_include": [
           "always spoil my"
         ],
-        "min_words": 8,
-        "sample": "Late-night video games always spoil my mornings at school.",
+        "min_words": 14,
+        "sample": "Unread notifications and a pile of half-finished tasks always spoil my supposedly relaxing weekends at home.",
         "tip_zh": "spoil 这里不是把东西弄坏，而是把心情或一段时间搅乱。"
       },
       {
@@ -102,12 +97,12 @@
         "title": "a few words of ...",
         "source": "A friendly waiter taught me a few words of Italian.",
         "focus_zh": "a few words of... 表示只学会某种语言或技能里的一小点内容。",
-        "task_zh": "仿写一句：写某人教了你一点点外语、电脑技巧或地方方言。",
+        "task_zh": "仿写一句：写在某个正式或陌生的场合，有人耐心地教了你某种语言或专业技能里的一小部分。",
         "must_include": [
           "a few words of"
         ],
-        "min_words": 9,
-        "sample": "A friendly guide taught me a few words of French.",
+        "min_words": 15,
+        "sample": "During the conference abroad, a patient colleague taught me a few words of formal academic Japanese.",
         "tip_zh": "a few words of 后面接语言最自然，也可以接一个小范围的知识。"
       },
       {
@@ -115,12 +110,12 @@
         "title": "did not understand a word",
         "source": "I read a few lines, but I did not understand a word.",
         "focus_zh": "这个结构表达“试了，但完全没懂”，语气比 I did not understand it 更强。",
-        "task_zh": "仿写一句：写你读了几行说明、菜单或文章，但一个字也没看懂。",
+        "task_zh": "仿写一句：写你认真读了某份复杂或专业的文本（合同、说明、论文），但最终一个字也没看懂。",
         "must_include": [
           "did not understand a word"
         ],
-        "min_words": 10,
-        "sample": "I read the museum notice, but I did not understand a word.",
+        "min_words": 15,
+        "sample": "I carefully read the entire legal contract twice, yet honestly I did not understand a word.",
         "tip_zh": "前半句先写尝试，but 后面用 did not understand a word 给出完整失败。"
       },
       {
@@ -128,12 +123,12 @@
         "title": "made a big decision",
         "source": "On the last day I made a big decision.",
         "focus_zh": "made a big decision 听起来很郑重，可以用来写拖延很久后终于决定开始。",
-        "task_zh": "仿写一句：写某人拖到最后一天，终于作出一个看似重大的决定。",
+        "task_zh": "仿写一句：写某人在长时间犹豫或焦虑之后，终于作出一个听起来很郑重的决定去面对一直回避的事。",
         "must_include": [
           "made a big decision"
         ],
-        "min_words": 10,
-        "sample": "On Sunday night, I made a big decision to start my diary.",
+        "min_words": 15,
+        "sample": "After weeks of anxious hesitation, I finally made a big decision to confront my unfinished project.",
         "tip_zh": "这个句式常带一点幽默感：决定很大，但后面的行动可能很小。"
       },
       {
@@ -141,12 +136,12 @@
         "title": "not a single ...",
         "source": "I did not write a single card!",
         "focus_zh": "not a single... 强调“一件都没有”，特别适合写忙了一天却零完成。",
-        "task_zh": "仿写一句：写某人花了很多时间准备，但最后一条消息、一页作业或一张照片也没发出去。",
+        "task_zh": "仿写一句：写某人花了很长时间在围绕任务的准备工作上，最后却连一项真正的成果（消息、作业、页数）都没完成。",
         "must_include": [
           "not a single"
         ],
-        "min_words": 10,
-        "sample": "I spent the whole evening choosing photos, but I sent not a single message.",
+        "min_words": 14,
+        "sample": "I spent the entire afternoon reorganising my notes and folders, yet finished not a single assignment.",
         "tip_zh": "not a single 后面接单数名词，如 message, page, photo, card。"
       }
     ]
