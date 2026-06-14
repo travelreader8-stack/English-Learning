@@ -1,101 +1,95 @@
 {
   "lesson_id": 33,
   "reading": {
-    "title": "The Path Above the Tide",
-    "intro_zh": "这篇短文不复述女孩夜海求生的原文，而是换到一次海边步行：雾和潮水让低处路线变危险，孩子根据 coastguard 提示、cliff path 和前方灯光选择安全方向。",
-    "word_bank": [
-      "coast",
-      "storm",
-      "shore",
-      "cliff",
-      "light ahead",
-      "set out",
-      "be caught in",
-      "cover a distance",
-      "struggle up",
-      "safe path",
-      "coastguard"
-    ],
+    "title": "The Lens That Tamed the Coast",
+    "intro_zh": "本文不复述课文里女孩夜海求生的故事，而是介绍一个真实的航海科技话题——菲涅尔透镜如何让灯塔的灯光射向海面、引导船只避开危险。内容改编自美国国家公园管理局（卡罗来纳哈特拉斯角海岸）的权威资料。",
+    "source": {
+      "title": "The Fresnel Lens",
+      "publisher": "U.S. National Park Service (Cape Hatteras National Seashore)",
+      "url": "https://www.nps.gov/caha/learn/historyculture/fresnellens.htm"
+    },
     "passage": [
-      "On a cloudy afternoon, Maya and her younger cousin set out from a small car park near the coast. They wanted to follow the shore path to the old picnic field, but the wind grew colder and a thick fog came in from the sea. Soon the tide covered part of the lower path, and they could not see the beach clearly. Maya remembered the coastguard notice: stay above the tide and follow the marked cliff path. They climbed carefully, keeping the fence on their left. After covering a distance of two miles, they saw a light ahead at the lifeboat station. They walked towards it and told an adult what had happened. They were tired, but they had chosen the safe path."
+      "For centuries, a light glimpsed from the darkness was the only thing standing between a vessel and the rocks. Yet early lighthouses were frustratingly feeble. An open flame squandered almost all of its glow, scattering light uselessly in every direction, and even lamps fitted with polished reflectors lost the majority of their brightness. As a result, the strongest beams reached barely eight to twelve miles out to sea—often too short a warning for a ship already driving toward a hidden reef.",
+      "The breakthrough came in 1822, when the French physicist Augustin-Jean Fresnel devised a radically different design. Instead of relying on mirrors, he surrounded the lamp with a dense array of multi-faceted glass prisms set in a brass framework. These prisms refract, or bend, the rays that would otherwise spill away and gather them into a single concentrated beam. Whereas an open flame wasted roughly ninety-seven percent of its light, the Fresnel lens lost no more than twenty percent—a dramatic gain in efficiency that allowed a beam to shine all the way to the horizon, more than twenty miles away.",
+      "The lenses were manufactured in graduated sizes, or “orders.” A towering first-order lens, standing up to twelve feet tall, was reserved for exposed seacoast stations, while a modest sixth-order lens marked quiet harbors and channels. The effect on maritime safety was profound. Along treacherous coastlines that had once claimed countless ships, mariners could finally trust a steady, far-reaching signal. By 1859, almost every lighthouse on the North Carolina coast had been fitted with the new technology, turning a faint, unreliable glimmer into a dependable guide out of the darkness."
     ],
     "questions": [
       {
-        "id": "set_out_place",
-        "question": "Where did Maya and her cousin set out from?",
+        "id": "main_idea",
+        "question": "What is the main idea of the passage?",
         "options": [
-          "A small car park near the coast.",
-          "A fishing boat in the middle of the sea.",
-          "A hospital below the cliffs.",
-          "A classroom beside a river."
+          "How a new lens design transformed lighthouses into far more powerful and reliable navigational aids.",
+          "How sailors learned to navigate by the stars before lighthouses existed.",
+          "Why the French government decided to build lighthouses along its coast.",
+          "How modern electric beacons replaced older oil lamps in harbors."
         ],
         "answer_index": 0,
-        "explanation_zh": "短文第一句说 they set out from a small car park near the coast。"
+        "explanation_zh": "全文围绕菲涅尔透镜如何把微弱、低效的灯塔灯光变成强大可靠的航海指引，这是主旨。其他选项都不是文章的核心内容。"
       },
       {
-        "id": "weather_tide_problem",
-        "question": "What made the lower path unsafe?",
+        "id": "detail_distance",
+        "question": "Before the Fresnel lens, how far could the strongest lighthouse beams reach?",
         "options": [
-          "A thick fog came in, and the tide covered part of the lower path.",
-          "The picnic field was closed for the winter.",
-          "The lifeboat station had turned off its light.",
-          "Their car broke down on the road."
+          "More than twenty miles, all the way to the horizon.",
+          "About fifty miles in clear weather.",
+          "Only eight to twelve miles out to sea.",
+          "Exactly one mile from the shore."
         ],
-        "answer_index": 0,
-        "explanation_zh": "问题来自两个细节：thick fog came in from the sea，而且 the tide covered part of the lower path。"
+        "answer_index": 2,
+        "explanation_zh": "第一段明确指出，最强的光束当时只能射出大约八到十二英里（eight to twelve miles）。二十多英里是采用菲涅尔透镜之后才达到的。"
       },
       {
-        "id": "safe_direction",
-        "question": "What helped Maya choose the safe direction?",
+        "id": "process_prisms",
+        "question": "According to the passage, how does the Fresnel lens produce such a strong beam?",
         "options": [
-          "A coastguard notice and the marked cliff path.",
-          "A map of the old picnic field only.",
-          "A stranger asking them to go down to the shore.",
-          "A small boat waiting near the rocks."
+          "It uses a much larger and hotter flame than older lamps.",
+          "Its glass prisms bend escaping rays and gather them into a single concentrated beam.",
+          "It spins rapidly so the light appears brighter to distant ships.",
+          "It reflects sunlight collected during the day back out at night."
         ],
-        "answer_index": 0,
-        "explanation_zh": "Maya remembered the coastguard notice，并选择 follow the marked cliff path。"
+        "answer_index": 1,
+        "explanation_zh": "第二段说明，棱镜把本来会散失的光线折射（bend）并汇聚成一束集中的光束（a single concentrated beam），这是它如此明亮的原因。"
       },
       {
-        "id": "reached_adult",
-        "question": "How did they reach an adult safely?",
+        "id": "inference_orders",
+        "question": "What can be inferred about why lenses were made in different 'orders'?",
         "options": [
-          "They walked towards the light at the lifeboat station and told an adult.",
-          "They swam across the sea until morning.",
-          "They waited on the lower path for the tide to fall.",
-          "They climbed down the cliff to find a cave."
+          "Larger lenses were cheaper to build than smaller ones.",
+          "The order of a lens showed who had invented it.",
+          "Smaller lenses produced a brighter beam than larger ones.",
+          "Different locations needed different ranges, so lens size was matched to the setting."
         ],
-        "answer_index": 0,
-        "explanation_zh": "他们 saw a light ahead at the lifeboat station，然后 walked towards it and told an adult。"
+        "answer_index": 3,
+        "explanation_zh": "第三段说大的一等透镜用于暴露的海岸灯塔，小的六等透镜用于平静的港口和水道，可推断透镜大小是按地点所需的照射距离来选择的。"
       },
       {
-        "id": "direction_survival",
-        "question": "Why is this passage about direction and survival without copying Lesson 33?",
+        "id": "vocab_treacherous",
+        "question": "In the final paragraph, the word “treacherous” most nearly means",
         "options": [
-          "It uses a new coast-walk problem where safe judgment, signs, and a light guide them.",
-          "It repeats the girl in a boat swimming all night.",
-          "It says dangerous swimming is an exciting game.",
-          "It changes the story into a shop detective mystery."
+          "calm and well protected.",
+          "dangerous and full of hidden hazards.",
+          "crowded with many ships.",
+          "famous for its beauty."
         ],
-        "answer_index": 0,
-        "explanation_zh": "这篇短文换成 coast walk、fog、tide 和 cliff path，没有复述原文的 boat、rock、whole night swim。"
+        "answer_index": 1,
+        "explanation_zh": "treacherous coastlines 与后文 had once claimed countless ships（曾夺去无数船只）呼应，说明这种海岸危险、暗藏险情，所以意思是“危险、暗藏隐患的”。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 33 的方向和时间顺序结构：用 Nearly ... passed before ... 写延迟说明，用 set out from ... 写出发点，用 was caught in ... 写突然陷入麻烦，用 after spending ... 写长时间之后的动作，再用 On arriving at ..., ... 写正式的先后顺序。",
+    "intro_zh": "今天把 Lesson 33 的方向与时间顺序结构提升到 B2+：用 Nearly ... passed before ... 写延迟说明，用 set out from ... 写出发点，用 was caught in ... 写突然陷入困境，用 after spending ... 写漫长付出之后的结果，再用 On arriving at ..., ... 写正式的先后顺序。尝试更抽象、更复杂的语境。",
     "patterns": [
       {
         "id": "nearly_passed_before",
         "title": "Nearly ... passed before ...",
         "source": "Nearly a week passed before the girl was able to explain what had happened to her.",
         "focus_zh": "这个结构写“过了多久之后才……”，适合表达一个人需要休息、恢复或整理思路之后才能说明情况。",
-        "task_zh": "仿写一句：写几分钟、几小时或几天过去了，某人才终于解释发生了什么。",
+        "task_zh": "仿写一句（更抽象的语境）：写经过相当长的一段时间，某人或某个团队才终于能够厘清、承认或解释一件复杂事件的真相。",
         "must_include": [
           "passed before"
         ],
-        "min_words": 10,
-        "sample": "Nearly two hours passed before Maya could explain what had happened.",
+        "min_words": 16,
+        "sample": "Nearly three months passed before the investigators could finally explain what had actually triggered the catastrophic failure.",
         "tip_zh": "Nearly 后面接时间长度；passed before 后面接一个完整小句，说明后来才发生的事。"
       },
       {
@@ -103,12 +97,12 @@
         "title": "set out from ...",
         "source": "She set out from the coast in a small boat.",
         "focus_zh": "set out from 强调旅程的起点，比 started 更有路线感。",
-        "task_zh": "仿写一句：写某人从海岸、学校、车站或营地出发，并补出要去哪里。",
+        "task_zh": "仿写一句（更有目的与挑战的语境）：写某人或某支队伍从某个起点出发，带着明确的目标，奔赴一个遥远或艰难的目的地。",
         "must_include": [
           "set out from"
         ],
-        "min_words": 9,
-        "sample": "We set out from the school gate and walked towards the museum.",
+        "min_words": 16,
+        "sample": "At dawn the expedition team set out from the remote base camp, determined to reach the distant summit before nightfall.",
         "tip_zh": "from 后面写出发地点；后面可以用 towards 或 to 写方向。"
       },
       {
@@ -116,12 +110,12 @@
         "title": "was caught in ...",
         "source": "She was caught in a storm.",
         "focus_zh": "was caught in 表示突然陷入某种天气、麻烦或困难局面，不是主动选择。",
-        "task_zh": "仿写一句：写某人突然遇上大雨、雾、交通堵塞或别的麻烦。",
+        "task_zh": "仿写一句（抽象或社会语境）：写某人突然陷入一场风暴、危机、争论或意料之外的困境，而且难以脱身。",
         "must_include": [
           "was caught in"
         ],
-        "min_words": 9,
-        "sample": "Our class was caught in heavy rain on the way back.",
+        "min_words": 16,
+        "sample": "The young manager was caught in a bitter dispute between two departments that no one seemed willing to resolve.",
         "tip_zh": "caught in 后面常接 weather 或 trouble，比如 a storm, heavy rain, traffic。"
       },
       {
@@ -129,12 +123,12 @@
         "title": "after spending ...",
         "source": "She swam to the shore after spending the whole night in the water.",
         "focus_zh": "after spending ... 把“花了很久经历某事”放在动作前，突出艰难的过程。",
-        "task_zh": "仿写一句：写某人在等待、寻找、练习或走路很久之后，终于到达或完成一件事。",
+        "task_zh": "仿写一句（强调漫长付出之后的成果）：写某人在长时间的研究、等待、训练或努力之后，终于取得了一个来之不易的结果。",
         "must_include": [
           "after spending"
         ],
-        "min_words": 10,
-        "sample": "Leo reached the bus stop after spending an hour in the rain.",
+        "min_words": 16,
+        "sample": "After spending years patiently analysing the faint signals, the astronomers finally confirmed the existence of the distant planet.",
         "tip_zh": "after spending 后面接时间或一段经历，再写后来完成的动作。"
       },
       {
@@ -142,12 +136,12 @@
         "title": "On arriving at ..., ...",
         "source": "On arriving at the shore, the girl struggled up the cliff.",
         "focus_zh": "On arriving at ... 是比较正式的时间顺序表达，意思是“一到……就……”。",
-        "task_zh": "仿写一句：写某人一到安全地点、车站、学校或家里，就立刻做了什么。",
+        "task_zh": "仿写一句（正式、抽象的语境）：写某人一到达某个关键地点或阶段，就立刻意识到、发现或决定了一件重要的事。",
         "must_include": [
           "On arriving at"
         ],
-        "min_words": 10,
-        "sample": "On arriving at the station, we called our teacher for help.",
+        "min_words": 16,
+        "sample": "On arriving at the conference, the delegates realised that the proposed agreement would have to be completely rewritten.",
         "tip_zh": "On arriving at 后面接地点，逗号后写到达后马上发生的动作。"
       }
     ]
