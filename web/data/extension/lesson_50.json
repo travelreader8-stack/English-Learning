@@ -1,127 +1,122 @@
 {
   "lesson_id": 50,
   "reading": {
-    "title": "The Loop Shuttle",
-    "intro_zh": "这篇短文把 Lesson 50 的“问 conductor 哪里下车”换到现代公园接驳车场景：Maya 参加一次 excursion，怕 lose her way，请 attendant 提醒她 where to get off，却因为 loop route 和沿途 view 坐过了一圈。重点练习 excursion、shuttle、route、front、view、realize、as far as 和 in that case。",
-    "word_bank": [
-      "excursion",
-      "shuttle",
-      "lose my way",
-      "get off",
-      "front",
-      "view",
-      "route",
-      "realize",
-      "as far as",
-      "in that case"
-    ],
+    "title": "The Vanished Bus Conductor",
+    "intro_zh": "课文里那位帮乘客留意下车的 conductor，其实是一份真实存在过、如今几乎消失的工作。下面这篇短文以伦敦交通局档案馆的《路由大师巴士研究指南》为主要依据，讲述公交售票员这一职业如何因车辆设计与技术变迁而退出历史舞台。",
+    "source": {
+      "title": "Research Guide No 9: Routemaster Buses",
+      "publisher": "Transport for London Corporate Archives",
+      "url": "https://content.tfl.gov.uk/research-guide-9-routemaster-buses.pdf"
+    },
     "passage": [
-      "On Sunday, Maya joined a science-club excursion to a riverside park. A small loop shuttle served the greenhouse and hill path. Maya wanted the greenhouse, but she did not want to lose her way, so she asked the attendant, \"Please tell me where to get off.\" Then she sat in the front to get a good view of the river. The driver followed the route slowly, and Maya watched birds over the water. After some time, the shuttle stopped beside the gate again. Looking round, Maya realized with a shock that she had passed the greenhouse and ridden the whole loop. The attendant said, \"This is as far as this loop goes, but we are starting again now.\" Maya laughed. \"In that case, I prefer to stay on and get off at the greenhouse next time.\""
+      "In the story you have just read, a passenger relies on a bus conductor to tell him where to get off. That arrangement may sound quaint today, but for much of the twentieth century the conductor was an indispensable member of the crew. Working alongside the driver, the conductor moved through the saloon collecting fares, issuing tickets, supervising boarding passengers, and frequently calling out the names of approaching stops. On older double-deck buses, the half-cab layout physically separated the driver from the passengers, making a second crew member essential rather than merely convenient.",
+      "The Routemaster, developed by the London Transport Executive from the early 1950s, was designed with extra width specifically to give the conductor more room to move among passengers. As Transport for London's own Corporate Archives record, every standard Routemaster had to carry a conductor. One-person operation for double-deck buses only became legal in Britain in 1969, and even after that date London's open-platform Routemasters continued to require a crew of two. With passengers able to hop on and off the open rear platform between stops, a conductor was genuinely necessary to manage boarding and collect fares safely.",
+      "Routemasters were finally withdrawn from normal passenger service in 2005, replaced by modern, fully accessible single-operator buses. For a while, heritage versions of the iconic red bus ran crew-operated on central London routes 9 and 15 before those services too were discontinued in 2020. Today the human attendant has been superseded by electronic fareboxes, contactless payment, and automated stop announcements, yet the image of a conductor swinging cheerfully from the platform step has never quite faded from the city's memory."
     ],
     "questions": [
       {
-        "id": "wanted_stop",
-        "question": "Where did Maya want to get off?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "At the greenhouse.",
-          "At the boat pier.",
-          "At the school gate.",
-          "At the bus station in town."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文说 Maya wanted the greenhouse，所以她想在 greenhouse 下车。"
-      },
-      {
-        "id": "asked_for_help",
-        "question": "What help did Maya ask for?",
-        "options": [
-          "She asked the driver to stop the whole excursion.",
-          "She asked the attendant to tell her where to get off.",
-          "She asked another student to lend her a phone.",
-          "She asked the attendant to change the route."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "她说 Please tell me where to get off，是请 attendant 提醒她在哪下车。"
-      },
-      {
-        "id": "front_seat",
-        "question": "Why did Maya sit in the front?",
-        "options": [
-          "To sell tickets for the shuttle.",
-          "To get a good view of the river.",
-          "To help the driver read a map.",
-          "To hide from the other students."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "短文写道 she sat in the front to get a good view of the river，她坐前排是为了看风景。"
-      },
-      {
-        "id": "loop_realization",
-        "question": "What did Maya realize when the shuttle stopped beside the gate again?",
-        "options": [
-          "She had forgotten to join the science club.",
-          "The river had disappeared from the park.",
-          "She had passed the greenhouse and ridden the whole loop.",
-          "The attendant was trying to trick her."
+          "How modern contactless payment transformed bus ticketing in London.",
+          "Why London's Routemaster was designed wider than other buses.",
+          "How the once-essential role of the bus conductor declined and disappeared.",
+          "The safety risks posed by the Routemaster's open rear platform."
         ],
         "answer_index": 2,
-        "explanation_zh": "Looking round 之后，她 realized with a shock that she had passed the greenhouse and ridden the whole loop。"
+        "explanation_zh": "全文围绕公交售票员这一职业为何曾经不可或缺、又如何因技术与车辆设计变迁而逐渐消失展开，这是文章的主旨。"
       },
       {
-        "id": "reasonable_decision",
-        "question": "Why was Maya's final decision reasonable?",
+        "id": "detail_routemaster_design",
+        "question": "According to the passage, why was the Routemaster built wider than other buses of its time?",
         "options": [
-          "The shuttle was starting the loop again, so staying on would take her back to the greenhouse.",
-          "She no longer wanted to see the greenhouse.",
-          "The attendant told her to leave the park at once.",
-          "She preferred to lose her way for fun."
+          "To give the conductor more room to move among passengers.",
+          "To allow two buses to pass each other in narrow London streets.",
+          "To accommodate more seats and increase revenue per journey.",
+          "To make it easier for passengers to board and alight at busy stops."
         ],
         "answer_index": 0,
-        "explanation_zh": "attendant 说这一圈到终点了，但接驳车马上又要重新开一圈，所以 Maya 继续坐一圈，就能在下一次到 greenhouse 时下车；这不是犯傻，而是顺势做决定。"
+        "explanation_zh": "短文明确指出 Routemaster 设计时加宽，是为了给售票员在乘客间穿行提供更多空间（give the conductor more room to move among passengers）。"
+      },
+      {
+        "id": "cause_effect",
+        "question": "Why did the half-cab layout of older double-deck buses make a conductor essential?",
+        "options": [
+          "Because conductors needed a separate cab to store their ticket machines.",
+          "Because regulations before 1969 required a minimum of three crew members.",
+          "Because the open rear platform could only be operated with two people.",
+          "Because the layout physically separated the driver from the passengers."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "短文指出 the half-cab layout physically separated the driver from the passengers，因此必须有第二名乘务员，即售票员。"
+      },
+      {
+        "id": "detail_legal_date",
+        "question": "When did one-person operation for double-deck buses become legal in Britain?",
+        "options": [
+          "In the early 1950s, when the Routemaster was first designed.",
+          "In 1969, after new regulations were introduced.",
+          "In 2005, when Routemasters were withdrawn from normal service.",
+          "In 2020, when the last heritage Routemaster routes were discontinued."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文明确说明 one-person operation for double-deck buses only became legal in Britain in 1969，故选 B。"
+      },
+      {
+        "id": "vocab_superseded",
+        "question": "In the final paragraph, the human attendant has been \"superseded\" by electronic systems. \"Superseded\" most nearly means",
+        "options": [
+          "praised and rewarded.",
+          "trained and promoted.",
+          "replaced and made obsolete.",
+          "interviewed and questioned."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "superseded 意为「被取代、被淘汰」，文中指人工乘务员被电子收费机、无接触支付和自动报站取代，故选 C。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 50 的“旅行、坐过站和重新决定”句式：用 I love..., but I don't like... 写喜欢与担心，用 took me longer than I expected 写时间超出预期，用 where to get off 请求下车提醒，用 Looking round, I realized... 写突然发现，最后用 In that case, I prefer to... 写听到新情况后的选择。",
+    "intro_zh": "今天抓五个 Lesson 50 的「旅行、坐过站和重新决定」句式，并把例句提升到 B2+ 难度：用 I love..., but I don't like... 写偏好与隐忧，用 took me longer than I expected 写时间超出预期，用 where to get off 嵌入更复杂的请求，用 Looking round, I realized... 写突然顿悟，最后用 In that case, I prefer to... 写权衡后的抉择。",
     "patterns": [
       {
         "id": "love_but_dont_like",
         "title": "I love ..., but I don't like ...",
         "source": "I love travelling in the country, but I don't like losing my way.",
-        "focus_zh": "这个句式先说你喜欢的活动，再说你不喜欢的麻烦；Lesson 50 的故事就是从“喜欢旅行但怕迷路”开始的。",
-        "task_zh": "仿写一句：写你喜欢一种活动，但不喜欢它带来的一个小麻烦。",
+        "focus_zh": "这个句式先说你喜欢的活动，再说你不喜欢的麻烦；Lesson 50 的故事就是从「喜欢旅行但怕迷路」开始的。",
+        "task_zh": "仿写一句：写出你真心享受的一种活动，以及它隐藏的、让你略感不安的代价或风险。",
         "must_include": [
           "I love",
           "but I don't like"
         ],
-        "min_words": 10,
-        "sample": "I love visiting new museums, but I don't like losing my way inside them.",
+        "min_words": 16,
+        "sample": "I love exploring unfamiliar cities on foot, but I don't like surrendering my sense of direction to a glowing phone screen.",
         "tip_zh": "love 和 don't like 后面都可以接动词 -ing，让前后结构更整齐。"
       },
       {
         "id": "longer_than_expected",
         "title": "took me longer than I expected",
         "source": "My trip took me longer than I expected.",
-        "focus_zh": "take + 人 + 时间 能自然表达“某件事花了我多少时间”；longer than I expected 表示结果比预想更久。",
-        "task_zh": "仿写一句：写一次作业、路程、排队或练习花的时间比你预想更长。",
+        "focus_zh": "take + 人 + 时间 能自然表达「某件事花了我多少时间」；longer than I expected 表示结果比预想更久。",
+        "task_zh": "仿写一句：描述一件因意外状况（如施工、拥堵、排队）而远超预期耗时、并造成连锁后果的经历。",
         "must_include": [
           "longer than I expected"
         ],
-        "min_words": 9,
-        "sample": "The walk to the science hall took me longer than I expected.",
+        "min_words": 14,
+        "sample": "Navigating the rebuilt interchange during rush hour took me longer than I expected, and I missed my connecting train entirely.",
         "tip_zh": "主语可以是 The trip, The homework, The bus ride；后面接 took me longer than I expected。"
       },
       {
         "id": "where_to_get_off",
         "title": "where to get off",
         "source": "I'll tell you where to get off.",
-        "focus_zh": "where to + 动词 是很紧凑的表达，意思是“在哪里做某事”；在交通场景里，where to get off 特别实用。",
-        "task_zh": "仿写一句：写你请司机、工作人员或朋友告诉你在哪里下车。",
+        "focus_zh": "where to + 动词 是很紧凑的表达，意思是「在哪里做某事」；在交通场景里，where to get off 特别实用。",
+        "task_zh": "仿写一句：在一个信息含糊或环境陌生的场景里，向工作人员提出一个具体而周到的「在哪里下车/下站」请求。",
         "must_include": [
           "where to get off"
         ],
-        "min_words": 8,
-        "sample": "Please tell me where to get off near the library.",
+        "min_words": 15,
+        "sample": "Because the announcements were barely audible, I asked the attendant to remind me precisely where to get off for the museum.",
         "tip_zh": "这个短语前面可以接 tell me, know, ask, remember；不要写成 where get off。"
       },
       {
@@ -129,27 +124,27 @@
         "title": "Looking round, I realized ...",
         "source": "Looking round, I realized with a shock that I was the only passenger left.",
         "focus_zh": "Looking round 放在句首，先给一个小动作，再写突然明白的事实；它能让发现的瞬间更有画面感。",
-        "task_zh": "仿写一句：写你环顾四周后，突然发现自己坐过站、走错房间或只剩自己一个人。",
+        "task_zh": "仿写一句：写你环顾四周后，突然意识到自己因分神而错过了某事（坐过站、走错场地、误了时间）的瞬间。",
         "must_include": [
           "Looking round",
           "realized"
         ],
-        "min_words": 12,
-        "sample": "Looking round, I realized that I was the only student left on the shuttle.",
+        "min_words": 16,
+        "sample": "Looking round the deserted carriage, I realized with a sinking feeling that I had drifted past my stop while absorbed in a novel.",
         "tip_zh": "逗号后面要接完整句子：Looking round, I realized that...。"
       },
       {
         "id": "in_that_case_prefer",
         "title": "In that case, I prefer to ...",
         "source": "In that case, I prefer to stay on the bus.",
-        "focus_zh": "In that case 表示“既然情况是这样”；prefer to 后面接动词原形，用来写你根据新信息做出的选择。",
-        "task_zh": "仿写一句：写你听到车要返回、商店快开门或活动换地点后，决定更愿意怎么做。",
+        "focus_zh": "In that case 表示「既然情况是这样」；prefer to 后面接动词原形，用来写你根据新信息做出的选择。",
+        "task_zh": "仿写一句：在得知某个计划已不可行后，权衡利弊，说明你为何更愿意改采另一种更合理的方案。",
         "must_include": [
           "In that case",
           "prefer to"
         ],
-        "min_words": 10,
-        "sample": "In that case, I prefer to stay on the shuttle until it reaches the gate.",
+        "min_words": 18,
+        "sample": "Since the last shuttle had already departed for the terminal, in that case I prefer to wait here and catch the first service tomorrow.",
         "tip_zh": "这句话适合放在故事结尾：先听到新情况，再给出更合理的选择。"
       }
     ]
