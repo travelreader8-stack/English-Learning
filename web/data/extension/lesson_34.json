@@ -1,101 +1,95 @@
 {
   "lesson_id": 34,
   "reading": {
-    "title": "The Case That Came Home",
-    "intro_zh": "这篇短文不复述 Dan 的自行车故事，而是换成一个现代失物归还的小案子：Mia 先被警方通知吓了一跳，后来才发现是两年前被偷的琴盒通过序列号找回来了。",
-    "word_bank": [
-      "police station",
-      "call at",
-      "wonder",
-      "found",
-      "picked up",
-      "serial number",
-      "repair shop",
-      "sent home",
-      "surprised",
-      "amused",
-      "stolen"
-    ],
+    "title": "The Database That Brings Stolen Things Home",
+    "intro_zh": "本文不复述 Dan 找回自行车的故事，而是介绍一个真实主题：警方如何依靠美国 FBI 的全国犯罪信息中心 (NCIC) 数据库，凭序列号在多年之后找回失窃物品。内容改编自 FBI 的权威资料。",
+    "source": {
+      "title": "NCIC Turns 50 / National Crime Information Center",
+      "publisher": "U.S. Federal Bureau of Investigation (FBI)",
+      "url": "https://www.fbi.gov/news/stories/ncic-turns-50"
+    },
     "passage": [
-      "On Monday morning, Mia received a message from the local police and was asked to call at the station after school. She wondered why they wanted her, because she had only reported a stolen violin case two years before. At the station, a smiling officer showed her a small black case with a bright orange sticker. It had been picked up outside a repair shop three hundred miles away. The shop owner had checked the serial number and found Mia's old report online. Now the case was being sent home by courier. Mia was surprised, and she was amused too. She had never expected the case to be found, especially after giving up hope long ago."
+      "When a bicycle or a musical instrument vanishes, the owner rarely imagines that it could resurface years later in a distant town. Yet such returns are made possible by an unglamorous piece of infrastructure: the National Crime Information Center, or NCIC, a nationwide database operated by the FBI. Launched in January 1967 with just five files and fewer than 360,000 records, it had expanded by the end of 2014 into a system holding roughly thirteen million active records across twenty-one files and processing about twelve million transactions a day. Among those files are seven dedicated to property, covering stolen vehicles, firearms, securities and ordinary articles.",
+      "The mechanism that links a lost object to its rightful owner is deceptively simple. When something is reported stolen, an officer enters its serial number, or a number the owner has engraved, into the relevant file. That entry remains dormant until, sometimes much later, the item is recovered or examined elsewhere. A pawnshop clerk, a customs inspector or a patrol officer hundreds of miles away can then query the same number and instantly discover that the object was flagged as stolen. Because the center runs around the clock and is accessible to federal, state and local agencies alike, geography and the passage of time pose little obstacle.",
+      "The lesson for any owner is straightforward yet frequently ignored. An item without a recorded serial number is almost invisible to the system, however valuable it may be; an item with one acquires a kind of permanent identity that can outlast the theft itself. The smiling official who returns a long-forgotten possession is, in truth, the visible end of a vast and patient electronic memory."
     ],
     "questions": [
       {
-        "id": "why_worried",
-        "question": "Why was Mia worried at first?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "The police asked her to call at the station, and she did not know why.",
-          "She had broken a violin at school that morning.",
-          "The repair shop refused to send her a message.",
-          "She had to take a train three hundred miles away."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文开头说 Mia 收到 local police 的消息，被 asked to call at the station，但她不知道原因，所以先紧张。"
-      },
-      {
-        "id": "found_item",
-        "question": "What item had been found?",
-        "options": [
-          "A blue bicycle with a silver bell.",
-          "A small black violin case with a bright orange sticker.",
-          "A phone that belonged to the police officer.",
-          "A schoolbag full of repair tools."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "警察给她看的物品是 a small black case with a bright orange sticker，前文说明这是她两年前报失的 violin case。"
-      },
-      {
-        "id": "how_identified",
-        "question": "How was the case identified?",
-        "options": [
-          "The officer remembered Mia's school uniform.",
-          "The courier guessed the owner's address.",
-          "The shop owner checked the serial number and found Mia's old report online.",
-          "Mia found it herself outside the police station."
+          "How thieves avoid being caught when they sell stolen goods.",
+          "Why bicycles and instruments are the items most often stolen.",
+          "How a national FBI database helps recover stolen property, often long after the theft.",
+          "The history of how police patrols have changed since 1967."
         ],
         "answer_index": 2,
-        "explanation_zh": "关键句是 The shop owner had checked the serial number and found Mia's old report online。"
+        "explanation_zh": "全文围绕 NCIC 这一全国数据库如何凭序列号在事后找回失窃物品展开，因此主旨是 C。其余选项只是文中细节或无关内容。"
       },
       {
-        "id": "where_picked_up",
-        "question": "Where had the case been picked up?",
+        "id": "detail_scale",
+        "question": "According to the passage, what was true of the NCIC by the end of 2014?",
         "options": [
-          "Outside a repair shop three hundred miles away.",
-          "Inside Mia's classroom after school.",
-          "On a train near Mia's home.",
-          "At a lost-and-found desk in the police station."
+          "It held about thirteen million active records and processed roughly twelve million transactions a day.",
+          "It contained exactly five files, as it had at its launch.",
+          "It was used only by federal agencies, not state or local ones.",
+          "It had stopped recording ordinary articles such as bicycles."
         ],
         "answer_index": 0,
-        "explanation_zh": "文中说 It had been picked up outside a repair shop three hundred miles away。"
+        "explanation_zh": "文中明确说到 2014 年底约有 1300 万条活动记录、每天约 1200 万次查询，故选 A。B、C、D 都与原文相矛盾。"
       },
       {
-        "id": "comic_delay",
-        "question": "Why was Mia amused?",
+        "id": "process",
+        "question": "How does a stolen item end up being matched to its owner?",
         "options": [
-          "The officer asked her to repair a violin.",
-          "The case was found after she had already given up hope.",
-          "The serial number had been stolen from the repair shop.",
-          "The courier sent the case to the wrong police station."
+          "The owner personally searches every pawnshop in the country.",
+          "The FBI sends an officer to the town where the theft happened.",
+          "The thief is required by law to report the serial number.",
+          "An entered serial number stays dormant until someone elsewhere queries the same number."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "第二段说明：报失时录入序列号，记录处于休眠状态，直到别处有人查询同一号码并发现该物已被标记为失窃，故选 D。"
+      },
+      {
+        "id": "inference",
+        "question": "What can be inferred about an item that has no recorded serial number?",
+        "options": [
+          "It is automatically added to the database when stolen.",
+          "It is much less likely to be recovered, even if it is valuable.",
+          "It will be recovered faster than items that have a number.",
+          "It is stored in one of the seven property files anyway."
         ],
         "answer_index": 1,
-        "explanation_zh": "结尾说 Mia had never expected the case to be found, especially after giving up hope long ago，所以延迟找回带来一种轻松好笑的反转。"
+        "explanation_zh": "末段说没有序列号的物品对系统几乎是“隐形的”，无论多贵重；可推断这类物品更难被找回，故选 B。"
+      },
+      {
+        "id": "vocab",
+        "question": "In the passage, the word \"dormant\" (paragraph 2) most nearly means",
+        "options": [
+          "permanently deleted from the records.",
+          "shared with the public immediately.",
+          "inactive and waiting until it is needed.",
+          "copied into every other file at once."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "dormant 意为“休眠的、暂不活动的”。原文说记录一直 dormant，直到物品被找到时才起作用，故选 C（inactive and waiting）。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 34 的核心结构：用 has been worried all week 写持续的担心，用 was asked to call at 写正式通知，用 wondered why 写心里的疑问，用 was told that...had been found 写被告知的好消息，再用 never expected...to be found 写出反转后的惊讶。",
+    "intro_zh": "今天把 Lesson 34 的五个核心结构提升到更难的真实语境：用 has been worried all week 写持续的焦虑，用 was asked to call at 写正式通知，用 wondered why 写心中的疑问，用 was told that...had been found 写被告知的反转好消息，再用 never expected...to be found 写放弃希望后的惊讶。被动语态与现在完成时是重点。",
     "patterns": [
       {
         "id": "has_been_worried",
         "title": "has been worried all week",
         "source": "Dan Robinson has been worried all week.",
         "focus_zh": "这个结构写一种情绪从过去持续到现在，强调这段时间一直没有放松。",
-        "task_zh": "仿写一句：写某人因为一封信、一个通知或一件丢失的东西担心了整整一段时间。",
+        "task_zh": "仿写一句：写某人因为一份正式通知、一个未知来电或一笔对不上的账目，整整一段时间持续焦虑，并点出其担心背后的深层原因。",
         "must_include": [
           "has been worried"
         ],
-        "min_words": 9,
-        "sample": "My sister has been worried about the message all week.",
+        "min_words": 16,
+        "sample": "Ever since the unsigned letter arrived, my grandmother has been worried all week that some long-buried family secret was about to surface.",
         "tip_zh": "has been worried 后面可以接 about，说明担心的原因。"
       },
       {
@@ -103,12 +97,12 @@
         "title": "was asked to call at ...",
         "source": "He was asked to call at the station.",
         "focus_zh": "was asked to 表示“被要求做某事”；call at 在这里是“去某处一趟”，不是打电话。",
-        "task_zh": "仿写一句：写某人被要求去警察局、学校办公室或失物招领处一趟。",
+        "task_zh": "仿写一句：写某人在不知缘由的情况下被正式要求亲自去某个机构一趟，并暗示这次造访关系到一个尚未公布的结果。",
         "must_include": [
           "was asked to call at"
         ],
-        "min_words": 10,
-        "sample": "Tom was asked to call at the school office after lunch.",
+        "min_words": 16,
+        "sample": "Without any explanation, the new employee was asked to call at the head office before the disciplinary committee reached its final decision.",
         "tip_zh": "call at 后面接地点，比如 the station, the office, the desk。"
       },
       {
@@ -116,12 +110,12 @@
         "title": "wondered why ...",
         "source": "Dan wondered why he was wanted by the police.",
         "focus_zh": "wondered why 后面接一个完整的陈述语序，用来写“心里纳闷为什么”。",
-        "task_zh": "仿写一句：写某人收到正式消息后，不明白为什么别人要见他或联系他。",
+        "task_zh": "仿写一句：写某人收到一份意外的正式文件后，反复揣摩为什么一个看似与自己无关的机构会突然找上门。",
         "must_include": [
           "wondered why"
         ],
-        "min_words": 10,
-        "sample": "Lily wondered why she was wanted by the school office.",
+        "min_words": 16,
+        "sample": "Holding the official envelope nervously, the retired teacher wondered why a government department so far away would suddenly want to contact her.",
         "tip_zh": "why 后面用正常陈述语序，不要写成 why was she wanted。"
       },
       {
@@ -129,13 +123,13 @@
         "title": "was told that ... had been found",
         "source": "He was told by a smiling policeman that his bicycle had been found.",
         "focus_zh": "was told that...had been found 用来写“被告知某物已经被找到”，很适合正式通知或反转好消息。",
-        "task_zh": "仿写一句：写某人被老师、警察或工作人员告知，某个丢失的物品已经找到了。",
+        "task_zh": "仿写一句：写某人在早已不抱希望之后，被某位专业人士告知一件多年前失踪的珍贵物品其实已经被找到。",
         "must_include": [
           "was told",
           "had been found"
         ],
-        "min_words": 12,
-        "sample": "She was told by a kind officer that her camera had been found.",
+        "min_words": 16,
+        "sample": "After years of quiet resignation, the collector was told by a museum curator that the painting stolen during the war had been found intact.",
         "tip_zh": "had been found 表示“在被告知之前已经找到了”。"
       },
       {
@@ -143,13 +137,13 @@
         "title": "never expected ... to be found",
         "source": "He never expected the bicycle to be found.",
         "focus_zh": "never expected...to be found 写一种放弃希望后的惊讶：原以为再也找不到，结果找到了。",
-        "task_zh": "仿写一句：写一个人从没想到自己的旧物、文件或礼物还会被找到。",
+        "task_zh": "仿写一句：写一个人早已认定某件旧物或文件永远丢失，却没想到它在多年之后竟在某个意想不到的地方被找到。",
         "must_include": [
           "never expected",
           "to be found"
         ],
-        "min_words": 10,
-        "sample": "I never expected my old notebook to be found after two years.",
+        "min_words": 16,
+        "sample": "Having long since written it off as gone forever, she never expected the manuscript her father had lost decades ago to be found in a dusty archive.",
         "tip_zh": "never expected 后面接名词，再用 to be found 表示“被找到”。"
       }
     ]
