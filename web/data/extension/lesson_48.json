@@ -1,101 +1,96 @@
 {
   "lesson_id": 48,
   "reading": {
-    "title": "Please Let Me Write It Down",
-    "intro_zh": "这篇短文把 Lesson 48 的“嘴里有药棉、无法回答”换成一个安全的牙科沟通小误会：病人不是发现牙被拔错，而是看到自己的琴盒快被别人拿走。重点练习 when it is impossible、whether、either...or...、meanwhile 和 write down：不能说话时，怎样用手势或写字把重要信息讲清楚。",
-    "word_bank": [
-      "dentist",
-      "appointment",
-      "rest",
-      "cotton wool",
-      "whether",
-      "nod",
-      "strange noises",
-      "meanwhile",
-      "write down",
-      "at last"
-    ],
+    "title": "The Body's Hardest Tissue",
+    "intro_zh": "这篇拓展阅读把课文“拔牙、牙齿”的主题升级到真实科学：人体最坚硬的组织——牙釉质，为什么一旦受损就无法自我修复。内容改写自美国国立卫生研究院资助、发表于《国际分子科学杂志》的综述文章。",
+    "source": {
+      "title": "Tooth Formation: Are the Hardest Tissues of Human Body Hard to Regenerate?",
+      "publisher": "International Journal of Molecular Sciences (NIH-funded, PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7312198/"
+    },
     "passage": [
-      "On Saturday, Lily went to a dentist for a check-up before her school concert. The dentist cleaned one tooth, put cotton wool in her mouth, and told her to rest for a while. He asked whether she was ready for the concert and whether her violin case was still in the waiting room. Lily tried to answer, but she could only nod or make strange noises. Meanwhile, she was staring at the door because a little boy was walking away with a black case. At last, Lily pointed to a card on the desk and wrote, \"That is my violin case.\" The dentist stopped, checked with the nurse, and called the boy back. Everyone laughed, but the dentist said that writing things down can be very important when a patient cannot speak clearly."
+      "When a dentist extracts a tooth, the patient loses far more than a single chewing surface; an irreplaceable piece of biological engineering is gone for good. The outermost layer of every tooth, the enamel, is the hardest and most highly mineralised tissue in the entire human body. By weight it is composed of roughly ninety-five per cent hydroxyapatite, a crystalline form of calcium phosphate, with only a thin remainder of water and organic material. This dense lattice of microscopic crystals is what allows enamel to withstand decades of biting, grinding and exposure to acidic foods without shattering.",
+      "Yet this extraordinary durability comes at a hidden cost. Enamel is laid down before a tooth ever emerges, by specialised cells called ameloblasts. Once they have finished their task, these cells undergo programmed cell death, a self-destruct process known as apoptosis, and they vanish from the mature tissue. As a result, enamel is acellular: it contains no living cells, no blood vessels and no capacity to heal itself. When a cavity, crack or careless extraction damages it, the body cannot grow the lost material back, however young or healthy the patient may be.",
+      "This biological limitation explains why prevention matters so much in dentistry. Deeper tissues such as dentine sit above a living pulp whose cells can mount a modest repair response, but enamel offers no second chance. Researchers are now investigating laboratory-grown crystals and engineered proteins that might one day coax damaged enamel to rebuild, though no proven therapy yet exists. For the time being, the surest defence remains a careful diet, fluoride and the regular check-ups that a chatty dentist provides."
     ],
     "questions": [
       {
-        "id": "why_unclear",
-        "question": "Why could Lily not answer the dentist clearly?",
+        "id": "main_idea",
+        "question": "What is the main point the passage makes about tooth enamel?",
         "options": [
-          "She had forgotten all the concert music.",
-          "Her mouth had cotton wool in it after the check-up.",
-          "The nurse had asked her to leave the room.",
-          "She was too far away from the dentist to hear him."
+          "Enamel is constantly rebuilt by the body throughout adult life.",
+          "Enamel is softer than most other tissues in the body.",
+          "Enamel is exceptionally hard yet cannot repair itself once damaged.",
+          "Enamel is made mostly of living cells and blood vessels."
         ],
-        "answer_index": 1,
-        "explanation_zh": "短文说 the dentist put cotton wool in her mouth，所以 Lily 不能清楚回答，不是因为忘了音乐或听不见。"
+        "answer_index": 2,
+        "explanation_zh": "全文核心是：牙釉质既是人体最坚硬的组织，又因为缺乏活细胞而无法自我修复。其余选项与原文事实相反。"
       },
       {
-        "id": "dentist_questions",
-        "question": "What did the dentist ask Lily about?",
+        "id": "detail_composition",
+        "question": "According to the passage, what makes up about ninety-five per cent of enamel by weight?",
         "options": [
-          "Whether she was ready for the concert and whether her violin case was still in the waiting room.",
-          "Whether she wanted to collect old match boxes after the concert.",
-          "Whether she had seen the little boy's schoolbag.",
-          "Whether the nurse had cleaned the waiting room."
+          "Hydroxyapatite, a crystalline form of calcium phosphate.",
+          "Water mixed with organic material.",
+          "Living ameloblast cells.",
+          "Soft connective tissue from the pulp."
         ],
         "answer_index": 0,
-        "explanation_zh": "牙医问了两个 whether 问题：是否准备好音乐会，以及她的小提琴盒是否还在候诊室。"
+        "explanation_zh": "原文明确说牙釉质按重量约百分之九十五由 hydroxyapatite（一种结晶形式的磷酸钙）构成，其余才是少量水分和有机物。"
       },
       {
-        "id": "without_speaking",
-        "question": "How did Lily answer before she could write?",
+        "id": "cause_effect",
+        "question": "Why is mature enamel unable to heal itself?",
         "options": [
-          "She sang a line from the concert.",
-          "She either nodded or made strange noises.",
-          "She called her teacher on the phone.",
-          "She left the dentist's chair at once."
+          "Because acidic foods permanently block the repair process.",
+          "Because dentists remove the repair cells during a check-up.",
+          "Because enamel is too thin to hold any cells.",
+          "Because the ameloblasts that build it die off and disappear before the tooth emerges."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "原文指出造釉细胞 ameloblasts 在牙齿萌出前就通过程序性细胞死亡（凋亡）消失，使成熟釉质成为无细胞组织，因此无法自我修复。"
+      },
+      {
+        "id": "inference",
+        "question": "What can be inferred about why dentists emphasise prevention and regular check-ups?",
+        "options": [
+          "Because new enamel can easily be grown in any clinic today.",
+          "Because once enamel is lost the body cannot naturally replace it, so avoiding damage is the best option.",
+          "Because dentine is more valuable than enamel and must be protected first.",
+          "Because acidic foods strengthen enamel over time."
         ],
         "answer_index": 1,
-        "explanation_zh": "短文直接说 she could only nod or make strange noises，对应 Lesson 48 的 either...or...。"
+        "explanation_zh": "由“釉质无法再生、目前尚无成熟疗法”可推断：既然损失无法自然补回，预防和定期检查就成了最可靠的保护方式。"
       },
       {
-        "id": "important_message",
-        "question": "What was Lily trying to tell the dentist?",
+        "id": "vocab_acellular",
+        "question": "In the passage, the word \"acellular\" most nearly means",
         "options": [
-          "The check-up had made her miss the concert.",
-          "The little boy was walking away with her violin case.",
-          "She wanted the dentist to clean another tooth.",
-          "The waiting room needed more chairs."
+          "extremely sensitive to cold.",
+          "able to repair itself quickly.",
+          "containing no living cells.",
+          "made of several thick layers."
         ],
-        "answer_index": 1,
-        "explanation_zh": "Meanwhile 后面说明她盯着门口，因为一个小男孩正拿着黑色琴盒走开；她写下 That is my violin case。"
-      },
-      {
-        "id": "why_write_down",
-        "question": "Why can writing or signalling be important at a dentist?",
-        "options": [
-          "It helps patients give a clear message when they cannot speak clearly.",
-          "It lets patients avoid every appointment.",
-          "It makes dentists stop asking any questions forever.",
-          "It proves that a concert is more important than a check-up."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "结尾说 writing things down can be very important when a patient cannot speak clearly。不能说话时，用写字或信号能把重要信息讲清楚。"
+        "answer_index": 2,
+        "explanation_zh": "原文用 acellular 解释釉质“不含活细胞、没有血管、无法自愈”，因此该词意为“无细胞的”。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 48 的“无法回答和终于说清”句式：用 when it is impossible for you to... 写尴尬时机，用 had just...and had told... 交代之前发生的两个动作，用 tried to..., but... 写尝试被条件挡住，用 either...or... 写只能二选一的反应，最后用 At last, I was able to... 写终于能表达。",
+    "intro_zh": "今天把五个 Lesson 48 的“无法回答 / 终于说清”句式提升到 B2+：用更抽象的语境练习 when it is impossible for you to...、had just...and had told...、tried to..., but...、either...or... 和 At last, ... was able to...，让句子更长、更复杂，但语法骨架不变。",
     "patterns": [
       {
         "id": "when_impossible",
         "title": "when it is impossible for you to ...",
         "source": "Dentists always ask questions when it is impossible for you to answer.",
         "focus_zh": "when it is impossible for you to... 用来写“偏偏在你根本不能做某事的时候”。它能制造 Lesson 48 这种尴尬又好笑的时机。",
-        "task_zh": "仿写一句：写某人偏偏在你无法回答、无法解释、无法离开或无法帮忙的时候问你问题。",
+        "task_zh": "仿写一句（更抽象的情境）：写某种压力或要求偏偏出现在你在法律、保密或道德上根本无法回应的时刻。",
         "must_include": [
           "when it",
           "impossible for"
         ],
-        "min_words": 12,
-        "sample": "My teacher asked me a question when it was impossible for me to answer clearly.",
+        "min_words": 16,
+        "sample": "The interviewer kept pressing for details when it was completely impossible for me to disclose anything still under confidential review.",
         "tip_zh": "后面常接 for someone to do something：impossible for me to answer, impossible for us to leave。"
       },
       {
@@ -103,13 +98,13 @@
         "title": "had just ... and had told ...",
         "source": "My dentist had just pulled out one of my teeth and had told me to rest.",
         "focus_zh": "had just...and had told... 把两个更早发生的动作放在故事背景里：事情已经发生，所以现在的主角处在特殊状态。",
-        "task_zh": "仿写一句：写某人刚刚做完一件事，并且已经告诉另一个人做什么。",
+        "task_zh": "仿写一句：写一位专业人士刚刚完成一项要求很高的工作，并且已经叮嘱相关的人接下来该怎么做。",
         "must_include": [
           "had just",
           "had told"
         ],
-        "min_words": 12,
-        "sample": "The nurse had just checked my arm and had told me to sit still.",
+        "min_words": 18,
+        "sample": "The surgeon had just completed a delicate procedure and had told the anxious family to wait quietly until the anaesthetic had fully worn off.",
         "tip_zh": "两个动作都发生在后面主要情节之前，所以都可以用 had + 过去分词。"
       },
       {
@@ -117,13 +112,13 @@
         "title": "tried to ..., but ...",
         "source": "I tried to say something, but my mouth was full of cotton wool.",
         "focus_zh": "tried to..., but... 写“我尝试了，但条件不允许”。这个句式很适合写努力沟通却被现实挡住。",
-        "task_zh": "仿写一句：写你试图解释、回答、提醒或求助，但某个条件让你做不到。",
+        "task_zh": "仿写一句：写你反复试图澄清一个复杂的误会或解释一个抽象的观点，但某种外部条件让清晰表达变得不可能。",
         "must_include": [
           "tried to",
           "but"
         ],
-        "min_words": 10,
-        "sample": "I tried to explain the problem, but my mouth was too dry.",
+        "min_words": 15,
+        "sample": "I repeatedly tried to clarify the misunderstanding in the meeting, but the constant interruptions made any coherent explanation utterly impossible.",
         "tip_zh": "but 后面要给出真正阻碍你的原因，不只是再写一个无关动作。"
       },
       {
@@ -131,13 +126,13 @@
         "title": "either ... or ...",
         "source": "I either nodded or made strange noises.",
         "focus_zh": "either...or... 表示“不是 A 就是 B”。这里写的是病人能做的选择非常有限：要么点头，要么发出怪声。",
-        "task_zh": "仿写一句：写你在不能正常说话、很紧张或时间很少时，只能在两个反应里选一个。",
+        "task_zh": "仿写一句：写在一个艰难的处境（谈判、抉择、危机）里，你只能在两个都不理想的选项之间二选一。",
         "must_include": [
           "either",
           "or"
         ],
-        "min_words": 10,
-        "sample": "I either pointed at the note or made a strange noise.",
+        "min_words": 16,
+        "sample": "Trapped in that tense negotiation, I could either concede a point I deeply disagreed with or risk collapsing the entire fragile agreement.",
         "tip_zh": "either 和 or 后面的结构最好保持平行：either nodded or smiled，either wrote it down or pointed to it。"
       },
       {
@@ -145,13 +140,13 @@
         "title": "At last, I was able to ...",
         "source": "When the dentist at last removed the cotton wool from my mouth, I was able to tell him...",
         "focus_zh": "At last, I was able to... 写“终于能够做成某事”。它适合放在故事结尾，把前面的着急变成清楚表达。",
-        "task_zh": "仿写一句：写你终于能够告诉某人一个重要信息、写下一个提醒或解释清楚一个误会。",
+        "task_zh": "仿写一句：写经过长时间的努力、等待或斡旋之后，某人终于得以促成一件重要而困难的事。",
         "must_include": [
           "At last",
           "was able to"
         ],
-        "min_words": 12,
-        "sample": "At last, I was able to write down the message for the dentist.",
+        "min_words": 18,
+        "sample": "After hours of careful diplomacy and patient listening, the mediator at last was able to persuade both sides to sign the long-disputed settlement.",
         "tip_zh": "was able to 强调“终于做到了”，比 could 更适合写经过等待或阻碍后的结果。"
       }
     ]
