@@ -1,102 +1,96 @@
 {
   "lesson_id": 40,
   "reading": {
-    "title": "Two Questions at Lunch",
-    "intro_zh": "这篇短文不复述 Mrs. Rumbold 的宴会，而是换到一个音乐营午餐：一个学生试着礼貌寒暄，用 Will you be doing...? 问未来安排，同时学会观察对方是否愿意继续聊。",
-    "word_bank": [
-      "hostess",
-      "conversation",
-      "look up",
-      "be busy doing",
-      "Will you be",
-      "in despair",
-      "whether",
-      "more",
-      "less",
-      "enjoy",
-      "polite"
-    ],
+    "title": "Braver Than We Think: The Science of Talking to Strangers",
+    "intro_zh": "这篇拓展阅读不复述宴会故事，而是聚焦“与陌生人交谈”这一真实话题：为什么我们总退回到闲聊？内容改写自美国心理学会（APA）报道的一项行为科学研究。",
+    "source": {
+      "title": "Getting beyond small talk: Study finds people enjoy deep conversations with strangers",
+      "publisher": "American Psychological Association (APA)",
+      "url": "https://www.apa.org/news/press/releases/2021/09/deep-conversations-strangers"
+    },
     "passage": [
-      "During a music camp lunch, Nina sat beside a quiet boy named Tom. The hostess of the camp meal asked older students to help new guests feel welcome, so Nina tried to make conversation. Tom did not even look up at first; he was busy cutting his noodles into tiny pieces. Nina smiled and asked, \"Will you be joining the rehearsal this afternoon?\" \"No,\" Tom said. She tried another light question: \"Will you be watching the concert tonight?\" Tom shook his head and answered, \"Maybe from the back.\" For a moment, Nina felt almost in despair, but then she noticed his tired eyes. \"I see. Enjoy your lunch,\" she said. Tom finally smiled. Polite talk is not only asking more questions; sometimes it means talking less and letting another person rest."
+      "Most of us treat small talk as the safe default when we sit beside a stranger at a dinner or on a long train ride. We assume that a probing, personal question would feel intrusive, that the other person would rather not reveal much, and that any silence afterwards would be unbearably awkward. Yet a body of behavioural research suggests that this caution is largely a miscalculation. Across a series of experiments involving more than eighteen hundred participants, psychologists at the University of Chicago, Northwestern, and the University of Texas paired people with strangers and asked them to discuss either trivial topics or surprisingly intimate ones, such as the last time they had wept in front of someone.",
+      "The results overturned the participants' own forecasts. Before talking, people expected the deeper exchanges to be more uncomfortable and less rewarding than chatting about the weather. Afterwards, however, they reported that the meaningful conversations had fostered a far stronger sense of connection and were genuinely more enjoyable. The researchers traced this gap to a single faulty assumption: we consistently underestimate how curious other people are about our inner lives. Because we expect indifference, we retreat into shallow remarks that confirm the very distance we fear.",
+      "The practical lesson is not that small talk is worthless, for it remains a graceful way to open an encounter and gauge a stranger's mood. Rather, it is that our instinctive caution often deprives us of richer conversations that both parties would welcome. Reading the other person still matters, but the evidence implies we could afford to be a little braver than our anxieties recommend."
     ],
     "questions": [
       {
-        "id": "lunch_place",
-        "question": "Where did Nina try to make conversation with Tom?",
+        "id": "main_idea",
+        "question": "What is the main point the passage makes about conversation with strangers?",
         "options": [
-          "At a music camp lunch.",
-          "At a theatre called The Globe.",
-          "On a train during the holidays.",
-          "In a school office before class."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文第一句说 During a music camp lunch，Nina 坐在 Tom 旁边并试着寒暄。"
-      },
-      {
-        "id": "future_questions",
-        "question": "Which two polite future questions did Nina ask?",
-        "options": [
-          "Whether Tom had eaten more and talked less.",
-          "Whether Tom would be joining the rehearsal and watching the concert.",
-          "Whether Tom had seen Mrs. Rumbold at dinner.",
-          "Whether Tom wanted to leave the camp at once."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "Nina 问的是 Will you be joining the rehearsal...? 和 Will you be watching the concert...?，都是礼貌地问未来安排。"
-      },
-      {
-        "id": "tom_answers",
-        "question": "How did Tom answer Nina's questions?",
-        "options": [
-          "He gave long stories about the concert.",
-          "He asked Nina many questions in return.",
-          "He answered very briefly: \"No\" and \"Maybe from the back.\"",
-          "He told the hostess to change his seat."
+          "Strangers almost always prefer to sit in silence rather than talk.",
+          "Personal questions are usually felt to be rude and should be avoided.",
+          "People wrongly assume deep conversation will be awkward when it is often rewarding.",
+          "Small talk is the only reliable way to connect with someone new."
         ],
         "answer_index": 2,
-        "explanation_zh": "Tom 的回答很短，一个是 No，另一个是 Maybe from the back，说明他不太想展开聊天。"
+        "explanation_zh": "全文的核心是：人们误以为深入交谈会很尴尬、不如闲聊舒服，但研究表明深入交谈其实往往更有意义、更愉快，这个误判才是主旨。"
       },
       {
-        "id": "nina_realized",
-        "question": "What did Nina finally realize?",
+        "id": "detail_study",
+        "question": "According to the passage, how was the research carried out?",
         "options": [
-          "Tom was tired and did not really want a long conversation.",
-          "Tom wanted her to ask five more questions.",
-          "The hostess had made a mistake about lunch.",
-          "The rehearsal had already finished."
+          "Strangers were paired and asked to discuss either trivial or intimate topics.",
+          "Volunteers kept private diaries of every dinner-party conversation.",
+          "Participants were trained to avoid small talk for a month.",
+          "Researchers observed commuters without speaking to them."
         ],
         "answer_index": 0,
-        "explanation_zh": "Nina noticed his tired eyes，所以她明白 Tom 可能只是累了，不想继续长时间聊天。"
+        "explanation_zh": "短文说研究让陌生人配对，要求他们讨论或是琐碎的话题，或是出人意料地私密的话题（如上一次在别人面前哭泣），所以选项一正确。"
       },
       {
-        "id": "social_lesson",
-        "question": "What social lesson does the story teach?",
+        "id": "cause_effect",
+        "question": "Why, according to the researchers, do people retreat into shallow remarks?",
         "options": [
-          "A polite person should never speak at lunch.",
-          "Short answers always mean someone is rude.",
-          "If one topic fails, we must keep asking harder questions.",
-          "Polite talk means asking gently, reading signals, and stopping gracefully."
+          "Because they have been formally taught that small talk is more polite.",
+          "Because deep questions are forbidden in most cultures.",
+          "Because silence after a personal question is physically impossible to endure.",
+          "Because they underestimate how curious others are about their inner lives."
         ],
         "answer_index": 3,
-        "explanation_zh": "结尾点出 Polite talk is not only asking more questions，有时也要 talking less，让别人休息。"
+        "explanation_zh": "短文指出根本原因是一个错误假设：我们一贯低估别人对我们内心世界的好奇；因为预期对方冷淡，所以退回到浅层的话语。"
+      },
+      {
+        "id": "inference",
+        "question": "What can be inferred from the passage about the participants' expectations?",
+        "options": [
+          "Their predictions before talking matched their feelings afterwards.",
+          "Their fears about deep conversation were not borne out by their actual experience.",
+          "They enjoyed the trivial conversations far more than the meaningful ones.",
+          "They found both kinds of conversation equally disappointing."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "短文说交谈前人们预期深入交谈会更不舒服、回报更少，但交谈后却觉得更有连接感、更愉快，说明他们的担忧并未成真，可推断出选项二。"
+      },
+      {
+        "id": "vocab_in_context",
+        "question": "In the final paragraph, the word \"deprives\" is closest in meaning to",
+        "options": [
+          "prepares us for.",
+          "reminds us of.",
+          "robs us of.",
+          "rewards us with."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "deprives us of 意为“使我们失去、剥夺我们的……”，与 robs us of（夺走我们的）最接近；句意是我们本能的谨慎常常使我们失去更丰富的交谈。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 40 的餐桌寒暄句式：用 asked...to...写安排，用 did not even...写没有回应，用 was busy doing...写正忙于某事，用 Will you be...?礼貌询问未来安排，再用 if you...more and...less 写带反差的建议。",
+    "intro_zh": "今天把 Lesson 40 的五个餐桌寒暄句式抬到 B2+：用 asked...to... 写更抽象的请求，用 did not even... 写更深的冷淡，用 was busy doing... 写专注投入，用 Will you be...? 礼貌探问未来安排，再用 if you...more and...less 写带反差的洞见。每句都要更长、更复杂。",
     "patterns": [
       {
         "id": "asked_someone_to",
         "title": "asked ... to ...",
         "source": "The hostess asked me to sit next to Mrs. Rumbold.",
         "focus_zh": "asked...to... 用来写一个人请、要求或安排另一个人做某事。",
-        "task_zh": "仿写一句：写老师、主人、队长或朋友请某人坐下、帮忙、加入活动或照顾新同学。",
+        "task_zh": "仿写一句：写一位老师、研究者或主持人请某人放下顾虑、去做一件需要勇气或耐心的事，并说明背景或目的。",
         "must_include": [
           "asked",
           "to"
         ],
-        "min_words": 10,
-        "sample": "The teacher asked me to sit next to a new student at lunch.",
+        "min_words": 16,
+        "sample": "The researchers asked each volunteer to set aside her doubts and reveal something genuinely personal to a complete stranger.",
         "tip_zh": "asked 后面先接人，再用 to 加动词原形：asked me to sit, asked us to help。"
       },
       {
@@ -104,12 +98,12 @@
         "title": "did not even ...",
         "source": "She did not even look up when I took my seat beside her.",
         "focus_zh": "did not even... 强调连一个很小的反应都没有，能写出尴尬或冷淡的场面。",
-        "task_zh": "仿写一句：写某人忙着吃饭、看书或休息，连抬头、回答或微笑都没有。",
+        "task_zh": "仿写一句：写某人因为预期对方冷淡或没兴趣，结果连一个简单的尝试、提问或回应都没有做出来。",
         "must_include": [
           "did not even"
         ],
-        "min_words": 10,
-        "sample": "He did not even look up when I said hello at the table.",
+        "min_words": 16,
+        "sample": "Convinced that the stranger beside him felt only indifference, he did not even attempt the deeper question he had quietly rehearsed.",
         "tip_zh": "did not even 后面接动词原形，比如 look, answer, smile。"
       },
       {
@@ -117,12 +111,12 @@
         "title": "was busy doing ...",
         "source": "In a short time, she was busy eating.",
         "focus_zh": "was busy doing... 写某人正忙着做一件事，注意 busy 后面接 doing。",
-        "task_zh": "仿写一句：写某人在午餐、活动或课间正忙着吃饭、准备节目、收拾东西或看菜单。",
+        "task_zh": "仿写一句：写某人正忙着做某件事（准备、设想、分析或练习），却忽略了真正重要的东西，形成对比。",
         "must_include": [
           "was busy"
         ],
-        "min_words": 9,
-        "sample": "My partner was busy reading the menu and did not hear me.",
+        "min_words": 16,
+        "sample": "While the others rehearsed their polite opening lines, she was busy imagining all the awkward silences that, in the end, never arrived.",
         "tip_zh": "busy 后面通常接动名词：busy eating, busy reading, busy preparing。"
       },
       {
@@ -130,12 +124,12 @@
         "title": "Will you be doing ...?",
         "source": "Will you be spending your holidays abroad this year?",
         "focus_zh": "Will you be doing...? 不是硬问“你做不做”，而是轻轻问“到时候你是不是会有这个安排”。",
-        "task_zh": "仿写一句：用 Will you be...? 礼貌地问别人明天、周末、假期或活动期间的安排。",
+        "task_zh": "仿写一句：用 Will you be...? 礼貌而略带挑战地探问对方在未来某个场合是否会做出更深入、更主动的选择。",
         "must_include": [
           "Will you be"
         ],
-        "min_words": 8,
-        "sample": "Will you be joining the school dinner tomorrow evening?",
+        "min_words": 16,
+        "sample": "Will you be sharing anything that really matters to you, or settling once again for safe remarks about the weather?",
         "tip_zh": "Will you be 后面接 doing 形式，比如 joining, watching, staying, spending。"
       },
       {
@@ -143,14 +137,14 @@
         "title": "if you ... more and ... less",
         "source": "If you ate more and talked less, we would both enjoy our dinner.",
         "focus_zh": "if you...more and...less 用 more / less 做对比，可以写出一句带反差的建议或幽默收束。",
-        "task_zh": "仿写一句：写如果某人多做一件有帮助的事、少做一件打扰人的事，结果会更好。",
+        "task_zh": "仿写一句：用 if you...more and...less 写出一句带反差的洞见——多相信或多投入某事、少担心或少回避某事，结果会更好。",
         "must_include": [
           "if you",
           "more",
           "less"
         ],
-        "min_words": 12,
-        "sample": "If you listened more and worried less, the meeting would feel easier.",
+        "min_words": 16,
+        "sample": "If you trusted others' curiosity a little more and feared their judgement a little less, your conversations might surprise you.",
         "tip_zh": "more 和 less 前面各放一个动作或状态，形成清楚对比：listen more, talk less。"
       }
     ]
