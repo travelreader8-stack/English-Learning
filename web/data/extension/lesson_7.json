@@ -1,101 +1,96 @@
 {
   "lesson_id": 7,
   "reading": {
-    "title": "The Empty Trophy Box",
-    "intro_zh": "这篇拓展阅读不复述机场钻石故事，而是换到学校奖杯包裹的安全链：大家守住最后一道门，却发现真正的问题早已发生。",
-    "word_bank": [
-      "detective",
-      "expect",
-      "valuable",
-      "parcel",
-      "thieves",
-      "steal",
-      "keeping guard",
-      "to their surprise",
-      "precious",
-      "full of"
-    ],
+    "title": "The Seal That Tells the Truth",
+    "intro_zh": "这篇拓展阅读不复述机场钻石故事，而是介绍真实世界里的「防拆封装」：1982年芝加哥泰诺投毒案如何让人们意识到，只守住生产或运输环节并不够，必须让任何篡改都留下一眼可见的痕迹。改编自 PBS NewsHour 对此案及其监管影响的报道。",
+    "source": {
+      "title": "How the Tylenol murders of 1982 changed the way we consume medication",
+      "publisher": "PBS NewsHour",
+      "url": "https://www.pbs.org/newshour/health/tylenol-murders-1982"
+    },
     "passage": [
-      "On Friday morning, the science club was expecting a valuable parcel: the first prize trophy for the city fair. A teacher had told the school detective club that thieves would try to steal it during delivery. So the children and two teachers were waiting all morning. Some were waiting in the front office, while others were keeping guard by the hall door. At noon, a driver brought a neat brown box. It looked safe, and everyone felt proud. Two teachers carried the parcel to the display room and opened it. To their surprise, the precious box was full of paper and small stones. The trophy was not there. The guards had watched the last door, but the switch had happened earlier on the delivery chain. They were careful, but they were too late."
+      "In the autumn of 1982, seven people near Chicago died after swallowing pain-relief capsules laced with potassium cyanide. Investigators quickly established an unsettling conclusion: the cyanide lacing had occurred after the cases of Tylenol left the factory. Someone had quietly lifted bottles off retail store shelves, poisoned the medicine, and slipped them back for shoppers to buy. The manufacturer recalled more than thirty-one million bottles and later spent over a hundred million dollars to recover. Yet the harder lesson was this: guarding the factory was useless when an intruder could strike at the very last point before a sale.",
+      "The crisis gave rise to a quietly revolutionary idea: tamper-evident packaging. Crucially, such packaging does not necessarily stop someone from opening a container; rather, it ensures that any unauthorized interference leaves visible, irreversible evidence. The distinction matters. A tamper-resistant design tries to make intrusion difficult, whereas a tamper-evident one assumes a determined intruder may eventually break in, and instead makes that breach impossible to conceal. No package, after all, can ever be truly tamper-proof.",
+      "Following the tragedy, the United States required manufacturers to add induction seals, shrink bands, and similar safeguards to medicines and foods. The reasoning rests on a constraint of time. Someone tampering with goods on a busy shelf has only a narrow window before a clerk or customer appears, making it improbable that they could break a package and then restore it to its pristine condition. By shifting vigilance from the factory door to the shopper's hands, these unobtrusive seals turned an invisible danger into something an ordinary consumer could spot at a glance, before it was too late."
     ],
     "questions": [
       {
-        "id": "valuable_thing",
-        "question": "What valuable thing were the students and teachers expecting?",
+        "id": "main_idea",
+        "question": "What is the main idea of the passage?",
         "options": [
-          "A new computer for the office.",
-          "The first prize trophy for the city fair.",
-          "A box of science books.",
-          "A camera for the school newspaper."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "短文第一句说 science club was expecting a valuable parcel: the first prize trophy。"
-      },
-      {
-        "id": "warning",
-        "question": "What warning made everyone careful?",
-        "options": [
-          "The driver said the box was too heavy.",
-          "A teacher said the trophy had already been shown.",
-          "The school detective club heard that thieves would try to steal the trophy.",
-          "The city fair had been cancelled."
-        ],
-        "answer_index": 2,
-        "explanation_zh": "老师告诉学校 detective club：thieves would try to steal it during delivery。"
-      },
-      {
-        "id": "guard_places",
-        "question": "Where did different people wait or keep guard?",
-        "options": [
-          "In the front office and by the hall door.",
-          "In the playground and on the bus.",
-          "In the kitchen and near the library window.",
-          "At the city fair and beside the stage."
+          "Tamper-evident packaging emerged to make any interference visible, even at the last point before purchase, rather than relying on factory security.",
+          "The 1982 Chicago poisonings were eventually traced to a single contaminated factory.",
+          "Tamper-resistant and tamper-evident packaging are simply two names for the same technology.",
+          "Recalling millions of bottles is the most effective response to product tampering."
         ],
         "answer_index": 0,
-        "explanation_zh": "短文说 some were waiting in the front office, while others were keeping guard by the hall door。"
+        "explanation_zh": "全文主旨是：泰诺案让人们意识到只守工厂没用，于是产生了防拆封装，目的是让任何环节、甚至购买前最后一步的篡改都能被看见。选项0正确；其余与文意不符。"
       },
       {
-        "id": "inside_box",
-        "question": "What did they find inside the box?",
+        "id": "detail",
+        "question": "Roughly how much did the manufacturer spend to recover after the poisonings?",
         "options": [
-          "The trophy and a letter.",
-          "A broken science model.",
-          "Nothing at all.",
-          "Paper and small stones."
-        ],
-        "answer_index": 3,
-        "explanation_zh": "打开后发现 the precious box was full of paper and small stones。"
-      },
-      {
-        "id": "too_late",
-        "question": "Why were they too late?",
-        "options": [
-          "The fair had started before they arrived.",
-          "The driver forgot the school address.",
-          "The switch had already happened earlier on the delivery chain.",
-          "The students opened the wrong door."
+          "About one million dollars.",
+          "About ten million dollars.",
+          "Over one hundred million dollars.",
+          "Over one billion dollars."
         ],
         "answer_index": 2,
-        "explanation_zh": "他们守住的是最后一道门，但调包早已在 delivery chain 的更早处发生。"
+        "explanation_zh": "第一段写道，厂商召回三千一百多万瓶后 spent over a hundred million dollars to recover（投入逾一亿美元来恢复），故选「逾一亿美元」。"
+      },
+      {
+        "id": "cause_effect",
+        "question": "Why did investigators conclude the capsules were tampered with on store shelves rather than at the factory?",
+        "options": [
+          "Because the cyanide was a type only sold near Chicago stores.",
+          "Because investigators established that the cyanide lacing had occurred after the cases left the factory.",
+          "Because the factories had no security guards on duty.",
+          "Because the manufacturer admitted a fault in its production line."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "第一段说调查人员确定氰化物是在泰诺出厂后才被加入的（the cyanide lacing had occurred after the cases of Tylenol left the factory），因此投毒只能发生在零售货架上。"
+      },
+      {
+        "id": "inference",
+        "question": "What can be inferred about why a brief window of time helps tamper-evident seals work?",
+        "options": [
+          "Intruders usually lose interest in a target within a few minutes.",
+          "Seals dissolve automatically if they are left untouched for too long.",
+          "An intruder rarely has enough time to break a seal and then restore it unnoticed.",
+          "Inspectors are legally required to check every package once an hour."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "第三段指出，在繁忙货架上动手脚的人在店员或顾客出现前时间很短，improbable that they could violate a package and then restore it to its pristine condition，可推断时间太短使其难以拆封后再复原而不被察觉。"
+      },
+      {
+        "id": "vocab",
+        "question": "In the final paragraph, the word \"unobtrusive\" most nearly means:",
+        "options": [
+          "expensive and difficult to install",
+          "easily broken by accident",
+          "required by international law",
+          "not noticeable or attracting little attention"
+        ],
+        "answer_index": 3,
+        "explanation_zh": "unobtrusive 意为「不显眼的、不引人注意的」。文中说这些 seals 不起眼，却把隐患变成消费者一眼可察的东西，故选「不易被注意到的」。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "这组句式练习侦探故事里的时间层：长时间等待、期待重要物品、提前收到警告、同时守门和开箱，以及最后的反转发现。",
+    "intro_zh": "这组句式练习侦探故事里的时间层，并把语境升级到更抽象、更贴近现实的安全与调查场景：长时间持续的守候、对重要事物到来的预期、提前转述的潜在威胁、两件同时进行的动作，以及最后令人意外的反转发现。",
     "patterns": [
       {
         "id": "waiting_all_morning",
         "title": "were waiting ... all morning",
         "source": "Detectives were waiting at the airport all morning.",
         "focus_zh": "用 were waiting...all morning 表示一群人不是等了一小会儿，而是持续等了很久。",
-        "task_zh": "仿写一句：写一群人整个上午都在某个地点等待一个重要包裹、客人或消息。",
+        "task_zh": "仿写一句：描写一群专业人员整个上午都在某处持续守候，等待一件重要而敏感的事物到来，并点出他们守候的目的。",
         "must_include": [
           "were waiting",
           "all morning"
         ],
-        "min_words": 9,
-        "sample": "The students were waiting in the hall all morning for the parcel.",
+        "min_words": 16,
+        "sample": "The inspectors were waiting on the loading dock all morning, determined to intercept the shipment before it vanished into the warehouse.",
         "tip_zh": "were waiting 后面可以接地点，all morning 放在句末很自然。"
       },
       {
@@ -103,25 +98,25 @@
         "title": "were expecting ...",
         "source": "They were expecting a valuable parcel of diamonds.",
         "focus_zh": "were expecting 表示大家正在等一个明确而重要的东西到来。",
-        "task_zh": "仿写一句：写某人正在等待一个贵重、重要或期待已久的包裹。",
+        "task_zh": "仿写一句：描写某个团队正在预期一件贵重或关键物品的到来，并说明为什么它对结果如此重要。",
         "must_include": [
           "were expecting"
         ],
-        "min_words": 8,
-        "sample": "We were expecting a valuable parcel for the school display.",
-        "tip_zh": "expecting 后面直接接名词，比 waiting for 更有“心里知道它要来”的感觉。"
+        "min_words": 14,
+        "sample": "The laboratory staff were expecting a sealed consignment of fragile samples whose integrity could decide the entire investigation.",
+        "tip_zh": "expecting 后面直接接名词，比 waiting for 更有「心里知道它要来」的感觉。"
       },
       {
         "id": "would_try_to",
         "title": "would try to ...",
         "source": "Thieves would try to steal the diamonds.",
         "focus_zh": "would try to... 常用来转述别人提前说过的未来危险或打算。",
-        "task_zh": "仿写一句：写老师、警卫或朋友提前提醒大家，某人可能会尝试做一件不好的事。",
+        "task_zh": "仿写一句：写某个提前发出的警告或情报，预告有人将会尝试在不被察觉的情况下做出某种破坏或调包行为。",
         "must_include": [
           "would try to"
         ],
-        "min_words": 9,
-        "sample": "The guard warned us that someone would try to take the trophy.",
+        "min_words": 16,
+        "sample": "Long before the delivery arrived, an anonymous tip had warned the authorities that an insider would try to swap the contents undetected.",
         "tip_zh": "would try to 后面接动词原形，比如 take, open, hide, change。"
       },
       {
@@ -129,13 +124,13 @@
         "title": "While ... were keeping guard, ...",
         "source": "While two detectives were keeping guard at the door, two others opened the parcel.",
         "focus_zh": "While 把两个同时发生的动作连起来：一边守着，一边检查。",
-        "task_zh": "仿写一句：写一些人在守门或守箱子，同时另一些人打开或检查包裹。",
+        "task_zh": "仿写一句：用 While 把两个同时发生的动作对照起来——一些人在显眼处守卫，而真正的危险或动作却在别处悄然进行。",
         "must_include": [
           "While",
           "were keeping guard"
         ],
-        "min_words": 12,
-        "sample": "While two students were keeping guard at the door, the teacher opened the box.",
+        "min_words": 18,
+        "sample": "While the officers at the entrance were keeping guard against any obvious intruder, the real interference was quietly taking place far earlier in the chain.",
         "tip_zh": "While 开头的从句后面要加逗号，再写主句动作。"
       },
       {
@@ -143,13 +138,13 @@
         "title": "To their surprise, ... was full of ...",
         "source": "To their surprise, the precious parcel was full of stones and sand!",
         "focus_zh": "这个句式非常适合写结尾反转：大家以为会看到 A，结果里面全是 B。",
-        "task_zh": "仿写一句：写大家打开某个盒子或包裹后，惊讶地发现里面装的不是预期物品。",
+        "task_zh": "仿写一句：描写人们打开一个看似完好无损的容器后，惊讶地发现里面装的并非预期之物，并暗示真正的东西早已在更早的环节被掉包。",
         "must_include": [
           "To their surprise",
           "was full of"
         ],
-        "min_words": 10,
-        "sample": "To their surprise, the display box was full of paper and stones.",
+        "min_words": 16,
+        "sample": "To their surprise, the carefully sealed container was full of worthless filler, and the genuine cargo had vanished somewhere upstream.",
         "tip_zh": "full of 后面接里面真正装的东西，能把反转写得很清楚。"
       }
     ]
