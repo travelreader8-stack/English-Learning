@@ -1,100 +1,95 @@
 {
   "lesson_id": 37,
   "reading": {
-    "title": "The Open-Day Countdown",
-    "intro_zh": "这篇短文不复述奥运城，而是换到学校开放日倒计时：许多访客将来到学校，老师、学生和工人按日期准备路线、场地、泳池和舞台。",
-    "word_bank": [
-      "will be held",
-      "visitors",
-      "sports field",
-      "swimming pool",
-      "route signs",
-      "complete",
-      "by the end of",
-      "modern",
-      "anxiously",
-      "look forward to"
-    ],
+    "title": "The Real Cost of the Olympic City",
+    "intro_zh": "这篇拓展阅读不复述奥运城课文，而是聚焦真实话题：举办奥运会的城市如何为巨型工程付出长期代价。内容改编自权威媒体 The Globe and Mail 关于 1976 年蒙特利尔奥运会的报道。",
+    "source": {
+      "title": "Montreal's billion-dollar 'Big Owe': What went wrong in '76?",
+      "publisher": "The Globe and Mail",
+      "url": "https://www.theglobeandmail.com/news/british-columbia/montreals-billion-dollar-big-owe-what-went-wrong-in-76/article1152036/"
+    },
     "passage": [
-      "Our school open day will be held in six weeks' time. As a great many parents and students from nearby schools will be visiting, our teachers will be preparing a clear route around the campus. The art club will be making bright route signs, and the sports team will be cleaning the sports field and the small swimming pool. Workers will be building a temporary stage beside the hall. By the end of this week, the art club will have completed the signs. By the end of next week, the workers will have finished the stage. Everyone is watching the work anxiously, but we are also excited and looking forward to welcoming our visitors."
+      "When a city wins the right to host the Olympic Games, it inherits an enormous construction project with an immovable deadline. Stadiums, swimming pools, athletes' housing and transport links must all be completed before the world arrives, and the pressure to finish on time can push costs far beyond the original estimates. The 1976 Montreal Games are the most cautionary example. The city's mayor had promised a \"modest\" Olympics, yet the centrepiece, a vast concrete stadium crowned by an inclined tower meant to suspend a retractable roof, became one of the most expensive sporting venues ever built.",
+      "The deadline proved unforgiving. Although the stadium was ready in time for the competition, the tower and roof were not finished until years afterwards, and the roof never functioned reliably. The financial consequences lingered far longer. The debt eventually reached around 1.5 billion dollars and was not fully repaid until 2006, three decades after the closing ceremony, largely through a special tax on tobacco. Counting interest and maintenance, the total bill approached three billion dollars.",
+      "The Montreal experience reshaped how host cities think about infrastructure. Rather than erecting monuments that drain public budgets for generations, modern organisers increasingly prioritise \"legacy\": venues that can be adapted for housing, conventions or community sport once the athletes have gone. A magnificent building is only a genuine success if a city can still afford it long after the Games have ended."
     ],
     "questions": [
       {
-        "id": "event_held",
-        "question": "What event will be held in six weeks' time?",
+        "id": "main_idea",
+        "question": "What is the main point of the passage?",
         "options": [
-          "A school open day.",
-          "An Olympic swimming final.",
-          "A railway opening ceremony.",
-          "A city government meeting."
+          "The Olympic Games should always be held in the same city.",
+          "Montreal built the largest swimming pool in the world.",
+          "Hosting the Olympics can create huge construction costs that last for decades, which has changed how cities plan venues.",
+          "Retractable roofs are now banned at all Olympic stadiums."
         ],
-        "answer_index": 0,
-        "explanation_zh": "短文第一句说 Our school open day will be held in six weeks' time，所以活动是学校开放日。"
+        "answer_index": 2,
+        "explanation_zh": "全文以蒙特利尔为例，说明举办奥运会的工程会带来巨额且长期的费用，并促使各城市重新思考场馆规划，因此主旨是选项 C。"
       },
       {
-        "id": "why_prepare",
-        "question": "Why are many preparations needed?",
+        "id": "detail_debt",
+        "question": "When was Montreal's Olympic debt finally repaid?",
         "options": [
-          "Many parents and students from nearby schools will be visiting.",
-          "The school will close the campus for a year.",
-          "The students will leave the city by train.",
-          "The teachers want to cancel all sports."
+          "In 2006, about three decades after the Games.",
+          "Immediately after the closing ceremony in 1976.",
+          "Before the stadium was even completed.",
+          "It has never been repaid."
         ],
         "answer_index": 0,
-        "explanation_zh": "原因在 As a great many parents and students...will be visiting，访客多，所以要提前准备路线和场地。"
+        "explanation_zh": "第二段明确写到债务直到 2006 年才还清，即闭幕式后约三十年，所以选 A。"
       },
       {
-        "id": "student_work",
-        "question": "What will the art club be making?",
+        "id": "cause_effect",
+        "question": "According to the passage, why can the costs of hosting the Games rise far above the first estimates?",
         "options": [
-          "Bright route signs.",
-          "A new railway line.",
-          "A huge stadium roof.",
-          "Tickets for the Olympic Games."
+          "Because athletes refuse to compete in old venues.",
+          "Because cities deliberately want to lose money.",
+          "Because tobacco taxes are difficult to collect.",
+          "Because the fixed deadline forces everything to be completed before the Games, creating intense pressure."
         ],
-        "answer_index": 0,
-        "explanation_zh": "文中说 The art club will be making bright route signs，艺术社要做清楚的路线标志。"
+        "answer_index": 3,
+        "explanation_zh": "第一段指出工程有一个不可更改的截止日期，所有设施必须在奥运会前完成，这种按时完工的压力会把费用推高，故选 D。"
       },
       {
-        "id": "deadline_done",
-        "question": "Which task will have been completed by the end of this week?",
+        "id": "inference",
+        "question": "What can we infer about why modern organisers now emphasise \"legacy\"?",
         "options": [
-          "The art club will have completed the signs.",
-          "The workers will have finished the stage.",
-          "The parents will have visited every classroom.",
-          "The sports team will have built a new school."
+          "They want venues to remain useful and affordable after the Games, avoiding Montreal's long-term burden.",
+          "They believe new stadiums are unnecessary for the Olympics.",
+          "They prefer to demolish every venue once the Games finish.",
+          "They want the Games to last for several decades."
         ],
         "answer_index": 0,
-        "explanation_zh": "关键句是 By the end of this week, the art club will have completed the signs。"
+        "explanation_zh": "结尾说现代主办方重视“legacy”，让场馆赛后能改作住房、会展或社区运动之用，以避免像蒙特利尔那样长期负担，由此可推断选 A。"
       },
       {
-        "id": "looking_forward",
-        "question": "Why is everyone looking forward to the open day?",
+        "id": "vocab_cautionary",
+        "question": "In the passage, the word \"cautionary\" most nearly means",
         "options": [
-          "They are excited to welcome their visitors.",
-          "They are afraid the route signs will disappear.",
-          "They want the temporary stage to be removed.",
-          "They have never cleaned a swimming pool before."
+          "extremely profitable and successful.",
+          "serving as a warning to others.",
+          "completely forgotten by history.",
+          "carefully planned in advance."
         ],
-        "answer_index": 0,
-        "explanation_zh": "结尾说 everyone is excited and looking forward to welcoming our visitors，期待的是欢迎来访者。"
+        "answer_index": 1,
+        "explanation_zh": "“the most cautionary example” 指蒙特利尔是一个警示性的例子，提醒别人注意风险，因此 cautionary 意为“起警示作用的”，选 B。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 37 的项目倒计时句式：用 will be held 写未来活动，用 As a great many...will be visiting...说明准备原因，用 will be building 写未来一段时间的建设，用 will have completed...by...写截止日期前完成，再用 looking forward to 写期待。",
+    "intro_zh": "今天把 Lesson 37 的五个项目倒计时句式提升到 B2+：用 will be held 写大型活动的安排，用 As a great many...will be visiting...解释为何要超前准备，用 will be building 写未来一段时间持续推进的工程，用 will have completed...by...写截止日期前的交付，再用 looking forward to 写对未来的期待。每句都更长、更抽象，但语法结构不变。",
     "patterns": [
       {
         "id": "will_be_held_event",
         "title": "will be held ...",
         "source": "The Olympic Games will be held in our country in four years' time.",
         "focus_zh": "will be held 是一般将来时的被动语态，用来写“某个活动将在某地/某时举行”。",
-        "task_zh": "仿写一句：写学校开放日、运动会、音乐会或科学展将在某个时间和地点举行。",
+        "task_zh": "仿写一句更正式的话：写一场大型公共活动（展览、运动会、峰会等）将在某个时间和某个具体场地举行。",
         "must_include": [
           "will be held"
         ],
-        "min_words": 10,
-        "sample": "The school open day will be held in our main hall next month.",
+        "min_words": 14,
+        "sample": "The international science exhibition will be held in the newly renovated civic centre during the final week of October.",
         "tip_zh": "will be held 后面常接地点或时间；不要写成 will held。"
       },
       {
@@ -102,13 +97,13 @@
         "title": "As a great many ... will be visiting ...",
         "source": "As a great many people will be visiting the country, the government will be building new hotels.",
         "focus_zh": "As 引出原因，a great many 强调人数很多，will be visiting 写未来某段时间会有很多人来访。",
-        "task_zh": "仿写一句：说明因为许多家长、学生或客人会来访，所以学校或团队要提前准备某些东西。",
+        "task_zh": "仿写一句更抽象的话：说明因为大量与会者、记者或游客将来访，所以政府或组织方要提前升级某些基础设施。",
         "must_include": [
           "As a great many",
           "will be visiting"
         ],
-        "min_words": 14,
-        "sample": "As a great many parents will be visiting our school, we will be preparing clear route signs.",
+        "min_words": 16,
+        "sample": "As a great many delegates and journalists will be visiting the host city, the local authorities will be upgrading the airport and the metro network.",
         "tip_zh": "逗号前写“为什么要准备”，逗号后写“将会准备什么”。"
       },
       {
@@ -116,12 +111,12 @@
         "title": "will be building ...",
         "source": "They will also be building new roads and a special railway line.",
         "focus_zh": "will be building 表示未来某段时间里持续进行的建设或准备，适合写项目计划。",
-        "task_zh": "仿写一句：写某个团队、学校或城市将会建造、布置或准备一个具体设施。",
+        "task_zh": "仿写一句更复杂的话：写某政府或机构在未来一段较长时间里将持续建设一个综合性的设施或系统。",
         "must_include": [
           "will be building"
         ],
-        "min_words": 10,
-        "sample": "The workers will be building a small stage beside the sports field.",
+        "min_words": 16,
+        "sample": "Over the next three years the municipal government will be building an integrated transport hub that connects the stadium, the athletes' village and the airport.",
         "tip_zh": "will be building 后面要接具体对象，比如 a stage, new roads, a display area。"
       },
       {
@@ -129,13 +124,13 @@
         "title": "will have completed ... by ...",
         "source": "Workers will have completed the new roads by the end of this year.",
         "focus_zh": "will have completed...by... 是将来完成时，强调到了某个未来截止时间，事情已经完成。",
-        "task_zh": "仿写一句：写学生、工人或老师会在某个截止日期前完成一项准备工作。",
+        "task_zh": "仿写一句更有难度的话：写工程师、团队或施工方将在某个关键节点之前完成一项较专业的准备工作。",
         "must_include": [
           "will have completed",
           "by"
         ],
-        "min_words": 12,
-        "sample": "The art club will have completed the route signs by Friday afternoon.",
+        "min_words": 15,
+        "sample": "The engineers will have completed the structural reinforcement of the main grandstand by the opening of the qualifying rounds.",
         "tip_zh": "by 后面必须给出截止时间，比如 by Friday, by the end of next week。"
       },
       {
@@ -143,12 +138,12 @@
         "title": "are looking forward to ...",
         "source": "We are all very excited and are looking forward to the Olympic Games.",
         "focus_zh": "looking forward to 表示期待；这里的 to 是介词，后面接名词或动名词。",
-        "task_zh": "仿写一句：写大家很兴奋，并期待欢迎访客、观看表演或参加活动。",
+        "task_zh": "仿写一句更丰富的话：写某地区或群体非常兴奋，并期待迎接来访者、举办活动或迎来某个重要时刻。",
         "must_include": [
           "looking forward to"
         ],
-        "min_words": 10,
-        "sample": "We are excited and looking forward to welcoming our visitors on open day.",
+        "min_words": 15,
+        "sample": "Residents across the region are genuinely excited and looking forward to welcoming thousands of international visitors to their newly transformed waterfront.",
         "tip_zh": "to 后面可以接名词，也可以接 doing，比如 welcoming, watching, joining。"
       }
     ]
