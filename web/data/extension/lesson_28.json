@@ -1,100 +1,95 @@
 {
   "lesson_id": 28,
   "reading": {
-    "title": "A Sign That Finally Worked",
-    "intro_zh": "这篇短文不复述原文，而是换到现代小区门口的停车问题：旧提示牌没有效果，一个幽默的 Medusa 标志让人注意规则，但真正解决问题的是清楚规则和冷静沟通。",
-    "word_bank": [
-      "garage",
-      "gate",
-      "parking space",
-      "owner",
-      "notice",
-      "effect",
-      "ancient myth",
-      "Medusa",
-      "turn to stone",
-      "at last"
-    ],
+    "title": "Medusa: The Face That Turned to Stone",
+    "intro_zh": "本文不复述课文里 Jasper 的停车故事，而是介绍 Jasper 借用的那个真实神话形象——希腊神话中的蛇发女怪美杜莎（Medusa），改写自权威资料 World History Encyclopedia。",
+    "source": {
+      "title": "Medusa",
+      "publisher": "World History Encyclopedia",
+      "url": "https://www.worldhistory.org/Medusa/"
+    },
     "passage": [
-      "Aiden's family lived above a small shop, and their garage was behind a blue gate. Every evening a delivery car stopped in front of the gate, so his father could not get their car into the garage. They put up two No Parking notices, but drivers said the notices were too small and stopped for \"only five minutes.\" Aiden laughed and drew a friendly Medusa on a new notice: \"Do not wait here, or this parking space will turn to stone!\" The building manager liked the joke, but she also painted a clear yellow line and called the delivery company. At last, the gate stayed open. Aiden learned that funny signs can help people notice a rule, but clear rules and calm action have the real effect."
+      "In Greek mythology, Medusa was the only mortal among three monstrous sisters known as the Gorgons, the daughters of the ancient sea deities Phorcys and Ceto. Her sisters, Stheno and Euryale, were immortal, yet it is Medusa whose name has endured for nearly three thousand years. Although ancient artists portrayed her variously, sometimes with golden wings, boar-like tusks, or hands of bronze, she is remembered above all for the writhing snakes that replaced her hair and for a gaze so terrible that anyone who looked directly at her face was instantly petrified, frozen forever into lifeless stone.",
+      "The Roman poet Ovid offered a tragic explanation for her appearance. According to his account, Medusa had once been a beautiful woman, but after she was violated by the sea god Poseidon inside a sacred temple, the goddess Athena punished her by transforming her hair into a nest of serpents. Her reign of terror ended when the hero Perseus, guided by Athena, refused to meet her eyes directly. Instead, he watched her reflection in a polished bronze shield and beheaded her safely. From her severed head sprang the winged horse Pegasus and the warrior Chrysaor.",
+      "Yet Medusa's story did not end with her death, for her power was thought to persist even in her severed head. Perseus presented it to Athena, who fixed it at the centre of her shield to terrify her enemies. The image of the Gorgon's face, called the gorgoneion, then became one of the ancient world's most enduring protective symbols. Greeks and Romans believed it could ward off evil, so they carved it onto temples, armour, and amulets, transforming a creature of horror into a guardian against harm."
     ],
     "questions": [
       {
-        "id": "gate_problem",
-        "question": "What problem did Aiden's family have outside the gate?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "A delivery car often stopped there and blocked the garage.",
-          "Their blue gate was too old to open.",
-          "Medusa turned their family car to stone.",
-          "The building manager took away their parking space."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文说 a delivery car stopped in front of the gate，所以父亲没法把车开进 garage。"
-      },
-      {
-        "id": "old_notices",
-        "question": "Why did the first No Parking notices have little effect?",
-        "options": [
-          "They were written in an ancient myth.",
-          "Drivers said they were too small and only stopped for a short time.",
-          "The notices were behind the garage door.",
-          "Aiden's father forgot to put them up."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "司机觉得牌子太小，而且总说自己只停 five minutes，所以旧提示牌没有真正效果。"
-      },
-      {
-        "id": "modern_solution",
-        "question": "What modern solution finally helped?",
-        "options": [
-          "Aiden hid the delivery car.",
-          "The family bought another garage.",
-          "The manager painted a clear yellow line and called the delivery company.",
-          "The owner of the shop moved away."
+          "How the city of Athens was founded by the goddess Athena.",
+          "Why ancient sailors feared the sea deities Phorcys and Ceto.",
+          "The myth of Medusa and how her terrifying image became a protective symbol.",
+          "The friendship between the hero Perseus and the winged horse Pegasus."
         ],
         "answer_index": 2,
-        "explanation_zh": "真正起作用的是 building manager 画了清楚的黄线，并联系了 delivery company。"
+        "explanation_zh": "全文围绕美杜莎的神话展开：她的身世、被惩罚、被珀尔修斯所杀，以及她的头像后来如何变成驱邪的护身符号，因此主旨是美杜莎的神话及其形象的转变。"
       },
       {
-        "id": "medusa_symbol",
-        "question": "What does Medusa symbolize in the new notice?",
+        "id": "detail_gorgons",
+        "question": "According to the passage, what made Medusa different from her two sisters?",
         "options": [
-          "A real monster living near the gate.",
-          "A funny ancient-myth warning that makes people notice the rule.",
-          "A new owner of the parking space.",
-          "A delivery company worker."
+          "She was the only one of the three Gorgons who could die.",
+          "She was the only one born to Phorcys and Ceto.",
+          "She was the only one who had snakes instead of hair.",
+          "She was the only one who could turn people to stone."
         ],
-        "answer_index": 1,
-        "explanation_zh": "Medusa / 美杜莎在这里不是恐怖怪物，而是一个幽默的古代神话提示，让人注意 No Parking 规则。"
+        "answer_index": 0,
+        "explanation_zh": "文中明确说 Medusa was the only mortal among three monstrous sisters，而她的两个姐妹 Stheno 和 Euryale 是不死的（immortal），所以区别在于只有她会死。"
       },
       {
-        "id": "practical_lesson",
-        "question": "What practical lesson does the story teach?",
+        "id": "process_perseus",
+        "question": "How did Perseus manage to kill Medusa without being turned to stone?",
         "options": [
-          "Angry signs always solve parking problems.",
-          "Clear rules and calm action work better than unclear notices.",
-          "Drivers should park anywhere for five minutes.",
-          "Ancient myths can really turn cars to stone."
+          "He attacked her while she was asleep with her eyes closed.",
+          "He wore golden wings so he could strike her from above.",
+          "He used Athena's shield to hide his own face from her gaze.",
+          "He avoided looking at her directly and watched her reflection in a polished shield."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "文中说珀尔修斯 refused to meet her eyes directly，而是 watched her reflection in a polished bronze shield，因此没有被变成石头，从而能将她斩首。"
+      },
+      {
+        "id": "inference_symbol",
+        "question": "What can be inferred about why the Greeks and Romans carved the gorgoneion onto their temples and armour?",
+        "options": [
+          "They wanted to honour Medusa as a beautiful goddess.",
+          "They believed her frightening image could scare away evil and protect them.",
+          "They hoped the image would bring Pegasus and Chrysaor back to life.",
+          "They were trying to warn travellers that Gorgons lived nearby."
         ],
         "answer_index": 1,
-        "explanation_zh": "结尾点明：funny signs 可以帮助别人注意规则，但真正有效的是 clear rules and calm action。"
+        "explanation_zh": "文末说人们相信这个形象 could ward off evil，并把它当作 a guardian against harm，由此可推断他们刻它是为了用可怕的形象驱邪、保护自己。"
+      },
+      {
+        "id": "vocab_petrified",
+        "question": "In the passage, the word \"petrified\" most nearly means",
+        "options": [
+          "made extremely curious.",
+          "carefully hidden from view.",
+          "turned into stone.",
+          "filled with sudden anger."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "petrified 在文中与 frozen forever into lifeless stone 并列出现，描述看她的人被瞬间变成石头，所以意思是“变成石头”。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个能把 Lesson 28 写得更有故事感的结构：少见的人、持续到现在的问题、一次也没成功、没有效果，以及 one of the... I have ever seen 的强比较。",
+    "intro_zh": "今天用五个能写出故事感的句式，把 Lesson 28 的现在完成时与强比较结构升级到 B2+ 水平：少见的一类人、持续到现在的麻烦、一次也没成功、毫无效果，以及 one of the... I have ever seen 的强烈主观比较。",
     "patterns": [
       {
         "id": "one_rare_people",
         "title": "one of those rare people who ...",
         "source": "Jasper White is one of those rare people who believes in ancient myths.",
         "focus_zh": "用这个结构描述“不常见的一类人”，后面接 who 从句说明他特别在哪里。",
-        "task_zh": "仿写一句：写一个少见的人，比如仍然相信古老故事、总能注意规则、或者特别会解决问题的人。",
+        "task_zh": "仿写一句：写一个观念或习惯很少见的人，比如至今仍坚持某种老办法、或对某个原则毫不妥协，后面的 who 从句要抽象、有内容。",
         "must_include": [
           "one of those rare people who"
         ],
-        "min_words": 10,
-        "sample": "My grandfather is one of those rare people who still writes letters by hand.",
+        "min_words": 16,
+        "sample": "My neighbour is one of those rare people who still believes that a hand-written apology carries more weight than any text message.",
         "tip_zh": "rare people 后面的 who 从句要具体，不要只写 who is nice。"
       },
       {
@@ -102,12 +97,12 @@
         "title": "Ever since ..., ...",
         "source": "Ever since he moved in, he has had trouble with cars and their owners.",
         "focus_zh": "ever since 表示“从那时起一直到现在”，很适合写一个持续的问题。",
-        "task_zh": "仿写一句：写自从搬家、开学或某个规则改变以后，一个问题一直存在。",
+        "task_zh": "仿写一句：写自从某项制度、规则或环境发生变化以后，一个问题不断累积、持续到现在，后半句用现在完成时体现延续性。",
         "must_include": [
           "ever since"
         ],
-        "min_words": 10,
-        "sample": "Ever since we moved here, cars have blocked our gate at night.",
+        "min_words": 16,
+        "sample": "Ever since the new gate code was introduced, delivery drivers have repeatedly left parcels in the wrong building, and complaints have steadily multiplied.",
         "tip_zh": "后半句最好用现在完成时或现在完成进行时，体现“到现在还有关联”。"
       },
       {
@@ -115,13 +110,13 @@
         "title": "has not been able to ... even once",
         "source": "He has not been able to get his own car into his garage even once.",
         "focus_zh": "这个结构强调反复尝试却一次也没成功，情绪比 simply cannot 更强。",
-        "task_zh": "仿写一句：写某人因为被挡住、太忙或规则不清，一次也没能完成某件事。",
+        "task_zh": "仿写一句：写某人尽管努力或付出代价，却因为被阻挠、规则不清或外部干扰，一次也没能完成某件本该理所当然的事。",
         "must_include": [
           "has not been able to",
           "even once"
         ],
-        "min_words": 11,
-        "sample": "She has not been able to use her parking space even once.",
+        "min_words": 16,
+        "sample": "Despite renting the space for half a year, she has not been able to leave her car there overnight even once, because strangers keep occupying it.",
         "tip_zh": "even once 放在句尾，能把“从来没有成功过”的感觉压出来。"
       },
       {
@@ -129,12 +124,12 @@
         "title": "have not had any effect",
         "source": "These have not had any effect.",
         "focus_zh": "have not had any effect 用来说明某个办法看起来有用，但实际上没有改变结果。",
-        "task_zh": "仿写一句：写提示牌、提醒、规则或建议没有让别人改变行为。",
+        "task_zh": "仿写一句：写一个看起来合理的提醒、规定或劝告，对某一群人毫无作用，effect 后面用 on 指明对象。",
         "must_include": [
           "have not had any effect"
         ],
-        "min_words": 10,
-        "sample": "The small notices have not had any effect on the delivery drivers.",
+        "min_words": 16,
+        "sample": "The polite reminders the management posted in every stairwell have not had any effect on the residents who block the fire lane each morning.",
         "tip_zh": "effect 后面可以接 on someone，说明“对谁没有起作用”。"
       },
       {
@@ -142,13 +137,13 @@
         "title": "one of the ... I have ever seen",
         "source": "It is one of the ugliest faces I have ever seen.",
         "focus_zh": "one of the... I have ever seen 是强比较，表示“我见过的最……之一”。",
-        "task_zh": "仿写一句：写一个你见过的最清楚、最奇怪、最有趣或最没用的标志之一。",
+        "task_zh": "仿写一句：写一个你印象最深的标志或装置——最清楚、最荒谬、最没用或最巧妙的之一，用最高级加上 I have ever seen 表达强烈主观评价。",
         "must_include": [
           "one of the",
           "I have ever seen"
         ],
-        "min_words": 11,
-        "sample": "This is one of the clearest parking signs I have ever seen.",
+        "min_words": 16,
+        "sample": "Honestly, that overgrown, half-faded warning board is one of the most useless public signs I have ever seen in this entire neighbourhood.",
         "tip_zh": "the 后面要用最高级，比如 clearest, strangest, funniest, ugliest。"
       }
     ]
