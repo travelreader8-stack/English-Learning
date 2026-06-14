@@ -1,101 +1,96 @@
 {
   "lesson_id": 32,
   "reading": {
-    "title": "The False Return",
-    "intro_zh": "这篇短文不复述原文，而是换到现代电子商店的退货柜台：侦探从收据和库存不一致发现问题，最后揭开串通的关系，提醒我们购物再方便，也不能省去诚实。",
-    "word_bank": [
-      "honest",
-      "temptation",
-      "steal",
-      "detective",
-      "assistant",
-      "expensive",
-      "parcel",
-      "without paying",
-      "arrested",
-      "found out"
-    ],
+    "title": "Counting What Cannot Be Seen",
+    "intro_zh": "本文不复述课文故事，而是探讨一个真实问题：商店盗窃到底有多严重，又为何难以准确统计。内容改编自美国刑事司法委员会（Council on Criminal Justice）2024 年的研究报告。",
+    "source": {
+      "title": "Between the Aisles: A Closer Look at Shoplifting Trends",
+      "publisher": "Council on Criminal Justice",
+      "url": "https://counciloncj.org/between-the-aisles-a-closer-look-at-shoplifting-trends/"
+    },
     "passage": [
-      "On Saturday afternoon, a store detective checked the self-checkout records in a large electronics shop. One expensive speaker was missing, but the computer showed only a cheap charger. The camera showed a boy scanning the charger twice while a young assistant quietly put a sealed parcel behind the returns counter. Ten minutes later, the boy came back with the parcel and asked for a refund. The assistant tried to help him as quickly as possible. The detective asked to open the parcel and found the speaker inside. He soon found out that the assistant was the boy's elder brother. Both boys were arrested. The temptation to steal had looked easy, but honest shopping still means paying for what is in the parcel."
+      "Whenever a newspaper announces that shoplifting has soared or collapsed, the figure deserves a sceptical second glance. A 2024 report by the Council on Criminal Justice argues that the crime is far harder to measure than the headlines imply. Because every statistic rests on incidents that someone actually reported to the police, the official numbers almost certainly understate how much merchandise quietly leaves a store unpaid for. A shopper who slips an item into a bag is rarely detected, and even when a store detective intervenes, the manager may decide that pursuing the case is not worth the trouble.",
+      "Two federal systems supposedly track the same offence, yet they tell strikingly different stories. One suggested that shoplifting in 2023 had merely returned to its 2019 level, while the other put it ninety-three percent higher. The discrepancy is less a mystery than an artefact of how the data are gathered: the number of police agencies feeding the more detailed system nearly doubled, so the apparent surge partly reflects better counting rather than more crime. Whether retailers report a theft at all may depend on whether they expect the local prosecutor to act.",
+      "City records reinforce the warning. Shoplifting in Los Angeles ran roughly eighty-seven percent above its pre-pandemic baseline, and November and December averaged fourteen percent more incidents than the rest of the year. Yet when the city switched its record-keeping software in early 2024, total logged criminal incidents abruptly fell from about seventeen thousand to eight thousand, an administrative ghost rather than a genuine improvement. The lesson is sobering: a number can shift dramatically without the underlying reality changing, and honest interpretation demands as much vigilance as honest shopping."
     ],
     "questions": [
       {
-        "id": "suspicious_mismatch",
-        "question": "What made the store detective suspicious?",
+        "id": "main_idea",
+        "question": "What is the main point the passage makes about shoplifting figures?",
         "options": [
-          "A speaker was missing, but the computer showed only a cheap charger.",
-          "The boy was repairing the shop camera.",
-          "The assistant had already paid for the speaker.",
-          "The shop was busier than ever before."
+          "Shoplifting has clearly fallen since the pandemic ended.",
+          "Store detectives are the only reliable source of theft data.",
+          "Official statistics are unreliable and tend to understate the true scale of the crime.",
+          "Newspapers deliberately invent shoplifting figures to frighten readers."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "全文核心是：官方数据并不可靠，且很可能低估了真实的盗窃规模，因此对头条数字要保持怀疑。"
+      },
+      {
+        "id": "detail_report",
+        "question": "According to the passage, why might a theft go unrecorded even after it is noticed?",
+        "options": [
+          "The manager may decide that pursuing the case is not worth the trouble.",
+          "The police automatically refuse to record store crimes.",
+          "Shoppers always return the goods before leaving.",
+          "Store detectives are not allowed to report anything."
         ],
         "answer_index": 0,
-        "explanation_zh": "短文开头说一只 expensive speaker 不见了，但系统只显示 cheap charger，这个 mismatch 让侦探起疑。"
+        "explanation_zh": "文中说，即便店内侦探介入，经理也可能认为追究此案不值得，于是案件未被记录。"
       },
       {
-        "id": "camera_showed",
-        "question": "What did the camera show?",
+        "id": "cause_effect",
+        "question": "Why did one federal system seem to show a large jump in shoplifting between 2019 and 2023?",
         "options": [
-          "The detective wrapped the parcel himself.",
-          "The boy paid for an expensive speaker.",
-          "The boy scanned the charger twice while the assistant moved a parcel.",
-          "The assistant returned the speaker to the shelf."
+          "Retailers stopped using cameras during those years.",
+          "Prosecutors suddenly charged every shoplifter.",
+          "Holiday shopping was banned in several cities.",
+          "Far more police agencies began feeding data into that detailed system."
         ],
-        "answer_index": 2,
-        "explanation_zh": "camera showed a boy scanning the charger twice，同时 assistant quietly put a sealed parcel behind the returns counter。"
+        "answer_index": 3,
+        "explanation_zh": "文中解释，向更详细系统报送数据的警察机构数量在那几年几乎翻倍，所以表面上的激增部分反映的是统计更全面，而非犯罪真的增加。"
       },
       {
-        "id": "parcel_contents",
-        "question": "What was inside the parcel?",
+        "id": "inference",
+        "question": "What can be inferred from the sudden drop in Los Angeles cases after the software change in early 2024?",
         "options": [
-          "A cheap charger.",
-          "An expensive speaker.",
-          "A broken camera.",
-          "A receipt for two parcels."
+          "Shoplifting in Los Angeles had genuinely been cut in half.",
+          "A fall in recorded numbers does not necessarily mean less actual crime.",
+          "The new software caught thieves more effectively than before.",
+          "November and December are the safest months for retailers."
         ],
         "answer_index": 1,
-        "explanation_zh": "侦探 asked to open the parcel and found the speaker inside，说明包裹里是 expensive speaker。"
+        "explanation_zh": "系统切换后，登记在案的犯罪事件总数从约一万七千骤降到八千，被称为「行政性的幻影」，可推断：记录数字的下降不一定意味着真实犯罪减少。"
       },
       {
-        "id": "hidden_relationship",
-        "question": "What hidden relationship explained the trick?",
+        "id": "vocab_artefact",
+        "question": "In the second paragraph, the word 'artefact' most nearly means",
         "options": [
-          "The detective was the boy's brother.",
-          "The shop owner was the boy's teacher.",
-          "The assistant was the boy's elder brother.",
-          "The camera belonged to the boy's family."
+          "a side effect produced by the way the data were collected.",
+          "an ancient object kept in a museum.",
+          "a deliberate lie told by retailers.",
+          "a piece of stolen merchandise."
         ],
-        "answer_index": 2,
-        "explanation_zh": "最后 detective found out that the assistant was the boy's elder brother，这解释了为什么 assistant 会帮忙。"
-      },
-      {
-        "id": "moral_point",
-        "question": "What is the moral point of the passage?",
-        "options": [
-          "A false return can make expensive goods into free gifts.",
-          "A family member in a shop may give away anything.",
-          "Convenience does not remove the need to be honest and pay.",
-          "A camera is useful only when the shop is crowded."
-        ],
-        "answer_index": 2,
-        "explanation_zh": "结尾说 honest shopping still means paying for what is in the parcel，方便购物不等于可以不诚实。"
+        "answer_index": 0,
+        "explanation_zh": "此处 artefact 指「由数据收集方式造成的副产品/假象」，即差异源于统计方法本身，而非真实犯罪差别。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 32 的核心结构：用 not so...as...once were 做今昔比较，用 greater than ever before 强调问题变大，用 fewer...than usual 解释观察更容易，用 as quickly as possible 写异常速度，再用 found out that 揭示隐藏真相。",
+    "intro_zh": "今天把 Lesson 32 的五个核心比较与揭示结构升级到 B2+：用 not so...as...once were 做今昔对照，用 greater than ever before 强调问题加剧，用 fewer...than usual 解释异常情形，用 as quickly as possible 写有意图的速度，再用 found out that 揭开隐藏真相。请在更抽象、更正式的语境中仿写。",
     "patterns": [
       {
         "id": "not_so_as_once_were",
         "title": "not so ... as ... once were",
         "source": "People are not so honest as they once were.",
-        "focus_zh": "这个结构把现在和过去比较，表达“不像从前那样……”。",
-        "task_zh": "仿写一句：写人们、顾客或学生现在不像过去那样有耐心、安静、诚实或小心。",
+        "focus_zh": "这个结构把现在和过去比较，表达「不像从前那样……」。",
+        "task_zh": "仿写一句：在抽象或社会议题语境下，说明某一群体（如消费者、读者、公众）现在不像过去那样诚实、耐心、谨慎或信任他人，并暗示其后果。",
         "must_include": [
           "not so",
           "as they once were"
         ],
-        "min_words": 10,
-        "sample": "Some customers are not so patient as they once were in busy shops.",
+        "min_words": 16,
+        "sample": "Faced with anonymous self-checkout machines, some shoppers are not so honest as they once were, and quiet losses mount.",
         "tip_zh": "not so 后面接形容词，as they once were 放在比较的后半部分。"
       },
       {
@@ -103,12 +98,12 @@
         "title": "greater than ever before",
         "source": "The temptation to steal is greater than ever before.",
         "focus_zh": "greater than ever before 用来强调某个问题比过去任何时候都更大。",
-        "task_zh": "仿写一句：写在大商店、自助付款或网络购物中，某种诱惑或责任比以前更大。",
+        "task_zh": "仿写一句：在统计、媒体或商业语境下，说明某种诱惑、压力或责任比以往任何时候都更大，并给出一个抽象原因。",
         "must_include": [
           "greater than ever before"
         ],
-        "min_words": 10,
-        "sample": "The temptation to skip payment is greater than ever before at self-checkout.",
+        "min_words": 16,
+        "sample": "Because misleading headlines spread instantly online, the temptation to exaggerate crime figures is greater than ever before.",
         "tip_zh": "greater 修饰抽象名词很自然，比如 temptation, pressure, responsibility。"
       },
       {
@@ -116,13 +111,13 @@
         "title": "fewer ... than usual",
         "source": "There were fewer people in the shop than usual.",
         "focus_zh": "fewer...than usual 用来比较数量，说明这一天和普通情况不同。",
-        "task_zh": "仿写一句：写店里、车站或教室里的人比平常少，并说明这让某件事更容易发生。",
+        "task_zh": "仿写一句：说明某地点的人、案件或记录比平常更少，并解释这种异常如何掩盖或扭曲了真实情况。",
         "must_include": [
           "fewer",
           "than usual"
         ],
-        "min_words": 11,
-        "sample": "There were fewer shoppers than usual, so the detective could watch carefully.",
+        "min_words": 16,
+        "sample": "After the software was changed, there were far fewer recorded cases than usual, which dangerously masked the real scale of theft.",
         "tip_zh": "fewer 修饰可数名词，比如 people, shoppers, students，不要用来修饰 money。"
       },
       {
@@ -130,25 +125,25 @@
         "title": "as quickly as possible",
         "source": "The assistant wrapped it up for her as quickly as possible.",
         "focus_zh": "as quickly as possible 表示尽可能快；在故事里，这个速度暗示动作背后有目的。",
-        "task_zh": "仿写一句：写一个店员、同学或工作人员尽快完成某个动作，但句子要让读者感觉这个速度有原因。",
+        "task_zh": "仿写一句：在正式语境下，描写某个机构或工作人员尽可能快地完成某动作，并让读者察觉这个速度背后可能另有隐情或目的。",
         "must_include": [
           "as quickly as possible"
         ],
-        "min_words": 10,
-        "sample": "The assistant packed the expensive headphones as quickly as possible.",
+        "min_words": 16,
+        "sample": "Eager to keep its loss figures low, the chain processed the suspicious refund as quickly as possible and asked no questions.",
         "tip_zh": "as quickly as possible 通常放在动作后面，说明动作完成得很快。"
       },
       {
         "id": "found_out_that",
         "title": "found out that ...",
         "source": "The detective found out that the shop assistant was her daughter.",
-        "focus_zh": "found out that 用来写“发现隐藏真相”，很适合故事结尾的反转。",
-        "task_zh": "仿写一句：写侦探、老师或工作人员最后发现了隐藏关系或真正原因。",
+        "focus_zh": "found out that 用来写「发现隐藏真相」，很适合故事结尾的反转。",
+        "task_zh": "仿写一句：在调查、研究或审计语境下，说明研究者、审计员或调查人员最终发现了隐藏的关系、操纵或真正原因。",
         "must_include": [
           "found out that"
         ],
-        "min_words": 11,
-        "sample": "The manager found out that the assistant was helping his cousin.",
+        "min_words": 16,
+        "sample": "After comparing the two databases line by line, the analysts found out that the dramatic increase reflected better reporting, not more crime.",
         "tip_zh": "that 后面接完整句子，把真正发现的内容说清楚。"
       }
     ]
