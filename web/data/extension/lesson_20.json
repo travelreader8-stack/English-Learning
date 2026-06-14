@@ -1,127 +1,121 @@
 {
   "lesson_id": 20,
   "reading": {
-    "title": "Not Really About Winning",
-    "intro_zh": "这篇短文不复述孤舟钓鱼，而是换到一个学生带相机去河边的现代场景：别人看有没有作品和奖项，她自己看重的是安静过程——回收 catch / instead of / empty bag / give up / waste of time / interested in / doing nothing。",
-    "word_bank": [
-      "catch",
-      "fisherman",
-      "old boots",
-      "rubbish",
-      "instead of",
-      "empty bag",
-      "give up",
-      "waste of time",
-      "interested in",
-      "doing nothing"
-    ],
+    "title": "The Psychology of Flow",
+    "intro_zh": "这篇拓展阅读不复述孤舟钓鱼，而是借心理学家 Csikszentmihalyi 的“flow（心流）”概念，解释为什么有人会为活动本身、而非结果去投入；内容改编自一篇发表于 Frontiers in Psychology 的同行评议论文。",
+    "source": {
+      "title": "Investigating the \"Flow\" Experience: Key Conceptual and Operational Issues",
+      "publisher": "Frontiers in Psychology (NCBI PMC)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC7033418/"
+    },
     "passage": [
-      "Every Saturday, Emma takes her camera and a small cloth bag to the old river path. Her brother thinks she wants to catch the perfect photo for the school contest, but she often comes home with an empty bag and no contest picture. One morning she watched a fisherman pull up old boots and rubbish instead of fish, and she laughed quietly, but she still took no photo. \"Give up photography,\" her brother said. \"It's a waste of time if you never enter anything.\" Emma shook her head. She was not really interested in winning a prize. She was interested in walking slowly, listening to the water, and doing nothing for a while. Sometimes the best part of a hobby is the quiet time before any result."
+      "When the narrator in Lesson 20 keeps fishing without catching anything, his friends measure the morning by an empty bag and conclude that it is a waste of time. Psychologists, however, would describe his quiet contentment in very different terms. The Hungarian-American researcher Mihaly Csikszentmihalyi spent decades studying what he called \"flow\", an optimal state of consciousness in which a person becomes so absorbed in an activity that nothing outside it seems to matter. The defining feature of such moments is not the prize at the end but the experience itself, which people report as so enjoyable that they will pursue it for its own sake, even at considerable cost.",
+      "Activities of this kind are described as autotelic, a word formed from the Greek roots for \"self\" and \"goal\": the doing is its own reward. Flow tends to appear when the difficulty of a task is delicately matched to a person's skill, neither so trivial that it breeds boredom nor so demanding that it provokes anxiety. Under those conditions, attention narrows to an intense focus, action and awareness merge, self-consciousness fades, and the passage of time becomes distorted. Crucially, researchers distinguish between the conditions that make flow possible and the subjective experience itself, warning that an external scoreboard captures almost none of what makes the activity worthwhile. By this account, the solitary fisherman is not failing at all; he has simply chosen a goal his friends cannot see, and is succeeding at it in silence."
     ],
     "questions": [
       {
-        "id": "activity",
-        "question": "What activity does Emma enjoy every Saturday?",
+        "id": "main_idea",
+        "question": "What is the main point the passage makes about the fisherman's morning?",
         "options": [
-          "Trying to catch fish from a boat.",
-          "Taking quiet walks with her camera by the river.",
-          "Collecting old boots and rubbish.",
-          "Selling photos at the school contest."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "开头说 Emma 每周六带着相机去 old river path，后面也说明她享受的是慢慢走和听水声。"
-      },
-      {
-        "id": "expected_result",
-        "question": "What result does Emma's brother expect?",
-        "options": [
-          "A clean fishing bag.",
-          "A new camera from the contest.",
-          "The perfect photo for the school contest.",
-          "A fisherman to teach Emma."
+          "His friends are right that an empty bag proves the time was wasted.",
+          "He should learn better fishing techniques to catch more fish.",
+          "Psychology suggests the value lies in the absorbing experience, not the catch.",
+          "Flow can only be reached by professional athletes and artists."
         ],
         "answer_index": 2,
-        "explanation_zh": "短文写道 her brother thinks she wants to catch the perfect photo for the school contest。"
+        "explanation_zh": "全文用心理学的“flow”概念重新解释那位钓鱼人：价值在于沉浸的过程本身，而不是钓到的鱼，因此 C 正确。"
       },
       {
-        "id": "waste_of_time",
-        "question": "Why does her brother call photography a waste of time?",
+        "id": "detail",
+        "question": "According to the passage, when does flow tend to appear?",
         "options": [
-          "Because she never enters anything and often has no contest picture.",
-          "Because she spends all day catching fish.",
-          "Because the river path is too noisy for photos.",
-          "Because the fisherman asks her to give up."
+          "When a task's difficulty is carefully matched to a person's skill.",
+          "When the activity is as easy as possible so it never feels stressful.",
+          "When there is a clear prize or external reward at the end.",
+          "When several people compete against one another for a score."
         ],
         "answer_index": 0,
-        "explanation_zh": "哥哥说如果你 never enter anything，这就是 a waste of time；前文也说她常常没有 contest picture。"
+        "explanation_zh": "文中说 flow 出现在任务难度与个人技能“delicately matched”时，既不会太简单也不会太难，故选 A。"
       },
       {
-        "id": "real_interest",
-        "question": "What is Emma really interested in?",
+        "id": "cause_effect",
+        "question": "What does the passage say happens once a person enters flow?",
         "options": [
-          "Winning a prize as quickly as possible.",
-          "Laughing at unlucky fishermen.",
-          "Taking pictures of rubbish for homework.",
-          "Walking slowly, listening to the water, and doing nothing for a while."
+          "They become more aware of the people watching them.",
+          "They feel time passing more slowly and clearly than usual.",
+          "They lose all interest in the activity within minutes.",
+          "Attention narrows, action and awareness merge, and self-consciousness fades."
         ],
         "answer_index": 3,
-        "explanation_zh": "结尾直接说明 She was interested in walking slowly, listening to the water, and doing nothing for a while。"
+        "explanation_zh": "第二段列出进入 flow 后的表现：注意力高度集中、行动与意识融合、自我意识消退，时间感被扭曲，故选 D。"
       },
       {
-        "id": "theme",
-        "question": "What lesson idea does the passage show?",
+        "id": "inference",
+        "question": "What can we infer about why the friends misjudge the fisherman?",
         "options": [
-          "A hobby only matters if it wins a prize.",
-          "Photography is easier than fishing.",
-          "The quiet process of a hobby can matter more than the visible result.",
-          "People should always give up activities without results."
+          "They secretly envy how many fish he catches.",
+          "They judge by a visible scoreboard that misses the experience he values.",
+          "They have never seen anyone fish from a boat before.",
+          "They believe fishing is physically dangerous for him."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文章指出“an external scoreboard captures almost none of what makes the activity worthwhile”，朋友用看得见的结果衡量，自然看不到他真正在意的体验，故选 B。"
+      },
+      {
+        "id": "vocab",
+        "question": "In this passage, the word \"autotelic\" describes an activity that is:",
+        "options": [
+          "done mainly to win money or public recognition.",
+          "valuable only when it produces a measurable result.",
+          "performed for its own sake, with the doing as its own reward.",
+          "too difficult for an ordinary person to complete."
         ],
         "answer_index": 2,
-        "explanation_zh": "最后一句点明：有些爱好的最好部分，是结果出现前那段安静时间。"
+        "explanation_zh": "文中解释 autotelic 由希腊词根“self”和“goal”构成，意为“the doing is its own reward”，即为活动本身而做，故选 C。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 20 的核心句式：没有得到预期结果、实际结果和期待相反、花了很久之后、别人判断为浪费时间，以及说清楚自己真正感兴趣的过程。",
+    "intro_zh": "今天抓五个 Lesson 20 的核心句式，但把语境升级到更抽象、更成熟的层面：做了很久却没有预期回报、实际结果与期待相反、长期付出之后、被别人判定为浪费时间，以及说清楚自己真正投入的过程。",
     "patterns": [
       {
         "id": "without_doing_anything",
         "title": "without ...ing anything",
         "source": "I often fish for hours without catching anything.",
-        "focus_zh": "用 without + 动词-ing + anything 写“做了很久，却没有得到预期结果”。",
-        "task_zh": "仿写一句：写你练习、寻找、等待或尝试了很久，但没有赢到、找到或得到任何东西。",
+        "focus_zh": "用 without + 动词-ing + anything 写“投入了很久，却没有得到预期回报”。",
+        "task_zh": "仿写一句：写你长期坚持某个爱好或计划，外人看不到任何可衡量的成果，你却从过程中获得了别的东西。",
         "must_include": [
           "without",
           "anything"
         ],
-        "min_words": 8,
-        "sample": "I played chess all afternoon without winning anything.",
-        "tip_zh": "without 后面接动词-ing，比如 catching, finding, winning, getting；anything 放在句尾能强调“什么也没有”。"
+        "min_words": 16,
+        "sample": "For three years I have practised the piano almost every evening without entering anything or earning a single award.",
+        "tip_zh": "without 后面接动词-ing，比如 entering, finding, winning, earning；anything 放在句尾能强调“什么可衡量的结果也没有”。"
       },
       {
         "id": "instead_of_doing",
         "title": "Instead of ...ing",
         "source": "Instead of catching fish, they catch old boots and rubbish.",
-        "focus_zh": "Instead of + 动词-ing 用来写“本来以为会得到 A，结果却是 B”。",
-        "task_zh": "仿写一句：写一个活动里，别人期待赢奖、得分或完成作品，结果你做的是另一件事。",
+        "focus_zh": "Instead of + 动词-ing 用来写“本来以为会得到 A，结果却是更有价值的 B”。",
+        "task_zh": "仿写一句：写你本可以追求分数、名次或奖项，你却选择了某个更抽象、更持久的收获。",
         "must_include": [
           "Instead of"
         ],
-        "min_words": 10,
-        "sample": "Instead of winning a medal, I enjoyed practicing with my team.",
+        "min_words": 16,
+        "sample": "Instead of chasing the highest score in every exam, I have learned to value the slow, patient pleasure of understanding an idea.",
         "tip_zh": "Instead of 后面用动词-ing；逗号后面写真正发生的结果或真正有价值的部分。"
       },
       {
         "id": "after_having_spent",
         "title": "After having spent ...",
         "source": "After having spent whole mornings on the river, I always go home with an empty bag.",
-        "focus_zh": "这个句式先写“已经花了很长时间”，再写最后的结果，故事感很强。",
-        "task_zh": "仿写一句：写你花了一下午、一整周或很长时间做某件事之后，最后带着一个不完美但真实的结果回家。",
+        "focus_zh": "这个句式先写“已经投入了很长时间”，再写最后那个不完美但真实的结果，故事感很强。",
+        "task_zh": "仿写一句：写你投入了整个学期、整个夏天或很多年去做某件事之后，最后带着一个不闪亮但真实的结果。",
         "must_include": [
           "After having spent"
         ],
-        "min_words": 12,
-        "sample": "After having spent the whole afternoon drawing, I went home with no prize.",
+        "min_words": 16,
+        "sample": "After having spent an entire summer rebuilding the same model engine, I returned to school with nothing to show but a calmer mind.",
         "tip_zh": "After having spent 后面接时间或经历；逗号后面接结果，不一定是成功结果。"
       },
       {
@@ -129,26 +123,26 @@
         "title": "It's a waste of time",
         "source": "You must give up fishing! It's a waste of time.",
         "focus_zh": "a waste of time 是别人的判断：他们只看结果，所以觉得这件事不值得。",
-        "task_zh": "仿写一句：写别人认为某个爱好、练习或慢慢做的事情是浪费时间。",
+        "task_zh": "仿写一句：写别人用看得见的“计分板”评判某个需要耐心或慢慢享受的过程是浪费时间。",
         "must_include": [
           "a waste of time"
         ],
-        "min_words": 10,
-        "sample": "My friend said it was a waste of time to build slowly.",
-        "tip_zh": "注意这个句式常常是在表达某人的看法，不一定代表事实；可以写 My friend said... 或 They thought...。"
+        "min_words": 16,
+        "sample": "My relatives still insist that hours spent reading novels are a waste of time unless they raise my grades.",
+        "tip_zh": "注意这个句式常常是在表达某人的看法，不一定代表事实；可以写 My relatives said... 或 They thought...。"
       },
       {
         "id": "only_interested_in_doing",
         "title": "only interested in ...ing",
         "source": "I am only interested in sitting in a boat and doing nothing at all!",
-        "focus_zh": "用 only interested in + 动词-ing 说清楚真正喜欢的是过程，而不是外人期待的结果。",
-        "task_zh": "仿写一句：写你并不只是想赢、完成或得到表扬，你真正感兴趣的是某个安静或有意义的过程。",
+        "focus_zh": "用 only interested in + 动词-ing 说清楚真正投入的是过程，而不是外人期待的结果。",
+        "task_zh": "仿写一句：写你并不只是想赢、完成或得到表扬，你真正投入的是某个能让你完全沉浸其中的过程。",
         "must_include": [
           "only interested in"
         ],
-        "min_words": 10,
-        "sample": "I am only interested in walking quietly and taking a few photos.",
-        "tip_zh": "interested in 后面接动词-ing；可以并列两个动作，比如 walking quietly and taking photos。"
+        "min_words": 16,
+        "sample": "I am only interested in losing myself in the quiet rhythm of sketching, long after everyone else has gone home.",
+        "tip_zh": "interested in 后面接动词-ing；可以用 losing myself in... 这样更成熟的表达来写“完全沉浸”。"
       }
     ]
   }
