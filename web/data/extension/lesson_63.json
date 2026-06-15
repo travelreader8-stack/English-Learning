@@ -1,156 +1,150 @@
 {
   "lesson_id": 63,
   "reading": {
-    "title": "They Were Laughing With Me",
-    "intro_zh": "这篇短文把 Lesson 63 的婚礼 speech 误会换到班级 presentation：学生认真准备 class speech，加入一个 funny story，听到同学笑后担心大家是在嘲笑自己，最后学会区分 laugh with 和 laugh at。重点练习 class speech、sense of humour、speech、include、great success、disappointed、on the way home、to his surprise、laugh with 和 laugh at。",
-    "word_bank": [
-      "class speech",
-      "sense of humour",
-      "speech",
-      "include",
-      "great success",
-      "disappointed",
-      "on the way home",
-      "to his surprise",
-      "laughing with",
-      "laughing at"
-    ],
+    "title": "The Social Side of Laughter",
+    "intro_zh": "这篇短文谈“笑”的社会功能：为什么我们和别人在一起时更容易笑，以及自然的笑和刻意的笑有什么不同。内容改编自权威来源 Trends in Cognitive Sciences 期刊论文《The Social Life of Laughter》（经 NIH 旗下 PMC 收录）。",
+    "source": {
+      "title": "The Social Life of Laughter",
+      "publisher": "Trends in Cognitive Sciences (PMC, National Library of Medicine / NIH)",
+      "url": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4255480/"
+    },
     "passage": [
-      "On Friday, Daniel prepared a short class speech about his grandfather's old bicycle. He wanted the presentation to be a great success, so he wrote each part carefully and included a funny story about falling into a flower bed. During the speech, his classmates laughed loudly. Daniel lost his smile and finished quickly because he thought they were laughing at him. His teacher noticed his disappointed face and asked him to stay for a minute. To his surprise, she said everyone admired him for his clear voice and sense of humour. They were laughing with him, not at him. On the way home, Daniel told his mother what had happened. She said friendly laughter can show that a speaker has connected with the audience, and Daniel decided to make another speech next month."
+      "Most of us assume that laughter is simply our reaction to something funny, yet researchers who study it tell a more surprising story. Careful observation of everyday conversation reveals that comparatively little of our laughter is actually prompted by jokes; far more of it bubbles up around ordinary remarks and shared moments. Strikingly, the person who is speaking tends to laugh even more often than the person listening, which suggests that laughter is not merely an involuntary response but a deliberate signal we send to others. We are roughly thirty times more likely to laugh in the company of other people than when we are entirely alone, and the sound is so contagious that simply hearing someone else chuckle can set us off.",
+      "Scientists therefore regard laughter primarily as a social tool, a vocal gesture that establishes and strengthens the bonds between us in ways that words alone cannot. They also distinguish between two kinds: the spontaneous, involuntary laughter that erupts when we are genuinely tickled or delighted, and the controlled, voluntary laughter we produce on purpose to smooth a conversation. Brain-imaging studies show that these two varieties even engage different neural circuits. Crucially, this research reframes how we should interpret an audience that breaks into laughter. When listeners laugh along with a confident speaker, they are usually expressing warmth, connection, and shared enjoyment rather than mockery. To laugh with someone, then, is one of our oldest and most powerful ways of saying that we belong together."
     ],
     "questions": [
       {
-        "id": "speech_topic",
-        "question": "What did Daniel prepare for class?",
+        "id": "main_idea",
+        "question": "What is the main point the passage makes about laughter?",
         "options": [
-          "A song about a wedding reception.",
-          "A short class speech about his grandfather's old bicycle.",
-          "A poster about a famous bicycle race.",
-          "A joke book for his English teacher."
+          "Laughter is mainly a social signal that connects people, not just a reaction to jokes.",
+          "People laugh only when they hear a genuinely clever joke.",
+          "Laughter is impossible to study scientifically.",
+          "Listeners always laugh more than the speaker does."
         ],
-        "answer_index": 1,
-        "explanation_zh": "开头说 Daniel prepared a short class speech about his grandfather's old bicycle。"
+        "answer_index": 0,
+        "explanation_zh": "全文的核心是：笑主要是一种把人联系在一起的社会信号，而不只是对笑话的反应。其余选项都与文意相反或片面。"
       },
       {
-        "id": "funny_story",
-        "question": "What funny story did Daniel include?",
+        "id": "detail_speaker",
+        "question": "According to the passage, who tends to laugh more often in conversation?",
         "options": [
-          "A story about losing his homework on the bus.",
-          "A story about his teacher riding too fast.",
-          "A story about falling into a flower bed.",
-          "A story about Jenny at a wedding."
+          "The person who is listening.",
+          "Only people who are alone.",
+          "The person who is speaking.",
+          "Nobody laughs during ordinary conversation."
         ],
         "answer_index": 2,
-        "explanation_zh": "短文说 he included a funny story about falling into a flower bed。"
+        "explanation_zh": "短文明确说 the person who is speaking tends to laugh even more often than the person listening。"
       },
       {
-        "id": "why_nervous",
-        "question": "Why did Daniel become nervous when the class laughed?",
+        "id": "cause_effect",
+        "question": "Why does the passage say laughter is described as contagious?",
         "options": [
-          "He thought his classmates were laughing at him.",
-          "He forgot the title of his speech.",
-          "He saw his grandfather leave the classroom.",
-          "He wanted everyone to stay completely silent."
+          "Because jokes spread quickly from one class to another.",
+          "Because simply hearing someone else laugh can make us laugh too.",
+          "Because laughter causes illness in large crowds.",
+          "Because people laugh more when they are completely alone."
         ],
-        "answer_index": 0,
-        "explanation_zh": "Daniel 听到大家笑后 lost his smile，因为 he thought they were laughing at him。"
+        "answer_index": 1,
+        "explanation_zh": "文中说 the sound is so contagious that simply hearing someone else chuckle can set us off，即听到别人笑就会引发我们笑。"
       },
       {
-        "id": "teacher_explanation",
-        "question": "What did Daniel's teacher explain?",
+        "id": "inference",
+        "question": "What can we infer about an audience that laughs along with a confident speaker?",
         "options": [
-          "The class did not understand any part of the speech.",
-          "Daniel should never include funny stories again.",
-          "Daniel had to make the same speech at a wedding.",
-          "The class admired his clear voice and sense of humour."
+          "They are probably bored and want the speech to end.",
+          "They are most likely mocking the speaker in secret.",
+          "They have failed to understand the speaker at all.",
+          "They are most likely showing warmth and shared enjoyment, not mockery."
         ],
         "answer_index": 3,
-        "explanation_zh": "老师解释说 everyone admired him for his clear voice and sense of humour，大家是在 laughing with him。"
+        "explanation_zh": "末段指出，当听众和有自信的讲者一起笑时，通常是在表达温暖、连接与共同的快乐，而不是嘲笑。"
       },
       {
-        "id": "confidence_message",
-        "question": "How does the story encourage confident speaking?",
+        "id": "vocab_spontaneous",
+        "question": "In this passage, the word \"spontaneous\" most nearly means",
         "options": [
-          "It shows that friendly laughter can mean the speaker has connected with the audience.",
-          "It says a good speaker must make everyone laugh all the time.",
-          "It teaches students to avoid speeches whenever classmates laugh.",
-          "It proves that a speech is successful only when no one smiles."
+          "carefully planned in advance.",
+          "happening naturally and without being forced.",
+          "loud and unpleasant.",
+          "completely silent."
         ],
-        "answer_index": 0,
-        "explanation_zh": "结尾说 friendly laughter can show that a speaker has connected with the audience，所以 Daniel 决定下个月再 make another speech。"
+        "answer_index": 1,
+        "explanation_zh": "spontaneous 在文中与 controlled, voluntary 相对，指自然地、不受刻意控制地发生，所以选 happening naturally and without being forced。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 63 的高价值句式：用 admire ... for ... 写欣赏原因，用 asked ... to make a speech 写请求任务，用 This is the sort of thing that ... 写喜欢的活动类型，用 As soon as ... had finished 写完成后立刻发生的事，用 To his surprise 写出乎意料的反应。",
+    "intro_zh": "今天抓五个 Lesson 63 的高价值句式，并把语境升级到更抽象的 B2+ 表达：用 admire ... for ... 写欣赏的深层原因，用 asked ... to make a speech 写正式邀请，用 This is the sort of thing that ... 写某人投入的一类活动，用 As soon as ... had finished 写完成后立即引发的连锁反应，用 To his surprise 写认知被颠覆的意外发现。",
     "patterns": [
       {
         "id": "admire_for",
         "title": "admire ... for ...",
         "source": "Everybody admires him for his great sense of humour.",
         "focus_zh": "admire ... for ... 用来写“因为某个原因而欣赏某人”，for 后面说明具体原因。",
-        "task_zh": "仿写一句：写同学、老师或家人因为一个人的声音、准备、勇气或幽默感而欣赏他。",
+        "task_zh": "仿写一句：写人们之所以欣赏某位讲者，不是因为他的笑话本身，而是因为他能让全场观众放松并产生连接。",
         "must_include": [
           "admire",
           "for"
         ],
-        "min_words": 10,
-        "sample": "My classmates admire Lily for her clear voice and confidence.",
-        "tip_zh": "admire 后面接人，for 后面接原因；原因可以是 courage, hard work, humour 或 clear speech。"
+        "min_words": 16,
+        "sample": "Audiences admire her not for her jokes but for the warmth and connection she creates with everyone in the room.",
+        "tip_zh": "admire 后面接人，for 后面接原因；试着把原因写成抽象品质，如 warmth, connection, sincerity 而不只是 funny。"
       },
       {
         "id": "asked_to_make_a_speech",
         "title": "asked ... to make a speech",
         "source": "One of Jeremy's closest friends asked him to make a speech.",
         "focus_zh": "asked someone to do something 写“请某人做某事”；to make a speech 表示请某人讲话或做演讲。",
-        "task_zh": "仿写一句：写老师、朋友或家人请某人做一次 class speech、club speech 或 family speech。",
+        "task_zh": "仿写一句：写组织者郑重地请一位平时怕在众人面前讲话的人发言，并解释他们为什么相信他能做到。",
         "must_include": [
           "asked",
           "to make a speech"
         ],
-        "min_words": 11,
-        "sample": "Our teacher asked Daniel to make a speech about his old bicycle.",
-        "tip_zh": "asked 后面先写被邀请的人，再用 to make a speech 写任务。"
+        "min_words": 16,
+        "sample": "The organisers asked the nervous young researcher to make a speech, convinced that his honesty would move the audience more than confidence ever could.",
+        "tip_zh": "asked 后面先写被邀请的人，再用 to make a speech 写任务；可以加一个从句解释邀请背后的理由。"
       },
       {
         "id": "sort_of_thing_that",
         "title": "This is the sort of thing that ...",
         "source": "This is the sort of thing that Jeremy loves.",
         "focus_zh": "This is the sort of thing that ... 可以写某人喜欢、害怕或擅长的一类活动。",
-        "task_zh": "仿写一句：写 class presentation、storytelling、answering questions 或 helping friends 是某人喜欢或擅长的事。",
+        "task_zh": "仿写一句：用这个句式写公开演讲这类既让人紧张、又能带来深度满足感的事，并点出它为什么值得反复练习。",
         "must_include": [
           "the sort of thing that"
         ],
-        "min_words": 10,
-        "sample": "This is the sort of thing that Daniel wants to practise.",
-        "tip_zh": "thing 后面的 that 从句说明“这类事”对某人意味着什么。"
+        "min_words": 16,
+        "sample": "Public speaking is exactly the sort of thing that terrifies people at first yet rewards them with confidence once they keep practising.",
+        "tip_zh": "thing 后面的 that 从句要说明这类事对人意味着什么；试着同时点出它的难处和回报。"
       },
       {
         "id": "as_soon_as_had_finished",
         "title": "As soon as ... had finished, ...",
         "source": "As soon as he had finished, Jenny told him she wanted to go home.",
         "focus_zh": "As soon as ... had finished 写“刚刚完成某事，另一件事马上发生”，能让故事转折更清楚。",
-        "task_zh": "仿写一句：写某人刚讲完 speech、presentation 或 story，就听到掌声、笑声或一句评价。",
+        "task_zh": "仿写一句：写讲者刚结束发言，全场就爆发出温暖的掌声与笑声，让他第一次意识到观众一直站在他这边。",
         "must_include": [
           "As soon as",
           "had finished"
         ],
-        "min_words": 12,
-        "sample": "As soon as Daniel had finished, his teacher smiled and praised him.",
-        "tip_zh": "As soon as 放句首；had finished 前面要有主语，逗号后写紧接着发生的动作。"
+        "min_words": 16,
+        "sample": "As soon as the speaker had finished, the whole hall broke into warm applause and laughter, and he finally realised the audience had been with him all along.",
+        "tip_zh": "As soon as 放句首；had finished 前面要有主语，逗号后写紧接着发生的连锁反应。"
       },
       {
         "id": "to_his_surprise",
         "title": "To his surprise, ...",
         "source": "To his surprise, she said she hadn't.",
         "focus_zh": "To his surprise 用来引出“让他没想到的是”，适合写误会被解开或答案出乎意料。",
-        "task_zh": "仿写一句：写一个人以为别人是在嘲笑他，结果发现大家其实很喜欢他的 speech。",
+        "task_zh": "仿写一句：写一个人原本确信观众在嘲笑自己，后来才发现那笑声其实是友善的认可，彻底颠覆了他的判断。",
         "must_include": [
           "To his surprise"
         ],
-        "min_words": 11,
-        "sample": "To his surprise, the class said his funny story was wonderful.",
-        "tip_zh": "逗号后写真正让人意外的结果；不要只写普通动作。"
+        "min_words": 16,
+        "sample": "To his surprise, the laughter he had taken as mockery turned out to be a sign of genuine affection that completely changed how he saw the evening.",
+        "tip_zh": "逗号后写真正让人意外、甚至颠覆原有判断的结果；不要只写普通动作。"
       }
     ]
   }
