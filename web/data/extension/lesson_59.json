@@ -1,100 +1,95 @@
 {
   "lesson_id": 59,
   "reading": {
-    "title": "The Doorbell Button",
-    "intro_zh": "这篇短文把 Lesson 59 的“训练一个动作解决旧问题，却制造新循环”换到家里的智能门铃按钮：妹妹从 shouting 变成 pressing，安静了一会儿，又学会用按钮召唤全家。重点练习 doorbell、press、neighbour、complain、let herself in、expert、so that、bad habit、immediately 和 switch off。",
-    "word_bank": [
-      "doorbell",
-      "press",
-      "neighbour",
-      "complain",
-      "let herself in",
-      "expert",
-      "so that",
-      "bad habit",
-      "immediately",
-      "switch off"
-    ],
+    "title": "The Cane Toad: A Cure Worse Than the Disease",
+    "intro_zh": "本文讲述一个真实的“好心办坏事”案例——1935 年澳大利亚引进甘蔗蟾蜍来除虫，结果蟾蜍非但没解决问题，反而成了更大的生态灾难。内容改编自澳大利亚入侵物种委员会（Invasive Species Council）的权威资料。",
+    "source": {
+      "title": "Meet the Invaders: Cane Toads",
+      "publisher": "Invasive Species Council (Australia)",
+      "url": "https://invasives.org.au/meet-the-invaders/cane-toads/"
+    },
     "passage": [
-      "Our little sister Emma used to stand outside the playroom and shout. Every time she wanted her blocks, she would shout until someone opened the door. The neighbour next door complained of the noise, so Mum put a small smart doorbell beside the handle. She spent a weekend training Emma to press the blue button so that the door would click open and Emma could let herself in. Emma soon became an expert. However, on Monday she pressed the doorbell from inside the playroom so that someone would come and admire each tower. Since then, she has developed another bad habit. As soon as we answer, she immediately presses it again. Last night Dad switched off the button. The room became quiet, but Emma began sending photos instead."
+      "In 1935, Australian sugar growers faced a stubborn enemy: beetles whose larvae devoured the roots of their cane. Searching for a cheap, natural remedy, officials settled on the cane toad, a heavy amphibian native to the Americas that was said to be a voracious eater of insects. Roughly a hundred toads were imported from Hawaii, bred near Cairns, and their thousands of offspring were released into the fields. Astonishingly, no one had ever confirmed that the toad would actually eat the cane beetle, nor had anyone assessed how it might behave in an unfamiliar landscape.",
+      "The experiment was a spectacular failure on its own terms. The beetles, which fed and bred high on the cane stalks, were largely beyond the reach of a ground-dwelling toad, and cane-sugar harvests showed no improvement; the pest is now managed with chemicals instead. Yet the toad itself thrived. Each female can lay up to 35,000 eggs in a single clutch, and the species spread relentlessly across the north. Today cane toads occupy more than 1.3 million square kilometres, and the advancing front of the invasion now pushes forward by fifty to sixty kilometres a year.",
+      "The deepest damage is chemical. Glands behind the toad's head secrete a potent toxin, so native predators that have never encountered it—freshwater crocodiles, goannas, snakes and the cat-sized northern quoll—are often poisoned the moment they bite. In some regions more than ninety percent of quolls have vanished. The cane toad has become a textbook lesson in unintended consequences: a solution designed to remove one nuisance instead unleashed a far larger and effectively permanent problem, and authorities now concede that eradicating the toad across the continent is impossible."
     ],
     "questions": [
       {
-        "id": "old_habit",
-        "question": "What was Emma's old habit?",
+        "id": "main_idea",
+        "question": "What is the main point of the passage?",
         "options": [
-          "She stood outside the playroom and shouted until someone opened the door.",
-          "She quietly built towers and never asked anyone for help.",
-          "She rang the neighbour's doorbell every morning.",
-          "She switched off every button in the house."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "开头说 Emma used to stand outside the playroom and shout，并且会 shout until someone opened the door，这就是旧习惯。"
-      },
-      {
-        "id": "training_reason",
-        "question": "Why did Mum train Emma to press the button?",
-        "options": [
-          "Because Emma wanted to learn how to repair a door.",
-          "Because the playroom was too bright in the afternoon.",
-          "Because the neighbour complained of the shouting noise.",
-          "Because Mum wanted Emma to stop building towers."
-        ],
-        "answer_index": 2,
-        "explanation_zh": "短文说 The neighbour next door complained of the noise，所以妈妈才装按钮并训练 Emma press the blue button。"
-      },
-      {
-        "id": "new_skill",
-        "question": "What new skill did Emma learn?",
-        "options": [
-          "She learned to complain politely to the neighbour.",
-          "She learned to press the smart doorbell so that she could let herself in.",
-          "She learned to switch off the family phone.",
-          "She learned to open the front gate with a latch."
+          "Cane toads are an effective and inexpensive way to protect sugar crops.",
+          "A solution introduced to fix one problem ended up causing a much worse one.",
+          "Australian beetles are now the country's most destructive agricultural pest.",
+          "Native Australian predators have learned to eat cane toads safely."
         ],
         "answer_index": 1,
-        "explanation_zh": "Mum trained Emma to press the blue button，结果 the door would click open and Emma could let herself in。"
+        "explanation_zh": "全文围绕“引进蟾蜍治虫，却制造了更大灾难”这一主旨：方法没解决旧问题，反而带来新的、更严重的后果，因此选 B。"
       },
       {
-        "id": "new_problem",
-        "question": "How did the new skill create another problem?",
+        "id": "detail_eggs",
+        "question": "According to the passage, how many eggs can a single female cane toad lay in one clutch?",
         "options": [
-          "Emma forgot where the playroom was.",
-          "The neighbour moved away and took the button.",
-          "The smart doorbell never worked at all.",
-          "Emma pressed the doorbell from inside so that someone would admire each tower."
+          "Up to 35,000 eggs.",
+          "About 2,400 eggs.",
+          "Roughly one hundred eggs.",
+          "Around 1.3 million eggs."
         ],
-        "answer_index": 3,
-        "explanation_zh": "问题反转在 However 后面：Emma 从 playroom 里面按门铃，目的是让别人 come and admire each tower。"
+        "answer_index": 0,
+        "explanation_zh": "第二段明确说 Each female can lay up to 35,000 eggs in a single clutch，所以选 A（35,000 eggs）。其他数字在文中指的是别的事物（占地面积、引进数量等）。"
       },
       {
-        "id": "loop_break",
-        "question": "What happened after Dad switched off the button?",
+        "id": "cause_effect",
+        "question": "Why did the toads fail to control the cane beetles?",
         "options": [
-          "Emma immediately stopped building towers forever.",
-          "The neighbour came in to fix the playroom.",
-          "The room became quiet, but Emma began sending photos instead.",
-          "Mum trained Emma to bark at the door."
+          "The toads refused to eat any insects at all.",
+          "Chemical pesticides killed the toads before they could feed.",
+          "The beetles lived high on the cane stalks, out of a ground-dwelling toad's reach.",
+          "There were too few toads released to make any difference."
         ],
         "answer_index": 2,
-        "explanation_zh": "结尾说 Dad switched off the button 之后，The room became quiet, but Emma began sending photos instead，说明按钮循环被打断，但喜剧还留着。"
+        "explanation_zh": "第二段解释失败原因：甲虫在蔗秆高处取食繁殖，超出了只能在地面活动的蟾蜍的捕食范围，因此选 C。"
+      },
+      {
+        "id": "inference",
+        "question": "What can be inferred about how the introduction was planned?",
+        "options": [
+          "It was based on years of careful field testing in Australia.",
+          "It was carried out hastily, without verifying the toad's usefulness or its risks.",
+          "It was opposed by the sugar growers from the very beginning.",
+          "It was designed mainly to study the toad's poison glands."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "第一段指出“没有人确认蟾蜍会吃甘蔗甲虫，也没人评估它在陌生环境中的行为”，可推断引进过程草率、缺乏验证，故选 B。"
+      },
+      {
+        "id": "vocab_voracious",
+        "question": "In the first paragraph, the word \"voracious\" most nearly means",
+        "options": [
+          "very slow and unwilling to move.",
+          "harmless and gentle toward other animals.",
+          "rare and difficult to find.",
+          "extremely hungry and eating large amounts."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "voracious 形容“食量极大、贪吃的”。文中说蟾蜍被认为是 a voracious eater of insects（吃昆虫极厉害），与第四项 D（extremely hungry and eating large amounts）完全吻合，所以选 D。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 59 的循环喜剧句式：used to 写旧习惯，Every time...would...until... 写反复发生的动作，spent weeks training...to... 写训练过程，so that...would... 写目的，As soon as...until... 写新循环的顺序。",
+    "intro_zh": "今天把 Lesson 59 的五个循环喜剧句式提升到 B2+ 难度：used to 写过去的旧习惯，Every time...would...until... 写反复发生的动作，spent...training...to... 写训练过程，so that...would... 写目的，As soon as...until... 写循环里的先后步骤。请用更抽象、更复杂的语境来仿写。",
     "patterns": [
       {
         "id": "used_to_old_habit",
         "title": "used to ...",
         "source": "Rex used to sit outside our front gate and bark.",
         "focus_zh": "used to 用来写过去经常发生、现在已经变化的习惯，是 Lesson 59 开头的旧问题。",
-        "task_zh": "仿写一句：写一个人、宠物或设备过去常常做的旧习惯。",
+        "task_zh": "仿写一句：写在某项新技术或新制度出现之前，某个人或某个机构过去长期坚持的旧做法。",
         "must_include": [
           "used to"
         ],
-        "min_words": 8,
-        "sample": "My little sister used to shout outside the playroom door.",
+        "min_words": 15,
+        "sample": "Before the smart thermostat arrived, my grandmother used to adjust every radiator in the house by hand each morning.",
         "tip_zh": "used to 后面接动词原形；它强调 old habit，不要写成 is used to。"
       },
       {
@@ -102,13 +97,13 @@
         "title": "Every time ..., ... would ... until ...",
         "source": "Every time he wanted to come into the garden he would bark until someone opened the gate.",
         "focus_zh": "这个句式把“条件一出现 -> 动作反复发生 -> 到某个结果才停止”的循环写清楚。",
-        "task_zh": "仿写一句：写每次某人想进房间、拿东西或求关注时，会一直做某个动作直到别人回应。",
+        "task_zh": "仿写一句：写每当某个条件出现时，某个团队或系统会反复做某件事，直到某个结果出现才停下来。",
         "must_include": [
           "Every time",
           "until"
         ],
-        "min_words": 12,
-        "sample": "Every time Emma wanted her blocks, she would shout until someone opened the door.",
+        "min_words": 16,
+        "sample": "Every time the committee postponed a decision, the engineers would keep redesigning the prototype until someone finally approved a budget.",
         "tip_zh": "Every time 后面写触发条件；until 后面写这个动作停止的时间点。"
       },
       {
@@ -116,13 +111,13 @@
         "title": "spent weeks training ... to ...",
         "source": "My husband spent weeks training him to press his paw on the latch.",
         "focus_zh": "spent + time + training + object + to do 可以写“花时间训练某人学会一个动作”。",
-        "task_zh": "仿写一句：写父母、老师或朋友花时间训练某人按按钮、整理书包或使用一个工具。",
+        "task_zh": "仿写一句：写某个机构或专家花了相当长的时间训练某些人、动物或模型去掌握一项复杂的技能。",
         "must_include": [
           "spent",
           "training"
         ],
-        "min_words": 10,
-        "sample": "Mum spent a weekend training Emma to press the blue button.",
+        "min_words": 15,
+        "sample": "The conservation team spent three seasons training the rescued falcons to hunt independently before releasing them into the wild.",
         "tip_zh": "spent 后面先接时间；training 后面接被训练的人，再用 to do 写学会的动作。"
       },
       {
@@ -130,13 +125,13 @@
         "title": "so that ... would ...",
         "source": "This time he was barking so that someone would let him out.",
         "focus_zh": "so that 后面说明目的：做这个动作，是为了让别人做另一件事。",
-        "task_zh": "仿写一句：写某人按门铃、发消息或举手，是为了让别人帮忙、回应或过来看看。",
+        "task_zh": "仿写一句：写某人或某组织有意做某个动作，目的是让另一方注意到、配合或采取某种行动。",
         "must_include": [
           "so that",
           "would"
         ],
-        "min_words": 11,
-        "sample": "Emma pressed the doorbell so that someone would admire her tower.",
+        "min_words": 16,
+        "sample": "The startup deliberately leaked a few details to journalists so that the wider public would notice its product before the official launch.",
         "tip_zh": "so that 前面写动作；would 后面写别人会做的事，目的关系要清楚。"
       },
       {
@@ -144,13 +139,13 @@
         "title": "As soon as ..., ... until ...",
         "source": "As soon as he opens the gate from the outside, he comes into the garden and waits until the gate shuts.",
         "focus_zh": "As soon as 写“刚一发生”，until 写“等到某个时刻为止”，适合描写循环里的步骤。",
-        "task_zh": "仿写一句：写一个人刚得到回应，就继续等到下一步发生，然后又开始重复。",
+        "task_zh": "仿写一句：写一个系统或机制一旦检测到某个信号，就持续做出反应，直到某个指标恢复正常为止。",
         "must_include": [
           "As soon as",
           "until"
         ],
-        "min_words": 12,
-        "sample": "As soon as we answered, Emma waited until we looked at the tower.",
+        "min_words": 16,
+        "sample": "As soon as the algorithm detects a sudden spike in traffic, it keeps spinning up new servers until the response time returns to normal.",
         "tip_zh": "As soon as 句首要接一个动作；until 后面接等待结束的信号。"
       }
     ]
