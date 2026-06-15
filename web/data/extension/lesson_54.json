@@ -1,101 +1,95 @@
 {
   "lesson_id": 54,
   "reading": {
-    "title": "The Glue Fingers Problem",
-    "intro_zh": "这篇短文把 Lesson 54 的“手很粘时偏偏被打断”换成现代手工场景：Leo 修纸板火箭，手上都是 glue，消息和门铃接连打断他。重点练习 sticky、glue、dismayed、recognize、persuade、ring back、mess、no sooner、doorbell 和 delivery。",
-    "word_bank": [
-      "sticky",
-      "glue",
-      "dismayed",
-      "recognize",
-      "persuade",
-      "ring back",
-      "mess",
-      "no sooner",
-      "doorbell",
-      "delivery"
-    ],
+    "title": "The Hidden Price of Being Interrupted",
+    "intro_zh": "本文讲述被打断与“一心多用”背后的认知科学：大脑在任务之间切换时会付出隐性代价。内容改编自美国心理学会（APA）的科普资料。",
+    "source": {
+      "title": "Multitasking: Switching costs",
+      "publisher": "American Psychological Association",
+      "url": "https://www.apa.org/topics/research/multitasking"
+    },
     "passage": [
-      "On Saturday afternoon, Leo was repairing a cardboard rocket for the science fair. In a short time, his fingers were covered with sticky glue, and a strip of tape was stuck to his sleeve. At exactly that moment, his phone began to buzz on the desk. Nothing could have been more annoying. He tried to tap the screen with one clean knuckle and was dismayed when he recognized Max's name. Max needed the model measurements at once. It took Leo five minutes to persuade him to ring back later. What a mess! There was glue on his fingers, on the desk, and on the phone case. He had no sooner washed his hands than the doorbell rang. A delivery driver needed a code for a package, and Leo had to find it without touching anything sticky."
+      "When the telephone rings while you are absorbed in a difficult task, the interruption feels trivial, yet psychologists have shown that the mind pays a surprisingly steep price for it. Far from being able to do two things at once, the brain actually toggles rapidly between them, and each switch carries a hidden cost. Researchers such as David Meyer and his colleagues argue that this toggling depends on a control system in the brain that operates in two distinct stages: first it shifts goals, deciding to pursue one aim instead of another, and then it activates a fresh set of mental rules suited to the new task. Disengaging from one activity and reconfiguring for another simply cannot happen instantaneously.",
+      "Individually, these delays seem negligible, often amounting to mere fractions of a second. The trouble is that they accumulate. When people repeatedly shuffle back and forth between competing demands, Meyer has estimated that the brief mental blocks can consume as much as forty percent of their productive time. Complexity makes matters worse: the more demanding or unfamiliar the tasks involved, the heavier the penalty for jumping between them. The consequences extend well beyond lost minutes. Work done amid constant switching tends to contain more errors, and in hazardous settings the lapses can be dangerous. A driver who diverts attention for even a moment travels a considerable distance effectively unaware of the road, which is precisely why the comedy of a badly timed interruption can, in other contexts, turn deadly serious."
     ],
     "questions": [
       {
-        "id": "sticky_activity",
-        "question": "What was Leo doing when his fingers became sticky?",
+        "id": "main_idea",
+        "question": "What is the main point the passage makes about interruptions and multitasking?",
         "options": [
-          "He was repairing a cardboard rocket for the science fair.",
-          "He was cooking meat pies in the kitchen.",
-          "He was cleaning an old telephone.",
-          "He was writing a registered letter."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文开头说 Leo was repairing a cardboard rocket for the science fair，所以他的手是在修纸板火箭时被 glue 弄粘的。"
-      },
-      {
-        "id": "exact_moment",
-        "question": "What happened at exactly that moment?",
-        "options": [
-          "The rocket flew across the room.",
-          "His phone began to buzz on the desk.",
-          "Max came to the door with a package.",
-          "The science fair was suddenly cancelled."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "At exactly that moment 后面接的是 his phone began to buzz on the desk，正好这时手机响了。"
-      },
-      {
-        "id": "why_annoying",
-        "question": "Why was replying to Max annoying?",
-        "options": [
-          "Leo did not know Max at all.",
-          "Leo had already finished the science fair.",
-          "Leo's hands were sticky, but Max needed the model measurements at once.",
-          "Leo wanted to throw the phone away."
+          "People who multitask finish complex work more quickly than others.",
+          "Telephones are the most common cause of accidents at home.",
+          "Switching between tasks imposes a hidden mental cost that adds up over time.",
+          "The brain can comfortably perform two demanding tasks simultaneously."
         ],
         "answer_index": 2,
-        "explanation_zh": "麻烦点在于手上都是 sticky glue，却要处理 Max 要 measurements 的消息；这就是 bad timing。"
+        "explanation_zh": "全文的核心论点是：大脑并非真正同时处理两件事，而是在任务间来回切换，每次切换都有隐性代价，这些代价会累积。故选项C正确。"
       },
       {
-        "id": "left_mess",
-        "question": "What mess was left after the phone problem?",
+        "id": "two_stages",
+        "question": "According to the researchers, what are the two stages of the brain's control system when switching tasks?",
         "options": [
-          "Paint was on the wall and floor.",
-          "Tape was stuck to the delivery driver's bag.",
-          "The package code was written on the rocket.",
-          "Glue was on Leo's fingers, the desk, and the phone case."
-        ],
-        "answer_index": 3,
-        "explanation_zh": "短文里的 What a mess 后面说 glue 在 his fingers、the desk 和 the phone case 上。"
-      },
-      {
-        "id": "second_interruption",
-        "question": "How does the second interruption create the joke?",
-        "options": [
-          "Leo had just washed his hands, and immediately the doorbell rang for a delivery code.",
-          "Leo forgot the science fair was on Saturday.",
-          "Max decided to repair the rocket by himself.",
-          "The delivery driver wanted to join the science club."
+          "Shifting goals and then activating a new set of mental rules.",
+          "Memorizing details and then forgetting them.",
+          "Speeding up reactions and then slowing them down.",
+          "Listening carefully and then writing things down."
         ],
         "answer_index": 0,
-        "explanation_zh": "He had no sooner washed his hands than the doorbell rang 表示刚洗完手，门铃马上又响；第二个打断接得太快，所以好笑。"
+        "explanation_zh": "文中说控制系统分两个阶段：先是 shifts goals（转换目标），然后 activates a fresh set of mental rules（启用一套新的心理规则）。故选项A正确。"
+      },
+      {
+        "id": "cause_effect",
+        "question": "Why can these switching delays end up consuming a large share of productive time?",
+        "options": [
+          "Because each single switch on its own takes many minutes.",
+          "Because people refuse to take breaks during the day.",
+          "Because the brain permanently loses the ability to focus.",
+          "Because the tiny delays accumulate when people switch back and forth repeatedly."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "文中指出单次延迟只有几分之一秒，看似微不足道，但当人们反复来回切换时，这些延迟会累积，可能消耗多达40%的工作时间。故选项D正确。"
+      },
+      {
+        "id": "inference",
+        "question": "What can be inferred about doing complex or unfamiliar work while being interrupted?",
+        "options": [
+          "It is no harder than switching between simple, familiar tasks.",
+          "It carries a heavier penalty than switching between simple tasks.",
+          "It eliminates errors because the brain works harder.",
+          "It is impossible for the brain to attempt at all."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中说 complexity makes matters worse，任务越复杂或越陌生，切换的代价越重。由此可推断处理复杂工作时被打断，代价比简单任务更大。故选项B正确。"
+      },
+      {
+        "id": "vocab_in_context",
+        "question": "In the passage, the word \"negligible\" most nearly means",
+        "options": [
+          "extremely dangerous.",
+          "difficult to measure.",
+          "too small to be worth noticing.",
+          "deliberately ignored by everyone."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "negligible 意为“微不足道、可忽略不计”。文中说这些延迟单独看来 negligible，常常只有几分之一秒，正是“小到不值一提”的意思。故选项C正确。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 54 的“时间背景、快速进入动作、糟糕 timing、强烈抱怨、第二次打断”句式：It was still...when..., In a short time..., At exactly that moment..., Nothing could have been more..., had no sooner...than...。",
+    "intro_zh": "今天把五个 Lesson 54 的核心句式提升到 B2+：用更抽象、更复杂的语境练习 It was still...when..., In a short time..., At exactly that moment..., Nothing could have been more..., had no sooner...than...，仍紧扣每个句式的语法重点。",
     "patterns": [
       {
         "id": "still_when",
         "title": "It was still ... when ...",
         "source": "It was still early when I returned home.",
         "focus_zh": "这个句式先交代时间状态，再用 when 接发生的动作，适合给故事开头加背景。",
-        "task_zh": "仿写一句：写你回家、到教室或完成某件事时，时间还早、天还亮或周围还很安静。",
+        "task_zh": "仿写一句：描写在某个安静、专注的时刻，时间还早或天还亮，却被一件打断专注的事情突然打破，写出当时复杂的心理状态。",
         "must_include": [
           "It was still",
           "when"
         ],
-        "min_words": 10,
-        "sample": "It was still light when I finished cleaning the glue from my hands.",
+        "min_words": 16,
+        "sample": "It was still light outside when the unexpected message shattered the fragile concentration I had spent an hour building.",
         "tip_zh": "It was still 后面可以接 early, light, quiet；when 后面接一个完整动作。"
       },
       {
@@ -103,12 +97,12 @@
         "title": "In a short time, ...",
         "source": "In a short time I was busy mixing butter and flour.",
         "focus_zh": "In a short time 表示“不一会儿”，能把故事快速推进到正在忙的状态。",
-        "task_zh": "仿写一句：写你很快忙着做手工、收拾桌子、准备比赛或完成一个小项目。",
+        "task_zh": "仿写一句：写你如何很快地全身心投入到一项需要高度专注的复杂任务中，以至于忽略了周围的一切。",
         "must_include": [
           "In a short time"
         ],
-        "min_words": 10,
-        "sample": "In a short time, I was busy cutting paper for the model.",
+        "min_words": 15,
+        "sample": "In a short time, I was completely absorbed in reorganising the entire report, oblivious to the noise around me.",
         "tip_zh": "后面常接 I was busy doing...，busy 后面的动词用 -ing。"
       },
       {
@@ -116,12 +110,12 @@
         "title": "At exactly that moment, ...",
         "source": "At exactly that moment, the telephone rang.",
         "focus_zh": "这个短语突出“偏偏就在那一刻”，很适合写喜剧里的坏 timing。",
-        "task_zh": "仿写一句：写你手很脏、正忙或刚坐下时，突然来了消息、电话或门铃。",
+        "task_zh": "仿写一句：写在你刚刚理清思路、即将完成某件需要专注的事情时，偏偏被一个打断彻底破坏掉的瞬间。",
         "must_include": [
           "At exactly that moment"
         ],
-        "min_words": 10,
-        "sample": "At exactly that moment, my phone buzzed on the clean desk.",
+        "min_words": 16,
+        "sample": "At exactly that moment, just as my scattered thoughts had finally settled into a clear plan, the doorbell interrupted everything.",
         "tip_zh": "exactly 要保留，它就是“偏偏正好”的味道。"
       },
       {
@@ -129,12 +123,12 @@
         "title": "Nothing could have been more ...",
         "source": "Nothing could have been more annoying.",
         "focus_zh": "这是强烈抱怨的句式，不是普通的 very annoying，而是“再烦也没有了”。",
-        "task_zh": "仿写一句：写一个特别烦人的时刻，比如手很粘时手机响、刚收好书又要重找资料。",
+        "task_zh": "仿写一句：用强烈的语气抱怨一个在关键时刻被打断、令人极度沮丧的情形，并说明为什么它如此恼人。",
         "must_include": [
           "Nothing could have been more"
         ],
-        "min_words": 10,
-        "sample": "Nothing could have been more annoying than a message on my sticky phone.",
+        "min_words": 16,
+        "sample": "Nothing could have been more frustrating than losing my train of thought the very second the meeting was about to begin.",
         "tip_zh": "more 后面接形容词；如果要说明原因，可以加 than...。"
       },
       {
@@ -142,13 +136,13 @@
         "title": "had no sooner ... than ...",
         "source": "I had no sooner got back to the kitchen than the doorbell rang.",
         "focus_zh": "had no sooner...than... 表示第一件事刚发生，第二件事马上接上，是 Lesson 54 的第二次打断核心。",
-        "task_zh": "仿写一句：写你刚洗完手、刚回到座位或刚打开作业，马上又被另一个事情打断。",
+        "task_zh": "仿写一句：写你刚刚从一次打断中重新集中注意力，紧接着第二个干扰又立刻把你的注意力拽走，强调切换的连续代价。",
         "must_include": [
           "had no sooner",
           "than"
         ],
-        "min_words": 12,
-        "sample": "I had no sooner washed my hands than the delivery man rang the bell.",
+        "min_words": 16,
+        "sample": "I had no sooner regained my concentration after the first interruption than another urgent notification dragged my attention away again.",
         "tip_zh": "这个结构里 had no sooner 放在第一个动作前，than 后面接第二个马上发生的动作。"
       }
     ]
