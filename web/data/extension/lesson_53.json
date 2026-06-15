@@ -1,100 +1,95 @@
 {
   "lesson_id": 53,
   "reading": {
-    "title": "The Wet Backpack Mystery",
-    "intro_zh": "这篇短文把 Lesson 53 的“查原因、排除常见可能、发现真正线索”换到安全的校园场景：书包湿了，大家先检查常见原因，最后用 evidence 解开一个 harmless mystery。重点练习 at last、find out、cause、carelessly、examine、quite sure、accidentally、in this way、explanation 和 evidence。",
-    "word_bank": [
-      "at last",
-      "find out",
-      "cause",
-      "carelessly",
-      "examine",
-      "quite sure",
-      "accidentally",
-      "in this way",
-      "explanation",
-      "evidence"
-    ],
+    "title": "What Started the Fire?",
+    "intro_zh": "本文讲真实世界里调查人员如何判定野火的起因——这正是 Lesson 53“查原因、排除可能、还原因果”的现实版。内容改编自美国土地管理局（Bureau of Land Management）2024 年发布的野火调查权威科普文章。",
+    "source": {
+      "title": "How to Investigate a Wildland Fire",
+      "publisher": "U.S. Bureau of Land Management (BLM)",
+      "url": "https://www.blm.gov/blog/2024-10-17/how-investigate-wildland-fire"
+    },
     "passage": [
-      "At last, Leo reached the classroom with a wet backpack. Since then, Leo and his group have been trying to find out the cause. Wet bags are often caused by rain or by bottles which students carelessly close. First, they examined the outside carefully. They were quite sure it had not rained, and they were not able to find any water on the floor. Then Leo accidentally discovered a small clue. His lunch box was dry, but a folded art paper inside the front pocket was wet only at one corner. In this way, he solved the mystery. The explanation was simple but unusual: a cold juice box had been left beside the paper, and drops from it had made the corner wet. The evidence showed the true cause."
+      "When a wildfire has finally been brought under control, the demanding work of investigation has only just begun. Determining how a blaze ignited is rarely straightforward, because the very flames that swept across the landscape also consumed much of the evidence. Specialists known as fire investigators must think like detectives, tracing the destruction backwards to a single point. Scorched vegetation often burns outward in a distinctive V-shaped pattern, and the narrow tip of that V marks the area of origin. By reading subtle indicators in the char angles and burn marks left on surviving vegetation, investigators can deduce the direction from which the flames advanced and, eventually, the precise spot where the fire began.",
+      "Pinpointing the origin is only half the puzzle; the cause must still be established. Investigators draw a sharp distinction between natural and human ignition. Some fires are started naturally, by lightning storms. Far more often, however, the source turns out to be human activity. According to the Bureau of Land Management, roughly 85 percent of wildfires reported nationally each year are human-caused.",
+      "Certain causes appear time and again in investigation records: escaped campfires, the burning of debris, equipment failures such as wheel bearing malfunctions, target shooting, powerline faults, and deliberate arson. Working systematically through the evidence, investigators apply the scientific method — gathering data, forming hypotheses, and eliminating alternatives one by one until a credible explanation remains. That knowledge is far from merely academic: it allows land management agencies to design targeted prevention programmes that may spare forests, communities, and lives in the years ahead."
     ],
     "questions": [
       {
-        "id": "mystery",
-        "question": "What mystery did Leo's group try to solve?",
+        "id": "main_idea",
+        "question": "What is the main idea of the passage?",
         "options": [
-          "Why Leo's backpack was wet.",
-          "Why the classroom door was locked.",
-          "Why Leo lost his lunch box.",
-          "Why the art lesson was cancelled."
+          "Lightning is responsible for the majority of wildfires worldwide.",
+          "Firefighters are usually unable to put out large wildfires.",
+          "Investigators use careful methods to find where and why a wildfire started.",
+          "Wildfires destroy so much evidence that their causes can never be known."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "全文围绕调查人员如何先找到火源点（origin），再判定起因（cause），所以主旨是“调查人员用细致的方法查清野火发生的地点和原因”。"
+      },
+      {
+        "id": "detail_origin",
+        "question": "According to the passage, what does the narrow tip of the V-shaped burn pattern indicate?",
+        "options": [
+          "The area where the fire began.",
+          "The direction in which the wind was blowing.",
+          "The place where firefighters first arrived.",
+          "The total area the fire eventually destroyed."
         ],
         "answer_index": 0,
-        "explanation_zh": "短文开头说 Leo reached the classroom with a wet backpack，大家一直想 find out the cause，所以谜题是书包为什么湿了。"
+        "explanation_zh": "文中说 the narrow tip of that V marks the area of origin，即 V 形烧痕的窄端标示着起火点。"
       },
       {
-        "id": "common_causes",
-        "question": "Which common causes did they check first?",
+        "id": "detail_human_causes",
+        "question": "Which of the following sets of wildfire causes is mentioned in the passage?",
         "options": [
-          "A dirty desk and a noisy class.",
-          "A broken window and a lost key.",
-          "Rain and a carelessly closed bottle.",
-          "A heavy book and a torn pocket."
-        ],
-        "answer_index": 2,
-        "explanation_zh": "短文说 wet bags are often caused by rain or by bottles which students carelessly close，他们先检查了下雨和水瓶没关好这两个常见原因。"
-      },
-      {
-        "id": "missing_evidence",
-        "question": "What evidence could they not find?",
-        "options": [
-          "A dry lunch box.",
-          "Water on the floor.",
-          "An art paper in the pocket.",
-          "A cold juice box."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "他们 were not able to find any water on the floor，所以没有找到地上有水这个证据。"
-      },
-      {
-        "id": "unusual_cause",
-        "question": "What unusual cause did Leo discover?",
-        "options": [
-          "The lunch box had spilled soup all over the books.",
-          "Rain had fallen through a hole in the roof.",
-          "A classmate had poured water into the backpack.",
-          "Drops from a cold juice box had made one corner of the paper wet."
+          "Farming, mining, construction, and deforestation.",
+          "Smoking in forests, illegal hunting, logging, and camping.",
+          "Flooding, high winds, prolonged drought, and extreme heat.",
+          "Escaped campfires, debris burning, equipment failures, and arson."
         ],
         "answer_index": 3,
-        "explanation_zh": "真正原因不是雨或水瓶，而是 a cold juice box 旁边的水珠把纸的一角弄湿了。"
+        "explanation_zh": "第三段明确列举了 escaped campfires、burning of debris、equipment failures（如车轮轴承故障）以及 arson（纵火）作为野火的常见人为成因。"
       },
       {
-        "id": "logical_solution",
-        "question": "How did Leo solve the mystery logically?",
+        "id": "inference",
+        "question": "What can be inferred about why investigators identify the cause of a wildfire?",
         "options": [
-          "He threw the wet paper away and stopped asking questions.",
-          "He guessed the answer before examining anything.",
-          "He checked common causes, noticed the wet corner, and matched it with the juice box.",
-          "He blamed the weather because wet bags are always caused by rain."
+          "So that the people responsible can always be punished in court.",
+          "So that agencies can develop strategies to prevent future fires.",
+          "So that the destroyed forest can be rebuilt more quickly.",
+          "So that lightning can be removed as a natural threat."
         ],
-        "answer_index": 2,
-        "explanation_zh": "Leo 先排除常见原因，再注意到 paper 只有一个角湿，最后把这个 evidence 和 cold juice box 对上，所以是按逻辑解谜。"
+        "answer_index": 1,
+        "explanation_zh": "结尾说查清原因后 it allows land management agencies to design targeted prevention programmes，可推断查因是为了帮助机构制定预防未来火灾的策略。"
+      },
+      {
+        "id": "vocab_human_caused",
+        "question": "In the second paragraph, the phrase “roughly 85 percent of wildfires … are human-caused” suggests that human activity is:",
+        "options": [
+          "the dominant source of wildfires in the United States.",
+          "reported mainly by people who witness fires starting.",
+          "more dangerous to people than to forests.",
+          "unrelated to the way investigators work."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "85% 这一数字直接说明人类活动是野火的主要（dominant）来源，即 human activity is the dominant source of wildfires in the United States。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 53 的“调查原因”句式：用 At last 写问题终于有进展，用 Since then...have been trying to... 写持续调查，用 are often caused by... 写常见原因，用 were not able to find... 写没有找到证据，最后用 In this way...solved the mystery 写解开谜团。",
+    "intro_zh": "今天把 Lesson 53 的五个“调查原因”句式升级到 B2+：用 At last 写漫长努力终于有结果，用 Since then...have been trying to... 写持续不断的探究，用 are often caused by... 写抽象原因归因，用 were not able to find... 写证据缺失，最后用 In this way...solved the mystery 写凭借推理解开谜团。",
     "patterns": [
       {
         "id": "at_last_relief",
         "title": "At last, ...",
         "source": "At last firemen have put out a big forest fire.",
         "focus_zh": "At last 放在句首，表示一件拖了很久、让人着急的事终于有了结果。",
-        "task_zh": "仿写一句：写一个问题、比赛、作业或寻找过程终于结束了。",
+        "task_zh": "仿写一句：写一项耗时漫长、令人焦灼的研究、调查或谈判终于取得了决定性的突破。",
         "must_include": [
           "At last"
         ],
-        "min_words": 8,
-        "sample": "At last, we found the missing notebook under the music stand.",
+        "min_words": 16,
+        "sample": "At last, after months of painstaking analysis, the investigators identified the overlooked detail that finally explained the accident.",
         "tip_zh": "At last 后面通常接一个完整句子，语气是“终于”。"
       },
       {
@@ -102,13 +97,13 @@
         "title": "Since then, ... have been trying to ...",
         "source": "Since then, they have been trying to find out how the fire began.",
         "focus_zh": "Since then 指“从那以后”；have been trying to 强调这件事一直在持续努力。",
-        "task_zh": "仿写一句：写从某个时间点以后，你们一直在努力查清或完成一件事。",
+        "task_zh": "仿写一句：写自某个关键时刻以来，一个团队一直在持续不懈地探究某个复杂或抽象的问题。",
         "must_include": [
           "Since then",
           "have been trying to"
         ],
-        "min_words": 12,
-        "sample": "Since then, we have been trying to find out why the classroom smells strange.",
+        "min_words": 16,
+        "sample": "Since then, scientists across several institutions have been trying to determine why the once-stable ecosystem has begun to collapse so rapidly.",
         "tip_zh": "主语用 we/they 时，后面自然接 have been trying to；再接动词原形。"
       },
       {
@@ -116,12 +111,12 @@
         "title": "are often caused by ...",
         "source": "Forest fires are often caused by broken glass or by cigarette ends.",
         "focus_zh": "are often caused by 用来写“某种结果通常由什么原因造成”，很适合解释常见原因。",
-        "task_zh": "仿写一句：写一种小问题常常由哪些原因引起。",
+        "task_zh": "仿写一句：写一种社会现象或系统性问题通常由哪些深层原因造成。",
         "must_include": [
           "are often caused by"
         ],
-        "min_words": 10,
-        "sample": "Wet notebooks are often caused by open bottles or rainy backpacks.",
+        "min_words": 14,
+        "sample": "Devastating wildfires are often caused by prolonged drought, careless human activity, and the gradual accumulation of dry vegetation.",
         "tip_zh": "先写结果，再用 are often caused by 接两个可能原因。"
       },
       {
@@ -129,12 +124,12 @@
         "title": "were not able to find ...",
         "source": "They were not able to find any broken glass.",
         "focus_zh": "were not able to find 比 did not find 更突出“努力找过，但没有找到”。",
-        "task_zh": "仿写一句：写你们仔细检查后，没有找到预想中的证据。",
+        "task_zh": "仿写一句：写研究人员经过反复细致的检查后，仍无法找到他们原本预期会出现的关键证据。",
         "must_include": [
           "were not able to find"
         ],
-        "min_words": 10,
-        "sample": "We were not able to find any water on the classroom floor.",
+        "min_words": 15,
+        "sample": "Despite searching the scorched ground for hours, the investigators were not able to find any trace of the suspected ignition source.",
         "tip_zh": "后面可以接 any evidence, any marks, any water，让“没有证据”更清楚。"
       },
       {
@@ -142,13 +137,13 @@
         "title": "In this way, ... solved the mystery",
         "source": "In this way, he was able to solve the mystery.",
         "focus_zh": "In this way 用来回指前面的方法或线索，再说明谜题被解开。",
-        "task_zh": "仿写一句：写某人通过一个线索或步骤解开了一个小谜题。",
+        "task_zh": "仿写一句：写某人凭借一条不起眼的线索或一连串严密的推理，最终揭开了一个长期困扰众人的谜团。",
         "must_include": [
           "In this way",
           "mystery"
         ],
-        "min_words": 10,
-        "sample": "In this way, Leo solved the mystery of the wet backpack.",
+        "min_words": 16,
+        "sample": "In this way, by patiently piecing together fragments of charred evidence, the analyst finally unraveled the mystery that had baffled everyone.",
         "tip_zh": "先想清楚“this way”指哪一步，再写 solved the mystery，句子会更有逻辑。"
       }
     ]
