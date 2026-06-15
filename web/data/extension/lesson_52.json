@@ -1,100 +1,95 @@
 {
   "lesson_id": 52,
   "reading": {
-    "title": "The Paper Carpet",
-    "intro_zh": "这篇短文把 Lesson 52 的“把房间整理好、东西临时铺满地板、最后变成一个好笑比喻”换到现代学习角场景。重点练习 move into、work hard、in order、own、To make matters worse、temporarily、every inch、floor space、gaze 和 spare time。",
-    "word_bank": [
-      "move into",
-      "work hard",
-      "in order",
-      "own",
-      "To make matters worse",
-      "temporarily",
-      "every inch",
-      "floor space",
-      "gaze",
-      "spare time"
-    ],
+    "title": "The Science of Household Clutter",
+    "intro_zh": "这篇拓展阅读把 Lesson 52“房间装不下太多东西”的主题，换成一个真实的科学话题：现代家庭为什么会被杂物淹没，以及凌乱如何影响压力。内容改编自 UCLA 加州大学官方报道的“家庭日常生活研究中心(CELF)”研究。",
+    "source": {
+      "title": "The Clutter Culture (Center on Everyday Lives of Families)",
+      "publisher": "UCLA Newsroom",
+      "url": "https://newsroom.ucla.edu/magazine/center-everyday-lives-families-suburban-america"
+    },
     "passage": [
-      "Last month, Daniel moved into a small study corner beside the window. He had been working hard all afternoon because he wanted to get his school projects in order. This was not easy. Daniel owned three folders of art paper, two boxes of model parts, and a pile of notebooks. To make matters worse, the new shelf was still in its box, so he temporarily spread everything on the floor. Soon coloured papers covered every inch of floor space. His sister came in, gazed at the bright shapes, and laughed, \"It looks like a paper carpet.\" Daniel smiled. In his spare time, he could sit there and plan his science display from the carpet."
+      "Anyone who has struggled to fit one more box onto an overflowing shelf knows the feeling, yet few realise how thoroughly clutter has come to define modern domestic life. To document this, a cross-disciplinary team of anthropologists and psychologists at the University of California, Los Angeles spent four years observing thirty-two ordinary dual-income families at home. Rather than relying on memory, the researchers compiled an extraordinary record: nearly twenty thousand photographs, dozens of hours of video tours, and over a thousand hours of footage. The resulting portrait, published as Life at Home in the Twenty-First Century, revealed households quietly buried beneath their own possessions.",
+      "The numbers were striking. Cars had been evicted from three out of four garages, which had been repurposed as overflow warehouses for goods that no longer fit indoors. Each additional child, the study found, drove a family's stockpile of belongings up by roughly thirty per cent across the early childhood years. Yet the most revealing discovery was not the sheer volume of stuff but its hidden cost. By analysing cortisol, a hormone that the body releases under stress, psychologists detected a clear link between cluttered surroundings and elevated tension, a burden borne disproportionately by mothers.",
+      "Why should a crowded room weigh so heavily on the mind? One explanation is that unfinished domestic tasks loom constantly in the background, nagging at attention and never quite allowing the brain to switch off. Clutter, in other words, is not merely an aesthetic nuisance; it is a persistent psychological signal. The UCLA findings suggest that taming our possessions may matter less for tidiness than for the calmer, more focused mental life that an orderly space quietly makes possible."
     ],
     "questions": [
       {
-        "id": "organize_projects",
-        "question": "What was Daniel trying to organize?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "His school projects in a small study corner.",
-          "A thousand books in a new house.",
-          "A carpet shop beside the window.",
-          "His sister's bedroom furniture."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文说 Daniel wanted to get his school projects in order，所以他要整理的是学习角里的 school projects。"
-      },
-      {
-        "id": "not_easy_reason",
-        "question": "Why was Daniel's work not easy?",
-        "options": [
-          "His sister asked him to move into another house.",
-          "He had lost the key to the study corner.",
-          "He owned many project materials, including art paper, model parts, and notebooks.",
-          "The window was too far from the floor."
-        ],
-        "answer_index": 2,
-        "explanation_zh": "不容易的原因是材料很多：art paper、model parts 和 notebooks，不是因为搬家或找钥匙。"
-      },
-      {
-        "id": "matters_worse",
-        "question": "What made matters worse?",
-        "options": [
-          "His sister refused to enter the room.",
-          "Daniel had no school projects at all.",
-          "The floor was already covered by a real carpet.",
-          "The new shelf was still in its box."
-        ],
-        "answer_index": 3,
-        "explanation_zh": "To make matters worse 后面写的是 the new shelf was still in its box，所以东西暂时没有地方放。"
-      },
-      {
-        "id": "paper_carpet",
-        "question": "Why did the floor look like a paper carpet?",
-        "options": [
-          "Daniel bought a new carpet made in a paper factory.",
-          "Coloured papers covered every inch of floor space.",
-          "His sister painted a carpet on the floor.",
-          "The model parts were all hidden in the shelf."
+          "How to design a larger garage for a growing family.",
+          "A study showing that household clutter is widespread and quietly raises stress.",
+          "The history of photography as a research tool in anthropology.",
+          "Why dual-income families earn more than single-income ones."
         ],
         "answer_index": 1,
-        "explanation_zh": "短文说 coloured papers covered every inch of floor space，所以地板看起来像一张由纸铺成的 carpet。"
+        "explanation_zh": "全文围绕 UCLA 的 CELF 研究展开，说明杂物在现代家庭中普遍存在，并悄悄推高压力。其余选项只是文中细节或无关内容。"
       },
       {
-        "id": "joke_turns_mess",
-        "question": "How does the joke turn the mess into a picture?",
+        "id": "detail_method",
+        "question": "How did the UCLA researchers record what they observed?",
         "options": [
-          "Daniel decides never to use the study corner again.",
-          "The sister tells Daniel to throw away every project.",
-          "The sister sees the bright papers as a paper carpet, and Daniel imagines planning from it.",
-          "The shelf opens by itself and hides the papers."
+          "They sent each family a questionnaire to fill in from memory.",
+          "They measured the size of every room with laser tools.",
+          "They collected nearly twenty thousand photographs and over a thousand hours of video.",
+          "They interviewed only the mothers by telephone."
         ],
         "answer_index": 2,
-        "explanation_zh": "妹妹把满地彩纸看成 paper carpet，Daniel 也顺着这个比喻想象可以从这张 carpet 里规划展示。乱变成了有画面感的笑点。"
+        "explanation_zh": "文中明确说研究者整理了近两万张照片、数十小时的录像导览，以及一千多小时的日常录像，而不是靠问卷或记忆。"
+      },
+      {
+        "id": "cause_effect",
+        "question": "According to the study, what happens to a family's possessions as more children arrive?",
+        "options": [
+          "The stockpile of belongings rises by about thirty per cent across the early childhood years.",
+          "Families give away most of their belongings to make room.",
+          "The number of possessions stays roughly the same.",
+          "Parents move the children's toys into the kitchen."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "文中说每多一个孩子，在儿童早期几年间，家庭的物品储备就会增加约 30%。"
+      },
+      {
+        "id": "inference",
+        "question": "What can be inferred about why the researchers measured cortisol?",
+        "options": [
+          "They wanted to find out which family ate the healthiest food.",
+          "They were testing whether photographs cause allergies.",
+          "They hoped to prove that garages are unsafe for cars.",
+          "They wanted objective biological evidence of stress, not just people's opinions."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "可推断：研究者用皮质醇这种压力激素来获得客观的生理证据，从而衡量压力，而不是仅凭主观说法。这也呼应文中强调“不依赖记忆或意见”。"
+      },
+      {
+        "id": "vocab_in_context",
+        "question": "In the passage, the word \"evicted\" (\"Cars had been evicted from three out of four garages\") most nearly means",
+        "options": [
+          "forced out or removed from a place.",
+          "carefully repaired and repainted.",
+          "parked neatly side by side.",
+          "bought at a lower price."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "evicted 原指“驱逐、赶出”，这里指汽车被挤出车库（车库改放杂物），所以意思最接近“被赶出/被移出某地”。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 52 的“整理空间和比喻笑点”句式：用 have just moved into 写最近的变化，用 have been trying to get...in order 写持续整理，用 To make matters worse 添加第二个麻烦，用 every inch of 写铺满的画面，最后用 the prettiest...I have ever seen 写幽默夸张的评价。",
+    "intro_zh": "今天抓五个 Lesson 52 的“整理空间和比喻笑点”句式，但把例句提升到 B2+：用 have just moved into 写最近的变化，用 have been trying to get...in order 写持续整理，用 To make matters worse 添加第二个麻烦，用 every inch of 写铺满的画面，最后用 the prettiest...I have ever seen 写幽默夸张的评价。",
     "patterns": [
       {
         "id": "have_just_moved_into",
         "title": "have just moved into ...",
         "source": "We have just moved into a new house.",
         "focus_zh": "have just moved into... 表示“刚搬进/刚换到某个地方”，重点是这个变化刚发生，结果现在还看得见。",
-        "task_zh": "仿写一句：写你或某人刚搬进一个新房间、新学习角、新座位或新空间。",
+        "task_zh": "仿写一句：写你或某人刚搬进一个空间，并描写一个让人略感局促或意外的细节（比如东西太多、地方太小）。",
         "must_include": [
           "just moved into"
         ],
-        "min_words": 9,
-        "sample": "I have just moved into a small study corner near the window.",
+        "min_words": 16,
+        "sample": "I have just moved into a cramped studio apartment whose every wall is already lined with unopened cardboard boxes.",
         "tip_zh": "have just moved into 后面接地点；如果主语是 he/she，要改成 has just moved into。"
       },
       {
@@ -102,13 +97,13 @@
         "title": "have been trying to get ... in order",
         "source": "I have been trying to get my new room in order.",
         "focus_zh": "have been trying to... 强调这件事已经持续了一段时间；get...in order 表示把东西整理好、安排有序。",
-        "task_zh": "仿写一句：写你一直在努力把书桌、书包、文件夹、房间或项目材料整理好。",
+        "task_zh": "仿写一句：写你长期努力整理某种抽象或繁杂的东西（资料、思路、日程、项目材料），并暗示这件事比想象中更难。",
         "must_include": [
           "have been trying to get",
           "in order"
         ],
-        "min_words": 11,
-        "sample": "I have been trying to get my project folders in order all afternoon.",
+        "min_words": 16,
+        "sample": "I have been trying to get my overflowing research notes in order, yet every folder I open seems to breed three more.",
         "tip_zh": "这个句式适合写“还在努力整理”的状态；中间的名词可以换成 my desk、my books、my notes。"
       },
       {
@@ -116,12 +111,12 @@
         "title": "To make matters worse, ...",
         "source": "To make matters worse, the room is rather small.",
         "focus_zh": "To make matters worse 用来追加第二个麻烦，让故事从“已经不容易”变成“更糟糕”。",
-        "task_zh": "仿写一句：先暗示已经有一个问题，再用 To make matters worse 写另一个让情况更难的小麻烦。",
+        "task_zh": "仿写一句：先点出一个已经存在的困难处境，再用 To make matters worse 追加一个让局面更棘手的新麻烦。",
         "must_include": [
           "To make matters worse"
         ],
-        "min_words": 10,
-        "sample": "To make matters worse, the new shelf was still in its box.",
+        "min_words": 15,
+        "sample": "The deadline had already been moved forward; to make matters worse, half the team was abroad and unreachable.",
         "tip_zh": "逗号后面接完整句子；这个句式适合放在故事转折处。"
       },
       {
@@ -129,12 +124,12 @@
         "title": "every inch of ...",
         "source": "They cover every inch of floor space.",
         "focus_zh": "every inch of... 是很有画面感的表达，强调一个地方几乎完全被占满。",
-        "task_zh": "仿写一句：写书、本子、纸张、玩具或材料铺满了某个地方。",
+        "task_zh": "仿写一句：用 every inch of 描写某种东西彻底占满了一个空间，并尽量用更具体、更有画面感的名词和动词。",
         "must_include": [
           "every inch of"
         ],
-        "min_words": 9,
-        "sample": "The coloured papers covered every inch of the small desk.",
+        "min_words": 14,
+        "sample": "Within a single afternoon, scattered diagrams and printouts had colonised every inch of the laboratory's only free table.",
         "tip_zh": "后面可以接 floor space、the table、the shelf；重点是“满到没有空地”。"
       },
       {
@@ -142,12 +137,12 @@
         "title": "the prettiest ... I have ever seen",
         "source": "This is the prettiest carpet I have ever seen.",
         "focus_zh": "the prettiest...I have ever seen 用最高级制造夸张评价；在 Lesson 52 里，它把凌乱的地板变成一个温和的笑话。",
-        "task_zh": "仿写一句：写某人把一个意外的场景幽默地称作自己见过最漂亮、最奇怪或最有趣的东西。",
+        "task_zh": "仿写一句：让某人把一个混乱或意外的场景，幽默而夸张地称作自己见过最了不起、最壮观或最离奇的东西。",
         "must_include": [
           "I have ever seen"
         ],
-        "min_words": 10,
-        "sample": "This is the prettiest paper carpet I have ever seen.",
+        "min_words": 16,
+        "sample": "Gazing at my chaotic desk, I declared it the most magnificent paper avalanche I have ever seen in an office.",
         "tip_zh": "the prettiest 后面接名词；I have ever seen 放在名词后面，表示“我见过的最……”。"
       }
     ]
