@@ -1,101 +1,96 @@
 {
   "lesson_id": 56,
   "reading": {
-    "title": "The Old Bike Race",
-    "intro_zh": "这篇短文把 Lesson 56 的“旧机器、慢速度、故障喜剧、同样刺激”换到博物馆旧自行车赛：速度不快，但老车铃声、掉链子、少数选手完赛都让比赛很有趣。重点练习 once a year、race、entered、excitement、well-kept、take part、break down、course、rival 和 no less exciting。",
-    "word_bank": [
-      "once a year",
-      "race",
-      "entered",
-      "excitement",
-      "well-kept",
-      "take part",
-      "break down",
-      "course",
-      "rival",
-      "no less exciting"
-    ],
+    "title": "From Red Flags to a Seaside Run",
+    "intro_zh": "本文承接 Lesson 56“老爷车比赛”的主题，介绍真实的英国伦敦至布莱顿老爷车巡游（London to Brighton Veteran Car Run）及其历史，改编自老爷车巡游官方网站与英国皇家汽车俱乐部的权威资料。",
+    "source": {
+      "title": "History of the Run — London to Brighton Veteran Car Run",
+      "publisher": "Veteran Car Run (Royal Automobile Club)",
+      "url": "https://www.veterancarrun.com/history-of-the-run"
+    },
     "passage": [
-      "Once a year, our town museum holds a small race for old bicycles in the yard. Only old bicycles can take part. Last Sunday, twelve riders entered, and there was a great deal of excitement before the first bell rang. The most unusual bicycle was a well-kept tall black one built in 1902, with a tiny front lamp and a very hard seat. After a great many cheerful bells, the race began. Several bicycles broke down on the course, and one rider spent more time fixing a loose chain than riding. A few riders, however, completed the race. The winning bicycle reached only twelve miles an hour, a little faster than its tired rivals, but the race was no less exciting than a modern bike show. Everyone laughed and clapped because each old machine had finished like a hero."
+      "Long before motoring became ordinary, Britain treated the motor car with deep suspicion. A law of 1865 required a person to walk ahead of every vehicle, originally carrying a red flag to warn pedestrians, while the speed limit was held to a crawling four miles an hour. The flag was dispensed with in 1878, yet the requirement for someone to lead the way on foot survived. That humiliating obligation finally ended on 14 November 1896, when the Locomotives on the Highway Act abolished it entirely and raised the limit to fourteen miles an hour. To celebrate their new freedom, a band of pioneering motorists drove that day from London to Brighton, a journey of roughly sixty miles that came to be remembered as the Emancipation Run.",
+      "What began as a single act of defiance gradually evolved into a cherished annual tradition. Since 1930 the event has been owned and organised by the Royal Automobile Club, and today it is held on the first Sunday of every November. Only genuine veterans qualify: each car, of either three or four wheels, must have been built before 1 January 1905, which makes the gathering a living museum of the dawn of the automobile.",
+      "Crucially, the Run has never been a race. More than four hundred fragile machines set out each year not to compete for speed but simply to reach the coast under their own power. Many splutter and break down along the way, and reaching Brighton at all is treated as a genuine triumph. Spectators line the route in their thousands, captivated by the smoke, the rattles and the sheer determination of these ancient vehicles."
     ],
     "questions": [
       {
-        "id": "race_type",
-        "question": "What kind of race did the museum hold?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "A small race for old bicycles in the museum yard.",
-          "A modern motorcycle race on a city road.",
-          "A school running race for young children.",
-          "A fast car race with new sports cars."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文开头说 our town museum holds a small race for old bicycles in the yard，所以这是博物馆院子里的旧自行车赛。"
-      },
-      {
-        "id": "most_unusual_bicycle",
-        "question": "Which bicycle was the most unusual?",
-        "options": [
-          "A new red bicycle with a loud horn.",
-          "A well-kept tall black bicycle built in 1902.",
-          "A tiny bicycle made for a small child.",
-          "A silver bicycle with no seat at all."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "短文说 The most unusual bicycle was a well-kept tall black one built in 1902，关键信息是 well-kept、tall black 和 built in 1902。"
-      },
-      {
-        "id": "course_trouble",
-        "question": "What happened to several bicycles on the course?",
-        "options": [
-          "They left the yard and entered a busy street.",
-          "They became much faster than modern racing bikes.",
-          "They broke down, and one rider had to fix a loose chain.",
-          "They stopped because the museum closed early."
+          "How to repair the engines of nineteenth-century motor cars.",
+          "Why modern motor racing has become more popular than veteran events.",
+          "The history and enduring spirit of the London to Brighton Veteran Car Run.",
+          "The technical reasons why early cars could not exceed four miles an hour."
         ],
         "answer_index": 2,
-        "explanation_zh": "短文说 Several bicycles broke down on the course，而且一个 rider 花很多时间 fixing a loose chain。"
+        "explanation_zh": "全文围绕老爷车巡游的起源（1896 年“解放巡游”）、演变（1930 年起由皇家汽车俱乐部主办）以及其精神（不是比赛、重在完赛）展开，主旨是这项活动的历史与持久魅力。"
       },
       {
-        "id": "winning_speed",
-        "question": "How fast did the winning bicycle go?",
+        "id": "detail_law",
+        "question": "According to the passage, what did the Locomotives on the Highway Act of 1896 do?",
         "options": [
-          "Two miles an hour.",
-          "Forty miles an hour.",
-          "One hundred miles an hour.",
-          "Twelve miles an hour."
+          "It abolished the requirement for someone to walk ahead of every vehicle and raised the speed limit.",
+          "It lowered the speed limit to four miles an hour for all motor cars.",
+          "It introduced a rule that a person had to carry a red flag in front of every vehicle.",
+          "It banned motor cars from British roads for safety reasons."
         ],
-        "answer_index": 3,
-        "explanation_zh": "获胜自行车只达到 only twelve miles an hour，速度不快，但比 tired rivals 稍快。"
+        "answer_index": 0,
+        "explanation_zh": "文中说 1896 年这部法律 abolished it entirely and raised the limit to fourteen miles an hour，其中 it 指代的是 the requirement for someone to lead the way on foot（即在车前步行引导的要求），法律同时把限速提高到每小时十四英里。其余选项或与原文矛盾，或描述的是被废除的旧规定。"
       },
       {
-        "id": "still_exciting",
-        "question": "Why was the race still exciting?",
+        "id": "process_eligibility",
+        "question": "Why is the gathering described as 'a living museum of the dawn of the automobile'?",
         "options": [
-          "Because every bicycle was new and extremely fast.",
-          "Because the old machines had trouble but still finished like heroes.",
-          "Because no rider entered the race at all.",
-          "Because the museum gave everyone a modern racing bike."
+          "Because the cars are displayed indoors and are never actually driven.",
+          "Because every car taking part must have been built before 1 January 1905.",
+          "Because the Royal Automobile Club has organised it since 1896.",
+          "Because the cars are modern replicas of nineteenth-century machines."
         ],
         "answer_index": 1,
-        "explanation_zh": "结尾说 each old machine had finished like a hero。旧车慢、会坏，但能完成比赛，所以 no less exciting。"
+        "explanation_zh": "文中说只有真正的“老爷车”才有资格参加：每辆车都必须在 1905 年 1 月 1 日之前制造，所以这场聚会就像一座汽车诞生之初的“活博物馆”。"
+      },
+      {
+        "id": "inference_spirit",
+        "question": "What can be inferred about the attitude of those who take part and watch?",
+        "options": [
+          "They mainly care about which car crosses the finish line first.",
+          "They regard breakdowns as embarrassing failures that spoil the day.",
+          "They believe veteran cars should be replaced by faster modern models.",
+          "They value simply completing the journey more than winning at speed."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "文中强调 the Run has never been a race，车辆出发只为靠自身动力抵达海边，能开到布莱顿本身就被视为真正的胜利；可推断参与者与观众更看重“完成旅程”而非比速度取胜。"
+      },
+      {
+        "id": "vocab_splutter",
+        "question": "In the final paragraph, the word 'splutter' most nearly means to",
+        "options": [
+          "accelerate smoothly to a very high speed.",
+          "run noisily and unevenly, as if about to stop.",
+          "be polished and displayed for an admiring crowd.",
+          "turn around and head back to the starting point."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "splutter 在文中与 break down（抛锚）并列，描述老旧机器发出断续、不平稳的噪声、仿佛随时熄火的状态，因此意为“(发动机)噼啪作响、运转不稳”。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 56 的旧车比赛高价值句式：用 Once a year, ... is held 写定期活动，用 a great deal of 写不可数情绪，用 Built in ..., ... 写物品背景，用 spent more time ... than ... 写喜剧对比，最后用 very different from ... but no less exciting 写“不同但同样精彩”。",
+    "intro_zh": "今天抓五个 Lesson 56 的旧车比赛高价值句式，并把例句提升到 B2+ 难度：用 Once a year, ... is held 写定期举行的活动，用 a great deal of 写不可数情绪，用 Built in ..., ... 写物品背景，用 spent more time ... than ... 写喜剧式对比，最后用 very different from ... but no less exciting 写“不同但同样精彩”。",
     "patterns": [
       {
         "id": "once_a_year_is_held",
         "title": "Once a year, ... is held",
         "source": "Once a year, a race is held for old cars.",
         "focus_zh": "这个句式用被动语态写定期举行的活动，重点是活动本身，不是谁组织。",
-        "task_zh": "仿写一句：写一个每年举行一次的比赛、展览、表演或校园活动。",
+        "task_zh": "仿写一句：用被动语态描写一个每年举行、带有纪念或文化意义的活动，并说明它纪念或庆祝什么。",
         "must_include": [
           "Once a year",
           "is held"
         ],
-        "min_words": 10,
-        "sample": "Once a year, a small bike race is held in the museum yard.",
+        "min_words": 16,
+        "sample": "Once a year, a celebrated procession of pre-1905 vehicles is held to honour the pioneers of motoring.",
         "tip_zh": "Once a year 放句首；is held 前面的主语应该是 event，如 a race, a show, a festival。"
       },
       {
@@ -103,12 +98,12 @@
         "title": "a great deal of ...",
         "source": "There was a great deal of excitement just before it began.",
         "focus_zh": "a great deal of 后面常接不可数名词，适合写 excitement、pleasure、noise、trouble 等整体感觉或数量。",
-        "task_zh": "仿写一句：写比赛、表演或展示开始前有很多兴奋、快乐或麻烦。",
+        "task_zh": "仿写一句：用 a great deal of 描写某个重大场合开始前弥漫的某种抽象情绪或氛围（如焦虑、期待、敬意）。",
         "must_include": [
           "a great deal of"
         ],
-        "min_words": 10,
-        "sample": "There was a great deal of excitement before the old bikes started.",
+        "min_words": 16,
+        "sample": "There was a great deal of nervous anticipation in the air as the fragile veteran cars lined up before dawn.",
         "tip_zh": "不要写 a great deal of cars；cars 可数，应该用 many 或 a lot of。"
       },
       {
@@ -116,12 +111,12 @@
         "title": "Built in ..., ...",
         "source": "Built in 1885, it was the oldest car taking part.",
         "focus_zh": "Built in... 放在句首，可以用很紧凑的方式交代一件物品的年代或背景。",
-        "task_zh": "仿写一句：写一辆车、一辆自行车、一个模型或一件展品的制造年代，并说明它有什么特别之处。",
+        "task_zh": "仿写一句：用 Built in 加年份开头，介绍一件有历史背景的物品，并强调它在某一方面的独特或极致之处。",
         "must_include": [
           "Built in"
         ],
-        "min_words": 10,
-        "sample": "Built in 1902, the black bicycle was the oldest one taking part.",
+        "min_words": 16,
+        "sample": "Built in 1903, the rattling open-top motor car was the most fragile machine ever to attempt the entire run.",
         "tip_zh": "Built in 后面接年份；逗号后面要接完整句子，说明这个物品。"
       },
       {
@@ -129,13 +124,13 @@
         "title": "spent more time ... than ...",
         "source": "Some drivers spent more time under their cars than in them.",
         "focus_zh": "这个比较句能写出喜剧效果：本来应该做 A，结果花更多时间做 B。",
-        "task_zh": "仿写一句：写某人在比赛、手工或准备活动中，花在修理、寻找或整理上的时间比真正行动还多。",
+        "task_zh": "仿写一句：用喜剧式对比写某人在一项费力的任务中，花在修理、排查或准备上的时间，远多于真正完成它的时间。",
         "must_include": [
           "spent more time",
           "than"
         ],
-        "min_words": 12,
-        "sample": "One rider spent more time fixing his chain than riding his old bicycle.",
+        "min_words": 16,
+        "sample": "Throughout the long journey, several owners spent more time crouched beneath their stalled engines than actually steering toward Brighton.",
         "tip_zh": "more time 后面接 doing；than 后面也尽量用同样结构，让比较更整齐。"
       },
       {
@@ -143,13 +138,13 @@
         "title": "very different from ... but no less exciting",
         "source": "It was very different from modern car races but no less exciting.",
         "focus_zh": "这个句式很适合写比较：先承认两件事不同，再说明后者一点也不差、同样精彩。",
-        "task_zh": "仿写一句：比较一个旧式活动和现代活动，说明它们不同但同样令人兴奋。",
+        "task_zh": "仿写一句：比较一个古老传统与一项现代活动，承认两者风格迥异，却强调前者同样令人激动或值得欣赏。",
         "must_include": [
           "very different from",
           "no less exciting"
         ],
-        "min_words": 12,
-        "sample": "The old bike race was very different from modern races but no less exciting.",
+        "min_words": 16,
+        "sample": "Watching these ancient machines crawl seaward is very different from modern motor sport, yet it is no less exciting to behold.",
         "tip_zh": "no less exciting 表示 just as exciting，不是 less exciting；不要把意思写反。"
       }
     ]
