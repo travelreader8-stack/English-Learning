@@ -1,101 +1,96 @@
 {
   "lesson_id": 57,
   "reading": {
-    "title": "The Casual Hoodie Visit",
-    "intro_zh": "这篇短文把 Lesson 57 的“same person, different treatment”换到现代摄影工作室：一个穿 hoodie 的学生先被轻视，后来工作人员发现他的真实身份和预约背景，态度马上改变。重点练习 hesitate、assistant、serve、the way he was dressed、glancing、scornfully、appointment、eager、with great difficulty 和 appearance。",
-    "word_bank": [
-      "hesitate",
-      "assistant",
-      "serve",
-      "the way he was dressed",
-      "glancing",
-      "scornfully",
-      "appointment",
-      "eager",
-      "with great difficulty",
-      "appearance"
-    ],
+    "title": "How Fast We Judge a Face",
+    "intro_zh": "这篇拓展阅读把 Lesson 57“以貌取人”的讽刺延伸到真实的心理学研究：人对陌生人的第一印象在十分之一秒内就形成，而且常常出错。内容改编自普林斯顿大学 Willis 与 Todorov 发表于《Psychological Science》的权威研究。",
+    "source": {
+      "title": "First impressions: making up your mind after a 100-ms exposure to a face (Willis & Todorov, Psychological Science, 2006)",
+      "publisher": "U.S. National Library of Medicine (PubMed), National Institutes of Health",
+      "url": "https://pubmed.ncbi.nlm.nih.gov/16866745/"
+    },
     "passage": [
-      "On Saturday morning, Daniel walked into a small camera studio in a hoodie and old trainers. He hesitated at the counter because the room looked very formal. The assistant noticed the way he was dressed and, glancing at him scornfully, asked him to wait by the door. Daniel politely explained that he had an appointment to test a new school video project, but she hardly listened. A few minutes later, the studio manager came out and greeted him warmly. Daniel was the young prize winner whose film the studio wanted to display. Not realizing who he was, the assistant suddenly felt embarrassed and was eager to serve him. With great difficulty, she set up the heavy lights herself. Daniel thanked her quietly and said that appearance should not decide respect."
+      "The shop assistant who scorned a customer for her ordinary clothes was acting on an impulse that psychologists now understand in remarkable detail. In a frequently cited study published in Psychological Science in 2006, the Princeton researchers Janine Willis and Alexander Todorov showed volunteers photographs of unfamiliar faces for as little as one hundred milliseconds, roughly a tenth of a second. Even after such a fleeting glimpse, the participants confidently rated each stranger for trustworthiness, competence, likeability, attractiveness and aggressiveness. Strikingly, these snap verdicts corresponded closely to the judgments people reached when given unlimited time to deliberate.",
+      "Granting observers more time did little to revise their conclusions. When the exposure was lengthened, the assessments themselves scarcely changed; what grew instead was the viewers' confidence that they were right. This tendency to extract sweeping conclusions from minimal visual evidence, which researchers call thin-slicing, probably evolved as an ancient survival mechanism, allowing our ancestors to gauge a potential threat in an instant. Yet the same reflex is easily misled. Because the brain draws such far-reaching social inferences from nothing more than a brief look at a stranger's face, these snap verdicts about trustworthiness or competence can be deeply inaccurate, mistaking a fleeting expression or an unfamiliar bone structure for evidence of character.",
+      "The practical lesson is sobering. First impressions are formed almost instantaneously, they resist later correction, and they frequently mislead. Recognising that our confident first verdicts may rest on nothing more substantial than a stranger's appearance is the first step toward judging people on what genuinely matters."
     ],
     "questions": [
       {
-        "id": "why_judged",
-        "question": "Why did the assistant judge Daniel at first?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "She noticed his hoodie and old trainers in a formal-looking studio.",
-          "She had already watched his film and disliked it.",
-          "Daniel spoke rudely as soon as he arrived.",
-          "The studio manager told her not to serve students."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "短文说 assistant noticed the way he was dressed，并且工作室看起来很正式，所以她根据 Daniel 的 hoodie 和旧运动鞋误判了他。"
-      },
-      {
-        "id": "wanted_help",
-        "question": "What did Daniel want help with?",
-        "options": [
-          "He wanted to repair a broken umbrella.",
-          "He wanted to buy an expensive coat from the shop window.",
-          "He wanted to test a new school video project at the studio.",
-          "He wanted to ask for directions to another school."
-        ],
-        "answer_index": 2,
-        "explanation_zh": "Daniel 解释自己 had an appointment to test a new school video project，所以他来工作室是为了测试学校视频项目。"
-      },
-      {
-        "id": "changed_context",
-        "question": "What new context changed the assistant's attitude?",
-        "options": [
-          "Daniel changed into a suit before speaking again.",
-          "The manager greeted Daniel and showed he was the prize winner whose film would be displayed.",
-          "The assistant found a ticket in Daniel's pocket.",
-          "Another customer complained about the lights."
+          "How shop assistants can be trained to treat every customer politely.",
+          "How rapidly and how unreliably people judge strangers from appearance.",
+          "Why attractive faces are more trustworthy than plain ones.",
+          "How clothing fashions have changed over the past century."
         ],
         "answer_index": 1,
-        "explanation_zh": "manager 出来热情地迎接 Daniel，并说明他是 young prize winner，这个真实身份让 assistant 发现自己误判了。"
+        "explanation_zh": "全文围绕“第一印象形成得极快、却常常不可靠”展开，用心理学研究说明人凭外表迅速评判陌生人，因此选项二概括了主旨。"
       },
       {
-        "id": "different_behavior",
-        "question": "How did the assistant behave differently later?",
+        "id": "detail_exposure",
+        "question": "According to the passage, how long did the volunteers see each unfamiliar face in the cited study?",
         "options": [
-          "She laughed at Daniel's school video project.",
-          "She asked Daniel to leave the studio at once.",
-          "She told the manager that Daniel had no appointment.",
-          "She became eager to serve him and set up the heavy lights herself."
+          "For a full minute of careful study.",
+          "For exactly ten seconds.",
+          "Until they felt completely certain of their answer.",
+          "For as little as one hundred milliseconds, about a tenth of a second."
         ],
         "answer_index": 3,
-        "explanation_zh": "态度变化体现在 was eager to serve him，还 with great difficulty set up the heavy lights herself。"
+        "explanation_zh": "文中明确说研究者向志愿者展示陌生面孔“for as little as one hundred milliseconds, roughly a tenth of a second”，所以是约十分之一秒。"
       },
       {
-        "id": "social_lesson",
-        "question": "What is the main lesson of the passage?",
+        "id": "cause_effect",
+        "question": "What happened when observers were given more time to look at the faces?",
         "options": [
-          "Students should never visit camera studios.",
-          "Appearance should not decide whether someone receives respect.",
-          "Old trainers are better than formal shoes.",
-          "People should make assistants do difficult work for fun."
+          "Their confidence increased, but their actual judgments scarcely changed.",
+          "They reversed almost all of their original ratings.",
+          "They became unable to make any decision at all.",
+          "They rated every stranger as more trustworthy."
         ],
-        "answer_index": 1,
-        "explanation_zh": "结尾 Daniel 平静地说 appearance should not decide respect，呼应 Lesson 57 的核心：不要只根据外表判断一个人。"
+        "answer_index": 0,
+        "explanation_zh": "文章说延长观看时间后，评判本身几乎没变，真正增加的是观看者“confidence that they were right”，因此正确答案是信心提高但判断几乎不变。"
+      },
+      {
+        "id": "inference",
+        "question": "What can we infer about why thin-slicing can lead people astray?",
+        "options": [
+          "Because most strangers deliberately try to deceive observers.",
+          "Because people never have enough time to look at a face.",
+          "Because the brain draws sweeping conclusions from facial appearance that do not reveal true character.",
+          "Because trustworthiness cannot be judged from a face at all."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "文中指出大脑仅凭短暂一瞥陌生人的面孔，就做出关于可信度或能力的深远社会推断，而这些推断可能严重失准——这正是快速判断容易出错的原因。"
+      },
+      {
+        "id": "vocab_in_context",
+        "question": "In the final paragraph, the word \"sobering\" most nearly means",
+        "options": [
+          "extremely amusing and lighthearted.",
+          "completely impossible to believe.",
+          "making one think seriously and feel concerned.",
+          "no longer affected by alcohol."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "sobering 在此处指“发人深省、令人警醒”，因为接下来说明第一印象快速形成、难以纠正且常常误导，让人不得不严肃对待，因此选“使人认真思考并感到担忧”。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 57 的外表误判句式：用 Though..., finally... 写犹豫后行动；用 did not like the way...was dressed 写根据衣着判断；用 Glancing at...scornfully 写轻蔑态度；用 Not realizing who...was 写误认身份；用 with great difficulty 写费劲完成的动作。",
+    "intro_zh": "今天把 Lesson 57 的五个“外表误判”句式提升到 B2+：用 Though..., finally... 写在压力或顾虑下最终行动；用 did not like the way...was dressed 写以衣着评判他人；用 Glancing at...scornfully 写句首分词带出轻蔑态度；用 Not realizing who...was 写因误认身份而做出的反应；用 with great difficulty 写费力完成的动作。每句都要更抽象、更复杂，但保留原有语法骨架。",
     "patterns": [
       {
         "id": "though_finally",
         "title": "Though ..., ... finally ...",
         "source": "Though she hesitated for a moment, she finally went in.",
         "focus_zh": "Though 先写犹豫、担心或阻碍，finally 再写人物最终采取行动，适合推动故事开头。",
-        "task_zh": "仿写一句：写一个人在门口、柜台前或活动现场犹豫了一下，但最后还是行动了。",
+        "task_zh": "仿写一句：写某人虽然背负着偏见、恐惧或外界压力，却在反复挣扎后最终做出一个改变处境的决定。",
         "must_include": [
           "Though",
           "finally"
         ],
-        "min_words": 10,
-        "sample": "Though Daniel felt nervous at the studio door, he finally walked to the counter.",
+        "min_words": 16,
+        "sample": "Though she was painfully aware that strangers had already judged her by her shabby coat, she finally summoned the courage to walk in.",
         "tip_zh": "Though 后面写让步背景，主句里用 finally 表示“还是做了”。"
       },
       {
@@ -103,13 +98,13 @@
         "title": "did not like the way ... was/were dressed",
         "source": "The assistant did not like the way she was dressed.",
         "focus_zh": "这个句式直接写出“根据穿着判断人”，是 Lesson 57 的社会反差核心。",
-        "task_zh": "仿写一句：写某人因为另一个人的穿着而产生错误判断。",
+        "task_zh": "仿写一句：写某个掌握权力或话语权的人因为别人的穿着而形成偏见，并因此做出不公平的对待。",
         "must_include": [
           "the way",
           "dressed"
         ],
-        "min_words": 10,
-        "sample": "The assistant did not like the way Daniel was dressed for the studio visit.",
+        "min_words": 16,
+        "sample": "The interviewer clearly did not like the way the young applicant was dressed, and dismissed his ideas before he had even finished speaking.",
         "tip_zh": "the way 后面接完整小句，如 he was dressed 或 they were dressed；不要写成 the way of dressed。"
       },
       {
@@ -117,13 +112,13 @@
         "title": "Glancing at ... scornfully, ...",
         "source": "Glancing at her scornfully, he told her that the dress was sold.",
         "focus_zh": "Glancing at...scornfully 把“看了一眼”和“看不起”的态度压缩到句首，画面感很强。",
-        "task_zh": "仿写一句：写某人轻蔑地看了别人一眼，然后说出冷淡或不友善的话。",
+        "task_zh": "仿写一句：写某人轻蔑地扫视另一个人之后，说出一句暴露其偏见或傲慢的冷淡话语。",
         "must_include": [
           "Glancing at",
           "scornfully"
         ],
-        "min_words": 10,
-        "sample": "Glancing at the boy scornfully, the assistant asked him to wait outside.",
+        "min_words": 16,
+        "sample": "Glancing at the newcomer scornfully, the senior partner remarked that talent rarely arrived in such inexpensive shoes.",
         "tip_zh": "逗号后面要接完整主句；scornfully 是态度，不要把它写成普通 quickly。"
       },
       {
@@ -131,12 +126,12 @@
         "title": "Not realizing who ... was, ...",
         "source": "Not realizing who she was, the assistant was eager to serve her.",
         "focus_zh": "这个句式说明人物因为没有认出身份而改变行为，适合写误会、反转和讽刺。",
-        "task_zh": "仿写一句：写某人没有认出另一个人的真实身份，于是做出了错误或夸张的反应。",
+        "task_zh": "仿写一句：写某人因为没有认出对方的真实身份或地位，而做出了与之前态度完全相反的夸张反应。",
         "must_include": [
           "Not realizing who"
         ],
-        "min_words": 10,
-        "sample": "Not realizing who Daniel was, the assistant asked him to wait by the door.",
+        "min_words": 16,
+        "sample": "Not realizing who the quiet visitor in the worn jacket really was, the manager treated him with a sudden, almost comical warmth.",
         "tip_zh": "Not realizing who...was 放句首，后面主句写因此发生的行为。"
       },
       {
@@ -144,12 +139,12 @@
         "title": "with great difficulty",
         "source": "With great difficulty, he climbed into the shop window.",
         "focus_zh": "with great difficulty 表示动作做得很费劲，能让故事里的服务、搬动、寻找或安装动作更有画面。",
-        "task_zh": "仿写一句：写某人费了很大劲完成一个安全但不容易的动作。",
+        "task_zh": "仿写一句：写某人在弥补自己先前的偏见或错误时，费尽力气完成一件原本可以轻松避免的麻烦事。",
         "must_include": [
           "with great difficulty"
         ],
-        "min_words": 10,
-        "sample": "With great difficulty, she moved the heavy lights across the studio.",
+        "min_words": 16,
+        "sample": "Anxious to undo the bad impression he had created, the clerk searched through the entire storeroom with great difficulty to find the very item he had earlier refused.",
         "tip_zh": "可以把 With great difficulty 放句首；后面写具体动作，避免只写 it was difficult。"
       }
     ]
