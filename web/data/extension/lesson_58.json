@@ -1,154 +1,149 @@
 {
   "lesson_id": 58,
   "reading": {
-    "title": "The Unlucky Bench",
-    "intro_zh": "这篇短文把 Lesson 58 的“坏名声反而带来游客和收入”换到一家小面包店门口的长椅：网上传言说它 unlucky，结果更多人来拍照和买点心。重点练习 blessing in disguise、is said to、possess、unlucky、reputation、visitor、remove、source of income、in spite of 和 so far。",
-    "word_bank": [
-      "blessing in disguise",
-      "is said to",
-      "possess",
-      "unlucky",
-      "reputation",
-      "visitor",
-      "remove",
-      "source of income",
-      "in spite of",
-      "so far"
-    ],
+    "title": "A Famous Mistake: The Leaning Tower of Pisa",
+    "intro_zh": "这篇短文讲一个真实的“塞翁失马，焉知非福”：比萨斜塔本是一处建筑缺陷，如今却成了城市最大的收入来源和象征。内容改编自权威媒体 HISTORY 的报道。",
+    "source": {
+      "title": "Why does the Leaning Tower of Pisa lean?",
+      "publisher": "HISTORY",
+      "url": "https://www.history.com/articles/why-does-the-leaning-tower-of-pisa-lean"
+    },
     "passage": [
-      "The little bakery at the end of King Street is said to possess an unlucky bench. For years, the green bench stood quietly beside the window, but last month a short online video gave it a strange reputation. The video claimed that any visitor who sat on it before buying bread would have a terrible day. Because the story was shared so widely, the number of visitors has increased. Some people only come to take photos, but many buy cakes while they are there. A few neighbours have asked the baker to remove the bench. He has pointed out that it has become a useful source of income. In spite of the silly rumour, visitors are asked to keep the bench clean and not scratch it. So far, not one of them has had bad luck."
+      "Few buildings have turned a defect into a fortune as completely as the Leaning Tower of Pisa. Construction of the white marble bell tower began in 1173, and eight storeys were originally planned. Trouble appeared almost at once. The foundation rested on a treacherous mixture of clay, sand and shells, which settled unevenly, and by the time the third storey was finished the structure had already begun to tilt towards the south. Far from solving the problem, the medieval builders made it worse: the chief engineer, Giovanni di Simone, added extra masonry to the shorter side, but the additional weight only dragged the tower further off vertical.",
+      "For centuries the lean was regarded as an embarrassing fault rather than a virtue. By 1990 the tower was leaning roughly 5.5 degrees from perpendicular, its most extreme angle ever recorded, and engineers feared it might eventually collapse. The monument was closed while a delicate rescue was attempted. Rather than propping it up, the engineers cautiously removed soil from beneath the higher side and added counterweights, coaxing the tower back towards upright until the tilt had eased to about four degrees. Yet nobody wanted the famous slant to vanish entirely.",
+      "The irony is that the very flaw which once threatened the tower is now its greatest asset. Visitors travel from every continent precisely because the structure refuses to stand straight, posing for photographs that pretend to hold it up. What began as a costly engineering blunder has become an enduring symbol of the city and a dependable source of income, proving that a misfortune can, in time, turn into a genuine blessing in disguise."
     ],
     "questions": [
       {
-        "id": "strange_reputation",
-        "question": "What place or object had a strange reputation?",
+        "id": "main_idea",
+        "question": "What is the main point the passage makes about the Leaning Tower of Pisa?",
         "options": [
-          "A tree near an old church.",
-          "A red bus in a busy station.",
-          "A green bench outside a little bakery.",
-          "A locked box in a school library."
+          "It is the oldest bell tower still standing in Italy.",
+          "Its construction was finished far ahead of schedule.",
+          "A building defect eventually became a valuable advantage.",
+          "Medieval engineers deliberately designed it to lean."
         ],
         "answer_index": 2,
-        "explanation_zh": "短文开头说小面包店据说 possess an unlucky bench，重点对象是店门口的 green bench。"
+        "explanation_zh": "全文围绕一个核心：斜塔原本是建筑缺陷（defect/flaw），最终却变成城市最大的财富与象征，即“因祸得福”。"
       },
       {
-        "id": "visitors_increased",
-        "question": "Why did the number of visitors increase?",
+        "id": "detail_foundation",
+        "question": "According to the passage, why did the tower begin to tilt during construction?",
         "options": [
-          "Because a short online video shared the bench's strange reputation.",
-          "Because the bakery gave away free bread every morning.",
-          "Because the baker removed the bench at once.",
-          "Because King Street became a new bus route."
+          "Its foundation rested on an uneven mixture of clay, sand and shells.",
+          "An earthquake shifted the ground beneath the cathedral.",
+          "The marble blocks were cut to the wrong size.",
+          "Strong winds pushed against the unfinished upper storeys."
         ],
         "answer_index": 0,
-        "explanation_zh": "短文说 a short online video 给长椅带来 strange reputation，故事被广泛分享后游客增加。"
+        "explanation_zh": "第一段说地基建在 clay, sand and shells 的混合层上，沉降不均，所以第三层完工时塔身就开始向南倾斜。"
       },
       {
-        "id": "rumour_claim",
-        "question": "What did people say would happen to anyone who sat on the bench before buying bread?",
+        "id": "cause_effect",
+        "question": "What happened when Giovanni di Simone added extra masonry to the shorter side?",
         "options": [
-          "He would get free cakes for a year.",
-          "He would find a lost wallet.",
-          "He would have to paint the bakery.",
-          "He would have a terrible day."
+          "The tower returned almost completely to vertical.",
+          "Construction was immediately abandoned for good.",
+          "The lean was hidden behind decorative stonework.",
+          "The added weight made the tower lean even more."
         ],
         "answer_index": 3,
-        "explanation_zh": "传言说 anyone who sat on it before buying bread would have a terrible day，这就是 unlucky reputation。"
+        "explanation_zh": "第一段说他往较矮的一侧加砌石料想补救，但额外的重量反而把塔拉得更偏离垂直，使倾斜加剧。"
       },
       {
-        "id": "source_of_income",
-        "question": "Why did the baker refuse to remove the bench?",
+        "id": "inference",
+        "question": "What can we infer about the engineers' goal during the 1990 rescue work?",
         "options": [
-          "Because the bench was too heavy for anyone to move.",
-          "Because it had become a useful source of income.",
-          "Because he believed the rumour completely.",
-          "Because visitors were not allowed to buy cakes."
+          "They wanted to demolish the tower and rebuild it straight.",
+          "They aimed to make it safer without removing its famous lean.",
+          "They hoped to increase the lean to attract more tourists.",
+          "They intended to close the monument permanently."
         ],
         "answer_index": 1,
-        "explanation_zh": "店主指出长椅已经成了 useful source of income，因为游客来了之后常常也会买蛋糕。"
+        "explanation_zh": "文中说他们把倾斜减到约四度，但“没有人希望这著名的倾斜彻底消失”，可推断目标是让塔更安全又保留招牌式的倾斜。"
       },
       {
-        "id": "evidence_undercuts",
-        "question": "How does the evidence undercut the rumour?",
+        "id": "vocab_treacherous",
+        "question": "In the first paragraph, the word \"treacherous\" describing the mixture of clay, sand and shells most nearly means",
         "options": [
-          "The bench has disappeared from King Street.",
-          "The baker stopped selling bread.",
-          "So far, not one visitor has had bad luck.",
-          "Every neighbour now refuses to pass the bakery."
+          "richly decorated.",
+          "perfectly level.",
+          "dangerously unreliable.",
+          "extremely expensive."
         ],
         "answer_index": 2,
-        "explanation_zh": "结尾的 So far, not one of them has had bad luck 用目前的证据削弱了传言。"
+        "explanation_zh": "treacherous 在这里形容地基材料“暗藏危险、不可靠”，正因为它沉降不均才导致塔身倾斜，所以最接近 dangerously unreliable。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 58 的传言和反差句式：用 is said to possess 报道传闻，用 Because..., the number of...has increased 写传播后的结果，用 It is said that if... 写条件传言，用 has pointed out that... 给出现实理由，最后用 So far, not one of them has... 写到目前为止的证据。",
+    "intro_zh": "今天抓五个 Lesson 58 的传言与反差句式，并把语境提升到 B2+：用 is said to possess 报道传闻，用 Because..., the number of...has increased 写传播后的结果，用 It is said that if... 写条件传言，用 has pointed out that... 给出冷静而现实的理由，最后用 So far, not one of them has... 用证据反衬传言。",
     "patterns": [
       {
         "id": "said_to_possess",
         "title": "is said to possess ...",
         "source": "The tiny village of Frinley is said to possess a 'cursed tree'.",
         "focus_zh": "is said to possess 用来报道传闻，意思是“据说拥有”，并不等于说话人已经证明它是真的。",
-        "task_zh": "仿写一句：写一个小店、小镇、学校角落或公共场所据说有一个奇怪但安全的东西。",
+        "task_zh": "仿写一句：写一座城市、博物馆或古老建筑据说拥有某个奇特之物，并暗示它如何吸引外界注意。",
         "must_include": [
           "is said to possess"
         ],
-        "min_words": 10,
-        "sample": "The tiny bakery is said to possess an unlucky green bench.",
-        "tip_zh": "主语可以是 a cafe、a shop、a school corner；possess 后面接它据说拥有的东西。"
+        "min_words": 16,
+        "sample": "The ancient cathedral city is said to possess a crooked tower that paradoxically attracts millions of curious visitors every single year.",
+        "tip_zh": "主语可换成 a city、a museum、an old building；possess 后接它据说拥有的稀奇之物，再补一句说明它带来的影响。"
       },
       {
         "id": "because_number_increased",
         "title": "Because ..., the number of ... has increased",
         "source": "Because the tree was mentioned in a newspaper, the number of visitors has now increased.",
         "focus_zh": "这个句式把原因和现在的结果连起来：因为某件事被传播，所以某个数量已经增加。",
-        "task_zh": "仿写一句：写一个传言、视频、新闻或帖子被传播后，游客、观众或顾客数量增加了。",
+        "task_zh": "仿写一句：写一处地方因为某个缺陷、争议或报道被广泛关注后，游客、读者或顾客的数量随之上升。",
         "must_include": [
           "the number of",
           "has increased"
         ],
-        "min_words": 12,
-        "sample": "Because the bench was mentioned online, the number of visitors has increased.",
-        "tip_zh": "Because 后面写传播原因；the number of 后面接复数名词，但动词用 has increased。"
+        "min_words": 16,
+        "sample": "Because the famous structural flaw was featured in a documentary, the number of tourists booking guided tours has increased sharply.",
+        "tip_zh": "Because 后写传播或报道的原因；the number of 后接复数名词，但谓语仍用单数 has increased。"
       },
       {
         "id": "it_is_said_that_if",
         "title": "It is said that if ..., ...",
         "source": "It is said that if anyone touches the tree, he will have bad luck.",
         "focus_zh": "It is said that if... 用来写“据说如果……就会……”，适合表达未经证明的条件传言。",
-        "task_zh": "仿写一句：写一个不吓人、不危险的传言，比如如果某人坐在某个座位上，就会遇到小麻烦。",
+        "task_zh": "仿写一句：写一个流传已久却无人证实的条件传言，语气要像在转述坊间说法，而非陈述事实。",
         "must_include": [
           "It is said that if"
         ],
-        "min_words": 12,
-        "sample": "It is said that if anyone sits on the bench, he will forget his umbrella.",
-        "tip_zh": "if 后面写条件，后半句写传言里的结果；语气要像报道传闻，不要写成事实。"
+        "min_words": 16,
+        "sample": "It is said that if any traveller climbs the tilting tower at midnight, he will be granted a single secret wish.",
+        "tip_zh": "if 从句写条件，主句写传言里的“后果”；保持转述语气，不要写成已被证实的事实。"
       },
       {
         "id": "has_pointed_out_that",
         "title": "has pointed out that ...",
         "source": "He has pointed out that the tree is a useful source of income.",
-        "focus_zh": "has pointed out that 表示“已经指出”，常用来给出一个清楚、现实的理由。",
-        "task_zh": "仿写一句：写店主、老师或管理员指出一个奇怪名声其实带来了游客、关注或收入。",
+        "focus_zh": "has pointed out that 表示“已经指出”，常用来在恐慌或误解之中给出冷静、现实的理由。",
+        "task_zh": "仿写一句：写某位专家、官员或管理者指出一个曾被视为缺点的特征其实带来了关注、声望或收入。",
         "must_include": [
           "has pointed out that"
         ],
-        "min_words": 12,
-        "sample": "The baker has pointed out that the bench is a useful source of income.",
-        "tip_zh": "that 后面接完整句子；理由要具体，比如 brings visitors 或 is a source of income。"
+        "min_words": 16,
+        "sample": "The city's chief engineer has pointed out that the very defect once thought shameful is now its most profitable attraction.",
+        "tip_zh": "that 后接完整句子；理由要具体，比如 brings worldwide attention 或 is a source of income。"
       },
       {
         "id": "so_far_not_one",
         "title": "So far, not one of them has ...",
         "source": "So far, not one of them has been struck down by sudden death.",
-        "focus_zh": "So far, not one of them has... 用现在完成时写“到目前为止没有一个人……”，能用证据反衬传言。",
-        "task_zh": "仿写一句：写很多人听过传言或去过某个地方，但到目前为止没有一个人真的遇到传言里的结果。",
+        "focus_zh": "So far, not one of them has... 用现在完成时写“到目前为止没有一个人……”，用证据反衬传言。",
+        "task_zh": "仿写一句：写很多人听过某个夸张传言并亲自前往验证，但到目前为止没有一个人遇到传言所说的结果。",
         "must_include": [
           "So far, not one of them has"
         ],
-        "min_words": 12,
-        "sample": "So far, not one of them has had bad luck after visiting the bakery.",
-        "tip_zh": "So far 后面常接现在完成时；用它来写 evidence，不要再扩大传言本身。"
+        "min_words": 16,
+        "sample": "Thousands of sceptical tourists have leaned against the famous tower to test the legend, yet so far, not one of them has come to any harm.",
+        "tip_zh": "So far 后常接现在完成时；用它陈述目前的证据，不要再把传言本身夸大。"
       }
     ]
   }
