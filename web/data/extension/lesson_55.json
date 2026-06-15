@@ -1,101 +1,95 @@
 {
   "lesson_id": 55,
   "reading": {
-    "title": "The Old Box Search",
-    "intro_zh": "这篇短文把 Lesson 55 的“期待很大、结果很小、仍然有希望”换到安全的学校历史社团场景：学生发现旧盒子里的线索，带着探测工具去找可能的 treasure，最后只找到一个 almost worthless 的小物件。重点练习 treasure、detect、buried、signal、armed with、examine、showed that、in spite of 等表达。",
-    "word_bank": [
-      "treasure",
-      "detect",
-      "buried",
-      "signal",
-      "display",
-      "armed with",
-      "examine",
-      "showed that",
-      "almost worthless",
-      "in spite of"
-    ],
+    "title": "The Staffordshire Hoard",
+    "intro_zh": "本课主题是“探测埋藏的黄金”。这篇拓展阅读讲一个真实的探测寻宝故事——2009 年英格兰一名业余金属探测爱好者意外发现了迄今最大的盎格鲁-撒克逊金银宝藏，与课文“期待很大、结果很小”形成对照。内容改编自权威媒体 National Geographic 的报道。",
+    "source": {
+      "title": "Staffordshire Gold Hoard",
+      "publisher": "National Geographic",
+      "url": "https://www.nationalgeographic.com/magazine/article/staffordshire-gold-hoard-treasure-discovery"
+    },
     "passage": [
-      "During a history-club cleanup, Nora opened an old box in a school cupboard. Inside was a faded note. It said that a prize had been buried near the old garden bench for a future display. Armed with a small metal detector and the teacher's permission, the club formed a careful search party. The detector gave a clear signal beside the bench, so Nora began to examine the soil while the others watched excitedly. The signal showed that something metal was under the ground. After ten minutes, they found a rusty badge from an old sports day. It was almost worthless, not the treasure they had imagined. In spite of this, the club kept the badge for the display and believed another clue might lead to something of value later."
+      "In July 2009, an amateur enthusiast named Terry Herbert swept his metal detector across a freshly ploughed field near Lichfield, in the English county of Staffordshire. The device, which works by sensing how buried metal disturbs an electromagnetic field, signalled repeatedly. What it had detected was not the odd coin he usually recovered, but the largest hoard of Anglo-Saxon gold and silver ever unearthed. Archaeologists eventually catalogued thousands of fragments, amounting to more than eleven pounds of gold alone, together with silver and some 3,500 garnets cut for inlay. Almost every piece was war gear: sword-hilt fittings, pommel caps, and stripped helmet decorations, rather than the domestic objects or jewellery that hoards usually contain.",
+      "Curiously, many of the objects had been deliberately bent or torn from the weapons they once adorned, hinting at ritual rather than ordinary concealment. Specialists date the burial to the mid-seventh century, when the field lay in the heartland of Mercia, a powerful and often warlike Anglo-Saxon kingdom. Why such wealth was committed to the soil, and never recovered, remains genuinely uncertain; the political turbulence of the period offers only a partial explanation. In spite of this lingering mystery, the find has transformed scholarly understanding of early medieval craftsmanship and military culture. Officially valued at over three million pounds, the hoard now resides in regional museums, a vivid reminder that a single ambiguous signal can occasionally reveal something of extraordinary value."
     ],
     "questions": [
       {
-        "id": "hoped_to_find",
-        "question": "What did the history club hope to find?",
+        "id": "main_idea",
+        "question": "What is the passage mainly about?",
         "options": [
-          "A buried prize that could become part of a display.",
-          "A new garden bench for the school yard.",
-          "A map to a cave near the sea.",
-          "A box of sports uniforms."
-        ],
-        "answer_index": 0,
-        "explanation_zh": "旧纸条说有一个 prize had been buried near the old garden bench for a future display，所以他们期待找到能展出的奖品。"
-      },
-      {
-        "id": "exciting_signal",
-        "question": "What made the club excited beside the bench?",
-        "options": [
-          "Nora found a fresh flower under the bench.",
-          "The teacher promised them a day off.",
-          "The metal detector gave a clear signal.",
-          "The old box suddenly opened by itself."
+          "How metal detectors are manufactured and sold to hobbyists.",
+          "The history of every Anglo-Saxon kingdom in England.",
+          "A remarkable buried treasure discovered by an amateur and what it reveals.",
+          "Why archaeologists disapprove of amateur metal detecting."
         ],
         "answer_index": 2,
-        "explanation_zh": "短文说 The detector gave a clear signal beside the bench，这个 signal 让大家觉得地下可能有东西。"
+        "explanation_zh": "全文围绕一位业余探测爱好者发现的非凡宝藏，以及它如何改变学界对早期工艺与军事文化的认识，属于主旨题，正确答案是 C。"
       },
       {
-        "id": "actual_find",
-        "question": "What did they actually find after ten minutes?",
+        "id": "detail_contents",
+        "question": "According to the passage, most of the objects in the hoard were",
         "options": [
-          "A valuable ring for the display.",
-          "A rusty badge from an old sports day.",
-          "A heavy chest full of coins.",
-          "A second metal detector."
-        ],
-        "answer_index": 1,
-        "explanation_zh": "结果不是想象中的宝物，而是 a rusty badge from an old sports day。"
-      },
-      {
-        "id": "disappointing_result",
-        "question": "Why was the result disappointing?",
-        "options": [
-          "The garden bench was too heavy to move.",
-          "The teacher asked them to stop the club forever.",
-          "The detector could not find any signal at all.",
-          "The badge was almost worthless, not the treasure they had imagined."
-        ],
-        "answer_index": 3,
-        "explanation_zh": "关键落差在 almost worthless：他们想象的是 treasure，找到的却是几乎不值钱的旧徽章。"
-      },
-      {
-        "id": "hope_remains",
-        "question": "Why did hope remain in spite of the small result?",
-        "options": [
-          "The club believed another clue might lead to something of value later.",
-          "The rusty badge became expensive at once.",
-          "Nora decided to hide the note again.",
-          "The teacher said the search was only a game with no clues."
+          "war gear such as sword fittings and helmet decorations.",
+          "everyday domestic vessels and eating utensils.",
+          "women's jewellery and personal ornaments.",
+          "coins from across the Roman Empire."
         ],
         "answer_index": 0,
-        "explanation_zh": "结尾说 they believed another clue might lead to something of value later，所以小结果之后还有希望。"
+        "explanation_zh": "文中说 Almost every piece was war gear: sword-hilt fittings, pommel caps, and stripped helmet decorations，而不是家用器物或首饰，故选 A。"
+      },
+      {
+        "id": "process_signal",
+        "question": "How does the metal detector indicate that something is buried below?",
+        "options": [
+          "It photographs the soil beneath the surface.",
+          "It measures changes in the temperature of the ground.",
+          "It chemically tests the dirt for traces of gold.",
+          "It senses how buried metal disturbs an electromagnetic field."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "文中解释探测器 works by sensing how buried metal disturbs an electromagnetic field，即靠金属对电磁场的扰动来探测，故选 D。"
+      },
+      {
+        "id": "inference_ritual",
+        "question": "The fact that many objects were deliberately bent or torn suggests that",
+        "options": [
+          "the metal detector damaged them during recovery.",
+          "they were treated in a ritual way rather than simply hidden for safekeeping.",
+          "they were cheap imitations not worth preserving.",
+          "farmers had crushed them with ploughs over the centuries."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "文中说这些被故意弯折或撕扯的物件 hinting at ritual rather than ordinary concealment，可推断它们是被以仪式方式处理，而非单纯藏匿，故选 B。"
+      },
+      {
+        "id": "vocab_committed",
+        "question": "In \"why such wealth was committed to the soil,\" the word \"committed\" most nearly means",
+        "options": [
+          "promised in a formal agreement.",
+          "carried out as a crime.",
+          "placed or consigned (into the ground).",
+          "devoted with strong loyalty."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "此处 committed to the soil 指把财富“放入/交付给”土壤，即埋入地下，故选 C；其他义项不符合语境。"
       }
     ]
   },
   "writing": {
-    "intro_zh": "今天抓五个 Lesson 55 的寻宝反讽句式：用 Dreams of ... almost came true 写期待差点成真，用 called...has been invented 写被命名的新发明，用 has been used to detect... 写工具用途，用 Armed with... 写带着准备出发，最后用 In spite of this,... 写结果不理想但希望仍在。",
+    "intro_zh": "今天抓五个 Lesson 55 的寻宝反讽句式，并把它们升级到更抽象、更书面的 B2+ 语境：用 Dreams of ... almost came true 写期待差点成真，用 called...has been invented 写被命名的新发明，用 has been used to detect... 写工具的探测用途，用 Armed with... 写带着装备与准备出发，最后用 In spite of this,... 写结果不尽如人意但信心仍在。",
     "patterns": [
       {
         "id": "dreams_almost_came_true",
         "title": "Dreams of ... almost came true",
         "source": "Dreams of finding lost treasure almost came true recently.",
         "focus_zh": "这个句式把一个长期期待写成“差点真的发生”，很适合铺垫寻宝、比赛、发明或发现故事。",
-        "task_zh": "仿写一句：写某个梦想、计划或期待差点成真，但先不要直接说最后结果。",
+        "task_zh": "仿写一句：写一个长期的、抽象的梦想（如名誉、事业、科研突破）差点成真，但先不揭示最终结果。",
         "must_include": [
           "Dreams of",
           "almost came true"
         ],
-        "min_words": 10,
-        "sample": "Dreams of finding the old school prize almost came true during the cleanup.",
+        "min_words": 14,
+        "sample": "Dreams of restoring the family's reputation almost came true the moment the long-lost manuscript surfaced.",
         "tip_zh": "Dreams of 后面接名词或动词 -ing；almost came true 放在后半句制造期待。"
       },
       {
@@ -103,13 +97,13 @@
         "title": "called ... has been invented",
         "source": "A new machine called 'The Revealer' has been invented.",
         "focus_zh": "called... 用来给物品或工具命名；has been invented 是现在完成时被动语态，强调“已经被发明出来”。",
-        "task_zh": "仿写一句：写一台有名字的新工具或新机器已经被发明出来。",
+        "task_zh": "仿写一句：写一台有名字、用途专业或抽象的新仪器/方法已经被发明出来。",
         "must_include": [
           "called",
           "has been invented"
         ],
-        "min_words": 10,
-        "sample": "A small school tool called the Finder has been invented for lost keys.",
+        "min_words": 18,
+        "sample": "A compact survey instrument called the GroundReader has been invented to map the faint metallic traces hidden beneath archaeological sites.",
         "tip_zh": "called 后面直接接名字；has been invented 前面的主语应是工具、机器或方法。"
       },
       {
@@ -117,12 +111,12 @@
         "title": "has been used to detect ...",
         "source": "It has been used to detect gold which has been buried in the ground.",
         "focus_zh": "has been used to detect... 能说明一个工具被用来发现看不见或藏起来的东西，和本课机器逻辑直接相关。",
-        "task_zh": "仿写一句：写一种工具被用来探测、发现或检查隐藏的东西。",
+        "task_zh": "仿写一句：写一种工具长期以来被用来探测某种隐蔽、抽象或难以察觉的问题（如腐蚀、污染、故障）。",
         "must_include": [
           "has been used to detect"
         ],
-        "min_words": 10,
-        "sample": "The small detector has been used to detect metal under the garden soil.",
+        "min_words": 18,
+        "sample": "Over the past decade the device has been used to detect corrosion deep inside ageing bridges long before any crack becomes visible.",
         "tip_zh": "detect 后面接被探测的东西，如 metal, heat, movement, sound；不要把 detect 写成普通的 see。"
       },
       {
@@ -130,12 +124,12 @@
         "title": "Armed with ..., ...",
         "source": "Armed with the new machine, a search party went into the cave...",
         "focus_zh": "Armed with 在本课里不是“拿武器”，而是“带着某种装备或准备”。它适合放在句首，先写准备，再写行动。",
-        "task_zh": "仿写一句：写某人带着工具、线索或许可，开始一次安全的搜索或调查。",
+        "task_zh": "仿写一句：写某人带着有限的工具、线索或知识，去调查一个复杂或不确定的对象。",
         "must_include": [
           "Armed with"
         ],
-        "min_words": 11,
-        "sample": "Armed with a note and a small detector, Nora examined the garden carefully.",
+        "min_words": 16,
+        "sample": "Armed with little more than a faded map and stubborn curiosity, the volunteers set out to investigate the abandoned mining settlement.",
         "tip_zh": "Armed with..., 后面要接完整句子；这里重点是 equipped with，不要写成危险动作。"
       },
       {
@@ -143,12 +137,12 @@
         "title": "In spite of this, ...",
         "source": "In spite of this, many people are confident...",
         "focus_zh": "In spite of this 把“结果让人失望”和“仍然有信心”连起来，是本课最后反转的核心连接词。",
-        "task_zh": "仿写一句：先承认一个小失败或失望结果，再写人们仍然相信、继续寻找或保持希望。",
+        "task_zh": "仿写一句：先承认一个令人沮丧的挫折或失望，再写人们仍然坚信、继续探索或抱有希望。",
         "must_include": [
           "In spite of this"
         ],
-        "min_words": 11,
-        "sample": "In spite of this, the club believed another clue might reveal something valuable.",
+        "min_words": 16,
+        "sample": "In spite of this discouraging setback, the research team remained convinced that a more thorough survey would eventually reveal something genuinely valuable.",
         "tip_zh": "逗号后面写新的态度或行动；不要再加 although，直接写 In spite of this, 主语 + 动词。"
       }
     ]
