@@ -1,0 +1,116 @@
+{
+  "lesson_id": 67,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按“科学家长期研究 -> 前往 Lake Kivu -> 靠近喷发扎营 -> 设法拍照但不能久留 -> 岩浆逼近 -> 及时逃脱 -> 返回火山口测温 -> 贡献观察”的故事线跟读。重点读清 active volcanoes、was able to、managed to、could not、liquid rock、just in time 和 so that 的目的关系。",
+  "sentences": [
+    {
+      "id": "l67_s1",
+      "text": "Haroun Tazieff, the Polish scientist, has spent his lifetime studying active volcanoes and deep caves in all parts of the world.",
+      "focus_zh": "中文锚点：波兰科学家 Tazieff 一生研究世界各地的活火山和很深的洞穴。注意插入语 the Polish scientist 读轻一点，has spent his lifetime 是长期投入。",
+      "start": 280.509,
+      "end": 288.021,
+      "focus_words": [
+        "Haroun Tazieff",
+        "the Polish scientist",
+        "has spent his lifetime",
+        "active volcanoes",
+        "deep caves"
+      ]
+    },
+    {
+      "id": "l67_s2",
+      "text": "In 1948, he went to Lake Kivu in the Congo to observe a new volcano which he later named Kituro.",
+      "focus_zh": "中文锚点：一九四八年，他去刚果的 Lake Kivu 观察一座后来命名为 Kituro 的新火山。地点短语要稳，which 引导的补充说明不要读散。",
+      "start": 288.37,
+      "end": 295.09,
+      "focus_words": [
+        "In 1948",
+        "Lake Kivu",
+        "the Congo",
+        "to observe",
+        "named Kituro"
+      ]
+    },
+    {
+      "id": "l67_s3",
+      "text": "Tazieff was able to set up his camp very close to the volcano while it was erupting violently.",
+      "focus_zh": "中文锚点：火山猛烈喷发时，他仍然能够在离火山很近的地方扎营。was able to 读出具体做到，while 后面读出危险背景。",
+      "start": 295.44,
+      "end": 301.224,
+      "focus_words": [
+        "was able to",
+        "set up his camp",
+        "very close",
+        "while",
+        "erupting violently"
+      ]
+    },
+    {
+      "id": "l67_s4",
+      "text": "Though he managed to take a number of brilliant photographs, he could not stay near the volcano for very long.",
+      "focus_zh": "中文锚点：虽然他设法拍到精彩照片，但不能在火山附近久留。Though 先让步，managed to 表示困难中成功，could not 标出限制。",
+      "start": 301.574,
+      "end": 307.862,
+      "focus_words": [
+        "Though",
+        "managed to take",
+        "brilliant photographs",
+        "could not stay",
+        "for very long"
+      ]
+    },
+    {
+      "id": "l67_s5",
+      "text": "He noticed that a river of liquid rock was coming towards him.",
+      "focus_zh": "中文锚点：他发现一股液态岩石正向他流来。a river of liquid rock 要作为一个画面读出来，coming towards him 读出逼近感。",
+      "start": 308.212,
+      "end": 312.244,
+      "focus_words": [
+        "noticed",
+        "a river of liquid rock",
+        "was coming",
+        "towards him"
+      ]
+    },
+    {
+      "id": "l67_s6",
+      "text": "It threatened to surround him completely, but Tazieff managed to escape just in time.",
+      "focus_zh": "中文锚点：它几乎要完全包围他，但 Tazieff 设法及时逃脱。threatened to surround 读出危险，just in time 不要吞掉。",
+      "start": 312.594,
+      "end": 317.85,
+      "focus_words": [
+        "threatened",
+        "surround him completely",
+        "managed to escape",
+        "just in time"
+      ]
+    },
+    {
+      "id": "l67_s7",
+      "text": "This time, he managed to climb into the mouth of Kituro so that he could take photographs and measure temperatures.",
+      "focus_zh": "中文锚点：这一次，他设法爬进 Kituro 的火山口，以便拍照和测温。managed to climb 读出困难，so that 后说明目的。",
+      "start": 323.926,
+      "end": 330.358,
+      "focus_words": [
+        "This time",
+        "managed to climb",
+        "the mouth of Kituro",
+        "so that",
+        "measure temperatures"
+      ]
+    },
+    {
+      "id": "l67_s8",
+      "text": "He has been able to tell us more about active volcanoes than any man alive.",
+      "focus_zh": "中文锚点：他能告诉我们比任何在世的人都更多的活火山知识。has been able to 是长期结果，than any man alive 读出最终评价。",
+      "start": 334.441,
+      "end": 339.241,
+      "focus_words": [
+        "has been able to",
+        "tell us more",
+        "active volcanoes",
+        "any man alive"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1932 @@
+{
+  "total_duration": 643.63,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 3.48,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果一座火山正在喷发，你会靠近它吗？"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 3.83,
+      "end": 5.91,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "大多数人当然会离远一点。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 6.26,
+      "end": 12.9,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是火山科学家有一个很难的任务：他们要靠近事实，也要尊重危险。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 13.25,
+      "end": 20.21,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Tazieff 拍照、测温、观察岩浆；当岩浆逼近时，他也及时撤退。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 20.56,
+      "end": 27.375,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天我们抓住一个核心感觉："
+        },
+        {
+          "lang": "en",
+          "text": "manage to do something"
+        },
+        {
+          "lang": "zh",
+          "text": "，困难很大，但设法做到了。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 27.725,
+      "end": 31.485,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，先认识这个人和他的研究对象。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 31.835,
+      "end": 37.795,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：Tazieff 一生研究世界各地的活火山和很深的洞穴。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 38.145,
+      "end": 43.861,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "has spent his lifetime studying active volcanoes and deep caves"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 44.211,
+      "end": 53.427,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Active volcanoes"
+        },
+        {
+          "lang": "zh",
+          "text": "不是安静的普通山，而是可能喷发、释放热量和气体的火山。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 53.777,
+      "end": 61.297,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他不是为了刺激才靠近危险，而是为了 observe, photograph, measure，拿到真实证据。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 61.646,
+      "end": 69.222,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "has spent his lifetime, active volcanoes, deep caves, in all parts of the world"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 69.572,
+      "end": 73.692,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，故事来到一九四八年的 Central Africa。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 74.042,
+      "end": 80.682,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：他来到刚果的 Lake Kivu，观察一座后来被命名为 Kituro 的新火山。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 81.032,
+      "end": 86.22,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "he went to Lake Kivu in the Congo to observe a new volcano"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 86.57,
+      "end": 91.73,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "火山正在猛烈喷发，可是 Tazieff 仍然在近处扎营观察。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 92.08,
+      "end": 99.68,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文的关键句是："
+        },
+        {
+          "lang": "en",
+          "text": "was able to set up his camp very close to the volcano while it was erupting violently"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 100.029,
+      "end": 107.133,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "Lake Kivu, the Congo, Kituro, set up his camp, erupting violently"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 107.483,
+      "end": 110.803,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，危险真正靠近了。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 111.153,
+      "end": 120.473,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：他设法拍到精彩照片，但不能久留，因为一股液态岩石向他流来，几乎要包围他。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 120.823,
+      "end": 128.627,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Though he managed to take a number of brilliant photographs, he could not stay near the volcano for very long"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 128.977,
+      "end": 135.873,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A river of liquid rock"
+        },
+        {
+          "lang": "zh",
+          "text": "不是水河，而是熔岩一样的液态岩石。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 136.223,
+      "end": 141.57,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它"
+        },
+        {
+          "lang": "en",
+          "text": "threatened to surround him completely"
+        },
+        {
+          "lang": "zh",
+          "text": "，所以 Tazieff 必须撤退。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 141.92,
+      "end": 150.48,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "managed to take photographs, could not stay, liquid rock, managed to escape just in time"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 150.83,
+      "end": 154.83,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，火山平静以后，他又回来了。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 155.18,
+      "end": 161.38,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：两天后，他返回 Kituro，进入火山口拍照并测量温度。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 161.73,
+      "end": 165.694,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "he was able to return two days later"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 166.044,
+      "end": 173.248,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "又说："
+        },
+        {
+          "lang": "en",
+          "text": "he managed to climb into the mouth of Kituro so that he could take photographs and measure temperatures"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 173.597,
+      "end": 179.565,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The mouth of Kituro"
+        },
+        {
+          "lang": "zh",
+          "text": "是火山口，不是真正的嘴。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 179.915,
+      "end": 188.667,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后记住："
+        },
+        {
+          "lang": "en",
+          "text": "became quiet, was able to return, mouth of Kituro, measure temperatures, more about active volcanoes"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 189.017,
+      "end": 195.444,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，为什么科学家要靠近正在喷发的火山？这不是太危险了吗？"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 195.793,
+      "end": 204.593,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "危险是真的，所以不能把它说成好玩。科学家靠近，是为了观察、拍照、测温，得到直接 evidence。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 204.943,
+      "end": 207.893,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那 Tazieff 是不是只靠勇敢？"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 208.243,
+      "end": 216.243,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不只是 brave。他先观察，设法拍照；危险逼近时，他离开；火山平静后，他再回来。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 216.593,
+      "end": 219.192,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以真正重要的是 judgment？"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 219.541,
+      "end": 225.341,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。科学探索不是一直往前冲，而是在 ability 和 danger 之间判断。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 225.691,
+      "end": 232.064,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Manage to"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "was able to"
+        },
+        {
+          "lang": "zh",
+          "text": "有什么不同？"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 232.414,
+      "end": 242.038,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Was able to"
+        },
+        {
+          "lang": "zh",
+          "text": "说明在一个具体情况里做到了；"
+        },
+        {
+          "lang": "en",
+          "text": "managed to"
+        },
+        {
+          "lang": "zh",
+          "text": "更强调困难很大，但成功完成。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 242.388,
+      "end": 248.09,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "比如"
+        },
+        {
+          "lang": "en",
+          "text": "managed to take photographs"
+        },
+        {
+          "lang": "zh",
+          "text": "，说明拍照片不容易？"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 248.44,
+      "end": 254.679,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。还有"
+        },
+        {
+          "lang": "en",
+          "text": "managed to escape just in time"
+        },
+        {
+          "lang": "zh",
+          "text": "，说明逃出来很惊险。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 255.029,
+      "end": 258.775,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的科学家还会这样靠近火山吗？"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 259.125,
+      "end": 268.365,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "有时仍要 fieldwork，但现代科学会尽量更安全：drones, remote sensors, thermal cameras, safety teams。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 268.715,
+      "end": 271.209,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以勇气不是不怕危险。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 271.559,
+      "end": 280.159,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Exactly. Real courage means doing careful work near a difficult truth, and stepping back when danger comes too close."
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 280.509,
+      "end": 288.021,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Haroun Tazieff, the Polish scientist, has spent his lifetime studying active volcanoes and deep caves in all parts of the world."
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 288.37,
+      "end": 295.09,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In 1948, he went to Lake Kivu in the Congo to observe a new volcano which he later named Kituro."
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 295.44,
+      "end": 301.224,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Tazieff was able to set up his camp very close to the volcano while it was erupting violently."
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 301.574,
+      "end": 307.862,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Though he managed to take a number of brilliant photographs, he could not stay near the volcano for very long."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 308.212,
+      "end": 312.244,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He noticed that a river of liquid rock was coming towards him."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 312.594,
+      "end": 317.85,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It threatened to surround him completely, but Tazieff managed to escape just in time."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 318.2,
+      "end": 323.576,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He waited until the volcano became quiet and he was able to return two days later."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 323.926,
+      "end": 330.358,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "This time, he managed to climb into the mouth of Kituro so that he could take photographs and measure temperatures."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 330.708,
+      "end": 334.092,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Tazieff has often risked his life in this way."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 334.441,
+      "end": 339.241,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He has been able to tell us more about active volcanoes than any man alive."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 339.591,
+      "end": 342.463,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "active"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组词："
+        },
+        {
+          "lang": "en",
+          "text": "active"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 342.813,
+      "end": 344.493,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "active"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Active"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 344.843,
+      "end": 352.355,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "active"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Active"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里不是“积极发言”的 active，而是“正在活动的、可能喷发的”。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 352.705,
+      "end": 359.841,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "active"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Active volcanoes"
+        },
+        {
+          "lang": "zh",
+          "text": "就是活火山，可能喷发、释放热量、气体和 lava。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 360.191,
+      "end": 367.046,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "active"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文第一句说 Tazieff spent his lifetime studying"
+        },
+        {
+          "lang": "en",
+          "text": "active volcanoes"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 367.396,
+      "end": 373.716,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "active"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它的反面可以是 quiet, inactive, extinct，但这一课不需要展开地质分类。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 374.066,
+      "end": 385.626,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "active"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "相关词一起记："
+        },
+        {
+          "lang": "en",
+          "text": "volcano"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "erupt"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "violently"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "liquid rock"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "measure temperatures"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 385.976,
+      "end": 388.944,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "manage"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组词："
+        },
+        {
+          "lang": "en",
+          "text": "manage"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 389.293,
+      "end": 390.925,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "manage"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Manage"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 391.275,
+      "end": 395.411,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "manage"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Manage to do something"
+        },
+        {
+          "lang": "zh",
+          "text": "是设法做成某事。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 395.761,
+      "end": 401.561,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "manage"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它不只是 do，也不只是 can；它带着 difficulty and success。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 401.911,
+      "end": 411.583,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "manage"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里有三次很重要："
+        },
+        {
+          "lang": "en",
+          "text": "managed to take photographs"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "managed to escape"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "managed to climb"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 411.933,
+      "end": 418.453,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "manage"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "每一次都不是轻松完成。拍照难，逃脱急，进入火山口也危险。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 418.802,
+      "end": 424.266,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "manage"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以你听到"
+        },
+        {
+          "lang": "en",
+          "text": "managed to"
+        },
+        {
+          "lang": "zh",
+          "text": "，要想到“费劲，但成功了”。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 424.616,
+      "end": 427.672,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "escape"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组词："
+        },
+        {
+          "lang": "en",
+          "text": "escape"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 428.022,
+      "end": 429.726,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "escape"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Escape"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 430.076,
+      "end": 435.692,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "escape"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Escape"
+        },
+        {
+          "lang": "zh",
+          "text": "是从危险中逃离，比普通的 leave 更紧张。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 436.042,
+      "end": 440.318,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "escape"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Tazieff managed to escape just in time"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 440.667,
+      "end": 446.299,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "escape"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Just in time"
+        },
+        {
+          "lang": "zh",
+          "text": "是刚刚及时，再晚一点就可能出问题。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 446.649,
+      "end": 455.213,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "escape"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的 danger 是"
+        },
+        {
+          "lang": "en",
+          "text": "a river of liquid rock"
+        },
+        {
+          "lang": "zh",
+          "text": "正向他流来，而且"
+        },
+        {
+          "lang": "en",
+          "text": "threatened to surround him completely"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 455.563,
+      "end": 462.579,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "escape"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "escape"
+        },
+        {
+          "lang": "zh",
+          "text": "有压力，也有判断：该撤退的时候，马上撤退。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 462.929,
+      "end": 472.409,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法不从表格开始，而从一句中文开始：他能靠近火山，但不能久留；他设法拍照，也设法逃脱。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 472.758,
+      "end": 476.558,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一条线是 ability under pressure。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 476.908,
+      "end": 482.728,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "was able to set up his camp"
+        },
+        {
+          "lang": "zh",
+          "text": "，说明他在真实困难中做到了。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 483.078,
+      "end": 489.082,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "又说："
+        },
+        {
+          "lang": "en",
+          "text": "could not stay near the volcano for very long"
+        },
+        {
+          "lang": "zh",
+          "text": "，说明能力有边界。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 489.432,
+      "end": 497.18,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后面还有："
+        },
+        {
+          "lang": "en",
+          "text": "was able to return two days later"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "has been able to tell us more"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 497.529,
+      "end": 501.129,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二条线是"
+        },
+        {
+          "lang": "en",
+          "text": "manage to do"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 501.479,
+      "end": 510.775,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Managed to take"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "managed to escape"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "managed to climb"
+        },
+        {
+          "lang": "zh",
+          "text": "，都是困难中成功完成。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 511.125,
+      "end": 513.125,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三条线是连接词。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 513.475,
+      "end": 520.643,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Though he managed to take photographs, he could not stay"
+        },
+        {
+          "lang": "zh",
+          "text": "，Though 先说成功，再转出限制。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 520.992,
+      "end": 526.868,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "So that he could take photographs and measure temperatures"
+        },
+        {
+          "lang": "zh",
+          "text": "，so that 说明目的。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 527.218,
+      "end": 539.914,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天带走三组判断："
+        },
+        {
+          "lang": "en",
+          "text": "was able to"
+        },
+        {
+          "lang": "zh",
+          "text": "是具体做到了，"
+        },
+        {
+          "lang": "en",
+          "text": "could not"
+        },
+        {
+          "lang": "zh",
+          "text": "是不能越线，"
+        },
+        {
+          "lang": "en",
+          "text": "managed to"
+        },
+        {
+          "lang": "zh",
+          "text": "是困难中成功。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 540.264,
+      "end": 547.256,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把火山现场换成一个安全的学校科学观察场景："
+        },
+        {
+          "lang": "en",
+          "text": "The Safe Volcano Team"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 547.605,
+      "end": 551.725,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你和同学在观察一个 volcano model 或 remote camera feed。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 552.075,
+      "end": 561.715,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你们想获得 evidence，但老师提醒大家：不能靠近危险，必须使用 camera, sensor, safe distance。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 562.065,
+      "end": 569.665,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你要说明三件事：what you observed, what you managed to do, and why you used safe tools。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 570.015,
+      "end": 576.391,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "比如可以说："
+        },
+        {
+          "lang": "en",
+          "text": "We managed to take clear photographs and measure temperatures from a safe place"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 576.741,
+      "end": 586.901,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，用 word bank 补完整 5 个空，把“观察、不能靠近、设法完成、安全目的”说清楚。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 587.251,
+      "end": 594.411,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文，听原音，录一句，拿反馈。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 594.761,
+      "end": 601.841,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓人物线：Haroun Tazieff, the Polish scientist, active volcanoes and deep caves。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 602.19,
+      "end": 608.75,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓危险线：erupting violently, a river of liquid rock, threatened to surround him。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 609.1,
+      "end": 616.356,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓能力线："
+        },
+        {
+          "lang": "en",
+          "text": "was able to"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "could not"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "managed to"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 616.706,
+      "end": 622.802,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后抓科学目的："
+        },
+        {
+          "lang": "en",
+          "text": "so that he could take photographs and measure temperatures"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 623.152,
+      "end": 636.632,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，② 完形，③ 中译英，④ 英译中，⑤ 拓展阅读，⑥ 句式仿写，⑦ 默写。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 636.982,
+      "end": 643.63,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "real scientific courage means observing carefully and retreating in time"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 67
+}

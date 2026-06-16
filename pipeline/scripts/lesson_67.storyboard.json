@@ -1,0 +1,23 @@
+{
+  "lesson_id": 67,
+  "title": "Volcanoes",
+  "visual_consistency": "A continuous cinematic educational illustration sequence about careful volcano field science near Kituro. Show the same middle-aged male field scientist across all frames: tan field jacket, dark wavy hair, short dark mustache, camera around his neck, and a plain black measuring case. He should look calm, practical, and observant, not like an action hero. Keep Kituro visually consistent: dark volcanic rock, orange lava glow, crater, smoke or steam, and distant lake and green Central African landscape cues. Scientific observation should feel brave but disciplined, with safe distance and calm decision-making. Images must contain no readable text, no map labels, no volcano names, no safety signs, no instrument screen text, no notebook writing, no captions, no speech bubbles, no UI panels, no numbers, and no fake writing.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Frame 1 of a continuous volcano field-science story: the same middle-aged male scientist with tan field jacket, dark wavy hair, short dark mustache, camera around his neck, and plain black measuring case studies an active volcanic landscape. In the background, a simplified map-like silhouette of Africa or a globe shape appears as a visual cue, plus a distant lake and green landscape near dark volcanic rock. A faint orange volcanic glow is visible far away. No disaster scene, no panic, no injuries. No readable text, no readable labels, no map names, no symbols, no coordinates, no numbers, no captions, no signs, no notebook writing, and no text of any kind. Cinematic educational illustration, respectful scientific mood."
+    },
+    {
+      "frame": 2,
+      "prompt": "Frame 2 of the same continuous story: the same middle-aged male scientist with tan field jacket, dark wavy hair, short dark mustache, camera gear, and plain black measuring case has set up a small practical observation camp at a controlled distance from Kituro volcano. The volcano erupts violently in the background with smoke, steam, dark rock, and orange lava glow, while he photographs the eruption with disciplined focus. Include distant lake and green Central African landscape cues. The camp equipment is plain, with no logos or writing. Keep danger clear but not graphic. No readable text, no signs, no labels, no screen text, no captions, no speech bubbles, no numbers."
+    },
+    {
+      "frame": 3,
+      "prompt": "Frame 3 of the same continuous story: a glowing river of lava, like liquid rock, moves across dark volcanic ground toward the observation area. The same middle-aged male scientist with tan field jacket, dark wavy hair, short dark mustache, camera around his neck, and plain black measuring case retreats, urgent and focused but not panicked. The lava looks powerful and hot, with smoke and orange reflections, but there are no injuries, no burning people, no crowds, and no disaster-movie destruction. The volcano, lake hints, and dark rock stay visually consistent. No readable text, no warning signs, no labels, no instrument displays, no captions, no speech bubbles, no numbers."
+    },
+    {
+      "frame": 4,
+      "prompt": "Frame 4 of the same continuous story: two days later, the volcano is calmer. The same middle-aged male scientist with tan field jacket, dark wavy hair, short dark mustache, camera around his neck, and plain black measuring case carefully approaches or descends near the crater mouth of Kituro with a long temperature-measuring probe. The crater has dark rock, soft steam, a controlled orange glow deep inside, and distant lake and green landscape cues. The mood is tense but orderly, showing scientific persistence after danger has quieted. No readable text, no labels, no safety signs, no data screens, no notebook writing, no captions, no speech bubbles, no numbers, no fake writing."
+    }
+  ]
+}

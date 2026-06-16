@@ -1,0 +1,51 @@
+{
+  "lesson_id": 67,
+  "title": "The Safe Volcano Team",
+  "question": "把今天“观察危险现象 -> 保持安全距离 -> 设法收集证据 -> 说明目的”的表达，放进 school science team 场景：用 word bank 补完整 5 个空。",
+  "example_answer": "We observed an active volcano model in the science room. We could not go closer because the teacher wanted everyone to keep a safe distance. We managed to take clear photographs and measure temperatures from a safe place. We used a remote camera so that we could observe safely. When the model became too hot, we moved back just in time.",
+  "word_bank": [
+    "an active volcano model",
+    "keep a safe distance",
+    "could not go closer",
+    "managed to take clear photographs",
+    "measure temperatures",
+    "from a safe place",
+    "so that we could observe safely",
+    "moved back just in time",
+    "remote camera",
+    "teacher's safety rule"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说明小组观察的对象",
+      "english_template": "We observed ___ in the science room.",
+      "expected_phrase": "an active volcano model"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说明不能再靠近",
+      "english_template": "We ___ because the teacher wanted everyone to stay safe.",
+      "expected_phrase": "could not go closer"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "用 managed to 说明困难中拍到了照片",
+      "english_template": "We ___ with the remote camera.",
+      "expected_phrase": "managed to take clear photographs"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说明从安全位置测量温度",
+      "english_template": "We were able to ___ from a safe place.",
+      "expected_phrase": "measure temperatures"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "用 so that 说明使用工具的安全目的",
+      "english_template": "We used a remote camera ___.",
+      "expected_phrase": "so that we could observe safely"
+    }
+  ],
+  "mode": "all_fills"
+}

@@ -1,0 +1,153 @@
+{
+  "lesson_id": 67,
+  "reading": {
+    "title": "The Drone Above The Crater",
+    "intro_zh": "这篇延展阅读把 Lesson 67 的“靠近事实，但不轻视危险”换到现代安全火山观测场景：学生不进入危险区域，而是用无人机、远程摄像头和温度传感器收集证据。短文为原创故事，安全监测观念参考官方火山监测资料。",
+    "source": {
+      "title": "Monitoring Volcanoes",
+      "publisher": "National Park Service",
+      "url": "https://www.nps.gov/articles/volcano-monitoring.htm"
+    },
+    "passage": [
+      "On Friday afternoon, the junior science club visited a volcano education centre near a quiet crater. The mountain was not erupting violently, but steam still rose from cracks in the black rock, and the safety officer called it an active volcano. Several students wanted to walk closer so that they could take brilliant photographs. Their teacher stopped them at the fence. The ground near the crater could be hot, and sudden gas or falling stones might make a safe-looking path dangerous.",
+      "Instead, the team launched a small drone from the viewing platform. Its camera flew above the crater while everyone watched a live picture on a blank monitor. A temperature sensor also sent readings from the edge of the hot spring. When a gust of wind pushed steam toward the platform, the safety officer told the students to step back. They moved away calmly and just in time, then waited until the air cleared.",
+      "By the end of the visit, the club had managed to collect clear photographs, temperature readings, and notes about the steam. They learned that scientific courage does not mean standing as close as possible to danger. It means using the best tools, observing carefully, and knowing when to retreat. The drone gave them evidence that their eyes alone could not safely reach."
+    ],
+    "questions": [
+      {
+        "id": "what_observed",
+        "question": "What did the science club want to observe?",
+        "options": [
+          "A deep cave under their classroom.",
+          "An active volcano area near a quiet crater.",
+          "A museum engine preserved in beeswax.",
+          "A broken drone in the school cupboard."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "第一段说他们参观的是 volcano education centre near a quiet crater，安全员称它为 active volcano。"
+      },
+      {
+        "id": "why_not_closer",
+        "question": "Why could the students not walk closer to the crater?",
+        "options": [
+          "Their camera had no battery.",
+          "The crater was covered with snow.",
+          "They had already finished all their notes.",
+          "The ground, gas, and falling stones could be dangerous."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "老师把他们拦在 fence 处，因为 crater 附近地面可能很热，气体和落石也可能造成危险。"
+      },
+      {
+        "id": "what_collected",
+        "question": "What did the team manage to collect?",
+        "options": [
+          "Clear photographs, temperature readings, and notes about the steam.",
+          "Pieces of hot rock from inside the crater.",
+          "A written label from the volcano wall.",
+          "A bag of old stage photographs."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "第三段开头明确说 the club had managed to collect clear photographs, temperature readings, and notes about the steam。"
+      },
+      {
+        "id": "safe_tools",
+        "question": "How did the team observe the crater safely?",
+        "options": [
+          "They climbed down into the crater mouth.",
+          "They ran across the hot ground quickly.",
+          "They used a drone and a temperature sensor from a safe place.",
+          "They waited until night and ignored the safety officer."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "短文说他们从 viewing platform 发射 drone，并用 temperature sensor 从边缘传回读数。"
+      },
+      {
+        "id": "lesson_learned",
+        "question": "What lesson did the club learn about scientific courage?",
+        "options": [
+          "It means pretending that danger is harmless.",
+          "It means using tools, observing carefully, and retreating when needed.",
+          "It means standing as close as possible to every danger.",
+          "It means taking photographs but never measuring anything."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "最后一段说 scientific courage 不是尽量靠近危险，而是使用工具、仔细观察，并知道何时撤退。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 67 的科学探索句式：用 has spent his lifetime 写长期投入，用 was able to...while... 写困难情境中的能力，用 Though..., he could not... 写成功和限制，用 managed to...just in time 写压力下成功，用 so that he could... 写目的。",
+    "patterns": [
+      {
+        "id": "has_spent_lifetime",
+        "title": "has spent his lifetime ...",
+        "source": "has spent his lifetime studying active volcanoes",
+        "focus_zh": "这个结构适合写一个人长期投入某项研究、训练或服务，语气比 once studied 更有分量。",
+        "task_zh": "仿写一句：写一个 scientist、teacher、coach 或 volunteer 长期投入某项有意义的事情。",
+        "must_include": [
+          "has spent"
+        ],
+        "min_words": 10,
+        "sample": "Dr. Lin has spent many years studying storms near the coast.",
+        "tip_zh": "has spent 后面可以接 many years、his lifetime、two decades，再接 doing。"
+      },
+      {
+        "id": "was_able_while",
+        "title": "was able to ... while ...",
+        "source": "was able to set up his camp very close to the volcano while it was erupting violently",
+        "focus_zh": "这个结构把“做到了什么”和“当时困难背景”放在同一句里。",
+        "task_zh": "仿写一句：写一个人在困难、嘈杂、紧张或危险但可控的情境中完成了一件事。",
+        "must_include": [
+          "was able to",
+          "while"
+        ],
+        "min_words": 11,
+        "sample": "The team was able to record the data while the wind was getting stronger.",
+        "tip_zh": "while 后面写同时发生的背景，不要写成无关的第二件事。"
+      },
+      {
+        "id": "though_could_not",
+        "title": "Though ..., he could not ...",
+        "source": "Though he managed to take a number of brilliant photographs, he could not stay near the volcano for very long.",
+        "focus_zh": "Though 先承认一个成功，再转出限制或困难，适合写 balanced sentence。",
+        "task_zh": "仿写一句：写一个人完成了某事，但因为安全、时间或条件限制，不能继续做下去。",
+        "must_include": [
+          "Though",
+          "could not"
+        ],
+        "min_words": 12,
+        "sample": "Though he finished the first test, he could not stay in the lab all night.",
+        "tip_zh": "Though 从句后面通常用逗号，再接真正的转折结果。"
+      },
+      {
+        "id": "managed_just_in_time",
+        "title": "managed to ... just in time",
+        "source": "managed to escape just in time",
+        "focus_zh": "managed to 强调困难中成功，just in time 加出“刚刚及时”的紧张感。",
+        "task_zh": "仿写一句：写一次及时完成、及时离开、及时保存或及时提醒的经历。",
+        "must_include": [
+          "managed to",
+          "just in time"
+        ],
+        "min_words": 11,
+        "sample": "We managed to move the camera back safely just in time.",
+        "tip_zh": "just in time 通常放在句末，前面写真正完成的动作。"
+      },
+      {
+        "id": "so_that_could",
+        "title": "so that he could ...",
+        "source": "so that he could take photographs and measure temperatures",
+        "focus_zh": "so that 引出目的，说明前一个动作为什么值得做。",
+        "task_zh": "仿写一句：写一个人使用工具、改变位置或调整方法，是为了更安全或更清楚地完成任务。",
+        "must_include": [
+          "so that",
+          "could"
+        ],
+        "min_words": 11,
+        "sample": "She used a remote sensor so that she could measure the heat safely.",
+        "tip_zh": "so that 后面常接 could，用来表达目的和可能性。"
+      }
+    ]
+  }
+}
