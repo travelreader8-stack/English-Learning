@@ -1,0 +1,150 @@
+{
+  "lesson_id": 66,
+  "reading": {
+    "title": "The Camera In The Cupboard",
+    "intro_zh": "这篇延展阅读把 Lesson 66 的“被遗忘的旧物被重新发现并修复”换到学校小博物馆场景：旧相机不是垃圾，而是一个值得保存的校园历史物件。短文为原创故事，保存观念参考 National Park Service 的博物馆藏品保护指南。",
+    "source": {
+      "title": "Museum Handbook, Part I: Museum Collections",
+      "publisher": "National Park Service",
+      "url": "https://www.nps.gov/subjects/museums/mh1.htm"
+    },
+    "passage": [
+      "During a clean-up of the school auditorium, a small history club opened a cupboard behind the stage. It was a remote corner of the building, partly hidden by old curtains and broken music stands, so few people had looked there for years. At the back of the cupboard, Maya found a heavy black camera in a plain wooden box. The lens was dusty and the leather strap was stiff, but the camera was not too badly damaged. A faded note inside the box showed that it had once belonged to a teacher who photographed school plays in the 1970s.",
+      "At first, one student thought the camera should be thrown away because modern phones were easier to use. Their teacher disagreed. The camera was rare in the school collection and worth rescuing, not because it was expensive, but because it carried the memory of hundreds of students on stage. The club had it cleaned by a local repair shop, and a volunteer photographer helped them have the shutter repaired without changing its original look.",
+      "Two weeks later, the camera was displayed in a glass case near the theatre entrance, beside copies of several old photographs. The club learned that preservation is not the same as keeping every old object forever. It means recognizing which objects still tell a valuable story, protecting them from further damage, and letting people understand why they mattered."
+    ],
+    "questions": [
+      {
+        "id": "where_found",
+        "question": "Where did Maya find the old camera?",
+        "options": [
+          "In a glass case near the theatre entrance.",
+          "In a remote cupboard behind the stage.",
+          "Inside a modern phone box.",
+          "On a shelf in the repair shop."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "第一段说 history club opened a cupboard behind the stage，Maya 在 cupboard 后面发现了相机。"
+      },
+      {
+        "id": "why_forgotten",
+        "question": "Why had people forgotten the cupboard?",
+        "options": [
+          "It was partly hidden in a remote corner of the building.",
+          "It had been locked by the theatre manager every day.",
+          "It was used only for storing new phones.",
+          "It stood in the middle of the busiest corridor."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文说 cupboard 位于 remote corner，并被 old curtains 和 broken music stands 部分遮住，所以多年很少有人查看。"
+      },
+      {
+        "id": "why_worth_rescuing",
+        "question": "Why was the camera worth rescuing?",
+        "options": [
+          "It could take better pictures than every modern phone.",
+          "It was made of gold and could be sold for a high price.",
+          "It had never been touched by anyone before.",
+          "It carried the memory of many students in old school plays."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "老师说它值得抢救，不是因为 expensive，而是因为 it carried the memory of hundreds of students on stage。"
+      },
+      {
+        "id": "what_done",
+        "question": "What did the club have done to the camera?",
+        "options": [
+          "They had it painted in bright new colours.",
+          "They had it packed and sent to another country.",
+          "They had it cleaned and had the shutter repaired.",
+          "They had it turned into a theatre lamp."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "第二段结尾说 The club had it cleaned，并且 helped them have the shutter repaired。"
+      },
+      {
+        "id": "lesson_preservation",
+        "question": "What did the club learn about preservation?",
+        "options": [
+          "Every old object should be kept forever, even if it tells no story.",
+          "Preservation means protecting objects that still tell a valuable story.",
+          "Only expensive objects are worth displaying in a school.",
+          "Old objects should always be changed to look completely new."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "最后一段说 preservation means recognizing which objects still tell a valuable story, protecting them from further damage。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 66 的修复故事句式：用 a remote place in ... 写地点，用 wasn't too badly damaged 写状态，用 was accidentally rediscovered 写意外发现，用 was rare and worth ... 写价值判断，用 had/have ... cleaned, repaired, restored 写安排别人做事。",
+    "patterns": [
+      {
+        "id": "remote_place_in",
+        "title": "a remote place in ...",
+        "source": "a remote place in the South Pacific",
+        "focus_zh": "这个短语用一个 compact location phrase 说明地点偏远，适合写岛屿、山村、仓库角落或校园旧房间。",
+        "task_zh": "仿写一句：写一个物件、地点或小建筑位于某个偏远区域，并加上具体范围。",
+        "must_include": [
+          "a remote place in"
+        ],
+        "min_words": 10,
+        "sample": "The old cabin stood in a remote place in the northern hills.",
+        "tip_zh": "a remote place in 后面接大地点，比如 the mountains、the countryside、the city museum。"
+      },
+      {
+        "id": "not_too_badly_damaged",
+        "title": "wasn't too badly damaged",
+        "source": "The plane wasn't too badly damaged.",
+        "focus_zh": "这个结构用来描述状况：有损坏，但没有严重到无法修复。",
+        "task_zh": "仿写一句：写一个 old camera、model plane、bike 或 box 虽然旧，但没有损坏得太严重。",
+        "must_include": [
+          "wasn't too badly damaged"
+        ],
+        "min_words": 9,
+        "sample": "The old camera was dusty, but it wasn't too badly damaged.",
+        "tip_zh": "but 前面可以先写 dusty、old 或 scratched，后面用 wasn't too badly damaged 降低严重程度。"
+      },
+      {
+        "id": "accidentally_rediscovered",
+        "title": "was accidentally rediscovered",
+        "source": "the plane was accidentally rediscovered",
+        "focus_zh": "被动语态把重点放在旧物被重新发现，而不是谁发现了它。",
+        "task_zh": "仿写一句：写一个 old photo、tool、book 或 model 在整理房间时被意外重新发现。",
+        "must_include": [
+          "was accidentally rediscovered"
+        ],
+        "min_words": 10,
+        "sample": "The old class photograph was accidentally rediscovered during the library clean-up.",
+        "tip_zh": "was accidentally rediscovered 后面常接 during... 或 in... 来交代发现情境。"
+      },
+      {
+        "id": "rare_and_worth",
+        "title": "was rare and worth ...",
+        "source": "was rare and worth rescuing",
+        "focus_zh": "worth doing 用来判断某件事值得做，因为对象有价值、有故事或仍可修复。",
+        "task_zh": "仿写一句：写一个 old object、recording、camera 或 model 很稀有，值得 saving、repairing 或 displaying。",
+        "must_include": [
+          "was rare and worth"
+        ],
+        "min_words": 10,
+        "sample": "The early school camera was rare and worth displaying in the theatre.",
+        "tip_zh": "worth 后面用动名词，比如 rescuing、repairing、keeping、displaying。"
+      },
+      {
+        "id": "had_object_repaired",
+        "title": "had ... cleaned/repaired/restored",
+        "source": "had the plane packaged and moved; have the plane restored",
+        "focus_zh": "have/had + object + past participle 表示安排别人完成某项工作。",
+        "task_zh": "仿写一句：写一个 club、family 或 museum 安排别人清洁、修理或修复某个旧物。",
+        "must_include": [
+          "had",
+          "cleaned"
+        ],
+        "min_words": 11,
+        "sample": "The history club had the old camera cleaned before the exhibition opened.",
+        "tip_zh": "had 后面接物件，再接 cleaned、repaired、restored 等过去分词。"
+      }
+    ]
+  }
+}

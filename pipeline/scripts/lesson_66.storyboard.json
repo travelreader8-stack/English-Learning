@@ -1,0 +1,23 @@
+{
+  "lesson_id": 66,
+  "title": "Sweet as honey!",
+  "visual_consistency": "A continuous cinematic educational illustration sequence about rediscovery and restoration. The same old Lancaster bomber appears across frames as a weathered but recognizable four-engine aircraft with broad wings, an aged silver and olive body, and no readable markings, serial numbers, labels, insignia, or text. The tone is nonviolent, quiet, curious, and respectful: remote South Pacific island greenery, aerial-survey discovery, careful transport and restoration handling, then a warm beeswax preservation surprise. Restoration workers and enthusiasts are practical, modern, careful, and delighted, never military combat figures. Images must contain no readable text, no map labels, no dates, no numbers, no signs, no plaques, no crate writing, no captions, no speech bubbles, no UI panels, and no fake writing.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Frame 1 of a continuous rediscovery-and-restoration story: a remote tropical South Pacific island surrounded by wide blue ocean, dense green vegetation, and the same weathered but recognizable old four-engine Lancaster bomber resting quietly among trees. The aircraft is damaged enough to look abandoned but not destroyed; no fire, no smoke, no explosion, no injuries, no combat, no dramatic crash action. The composition may feel slightly map-like with ocean and island shapes, but absolutely no readable labels, symbols, dates, coordinates, numbers, signs, or words. Cinematic educational illustration, quiet mystery, respectful aviation-history mood."
+    },
+    {
+      "frame": 2,
+      "prompt": "Frame 2 of the same continuous story: an aerial survey viewpoint over the same remote green island, with the same old Lancaster bomber partly visible through the trees below. A small modern survey aircraft or the edge of an aerial observation window suggests the view from above. Nearby, a small survey team studies a plain photo or tablet-like image with surprised body language, but all screens and papers are blank with no readable marks. Nonviolent discovery mood, bright tropical light, no map labels, no technical diagrams, no readable text, no numbers, no captions, no speech bubbles."
+    },
+    {
+      "frame": 3,
+      "prompt": "Frame 3 of the same continuous story: careful modern restoration handlers pack large parts of the same old aircraft into plain protective crates and transport frames, treating it like a valuable historical object. Show sections of wing and engine casing being gently supported and prepared for movement, with workers in practical clothing and gloves. The crates are completely plain with no labels, arrows, serial numbers, destination marks, signs, or writing. Respectful restoration atmosphere, warm daylight, no soldiers, no weapons, no combat imagery, no readable text anywhere."
+    },
+    {
+      "frame": 4,
+      "prompt": "Frame 4 of the same continuous story: restoration enthusiasts open a plain packing case and discover one aircraft engine in surprisingly good condition, with honeycomb and golden beeswax visible inside the engine. A few gentle bees hover near the honeycomb without looking frightening or swarm-like. The people look delighted and amazed, not scared. The engine appears preserved rather than ruined. Warm workshop light, aviation-history restoration mood, no readable crate labels, no notes, no diagrams, no plaques, no captions, no speech bubbles, no fake writing, no readable text of any kind."
+    }
+  ]
+}

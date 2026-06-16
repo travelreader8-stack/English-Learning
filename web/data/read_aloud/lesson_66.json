@@ -1,0 +1,115 @@
+{
+  "lesson_id": 66,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按“偏远地点 -> 被遗忘 -> 意外重新发现 -> 值得抢救 -> 安排修复 -> 蜜蜂蜂蜡惊喜”的故事线跟读。重点读清 location phrase、passive rediscovery、worth rescuing、have something done，以及最后 sweet as honey 的惊喜语气。",
+  "sentences": [
+    {
+      "id": "l66_s1",
+      "text": "In 1963 a Lancaster bomber crashed on Wallis Island, a remote place in the South Pacific, a long way west of Samoa.",
+      "focus_zh": "中文锚点：一九六三年，一架 Lancaster bomber 坠毁在南太平洋的 Wallis Island。注意 Wallis Island 后面的 a remote place... 是补充说明，读出地点层层展开。",
+      "start": 277.103,
+      "end": 285.311,
+      "focus_words": [
+        "In 1963",
+        "Lancaster bomber",
+        "Wallis Island",
+        "a remote place",
+        "South Pacific",
+        "west of Samoa"
+      ]
+    },
+    {
+      "id": "l66_s2",
+      "text": "The plane wasn't too badly damaged, but over the years, the crash was forgotten and the wreck remained undisturbed.",
+      "focus_zh": "中文锚点：飞机损坏不算太严重，但多年以后事故被遗忘，残骸没有被打扰。but 后读出转折，was forgotten 和 remained undisturbed 是重点。",
+      "start": 285.66,
+      "end": 292.356,
+      "focus_words": [
+        "wasn't too badly damaged",
+        "over the years",
+        "was forgotten",
+        "wreck",
+        "remained undisturbed"
+      ]
+    },
+    {
+      "id": "l66_s3",
+      "text": "Then in 1989, twenty-six years after the crash, the plane was accidentally rediscovered in an aerial survey of the island.",
+      "focus_zh": "中文锚点：一九八九年，也就是失事二十六年后，飞机在航空勘查中被意外重新发现。时间插入语要稳，accidentally rediscovered 是核心动作。",
+      "start": 292.706,
+      "end": 300.794,
+      "focus_words": [
+        "Then in 1989",
+        "twenty-six years after the crash",
+        "was accidentally rediscovered",
+        "aerial survey"
+      ]
+    },
+    {
+      "id": "l66_s4",
+      "text": "By this time, a Lancaster bomber in reasonable condition was rare and worth rescuing.",
+      "focus_zh": "中文锚点：到了那时，状态还算不错的 Lancaster bomber 已经很稀有，值得抢救。By this time 先轻停，worth rescuing 要读出价值判断。",
+      "start": 301.144,
+      "end": 306.808,
+      "focus_words": [
+        "By this time",
+        "reasonable condition",
+        "rare",
+        "worth rescuing"
+      ]
+    },
+    {
+      "id": "l66_s5",
+      "text": "The French authorities had the plane packaged and moved in parts back to France.",
+      "focus_zh": "中文锚点：法国方面安排人把飞机拆分包装并运回法国。had the plane packaged and moved 是 have something done 结构。",
+      "start": 307.158,
+      "end": 311.934,
+      "focus_words": [
+        "French authorities",
+        "had the plane packaged",
+        "moved in parts",
+        "back to France"
+      ]
+    },
+    {
+      "id": "l66_s6",
+      "text": "Now a group of enthusiasts are going to have the plane restored.",
+      "focus_zh": "中文锚点：一群爱好者准备请人修复这架飞机。enthusiasts 要读清楚；have the plane restored 也是安排别人做事。",
+      "start": 312.284,
+      "end": 316.388,
+      "focus_words": [
+        "a group of enthusiasts",
+        "are going to",
+        "have the plane restored"
+      ]
+    },
+    {
+      "id": "l66_s7",
+      "text": "Imagine their surprise and delight when they broke open the packing cases and found that the fourth engine was sweet as honey -- still in perfect condition.",
+      "focus_zh": "中文锚点：打开包装箱时，他们惊喜地发现第四台发动机像蜂蜜一样甜，而且完好无损。Imagine 开头要有惊喜感，sweet as honey 是标题笑点。",
+      "start": 322.656,
+      "end": 330.552,
+      "focus_words": [
+        "Imagine",
+        "surprise and delight",
+        "packing cases",
+        "the fourth engine",
+        "sweet as honey",
+        "perfect condition"
+      ]
+    },
+    {
+      "id": "l66_s8",
+      "text": "A colony of bees had turned the engine into a hive and it was totally preserved in beeswax!",
+      "focus_zh": "中文锚点：一群蜜蜂把发动机变成蜂房，发动机被蜂蜡完整保存。colony、hive、beeswax 三个词读清，句尾带一点发现谜底的惊喜。",
+      "start": 330.902,
+      "end": 336.878,
+      "focus_words": [
+        "A colony of bees",
+        "turned the engine into a hive",
+        "totally preserved",
+        "beeswax"
+      ]
+    }
+  ]
+}

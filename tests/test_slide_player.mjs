@@ -161,6 +161,30 @@ async function main() {
       bad(`${name} 渲染抛错: ${e.message}`);
     }
   }
+  player.goTo(lineIndices.outro);
+  if (stage._innerHTML.includes('⑤ 默写') && !stage._innerHTML.includes('拓展阅读') && !stage._innerHTML.includes('句式仿写')) {
+    ok('outro 默认清单保持旧课流程');
+  } else {
+    bad('outro 默认清单不符合无拓展课流程');
+  }
+  const extendedStage = makeStubElement();
+  const extendedPlayer = new playerMod.SlidePlayer({
+    stageEl: extendedStage,
+    audioEl: null,
+    timeline,
+    lesson,
+    practiceScreens: ['read_aloud', 'you_too', 'cloze', 'cn_to_en', 'en_to_cn', 'extension_reading', 'sentence_writing', 'dictation', 'summary'],
+  });
+  extendedPlayer.goTo(lineIndices.outro);
+  if (
+    extendedStage._innerHTML.includes('⑤ 拓展阅读') &&
+    extendedStage._innerHTML.includes('⑥ 句式仿写') &&
+    extendedStage._innerHTML.includes('⑦ 默写')
+  ) {
+    ok('outro 拓展课清单包含拓展阅读、句式仿写、默写');
+  } else {
+    bad('outro 拓展课清单未同步实际 stepper 流程');
+  }
   player.goTo(lineIndices.hook);
   if (stage._innerHTML.includes('lesson_1_frame_1.webp') && stage._innerHTML.includes('hook-art')) {
     ok('hook 从开场就显示第 1 帧插画');

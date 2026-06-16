@@ -1,0 +1,51 @@
+{
+  "lesson_id": 66,
+  "title": "The Old Model Plane",
+  "question": "把今天“偏远角落发现旧物 -> 状况不坏 -> 值得抢救 -> 安排清洁修复 -> 保存故事”的表达，放进 school storeroom 场景：用 word bank 补完整 5 个空。",
+  "example_answer": "We found an old model plane in a remote corner of the storeroom. It was dusty, but it wasn't too badly damaged. Our teacher said it was worth rescuing because it told a story about the science club. We had it cleaned and repaired. Now we are going to have it restored and display it near the science room.",
+  "word_bank": [
+    "a remote corner",
+    "wasn't too badly damaged",
+    "in reasonable condition",
+    "worth rescuing",
+    "had it cleaned",
+    "had it repaired",
+    "have it restored",
+    "preserved in the box",
+    "told a story",
+    "display it"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说明旧模型飞机在哪里被发现",
+      "english_template": "We found an old model plane in ___ of the storeroom.",
+      "expected_phrase": "a remote corner"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说明它虽然旧，但损坏不严重",
+      "english_template": "It was dusty, but it ___.",
+      "expected_phrase": "wasn't too badly damaged"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "判断它值得抢救",
+      "english_template": "Our teacher said it was ___.",
+      "expected_phrase": "worth rescuing"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "用 had something done 说明已经安排清洁",
+      "english_template": "We ___ before the school exhibition.",
+      "expected_phrase": "had it cleaned"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "用 have something done 说明准备修复",
+      "english_template": "Now we are going to ___ and display it.",
+      "expected_phrase": "have it restored"
+    }
+  ],
+  "mode": "all_fills"
+}

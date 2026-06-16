@@ -1,0 +1,1820 @@
+{
+  "total_duration": 619.337,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 5.92,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果一架老飞机掉在一个很远很远的小岛上，几十年没人碰它，会发生什么？"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 6.27,
+      "end": 8.85,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你可能会想：它一定早就坏掉了。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 9.2,
+      "end": 15.2,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是这篇课文的惊喜就在这里：有一部分发动机反而被大自然保存得很好。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 15.55,
+      "end": 20.39,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "保存它的不是博物馆，也不是工程师，而是一群蜜蜂。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 20.74,
+      "end": 25.435,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天我们学一个故事："
+        },
+        {
+          "lang": "en",
+          "text": "forgotten wreck, sweet surprise"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 25.785,
+      "end": 28.705,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，先看地点和时间。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 29.055,
+      "end": 36.815,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：一九六三年，一架 Lancaster bomber 坠毁在南太平洋的偏远小岛 Wallis Island 上。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 37.165,
+      "end": 43.097,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "In 1963 a Lancaster bomber crashed on Wallis Island"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 43.447,
+      "end": 52.711,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Wallis Island"
+        },
+        {
+          "lang": "zh",
+          "text": "在 South Pacific，离 Samoa 以西很远；你可以把它想成海中一个很不容易到达的小岛。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 53.061,
+      "end": 63.94,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "Lancaster bomber"
+        },
+        {
+          "lang": "zh",
+          "text": "是一种旧英国战时飞机。我们只需要知道它后来有 aviation history value，不讲战争场面。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 64.29,
+      "end": 72.538,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "In 1963, a Lancaster bomber crashed, a remote place, in the South Pacific"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 72.888,
+      "end": 76.368,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，时间一下跳到一九八九年。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 76.718,
+      "end": 86.018,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：多年过去，事故被遗忘，残骸没有被打扰；后来航空勘查中，人们意外重新发现了它。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 86.368,
+      "end": 91.244,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "the crash was forgotten and the wreck remained undisturbed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 91.594,
+      "end": 97.55,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "又说："
+        },
+        {
+          "lang": "en",
+          "text": "the plane was accidentally rediscovered in an aerial survey of the island"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 97.899,
+      "end": 106.003,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Aerial survey"
+        },
+        {
+          "lang": "zh",
+          "text": "就是从空中勘查。人们不一定是专门来找这架飞机，所以 accidentally 很重要。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 106.353,
+      "end": 114.873,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "twenty-six years after the crash, accidentally rediscovered, an aerial survey, worth rescuing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 115.223,
+      "end": 119.503,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，旧飞机突然变成值得抢救的历史物件。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 119.853,
+      "end": 127.333,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：到了那个时候，状态还算不错的 Lancaster bomber 已经很稀有，值得抢救。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 127.683,
+      "end": 133.663,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "a Lancaster bomber in reasonable condition was rare and worth rescuing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 134.013,
+      "end": 140.892,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着是安排别人来处理："
+        },
+        {
+          "lang": "en",
+          "text": "The French authorities had the plane packaged and moved in parts back to France"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 141.242,
+      "end": 150.386,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "French authorities"
+        },
+        {
+          "lang": "zh",
+          "text": "简单理解为相关法国部门；他们安排专业人员把飞机拆分、包装、运回法国。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 150.736,
+      "end": 158.12,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "reasonable condition, rare, worth rescuing, had the plane packaged and moved"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 158.47,
+      "end": 161.75,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，标题的甜蜜笑点来了。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 162.1,
+      "end": 168.38,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：爱好者准备修复飞机，四台发动机里只有三台需要重修。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 168.73,
+      "end": 173.558,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "a group of enthusiasts are going to have the plane restored"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 173.908,
+      "end": 178.255,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "又说："
+        },
+        {
+          "lang": "en",
+          "text": "the group will need to have only three of them rebuilt"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 178.605,
+      "end": 185.985,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么 only three？因为第四台发动机被蜜蜂做成蜂房，蜂蜡把它保存得完好无损。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 186.335,
+      "end": 194.487,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后记住："
+        },
+        {
+          "lang": "en",
+          "text": "a colony of bees, turned the engine into a hive, totally preserved in beeswax, sweet as honey"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 194.837,
+      "end": 199.001,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，为什么一架飞机会被忘掉二十六年？"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 199.351,
+      "end": 206.991,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "关键是 location。Wallis Island 很 remote，在 South Pacific，不像城市机场那样每天有人经过。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 207.341,
+      "end": 211.697,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以 remote place 会让东西从大家的记忆里消失？"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 212.046,
+      "end": 218.446,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。The wreck remained undisturbed，不是因为它不重要，而是因为它太难被看见。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 218.796,
+      "end": 222.442,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是它是 old bomber，为什么后来又值得抢救？"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 222.792,
+      "end": 229.512,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为 old 不等于 useless。有些物件 rare，而且保存状况 reasonable，就有 historical value。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 229.862,
+      "end": 233.582,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Worth rescuing"
+        },
+        {
+          "lang": "zh",
+          "text": "就是值得抢救？"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 233.931,
+      "end": 237.851,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。它还没被修好，但是它 deserves the rescue。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 238.201,
+      "end": 240.612,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那 aerial survey 是什么？"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 240.962,
+      "end": 250.242,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "就是从空中观察、拍摄、勘查。人们可能是在看岛上的地形，却 accidentally rediscovered the plane。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 250.591,
+      "end": 255.121,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "蜂蜡真的能保存发动机吗？听起来像童话。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 255.471,
+      "end": 262.591,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是魔法。Bees made a hive inside the engine, and beeswax helped protect it from damage and decay。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 262.941,
+      "end": 267.643,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以标题"
+        },
+        {
+          "lang": "en",
+          "text": "Sweet as honey"
+        },
+        {
+          "lang": "zh",
+          "text": "是双关？"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 267.993,
+      "end": 276.753,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Exactly. Literally, it connects to bees and honey. Figuratively, it is a sweet surprise after a long forgotten story。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 277.103,
+      "end": 285.311,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In 1963 a Lancaster bomber crashed on Wallis Island, a remote place in the South Pacific, a long way west of Samoa."
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 285.66,
+      "end": 292.356,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The plane wasn't too badly damaged, but over the years, the crash was forgotten and the wreck remained undisturbed."
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 292.706,
+      "end": 300.794,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Then in 1989, twenty-six years after the crash, the plane was accidentally rediscovered in an aerial survey of the island."
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 301.144,
+      "end": 306.808,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "By this time, a Lancaster bomber in reasonable condition was rare and worth rescuing."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 307.158,
+      "end": 311.934,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The French authorities had the plane packaged and moved in parts back to France."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 312.284,
+      "end": 316.388,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Now a group of enthusiasts are going to have the plane restored."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 316.738,
+      "end": 322.306,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It has four Rolls-Royce Merlin engines, but the group will need to have only three of them rebuilt."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 322.656,
+      "end": 330.552,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Imagine their surprise and delight when they broke open the packing cases and found that the fourth engine was sweet as honey -- still in perfect condition."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 330.902,
+      "end": 336.878,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A colony of bees had turned the engine into a hive and it was totally preserved in beeswax!"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 337.228,
+      "end": 340.027,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "remote"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组词："
+        },
+        {
+          "lang": "en",
+          "text": "remote"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 340.377,
+      "end": 342.081,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "remote"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Remote"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 342.431,
+      "end": 349.651,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "remote"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Remote"
+        },
+        {
+          "lang": "zh",
+          "text": "是偏远的，离主要城市、路线或人群很远，也不容易到达。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 350.001,
+      "end": 355.781,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "remote"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说 Wallis Island is"
+        },
+        {
+          "lang": "en",
+          "text": "a remote place in the South Pacific"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 356.131,
+      "end": 361.611,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "remote"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这就解释了为什么 the wreck could remain undisturbed for years。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 361.961,
+      "end": 366.321,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "remote"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它的反面可以是 near, central, easy to visit。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 366.67,
+      "end": 377.918,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "remote"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "相关词一起记："
+        },
+        {
+          "lang": "en",
+          "text": "Wallis Island"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "South Pacific"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "Samoa"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "wreck"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "undisturbed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 378.268,
+      "end": 381.236,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "restore"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组词："
+        },
+        {
+          "lang": "en",
+          "text": "restore"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 381.586,
+      "end": 383.386,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "restore"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Restore"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 383.736,
+      "end": 387.944,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "restore"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Restore"
+        },
+        {
+          "lang": "zh",
+          "text": "不是简单 repair 一下就算了。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 388.293,
+      "end": 394.533,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "restore"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它强调把旧东西修回接近原来的状态，因为它有历史、记忆或展示价值。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 394.883,
+      "end": 399.711,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "restore"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "a group of enthusiasts are going to have the plane restored"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 400.061,
+      "end": 408.989,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "restore"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Enthusiasts"
+        },
+        {
+          "lang": "zh",
+          "text": "是热心人、爱好者；他们愿意花时间把 old machines, cameras, cars, planes 修好。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 409.339,
+      "end": 417.647,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "restore"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "restore"
+        },
+        {
+          "lang": "zh",
+          "text": "常常和 history、museum、valuable object 连在一起。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 417.997,
+      "end": 421.076,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "preserve"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组词："
+        },
+        {
+          "lang": "en",
+          "text": "preserve"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 421.426,
+      "end": 423.106,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "preserve"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Preserve"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 423.456,
+      "end": 430.176,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "preserve"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Preserve"
+        },
+        {
+          "lang": "zh",
+          "text": "是保护、保存，让东西不继续损坏或腐烂。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 430.526,
+      "end": 435.562,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "preserve"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课最精彩的句子是："
+        },
+        {
+          "lang": "en",
+          "text": "it was totally preserved in beeswax"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 435.912,
+      "end": 446.783,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "preserve"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Beeswax"
+        },
+        {
+          "lang": "zh",
+          "text": "是蜂蜡；"
+        },
+        {
+          "lang": "en",
+          "text": "hive"
+        },
+        {
+          "lang": "zh",
+          "text": "是蜂房、蜂巢；"
+        },
+        {
+          "lang": "en",
+          "text": "colony"
+        },
+        {
+          "lang": "zh",
+          "text": "是一群共同生活的蜜蜂。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 447.133,
+      "end": 451.573,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "preserve"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "蜜蜂把 engine 变成 hive，beeswax 覆盖并保护了它。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 451.923,
+      "end": 456.443,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "preserve"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "反面词可以是 damage, destroy, throw away。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 456.793,
+      "end": 463.833,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法从一个问题开始：这架飞机不是自己打包、自己运输、自己修复的。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 464.183,
+      "end": 469.063,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "英语用"
+        },
+        {
+          "lang": "en",
+          "text": "have something done"
+        },
+        {
+          "lang": "zh",
+          "text": "表示安排别人做某事。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 469.413,
+      "end": 475.644,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里是："
+        },
+        {
+          "lang": "en",
+          "text": "had the plane packaged and moved"
+        },
+        {
+          "lang": "zh",
+          "text": "，安排人把飞机包装并运走。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 475.994,
+      "end": 480.766,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有："
+        },
+        {
+          "lang": "en",
+          "text": "have the plane restored"
+        },
+        {
+          "lang": "zh",
+          "text": "，准备请人修复飞机。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 481.116,
+      "end": 487.064,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "以及："
+        },
+        {
+          "lang": "en",
+          "text": "have only three of them rebuilt"
+        },
+        {
+          "lang": "zh",
+          "text": "，只需要让三台发动机重修。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 487.414,
+      "end": 493.134,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个工具是被动语态，因为故事关注 object 经历了什么。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 493.484,
+      "end": 503.511,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "比如："
+        },
+        {
+          "lang": "en",
+          "text": "the crash was forgotten"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "the plane was accidentally rediscovered"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "it was totally preserved in beeswax"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 503.861,
+      "end": 508.181,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个工具是价值判断："
+        },
+        {
+          "lang": "en",
+          "text": "worth rescuing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 508.531,
+      "end": 516.371,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Worth doing"
+        },
+        {
+          "lang": "zh",
+          "text": "表示值得去做。The plane was rare, in reasonable condition, and worth rescuing。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 516.721,
+      "end": 526.121,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天带走三条线："
+        },
+        {
+          "lang": "en",
+          "text": "have something done"
+        },
+        {
+          "lang": "zh",
+          "text": "，被动 rediscovery and preservation，还有"
+        },
+        {
+          "lang": "en",
+          "text": "worth rescuing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 526.47,
+      "end": 532.318,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把老飞机换成一个学校里的修复场景："
+        },
+        {
+          "lang": "en",
+          "text": "The Old Model Plane"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 532.668,
+      "end": 537.668,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你和同学在 storage room 的 remote corner 里发现一架 old model plane。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 538.018,
+      "end": 543.898,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它很 dusty，但 wasn't too badly damaged，而且还 in reasonable condition。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 544.248,
+      "end": 547.168,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你要问老师：Is it worth rescuing?"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 547.518,
+      "end": 554.942,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后说明你们准备"
+        },
+        {
+          "lang": "en",
+          "text": "have it cleaned and restored"
+        },
+        {
+          "lang": "zh",
+          "text": "，因为它讲着学校 science club 的 old story。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 555.292,
+      "end": 563.812,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，用 word bank 补完整 5 个空，把 rediscovered, worth rescuing, have it restored 这条线说清楚。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 564.161,
+      "end": 571.481,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 571.831,
+      "end": 577.751,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓地点线：Wallis Island, a remote place in the South Pacific。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 578.101,
+      "end": 584.341,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓发现线：the crash was forgotten, the plane was accidentally rediscovered。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 584.691,
+      "end": 592.071,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓修复线：had the plane packaged, have the plane restored, have three engines rebuilt。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 592.421,
+      "end": 598.941,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后抓惊喜线：a colony of bees, a hive, preserved in beeswax。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 599.291,
+      "end": 612.771,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，② 完形，③ 中译英，④ 英译中，⑤ 拓展阅读，⑥ 句式仿写，⑦ 默写。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 613.121,
+      "end": 619.337,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "an old object can be worth rescuing when it still tells a story"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 66
+}

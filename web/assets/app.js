@@ -1715,6 +1715,7 @@ async function setupStage(lesson) {
     audioEl: audio,
     timeline,
     lesson,
+    practiceScreens: [...SCREENS],
   });
   // 暴露给自定义控件
   state._slidePlayer = player;

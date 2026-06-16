@@ -13,6 +13,19 @@ const CHARACTERS = {
   B: { name: "小军同学", emoji: "👦", color: "var(--char-b)" },
 };
 
+const OUTRO_STEP_TITLES = {
+  read_aloud: "跟读：听课文全文 → 听原音 → 录一句 → 获取反馈",
+  you_too: "生活场景",
+  cloze: "完形填空",
+  cn_to_en: "中译英",
+  en_to_cn: "英译中",
+  extension_reading: "拓展阅读",
+  sentence_writing: "句式仿写",
+  dictation: "默写",
+};
+const DEFAULT_OUTRO_STEPS = ["read_aloud", "you_too", "cloze", "cn_to_en", "en_to_cn", "dictation"];
+const CIRCLED_STEP_LABELS = ["⓪", "①", "②", "③", "④", "⑤", "⑥", "⑦", "⑧", "⑨"];
+
 function escapeHtml(s) {
   return String(s ?? "").replace(/[&<>"']/g, c => ({"&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;"}[c]));
 }
@@ -36,6 +49,18 @@ function findZhSegment(segments) {
 
 function storyFrameUrl(lessonId, frame = 1) {
   return `/audio/lesson_${lessonId}_frame_${frame}.webp`;
+}
+
+function renderOutroChecklistHtml(ctx) {
+  const configured = Array.isArray(ctx.practiceScreens) && ctx.practiceScreens.length
+    ? ctx.practiceScreens
+    : DEFAULT_OUTRO_STEPS;
+  const steps = configured.filter(step => step !== "summary" && OUTRO_STEP_TITLES[step]);
+  const items = steps.map((step, idx) => {
+    const marker = CIRCLED_STEP_LABELS[idx] ?? String(idx);
+    return `<li>${marker} ${escapeHtml(OUTRO_STEP_TITLES[step])}</li>`;
+  }).join("");
+  return `<ul class="next-checklist">${items}</ul>`;
 }
 
 function storyFrameImageHtml({ className, src, alt, fallbackClass, fallbackText, priority = false }) {
@@ -321,14 +346,7 @@ const renderers = {
       <div class="scene scene-outro">
         <div class="scene-deco">🎉</div>
         <div class="bubble">${joinSegmentsHtml(line.segments)}</div>
-        <ul class="next-checklist">
-          <li>⓪ 跟读：听课文全文 → 听原音 → 录一句 → 获取反馈</li>
-          <li>① 生活场景</li>
-          <li>② 完形填空</li>
-          <li>③ 中译英</li>
-          <li>④ 英译中</li>
-          <li>⑤ 默写</li>
-        </ul>
+        ${renderOutroChecklistHtml(ctx)}
         <p class="scene-cta">加油 💪</p>
       </div>
     `;
@@ -374,11 +392,12 @@ function getPassageRows(line, ctx) {
 
 // ─── Player ────────────────────────────────────────────────
 export class SlidePlayer {
-  constructor({ stageEl, audioEl, timeline, lesson }) {
+  constructor({ stageEl, audioEl, timeline, lesson, practiceScreens }) {
     this.stageEl = stageEl;
     this.audioEl = audioEl;
     this.timeline = timeline;
     this.lesson = lesson;
+    this.practiceScreens = Array.isArray(practiceScreens) ? [...practiceScreens] : null;
     this.currentIdx = -1;
     this._lastRenderedHtml = "";
     this._singleLinePlayback = null;
@@ -525,7 +544,7 @@ export class SlidePlayer {
 
     // 否则：常规重渲染 + 淡入动画
     const renderer = renderers[line.scene] ?? renderers.dialogue;
-    const html = renderer(line, { lesson: this.lesson, timeline: this.timeline });
+    const html = renderer(line, { lesson: this.lesson, timeline: this.timeline, practiceScreens: this.practiceScreens });
     if (html === this._lastRenderedHtml) {
       this._lastScene = line.scene;
       return;
