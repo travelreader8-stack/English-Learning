@@ -1,0 +1,23 @@
+{
+  "lesson_id": 69,
+  "title": "But not murder!",
+  "visual_consistency": "A continuous light cinematic mid-century driving-test comedy sequence inside and around the same small car. Show the same two people across all four frames: Mr. Eames, a middle-aged man with neatly combed dark hair, oval face, modest grey suit jacket, white shirt, slim build, expressive eyebrows, first nervous then confident then startled; and the examiner, an older composed man with short silver hair, square face, dark blue overcoat, notebook kept closed or blank, calm strict expression with dry humour. Use a practical driving-test atmosphere with town traffic and an open road, but keep all signs, papers, dashboard surfaces, licence cards, windows, and props free of readable text. The child-crossing scenario is imaginary and symbolic only; do not show an actual child in danger, collision, injury, death, blood, panic crowds, crash damage, readable captions, speech bubbles, labels, or UI panels.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Frame 1 of a continuous light cinematic mid-century driving-test comedy: inside the same small car, Mr. Eames, the same middle-aged man with neatly combed dark hair, grey suit jacket, white shirt, slim build, and nervous focused expression, drives carefully through busy town traffic. The examiner, the same older composed man with short silver hair, square face, dark blue overcoat, sits in the passenger seat observing calmly. Traffic outside feels crowded but controlled, no road signs or licence papers are readable, dashboard is blank, no text anywhere. Warm realistic illustration, safety-minded tone, no danger, no collision, no child in the road."
+    },
+    {
+      "frame": 2,
+      "prompt": "Frame 2 of the same continuous driving-test story: the small car has left the busy town and is moving along a quieter open road. Mr. Eames, same grey suit jacket, white shirt, dark hair, and slim build, relaxes slightly with a small confident smile while keeping his hands on the wheel. The examiner, same silver hair and dark blue overcoat, watches with a neutral approving expression. Open countryside visible through the windows, no readable signs, no dashboard text, no papers, no captions. Light comedy tension, calm and safe."
+    },
+    {
+      "frame": 3,
+      "prompt": "Frame 3 of the same continuous driving-test story: inside the same small car, the examiner calmly explains an emergency-stop instruction, raising one hand near the side window as if ready to tap. Mr. Eames listens from the driver's seat, alert but still a little overconfident. Outside the windscreen is an empty road with a soft symbolic hazard cue such as a faint abstract crossing shadow far ahead, but no actual child and no person in danger. Same characters and clothing, no readable signs, no test papers, no dashboard text, no labels, no speech bubbles, no captions."
+    },
+    {
+      "frame": 4,
+      "prompt": "Frame 4 of the same continuous driving-test story: the examiner has tapped on the side window, and Mr. Eames reacts late, pressing the brake suddenly. Both men lurch forward inside the car with startled but non-injured expressions; seat area and body movement show the sudden stop. The road ahead is empty and safe, with no child visible and no collision. The examiner looks mournful and dryly serious; Mr. Eames looks shocked. Same small car, same grey-suited driver and blue-coated examiner. No readable text, no signs, no dashboard words, no crash damage, no injury, no blood, no panic."
+    }
+  ]
+}

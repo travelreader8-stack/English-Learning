@@ -1,0 +1,1960 @@
+{
+  "total_duration": 624.188,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 5.84,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果你第三次考驾照，前面都开得不错，你会不会开始觉得：这次稳了？"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 6.19,
+      "end": 9.75,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Mr. Eames 就是这样，越开越有信心。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 10.1,
+      "end": 17.46,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是驾驶考试最怕的不是平时会不会开，而是危险突然出现时，你能不能马上反应。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 17.81,
+      "end": 20.73,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "考官只敲了一下车窗，他却慢了。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 21.08,
+      "end": 27.263,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天我们学一个小黑色幽默："
+        },
+        {
+          "lang": "en",
+          "text": "It was only a test, but the reaction was real"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 27.613,
+      "end": 30.053,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，先看考试压力。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 30.403,
+      "end": 36.823,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：Mr. Eames 第三次考驾照，先在拥挤交通中顺利驾驶。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 37.173,
+      "end": 42.193,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "I was being tested for a driving licence for the third time"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 42.543,
+      "end": 48.463,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他还说："
+        },
+        {
+          "lang": "en",
+          "text": "I had been asked to drive in heavy traffic and had done so successfully"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 48.813,
+      "end": 55.381,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Heavy traffic"
+        },
+        {
+          "lang": "zh",
+          "text": "是车很多、路况复杂；这一步通过了，所以他暂时表现不错。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 55.73,
+      "end": 63.978,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "being tested for a driving licence, for the third time, heavy traffic, done so successfully"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 64.328,
+      "end": 66.528,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，信心开始上来。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 66.878,
+      "end": 72.558,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：开出城后，他开始有了信心，甚至以为自己已经通过了。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 72.908,
+      "end": 79.56,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "After having been instructed to drive out of town, I began to acquire confidence"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 79.91,
+      "end": 86.022,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Acquire confidence"
+        },
+        {
+          "lang": "zh",
+          "text": "不是突然自大，而是一点点觉得自己做得到。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 86.372,
+      "end": 93.943,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他心里已经"
+        },
+        {
+          "lang": "en",
+          "text": "Sure that I had passed"
+        },
+        {
+          "lang": "zh",
+          "text": "，所以"
+        },
+        {
+          "lang": "en",
+          "text": "almost beginning to enjoy my test"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 94.293,
+      "end": 101.613,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧记住：被指示开出城，confidence 上升，危险也正是在这时容易被忽略。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 101.963,
+      "end": 105.203,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，考官提出最后一个假设。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 105.553,
+      "end": 114.593,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：考官说，假设有孩子突然过马路，我一敲窗，你必须在很短距离内停下。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 114.943,
+      "end": 120.419,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Let us suppose that a child suddenly crosses the road in front of you"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 120.769,
+      "end": 126.929,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意，这是考试里的 imagined situation，不是真的有孩子受伤。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 127.278,
+      "end": 133.038,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "规则是："
+        },
+        {
+          "lang": "en",
+          "text": "As soon as I tap on the window, you must stop within five feet"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 133.388,
+      "end": 141.108,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "suppose, suddenly crosses the road, tap on the window, stop within five feet"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 141.458,
+      "end": 145.418,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，声音很清楚，反应却太慢。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 145.768,
+      "end": 154.648,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：他听清了敲窗声，却反应太慢；猛踩刹车后，考官说出最后的黑色幽默。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 154.998,
+      "end": 160.81,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Though the sound could be heard clearly, it took me a long time to react"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 161.16,
+      "end": 167.875,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他终于"
+        },
+        {
+          "lang": "en",
+          "text": "pressed the brake pedal"
+        },
+        {
+          "lang": "zh",
+          "text": "，结果"
+        },
+        {
+          "lang": "en",
+          "text": "we were both thrown forward"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 168.225,
+      "end": 172.385,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "考官悲伤地说："
+        },
+        {
+          "lang": "en",
+          "text": "you have just killed that child"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 172.735,
+      "end": 181.015,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句话很严厉，但它是 test scenario 里的黑色幽默，重点不是伤害，而是 reaction too late。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 181.365,
+      "end": 186.923,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，标题说"
+        },
+        {
+          "lang": "en",
+          "text": "murder"
+        },
+        {
+          "lang": "zh",
+          "text": "，他真的撞到小孩了吗？"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 187.272,
+      "end": 195.152,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "没有。这里没有真实事故，也没有真实孩子受伤。考官是在做 emergency stop 的模拟测试。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 195.502,
+      "end": 198.425,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那为什么要用孩子过马路这个例子？"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 198.775,
+      "end": 206.575,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为孩子突然过马路，是驾驶里非常典型的 sudden hazard。司机必须提前观察，并且马上安全反应。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 206.925,
+      "end": 210.518,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是 Mr. Eames 明明听见了敲窗声。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 210.868,
+      "end": 218.156,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "听见不等于反应到位。课文最关键的一句是："
+        },
+        {
+          "lang": "en",
+          "text": "it took me a long time to react"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 218.506,
+      "end": 221.374,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以失败点不是 ear，是 reaction？"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 221.724,
+      "end": 230.484,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。考试要看的不是你有没有听见信号，而是信号出现以后，你能不能及时做出正确动作。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 230.834,
+      "end": 233.544,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那 confidence 是坏事吗？"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 233.894,
+      "end": 242.374,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。Confidence 可以帮助你稳定发挥；但 overconfidence 会让人放松警惕，以为自己已经过关。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 242.724,
+      "end": 249.287,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Acquire confidence"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "assume I have passed"
+        },
+        {
+          "lang": "zh",
+          "text": "不一样？"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 249.637,
+      "end": 255.877,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Exactly. One is gaining confidence, the other is guessing too early that the result is safe."
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 256.227,
+      "end": 259.592,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这课真正讲的是 hazard perception？"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 259.941,
+      "end": 266.021,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "是的。看见危险、判断危险、及时反应，比“我感觉我会开”更重要。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 266.371,
+      "end": 269.241,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那最后那句为什么这么重？"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 269.591,
+      "end": 276.631,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为它是黑色幽默。考官用很严肃的方式告诉他：在安全问题上，慢一点也可能太晚。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 276.981,
+      "end": 281.061,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I was being tested for a driving licence for the third time."
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 281.411,
+      "end": 285.875,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I had been asked to drive in heavy traffic and had done so successfully."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 286.225,
+      "end": 291.529,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "After having been instructed to drive out of town, I began to acquire confidence."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 291.879,
+      "end": 296.295,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Sure that I had passed, I was almost beginning to enjoy my test."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 296.644,
+      "end": 303.412,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The examiner must have been pleased with my performance, for he smiled and said, 'Just one more thing, Mr. Eames."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 303.762,
+      "end": 308.082,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Let us suppose that a child suddenly crosses the road in front of you."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 308.432,
+      "end": 312.776,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As soon as I tap on the window, you must stop within five feet.'"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 313.126,
+      "end": 317.95,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I continued driving and after some time, the examiner tapped loudly."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 318.3,
+      "end": 322.884,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Though the sound could be heard clearly, it took me a long time to react."
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 323.234,
+      "end": 327.458,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I suddenly pressed the brake pedal and we were both thrown forward."
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 327.808,
+      "end": 335.536,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The examiner looked at me sadly. 'Mr. Eames,' he said, in a mournful voice, 'you have just killed that child!'"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 335.886,
+      "end": 338.878,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "licence"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组词："
+        },
+        {
+          "lang": "en",
+          "text": "licence"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 339.227,
+      "end": 340.955,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "licence"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Licence"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 341.305,
+      "end": 349.257,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "licence"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Licence"
+        },
+        {
+          "lang": "zh",
+          "text": "是许可、执照。课文里是"
+        },
+        {
+          "lang": "en",
+          "text": "driving licence"
+        },
+        {
+          "lang": "zh",
+          "text": "，也就是驾照。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 349.607,
+      "end": 355.767,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "licence"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "驾照不是一张普通卡片，它表示你被允许开车，也说明你通过了安全测试。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 356.117,
+      "end": 367.012,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "licence"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "英国英语常写"
+        },
+        {
+          "lang": "en",
+          "text": "licence"
+        },
+        {
+          "lang": "zh",
+          "text": "，美国英语常写"
+        },
+        {
+          "lang": "en",
+          "text": "license"
+        },
+        {
+          "lang": "zh",
+          "text": "；这课按课文记"
+        },
+        {
+          "lang": "en",
+          "text": "licence"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 367.362,
+      "end": 375.018,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "licence"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "相关词一起记："
+        },
+        {
+          "lang": "en",
+          "text": "driving licence"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "examiner"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "being tested"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 375.368,
+      "end": 378.336,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "react"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组词："
+        },
+        {
+          "lang": "en",
+          "text": "react"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 378.686,
+      "end": 380.366,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "react"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "React"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 380.716,
+      "end": 383.803,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "react"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "React"
+        },
+        {
+          "lang": "zh",
+          "text": "是作出反应。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 384.153,
+      "end": 389.393,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "react"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它不只是 hear，也不只是 see；它是事情发生以后，你做出回应。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 389.743,
+      "end": 395.555,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "react"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Though the sound could be heard clearly, it took me a long time to react"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 395.905,
+      "end": 401.385,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "react"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这就是本课最重要的安全词：听见了，但反应慢了。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 401.735,
+      "end": 410.167,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "react"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你也可以说："
+        },
+        {
+          "lang": "en",
+          "text": "react quickly"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "react safely"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "react too slowly"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 410.516,
+      "end": 413.404,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "brake"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组词："
+        },
+        {
+          "lang": "en",
+          "text": "brake"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 413.754,
+      "end": 415.338,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "brake"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Brake"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 415.688,
+      "end": 421.576,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "brake"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Brake"
+        },
+        {
+          "lang": "zh",
+          "text": "是刹车，也可以指让车慢下来或停下来的装置。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 421.926,
+      "end": 425.782,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "brake"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里是"
+        },
+        {
+          "lang": "en",
+          "text": "brake pedal"
+        },
+        {
+          "lang": "zh",
+          "text": "，刹车踏板。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 426.132,
+      "end": 431.9,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "brake"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意它和"
+        },
+        {
+          "lang": "en",
+          "text": "break"
+        },
+        {
+          "lang": "zh",
+          "text": "发音一样，但意思完全不同。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 432.249,
+      "end": 439.849,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "brake"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Press the brake pedal"
+        },
+        {
+          "lang": "zh",
+          "text": "是踩刹车踏板；在故事里，他踩得太晚，动作又很突然。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 440.199,
+      "end": 446.879,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "brake"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以这个词要和 reaction 连在一起记：react in time, then brake safely。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 447.229,
+      "end": 456.109,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法从考试情境开始：Mr. Eames 不是自由驾驶，他正在被测试、被要求、被指示。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 456.459,
+      "end": 459.419,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一条线是 passive test language。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 459.769,
+      "end": 465.341,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "I was being tested for a driving licence"
+        },
+        {
+          "lang": "zh",
+          "text": "，正在被测试。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 465.69,
+      "end": 473.19,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "又说："
+        },
+        {
+          "lang": "en",
+          "text": "I had been asked to drive in heavy traffic"
+        },
+        {
+          "lang": "zh",
+          "text": "，已经被要求在拥挤交通中驾驶。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 473.54,
+      "end": 479.696,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "还有："
+        },
+        {
+          "lang": "en",
+          "text": "After having been instructed to drive out of town"
+        },
+        {
+          "lang": "zh",
+          "text": "，被指示开出城以后。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 480.046,
+      "end": 486.31,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二条线是推断："
+        },
+        {
+          "lang": "en",
+          "text": "The examiner must have been pleased with my performance"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 486.66,
+      "end": 495.172,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "must have been"
+        },
+        {
+          "lang": "zh",
+          "text": "不是“必须”，而是“想必、一定是”，因为 Mr. Eames 看见考官笑了。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 495.521,
+      "end": 502.761,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三条线是时间和反应："
+        },
+        {
+          "lang": "en",
+          "text": "As soon as I tap on the window, you must stop within five feet"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 503.111,
+      "end": 508.527,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As soon as"
+        },
+        {
+          "lang": "zh",
+          "text": "是一...就...，要求动作马上发生。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 508.877,
+      "end": 513.245,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是结果是："
+        },
+        {
+          "lang": "en",
+          "text": "it took me a long time to react"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 513.595,
+      "end": 523.275,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天带走三组表达："
+        },
+        {
+          "lang": "en",
+          "text": "was being tested"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "must have been pleased"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "it took me a long time to react"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 523.624,
+      "end": 530.24,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把驾照考试换成一个更适合你的安全练习："
+        },
+        {
+          "lang": "en",
+          "text": "The Bicycle Safety Drill"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 530.59,
+      "end": 537.83,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你正在练习 bicycle safety。老师举手时，你必须在短距离内安全停下。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 538.18,
+      "end": 543.212,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "前面几次练得不错，你开始"
+        },
+        {
+          "lang": "en",
+          "text": "acquire confidence"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 543.562,
+      "end": 547.802,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是真正信号来了，你反应太慢，刹车也太晚。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 548.152,
+      "end": 555.992,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你要用今天的语言说明：你正在被测试，听到信号后应该做什么，为什么这次反应慢了。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 556.342,
+      "end": 561.958,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以说："
+        },
+        {
+          "lang": "en",
+          "text": "It took me too long to react, so I pressed the brake too late"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 562.307,
+      "end": 571.907,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，用 word bank 补完整 5 个空，把 safety drill, confidence, signal, reaction 和 improvement 说清楚。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 572.257,
+      "end": 580.137,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 580.487,
+      "end": 586.687,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓考试线："
+        },
+        {
+          "lang": "en",
+          "text": "I was being tested for a driving licence for the third time"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 587.037,
+      "end": 591.517,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓信心线："
+        },
+        {
+          "lang": "en",
+          "text": "I began to acquire confidence"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 591.867,
+      "end": 598.107,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓规则线："
+        },
+        {
+          "lang": "en",
+          "text": "As soon as I tap on the window, you must stop within five feet"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 598.457,
+      "end": 605.048,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后抓失败线："
+        },
+        {
+          "lang": "en",
+          "text": "Though the sound could be heard clearly, it took me a long time to react"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 605.398,
+      "end": 617.598,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，② 完形，③ 中译英，④ 英译中，⑤ 拓展阅读，⑥ 句式仿写，⑦ 默写。"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 617.948,
+      "end": 624.188,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "confidence is useful only when attention and reaction stay awake"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 69
+}

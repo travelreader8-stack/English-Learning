@@ -1,0 +1,150 @@
+{
+  "lesson_id": 69,
+  "reading": {
+    "title": "The Last Signal",
+    "intro_zh": "这篇延展阅读把 Lesson 69 的“信心、信号和反应”换到自行车安全测试场景。短文为原创故事，不复述 Mr. Eames，也不描写真实事故。",
+    "source": {
+      "title": "Bicycle Safety",
+      "publisher": "National Highway Traffic Safety Administration",
+      "url": "https://www.nhtsa.gov/road-safety/bicycle-safety"
+    },
+    "passage": [
+      "Riley was taking a bicycle safety test at the community playground. The examiner was not testing speed; she wanted to know whether each rider could notice a hazard and stop safely. Riley had practised turning around cones and riding between two painted lines. He did both parts successfully, so he began to acquire confidence. He even thought the final part would be easy.",
+      "The examiner pointed to an empty path and said, \"Let us suppose that someone suddenly steps onto the path. As soon as I tap this board, you must stop within a short distance.\" Riley nodded and kept riding. A minute later, the examiner tapped the board loudly. The sound was clear, but Riley looked at the cones first and reacted too slowly. He pressed the brake pedal late and stopped past the marker. The examiner asked him to notice the whole path, not only the nearest cone, because hazards can come from the side.",
+      "No one was hurt, and the path was still empty. The examiner spoke seriously but kindly. \"You heard the signal,\" she said, \"but safety depends on reacting in time.\" Riley understood the lesson. Confidence was useful only when his attention stayed awake. On the next try, he watched the whole path, heard the tap, and stopped safely within the line."
+    ],
+    "questions": [
+      {
+        "id": "test_type",
+        "question": "What kind of test was Riley taking?",
+        "options": [
+          "A spelling test about traffic signs.",
+          "A bicycle safety test at the community playground.",
+          "A driving licence test in heavy traffic.",
+          "A race to see who could ride fastest."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "第一段说 Riley was taking a bicycle safety test at the community playground。"
+      },
+      {
+        "id": "why_confident",
+        "question": "Why did Riley begin to acquire confidence?",
+        "options": [
+          "He had already done the cone and line practice successfully.",
+          "The examiner promised to give him a licence.",
+          "He ignored every safety rule on the path.",
+          "He had never made a mistake on a bicycle."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "第一段说他 successfully 完成了绕 cones 和骑过 painted lines，所以开始有信心。"
+      },
+      {
+        "id": "signal",
+        "question": "What signal did the examiner give for the final stop?",
+        "options": [
+          "She shouted Riley's name from a car.",
+          "She turned on a dashboard screen.",
+          "She waved a licence card in the air.",
+          "She tapped a board loudly."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "第二段说 the examiner tapped the board loudly。"
+      },
+      {
+        "id": "why_failed",
+        "question": "Why did Riley fail the final part at first?",
+        "options": [
+          "He could not hear the signal at all.",
+          "He reacted too slowly and stopped past the marker.",
+          "He refused to press the brake pedal.",
+          "He rode into real traffic outside the playground."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "第二段说声音很清楚，但 Riley reacted too slowly，并且 stopped past the marker。"
+      },
+      {
+        "id": "lesson_learned",
+        "question": "What lesson did Riley learn?",
+        "options": [
+          "Confidence is enough, even without attention.",
+          "A loud signal is more important than safe riding.",
+          "Safety depends on noticing hazards and reacting in time.",
+          "The fastest rider always passes a safety test."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结尾强调 safety depends on reacting in time，并说 confidence 只有在 attention stay awake 时才有用。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 69 的测试和反应句式：用 was being tested for 写正在被测试，用 After having been instructed to 写收到指令后的动作，用 began to acquire confidence 写信心逐渐上来，用 Let us suppose that 写假设情境，用 It took me ... to react 写反应延迟。",
+    "patterns": [
+      {
+        "id": "was_being_tested_for",
+        "title": "was being tested for ...",
+        "source": "I was being tested for a driving licence",
+        "focus_zh": "这个结构说明某人正在为了某个技能、资格或安全项目接受测试。",
+        "task_zh": "仿写一句：写一个人正在接受自行车安全、游泳、急救或体育技能测试。",
+        "must_include": [
+          "was being tested for"
+        ],
+        "min_words": 9,
+        "sample": "Liam was being tested for a bicycle safety certificate.",
+        "tip_zh": "was being tested for 后面接测试目标，不要把 for 漏掉。"
+      },
+      {
+        "id": "after_having_been_instructed_to",
+        "title": "After having been instructed to ...",
+        "source": "After having been instructed to drive out of town",
+        "focus_zh": "这个结构很正式，表示“在已经被指示做某事以后”。",
+        "task_zh": "仿写一句：写一个人听完老师、教练或考官的指令以后开始行动。",
+        "must_include": [
+          "After having been instructed to"
+        ],
+        "min_words": 12,
+        "sample": "After having been instructed to wait for the signal, I stood still.",
+        "tip_zh": "这个开头较长，后面主句要清楚写出真正动作。"
+      },
+      {
+        "id": "began_to_acquire_confidence",
+        "title": "began to acquire confidence",
+        "source": "I began to acquire confidence",
+        "focus_zh": "这个表达强调信心逐渐增长，适合写练习顺利后的心理变化。",
+        "task_zh": "仿写一句：写一个人在几次成功之后逐渐有了信心。",
+        "must_include": [
+          "began to acquire confidence"
+        ],
+        "min_words": 10,
+        "sample": "After three safe turns, I began to acquire confidence again.",
+        "tip_zh": "acquire confidence 比 get confidence 更书面，也更贴近课文。"
+      },
+      {
+        "id": "let_us_suppose_that",
+        "title": "Let us suppose that ...",
+        "source": "Let us suppose that a child suddenly crosses the road",
+        "focus_zh": "这个结构用来设定假设场景，常见于讲规则、测试或推理。",
+        "task_zh": "仿写一句：写一个老师或教练提出安全假设，让学生说明该怎么做。",
+        "must_include": [
+          "Let us suppose that"
+        ],
+        "min_words": 11,
+        "sample": "Let us suppose that a ball suddenly rolls onto the path.",
+        "tip_zh": "suppose 后面接完整从句，说明假设中发生了什么。"
+      },
+      {
+        "id": "it_took_me_to_react",
+        "title": "It took me ... to react",
+        "source": "it took me a long time to react",
+        "focus_zh": "这个结构说明反应花了多久，可以用来承认反应太慢或说明进步。",
+        "task_zh": "仿写一句：写一次信号出现后，你反应很慢或很快。",
+        "must_include": [
+          "It took me",
+          "to react"
+        ],
+        "min_words": 9,
+        "sample": "It took me only a second to react to the whistle.",
+        "tip_zh": "It took me 后面放时间，再用 to react 说明动作。"
+      }
+    ]
+  }
+}

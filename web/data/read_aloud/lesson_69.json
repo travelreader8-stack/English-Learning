@@ -1,0 +1,108 @@
+{
+  "lesson_id": 69,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按“第三次考驾照 -> 拥挤交通中成功 -> 开出城后有信心 -> 假设突发危险 -> 敲窗后必须停车 -> 听见但反应太慢 -> 猛踩刹车”的故事线跟读。重点读清 being tested, for the third time, had been asked, acquire confidence, Let us suppose, As soon as, within five feet, react 和 brake pedal。",
+  "sentences": [
+    {
+      "id": "l69_s1",
+      "text": "I was being tested for a driving licence for the third time.",
+      "focus_zh": "中文锚点：我第三次接受驾照考试。注意 was being tested 是正在被测试，for the third time 要读出“第三次”的压力。",
+      "start": 276.981,
+      "end": 281.061,
+      "focus_words": [
+        "was being tested",
+        "driving licence",
+        "for the third time"
+      ]
+    },
+    {
+      "id": "l69_s2",
+      "text": "I had been asked to drive in heavy traffic and had done so successfully.",
+      "focus_zh": "中文锚点：我被要求在拥挤交通中驾驶，并且顺利完成了。had been asked 是完成时被动，heavy traffic 和 successfully 形成“先成功”的铺垫。",
+      "start": 281.411,
+      "end": 285.875,
+      "focus_words": [
+        "had been asked",
+        "heavy traffic",
+        "done so successfully"
+      ]
+    },
+    {
+      "id": "l69_s3",
+      "text": "After having been instructed to drive out of town, I began to acquire confidence.",
+      "focus_zh": "中文锚点：被指示开出城后，我开始有了信心。After having been instructed 是长开头，began to acquire confidence 要读出信心逐渐上来。",
+      "start": 286.225,
+      "end": 291.529,
+      "focus_words": [
+        "After having been instructed",
+        "drive out of town",
+        "began to acquire confidence"
+      ]
+    },
+    {
+      "id": "l69_s4",
+      "text": "The examiner must have been pleased with my performance, for he smiled and said, 'Just one more thing, Mr. Eames.'",
+      "focus_zh": "中文锚点：考官想必对我的表现很满意，因为他笑着说：只剩一项了。must have been 是对过去的强推断，performance 读清第二音节。",
+      "start": 296.644,
+      "end": 303.412,
+      "focus_words": [
+        "examiner",
+        "must have been pleased",
+        "performance",
+        "Just one more thing"
+      ]
+    },
+    {
+      "id": "l69_s5",
+      "text": "Let us suppose that a child suddenly crosses the road in front of you.",
+      "focus_zh": "中文锚点：让我们假设一个孩子突然在你面前穿过马路。Let us suppose 用来设置假设情境，这里是模拟测试，不是真实事故。",
+      "start": 303.762,
+      "end": 308.082,
+      "focus_words": [
+        "Let us suppose",
+        "child",
+        "suddenly crosses",
+        "in front of you"
+      ]
+    },
+    {
+      "id": "l69_s6",
+      "text": "As soon as I tap on the window, you must stop within five feet.",
+      "focus_zh": "中文锚点：我一敲车窗，你就必须在五英尺内停下。As soon as 是一...就...，within five feet 是测试的短距离条件。",
+      "start": 308.432,
+      "end": 312.776,
+      "focus_words": [
+        "As soon as",
+        "tap on the window",
+        "must stop",
+        "within five feet"
+      ]
+    },
+    {
+      "id": "l69_s7",
+      "text": "Though the sound could be heard clearly, it took me a long time to react.",
+      "focus_zh": "中文锚点：虽然声音听得很清楚，但我花了很长时间才反应过来。Though 先让步，it took me a long time to react 是失败关键。",
+      "start": 318.3,
+      "end": 322.884,
+      "focus_words": [
+        "Though",
+        "could be heard clearly",
+        "took me a long time",
+        "react"
+      ]
+    },
+    {
+      "id": "l69_s8",
+      "text": "I suddenly pressed the brake pedal and we were both thrown forward.",
+      "focus_zh": "中文锚点：我突然踩下刹车踏板，我们俩都向前冲去。pressed the brake pedal 是动作，were both thrown forward 是被动结果。",
+      "start": 323.234,
+      "end": 327.458,
+      "focus_words": [
+        "suddenly",
+        "pressed",
+        "brake pedal",
+        "both thrown forward"
+      ]
+    }
+  ]
+}

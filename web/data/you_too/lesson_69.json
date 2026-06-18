@@ -1,0 +1,51 @@
+{
+  "lesson_id": 69,
+  "title": "The Bicycle Safety Drill",
+  "question": "把今天“被测试 -> 信号出现 -> 及时反应 -> 安全刹车”的表达，放进 bicycle safety drill 场景：用 word bank 补完整 5 个空。",
+  "example_answer": "I am being tested in a bicycle safety drill. At first, I ride slowly and begin to acquire confidence. My teacher says, 'As soon as I raise my hand, you must stop safely.' This time, it takes me too long to react, so I press the brake too late. Next time, I will watch carefully and react as soon as I see the signal.",
+  "word_bank": [
+    "being tested",
+    "acquire confidence",
+    "As soon as",
+    "too long to react",
+    "press the brake",
+    "safety drill",
+    "within a short distance",
+    "watch carefully",
+    "raise my hand",
+    "stop safely"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说明自己正在参加安全练习测试",
+      "english_template": "I am ___ in a bicycle safety drill.",
+      "expected_phrase": "being tested"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说明前面做得顺利后逐渐有了信心",
+      "english_template": "After the easy practice, I begin to ___.",
+      "expected_phrase": "acquire confidence"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "用一...就...说明信号和动作",
+      "english_template": "___ I see the signal, I must stop safely.",
+      "expected_phrase": "As soon as"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "承认这次反应太慢",
+      "english_template": "This time, it takes me ___.",
+      "expected_phrase": "too long to react"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "说明应该及时刹车",
+      "english_template": "I need to watch carefully and ___.",
+      "expected_phrase": "press the brake"
+    }
+  ],
+  "mode": "all_fills"
+}
