@@ -1,0 +1,23 @@
+{
+  "lesson_id": 68,
+  "title": "Persistent",
+  "visual_consistency": "A continuous light social-comedy illustration sequence on a quiet modern morning street, later near a simple waiting-room doorway. Show the same two characters across all frames: Elizabeth, a teenage girl or young adult with shoulder-length dark brown hair, soft oval face, navy cardigan over a pale yellow top, slim build, polite but uncomfortable expression, carrying a small canvas shoulder bag; and Nigel Dykes, a cheerful teenage boy or young adult with short sandy hair, round friendly face, green jacket over a white shirt, average build, energetic body language, over-eager and oblivious but never threatening. Keep the tone awkward, comic, and human. Images must contain no readable street signs, shop signs, dental signs, appointment cards, waiting-room posters, magazine cover text, phone screens, captions, speech bubbles, UI panels, numbers, labels, or fake writing.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Frame 1 of a continuous light social-comedy story: Elizabeth, the same teenage girl or young adult with shoulder-length dark brown hair, navy cardigan, pale yellow top, slim build, and a small canvas shoulder bag, notices Nigel Dykes from across a quiet modern morning street. Nigel is visible in the distance, the same cheerful young man with short sandy hair and green jacket, not yet interacting. Elizabeth is mid-step crossing the street to avoid meeting him, with an awkward recognition expression and polite posture. Soft city sidewalk, crosswalk, morning light, warm realistic illustration. No readable text, no street signs, no shop signs, no traffic labels, no phone screens, no speech bubbles, no captions, no numbers, no fake writing."
+    },
+    {
+      "frame": 2,
+      "prompt": "Frame 2 of the same continuous story: Nigel Dykes, the same cheerful young man with short sandy hair, green jacket, round friendly face, and energetic body language, runs over happily toward Elizabeth on the sidewalk. Elizabeth, the same young woman with navy cardigan, pale yellow top, shoulder bag, and dark brown hair, gives a small polite wave while looking uncomfortable and caught. The scene should feel comic and socially awkward, not frightening or aggressive. Quiet street background, soft morning light. No readable text, no signs, no labels, no posters, no speech bubbles, no phone screens, no captions, no numbers."
+    },
+    {
+      "frame": 3,
+      "prompt": "Frame 3 of the same continuous story: Nigel stands close beside Elizabeth and talks eagerly, leaning forward with bright friendly energy, while Elizabeth tries to explain her plan and subtly steps back, holding one hand in a gentle boundary gesture. Both remain sympathetic and human. Same clothing and faces as earlier: Elizabeth in navy cardigan and pale yellow top with shoulder bag, Nigel in green jacket and white shirt. Light city sidewalk setting with clear body language showing interruption and social pressure. No readable text, no signs, no shop windows with words, no posters, no speech bubbles, no phone screens, no captions, no numbers, no fake writing."
+    },
+    {
+      "frame": 4,
+      "prompt": "Frame 4 of the same continuous story: Elizabeth mentions the dentist with a hopeful but awkward expression while Nigel looks delighted and points cheerfully toward a simple waiting-room-like entrance area. The waiting area has plain chairs and generic magazines with completely blank covers or abstract shapes, no readable words. Elizabeth is the same young woman with navy cardigan, pale yellow top, shoulder bag, polite discomfort; Nigel is the same cheerful young man with green jacket, oblivious and pleased, never threatening. Warm social-comedy tone. No readable dental signs, no waiting-room posters, no appointment cards, no magazine text, no labels, no speech bubbles, no captions, no numbers, no fake writing."
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "lesson_id": 68,
+  "title": "I Need To Go Alone",
+  "question": "把今天“礼貌请求 -> 清楚边界 -> 不撒谎也不伤人”的表达，放进 school library 场景：用 word bank 补完整 5 个空。",
+  "example_answer": "I am busy finishing my project in the library. My classmate asks, 'Would you mind my coming with you?' I say, 'I'm sorry, I need to work alone today.' He still wants to come because he has nothing to do. I answer kindly, 'Maybe another time. Please don't follow me around all morning.'",
+  "word_bank": [
+    "finishing my project",
+    "my coming with you",
+    "work alone today",
+    "Maybe another time",
+    "follow me around all morning",
+    "busy doing something",
+    "need quiet time",
+    "polite but clear",
+    "insist on coming",
+    "avoid lying"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说明自己正在忙一件具体的事",
+      "english_template": "I am busy ___ in the library.",
+      "expected_phrase": "finishing my project"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "回应同学的礼貌请求",
+      "english_template": "Would you mind ___?",
+      "expected_phrase": "my coming with you"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "清楚说明今天需要一个人完成",
+      "english_template": "I'm sorry, I need to ___.",
+      "expected_phrase": "work alone today"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "给出友好的下次可能",
+      "english_template": "___. Today I need quiet time.",
+      "expected_phrase": "Maybe another time"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "礼貌但明确地阻止对方一直跟着",
+      "english_template": "Please don't ___.",
+      "expected_phrase": "follow me around all morning"
+    }
+  ],
+  "mode": "all_fills"
+}

@@ -1,0 +1,116 @@
+{
+  "lesson_id": 68,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按“避开 Nigel -> 假装没用 -> persistent 性格 -> 想办法阻止跟随 -> 礼貌请求带来压力 -> 牙医借口失败”的故事线跟读。重点读清 avoid meeting, It was no use pretending, No matter how, insists on coming, preventing him from following, Would you mind my coming 和 waiting room 的笑点。",
+  "sentences": [
+    {
+      "id": "l68_s1",
+      "text": "I crossed the street to avoid meeting him, but he saw me and came running towards me.",
+      "focus_zh": "中文锚点：我穿过马路想避开遇见他，但他看见了我并朝我跑来。注意 avoid meeting 的 doing，后半句 came running towards me 要读出动作链。",
+      "start": 253.064,
+      "end": 258.056,
+      "focus_words": [
+        "crossed the street",
+        "avoid meeting",
+        "he saw me",
+        "came running",
+        "towards me"
+      ]
+    },
+    {
+      "id": "l68_s2",
+      "text": "It was no use pretending that I had not seen him, so I waved to him.",
+      "focus_zh": "中文锚点：再假装没看见已经没用了，所以我向他招手。It was no use 后面接 pretending，so I waved to him 是无奈但礼貌的动作。",
+      "start": 258.405,
+      "end": 262.845,
+      "focus_words": [
+        "It was no use",
+        "pretending",
+        "had not seen him",
+        "so",
+        "waved to him"
+      ]
+    },
+    {
+      "id": "l68_s3",
+      "text": "No matter how busy you are, he always insists on coming with you.",
+      "focus_zh": "中文锚点：不管你多忙，他总是坚持要跟你一起去。No matter how busy 先让步，always insists on coming 读出反复习惯。",
+      "start": 269.415,
+      "end": 273.807,
+      "focus_words": [
+        "No matter how",
+        "busy",
+        "always",
+        "insists on coming",
+        "with you"
+      ]
+    },
+    {
+      "id": "l68_s4",
+      "text": "I had to think of a way of preventing him from following me around all morning.",
+      "focus_zh": "中文锚点：我得想办法阻止他整个上午跟着我。a way of preventing 和 from following 都要接 doing，around all morning 读出被缠住的时间感。",
+      "start": 274.157,
+      "end": 278.909,
+      "focus_words": [
+        "think of a way",
+        "preventing him",
+        "from following me",
+        "around",
+        "all morning"
+      ]
+    },
+    {
+      "id": "l68_s5",
+      "text": "'Hello, Nigel,' I said. 'Fancy meeting you here!'",
+      "focus_zh": "中文锚点：你好，Nigel，真没想到在这儿遇见你。Fancy meeting you here 是口语惊讶，语气要自然，不要读成正式作文句。",
+      "start": 279.259,
+      "end": 284.179,
+      "focus_words": [
+        "Hello, Nigel",
+        "I said",
+        "Fancy meeting",
+        "you here"
+      ]
+    },
+    {
+      "id": "l68_s6",
+      "text": "'Would you mind my coming with you?' he asked, before I had finished speaking.",
+      "focus_zh": "中文锚点：还没等我说完，他就问我是否介意他一起去。Would you mind my coming 是礼貌请求，before I had finished speaking 读出时机太急。",
+      "start": 300.17,
+      "end": 304.85,
+      "focus_words": [
+        "Would you mind",
+        "my coming",
+        "with you",
+        "before",
+        "finished speaking"
+      ]
+    },
+    {
+      "id": "l68_s7",
+      "text": "'Not at all,' I lied, 'but I'm going to the dentist.'",
+      "focus_zh": "中文锚点：没关系，我撒了个谎，但我要去看牙医。Not at all 很短，I lied 要轻轻落下，dentist 两个音节，重音在前。",
+      "start": 305.2,
+      "end": 308.848,
+      "focus_words": [
+        "Not at all",
+        "I lied",
+        "I'm going to",
+        "the dentist"
+      ]
+    },
+    {
+      "id": "l68_s8",
+      "text": "'Then I'll come with you,' he answered. 'There's always plenty to read in the waiting room!'",
+      "focus_zh": "中文锚点：那我也跟你去，候诊室里总有很多东西可读。Then I'll come with you 读出 Nigel 的开心，plenty to read 是笑点。",
+      "start": 309.198,
+      "end": 315.006,
+      "focus_words": [
+        "Then I'll come",
+        "with you",
+        "plenty to read",
+        "waiting room"
+      ]
+    }
+  ]
+}

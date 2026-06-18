@@ -1,0 +1,162 @@
+{
+  "lesson_id": 68,
+  "reading": {
+    "title": "Maybe Another Time",
+    "intro_zh": "这篇延展阅读把 Lesson 68 的“太 persistent 的朋友”和“清楚但礼貌的边界”换到学校图书馆场景。短文为原创故事，不复述 Elizabeth 和 Nigel，而是练习 avoid, insist, Would you mind 和 Maybe another time。",
+    "source": {
+      "title": "Original courseware story",
+      "publisher": "English Learning courseware"
+    },
+    "word_bank": [
+      "persistent",
+      "avoid",
+      "pretend",
+      "insist",
+      "prevent",
+      "busy",
+      "Would you mind",
+      "alone",
+      "Maybe another time",
+      "polite"
+    ],
+    "passage": [
+      "Mia wanted to finish her history project before lunch, so she walked to the library by herself. She saw Leo near the stairs and almost turned around to avoid meeting him, because Leo was friendly but very persistent. He often had nothing to do and insisted on joining other people's plans. Mia did not want to pretend she had a meeting or invent a false excuse.",
+      "Leo smiled and asked, \"Would you mind my coming with you?\" Mia took a breath. \"I'm sorry,\" she said, \"I need to work alone today. Maybe another time.\" Leo looked disappointed and asked again, but Mia repeated the sentence calmly. She also explained that quiet time would prevent her from missing the deadline. At last, Leo nodded and went to the club room instead.",
+      "After school, Leo told Mia that he had not realized he was pushing too hard. Mia learned that a polite boundary can protect a friendship better than a lie. Leo learned that being friendly also means giving people space."
+    ],
+    "questions": [
+      {
+        "id": "what_needed",
+        "question": "What did Mia need to do alone?",
+        "options": [
+          "Buy new magazines for the waiting room.",
+          "Finish her history project in the library.",
+          "Meet a dentist before lunch.",
+          "Run across the street to greet Leo."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "第一段说 Mia wanted to finish her history project before lunch，所以她一个人去图书馆。"
+      },
+      {
+        "id": "how_persistent",
+        "question": "How did Leo show persistence?",
+        "options": [
+          "He finished Mia's project without asking.",
+          "He waited silently and never spoke.",
+          "He pretended he had a meeting.",
+          "He often insisted on joining other people's plans."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "第一段说 Leo often had nothing to do and insisted on joining other people's plans。"
+      },
+      {
+        "id": "why_not_pretend",
+        "question": "Why was pretending or inventing an excuse not the best solution?",
+        "options": [
+          "A clear polite boundary was better for the friendship.",
+          "Leo already knew the whole history project.",
+          "The library did not allow quiet study.",
+          "Mia wanted Leo to feel embarrassed."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "短文最后说 a polite boundary can protect a friendship better than a lie。"
+      },
+      {
+        "id": "boundary_sentence",
+        "question": "Which sentence did Mia use to set a polite boundary?",
+        "options": [
+          "There is always plenty to read here.",
+          "You must never speak to me again.",
+          "I'm sorry, I need to work alone today. Maybe another time.",
+          "I crossed the street to avoid the club room."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "第二段直接给出 Mia 的边界句：I'm sorry, I need to work alone today. Maybe another time."
+      },
+      {
+        "id": "lesson_learned",
+        "question": "What did both students learn?",
+        "options": [
+          "Friends should always follow each other everywhere.",
+          "Friendship needs both kindness and space.",
+          "Lying is the quickest way to keep a friend.",
+          "Persistent people are always bad people."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "结尾说 Mia 学到礼貌边界比谎言更能保护友谊，Leo 学到友好也包括给别人空间。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 68 的边界表达句式：用 crossed ... to avoid ... 写目的，用 It was no use ... 写无效动作，用 No matter how ..., he always ... 写反复习惯，用 prevent ... from ... 写阻止，用 Would you mind my ...? 写礼貌请求。",
+    "patterns": [
+      {
+        "id": "crossed_to_avoid",
+        "title": "crossed ... to avoid ...",
+        "source": "I crossed the street to avoid meeting him",
+        "focus_zh": "这个结构把动作和目的放在一起：先写做了什么，再用 to avoid 说明想避开什么。",
+        "task_zh": "仿写一句：写一个人在学校、图书馆或走廊里改变路线，是为了避免打扰、迟到或碰到某个尴尬情况。",
+        "must_include": [
+          "to avoid"
+        ],
+        "min_words": 10,
+        "sample": "I crossed the hallway to avoid interrupting the quiet reading class.",
+        "tip_zh": "to avoid 后面可以接名词，也可以接 doing，比如 avoid making noise。"
+      },
+      {
+        "id": "no_use_doing",
+        "title": "It was no use ...",
+        "source": "It was no use pretending that I had not seen him",
+        "focus_zh": "这个结构表示某个做法已经没有帮助，后面常接 doing。",
+        "task_zh": "仿写一句：写一个人发现继续假装、抱怨或拖延都没有用，只能面对问题。",
+        "must_include": [
+          "It was no use"
+        ],
+        "min_words": 10,
+        "sample": "It was no use pretending that I had finished the project.",
+        "tip_zh": "It was no use 后面直接接 doing，不要写成 to do。"
+      },
+      {
+        "id": "no_matter_how_always",
+        "title": "No matter how ..., he always ...",
+        "source": "No matter how busy you are, he always insists on coming with you",
+        "focus_zh": "这个结构适合写一个反复出现的习惯，不管条件怎样，结果都一样。",
+        "task_zh": "仿写一句：写一个人不管别人多忙、多累或多安静，总是做同一件让人有压力的事。",
+        "must_include": [
+          "No matter how",
+          "always"
+        ],
+        "min_words": 12,
+        "sample": "No matter how busy we are, he always asks to join our study group.",
+        "tip_zh": "No matter how 后面放形容词或副词，主句里用 always 写习惯。"
+      },
+      {
+        "id": "prevent_from_doing",
+        "title": "prevent ... from ...",
+        "source": "preventing him from following me around all morning",
+        "focus_zh": "prevent ... from doing 表示阻止某件事继续发生，适合写边界和规则。",
+        "task_zh": "仿写一句：写一个规则、计划或清楚的话语阻止某个不合适的行为继续发生。",
+        "must_include": [
+          "prevent",
+          "from"
+        ],
+        "min_words": 11,
+        "sample": "The quiet rule can prevent students from talking during reading time.",
+        "tip_zh": "from 后面的动作要用 doing，比如 from following, from interrupting。"
+      },
+      {
+        "id": "would_you_mind_my_doing",
+        "title": "Would you mind my ...?",
+        "source": "Would you mind my coming with you?",
+        "focus_zh": "这是一个礼貌请求，my 后面接 doing，但使用时也要看对方是否真的方便。",
+        "task_zh": "仿写一句：写一个礼貌请求，请别人允许你加入、借用或坐在旁边。",
+        "must_include": [
+          "Would you mind my"
+        ],
+        "min_words": 8,
+        "sample": "Would you mind my sitting here during the quiet study hour?",
+        "tip_zh": "Would you mind my 后面接 doing，比如 coming, sitting, joining。"
+      }
+    ]
+  }
+}

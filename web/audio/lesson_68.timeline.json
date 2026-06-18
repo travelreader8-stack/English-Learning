@@ -1,0 +1,1984 @@
+{
+  "total_duration": 577.339,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 2.84,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果有个同学总是要跟着你，你会怎么办？"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 3.19,
+      "end": 8.974,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他不一定是坏人，也许只是太热情、太"
+        },
+        {
+          "lang": "en",
+          "text": "persistent"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 9.324,
+      "end": 16.156,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是当你需要自己的时间，别人还一直"
+        },
+        {
+          "lang": "en",
+          "text": "insist on coming with you"
+        },
+        {
+          "lang": "zh",
+          "text": "，这就变成了打扰。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 16.505,
+      "end": 20.465,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Elizabeth 想躲开 Nigel，可 Nigel 偏偏看见了她。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 20.815,
+      "end": 26.663,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天我们学一个很实用的话题："
+        },
+        {
+          "lang": "en",
+          "text": "how to be polite, and still say no"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 27.013,
+      "end": 30.173,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，先看 Elizabeth 的第一反应。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 30.523,
+      "end": 35.763,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：Elizabeth 看见 Nigel，立刻穿过马路想避开他。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 36.113,
+      "end": 40.125,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "I crossed the street to avoid meeting him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 40.475,
+      "end": 45.786,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Avoid meeting him"
+        },
+        {
+          "lang": "zh",
+          "text": "不是不小心错过，而是主动避开见面。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 46.136,
+      "end": 51.536,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是 Nigel 已经看见她了，而且"
+        },
+        {
+          "lang": "en",
+          "text": "came running towards me"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 51.886,
+      "end": 58.886,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "crossed the street, to avoid meeting him, he saw me, came running towards me"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 59.236,
+      "end": 62.516,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，假装没看见已经来不及了。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 62.866,
+      "end": 68.146,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：她再装作没看见已经没用了，只好向他招手。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 68.496,
+      "end": 72.964,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "It was no use pretending that I had not seen him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 73.314,
+      "end": 81.489,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "pretending"
+        },
+        {
+          "lang": "zh",
+          "text": "是装作；"
+        },
+        {
+          "lang": "en",
+          "text": "It was no use"
+        },
+        {
+          "lang": "zh",
+          "text": "表示这招已经没用了。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 81.839,
+      "end": 88.215,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以她只能"
+        },
+        {
+          "lang": "en",
+          "text": "waved to him"
+        },
+        {
+          "lang": "zh",
+          "text": "，礼貌地打招呼，但心里并不轻松。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 88.565,
+      "end": 96.125,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "no use pretending, had not seen him, waved to him, never enjoy meeting Nigel"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 96.475,
+      "end": 100.195,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，Nigel 的 persistent 性格出现了。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 100.544,
+      "end": 105.704,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：Nigel 总是没事做，不管别人多忙，他都坚持要跟着。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 106.054,
+      "end": 111.674,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "No matter how busy you are, he always insists on coming with you"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 112.024,
+      "end": 117.976,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Elizabeth 必须想办法："
+        },
+        {
+          "lang": "en",
+          "text": "preventing him from following me around all morning"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 118.326,
+      "end": 123.558,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Nigel 表面上很客气，问："
+        },
+        {
+          "lang": "en",
+          "text": "Would you mind my coming with you?"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 123.908,
+      "end": 129.868,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但问题是，他在 Elizabeth 还没说完之前就问了，所以礼貌句子也变成了压力。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 130.218,
+      "end": 133.938,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，牙医借口失败，笑点落地。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 134.287,
+      "end": 141.087,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：她说要去看牙医，没想到 Nigel 还要跟去，因为候诊室有东西可读。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 141.437,
+      "end": 145.061,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Elizabeth 说："
+        },
+        {
+          "lang": "en",
+          "text": "I'm going to the dentist"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 145.411,
+      "end": 150.811,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她以为 dentist visit 很私人，也不有趣，可以让 Nigel 放弃。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 151.161,
+      "end": 158.641,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可 Nigel 回答："
+        },
+        {
+          "lang": "en",
+          "text": "Then I'll come with you"
+        },
+        {
+          "lang": "zh",
+          "text": "，还说候诊室里"
+        },
+        {
+          "lang": "en",
+          "text": "plenty to read"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 158.991,
+      "end": 164.991,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧记住：persistent 在这里不是邪恶，而是太不会看边界。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 165.34,
+      "end": 169.794,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，"
+        },
+        {
+          "lang": "en",
+          "text": "persistent"
+        },
+        {
+          "lang": "zh",
+          "text": "是不是一个坏词？"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 170.144,
+      "end": 176.824,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不一定。你坚持练琴、坚持背单词、坚持训练，这种 persistence 是优点。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 177.174,
+      "end": 180.097,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那 Nigel 为什么让人不舒服？"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 180.447,
+      "end": 187.367,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为他把坚持用在别人身上。别人需要空间，他还一直 insist，这就越过了 boundary。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 187.717,
+      "end": 190.457,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Elizabeth 为什么不直接说 no？"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 190.807,
+      "end": 199.407,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "很多人怕显得不礼貌，所以会绕弯、找借口。可是太不清楚的礼貌，有时会让局面更尴尬。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 199.757,
+      "end": 205.165,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "Would you mind my coming with you?"
+        },
+        {
+          "lang": "zh",
+          "text": "这句话不礼貌吗？"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 205.515,
+      "end": 212.395,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "句型本身很礼貌。但 Nigel 在她还没说完之前就插进来，context makes it pushy。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 212.745,
+      "end": 215.738,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以语法 polite，不一定真的 comfortable？"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 216.088,
+      "end": 220.488,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Exactly. Polite words need respectful timing。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 220.838,
+      "end": 224.299,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Elizabeth 说去看牙医，是不是一个好办法？"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 224.649,
+      "end": 231.209,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在故事里它制造了笑点；现实里，更好的办法是清楚又友好地说边界。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 231.558,
+      "end": 233.095,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "比如怎么说？"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 233.445,
+      "end": 243.728,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以说："
+        },
+        {
+          "lang": "en",
+          "text": "I'm sorry, I need to go alone today"
+        },
+        {
+          "lang": "zh",
+          "text": "。也可以说："
+        },
+        {
+          "lang": "en",
+          "text": "I can't this morning"
+        },
+        {
+          "lang": "zh",
+          "text": "，或者"
+        },
+        {
+          "lang": "en",
+          "text": "Maybe another time"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 244.078,
+      "end": 247.284,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这样既不羞辱对方，也不需要撒谎。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 247.634,
+      "end": 252.714,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。真正的礼貌，不只是会问，也包括会尊重别人的 no。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 253.064,
+      "end": 258.056,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I crossed the street to avoid meeting him, but he saw me and came running towards me."
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 258.405,
+      "end": 262.845,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It was no use pretending that I had not seen him, so I waved to him."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 263.195,
+      "end": 266.099,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I never enjoy meeting Nigel Dykes."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 266.449,
+      "end": 269.065,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He never has anything to do."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 269.415,
+      "end": 273.807,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "No matter how busy you are, he always insists on coming with you."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 274.157,
+      "end": 278.909,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "I had to think of a way of preventing him from following me around all morning."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 279.259,
+      "end": 284.179,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Hello, Nigel,' I said. 'Fancy meeting you here!'"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 284.529,
+      "end": 291.369,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Hi, Elizabeth,' Nigel answered. 'I was just wondering how to spend the morning -- until I saw you."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 291.719,
+      "end": 294.839,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "You're not busy doing anything, are you?'"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 295.188,
+      "end": 299.82,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'No, not at all,' I answered. 'I'm going to...'"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 300.17,
+      "end": 304.85,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Would you mind my coming with you?' he asked, before I had finished speaking."
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 305.2,
+      "end": 308.848,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Not at all,' I lied, 'but I'm going to the dentist.'"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 309.198,
+      "end": 315.006,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Then I'll come with you,' he answered. 'There's always plenty to read in the waiting room!'"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 315.356,
+      "end": 318.42,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "persistent"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组词："
+        },
+        {
+          "lang": "en",
+          "text": "persistent"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 318.77,
+      "end": 320.642,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "persistent"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Persistent"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 320.992,
+      "end": 323.776,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "persistent"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Persistent"
+        },
+        {
+          "lang": "zh",
+          "text": "有两面。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 324.125,
+      "end": 329.925,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "persistent"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "好的一面是坚持不懈，比如 persistent practice, persistent study。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 330.275,
+      "end": 336.355,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "persistent"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不好的一面是纠缠不休，别人已经需要空间了，你还不停推进。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 336.705,
+      "end": 342.369,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "persistent"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课的标题"
+        },
+        {
+          "lang": "en",
+          "text": "Persistent"
+        },
+        {
+          "lang": "zh",
+          "text": "用的是让人尴尬的那一面。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 342.719,
+      "end": 350.999,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "persistent"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住判断标准：坚持用在自己的目标上，可能是优点；坚持压到别人身上，就可能是打扰。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 351.349,
+      "end": 354.197,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "avoid"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组词："
+        },
+        {
+          "lang": "en",
+          "text": "avoid"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 354.547,
+      "end": 356.203,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "avoid"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Avoid"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 356.552,
+      "end": 359.88,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "avoid"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Avoid"
+        },
+        {
+          "lang": "zh",
+          "text": "是避开、避免。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 360.23,
+      "end": 363.998,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "avoid"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文第一句就是："
+        },
+        {
+          "lang": "en",
+          "text": "to avoid meeting him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 364.348,
+      "end": 370.828,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "avoid"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意这里不是"
+        },
+        {
+          "lang": "en",
+          "text": "avoid to meet"
+        },
+        {
+          "lang": "zh",
+          "text": "，而是"
+        },
+        {
+          "lang": "en",
+          "text": "avoid meeting"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 371.178,
+      "end": 380.393,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "avoid"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你也可以说："
+        },
+        {
+          "lang": "en",
+          "text": "avoid interrupting"
+        },
+        {
+          "lang": "zh",
+          "text": "，避免打断别人；"
+        },
+        {
+          "lang": "en",
+          "text": "avoid making noise"
+        },
+        {
+          "lang": "zh",
+          "text": "，避免制造噪音。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 380.743,
+      "end": 387.143,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "avoid"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在这个故事里，Elizabeth 不是讨厌所有人，只是想避免被 Nigel 缠上一上午。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 387.493,
+      "end": 390.645,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "insist"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组词："
+        },
+        {
+          "lang": "en",
+          "text": "insist"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 390.995,
+      "end": 392.747,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "insist"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Insist"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 393.097,
+      "end": 397.049,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "insist"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Insist"
+        },
+        {
+          "lang": "zh",
+          "text": "是坚持说、坚持要求。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 397.398,
+      "end": 401.266,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "insist"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "he always insists on coming with you"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 401.616,
+      "end": 405.088,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "insist"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "重点搭配是"
+        },
+        {
+          "lang": "en",
+          "text": "insist on doing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 405.438,
+      "end": 409.758,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "insist"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果你 insist on finishing your work，这是对目标负责。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 410.108,
+      "end": 414.788,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "insist"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果你 insist on joining someone who wants to be alone，这就不够尊重。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 415.138,
+      "end": 418.218,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "insist"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以今天学的不只是词义，还有边界感。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 418.568,
+      "end": 425.888,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法从一个社交场景开始：Elizabeth 想避开、想假装、想阻止 Nigel 跟着。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 426.238,
+      "end": 428.758,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组是 verb plus doing。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 429.107,
+      "end": 434.439,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "avoid meeting him"
+        },
+        {
+          "lang": "zh",
+          "text": "，不能说 avoid to meet。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 434.789,
+      "end": 440.033,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "又说："
+        },
+        {
+          "lang": "en",
+          "text": "It was no use pretending"
+        },
+        {
+          "lang": "zh",
+          "text": "，表示再假装也没有用了。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 440.383,
+      "end": 443.383,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组是 preposition plus doing。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 443.733,
+      "end": 448.037,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "insists on coming"
+        },
+        {
+          "lang": "zh",
+          "text": "，on 后面接 coming。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 448.387,
+      "end": 455.554,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "a way of preventing him from following me"
+        },
+        {
+          "lang": "zh",
+          "text": "，of 后面接 preventing，from 后面接 following。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 455.904,
+      "end": 460.896,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组是礼貌请求："
+        },
+        {
+          "lang": "en",
+          "text": "Would you mind my coming with you?"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 461.246,
+      "end": 468.006,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句话语法很客气，但如果别人还没说完你就提出要求，还是会让人有压力。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 468.356,
+      "end": 475.332,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以最后再学一个现实里的边界句："
+        },
+        {
+          "lang": "en",
+          "text": "I'm sorry, I need to go alone today"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 475.682,
+      "end": 484.338,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天带走三条线："
+        },
+        {
+          "lang": "en",
+          "text": "avoid meeting"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "insist on coming"
+        },
+        {
+          "lang": "zh",
+          "text": "，还有 polite request with a clear boundary。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 484.687,
+      "end": 490.823,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把街头偶遇换成一个学校图书馆场景："
+        },
+        {
+          "lang": "en",
+          "text": "I Need To Go Alone"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 491.173,
+      "end": 496.773,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你需要安静地完成 project，一个同学很友好，但一直想跟你一起去。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 497.123,
+      "end": 500.835,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他问："
+        },
+        {
+          "lang": "en",
+          "text": "Would you mind my coming with you?"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 501.185,
+      "end": 507.065,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你不要撒谎，也不要羞辱对方；你要清楚、礼貌地表达边界。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 507.415,
+      "end": 511.687,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以说："
+        },
+        {
+          "lang": "en",
+          "text": "I'm sorry, I need to work alone today"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 512.037,
+      "end": 515.604,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "也可以加一句："
+        },
+        {
+          "lang": "en",
+          "text": "Maybe another time"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 515.954,
+      "end": 523.914,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，用 word bank 补完整 5 个空，把 busy doing, polite request, clear boundary 说出来。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 524.264,
+      "end": 532.144,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 532.494,
+      "end": 537.998,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓避开线："
+        },
+        {
+          "lang": "en",
+          "text": "crossed the street to avoid meeting him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 538.348,
+      "end": 545.748,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓尴尬线："
+        },
+        {
+          "lang": "en",
+          "text": "It was no use pretending"
+        },
+        {
+          "lang": "zh",
+          "text": "，所以只能"
+        },
+        {
+          "lang": "en",
+          "text": "waved to him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 546.098,
+      "end": 553.057,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓 persistent 线："
+        },
+        {
+          "lang": "en",
+          "text": "No matter how busy you are, he always insists on coming with you"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "start": 553.407,
+      "end": 558.343,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后抓边界句："
+        },
+        {
+          "lang": "en",
+          "text": "I'm sorry, I need to go alone today"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 103,
+      "start": 558.693,
+      "end": 570.893,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，② 完形，③ 中译英，④ 英译中，⑤ 拓展阅读，⑥ 句式仿写，⑦ 默写。"
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "start": 571.243,
+      "end": 577.339,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "kindness needs boundaries, and polite English can still be clear"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 68
+}
