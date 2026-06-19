@@ -523,6 +523,40 @@ function renderReadAloud() {
   wrap.innerHTML = sentences.map((s, idx) => renderReadAloudCard(s, idx)).join("");
 }
 
+function preserveReadAloudSentencePosition(sentenceId, work) {
+  if (!sentenceId) {
+    return work();
+  }
+  const selector = `.read-aloud-card[data-sentence-id="${CSS.escape(sentenceId)}"]`;
+  const beforeCard = document.querySelector(selector);
+  const beforeTop = beforeCard?.getBoundingClientRect().top;
+  const beforeY = window.scrollY;
+
+  const result = work();
+
+  const restore = () => {
+    const afterCard = document.querySelector(selector);
+    if (afterCard && Number.isFinite(beforeTop)) {
+      const delta = afterCard.getBoundingClientRect().top - beforeTop;
+      if (Math.abs(delta) > 1) {
+        window.scrollBy({ top: delta, behavior: "instant" });
+      }
+      return;
+    }
+    if (Number.isFinite(beforeY)) {
+      window.scrollTo({ top: beforeY, behavior: "instant" });
+    }
+  };
+  restore();
+  requestAnimationFrame(restore);
+  setTimeout(restore, 120);
+  return result;
+}
+
+function renderReadAloudPreservingSentence(sentenceId) {
+  return preserveReadAloudSentencePosition(sentenceId, renderReadAloud);
+}
+
 function readAloudScore(scores, key) {
   const n = Number(scores?.[key]);
   return Number.isFinite(n) ? Math.round(n) : null;
@@ -631,12 +665,13 @@ function renderReadAloudCard(sentence, idx) {
   `;
 }
 
-function setReadAloudMessage(sentenceId, text, kind = "info") {
+function setReadAloudMessage(sentenceId, text, kind = "info", options = {}) {
   if (!sentenceId) return;
   if (!state._readAloudMessages) state._readAloudMessages = {};
   if (text) state._readAloudMessages[sentenceId] = { text, kind };
   else delete state._readAloudMessages[sentenceId];
-  renderReadAloud();
+  if (options.preserveScroll) renderReadAloudPreservingSentence(sentenceId);
+  else renderReadAloud();
 }
 
 function microphoneErrorMessage(e) {
@@ -733,7 +768,9 @@ function playFullAudio() {
 function playReadModel(sentenceId) {
   const sentence = getReadAloudSentences().find(s => s.id === sentenceId);
   if (!sentence) return;
-  playAudioSegment(Number(sentence.start), Number(sentence.end));
+  preserveReadAloudSentencePosition(sentenceId, () => {
+    playAudioSegment(Number(sentence.start), Number(sentence.end));
+  });
 }
 
 async function createWavRecorder() {
@@ -844,14 +881,13 @@ async function toggleReadRecording(sentenceId) {
     return;
   }
   if (current) await stopReadRecording(current.sentenceId);
-  setReadAloudMessage(sentenceId, "正在请求麦克风权限...", "info");
+  setReadAloudMessage(sentenceId, "正在请求麦克风权限...", "info", { preserveScroll: true });
   try {
     state._readAloudRecorder = { sentenceId, recorder: await createWavRecorder() };
-    setReadAloudMessage(sentenceId, "正在录音。读完这一句后，再点一次停止。", "info");
-    renderReadAloud();
+    setReadAloudMessage(sentenceId, "正在录音。读完这一句后，再点一次停止。", "info", { preserveScroll: true });
   } catch (e) {
     const msg = microphoneErrorMessage(e);
-    setReadAloudMessage(sentenceId, msg, "error");
+    setReadAloudMessage(sentenceId, msg, "error", { preserveScroll: true });
     showError(msg);
   }
 }
@@ -882,7 +918,7 @@ async function stopReadRecording(sentenceId) {
   } catch (e) {
     showError(e.message || "录音保存失败");
   } finally {
-    renderReadAloud();
+    renderReadAloudPreservingSentence(sentenceId);
   }
 }
 
@@ -935,7 +971,7 @@ async function submitReadAloud(sentenceId) {
     await saveReadAloudAttempt(updated).catch(() => {});
     markReadAloudAttempt(sentenceId, updated);
   } finally {
-    renderReadAloud();
+    renderReadAloudPreservingSentence(sentenceId);
   }
 }
 
