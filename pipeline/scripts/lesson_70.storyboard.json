@@ -1,0 +1,23 @@
+{
+  "lesson_id": 70,
+  "title": "Red for danger",
+  "visual_consistency": "A continuous tense but gentle comic sequence in the same old European bullring: sunlit circular sandy arena, distant soft-focus audience with no readable banners or posters, the same powerful alert bull throughout, the same focused matador in traditional clothing without readable decoration, and the same middle-aged drunk man with rumpled dark jacket, loose cream shirt, unsteady posture, foolishly confident expression, and a bright red cap as the recurring prop. Keep the bull expressive but not monstrous, the drunk never glamorous, and the tone safety-minded rather than heroic. No blood, injury, gore, animal suffering, readable signs, readable tickets, labels, speech bubbles, captions, posters, scoreboards, UI panels, or text anywhere in the images.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Frame 1 of a continuous non-graphic bullring comedy: a bullfight is already happening in a warm sunlit circular sandy arena. The same focused matador faces the same powerful alert bull at one side. The same middle-aged drunk man in a rumpled dark jacket and loose cream shirt wanders unsteadily into the middle of the ring, unaware and foolishly confident. The distant audience reacts with alarm through body language only, no readable banners or signs. The red cap is visible in the drunk man's hand. Gentle watercolor children's book illustration, tense but safe, no injury, no blood, no text."
+    },
+    {
+      "frame": 2,
+      "prompt": "Frame 2 of the same bullring sequence: the same drunk man waves the bright red cap and shouts rudely through facial expression and open-handed body language only, with no obscene gesture, no raised middle finger, and no speech bubble. He stands unsteadily in the sandy arena. The same powerful bull catches sight of him and turns its head sharply away from the same matador, who is momentarily ignored. The audience remains distant and text-free. Show the danger through posture, spacing, and attention, not impact. Warm cinematic watercolor style, no readable decoration, no labels, no violence, no animal suffering."
+    },
+    {
+      "frame": 3,
+      "prompt": "Frame 3 of the same bullring sequence: the same bull charges across the sandy ring toward the same drunk man, but keep a safe visible distance and avoid contact. The drunk clumsily steps aside at the last moment, still holding the red cap, looking startled and unsteady rather than heroic. The same matador watches from behind, and the distant crowd has frozen in silent tension through body language only. Keep all arena walls, barriers, clothing, and background surfaces plain and free of letters, numbers, symbols, markings, decorative text, signs, captions, and speech bubbles. No blood, no injury, no gore."
+    },
+    {
+      "frame": 4,
+      "prompt": "Frame 4 of the same bullring sequence: three practical arena assistants pull the same drunk man safely toward the edge of the ring while he awkwardly tries to bow, still foolishly proud and not glamorous. The same powerful bull stands at a distance with an oddly sympathetic expression before turning back toward the same matador. The red cap remains visible as a story prop. The audience cheers through raised arms only, with no readable banners or text. Gentle non-graphic watercolor illustration, safety-minded comic ending, no injury, no blood."
+    }
+  ]
+}

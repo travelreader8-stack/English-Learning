@@ -1,0 +1,100 @@
+{
+  "lesson_id": 70,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按“斗牛场背景 -> 醉汉误入 -> 没意识到危险 -> 公牛转移注意力 -> 拟人式生气 -> 幸运闪开 -> 被拖到安全处 -> 公牛被写得像在同情他”的故事线跟读。重点读清 bullfight, wandered into, unaware of the danger, caught sight of, sensitive to criticism, charged at, clumsily stepped aside, dragged the drunk to safety 和 sympathetically。",
+  "sentences": [
+    {
+      "id": "l70_s1",
+      "text": "During a bullfight, a drunk suddenly wandered into the middle of the ring.",
+      "focus_zh": "中文锚点：在一次斗牛时，一个醉汉突然走进斗牛场中央。During a bullfight 先交代背景，wandered into 带有不该进去却进去了的感觉。",
+      "start": 285.346,
+      "end": 289.93,
+      "focus_words": [
+        "During a bullfight",
+        "a drunk",
+        "wandered into",
+        "the ring"
+      ]
+    },
+    {
+      "id": "l70_s2",
+      "text": "The crowd began to shout, but the drunk was unaware of the danger.",
+      "focus_zh": "中文锚点：人群开始大喊，但醉汉没有意识到危险。but 后面转出真正问题，unaware of the danger 是本课安全核心。",
+      "start": 290.28,
+      "end": 294.72,
+      "focus_words": [
+        "crowd",
+        "began to shout",
+        "but",
+        "unaware of the danger"
+      ]
+    },
+    {
+      "id": "l70_s3",
+      "text": "The bull was busy with the matador at the time, but it suddenly caught sight of the drunk who was shouting rude remarks and waving a red cap.",
+      "focus_zh": "中文锚点：公牛本来忙着对付斗牛士，却突然看见正在说粗鲁话、挥红帽的醉汉。长句先分成 at the time，再读 caught sight of，最后读 who was 后面的两个动作。",
+      "start": 295.07,
+      "end": 302.558,
+      "focus_words": [
+        "matador",
+        "at the time",
+        "caught sight of",
+        "shouting rude remarks",
+        "waving a red cap"
+      ]
+    },
+    {
+      "id": "l70_s4",
+      "text": "Apparently sensitive to criticism, the bull forgot all about the matador and charged at the drunk.",
+      "focus_zh": "中文锚点：公牛像对批评很敏感一样，完全忘了斗牛士，朝醉汉冲去。Apparently sensitive to criticism 是幽默拟人开头，charged at 要读出突然、有力的动作。",
+      "start": 302.908,
+      "end": 309.148,
+      "focus_words": [
+        "Apparently",
+        "sensitive to criticism",
+        "forgot all about",
+        "charged at"
+      ]
+    },
+    {
+      "id": "l70_s5",
+      "text": "When the bull got close to him, he clumsily stepped aside to let it pass.",
+      "focus_zh": "中文锚点：公牛靠近他时，他笨拙地往旁边一闪，让公牛过去。When 从句切出危险靠近的一刻，clumsily stepped aside 是幸运躲开的动作。",
+      "start": 316.702,
+      "end": 321.478,
+      "focus_words": [
+        "When",
+        "got close to him",
+        "clumsily",
+        "stepped aside"
+      ]
+    },
+    {
+      "id": "l70_s6",
+      "text": "By this time, however, three men had come into the ring and they quickly dragged the drunk to safety.",
+      "focus_zh": "中文锚点：这时三个人已经进场，迅速把醉汉拖到安全处。By this time 接救援顺序，dragged the drunk to safety 是结果动作。",
+      "start": 325.489,
+      "end": 331.321,
+      "focus_words": [
+        "By this time",
+        "three men",
+        "dragged the drunk",
+        "to safety"
+      ]
+    },
+    {
+      "id": "l70_s7",
+      "text": "Even the bull seemed to feel sorry for him, for it looked on sympathetically until the drunk was out of the way before once more turning its attention to the matador.",
+      "focus_zh": "中文锚点：连公牛都像是在同情他，一直看着他直到他离开危险区域，然后才重新注意斗牛士。Even the bull seemed to feel sorry 是拟人，until 和 before once more turning 把最后的时间顺序拉长。",
+      "start": 331.671,
+      "end": 340.407,
+      "focus_words": [
+        "seemed to feel sorry",
+        "looked on sympathetically",
+        "until",
+        "out of the way",
+        "turning its attention"
+      ]
+    }
+  ]
+}

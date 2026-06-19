@@ -1,0 +1,1926 @@
+{
+  "total_duration": 611.652,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 5.76,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果一个人走进危险区域，却完全不知道自己危险，你会替他紧张吗？"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 6.11,
+      "end": 11.79,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课里，一个醉汉突然走进斗牛场中央，观众都开始喊。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 12.14,
+      "end": 15.7,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他却以为自己很镇定，甚至还向观众鞠躬。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 16.05,
+      "end": 21.65,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "更好笑的是，作者把公牛写得像一个会生气、会同情的人。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 22.0,
+      "end": 30.335,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天我们学的不只是"
+        },
+        {
+          "lang": "en",
+          "text": "red for danger"
+        },
+        {
+          "lang": "zh",
+          "text": "，而是"
+        },
+        {
+          "lang": "en",
+          "text": "danger, luck, and comic writing"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 30.685,
+      "end": 32.965,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，先看危险场景。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 33.315,
+      "end": 40.955,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：斗牛正在进行，一个醉汉突然走进场地中央，完全没有意识到危险。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 41.305,
+      "end": 46.925,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "During a bullfight, a drunk suddenly wandered into the middle of the ring"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 47.275,
+      "end": 54.818,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "ring"
+        },
+        {
+          "lang": "zh",
+          "text": "不是戒指，而是圆形表演场地，比如 bullring 或 boxing ring。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 55.168,
+      "end": 60.592,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "人群开始喊，因为"
+        },
+        {
+          "lang": "en",
+          "text": "the drunk was unaware of the danger"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 60.942,
+      "end": 67.798,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "During a bullfight, wandered into the middle of the ring, unaware of the danger"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 68.148,
+      "end": 71.468,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，红帽让危险转向他。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 71.818,
+      "end": 79.738,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：公牛看见醉汉挥着红帽、说粗鲁的话，注意力从斗牛士转向了他。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 80.088,
+      "end": 84.292,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The bull was busy with the matador at the time"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 84.642,
+      "end": 88.529,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是它突然"
+        },
+        {
+          "lang": "en",
+          "text": "caught sight of the drunk"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 88.879,
+      "end": 94.015,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个醉汉正在"
+        },
+        {
+          "lang": "en",
+          "text": "shouting rude remarks and waving a red cap"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 94.365,
+      "end": 103.645,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意，红色在这里像 danger signal，但真正让场面危险的是动作、挑衅和他闯进了不该进的区域。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 103.995,
+      "end": 106.955,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，危险真的冲过来了。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 107.305,
+      "end": 113.105,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：公牛像被冒犯了一样，忘了斗牛士，朝醉汉冲过去。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 113.455,
+      "end": 118.671,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文最幽默的一句是："
+        },
+        {
+          "lang": "en",
+          "text": "Apparently sensitive to criticism"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 119.02,
+      "end": 124.74,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "公牛当然不是真的懂批评；作者是在把它写得像一个有脾气的人。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 125.09,
+      "end": 131.25,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后危险动作来了："
+        },
+        {
+          "lang": "en",
+          "text": "the bull forgot all about the matador and charged at the drunk"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 131.6,
+      "end": 135.8,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "人群突然安静，因为这不是表演效果，而是真的危险。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 136.15,
+      "end": 139.91,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，幸运逃开，却被误会成勇敢。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 140.26,
+      "end": 146.54,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：公牛靠近时，醉汉笨拙地往旁边一闪，侥幸躲开。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 146.89,
+      "end": 152.846,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "When the bull got close to him, he clumsily stepped aside to let it pass"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 153.196,
+      "end": 159.283,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "人群欢呼，他还"
+        },
+        {
+          "lang": "en",
+          "text": "bowed"
+        },
+        {
+          "lang": "zh",
+          "text": "，好像自己完成了精彩表演。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 159.633,
+      "end": 166.625,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但真正正确的动作是："
+        },
+        {
+          "lang": "en",
+          "text": "three men had come into the ring and they quickly dragged the drunk to safety"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 166.975,
+      "end": 172.495,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后作者继续拟人："
+        },
+        {
+          "lang": "en",
+          "text": "Even the bull seemed to feel sorry for him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 172.845,
+      "end": 178.076,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，斗牛到底是什么？这课是在夸斗牛吗？"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 178.426,
+      "end": 191.426,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。这里我们只需要理解场景：一个圆形场地，一头强壮的公牛，一个 trained performer，也就是"
+        },
+        {
+          "lang": "en",
+          "text": "matador"
+        },
+        {
+          "lang": "zh",
+          "text": "，还有观看的人群。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 191.775,
+      "end": 193.99,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那它为什么危险？"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 194.34,
+      "end": 204.94,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为这是人和强大动物在开放场地里的表演。现代很多人也批评 bullfighting，因为动物会受到伤害，所以我们不把它当成值得模仿的事情。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 205.29,
+      "end": 211.315,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "标题叫"
+        },
+        {
+          "lang": "en",
+          "text": "Red for danger"
+        },
+        {
+          "lang": "zh",
+          "text": "，是不是公牛真的讨厌红色？"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 211.665,
+      "end": 222.825,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "温柔纠正一下：red cap 在故事里很醒目，像危险信号；但更关键的是 movement 和 provocation，也就是挥动和挑衅。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 223.174,
+      "end": 226.579,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以红色是故事符号，不是唯一原因？"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 226.928,
+      "end": 233.888,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Exactly. The red cap helps us remember danger, but the drunk's behaviour makes the danger concrete."
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 234.238,
+      "end": 237.825,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么醉汉在危险里还显得好笑？"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 238.175,
+      "end": 247.914,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为他"
+        },
+        {
+          "lang": "en",
+          "text": "was unaware of the danger"
+        },
+        {
+          "lang": "zh",
+          "text": "，又"
+        },
+        {
+          "lang": "en",
+          "text": "seemed quite sure of himself"
+        },
+        {
+          "lang": "zh",
+          "text": "。他不是勇敢，是不知道自己不知道。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 248.264,
+      "end": 252.63,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "作者为什么说公牛"
+        },
+        {
+          "lang": "en",
+          "text": "sensitive to criticism"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 252.98,
+      "end": 261.32,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这是 personification，拟人。作者把公牛写得像一个听懂粗鲁评论、被冒犯、后来还同情醉汉的人。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 261.67,
+      "end": 264.531,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "公牛真的会同情他吗？"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 264.881,
+      "end": 271.761,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文不是科学报告，是喜剧写法。危险是真的，幽默来自 writer's voice。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 272.111,
+      "end": 275.566,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那我们今天要学的安全提醒是什么？"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 275.916,
+      "end": 284.996,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "看见边界就停下来。体育场、舞台、动物围栏、机器人演示区，都不要等人群大喊了才意识到危险。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 285.346,
+      "end": 289.93,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "During a bullfight, a drunk suddenly wandered into the middle of the ring."
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 290.28,
+      "end": 294.72,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The crowd began to shout, but the drunk was unaware of the danger."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 295.07,
+      "end": 302.558,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The bull was busy with the matador at the time, but it suddenly caught sight of the drunk who was shouting rude remarks and waving a red cap."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 302.908,
+      "end": 309.148,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Apparently sensitive to criticism, the bull forgot all about the matador and charged at the drunk."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 309.498,
+      "end": 312.186,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The crowd suddenly grew quiet."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 312.536,
+      "end": 316.352,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The drunk, however, seemed quite sure of himself."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 316.702,
+      "end": 321.478,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When the bull got close to him, he clumsily stepped aside to let it pass."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 321.827,
+      "end": 325.139,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The crowd broke into cheers and the drunk bowed."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 325.489,
+      "end": 331.321,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "By this time, however, three men had come into the ring and they quickly dragged the drunk to safety."
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 331.671,
+      "end": 340.407,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Even the bull seemed to feel sorry for him, for it looked on sympathetically until the drunk was out of the way before once more turning its attention to the matador."
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 340.757,
+      "end": 343.701,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "unaware"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组词："
+        },
+        {
+          "lang": "en",
+          "text": "unaware"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 344.051,
+      "end": 345.875,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "unaware"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Unaware"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 346.225,
+      "end": 350.129,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "unaware"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Unaware"
+        },
+        {
+          "lang": "zh",
+          "text": "是没有意识到、没有察觉。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 350.478,
+      "end": 354.502,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "unaware"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里说："
+        },
+        {
+          "lang": "en",
+          "text": "the drunk was unaware of the danger"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 354.852,
+      "end": 366.424,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "unaware"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词后面常接"
+        },
+        {
+          "lang": "en",
+          "text": "of"
+        },
+        {
+          "lang": "zh",
+          "text": "，比如"
+        },
+        {
+          "lang": "en",
+          "text": "unaware of the rule"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "unaware of the car"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "unaware of the deadline"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 366.774,
+      "end": 373.194,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "unaware"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天它是全课的安全核心：危险最可怕的时候，常常是人还不知道自己在危险里。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 373.544,
+      "end": 376.608,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sensitive"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组词："
+        },
+        {
+          "lang": "en",
+          "text": "sensitive"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 376.957,
+      "end": 378.805,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sensitive"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Sensitive"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 379.155,
+      "end": 383.539,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sensitive"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Sensitive"
+        },
+        {
+          "lang": "zh",
+          "text": "是容易受到影响的、敏感的。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 383.889,
+      "end": 388.225,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sensitive"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里是："
+        },
+        {
+          "lang": "en",
+          "text": "Apparently sensitive to criticism"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 388.575,
+      "end": 396.095,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sensitive"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Criticism"
+        },
+        {
+          "lang": "zh",
+          "text": "是批评；"
+        },
+        {
+          "lang": "en",
+          "text": "sensitive to criticism"
+        },
+        {
+          "lang": "zh",
+          "text": "就是对批评很敏感。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 396.444,
+      "end": 405.684,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "sensitive"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "但这里是幽默拟人。公牛不是在上英语写作课，它只是被作者写得像一个会被粗鲁话冒犯的人。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 406.034,
+      "end": 409.09,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "charge"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组词："
+        },
+        {
+          "lang": "en",
+          "text": "charge"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 409.44,
+      "end": 411.048,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "charge"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Charge"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 411.398,
+      "end": 417.894,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "charge"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Charge"
+        },
+        {
+          "lang": "zh",
+          "text": "在这课里不是收费，也不是给电池充电，而是猛冲。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 418.244,
+      "end": 421.656,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "charge"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "the bull charged at the drunk"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 422.006,
+      "end": 429.046,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "charge"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Charge at"
+        },
+        {
+          "lang": "zh",
+          "text": "后面接冲向的目标，动作突然、有力、危险。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 429.395,
+      "end": 438.315,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "charge"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "和它一起记："
+        },
+        {
+          "lang": "en",
+          "text": "caught sight of"
+        },
+        {
+          "lang": "zh",
+          "text": "是突然看见，"
+        },
+        {
+          "lang": "en",
+          "text": "charged at"
+        },
+        {
+          "lang": "zh",
+          "text": "是看见以后猛冲过去。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 438.665,
+      "end": 442.665,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法不从表格开始，而从故事镜头开始。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 443.015,
+      "end": 447.935,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这篇文章很快，所以作者用时间连接词帮我们跟上顺序。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 448.285,
+      "end": 453.188,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "开头是"
+        },
+        {
+          "lang": "en",
+          "text": "During a bullfight"
+        },
+        {
+          "lang": "zh",
+          "text": "，先告诉我们背景。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 453.538,
+      "end": 459.482,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着有"
+        },
+        {
+          "lang": "en",
+          "text": "at the time"
+        },
+        {
+          "lang": "zh",
+          "text": "，说明当时公牛正忙着斗牛士。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 459.832,
+      "end": 466.464,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后面用"
+        },
+        {
+          "lang": "en",
+          "text": "When the bull got close to him"
+        },
+        {
+          "lang": "zh",
+          "text": "，把危险靠近的一瞬间切出来。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 466.814,
+      "end": 475.101,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再用"
+        },
+        {
+          "lang": "en",
+          "text": "By this time"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "until the drunk was out of the way"
+        },
+        {
+          "lang": "zh",
+          "text": "，把救援顺序排清楚。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 475.451,
+      "end": 481.307,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个重点是动作补充："
+        },
+        {
+          "lang": "en",
+          "text": "shouting rude remarks and waving a red cap"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 481.657,
+      "end": 489.801,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这两个"
+        },
+        {
+          "lang": "en",
+          "text": "ing"
+        },
+        {
+          "lang": "zh",
+          "text": "动作不是新主句，而是在说明醉汉当时正在做什么。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 490.151,
+      "end": 500.743,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个重点是拟人："
+        },
+        {
+          "lang": "en",
+          "text": "Apparently sensitive to criticism"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "seemed to feel sorry for him"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "looked on sympathetically"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 501.092,
+      "end": 508.652,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "公牛不是真的懂批评和同情；作者这样写，是把危险场景变成带幽默感的故事。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 509.002,
+      "end": 518.394,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天带走三组表达："
+        },
+        {
+          "lang": "en",
+          "text": "unaware of the danger"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "charged at the drunk"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "dragged the drunk to safety"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 518.744,
+      "end": 524.92,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把斗牛场换成一个现代安全场景："
+        },
+        {
+          "lang": "en",
+          "text": "The Robot Demonstration"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 525.27,
+      "end": 530.91,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "学校体育馆里正在做机器人演示，一个大机器人在指定区域内移动。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 531.26,
+      "end": 535.46,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你不小心走进 demonstration area，大家开始提醒你。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 535.81,
+      "end": 539.737,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你要承认："
+        },
+        {
+          "lang": "en",
+          "text": "I was unaware of the danger"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 540.087,
+      "end": 545.127,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后说明你笨拙地闪到旁边，老师把你拉到安全线后面。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 545.477,
+      "end": 550.973,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可以说："
+        },
+        {
+          "lang": "en",
+          "text": "I clumsily stepped aside, and my teacher pulled me to safety"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 551.323,
+      "end": 560.483,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，用 word bank 补完整 5 个空，把 wandered into, unaware, caught sight of, stepped aside 和 safety rule 说清楚。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 560.833,
+      "end": 568.713,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 569.063,
+      "end": 576.143,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓危险开头："
+        },
+        {
+          "lang": "en",
+          "text": "During a bullfight, a drunk suddenly wandered into the middle of the ring"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 576.492,
+      "end": 581.236,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓意识差距："
+        },
+        {
+          "lang": "en",
+          "text": "the drunk was unaware of the danger"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 581.586,
+      "end": 586.682,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓幽默拟人："
+        },
+        {
+          "lang": "en",
+          "text": "Apparently sensitive to criticism"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 587.032,
+      "end": 592.44,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后抓救援线："
+        },
+        {
+          "lang": "en",
+          "text": "they quickly dragged the drunk to safety"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 592.79,
+      "end": 604.99,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，② 完形，③ 中译英，④ 英译中，⑤ 拓展阅读，⑥ 句式仿写，⑦ 默写。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 605.34,
+      "end": 611.652,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "luck is not courage, and safety begins with noticing the boundary"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 70
+}

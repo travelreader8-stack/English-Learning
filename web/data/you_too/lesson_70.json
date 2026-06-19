@@ -1,0 +1,51 @@
+{
+  "lesson_id": 70,
+  "title": "The Robot Demonstration",
+  "question": "把今天“走进危险区域 -> 没意识到危险 -> 看到移动物体 -> 笨拙闪开 -> 学会安全边界”的表达，放进 school robotics demonstration 场景：用 word bank 补完整 5 个空。",
+  "example_answer": "During a school robotics demonstration, I wandered into the middle of the demonstration area. At first, I was unaware of the danger. The robot suddenly caught sight of an obstacle near me and moved towards it. I clumsily stepped aside, and my teacher pulled me to safety. Next time, I will stay behind the safety line.",
+  "word_bank": [
+    "wandered into",
+    "was unaware of the danger",
+    "caught sight of",
+    "clumsily stepped aside",
+    "pulled me to safety",
+    "demonstration area",
+    "safety line",
+    "moved towards",
+    "lucky, not brave",
+    "pay attention"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说明自己不小心走进演示区域",
+      "english_template": "I ___ the middle of the demonstration area.",
+      "expected_phrase": "wandered into"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "承认自己没有意识到危险",
+      "english_template": "At first, I ___.",
+      "expected_phrase": "was unaware of the danger"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说明机器人突然看见旁边的障碍物",
+      "english_template": "The robot suddenly ___ an obstacle near me.",
+      "expected_phrase": "caught sight of"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "描述自己笨拙地闪到一边",
+      "english_template": "I ___ when it moved towards me.",
+      "expected_phrase": "clumsily stepped aside"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "说明老师把自己拉到安全处",
+      "english_template": "My teacher ___ behind the safety line.",
+      "expected_phrase": "pulled me to safety"
+    }
+  ],
+  "mode": "all_fills"
+}

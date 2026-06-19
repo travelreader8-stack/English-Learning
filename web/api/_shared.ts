@@ -591,6 +591,57 @@ export interface OverallSummaryResult {
   error?: string;
 }
 
+function buildOverallSummaryFallback(lesson: Lesson, results: any): OverallSummaryResult {
+  const strengths: string[] = [];
+  const focus: string[] = [];
+
+  const cloze = results?.cloze;
+  if (cloze && typeof cloze.score === "number" && typeof cloze.total === "number") {
+    if (cloze.score === cloze.total) strengths.push("完形填空很稳");
+    else focus.push("完形错空先回到课文原句核对词形和搭配");
+  }
+
+  for (const [key, label] of [["cn_to_en", "中译英"], ["en_to_cn", "英译中"]] as const) {
+    const t = results?.[key];
+    if (!t || t.error) continue;
+    const score = typeof t.overall_score === "number" ? t.overall_score : undefined;
+    if (score !== undefined && score >= 8) strengths.push(`${label}能抓住主要意思`);
+    if (score !== undefined && score < 8) focus.push(`${label}每段先对齐主语、动词和时间顺序`);
+  }
+
+  const er = results?.extension_reading;
+  if (er && !er.error && typeof er.score === "number" && typeof er.total === "number") {
+    if (er.score === er.total) strengths.push("拓展阅读能迁移到新场景");
+    else focus.push("拓展阅读先划出题目中的人物、地点和危险原因");
+  }
+
+  const sw = results?.sentence_writing;
+  if (sw && typeof sw.score === "number" && typeof sw.total === "number") {
+    if (sw.score === sw.total) strengths.push("句式仿写抓住了关键结构");
+    else focus.push("句式仿写要把 must include 的短语完整放进句子");
+  }
+
+  const d = results?.dictation;
+  if (d && typeof d.match_pct === "number") {
+    if (d.match_pct >= 90) strengths.push("默写整体完整度高");
+    else focus.push("默写长句时特别检查连接词和句尾动作");
+  }
+
+  const strengthText = strengths.length
+    ? strengths.slice(0, 2).join("，")
+    : "今天已经完成了主要练习";
+  const focusPoints = (focus.length ? focus : [
+    "翻译时先按课文顺序分清每个动作",
+    "长句跟读时把连接词和动作短语分组读",
+  ]).slice(0, 4);
+
+  return {
+    summary: `Lesson ${lesson.id} 整体完成度不错，${strengthText}。接下来最值得继续打磨的是把危险场景的时间顺序和关键动作说完整，尤其是长句里的连接词和安全结果。`,
+    focus_points: focusPoints,
+    encouragement: "这课的安全主线已经抓住了。",
+  };
+}
+
 export async function generateOverallSummary(
   lesson: Lesson,
   results: any
@@ -626,7 +677,16 @@ export async function generateOverallSummary(
     const per = (t.per_sentence ?? []).map((p: any) => `[第 ${p.index + 1} 段 ${p.score}/10] ${(p.comment ?? "").slice(0, 100)}`).join("; ");
     sections.push(`④ 英译中：平均 ${t.overall_score ?? "?"} / 10。逐段：${per}。整体：${(t.overall_summary ?? "").slice(0, 200)}`);
   }
-  // ⑤ dictation
+  // Extension reading/writing
+  if (results.extension_reading && !results.extension_reading.error) {
+    const er = results.extension_reading;
+    sections.push(`拓展阅读：${er.score ?? "?"} / ${er.total ?? "?"}。${(er.details ?? []).filter((d: any) => !d.correct).length ? "有错题" : "全对"}`);
+  }
+  if (results.sentence_writing) {
+    const sw = results.sentence_writing;
+    sections.push(`句式仿写：${sw.score ?? "?"} / ${sw.total ?? "?"}${sw.error ? `。提示：${sw.error}` : ""}`);
+  }
+  // Dictation
   if (results.dictation) {
     const d = results.dictation;
     sections.push(`⑤ 默写：匹配率 ${d.match_pct ?? "?"}%。AI 评语：${(d.ai_tip ?? "").slice(0, 200)}`);
@@ -654,7 +714,7 @@ export async function generateOverallSummary(
     ], { json: true, maxTokens: 700, temperature: 0.4 });
     const parsed = safeParseJSON<any>(raw);
     if (!parsed || typeof parsed.summary !== "string") {
-      return { summary: "", focus_points: [], encouragement: "", error: "AI 返回格式异常" };
+      return buildOverallSummaryFallback(lesson, results);
     }
     return {
       summary: String(parsed.summary || "").trim(),
@@ -664,7 +724,7 @@ export async function generateOverallSummary(
       encouragement: String(parsed.encouragement || "").trim(),
     };
   } catch (e: any) {
-    return { summary: "", focus_points: [], encouragement: "", error: `AI 总评失败：${e.message ?? e}` };
+    return buildOverallSummaryFallback(lesson, results);
   }
 }
 

@@ -1,0 +1,153 @@
+{
+  "lesson_id": 70,
+  "reading": {
+    "title": "Behind the Safety Line",
+    "intro_zh": "这篇延展阅读把 Lesson 70 的“危险区域、没有意识到危险、侥幸脱险”换到学校机器人演示场景。短文为原创故事，不复述斗牛场故事，也不描写受伤。",
+    "source": {
+      "title": "Safety Manual",
+      "publisher": "FIRST Robotics Competition and FIRST Tech Challenge",
+      "url": "https://info.firstinspires.org/hubfs/web/program/all/safety-manual.pdf"
+    },
+    "passage": [
+      "During a robotics show in the school gym, a team was testing a large practice robot inside a marked demonstration area. Maya stood with her class behind the safety line, but she dropped her notebook and wandered forward without thinking. The crowd began to shout, yet Maya was unaware of the danger. She thought everyone was cheering for the robot's bright lights.",
+      "At that moment, the robot's camera caught sight of a foam block near Maya's shoes. It rolled towards the block quickly, not because it was angry, but because it was following its program. A team member raised both hands and shouted for Maya to move back. When the robot got close to her, Maya clumsily stepped aside and almost laughed, as if she had done something clever. Two teachers pulled her to safety before the robot reached the edge of the zone.",
+      "No one was hurt, and the team stopped the demonstration to reset the robot. The coach spoke calmly but seriously. A safety line is not decoration, he explained; it is a boundary that protects people who may not understand how fast machines can move. Maya felt embarrassed. She had escaped by luck, not bravery. On the next visit, she watched from behind the line, paid attention to the moving robot, and warned a younger student before he wandered too close."
+    ],
+    "questions": [
+      {
+        "id": "event",
+        "question": "What event was taking place in the school gym?",
+        "options": [
+          "A school music concert with a loud band.",
+          "A basketball match between two classes.",
+          "A robotics show with a large practice robot.",
+          "A spelling contest about safety rules."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "第一段说 During a robotics show in the school gym，并且 team was testing a large practice robot。"
+      },
+      {
+        "id": "danger",
+        "question": "Why was Maya in danger?",
+        "options": [
+          "She wandered past the safety line into the marked demonstration area.",
+          "She was trying to repair the robot's camera.",
+          "She refused to leave a real road outside the school.",
+          "She stood too far away to see the robot."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "第一段说她本来在安全线后面，却 wandered forward，进入 marked demonstration area。"
+      },
+      {
+        "id": "near_danger",
+        "question": "What showed that danger was near?",
+        "options": [
+          "The robot turned off all its lights.",
+          "The coach asked everyone to sit down for lunch.",
+          "Maya found her notebook under a chair.",
+          "The robot rolled quickly towards a foam block near Maya's shoes."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "第二段说机器人 caught sight of a foam block near Maya's shoes，然后 rolled towards the block quickly。"
+      },
+      {
+        "id": "escape",
+        "question": "How did Maya get out of the dangerous area?",
+        "options": [
+          "She climbed onto the robot and stopped it herself.",
+          "She clumsily stepped aside, and two teachers pulled her to safety.",
+          "She waited until the robot moved around the whole gym.",
+          "She shouted rude remarks until the robot changed direction."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "第二段说 Maya clumsily stepped aside，并且 Two teachers pulled her to safety。"
+      },
+      {
+        "id": "lesson",
+        "question": "What lesson did Maya learn?",
+        "options": [
+          "Bright lights make every machine safe.",
+          "A safety line is only for younger students.",
+          "Lucky escape is not the same as bravery, and boundaries matter.",
+          "A robot will always stop before it reaches a person."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "结尾说 she had escaped by luck, not bravery，并强调 safety line 是保护人的 boundary。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 70 的危险场景句式：用 During 设置背景，用 was unaware of the danger 承认风险意识，用 caught sight of ... who was ... 写突然看见，用 Apparently sensitive to ... 写幽默开头，用 When ... got close to ... 写危险靠近和闪开动作。",
+    "patterns": [
+      {
+        "id": "during_wandered_into",
+        "title": "During ..., ... wandered into ...",
+        "source": "During a bullfight, a drunk suddenly wandered into the middle of the ring.",
+        "focus_zh": "这个结构先交代场景，再写一个人意外走进不该进入的地方。",
+        "task_zh": "仿写一句：写某人在演示、比赛、表演或训练时不小心走进危险区域。",
+        "must_include": [
+          "During",
+          "wandered into"
+        ],
+        "min_words": 10,
+        "sample": "During the robot show, Max wandered into the marked demonstration area.",
+        "tip_zh": "During 后面接正在发生的活动，wandered into 后面接误入的地方。"
+      },
+      {
+        "id": "was_unaware_of_the_danger",
+        "title": "was unaware of the danger",
+        "source": "the drunk was unaware of the danger",
+        "focus_zh": "这个表达说明某人没有意识到风险，是本课的安全核心。",
+        "task_zh": "仿写一句：写一个人没有注意到车辆、机器、动物或边界带来的危险。",
+        "must_include": [
+          "was unaware of the danger"
+        ],
+        "min_words": 9,
+        "sample": "She was unaware of the danger near the moving robot.",
+        "tip_zh": "unaware 后面常接 of，danger 前面通常加 the 指具体危险。"
+      },
+      {
+        "id": "caught_sight_of_who_was",
+        "title": "caught sight of ... who was ...",
+        "source": "it suddenly caught sight of the drunk who was shouting rude remarks and waving a red cap",
+        "focus_zh": "这个结构写“突然看见某人”，再用 who was 补充这个人当时正在做什么。",
+        "task_zh": "仿写一句：写老师、机器人或观众突然看见一个正在做危险动作的人。",
+        "must_include": [
+          "caught sight of",
+          "who was"
+        ],
+        "min_words": 12,
+        "sample": "The teacher caught sight of Max who was walking near the moving robot.",
+        "tip_zh": "who was 后面接正在发生的动作，让画面更具体。"
+      },
+      {
+        "id": "apparently_sensitive_to",
+        "title": "Apparently sensitive to ..., ...",
+        "source": "Apparently sensitive to criticism, the bull forgot all about the matador",
+        "focus_zh": "这个开头可以写真实原因，也可以写带幽默感的拟人反应。",
+        "task_zh": "仿写一句：用 Apparently sensitive to 开头，写一个机器、动物或人物对某种信号作出反应。",
+        "must_include": [
+          "Apparently sensitive to"
+        ],
+        "min_words": 11,
+        "sample": "Apparently sensitive to sudden noise, the small robot stopped and waited for help.",
+        "tip_zh": "逗号前是原因或拟人解释，逗号后写真正发生的动作。"
+      },
+      {
+        "id": "when_got_close_stepped_aside",
+        "title": "When ... got close to ..., ... stepped aside",
+        "source": "When the bull got close to him, he clumsily stepped aside to let it pass.",
+        "focus_zh": "这个结构把危险靠近的一刻和人的躲避动作连起来。",
+        "task_zh": "仿写一句：写某个移动物体靠近时，一个人及时或笨拙地闪到旁边。",
+        "must_include": [
+          "When",
+          "got close to",
+          "stepped aside"
+        ],
+        "min_words": 12,
+        "sample": "When the robot got close to Maya, she stepped aside to let it pass.",
+        "tip_zh": "When 从句说明时间点，主句写反应动作。"
+      }
+    ]
+  }
+}
