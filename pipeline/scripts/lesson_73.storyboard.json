@@ -1,0 +1,23 @@
+{
+  "lesson_id": 73,
+  "title": "The record-holder",
+  "visual_consistency": "A continuous mid-century European travel-comedy route story with the same early-teen schoolboy throughout: slim build, round youthful face, short brown hair, rumpled dark school jacket, pale shirt, short tie, grey trousers, small satchel, curious at first but increasingly tired and confused. Each frame includes a text-free route-map motif made of abstract land shapes, water, dotted line, and arrows without readable labels, connecting England, the Channel, northern France, Paris area, southern France, and return to England. The mood is satirical and cautionary, not glamorous. Adults are neutral or protective. Images must contain no readable signs, city labels, country labels, road signs, ferry names, vehicle plates, cinema posters, school signs, maps, captions, speech bubbles, UI panels, letters, words, or numbers.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Light comic split composition showing ordinary school truants doing dull things, one child fishing beside a quiet pond and another bored child sitting in a cinema-like room, contrasted with the same early-teen schoolboy in rumpled school clothes beginning a much longer route with a small satchel. Include an abstract text-free route-map motif behind him with dotted shapes suggesting a journey far beyond the ordinary truants. Keep the boy non-heroic and slightly unsure. No readable posters, signs, tickets, labels, captions, or text."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same early-teen schoolboy reaches a coastal port at evening and cautiously slips into a plain boat to sleep, then the composition hints at morning on another coast through soft light and a text-free dotted route crossing water. The boat and harbor are generic with no ferry names, city signs, flags with readable markings, maps, tickets, plates, or labels. The tone is cautionary and lightly comic, not thrilling or glamorous."
+    },
+    {
+      "frame": 3,
+      "prompt": "The same tired schoolboy rides in a generic lorry, receives a few biscuits and a cup from a neutral driver, then stands outside a large city area as another car points him along a long southward dotted route on an abstract text-free map motif. Show his surprise and confusion because the journey is not going as he hoped. No readable road signs, city labels, vehicle plates, maps, shop names, or written details."
+    },
+    {
+      "frame": 4,
+      "prompt": "The same exhausted schoolboy near a warm southern town setting is calmly found by a protective policeman or local authority figure, then safely directed back toward home. A text-free route-map motif shows the long loop ending back at the starting side, without labels or words. The authority figure is neutral and protective, not threatening. Keep the ending satirical and responsible, with no readable border signs, police text, country labels, tickets, captions, or speech bubbles."
+    }
+  ]
+}

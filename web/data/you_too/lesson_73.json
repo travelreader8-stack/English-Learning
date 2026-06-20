@@ -1,0 +1,51 @@
+{
+  "lesson_id": 73,
+  "title": "The Wrong Group",
+  "question": "把今天“路线走错 -> 期待落空 -> 在这段时间里发生变化 -> 找可信成年人帮忙 -> 安全回到队伍”的表达，放进 supervised museum trip 场景：用 word bank 补完整 5 个空。",
+  "example_answer": "During a supervised museum trip, I followed the wrong group. In the meantime, my class had moved on to another entrance. The bus did not take me where I hoped it would. I asked a museum staff member for help, and I was sent back to my group safely. I learned not to evade school rules.",
+  "word_bank": [
+    "followed the wrong group",
+    "In the meantime",
+    "where I hoped it would",
+    "asked a museum staff member for help",
+    "was sent back to my group safely",
+    "main entrance",
+    "trusted adult",
+    "school rules",
+    "route",
+    "evade"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说明你在博物馆参观时跟错了队",
+      "english_template": "During the museum trip, I ___.",
+      "expected_phrase": "followed the wrong group"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说明在这段时间里班级已经去了另一个入口",
+      "english_template": "___, my class had moved on to another entrance.",
+      "expected_phrase": "In the meantime"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说明交通工具没有把你带到你原本希望去的地方",
+      "english_template": "The bus did not take me ___.",
+      "expected_phrase": "where I hoped it would"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说明你向可信的工作人员求助",
+      "english_template": "I ___.",
+      "expected_phrase": "asked a museum staff member for help"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "说明你被安全送回自己的队伍",
+      "english_template": "I ___.",
+      "expected_phrase": "was sent back to my group safely"
+    }
+  ],
+  "mode": "all_fills"
+}
