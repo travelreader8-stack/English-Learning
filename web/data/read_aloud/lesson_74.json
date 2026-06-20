@@ -1,0 +1,107 @@
+{
+  "lesson_id": 74,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按“破旧巴士到干河床 -> 戴墨镜穿旧衣服做预防 -> 伪装太成功 -> 觉得野餐再好不过 -> 没有记者和影迷 -> 食品篮到树荫下 -> sheriff 粗鲁赶人 -> 冷笑反转”的故事线跟读。重点读清 ancient bus, a party of, Dressed in dark glasses and old clothes, special precautions, so that no one should recognize them, disguises can sometimes be too perfect, It couldn't be better, film fans, shady spot, sheriff, notice, No Camping 和 with a sneer。",
+  "sentences": [
+    {
+      "id": "l74_s1",
+      "text": "An ancient bus stopped by a dry river bed and a party of famous actors and actresses got off.",
+      "focus_zh": "中文锚点：一辆破旧的公共汽车停在干河床边，一群著名男女演员下了车。ancient bus 在这里是旧巴士，a party of 是一群人。",
+      "start": 331.46,
+      "end": 337.412,
+      "focus_words": [
+        "An ancient bus",
+        "a dry river bed",
+        "a party of",
+        "actors and actresses"
+      ]
+    },
+    {
+      "id": "l74_s2",
+      "text": "Dressed in dark glasses and old clothes, they had taken special precautions so that no one should recognize them.",
+      "focus_zh": "中文锚点：他们戴墨镜、穿旧衣服，采取特别预防措施，为了不让人认出。Dressed in... 是句首外貌短语，so that 写目的。",
+      "start": 337.762,
+      "end": 344.098,
+      "focus_words": [
+        "Dressed in",
+        "dark glasses",
+        "special precautions",
+        "so that no one should recognize them"
+      ]
+    },
+    {
+      "id": "l74_s3",
+      "text": "But as they soon discovered, disguises can sometimes be too perfect.",
+      "focus_zh": "中文锚点：但他们很快发现，伪装有时会太完美。读出 But 后面的转折，too perfect 是本课笑点。",
+      "start": 344.448,
+      "end": 349.104,
+      "focus_words": [
+        "as they soon discovered",
+        "disguises",
+        "too perfect"
+      ]
+    },
+    {
+      "id": "l74_s4",
+      "text": "'It couldn't be better, Gloria,' Brinksley Meers agreed.",
+      "focus_zh": "中文锚点：Brinksley 说“再好不过了”。It couldn't be better 是非常实用的口语赞叹。",
+      "start": 354.003,
+      "end": 358.227,
+      "focus_words": [
+        "It couldn't be better",
+        "Gloria",
+        "Brinksley Meers"
+      ]
+    },
+    {
+      "id": "l74_s5",
+      "text": "'No newspaper men, no film fans! Why don't we come more often?'",
+      "focus_zh": "中文锚点：没有记者，没有影迷！他们以为终于安静了。No..., no... 要读出轻松兴奋，film fans 是影迷。",
+      "start": 358.577,
+      "end": 364.481,
+      "focus_words": [
+        "No newspaper men",
+        "no film fans",
+        "Why don't we come more often"
+      ]
+    },
+    {
+      "id": "l74_s6",
+      "text": "Meanwhile, two other actors, Rockwall Slinger and Merlin Greeves, had carried two large food baskets to a shady spot under some trees.",
+      "focus_zh": "中文锚点：与此同时，另外两位演员把两个大食品篮提到树荫下。Meanwhile 承接另一边动作，shady spot 是树荫处。",
+      "start": 364.831,
+      "end": 372.871,
+      "focus_words": [
+        "Meanwhile",
+        "Rockwall Slinger",
+        "Merlin Greeves",
+        "food baskets",
+        "a shady spot"
+      ]
+    },
+    {
+      "id": "l74_s7",
+      "text": "'Now you get out of here, all of you!' he shouted.",
+      "focus_zh": "中文锚点：sheriff 粗鲁地让所有人离开。读清 get out of here，但语气不用演成危险威胁。",
+      "start": 380.521,
+      "end": 384.097,
+      "focus_words": [
+        "Now you get out of here",
+        "all of you",
+        "he shouted"
+      ]
+    },
+    {
+      "id": "l74_s8",
+      "text": "'Oh, is it?' said the sheriff with a sneer.",
+      "focus_zh": "中文锚点：sheriff 带着冷笑说“噢，是吗？”Oh, is it? 和 with a sneer 要读出讽刺，而不是普通疑问。",
+      "start": 400.362,
+      "end": 403.818,
+      "focus_words": [
+        "Oh, is it",
+        "sheriff",
+        "with a sneer"
+      ]
+    }
+  ]
+}

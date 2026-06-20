@@ -1,0 +1,2136 @@
+{
+  "total_duration": 670.876,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 2.8,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果一个明星不想被认出来，会怎么做？"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 3.15,
+      "end": 7.83,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "戴墨镜，穿旧衣服，坐一辆破旧巴士，远离记者和粉丝。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 8.18,
+      "end": 11.62,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是如果伪装太成功，会发生什么？"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 11.97,
+      "end": 18.37,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课里，演员们真的没人认出来；等他们想证明自己是明星时，反而没人信。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 18.72,
+      "end": 25.527,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天我们学"
+        },
+        {
+          "lang": "en",
+          "text": "out of the limelight"
+        },
+        {
+          "lang": "zh",
+          "text": "：离开聚光灯，也可能带来一个笑话。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 25.877,
+      "end": 28.837,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，先看他们为什么要离开聚光灯。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 29.187,
+      "end": 39.187,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：一群著名男女演员坐破旧的公共汽车来到干河床边，戴墨镜、穿旧衣服，想躲开公众视线。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 39.537,
+      "end": 47.005,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "An ancient bus stopped by a dry river bed and a party of famous actors and actresses got off"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 47.355,
+      "end": 55.379,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Ancient bus"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里不是古代汽车，而是很旧、很破的公共汽车。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 55.729,
+      "end": 59.776,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A party of"
+        },
+        {
+          "lang": "zh",
+          "text": "是一群人，不是一个派对。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 60.126,
+      "end": 69.654,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他们这样穿是有目的的："
+        },
+        {
+          "lang": "en",
+          "text": "Dressed in dark glasses and old clothes, they had taken special precautions so that no one should recognize them"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 70.004,
+      "end": 75.852,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧记住：他们想"
+        },
+        {
+          "lang": "en",
+          "text": "out of the limelight"
+        },
+        {
+          "lang": "zh",
+          "text": "，离开公众视线。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 76.202,
+      "end": 78.882,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，看伪装好像成功了。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 79.232,
+      "end": 86.752,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：他们觉得这里野餐再好不过了，没有记者，没有影迷；伪装似乎非常完美。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 87.102,
+      "end": 94.214,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文先提醒我们："
+        },
+        {
+          "lang": "en",
+          "text": "But as they soon discovered, disguises can sometimes be too perfect"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 94.563,
+      "end": 100.875,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Too perfect"
+        },
+        {
+          "lang": "zh",
+          "text": "很有意思：太成功，反而会制造麻烦。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 101.225,
+      "end": 105.681,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Gloria 说："
+        },
+        {
+          "lang": "en",
+          "text": "This is a wonderful place for a picnic"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 106.031,
+      "end": 110.255,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Brinksley 同意："
+        },
+        {
+          "lang": "en",
+          "text": "It couldn't be better, Gloria"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 110.605,
+      "end": 119.389,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后他高兴地说："
+        },
+        {
+          "lang": "en",
+          "text": "No newspaper men, no film fans! Why don't we come more often?"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 119.739,
+      "end": 123.379,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在他们以为自己得到了安静，可笑点已经埋好了。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 123.728,
+      "end": 126.048,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，规则出现了。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 126.398,
+      "end": 134.438,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：两位演员把食品篮放在树荫下，大家刚舒服下来，一个愤怒的 sheriff 出现了。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 134.788,
+      "end": 145.376,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Meanwhile, two other actors, Rockwall Slinger and Merlin Greeves, had carried two large food baskets to a shady spot under some trees"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 145.726,
+      "end": 150.134,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Shady spot"
+        },
+        {
+          "lang": "zh",
+          "text": "是树荫下、阴凉处。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 150.484,
+      "end": 155.792,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着："
+        },
+        {
+          "lang": "en",
+          "text": "When they had all made themselves comfortable, a stranger appeared"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 156.142,
+      "end": 160.661,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个陌生人不是普通路人，他说："
+        },
+        {
+          "lang": "en",
+          "text": "I'm sheriff here"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 161.011,
+      "end": 165.811,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Sheriff"
+        },
+        {
+          "lang": "zh",
+          "text": "是一些英语国家里的地方执法官。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 166.161,
+      "end": 173.697,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他指着告示说："
+        },
+        {
+          "lang": "en",
+          "text": "Do you see that notice? It says \"No Camping\" -- in case you can't read!"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 174.047,
+      "end": 180.239,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "in case you can't read"
+        },
+        {
+          "lang": "zh",
+          "text": "带讽刺，不是真正礼貌提醒。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 180.589,
+      "end": 182.789,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，反转落地。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 183.138,
+      "end": 192.418,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：Rockwall 自报姓名，希望 sheriff 别太严厉；可 sheriff 以为他们在撒谎，还讥笑地冒充另外两位明星。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 192.768,
+      "end": 197.712,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Rockwall 说："
+        },
+        {
+          "lang": "en",
+          "text": "Look, sheriff, don't be too hard on us"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 198.062,
+      "end": 202.926,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他解释："
+        },
+        {
+          "lang": "en",
+          "text": "I'm Rockwall Slinger and this is Merlin Greeves"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 203.276,
+      "end": 207.756,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是他们伪装得太普通，sheriff 完全不相信。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 208.106,
+      "end": 212.31,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "'Oh, is it?' said the sheriff with a sneer"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 212.66,
+      "end": 217.516,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "With a sneer"
+        },
+        {
+          "lang": "zh",
+          "text": "是带着冷笑、讥笑。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 217.865,
+      "end": 224.145,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他反过来说："
+        },
+        {
+          "lang": "en",
+          "text": "Well, I'm Brinksley Meers, and my other name is Gloria Gleam"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 224.495,
+      "end": 230.655,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后的笑点是：他们想靠明星身份解释，但伪装太成功，身份已经失效了。"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 231.005,
+      "end": 235.356,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，"
+        },
+        {
+          "lang": "en",
+          "text": "limelight"
+        },
+        {
+          "lang": "zh",
+          "text": "真的是一种灯吗？"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 235.706,
+      "end": 245.257,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "原来是舞台上的强光。后来"
+        },
+        {
+          "lang": "en",
+          "text": "limelight"
+        },
+        {
+          "lang": "zh",
+          "text": "变成比喻，意思是公众关注、媒体关注、粉丝关注。"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 245.607,
+      "end": 250.305,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "in the limelight"
+        },
+        {
+          "lang": "zh",
+          "text": "是被大家看见？"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 250.655,
+      "end": 256.603,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。"
+        },
+        {
+          "lang": "en",
+          "text": "Out of the limelight"
+        },
+        {
+          "lang": "zh",
+          "text": "就是离开这种关注，想安静一会儿。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 256.953,
+      "end": 261.298,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "名人为什么要躲起来？他们不是喜欢出名吗？"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 261.648,
+      "end": 270.848,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "喜欢被认可和需要隐私可以同时存在。演员、运动员、博主、校园表演者，都可能想要普通人的安静时间。"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 271.198,
+      "end": 273.744,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那这些演员做错了吗？"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 274.094,
+      "end": 282.605,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "想安静没有错，但公共空间有规则。课文里的冲突来自"
+        },
+        {
+          "lang": "en",
+          "text": "No Camping"
+        },
+        {
+          "lang": "zh",
+          "text": "这个 notice。"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 282.955,
+      "end": 285.562,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "sheriff 很凶，是不是坏人？"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 285.912,
+      "end": 291.712,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他很粗鲁，也很讽刺，但他在执行规则。我们不把他写成反派。"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 292.062,
+      "end": 295.701,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么他说自己也是 Brinksley 和 Gloria？"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 296.05,
+      "end": 305.17,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为他以为 Rockwall 在 name-dropping，拿名人身份说事。他用冷笑回答：你说你是明星？那我也可以说我是明星。"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 305.52,
+      "end": 309.837,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "disguise"
+        },
+        {
+          "lang": "zh",
+          "text": "成功过头了？"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 310.187,
+      "end": 317.387,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Exactly. A disguise helps when you want privacy, but it hurts when you need your identity to be believed."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 317.737,
+      "end": 321.6,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课最后是不是在说名人不该有特权？"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 321.95,
+      "end": 331.11,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "是的。身份不能取消规则。Whether you are famous, popular, or ordinary, public rules still apply."
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 331.46,
+      "end": 337.412,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "An ancient bus stopped by a dry river bed and a party of famous actors and actresses got off."
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 337.762,
+      "end": 344.098,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Dressed in dark glasses and old clothes, they had taken special precautions so that no one should recognize them."
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 344.448,
+      "end": 349.104,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "But as they soon discovered, disguises can sometimes be too perfect."
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 349.453,
+      "end": 353.653,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'This is a wonderful place for a picnic,' said Gloria Gleam."
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 354.003,
+      "end": 358.227,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'It couldn't be better, Gloria,' Brinksley Meers agreed."
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 358.577,
+      "end": 364.481,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'No newspaper men, no film fans! Why don't we come more often?'"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 364.831,
+      "end": 372.871,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Meanwhile, two other actors, Rockwall Slinger and Merlin Greeves, had carried two large food baskets to a shady spot under some trees."
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 373.221,
+      "end": 377.517,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When they had all made themselves comfortable, a stranger appeared."
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 377.867,
+      "end": 380.171,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He looked very angry."
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 380.521,
+      "end": 384.097,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Now you get out of here, all of you!' he shouted."
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 384.447,
+      "end": 392.031,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'I'm sheriff here. Do you see that notice? It says \"No Camping\" -- in case you can't read!'"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 392.38,
+      "end": 400.012,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Look, sheriff,' said Rockwall, 'don't be too hard on us. I'm Rockwall Slinger and this is Merlin Greeves.'"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 400.362,
+      "end": 403.818,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Oh, is it?' said the sheriff with a sneer."
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 404.168,
+      "end": 411.056,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "'Well, I'm Brinksley Meers, and my other name is Gloria Gleam. Now you get out of here fast!'"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 411.406,
+      "end": 414.398,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "limelight"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组词："
+        },
+        {
+          "lang": "en",
+          "text": "limelight"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 414.748,
+      "end": 416.5,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "limelight"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Limelight"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 416.85,
+      "end": 422.082,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "limelight"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Limelight"
+        },
+        {
+          "lang": "zh",
+          "text": "原来指舞台强光，后来指公众关注。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 422.432,
+      "end": 427.175,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "limelight"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "In the limelight"
+        },
+        {
+          "lang": "zh",
+          "text": "是站在聚光灯下，被大家看见。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 427.525,
+      "end": 433.373,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "limelight"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Out of the limelight"
+        },
+        {
+          "lang": "zh",
+          "text": "是离开公众视线，想要隐私和安静。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 433.723,
+      "end": 439.883,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "limelight"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课的演员不是讨厌观众，而是想在野餐时暂时不被记者和影迷包围。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 440.233,
+      "end": 443.201,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "precaution"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组词："
+        },
+        {
+          "lang": "en",
+          "text": "precaution"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 443.551,
+      "end": 445.327,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "precaution"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Precaution"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 445.677,
+      "end": 451.885,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "precaution"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Precaution"
+        },
+        {
+          "lang": "zh",
+          "text": "是预防措施，提前做一件事，避免某个问题。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 452.234,
+      "end": 457.758,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "precaution"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "they had taken special precautions so that no one should recognize them"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 458.108,
+      "end": 462.428,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "precaution"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "戴墨镜、穿旧衣服，就是他们的 precautions。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 462.778,
+      "end": 469.378,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "precaution"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "生活里也可以说：保存文件、看天气、戴护目镜，都是不同的 precautions。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 469.728,
+      "end": 472.904,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "disguise"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组词："
+        },
+        {
+          "lang": "en",
+          "text": "disguise"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 473.254,
+      "end": 475.03,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "disguise"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Disguise"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 475.38,
+      "end": 482.956,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "disguise"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Disguise"
+        },
+        {
+          "lang": "zh",
+          "text": "是伪装，用衣服、外表或行为隐藏真实身份。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 483.305,
+      "end": 487.545,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "disguise"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "本课里的 disguise 是 dark glasses and old clothes。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 487.895,
+      "end": 493.023,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "disguise"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "关键笑点是："
+        },
+        {
+          "lang": "en",
+          "text": "disguises can sometimes be too perfect"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 493.373,
+      "end": 498.653,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "disguise"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他们本来不想被认出来，结果真到了需要被相信时，没人相信了。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 499.003,
+      "end": 503.283,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法从伪装动作开始，不从表格开始。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 503.633,
+      "end": 509.425,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组是句首外貌短语："
+        },
+        {
+          "lang": "en",
+          "text": "Dressed in dark glasses and old clothes"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 509.775,
+      "end": 517.015,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它先告诉我们他们的样子：戴墨镜，穿旧衣服，然后主句才说他们采取了特别措施。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 517.364,
+      "end": 521.916,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组是目的："
+        },
+        {
+          "lang": "en",
+          "text": "so that no one should recognize them"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 522.266,
+      "end": 529.346,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "So that"
+        },
+        {
+          "lang": "zh",
+          "text": "表示“为了”。他们不是随便穿旧衣服，而是为了不被认出来。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 529.696,
+      "end": 534.256,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组是发现和反转："
+        },
+        {
+          "lang": "en",
+          "text": "as they soon discovered"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 534.606,
+      "end": 538.726,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个短语提醒读者：接下来他们会明白一个意外道理。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 539.076,
+      "end": 544.324,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "意外道理就是："
+        },
+        {
+          "lang": "en",
+          "text": "disguises can sometimes be too perfect"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 544.674,
+      "end": 555.173,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四组是讽刺口气："
+        },
+        {
+          "lang": "en",
+          "text": "in case you can't read"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "Oh, is it?"
+        },
+        {
+          "lang": "zh",
+          "text": "，和"
+        },
+        {
+          "lang": "en",
+          "text": "with a sneer"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 555.523,
+      "end": 559.683,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些表达不是中性的。它们让我们听见 sheriff 的冷笑。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 560.033,
+      "end": 575.044,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天带走五组表达："
+        },
+        {
+          "lang": "en",
+          "text": "out of the limelight"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "a party of"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "so that no one should recognize them"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "It couldn't be better"
+        },
+        {
+          "lang": "zh",
+          "text": "，和"
+        },
+        {
+          "lang": "en",
+          "text": "public rules still apply"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 575.394,
+      "end": 581.322,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把明星野餐换成一个安全的校园场景："
+        },
+        {
+          "lang": "en",
+          "text": "The Quiet Club Picnic"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 581.672,
+      "end": 586.792,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你是学校戏剧社的小主角，演出后想在公园安静吃午饭。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 587.142,
+      "end": 591.862,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你要先说明心情："
+        },
+        {
+          "lang": "en",
+          "text": "I wanted to stay out of the limelight"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 592.212,
+      "end": 597.436,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再说明准备："
+        },
+        {
+          "lang": "en",
+          "text": "I took precautions so that no one would recognize me"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 597.786,
+      "end": 602.25,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后说明反转："
+        },
+        {
+          "lang": "en",
+          "text": "My disguise was too perfect"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "start": 602.599,
+      "end": 608.283,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着承认规则："
+        },
+        {
+          "lang": "en",
+          "text": "There was a notice that said the picnic lawn was closed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 103,
+      "start": 608.633,
+      "end": 612.921,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后说清态度："
+        },
+        {
+          "lang": "en",
+          "text": "The rule still applies to me"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "start": 613.271,
+      "end": 621.631,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，用 word bank 补完整 5 个空，把隐私、预防措施、伪装过头和公共规则说清楚。"
+        }
+      ]
+    },
+    {
+      "i": 105,
+      "start": 621.981,
+      "end": 629.301,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "start": 629.651,
+      "end": 635.071,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓开头："
+        },
+        {
+          "lang": "en",
+          "text": "An ancient bus stopped by a dry river bed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 107,
+      "start": 635.42,
+      "end": 640.012,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓伪装目的："
+        },
+        {
+          "lang": "en",
+          "text": "so that no one should recognize them"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 108,
+      "start": 640.362,
+      "end": 645.61,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓反转句："
+        },
+        {
+          "lang": "en",
+          "text": "disguises can sometimes be too perfect"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 109,
+      "start": 645.96,
+      "end": 651.904,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后抓 sheriff 的冷笑："
+        },
+        {
+          "lang": "en",
+          "text": "'Oh, is it?' said the sheriff with a sneer"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 110,
+      "start": 652.254,
+      "end": 665.054,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，② 完形，③ 中译英，④ 英译中，⑤ 拓展阅读，⑥ 句式仿写，⑦ 默写，⑧ 总结。"
+        }
+      ]
+    },
+    {
+      "i": 111,
+      "start": 665.404,
+      "end": 670.876,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "privacy matters, but public rules still apply"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 74
+}

@@ -1,0 +1,150 @@
+{
+  "lesson_id": 74,
+  "reading": {
+    "title": "The Quiet Lawn",
+    "intro_zh": "这篇延展阅读把 Lesson 74 的“离开聚光灯、预防措施、伪装过头、公共告示和规则仍适用”换到学校戏剧社的公园午餐场景。短文为原创故事，不复述原文的演员、巴士、干河床和 sheriff 情节。",
+    "source": {
+      "title": "Leave No Trace Seven Principles",
+      "publisher": "National Park Service",
+      "url": "https://www.nps.gov/articles/leave-no-trace-seven-principles.htm"
+    },
+    "passage": [
+      "After the spring play, Maya became the most recognizable student in the drama club. Younger children asked for photos, and classmates repeated her best line in the hallway. Maya enjoyed the praise, but by Saturday she wanted to stay out of the limelight. For a club picnic at the town park, she took precautions. She wore an old jacket, dark glasses, and a plain cap so that no one would recognize her.",
+      "At first, the plan worked perfectly. Maya and two friends carried their lunch bags to a quiet lawn beside some trees. There were no cameras, no cheers, and no one calling her stage name. Maya laughed and said her disguise was perfect. Then a park worker walked over and pointed to a small notice beside the lawn. The grass was newly planted, so visitors had to eat at the tables instead.",
+      "Maya tried to explain that she was only a student actor, not a troublemaker. The worker looked at her old cap and said kindly, \"Then you can be a careful visitor too.\" Maya blushed. Her disguise had worked so well that her school fame meant nothing, but the worker was right. Being popular did not give her permission to ignore a public rule. She moved to the tables and saved her spotlight for the stage."
+    ],
+    "questions": [
+      {
+        "id": "why_hide",
+        "question": "Why did Maya want to stay out of the limelight?",
+        "options": [
+          "She wanted to leave the drama club forever.",
+          "She wanted a quiet break from being recognized after the play.",
+          "She wanted to hide from a dangerous person.",
+          "She wanted to become a park worker."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "第一段说 Maya enjoyed the praise, but by Saturday she wanted to stay out of the limelight，说明她想从被认出的状态里安静休息一下。"
+      },
+      {
+        "id": "precautions",
+        "question": "Which precautions did Maya take?",
+        "options": [
+          "She brought a camera and asked for more photos.",
+          "She put her name on a large sign.",
+          "She invited reporters to the park.",
+          "She wore an old jacket, dark glasses, and a plain cap."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "第一段结尾说 she wore an old jacket, dark glasses, and a plain cap so that no one would recognize her。"
+      },
+      {
+        "id": "notice",
+        "question": "What did the park notice mean?",
+        "options": [
+          "Visitors had to eat at the tables because the grass was newly planted.",
+          "Students could only picnic if they were famous actors.",
+          "The drama club had to perform on the lawn.",
+          "No one could wear dark glasses in the park."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "第二段说 grass was newly planted, so visitors had to eat at the tables instead。"
+      },
+      {
+        "id": "worker_reply",
+        "question": "What did the park worker suggest?",
+        "options": [
+          "Maya should call her fans back to the lawn.",
+          "Maya should pretend to be a famous adult actor.",
+          "Maya could be a careful visitor too.",
+          "Maya should hide behind the trees."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "第三段里工作人员说 Then you can be a careful visitor too，意思是她也可以做守规则的游客。"
+      },
+      {
+        "id": "main_lesson",
+        "question": "What is the main lesson of the story?",
+        "options": [
+          "A good disguise gives people special permission.",
+          "Popularity does not cancel public rules.",
+          "Students should avoid all praise after a play.",
+          "Public notices are only decorations."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "最后一段说 Being popular did not give her permission to ignore a public rule，这是全文主旨。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 74 的身份与规则句式：用 out of the limelight 写离开公众视线，用 so that no one would recognize me 写目的，用 too perfect 写反转，用 notice that said 写公共告示，用 rules still apply 写身份不能取消规则。",
+    "patterns": [
+      {
+        "id": "out_of_limelight",
+        "title": "out of the limelight",
+        "source": "out of the limelight",
+        "focus_zh": "这个表达表示离开公众关注，想要隐私和安静。",
+        "task_zh": "仿写一句：写某人完成表演、比赛或展示后想安静一会儿。",
+        "must_include": [
+          "out of the limelight"
+        ],
+        "min_words": 11,
+        "sample": "After the concert, I wanted to stay out of the limelight for an hour.",
+        "tip_zh": "stay out of the limelight 比 hide 更自然，强调离开关注而不是做坏事。"
+      },
+      {
+        "id": "so_that_recognize",
+        "title": "so that no one would recognize me",
+        "source": "so that no one should recognize them",
+        "focus_zh": "so that 表示目的，后面说明做这件事是为了达到什么结果。",
+        "task_zh": "仿写一句：写你换了普通衣服、帽子或座位，为了不被认出来。",
+        "must_include": [
+          "so that",
+          "recognize"
+        ],
+        "min_words": 12,
+        "sample": "I wore an old team jacket so that no one would recognize me at the park.",
+        "tip_zh": "so that 后面接完整小句；recognize 是“认出”。"
+      },
+      {
+        "id": "too_perfect",
+        "title": "too perfect",
+        "source": "disguises can sometimes be too perfect",
+        "focus_zh": "too perfect 表面是夸奖，实际在本课里制造了反转和麻烦。",
+        "task_zh": "仿写一句：写某个伪装、计划或借口成功过头，反而造成误会。",
+        "must_include": [
+          "too perfect"
+        ],
+        "min_words": 11,
+        "sample": "My quiet disguise was too perfect, so even my coach did not believe me.",
+        "tip_zh": "too perfect 后面常接结果，说明“过头”的后果。"
+      },
+      {
+        "id": "notice_that_said",
+        "title": "a notice that said ...",
+        "source": "Do you see that notice? It says \"No Camping\"",
+        "focus_zh": "notice 是告示、布告；that said 后面写告示内容。",
+        "task_zh": "仿写一句：写你在公共场所看到一块说明规则的告示。",
+        "must_include": [
+          "notice that said"
+        ],
+        "min_words": 11,
+        "sample": "There was a notice that said visitors should keep off the wet grass.",
+        "tip_zh": "a notice that said ... 比 a paper 更准确，因为它强调公开规则。"
+      },
+      {
+        "id": "rules_still_apply",
+        "title": "the rules still apply",
+        "source": "public rules still apply",
+        "focus_zh": "这个表达说明某人的身份、受欢迎程度或心情不能取消规则。",
+        "task_zh": "仿写一句：写即使某人很受欢迎，也必须遵守公园、学校或比赛规则。",
+        "must_include": [
+          "rules still apply"
+        ],
+        "min_words": 11,
+        "sample": "Even when a student is popular, the park rules still apply to everyone.",
+        "tip_zh": "apply 在这里不是“申请”，而是“适用”。"
+      }
+    ]
+  }
+}

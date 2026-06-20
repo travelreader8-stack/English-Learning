@@ -1,0 +1,51 @@
+{
+  "lesson_id": 74,
+  "title": "The Quiet Club Picnic",
+  "question": "把今天“离开公众视线 -> 提前做预防措施 -> 伪装太成功 -> 看见公共规则 -> 身份不能取消规则”的表达，放进 school drama club picnic 场景：用 word bank 补完整 5 个空。",
+  "example_answer": "After the school play, I wanted to stay out of the limelight. I took precautions so that no one would recognize me at the park. My disguise was too perfect, so even a park worker did not believe I was the lead actor. There was a notice that said the picnic lawn was closed, and the rule still applies to me.",
+  "word_bank": [
+    "stay out of the limelight",
+    "took precautions",
+    "so that no one would recognize me",
+    "was too perfect",
+    "notice that said",
+    "rule still applies to me",
+    "dark glasses",
+    "public attention",
+    "privacy",
+    "sheriff"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说明演出后你想离开公众视线",
+      "english_template": "After the school play, I wanted to ___.",
+      "expected_phrase": "stay out of the limelight"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说明你这样穿是为了不被认出来",
+      "english_template": "I wore an old cap ___.",
+      "expected_phrase": "so that no one would recognize me"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说明伪装成功过头了",
+      "english_template": "My disguise ___.",
+      "expected_phrase": "was too perfect"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说明你看到一块写着草坪关闭的告示",
+      "english_template": "There was a ___ the picnic lawn was closed.",
+      "expected_phrase": "notice that said"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "说明规则仍然适用于你",
+      "english_template": "Even if I was the lead actor, the ___.",
+      "expected_phrase": "rule still applies to me"
+    }
+  ],
+  "mode": "all_fills"
+}

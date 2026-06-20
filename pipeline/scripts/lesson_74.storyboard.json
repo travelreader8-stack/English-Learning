@@ -1,0 +1,23 @@
+{
+  "lesson_id": 74,
+  "title": "Out of the limelight",
+  "visual_consistency": "A continuous classic film-star picnic comedy with the same group of famous actors and actresses throughout: Gloria Gleam, elegant but disguised; Brinksley Meers, confident but dressed down; Rockwall Slinger and Merlin Greeves, awkward when challenged; all wearing dark glasses, old plain clothes, simple hats, and deliberately ordinary styling. The setting is a dry river bed with scattered trees, a shady picnic spot, large food baskets, and an old worn bus nearby. A stern local sheriff appears later as a blunt authority figure, not violent. The camping rule is shown only through a blank notice board or simple non-readable pictogram. Images must contain no readable signs, actor names, bus markings, newspaper text, film posters, fan signs, sheriff badge text, vehicle plates, captions, speech bubbles, UI panels, letters, words, or numbers.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "An old worn bus has stopped beside a dry river bed. The same group of disguised famous actors and actresses step down quietly in dark glasses, old plain clothes, and simple hats, looking relieved to be away from attention. The scene feels comic and private rather than glamorous, with no reporters or fans visible. Keep the bus generic with no readable markings."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same disguised actor group settles into a shady picnic spot under trees near the dry river bed. Two actors carry large food baskets while Gloria and Brinksley relax happily, pleased that no one recognizes them. The mood is quiet, witty, and comfortable, suggesting their disguise has worked almost too well. No visible readable text anywhere."
+    },
+    {
+      "frame": 3,
+      "prompt": "A stern sheriff arrives at the shady picnic spot and points toward a blank notice board or simple non-readable camping-rule pictogram. The same actors look surprised and uncomfortable, with picnic baskets still under the trees. The sheriff is firm and sarcastic in posture but not threatening. No readable words on the notice, badge, clothing, or environment."
+    },
+    {
+      "frame": 4,
+      "prompt": "Rockwall and Merlin try to explain themselves to the sheriff while Gloria and Brinksley react with embarrassed surprise. The sheriff gives a skeptical, sarcastic expression, as if he does not believe their famous identities. The actors remain in ordinary disguises, making the mistaken identity joke clear. Keep the scene comic and non-hostile, with no readable text or name labels."
+    }
+  ]
+}
