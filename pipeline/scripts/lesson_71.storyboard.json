@@ -1,0 +1,23 @@
+{
+  "lesson_id": 71,
+  "title": "A famous clock",
+  "visual_consistency": "A continuous London public-time sequence built around the same famous stone clock tower beside the Houses of Parliament. Whenever the clock face is visible, make it a simplified blank cream face with only two dark hands; do not draw numerals, Roman numerals, tick marks, minute marks, symbols, decorative letters, or readable clock markings. Keep a warm historic-city atmosphere near the river, subtle broadcast sound-wave metaphors with no logos, calm observatory/timekeeping officials, and one ordinary painter whose accidental paint pot creates the final comic reversal. No readable signs, plaques, maps, posters, logos, clock numbers, captions, labels, UI panels, speech bubbles, letters, or words anywhere in the images.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Frame 1 of a continuous London public-time story in a wide horizontal composition: a young visitor and a parent stand near the river looking up at the same famous stone clock tower beside the Houses of Parliament. The clock face is visible but deliberately simplified as a blank cream circle with only two dark hands; no numerals, no Roman numerals, no tick marks, no minute marks, no symbols. Subtle glowing sound waves travel outward from the tower toward distant small radio-listening silhouettes in warm windows, showing that the chimes can be heard far away. Grand but gentle educational mood, no readable signs, no logos, no text."
+    },
+    {
+      "frame": 2,
+      "prompt": "Frame 2 of the same clock tower sequence: a respectful split-time composition without panels or text, showing a smoky memory of the old Parliament fire as a soft background haze while the new Parliament and the same clock tower are being constructed in the foreground. A calm Victorian official figure suggests Sir Benjamin Hall overseeing the public project. Keep the scene dignified, non-chaotic, and child-safe. No readable documents, no signs, no numbers, no labels, no text."
+    },
+    {
+      "frame": 3,
+      "prompt": "Frame 3 of the same London clock sequence: inside or beside the same clock tower, calm officials carefully inspect a large clock mechanism with delicate instruments, while unobtrusive microphones near the tower suggest broadcast chimes. The clock hands and gears are visible as mechanical parts, and the mood feels accurate and trusted. Suggest observatory timekeeping through instruments and careful posture only, with no maps, labels, logos, charts, numerals, or readable text."
+    },
+    {
+      "frame": 4,
+      "prompt": "Frame 4 of the same clock tower sequence in a wide horizontal landscape composition, not a vertical poster: place the same tower and blank clock face on the right half, with London sky and river space across the left half. High on the tower, an ordinary painter working carefully has accidentally hung a small paint pot from one of the large clock hands, weighing it down in a clear but non-destructive comic way. Below, small officials and passers-by react with surprised concern. The painter looks embarrassed, not malicious. The clock face is a simplified blank cream circle with only two dark hands; no numerals, no Roman numerals, no tick marks, no minute marks, no symbols. Warm lightly comic ending, no labels, no signs, no logos, no text."
+    }
+  ]
+}

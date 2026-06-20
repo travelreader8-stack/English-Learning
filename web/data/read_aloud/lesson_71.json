@@ -1,0 +1,114 @@
+{
+  "lesson_id": 71,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按“伦敦地标 -> 历史假设 -> 得名和建造 -> 又大又准 -> 每天检查 -> BBC 广播钟声 -> 很少出错 -> 油漆桶拖慢指针”的故事线跟读。重点读清 Big Ben, B.B.C., Houses of Parliament, erected, Sir Benjamin Hall, immense, accurate, Greenwich Observatory, have the clock checked, rarely gone wrong 和 one of the hands。",
+  "sentences": [
+    {
+      "id": "l71_s1",
+      "text": "When you visit London, one of the first things you will see is Big Ben, the famous clock which can be heard all over the world on the B.B.C.",
+      "focus_zh": "中文锚点：到伦敦时，最先看到的东西之一就是 Big Ben，这座著名大钟的声音可以通过 BBC 被全世界听到。长句先停在 London，再读 one of the first things，最后把 which can be heard 当作补充说明。",
+      "start": 300.418,
+      "end": 308.074,
+      "focus_words": [
+        "When you visit London",
+        "one of the first things",
+        "Big Ben",
+        "can be heard",
+        "B.B.C."
+      ]
+    },
+    {
+      "id": "l71_s2",
+      "text": "If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected.",
+      "focus_zh": "中文锚点：如果国会大厦没有在 1834 年被烧毁，这座大钟就永远不会被建起来。读清 had not been burned down 和 would never have been erected，这是过去反事实。",
+      "start": 308.423,
+      "end": 315.047,
+      "focus_words": [
+        "If",
+        "Houses of Parliament",
+        "had not been burned down",
+        "would never have been erected"
+      ]
+    },
+    {
+      "id": "l71_s3",
+      "text": "Big Ben takes its name from Sir Benjamin Hall who was responsible for the making of the clock when the new Houses of Parliament were being built.",
+      "focus_zh": "中文锚点：Big Ben 得名于 Sir Benjamin Hall，他在新国会大厦建造时负责造钟。长句分成 takes its name from、who was responsible for、when ... were being built 三段。",
+      "start": 315.397,
+      "end": 323.293,
+      "focus_words": [
+        "takes its name from",
+        "Sir Benjamin Hall",
+        "responsible for",
+        "were being built"
+      ]
+    },
+    {
+      "id": "l71_s4",
+      "text": "It is not only of immense size, but is extremely accurate as well.",
+      "focus_zh": "中文锚点：它不仅体型巨大，而且也非常准确。not only 和 but ... as well 配对，immense 和 accurate 都要读得清楚有力。",
+      "start": 323.643,
+      "end": 328.251,
+      "focus_words": [
+        "not only",
+        "immense size",
+        "but",
+        "extremely accurate",
+        "as well"
+      ]
+    },
+    {
+      "id": "l71_s5",
+      "text": "Officials from Greenwich Observatory have the clock checked twice a day.",
+      "focus_zh": "中文锚点：Greenwich Observatory 的官员安排每天两次检查这座钟。have the clock checked 是“安排检查”，不是“拥有一个被检查的钟”。",
+      "start": 328.601,
+      "end": 333.065,
+      "focus_words": [
+        "Officials",
+        "Greenwich Observatory",
+        "have the clock checked",
+        "twice a day"
+      ]
+    },
+    {
+      "id": "l71_s6",
+      "text": "On the B.B.C. you can hear the clock when it is actually striking because microphones are connected to the clock tower.",
+      "focus_zh": "中文锚点：当大钟真正打点时，你可以在 BBC 上听到它，因为麦克风连接到了钟塔。when it is actually striking 说明听到的是打点声，are connected to 是被动连接。",
+      "start": 333.415,
+      "end": 340.039,
+      "focus_words": [
+        "B.B.C.",
+        "actually striking",
+        "because",
+        "microphones",
+        "connected to"
+      ]
+    },
+    {
+      "id": "l71_s7",
+      "text": "Big Ben has rarely gone wrong.",
+      "focus_zh": "中文锚点：Big Ben 很少出错。rarely 是“很少”，这一句要短而准，不能读成经常出错的意思。",
+      "start": 340.389,
+      "end": 343.197,
+      "focus_words": [
+        "Big Ben",
+        "rarely",
+        "gone wrong"
+      ]
+    },
+    {
+      "id": "l71_s8",
+      "text": "A painter who had been working on the tower hung a pot of paint on one of the hands and slowed it down!",
+      "focus_zh": "中文锚点：一个在塔上工作的油漆工把一桶油漆挂在一根指针上，把它拖慢了。one of the hands 是钟表指针，不是人的手；slowed it down 是笑点落点。",
+      "start": 347.665,
+      "end": 353.713,
+      "focus_words": [
+        "painter",
+        "working on the tower",
+        "pot of paint",
+        "one of the hands",
+        "slowed it down"
+      ]
+    }
+  ]
+}

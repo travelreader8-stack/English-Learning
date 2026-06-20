@@ -1,0 +1,51 @@
+{
+  "lesson_id": 71,
+  "title": "The School Clock",
+  "question": "把今天“公共时间 -> 保持准确 -> 被检查/同步 -> 很少出错 -> 小设置错误导致时间不准”的表达，放进 school central clock 场景：用 word bank 补完整 5 个空。",
+  "example_answer": "Our school clock is extremely accurate because everyone uses it for classes and activities. The staff have it checked every morning, and it is connected to the school network. It has rarely gone wrong. Once, however, it failed to give the correct time because a small setting error slowed it down. Shared time must be accurate, or everyone gets confused.",
+  "word_bank": [
+    "extremely accurate",
+    "have it checked",
+    "connected to",
+    "rarely gone wrong",
+    "failed to give the correct time",
+    "school network",
+    "central clock",
+    "setting error",
+    "slowed it down",
+    "shared time"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说明学校公共时钟很准确",
+      "english_template": "Our school clock is ___.",
+      "expected_phrase": "extremely accurate"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说明工作人员每天安排检查它",
+      "english_template": "The staff ___ every morning.",
+      "expected_phrase": "have it checked"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说明它连接到学校网络",
+      "english_template": "It is ___ the school network.",
+      "expected_phrase": "connected to"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说明它平时很少出错",
+      "english_template": "It has ___.",
+      "expected_phrase": "rarely gone wrong"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "说明有一次它没有给出正确时间",
+      "english_template": "Once, however, it ___.",
+      "expected_phrase": "failed to give the correct time"
+    }
+  ],
+  "mode": "all_fills"
+}

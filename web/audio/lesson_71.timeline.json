@@ -1,0 +1,2000 @@
+{
+  "total_duration": 642.953,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 4.32,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果没有手机，也没有网络，你怎么知道现在几点？"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 4.67,
+      "end": 9.07,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "以前很多人会看城市里的大钟，或者听广播里的报时。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 9.42,
+      "end": 18.692,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Big Ben"
+        },
+        {
+          "lang": "zh",
+          "text": "就是这样的钟：它不只是被人看见，还能通过"
+        },
+        {
+          "lang": "en",
+          "text": "B.B.C."
+        },
+        {
+          "lang": "zh",
+          "text": "被全世界听见。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 19.041,
+      "end": 24.681,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "可是这么著名、这么准确的大钟，也曾经被一个小小的油漆桶拖慢。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 25.031,
+      "end": 29.391,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天我们学一个关于公共时间、准确性和小反转的故事。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 29.741,
+      "end": 34.537,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，先把"
+        },
+        {
+          "lang": "en",
+          "text": "Big Ben"
+        },
+        {
+          "lang": "zh",
+          "text": "看成公共时间。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 34.887,
+      "end": 44.207,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：到伦敦时，最先看到的地标之一就是这座著名大钟，它的钟声还能通过广播传到远处。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 44.557,
+      "end": 50.033,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "When you visit London, one of the first things you will see is Big Ben"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 50.382,
+      "end": 56.142,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后面补充："
+        },
+        {
+          "lang": "en",
+          "text": "the famous clock which can be heard all over the world on the B.B.C."
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 56.492,
+      "end": 62.932,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意它的 fame 不只是视觉，也有声音：人们看见钟塔，也听见钟声。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 63.282,
+      "end": 70.75,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "one of the first things you will see"
+        },
+        {
+          "lang": "zh",
+          "text": "，还有"
+        },
+        {
+          "lang": "en",
+          "text": "heard all over the world"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 71.1,
+      "end": 74.64,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，故事回到一场大火和一座新建筑。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 74.99,
+      "end": 81.27,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：如果国会大厦没有在 1834 年被烧毁，这座大钟就不会被建起来。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 81.62,
+      "end": 89.783,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 90.133,
+      "end": 94.213,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这不是讲未来，而是在想象一个相反的过去。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 94.563,
+      "end": 99.571,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后课文说"
+        },
+        {
+          "lang": "en",
+          "text": "Big Ben takes its name from Sir Benjamin Hall"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 99.921,
+      "end": 105.689,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他在新国会大厦建造时"
+        },
+        {
+          "lang": "en",
+          "text": "was responsible for the making of the clock"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 106.039,
+      "end": 110.279,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，大钟变成可信的公共时间系统。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 110.629,
+      "end": 120.469,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：它不仅巨大，而且很准确；Greenwich 的官员每天两次安排检查，麦克风把钟声传给 BBC。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 120.819,
+      "end": 126.582,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "It is not only of immense size, but is extremely accurate as well"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 126.932,
+      "end": 133.46,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Immense"
+        },
+        {
+          "lang": "zh",
+          "text": "是非常巨大，"
+        },
+        {
+          "lang": "en",
+          "text": "accurate"
+        },
+        {
+          "lang": "zh",
+          "text": "是准确。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 133.81,
+      "end": 140.234,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后是关键结构："
+        },
+        {
+          "lang": "en",
+          "text": "Officials from Greenwich Observatory have the clock checked twice a day"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 140.584,
+      "end": 147.36,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Have the clock checked"
+        },
+        {
+          "lang": "zh",
+          "text": "是安排别人检查，不一定是官员亲自爬上去检查。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 147.71,
+      "end": 153.645,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "麦克风连到钟塔，所以人们能在"
+        },
+        {
+          "lang": "en",
+          "text": "B.B.C."
+        },
+        {
+          "lang": "zh",
+          "text": "上听到它打点。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 153.995,
+      "end": 157.635,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，宏大的系统被一个小东西拖慢。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 157.985,
+      "end": 166.665,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：Big Ben 很少出错，可有一次没有报准时间，因为油漆工把一桶油漆挂在了一根指针上。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 167.015,
+      "end": 171.207,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文先说："
+        },
+        {
+          "lang": "en",
+          "text": "Big Ben has rarely gone wrong"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 171.557,
+      "end": 176.725,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Rarely"
+        },
+        {
+          "lang": "zh",
+          "text": "是很少，所以这里一定不是“很多出差错”。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 177.075,
+      "end": 182.33,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "反转来了："
+        },
+        {
+          "lang": "en",
+          "text": "Once, however, it failed to give the correct time"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 182.68,
+      "end": 189.36,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "原因很小也很形象："
+        },
+        {
+          "lang": "en",
+          "text": "A painter hung a pot of paint on one of the hands and slowed it down"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 189.71,
+      "end": 197.658,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里"
+        },
+        {
+          "lang": "en",
+          "text": "hands"
+        },
+        {
+          "lang": "zh",
+          "text": "是钟表指针，不是人的手。一个油漆桶，就让著名大钟慢了下来。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 198.008,
+      "end": 204.444,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，为什么一个钟会这么有名？现在每个人手机上都有时间呀。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 204.794,
+      "end": 214.394,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "正因为现在太方便，我们才容易忘记以前的 public time。没有智能手机时，一座城市要有大家都信的时间。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 214.744,
+      "end": 219.15,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "Big Ben"
+        },
+        {
+          "lang": "zh",
+          "text": "不只是旅游照片？"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 219.499,
+      "end": 227.019,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。它是地标，也是声音。人们看见钟塔，听见钟声，就觉得这个时间是共同的、可信的。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 227.369,
+      "end": 232.345,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "Big Ben"
+        },
+        {
+          "lang": "zh",
+          "text": "到底是钟，还是钟塔？"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 232.695,
+      "end": 244.231,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "日常说法里，很多人用"
+        },
+        {
+          "lang": "en",
+          "text": "Big Ben"
+        },
+        {
+          "lang": "zh",
+          "text": "指整个著名地标；严格说，它最早指里面那口大钟。课文用的是大家熟悉的说法。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 244.58,
+      "end": 251.983,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "B.B.C."
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "Greenwich Observatory"
+        },
+        {
+          "lang": "zh",
+          "text": "为什么也在故事里？"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 252.333,
+      "end": 262.229,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "B.B.C."
+        },
+        {
+          "lang": "zh",
+          "text": "把钟声传出去；Greenwich 让我们想到标准时间和官方检查。一个负责传播，一个代表准确。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 262.578,
+      "end": 265.418,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后那个油漆桶为什么好笑？"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 265.768,
+      "end": 275.048,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为课文先用很多句子证明它又大、又准、又被检查、还能广播。结果呢？一个普通油漆桶挂在指针上，就让它慢了。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 275.397,
+      "end": 278.658,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以笑点是大系统遇到小细节？"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 279.008,
+      "end": 285.448,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Exactly. A famous accurate system can still be affected by one small human detail."
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 285.798,
+      "end": 289.438,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果学校的网络时间错了，也会这样吗？"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 289.788,
+      "end": 300.068,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "会。消息时间、线上课、运动会、车票、考试铃声，都需要 trusted time。公共时间一错，很多人都会被带偏。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 300.418,
+      "end": 308.074,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When you visit London, one of the first things you will see is Big Ben, the famous clock which can be heard all over the world on the B.B.C."
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 308.423,
+      "end": 315.047,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 315.397,
+      "end": 323.293,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Big Ben takes its name from Sir Benjamin Hall who was responsible for the making of the clock when the new Houses of Parliament were being built."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 323.643,
+      "end": 328.251,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It is not only of immense size, but is extremely accurate as well."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 328.601,
+      "end": 333.065,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Officials from Greenwich Observatory have the clock checked twice a day."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 333.415,
+      "end": 340.039,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "On the B.B.C. you can hear the clock when it is actually striking because microphones are connected to the clock tower."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 340.389,
+      "end": 343.197,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Big Ben has rarely gone wrong."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 343.547,
+      "end": 347.315,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Once, however, it failed to give the correct time."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 347.665,
+      "end": 353.713,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "A painter who had been working on the tower hung a pot of paint on one of the hands and slowed it down!"
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 354.062,
+      "end": 356.982,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "accurate"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组词："
+        },
+        {
+          "lang": "en",
+          "text": "accurate"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 357.332,
+      "end": 359.036,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "accurate"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Accurate"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 359.386,
+      "end": 362.886,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "accurate"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Accurate"
+        },
+        {
+          "lang": "zh",
+          "text": "是准确的、精确的。"
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 363.236,
+      "end": 370.676,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "accurate"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "一个钟可以很大，也可以很漂亮，但"
+        },
+        {
+          "lang": "en",
+          "text": "accurate"
+        },
+        {
+          "lang": "zh",
+          "text": "说的是它给出的时间是对的。"
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 371.026,
+      "end": 374.39,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "accurate"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "It is extremely accurate"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 374.739,
+      "end": 385.579,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "accurate"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词还可以用在答案、测量、路线和数据上，比如"
+        },
+        {
+          "lang": "en",
+          "text": "an accurate answer"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "an accurate measurement"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 385.929,
+      "end": 388.801,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "official"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组词："
+        },
+        {
+          "lang": "en",
+          "text": "official"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 389.151,
+      "end": 390.879,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "official"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Official"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 391.229,
+      "end": 397.541,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "official"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Official"
+        },
+        {
+          "lang": "zh",
+          "text": "作名词时，是官员、工作人员、官方人员。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 397.891,
+      "end": 402.034,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "official"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里说："
+        },
+        {
+          "lang": "en",
+          "text": "Officials from Greenwich Observatory"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 402.384,
+      "end": 406.744,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "official"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "他们代表一个机构来做公共职责，所以这座钟显得更可信。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 407.094,
+      "end": 414.95,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "official"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现代也有"
+        },
+        {
+          "lang": "en",
+          "text": "school officials"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "race officials"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "airport officials"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 415.3,
+      "end": 418.26,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "erect"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组词："
+        },
+        {
+          "lang": "en",
+          "text": "erect"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 418.61,
+      "end": 420.266,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "erect"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Erect"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 420.616,
+      "end": 426.415,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "erect"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Erect"
+        },
+        {
+          "lang": "zh",
+          "text": "在这课里是建起、竖立起来，是比较正式的词。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 426.765,
+      "end": 430.801,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "erect"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "the great clock would never have been erected"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 431.151,
+      "end": 435.631,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "erect"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它常用来描述大型建筑、纪念碑、塔这样的东西被建起来。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 435.981,
+      "end": 445.797,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "erect"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "日常聊天说盖房子，可以用"
+        },
+        {
+          "lang": "en",
+          "text": "build"
+        },
+        {
+          "lang": "zh",
+          "text": "；课文这里讲公共建筑，所以用"
+        },
+        {
+          "lang": "en",
+          "text": "erected"
+        },
+        {
+          "lang": "zh",
+          "text": "更正式。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 446.147,
+      "end": 449.587,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法从一个历史假设开始。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 449.936,
+      "end": 458.1,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 458.45,
+      "end": 464.65,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文意思是：如果 1834 年那场火没有发生，这座大钟就不会被建起来。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 465.0,
+      "end": 474.184,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Had not been burned down"
+        },
+        {
+          "lang": "zh",
+          "text": "是过去没有被烧毁；"
+        },
+        {
+          "lang": "en",
+          "text": "would never have been erected"
+        },
+        {
+          "lang": "zh",
+          "text": "是后来就永远不会被建起来。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 474.534,
+      "end": 482.254,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这叫 third conditional，但你先记住故事逻辑：过去已经发生了，句子在想象相反的过去。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 482.604,
+      "end": 491.767,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二个重点是 passive。课文有"
+        },
+        {
+          "lang": "en",
+          "text": "would never have been erected"
+        },
+        {
+          "lang": "zh",
+          "text": "，还有"
+        },
+        {
+          "lang": "en",
+          "text": "were being built"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 492.117,
+      "end": 499.677,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为重点是国会大厦和大钟这些公共项目被建起来，而不是具体哪个工人砌了哪块石头。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 500.027,
+      "end": 503.547,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三个重点是"
+        },
+        {
+          "lang": "en",
+          "text": "have something done"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 503.897,
+      "end": 511.649,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Officials have the clock checked twice a day"
+        },
+        {
+          "lang": "zh",
+          "text": "，不是“拥有一个被检查的钟”，而是安排别人检查这个钟。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 511.999,
+      "end": 518.287,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你也可以说："
+        },
+        {
+          "lang": "en",
+          "text": "have my bike repaired"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "have my eyes checked"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 518.636,
+      "end": 525.412,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后是叠加亮点："
+        },
+        {
+          "lang": "en",
+          "text": "not only of immense size, but is extremely accurate as well"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 525.762,
+      "end": 529.442,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这句话不是只夸它大，而是说它又大又准。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 529.792,
+      "end": 541.78,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天带走四组表达："
+        },
+        {
+          "lang": "en",
+          "text": "would never have been erected"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "takes its name from"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "have the clock checked"
+        },
+        {
+          "lang": "zh",
+          "text": "，和"
+        },
+        {
+          "lang": "en",
+          "text": "has rarely gone wrong"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 542.13,
+      "end": 548.981,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把"
+        },
+        {
+          "lang": "en",
+          "text": "Big Ben"
+        },
+        {
+          "lang": "zh",
+          "text": "换成学校里的公共时间："
+        },
+        {
+          "lang": "en",
+          "text": "The School Clock"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 549.331,
+      "end": 554.451,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "学校有一个 central clock，控制上课铃、活动时间和考试开始时间。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 554.801,
+      "end": 560.449,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你要说明它为什么可信："
+        },
+        {
+          "lang": "en",
+          "text": "Our school clock is extremely accurate"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 560.799,
+      "end": 570.115,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再说明怎样保持准确："
+        },
+        {
+          "lang": "en",
+          "text": "The staff have it checked every morning"
+        },
+        {
+          "lang": "zh",
+          "text": "，并且"
+        },
+        {
+          "lang": "en",
+          "text": "it is connected to the school network"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 570.464,
+      "end": 575.96,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后讲一次小故障："
+        },
+        {
+          "lang": "en",
+          "text": "Once, however, it failed to give the correct time"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 576.31,
+      "end": 580.47,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "原因可以是一个 small setting error，让铃声晚了几分钟。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 580.82,
+      "end": 591.3,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，用 word bank 补完整 5 个空，把 shared time, checked, connected 和 failed to give the correct time 说清楚。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 591.65,
+      "end": 598.97,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 599.32,
+      "end": 605.088,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓开头长句："
+        },
+        {
+          "lang": "en",
+          "text": "one of the first things you will see is Big Ben"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 605.438,
+      "end": 610.978,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓历史假设："
+        },
+        {
+          "lang": "en",
+          "text": "If the Houses of Parliament had not been burned down"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 611.327,
+      "end": 616.543,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓公共时间系统："
+        },
+        {
+          "lang": "en",
+          "text": "have the clock checked twice a day"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 616.893,
+      "end": 622.653,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后抓小反转："
+        },
+        {
+          "lang": "en",
+          "text": "hung a pot of paint on one of the hands and slowed it down"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 623.003,
+      "end": 636.483,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，② 完形，③ 中译英，④ 英译中，⑤ 拓展阅读，⑥ 句式仿写，⑦ 默写。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 636.833,
+      "end": 642.953,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "public time needs trust, accuracy, and careful checking"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 71
+}

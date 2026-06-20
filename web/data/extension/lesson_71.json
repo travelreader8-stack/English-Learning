@@ -1,0 +1,155 @@
+{
+  "lesson_id": 71,
+  "reading": {
+    "title": "Three Minutes Late",
+    "intro_zh": "这篇延展阅读把 Lesson 71 的“公共时间、准确检查、小错误导致系统变慢”换到学校中央时钟场景。短文为原创故事，不复述 Big Ben。",
+    "source": {
+      "title": "Internet Time Service",
+      "publisher": "National Institute of Standards and Technology",
+      "url": "https://www.nist.gov/pml/time-and-frequency-division/time-distribution/internet-time-service-its"
+    },
+    "passage": [
+      "At West Hill School, every classroom screen showed the same central time. The bell, the sports scoreboard, and the online-class platform were all connected to that system. Students trusted it because the school technology office had the clock checked every morning before classes began. When the minute changed on the main server, the same minute appeared across the building.",
+      "One Monday, however, the first bell rang three minutes late. At first, no one worried. A few students thought their phones were wrong. Then the bus monitor missed the usual message, a science quiz started late, and the basketball coach stopped practice at the wrong time. The clock had not broken. During a weekend update, an official setting had been changed by mistake, so the system followed a slow local clock instead of the accurate network time.",
+      "The technology teacher fixed the setting and explained the problem during assembly. Public time is useful only when people can trust it, she said. A small error can move through a whole school, just as a small weight can slow a clock hand. After that day, two staff members checked the time each morning, and students learned to compare their personal phone time with the shared clock before important events."
+    ],
+    "questions": [
+      {
+        "id": "trusted_system",
+        "question": "What shared time system did people at West Hill School trust?",
+        "options": [
+          "A paper schedule written on the classroom wall.",
+          "Each student's personal watch.",
+          "The central time shown on classroom screens, bells, and school systems.",
+          "A clock tower in the town square."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "第一段说 every classroom screen、bell、scoreboard 和 online-class platform 都连接到同一个 central time。"
+      },
+      {
+        "id": "usual_accuracy",
+        "question": "Why was the system usually accurate?",
+        "options": [
+          "The technology office had the clock checked every morning.",
+          "Students reset it by hand after lunch.",
+          "The basketball coach listened for a tower bell.",
+          "The bus monitor guessed the time from the weather."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "第一段说 technology office had the clock checked every morning before classes began。"
+      },
+      {
+        "id": "small_problem",
+        "question": "What small problem made the time go wrong?",
+        "options": [
+          "A painter hung a paint pot on a clock hand.",
+          "A storm stopped all the classroom screens.",
+          "The students moved the sports scoreboard.",
+          "A weekend update changed an official setting by mistake."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "第二段说明 weekend update 中 official setting 被误改，系统跟随了较慢的 local clock。"
+      },
+      {
+        "id": "effect",
+        "question": "How did the time error affect people?",
+        "options": [
+          "Everyone arrived three hours early.",
+          "A message was missed, a quiz started late, and practice stopped at the wrong time.",
+          "The school cancelled every class for the week.",
+          "Students could no longer hear any sound from the bells."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "第二段列出 bus monitor missed the message、science quiz started late 和 practice stopped at the wrong time。"
+      },
+      {
+        "id": "lesson",
+        "question": "What lesson did the students learn?",
+        "options": [
+          "Personal phone time is always wrong.",
+          "Public clocks do not need to be checked.",
+          "Shared time must be trusted and checked before important events.",
+          "Sports scoreboards are more accurate than servers."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "最后一段说 public time needs trust，并且学生学会在重要活动前比较 personal phone time 和 shared clock。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 71 的公共时间句式：用 one of the first things 写第一印象，用 If ... had not ... would never have ... 写过去反事实，用 not only ... but ... as well 叠加特点，用 have ... checked 写安排检查，用 failed to ... because ... 解释失败原因。",
+    "patterns": [
+      {
+        "id": "one_of_the_first_things",
+        "title": "one of the first things ...",
+        "source": "one of the first things you will see is Big Ben",
+        "focus_zh": "这个结构用来描述某个地方、活动或系统给人的重要第一印象。",
+        "task_zh": "仿写一句：写到学校、博物馆、车站或体育中心时最先注意到的公共时间设备。",
+        "must_include": [
+          "one of the first things"
+        ],
+        "min_words": 11,
+        "sample": "One of the first things you will notice is the central school clock.",
+        "tip_zh": "one of 后面用复数 things，后面再说明最重要的那个东西是什么。"
+      },
+      {
+        "id": "if_had_not_would_never_have",
+        "title": "If ... had not ..., ... would never have ...",
+        "source": "If the Houses of Parliament had not been burned down in 1834, the great clock would never have been erected.",
+        "focus_zh": "这个结构想象一个相反的过去，并说明后来的结果也会不同。",
+        "task_zh": "仿写一句：写如果过去没有某个问题，后来就不会建立某个检查或提醒系统。",
+        "must_include": [
+          "If",
+          "had not",
+          "would never have"
+        ],
+        "min_words": 13,
+        "sample": "If the bell had not rung late, we would never have checked the clock system.",
+        "tip_zh": "If 从句用 had not done，主句用 would never have done。"
+      },
+      {
+        "id": "not_only_but_as_well",
+        "title": "not only ..., but ... as well",
+        "source": "It is not only of immense size, but is extremely accurate as well.",
+        "focus_zh": "这个结构把两个重要特点叠加起来，语气比简单的 and 更强。",
+        "task_zh": "仿写一句：写一个公共时钟、计时器或系统不仅清楚醒目，而且准确可靠。",
+        "must_include": [
+          "not only",
+          "but",
+          "as well"
+        ],
+        "min_words": 12,
+        "sample": "The school clock is not only easy to see, but extremely accurate as well.",
+        "tip_zh": "not only 后说第一个优点，but 后说更重要或同样重要的第二个优点。"
+      },
+      {
+        "id": "have_something_checked",
+        "title": "have ... checked",
+        "source": "Officials from Greenwich Observatory have the clock checked twice a day.",
+        "focus_zh": "have something checked 表示安排别人检查某物，不是自己拥有它。",
+        "task_zh": "仿写一句：写学校、车站或运动中心安排工作人员检查公共时钟或设备。",
+        "must_include": [
+          "have",
+          "checked"
+        ],
+        "min_words": 10,
+        "sample": "The teachers have the classroom timer checked before every important test.",
+        "tip_zh": "have + 物 + checked，中间放被检查的东西。"
+      },
+      {
+        "id": "failed_to_because",
+        "title": "failed to ... because ...",
+        "source": "it failed to give the correct time",
+        "focus_zh": "failed to 后面写没有做到的事情，because 后面解释原因。",
+        "task_zh": "仿写一句：写一个时钟、提醒或系统没有给出正确时间，并说明小错误原因。",
+        "must_include": [
+          "failed to",
+          "because"
+        ],
+        "min_words": 12,
+        "sample": "The school bell failed to ring on time because a small setting error slowed it down.",
+        "tip_zh": "failed to 不等于 tried to，它强调结果没有成功。"
+      }
+    ]
+  }
+}
