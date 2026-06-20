@@ -1,0 +1,152 @@
+{
+  "lesson_id": 72,
+  "reading": {
+    "title": "The Average Speed",
+    "intro_zh": "这篇延展阅读把 Lesson 72 的“专门准备、峰值速度、平均速度、测量更正和追随前人脚步”换到校园模型车测试。短文为原创故事，不复述 Malcolm Campbell，也不描写危险驾驶。",
+    "source": {
+      "title": "Speed-Distance-Time Concept Builder",
+      "publisher": "The Physics Classroom",
+      "url": "https://www.physicsclassroom.com/concept-builder/1d-kinematics/speed-distance-time"
+    },
+    "passage": [
+      "At North Park School, the robotics club prepared for a model-car speed challenge on a safe indoor track. No one was allowed to touch the car while it was moving, and every run was measured by two light gates. Leo's small blue car had been specially built for the test. It used a stronger motor, lighter wheels, and a smooth shell that his older sister had helped him design.",
+      "During the first attempt, the car reached a speed that made the team cheer. One short part of the track showed the highest number of the day. But the competition did not use peak speed. It used average speed over the full run, from the starting line to the finish line. When the teacher announced the first result, Leo was disappointed to learn that his average speed was just below the club record.",
+      "Later, another student checked the timing sheet and found that one light gate had started a little late. A mistake had been made, so the teacher repeated the calculation. The corrected average speed was just high enough to set a new school record. Leo did not talk about reckless speed. He thanked the team, checked the safety line, and smiled at his sister. In a quiet way, he was following in her footsteps."
+    ],
+    "questions": [
+      {
+        "id": "activity",
+        "question": "What was the robotics club testing?",
+        "options": [
+          "A full-sized car on a public road.",
+          "A model car on a safe indoor track.",
+          "A drone above the school roof.",
+          "A bicycle in a city race."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "第一段说 the robotics club prepared for a model-car speed challenge on a safe indoor track。"
+      },
+      {
+        "id": "peak_average",
+        "question": "How was peak speed different from average speed in the story?",
+        "options": [
+          "Peak speed was measured by the car's color, but average speed was measured by sound.",
+          "Peak speed meant the car stopped safely, but average speed meant it crashed.",
+          "Peak speed was chosen by Leo's sister, but average speed was chosen by the crowd.",
+          "Peak speed was the highest short part, but average speed covered the full run."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "第二段说明一个短路段出现最高速度，但比赛看 from the starting line to the finish line 的 full run average speed。"
+      },
+      {
+        "id": "disappointed",
+        "question": "Why was Leo disappointed at first?",
+        "options": [
+          "His first average speed was just below the club record.",
+          "His car was not allowed to enter the safe indoor track.",
+          "His sister refused to help him design the shell.",
+          "The teacher cancelled the whole robotics club."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "第二段结尾说 Leo was disappointed to learn that his average speed was just below the club record。"
+      },
+      {
+        "id": "mistake",
+        "question": "What mistake was corrected?",
+        "options": [
+          "The team used the wrong color for the car.",
+          "A wheel was heavier than the rules allowed.",
+          "One light gate had started a little late.",
+          "Leo forgot to thank the team."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "第三段说 another student found that one light gate had started a little late。"
+      },
+      {
+        "id": "footsteps",
+        "question": "How was Leo following in someone's footsteps?",
+        "options": [
+          "He copied a dangerous road driver.",
+          "He continued an interest in careful engineering inspired by his sister.",
+          "He ran behind the moving model car.",
+          "He refused to check the safety line."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "第一段说姐姐帮助设计，结尾说他看着姐姐，in a quiet way, he was following in her footsteps。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 72 的速度纪录句式：用 the first ... to ... 写突破，用 had been specially built for 写提前准备，用 Although ... had great difficulty in 写成功与困难并存，用 was disappointed to learn that 写收到失望结果，用 Following in ... footsteps 写传承和影响。",
+    "patterns": [
+      {
+        "id": "the_first_to",
+        "title": "the first ... to ...",
+        "source": "was the first man to drive at over 300 miles per hour",
+        "focus_zh": "这个结构用来描述某人第一次做到一件重要或突破性的事情。",
+        "task_zh": "仿写一句：写某人第一次完成一个安全的学习、比赛或工程挑战。",
+        "must_include": [
+          "the first",
+          "to"
+        ],
+        "min_words": 11,
+        "sample": "Maya was the first student to finish the safe model-car test.",
+        "tip_zh": "the first 后面接身份或人，to 后面接完成的动作。"
+      },
+      {
+        "id": "had_been_specially_built_for",
+        "title": "had been specially built for ...",
+        "source": "had been specially built for him",
+        "focus_zh": "这个结构强调某物在挑战之前已经被专门准备好了。",
+        "task_zh": "仿写一句：写一辆模型车、机器人或设备是为某个测试专门制造的。",
+        "must_include": [
+          "had been specially built for"
+        ],
+        "min_words": 10,
+        "sample": "The small robot had been specially built for the speed challenge.",
+        "tip_zh": "had been built 表示更早已经被造好，specially 强调用途明确。"
+      },
+      {
+        "id": "although_had_difficulty",
+        "title": "Although ..., ... had great difficulty in ...",
+        "source": "Although Campbell reached a speed of over 304 miles per hour, he had great difficulty in controlling the car",
+        "focus_zh": "这个结构先承认一个 impressive fact，再说明真正的困难。",
+        "task_zh": "仿写一句：写虽然某个测试结果很好，但团队在控制、测量或修正中遇到困难。",
+        "must_include": [
+          "Although",
+          "had great difficulty in"
+        ],
+        "min_words": 13,
+        "sample": "Although the model car was very fast, we had great difficulty in measuring its average speed.",
+        "tip_zh": "Although 从句不要再加 but；主句直接写困难。"
+      },
+      {
+        "id": "was_disappointed_to_learn",
+        "title": "was disappointed to learn that ...",
+        "source": "Campbell was disappointed to learn that his average speed had been 299 miles per hour",
+        "focus_zh": "这个表达写一个人收到让自己失望的信息。",
+        "task_zh": "仿写一句：写学生或团队失望地得知初次结果没有达到目标。",
+        "must_include": [
+          "was disappointed to learn that"
+        ],
+        "min_words": 12,
+        "sample": "Leo was disappointed to learn that his first average speed was below the record.",
+        "tip_zh": "to learn that 后面接完整信息，语气比 just heard 更正式。"
+      },
+      {
+        "id": "following_in_footsteps",
+        "title": "Following in ... footsteps, ...",
+        "source": "Following in his father's footsteps many years later",
+        "focus_zh": "这个表达说明某人受到长辈、朋友或榜样影响，走上相似道路。",
+        "task_zh": "仿写一句：写一个人追随家人、老师或队友的脚步，继续一个安全、有意义的兴趣。",
+        "must_include": [
+          "Following in",
+          "footsteps"
+        ],
+        "min_words": 12,
+        "sample": "Following in his sister's footsteps, Leo joined the robotics club and learned careful measurement.",
+        "tip_zh": "footsteps 用复数；逗号后写这个人真正做了什么。"
+      }
+    ]
+  }
+}

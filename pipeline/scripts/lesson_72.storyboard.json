@@ -1,0 +1,23 @@
+{
+  "lesson_id": 72,
+  "title": "A car called Bluebird",
+  "visual_consistency": "A continuous 1930s land-speed-record sequence on vast bright white Bonneville-style salt flats under a huge open sky. Frames 1-3 keep the same long, low, streamlined blue record car and the same Sir Malcolm Campbell: middle-aged racing driver with helmet, goggles, focused composed face, and practical racing clothing. The setting is an official controlled record course with mechanics, timing officials, tools, signal flags, and measuring instruments shown visually only. Frame 4 introduces Donald Campbell many years later beside a newer blue record car that echoes the father's Bluebird. Images must contain no readable logos, race numbers, speedometer digits, maps, signs, plaques, dashboards, captions, UI panels, letters, words, or numbers. Avoid public-road racing, crashes, injury, fire, wreckage, panic, and dangerous glamour.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "Sir Malcolm Campbell stands beside the long streamlined blue record car on a vast white salt-flat course in Utah. Mechanics and timing officials prepare a controlled speed-record attempt with tools, flags, and plain measuring equipment, all without readable marks. The car is clearly specially built, not a normal road car. The mood is official, engineered, precise, and safety-aware, with empty open flats and no public traffic."
+    },
+    {
+      "frame": 2,
+      "prompt": "The same blue record car races low across the salt flats, powerful but controlled, with Sir Malcolm Campbell focused behind the wheel. The composition shows the car's unusual length and engineering scale, with distant mechanics and support vehicles far away. Use motion, dust, and low angle to suggest speed, but keep the course empty and safe. No dashboard numbers, no speedometer digits, no racing labels, no readable text."
+    },
+    {
+      "frame": 3,
+      "prompt": "After the run on the same salt-flat course, Sir Malcolm Campbell stands near the blue record car with calm but disappointed body language while officials review plain timing instruments and notebooks. A subtle tyre problem cue appears near the car through dust and a mechanic kneeling by a wheel, but there is no crash, no damage scene, no injury, no fire, and no panic. Show the tension of corrected measurement through faces and gestures only, with no readable numbers or writing."
+    },
+    {
+      "frame": 4,
+      "prompt": "Many years later on an open record course, Donald Campbell prepares beside a newer streamlined blue record car that visually echoes his father's Bluebird. The scene feels respectful and inspiring, with a small non-readable family-photo shape or memory object implied on a plain table, but no visible words or labels. Mechanics prepare equipment in the background, the course is controlled and empty, and the family legacy is shown through mirrored posture and blue-car design rather than text."
+    }
+  ]
+}

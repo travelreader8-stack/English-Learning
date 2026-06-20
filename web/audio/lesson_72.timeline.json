@@ -1,0 +1,2158 @@
+{
+  "total_duration": 702.338,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 6.472,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果一辆车瞬间开到"
+        },
+        {
+          "lang": "en",
+          "text": "304 miles per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "，算不算破纪录？"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 6.822,
+      "end": 13.43,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不一定，因为速度纪录看的不是某一秒最快，而是"
+        },
+        {
+          "lang": "en",
+          "text": "average speed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 13.78,
+      "end": 19.747,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Bluebird"
+        },
+        {
+          "lang": "zh",
+          "text": "不是普通汽车，而是专门为速度纪录制造的车。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 20.097,
+      "end": 29.497,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "300 miles per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "大约是"
+        },
+        {
+          "lang": "en",
+          "text": "480 kilometers per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "，快得几乎不像日常驾驶。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 29.847,
+      "end": 34.807,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天我们学一个关于速度、测量、风险控制和父子传承的故事。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 35.157,
+      "end": 37.437,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，先看地点和目标。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 37.787,
+      "end": 49.21,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：伟大的赛车手 Malcolm Campbell 爵士，在 Utah 的 Bonneville Salt Flats 挑战超过"
+        },
+        {
+          "lang": "en",
+          "text": "300 miles per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "的世界纪录。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 49.56,
+      "end": 57.748,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "The great racing driver, Sir Malcolm Campbell, was the first man to drive at over 300 miles per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 58.098,
+      "end": 63.71,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "racing driver"
+        },
+        {
+          "lang": "zh",
+          "text": "是赛车手，不是普通司机。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 64.06,
+      "end": 72.74,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个地点是"
+        },
+        {
+          "lang": "en",
+          "text": "Bonneville Salt Flats, Utah"
+        },
+        {
+          "lang": "zh",
+          "text": "，一片开阔平坦的盐滩纪录场地，不是马路。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 73.09,
+      "end": 82.309,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧记住："
+        },
+        {
+          "lang": "en",
+          "text": "the first man to drive at over 300 miles per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "，还有"
+        },
+        {
+          "lang": "en",
+          "text": "set up a new world record"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 82.659,
+      "end": 85.219,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，看这辆车为什么特别。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 85.569,
+      "end": 94.217,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：Campbell 开的"
+        },
+        {
+          "lang": "en",
+          "text": "Bluebird"
+        },
+        {
+          "lang": "zh",
+          "text": "是专门为他制造的，车身很长，发动机马力巨大。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 94.567,
+      "end": 100.115,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Bluebird, the car he was driving, had been specially built for him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 100.465,
+      "end": 107.52,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Had been specially built"
+        },
+        {
+          "lang": "zh",
+          "text": "表示在挑战纪录之前，这辆车已经被专门制造好了。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 107.87,
+      "end": 114.846,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文还说："
+        },
+        {
+          "lang": "en",
+          "text": "It was over 30 feet in length and had a 2,500-horsepower engine"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 115.196,
+      "end": 121.116,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这不是普通家用车，而是工程团队为极限速度做出来的纪录车。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 121.466,
+      "end": 124.386,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，看最高速度和危险。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 124.736,
+      "end": 135.248,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：Campbell 一度达到超过"
+        },
+        {
+          "lang": "en",
+          "text": "304 miles per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "，但第一次行驶中轮胎爆裂，他很难控制汽车。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 135.598,
+      "end": 144.074,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Although Campbell reached a speed of over 304 miles per hour, he had great difficulty in controlling the car"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 144.423,
+      "end": 151.007,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Although"
+        },
+        {
+          "lang": "zh",
+          "text": "先说速度惊人，主句却提醒我们控制很困难。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 151.357,
+      "end": 155.717,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "原因是："
+        },
+        {
+          "lang": "en",
+          "text": "because a tyre burst during the first run"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 156.067,
+      "end": 164.883,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Tyre"
+        },
+        {
+          "lang": "zh",
+          "text": "是英式拼法，美式常写"
+        },
+        {
+          "lang": "en",
+          "text": "tire"
+        },
+        {
+          "lang": "zh",
+          "text": "；这里跟课文用"
+        },
+        {
+          "lang": "en",
+          "text": "tyre"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 165.233,
+      "end": 168.033,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，看纪录结果和传承。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 168.382,
+      "end": 183.542,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：他先失望地得知平均速度只有"
+        },
+        {
+          "lang": "en",
+          "text": "299 miles per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "；几天后才知道算错了，正确平均速度是"
+        },
+        {
+          "lang": "en",
+          "text": "301 miles per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 183.892,
+      "end": 191.192,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Campbell was disappointed to learn that his average speed had been 299 miles per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 191.542,
+      "end": 195.526,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后来："
+        },
+        {
+          "lang": "en",
+          "text": "he was told that a mistake had been made"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 195.876,
+      "end": 209.775,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这就解释了为什么"
+        },
+        {
+          "lang": "en",
+          "text": "304"
+        },
+        {
+          "lang": "zh",
+          "text": "、"
+        },
+        {
+          "lang": "en",
+          "text": "299"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "301"
+        },
+        {
+          "lang": "zh",
+          "text": "可以同时出现在故事里：一个是最高速度，另一个是平均速度。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 210.125,
+      "end": 220.441,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "结尾是传承："
+        },
+        {
+          "lang": "en",
+          "text": "Following in his father's footsteps"
+        },
+        {
+          "lang": "zh",
+          "text": "，Donald Campbell 后来也驾驶一辆叫"
+        },
+        {
+          "lang": "en",
+          "text": "Bluebird"
+        },
+        {
+          "lang": "zh",
+          "text": "的车创造纪录。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 220.791,
+      "end": 224.576,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，Campbell 是不是只是在开车开得特别快？"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 224.926,
+      "end": 234.206,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是。这里是 controlled land-speed-record attempt，是受控的陆地速度纪录挑战，不是普通道路上开快车。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 234.556,
+      "end": 238.361,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么一定要在"
+        },
+        {
+          "lang": "en",
+          "text": "Bonneville Salt Flats"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 238.711,
+      "end": 249.511,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为盐滩很平、很开阔，适合专业团队做测量和安全控制。普通道路有交通、行人和弯道，完全不是一回事。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 249.86,
+      "end": 256.622,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Miles per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "kilometers per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "怎么理解？"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 256.972,
+      "end": 269.724,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Mile"
+        },
+        {
+          "lang": "zh",
+          "text": "是英美常用距离单位；"
+        },
+        {
+          "lang": "en",
+          "text": "kilometer"
+        },
+        {
+          "lang": "zh",
+          "text": "是我们更熟悉的公里。粗略记："
+        },
+        {
+          "lang": "en",
+          "text": "one mile is about 1.6 kilometers"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 270.074,
+      "end": 277.994,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那"
+        },
+        {
+          "lang": "en",
+          "text": "300 miles per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "就大约是"
+        },
+        {
+          "lang": "en",
+          "text": "480 kilometers per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 278.344,
+      "end": 283.784,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。这个换算只是帮你感受速度，不是让这课变成数学练习。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 284.133,
+      "end": 294.955,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "我还是不懂，他都 reached over"
+        },
+        {
+          "lang": "en",
+          "text": "304 miles per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "了，为什么听到"
+        },
+        {
+          "lang": "en",
+          "text": "299"
+        },
+        {
+          "lang": "zh",
+          "text": "会失望？"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 295.305,
+      "end": 308.085,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为"
+        },
+        {
+          "lang": "en",
+          "text": "reached a speed"
+        },
+        {
+          "lang": "zh",
+          "text": "是某一段里的最高速度，record 要看"
+        },
+        {
+          "lang": "en",
+          "text": "average speed"
+        },
+        {
+          "lang": "zh",
+          "text": "。平均速度低于三百，就没有过那条心理和纪录线。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 308.435,
+      "end": 312.418,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后来为什么又变成"
+        },
+        {
+          "lang": "en",
+          "text": "301"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 312.768,
+      "end": 320.516,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为"
+        },
+        {
+          "lang": "en",
+          "text": "a mistake had been made"
+        },
+        {
+          "lang": "zh",
+          "text": "。速度纪录要靠测量和计算，结果可以被重新检查。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 320.865,
+      "end": 323.628,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "轮胎爆裂听起来很危险。"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 323.978,
+      "end": 331.378,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "非常危险。所以这课不是在鼓励孩子追求快，而是在尊重工程、测量和风险控制。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 331.728,
+      "end": 337.021,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后的"
+        },
+        {
+          "lang": "en",
+          "text": "following in his father's footsteps"
+        },
+        {
+          "lang": "zh",
+          "text": "是什么意思？"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 337.371,
+      "end": 345.051,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "不是踩着脚印走路，而是走上和父亲相似的道路。Donald 继续了家族里关于速度纪录的梦想。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 345.4,
+      "end": 350.604,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "Bluebird"
+        },
+        {
+          "lang": "zh",
+          "text": "这个名字也像一个记忆线索？"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 350.954,
+      "end": 357.674,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Exactly. The name connects engineering, courage, measurement, and family legacy."
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 358.024,
+      "end": 364.576,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The great racing driver, Sir Malcolm Campbell, was the first man to drive at over 300 miles per hour."
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 364.926,
+      "end": 371.094,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "He set up a new world record in September 1935 at Bonneville Salt Flats, Utah."
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 371.444,
+      "end": 375.884,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Bluebird, the car he was driving, had been specially built for him."
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 376.234,
+      "end": 381.322,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It was over 30 feet in length and had a 2,500-horsepower engine."
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 381.672,
+      "end": 390.384,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Although Campbell reached a speed of over 304 miles per hour, he had great difficulty in controlling the car because a tyre burst during the first run."
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 390.734,
+      "end": 397.694,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "After his attempt, Campbell was disappointed to learn that his average speed had been 299 miles per hour."
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 398.044,
+      "end": 402.532,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "However, a few days later, he was told that a mistake had been made."
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 402.881,
+      "end": 406.889,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "His average speed had been 301 miles per hour."
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 407.239,
+      "end": 412.615,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Since that time, racing drivers have reached speeds over 600 miles an hour."
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 412.965,
+      "end": 419.829,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Following in his father's footsteps many years later, Sir Malcolm's son, Donald, also set up a world record."
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 420.179,
+      "end": 424.019,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Like his father, he was driving a car called Bluebird."
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 424.369,
+      "end": 427.265,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "average"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组词："
+        },
+        {
+          "lang": "en",
+          "text": "average"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 427.615,
+      "end": 429.343,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "average"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Average"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 429.693,
+      "end": 433.188,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "average"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Average"
+        },
+        {
+          "lang": "zh",
+          "text": "是平均的、平均数。"
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 433.538,
+      "end": 439.706,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "average"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里的关键不是某一秒最快，而是"
+        },
+        {
+          "lang": "en",
+          "text": "average speed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 440.056,
+      "end": 452.864,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "average"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "Campbell reached over"
+        },
+        {
+          "lang": "en",
+          "text": "304 miles per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "at one point, but the reported"
+        },
+        {
+          "lang": "en",
+          "text": "average speed"
+        },
+        {
+          "lang": "zh",
+          "text": "was first"
+        },
+        {
+          "lang": "en",
+          "text": "299 miles per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 453.214,
+      "end": 457.729,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "average"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以"
+        },
+        {
+          "lang": "en",
+          "text": "average"
+        },
+        {
+          "lang": "zh",
+          "text": "是理解这课反转的钥匙。"
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 458.079,
+      "end": 461.095,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "horsepower"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组词："
+        },
+        {
+          "lang": "en",
+          "text": "horsepower"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 461.445,
+      "end": 463.341,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "horsepower"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Horsepower"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 463.691,
+      "end": 468.587,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "horsepower"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Horsepower"
+        },
+        {
+          "lang": "zh",
+          "text": "是马力，用来描述发动机功率。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 468.937,
+      "end": 473.213,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "horsepower"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "a 2,500-horsepower engine"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 473.563,
+      "end": 480.203,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "horsepower"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "我们不需要把它换算成复杂公式，只要知道：这远远超过普通家用车。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 480.552,
+      "end": 486.8,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "horsepower"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它告诉我们，"
+        },
+        {
+          "lang": "en",
+          "text": "Bluebird"
+        },
+        {
+          "lang": "zh",
+          "text": "是一项工程作品，不是一辆普通汽车。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 487.15,
+      "end": 490.086,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "burst"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组词："
+        },
+        {
+          "lang": "en",
+          "text": "burst"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 490.436,
+      "end": 491.972,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "burst"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Burst"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 492.322,
+      "end": 495.858,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "burst"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Burst"
+        },
+        {
+          "lang": "zh",
+          "text": "是突然裂开、爆裂。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 496.208,
+      "end": 500.004,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "burst"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "a tyre burst during the first run"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 500.353,
+      "end": 507.057,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "burst"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Tyre"
+        },
+        {
+          "lang": "zh",
+          "text": "是英式拼法；美式英语常写"
+        },
+        {
+          "lang": "en",
+          "text": "tire"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 507.407,
+      "end": 514.887,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "burst"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词把故事从单纯的快，拉回到风险：速度越高，一个小问题就越严重。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 515.237,
+      "end": 522.917,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法服务于两个事实：车是提前被专门制造的，结果是后来被测量和更正的。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 523.267,
+      "end": 528.931,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组是 past perfect passive："
+        },
+        {
+          "lang": "en",
+          "text": "had been specially built for him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 529.281,
+      "end": 536.168,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它说明"
+        },
+        {
+          "lang": "en",
+          "text": "Bluebird"
+        },
+        {
+          "lang": "zh",
+          "text": "在 Campbell 开它挑战纪录之前，已经被专门制造好了。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 536.518,
+      "end": 547.134,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组是让步和困难："
+        },
+        {
+          "lang": "en",
+          "text": "Although Campbell reached a speed of over 304 miles per hour, he had great difficulty in controlling the car"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 547.484,
+      "end": 554.708,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Although"
+        },
+        {
+          "lang": "zh",
+          "text": "后面是“虽然很快”，主句却说“控制很困难”，所以作者没有把危险美化。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 555.058,
+      "end": 564.154,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组是结果更正："
+        },
+        {
+          "lang": "en",
+          "text": "was disappointed to learn"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "he was told"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "a mistake had been made"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 564.504,
+      "end": 568.064,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些表达都和 report, measurement, correction 有关。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 568.413,
+      "end": 573.181,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四组是结尾："
+        },
+        {
+          "lang": "en",
+          "text": "Following in his father's footsteps"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 573.531,
+      "end": 578.051,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这不是字面脚印，而是走上和某位长辈相似的道路。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 578.401,
+      "end": 594.589,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天带走五组表达："
+        },
+        {
+          "lang": "en",
+          "text": "the first man to drive"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "had been specially built"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "had great difficulty in controlling"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "average speed"
+        },
+        {
+          "lang": "zh",
+          "text": "，和"
+        },
+        {
+          "lang": "en",
+          "text": "following in his father's footsteps"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 594.938,
+      "end": 602.686,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把"
+        },
+        {
+          "lang": "en",
+          "text": "Bluebird"
+        },
+        {
+          "lang": "zh",
+          "text": "换成一个安全的校园项目："
+        },
+        {
+          "lang": "en",
+          "text": "The Model Car Speed Test"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 603.036,
+      "end": 607.916,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "机器人社团做了一辆小模型车，只在安全赛道上测试。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 608.266,
+      "end": 613.77,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你要先说明准备："
+        },
+        {
+          "lang": "en",
+          "text": "Our model car had been specially built for the test"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 614.12,
+      "end": 620.912,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再说明速度结果："
+        },
+        {
+          "lang": "en",
+          "text": "It reached a high speed, but the competition used average speed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 621.262,
+      "end": 627.637,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后讲心情："
+        },
+        {
+          "lang": "en",
+          "text": "We were disappointed to learn that the average speed was lower than we expected"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 627.987,
+      "end": 633.507,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后讲反转："
+        },
+        {
+          "lang": "en",
+          "text": "Later, we were told that a timing mistake had been made"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 633.857,
+      "end": 645.777,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，用 word bank 补完整 5 个空，把 specially built, reached a speed, average speed, disappointed to learn 和 mistake had been made 说清楚。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 646.127,
+      "end": 653.447,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 653.797,
+      "end": 660.501,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓身份和纪录："
+        },
+        {
+          "lang": "en",
+          "text": "the first man to drive at over 300 miles per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 660.851,
+      "end": 665.355,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓专门制造："
+        },
+        {
+          "lang": "en",
+          "text": "had been specially built for him"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 665.704,
+      "end": 672.424,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓风险长句："
+        },
+        {
+          "lang": "en",
+          "text": "Although Campbell reached a speed of over 304 miles per hour"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 672.774,
+      "end": 681.83,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后抓结果更正和传承："
+        },
+        {
+          "lang": "en",
+          "text": "a mistake had been made"
+        },
+        {
+          "lang": "zh",
+          "text": "，以及"
+        },
+        {
+          "lang": "en",
+          "text": "Following in his father's footsteps"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 682.18,
+      "end": 694.98,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，② 完形，③ 中译英，④ 英译中，⑤ 拓展阅读，⑥ 句式仿写，⑦ 默写，⑧ 总结。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 695.33,
+      "end": 702.338,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "speed records depend on engineering, measurement, safety, and legacy"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 72
+}

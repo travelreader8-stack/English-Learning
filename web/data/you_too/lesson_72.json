@@ -1,0 +1,51 @@
+{
+  "lesson_id": 72,
+  "title": "The Model Car Speed Test",
+  "question": "把今天“专门制造 -> 达到某个最高速度 -> 纪录看平均速度 -> 先失望 -> 后来发现计时错误”的表达，放进 safe model-car speed test 场景：用 word bank 补完整 5 个空。",
+  "example_answer": "Our robotics club entered a safe model-car speed test. Our car had been specially built for the track. It reached a speed that made everyone excited, but the competition used average speed over the whole run. We were disappointed to learn that our result was lower than expected. Later, we were told that a timing mistake had been made.",
+  "word_bank": [
+    "had been specially built",
+    "reached a speed",
+    "average speed",
+    "were disappointed to learn",
+    "a timing mistake had been made",
+    "safe track",
+    "speed test",
+    "whole run",
+    "corrected",
+    "followed in my father's footsteps"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说明模型车是为测试专门制造的",
+      "english_template": "Our model car ___ for the safe track.",
+      "expected_phrase": "had been specially built"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说明它达到一个令人兴奋的最高速度",
+      "english_template": "It ___ that made everyone excited.",
+      "expected_phrase": "reached a speed"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说明比赛看的是全程平均速度",
+      "english_template": "The competition used ___ over the whole run.",
+      "expected_phrase": "average speed"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说明团队失望地得知结果比预期低",
+      "english_template": "We ___ that our result was lower than expected.",
+      "expected_phrase": "were disappointed to learn"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "说明后来发现计时错误",
+      "english_template": "Later, we were told that ___.",
+      "expected_phrase": "a timing mistake had been made"
+    }
+  ],
+  "mode": "all_fills"
+}
