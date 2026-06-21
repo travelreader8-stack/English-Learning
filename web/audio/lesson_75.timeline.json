@@ -1,0 +1,2236 @@
+{
+  "total_duration": 707.541,
+  "lines": [
+    {
+      "i": 0,
+      "start": 0.0,
+      "end": 4.24,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "如果在山里遇到危险，手机没有信号，你会怎么办？"
+        }
+      ]
+    },
+    {
+      "i": 1,
+      "start": 4.59,
+      "end": 10.99,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课里，一位妈妈没有电话、没有导航，身边只有雪、衣服和一个手提箱。"
+        }
+      ]
+    },
+    {
+      "i": 2,
+      "start": 11.34,
+      "end": 16.94,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她先让孩子暖和安全，再想办法让天上的飞机看见她。"
+        }
+      ]
+    },
+    {
+      "i": 3,
+      "start": 17.29,
+      "end": 21.682,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她踩出的三个字母很短："
+        },
+        {
+          "lang": "en",
+          "text": "SOS"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 4,
+      "start": 22.031,
+      "end": 29.151,
+      "speaker": "A",
+      "scene": "hook",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天我们学的不是惊险，而是冷静、求救信号和英文里有画面感的动作表达。"
+        }
+      ]
+    },
+    {
+      "i": 5,
+      "start": 29.501,
+      "end": 31.741,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧，先看危险从哪里开始。"
+        }
+      ]
+    },
+    {
+      "i": 6,
+      "start": 32.091,
+      "end": 40.891,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：一架轻型客机偏离航线，在雪山里坠毁；飞行员遇难，但年轻妈妈和两个女婴没有受伤。"
+        }
+      ]
+    },
+    {
+      "i": 7,
+      "start": 41.241,
+      "end": 49.689,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文开头说："
+        },
+        {
+          "lang": "en",
+          "text": "When a light passenger plane flew off course some time ago, it crashed in the mountains and its pilot was killed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 8,
+      "start": 50.039,
+      "end": 55.719,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的"
+        },
+        {
+          "lang": "en",
+          "text": "off course"
+        },
+        {
+          "lang": "zh",
+          "text": "是偏离航线，不在原来的路线里。"
+        }
+      ]
+    },
+    {
+      "i": 9,
+      "start": 56.069,
+      "end": 63.076,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "更重要的是下一句："
+        },
+        {
+          "lang": "en",
+          "text": "The only passengers, a young woman and her two baby daughters, were unhurt"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 10,
+      "start": 63.426,
+      "end": 70.874,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Unhurt"
+        },
+        {
+          "lang": "zh",
+          "text": "是没有受伤。我们把画面重点放在她们安全、清醒，而不是灾难细节。"
+        }
+      ]
+    },
+    {
+      "i": 11,
+      "start": 71.224,
+      "end": 78.768,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再看环境："
+        },
+        {
+          "lang": "en",
+          "text": "Snow lay thick on the ground"
+        },
+        {
+          "lang": "zh",
+          "text": "，最近的村庄"
+        },
+        {
+          "lang": "en",
+          "text": "was miles away"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 12,
+      "start": 79.118,
+      "end": 84.278,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "1"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一帧记住：偏离航线、雪山、距离很远，但妈妈和孩子还安全。"
+        }
+      ]
+    },
+    {
+      "i": 13,
+      "start": 84.628,
+      "end": 88.168,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧，看妈妈夜里先解决什么问题。"
+        }
+      ]
+    },
+    {
+      "i": 14,
+      "start": 88.518,
+      "end": 96.998,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：天黑了，她把手提箱变成小床，把孩子放进去，用所有能找到的衣服盖住她们。"
+        }
+      ]
+    },
+    {
+      "i": 15,
+      "start": 97.347,
+      "end": 103.711,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "When it grew dark, she turned a suitcase into a bed and put the children inside it"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 16,
+      "start": 104.061,
+      "end": 108.925,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Turn A into B"
+        },
+        {
+          "lang": "zh",
+          "text": "很实用：把一个东西变成另一个用途。"
+        }
+      ]
+    },
+    {
+      "i": 17,
+      "start": 109.275,
+      "end": 114.595,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "她还在做一个保护动作："
+        },
+        {
+          "lang": "en",
+          "text": "covering them with all the clothes she could find"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 18,
+      "start": 114.945,
+      "end": 121.561,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "夜里非常冷，她尽量靠近孩子："
+        },
+        {
+          "lang": "en",
+          "text": "The woman kept as near as she could to the children"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 19,
+      "start": 121.911,
+      "end": 131.766,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "后面说她想钻进"
+        },
+        {
+          "lang": "en",
+          "text": "the case"
+        },
+        {
+          "lang": "zh",
+          "text": "，这里的"
+        },
+        {
+          "lang": "en",
+          "text": "case"
+        },
+        {
+          "lang": "zh",
+          "text": "指的就是前面的 suitcase，不是另一个箱子。"
+        }
+      ]
+    },
+    {
+      "i": 20,
+      "start": 132.116,
+      "end": 135.676,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "2"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二帧记住：先保暖、先保护，再想下一步。"
+        }
+      ]
+    },
+    {
+      "i": 21,
+      "start": 136.026,
+      "end": 139.106,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧，早晨出现了希望。"
+        }
+      ]
+    },
+    {
+      "i": 22,
+      "start": 139.456,
+      "end": 148.176,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：第二天一早，她听到飞机从头顶飞过，开始想怎样发出一个别人能看见的信号。"
+        }
+      ]
+    },
+    {
+      "i": 23,
+      "start": 148.526,
+      "end": 155.658,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Early next morning, she heard planes passing overhead and wondered how she could send a signal"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 24,
+      "start": 156.008,
+      "end": 164.575,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Overhead"
+        },
+        {
+          "lang": "zh",
+          "text": "是在头顶上方；"
+        },
+        {
+          "lang": "en",
+          "text": "send a signal"
+        },
+        {
+          "lang": "zh",
+          "text": "是发出信号，不一定靠手机。"
+        }
+      ]
+    },
+    {
+      "i": 25,
+      "start": 164.925,
+      "end": 170.173,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后她有了主意："
+        },
+        {
+          "lang": "en",
+          "text": "She stamped out the letters 'SOS' in the snow"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 26,
+      "start": 170.523,
+      "end": 177.651,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Stamp out"
+        },
+        {
+          "lang": "zh",
+          "text": "在这里是用脚踩出形状；雪地变成了一张很大的求救纸。"
+        }
+      ]
+    },
+    {
+      "i": 27,
+      "start": 178.001,
+      "end": 188.393,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "SOS"
+        },
+        {
+          "lang": "zh",
+          "text": "是国际上容易识别的紧急求救信号。重点不是字母故事，而是短、清楚、容易被看见。"
+        }
+      ]
+    },
+    {
+      "i": 28,
+      "start": 188.742,
+      "end": 194.662,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "3"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三帧记住：有飞机经过时，她把雪变成了看得见的信息。"
+        }
+      ]
+    },
+    {
+      "i": 29,
+      "start": 195.012,
+      "end": 198.132,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧，看求救链条怎样完成。"
+        }
+      ]
+    },
+    {
+      "i": 30,
+      "start": 198.482,
+      "end": 208.282,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "中文锚点是：一位飞行员看见雪地里的信号，用无线电通知最近的城镇；不久，直升机赶到现场，救出幸存者。"
+        }
+      ]
+    },
+    {
+      "i": 31,
+      "start": 208.632,
+      "end": 215.548,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文说："
+        },
+        {
+          "lang": "en",
+          "text": "Fortunately, a pilot saw the signal and sent a message by radio to the nearest town"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 32,
+      "start": 215.898,
+      "end": 221.058,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "注意，她不是直接叫来直升机，而是先让飞行员看见信号。"
+        }
+      ]
+    },
+    {
+      "i": 33,
+      "start": 221.408,
+      "end": 227.112,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "飞行员再"
+        },
+        {
+          "lang": "en",
+          "text": "sent a message by radio"
+        },
+        {
+          "lang": "zh",
+          "text": "，用无线电报信。"
+        }
+      ]
+    },
+    {
+      "i": 34,
+      "start": 227.462,
+      "end": 234.769,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后："
+        },
+        {
+          "lang": "en",
+          "text": "It was not long before a helicopter arrived on the scene to rescue the survivors of the plane crash"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 35,
+      "start": 235.119,
+      "end": 243.823,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "On the scene"
+        },
+        {
+          "lang": "zh",
+          "text": "是到达现场；"
+        },
+        {
+          "lang": "en",
+          "text": "survivors"
+        },
+        {
+          "lang": "zh",
+          "text": "是幸存者，语气要尊重、平稳。"
+        }
+      ]
+    },
+    {
+      "i": 36,
+      "start": 244.173,
+      "end": 252.113,
+      "speaker": "A",
+      "scene": "retell",
+      "scene_meta": {
+        "frame": "4"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四帧记住完整链条："
+        },
+        {
+          "lang": "en",
+          "text": "signal, pilot, radio, town, helicopter, rescue"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 37,
+      "start": 252.463,
+      "end": 258.821,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "老师，"
+        },
+        {
+          "lang": "en",
+          "text": "SOS"
+        },
+        {
+          "lang": "zh",
+          "text": "是不是就等于"
+        },
+        {
+          "lang": "en",
+          "text": "Save Our Souls"
+        },
+        {
+          "lang": "zh",
+          "text": "？"
+        }
+      ]
+    },
+    {
+      "i": 38,
+      "start": 259.171,
+      "end": 270.043,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "很多人会这么说，但这课不用把它当成主要知识点。我们只要记住："
+        },
+        {
+          "lang": "en",
+          "text": "SOS"
+        },
+        {
+          "lang": "zh",
+          "text": "是短、清楚、容易识别的求救信号。"
+        }
+      ]
+    },
+    {
+      "i": 39,
+      "start": 270.392,
+      "end": 273.844,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么她不能像我们一样直接打电话？"
+        }
+      ]
+    },
+    {
+      "i": 40,
+      "start": 274.193,
+      "end": 285.361,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "因为故事发生在雪山里，最近的村庄"
+        },
+        {
+          "lang": "en",
+          "text": "was miles away"
+        },
+        {
+          "lang": "zh",
+          "text": "。在远处、冷天、山里，手机信号和电量都可能帮不上忙。"
+        }
+      ]
+    },
+    {
+      "i": 41,
+      "start": 285.711,
+      "end": 288.916,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那她为什么不先到处找人？"
+        }
+      ]
+    },
+    {
+      "i": 42,
+      "start": 289.266,
+      "end": 296.826,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "夜里又黑又冷，两个孩子是 baby daughters。第一优先级不是乱跑，而是保暖和待在一起。"
+        }
+      ]
+    },
+    {
+      "i": 43,
+      "start": 297.176,
+      "end": 300.576,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "所以 suitcase 变成 bed，是 survival choice？"
+        }
+      ]
+    },
+    {
+      "i": 44,
+      "start": 300.926,
+      "end": 307.694,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。她"
+        },
+        {
+          "lang": "en",
+          "text": "turned a suitcase into a bed"
+        },
+        {
+          "lang": "zh",
+          "text": "，把普通物品变成保护孩子的工具。"
+        }
+      ]
+    },
+    {
+      "i": 45,
+      "start": 308.044,
+      "end": 313.819,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Signal"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "message"
+        },
+        {
+          "lang": "zh",
+          "text": "有区别吗？"
+        }
+      ]
+    },
+    {
+      "i": 46,
+      "start": 314.169,
+      "end": 325.12,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "有。她在雪地里做的是"
+        },
+        {
+          "lang": "en",
+          "text": "a signal"
+        },
+        {
+          "lang": "zh",
+          "text": "，让远处的人注意到这里；飞行员用无线电发出去的是"
+        },
+        {
+          "lang": "en",
+          "text": "a message"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 47,
+      "start": 325.47,
+      "end": 328.605,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "为什么大字母在雪地上有用？"
+        }
+      ]
+    },
+    {
+      "i": 48,
+      "start": 328.955,
+      "end": 340.299,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "从地面看只是脚印，从空中看就是清楚的图案。飞机在"
+        },
+        {
+          "lang": "en",
+          "text": "overhead"
+        },
+        {
+          "lang": "zh",
+          "text": "的位置，正好能看见大范围地面。"
+        }
+      ]
+    },
+    {
+      "i": 49,
+      "start": 340.649,
+      "end": 342.894,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "那直升机是怎么来的？"
+        }
+      ]
+    },
+    {
+      "i": 50,
+      "start": 343.244,
+      "end": 357.428,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "链条是："
+        },
+        {
+          "lang": "en",
+          "text": "signal"
+        },
+        {
+          "lang": "zh",
+          "text": "被 pilot 看见，pilot"
+        },
+        {
+          "lang": "en",
+          "text": "sent a message by radio"
+        },
+        {
+          "lang": "zh",
+          "text": "到 nearest town，然后 helicopter"
+        },
+        {
+          "lang": "en",
+          "text": "arrived on the scene"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 51,
+      "start": 357.778,
+      "end": 360.834,
+      "speaker": "B",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课最重要的不是飞机，对吗？"
+        }
+      ]
+    },
+    {
+      "i": 52,
+      "start": 361.184,
+      "end": 367.384,
+      "speaker": "A",
+      "scene": "discuss",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "对。最重要的是 calm thinking：先保护人，再用别人能看懂、能看见的方式求救。"
+        }
+      ]
+    },
+    {
+      "i": 53,
+      "start": 367.734,
+      "end": 373.998,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When a light passenger plane flew off course some time ago, it crashed in the mountains and its pilot was killed."
+        }
+      ]
+    },
+    {
+      "i": 54,
+      "start": 374.348,
+      "end": 379.364,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The only passengers, a young woman and her two baby daughters, were unhurt."
+        }
+      ]
+    },
+    {
+      "i": 55,
+      "start": 379.714,
+      "end": 382.282,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It was the middle of winter."
+        }
+      ]
+    },
+    {
+      "i": 56,
+      "start": 382.632,
+      "end": 385.296,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Snow lay thick on the ground."
+        }
+      ]
+    },
+    {
+      "i": 57,
+      "start": 385.645,
+      "end": 389.365,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The woman knew that the nearest village was miles away."
+        }
+      ]
+    },
+    {
+      "i": 58,
+      "start": 389.715,
+      "end": 396.867,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "When it grew dark, she turned a suitcase into a bed and put the children inside it, covering them with all the clothes she could find."
+        }
+      ]
+    },
+    {
+      "i": 59,
+      "start": 397.217,
+      "end": 400.433,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "During the night, it got terribly cold."
+        }
+      ]
+    },
+    {
+      "i": 60,
+      "start": 400.783,
+      "end": 407.191,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "The woman kept as near as she could to the children and even tried to get into the case herself, but it was too small."
+        }
+      ]
+    },
+    {
+      "i": 61,
+      "start": 407.541,
+      "end": 412.989,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Early next morning, she heard planes passing overhead and wondered how she could send a signal."
+        }
+      ]
+    },
+    {
+      "i": 62,
+      "start": 413.339,
+      "end": 415.715,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Then she had an idea."
+        }
+      ]
+    },
+    {
+      "i": 63,
+      "start": 416.065,
+      "end": 419.593,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "She stamped out the letters 'SOS' in the snow."
+        }
+      ]
+    },
+    {
+      "i": 64,
+      "start": 419.943,
+      "end": 425.367,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Fortunately, a pilot saw the signal and sent a message by radio to the nearest town."
+        }
+      ]
+    },
+    {
+      "i": 65,
+      "start": 425.716,
+      "end": 431.692,
+      "speaker": "B",
+      "scene": "passage_normal",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "It was not long before a helicopter arrived on the scene to rescue the survivors of the plane crash."
+        }
+      ]
+    },
+    {
+      "i": 66,
+      "start": 432.042,
+      "end": 434.89,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "signal"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组词："
+        },
+        {
+          "lang": "en",
+          "text": "signal"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 67,
+      "start": 435.24,
+      "end": 436.92,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "signal"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Signal"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 68,
+      "start": 437.27,
+      "end": 442.798,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "signal"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Signal"
+        },
+        {
+          "lang": "zh",
+          "text": "是信号，用来传递信息或吸引注意。"
+        }
+      ]
+    },
+    {
+      "i": 69,
+      "start": 443.148,
+      "end": 447.428,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "signal"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "生活里有 phone signal，手势也可以是 hand signal。"
+        }
+      ]
+    },
+    {
+      "i": 70,
+      "start": 447.778,
+      "end": 456.458,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "signal"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这课里最重要的是 emergency signal：人在危险中，用清楚可见的方式告诉别人，我需要帮助。"
+        }
+      ]
+    },
+    {
+      "i": 71,
+      "start": 456.808,
+      "end": 464.375,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "signal"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "句子是："
+        },
+        {
+          "lang": "en",
+          "text": "she wondered how she could send a signal"
+        },
+        {
+          "lang": "zh",
+          "text": "，以及"
+        },
+        {
+          "lang": "en",
+          "text": "a pilot saw the signal"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 72,
+      "start": 464.725,
+      "end": 467.621,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "stamp"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组词："
+        },
+        {
+          "lang": "en",
+          "text": "stamp"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 73,
+      "start": 467.971,
+      "end": 469.651,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "stamp"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Stamp"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 74,
+      "start": 470.001,
+      "end": 476.217,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "stamp"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Stamp"
+        },
+        {
+          "lang": "zh",
+          "text": "可以表示用脚重重地踩，也可以表示压出一个印记。"
+        }
+      ]
+    },
+    {
+      "i": 75,
+      "start": 476.567,
+      "end": 481.334,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "stamp"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文里说："
+        },
+        {
+          "lang": "en",
+          "text": "She stamped out the letters 'SOS' in the snow"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 76,
+      "start": 481.684,
+      "end": 488.572,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "stamp"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Stamp out"
+        },
+        {
+          "lang": "zh",
+          "text": "不只是踩一下，而是连续踩出一个清楚的形状。"
+        }
+      ]
+    },
+    {
+      "i": 77,
+      "start": 488.922,
+      "end": 494.242,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "stamp"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这里的动作很聪明：她没有纸和笔，就用脚印在雪地上写出大字母。"
+        }
+      ]
+    },
+    {
+      "i": 78,
+      "start": 494.592,
+      "end": 497.744,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "survivor"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组词："
+        },
+        {
+          "lang": "en",
+          "text": "survivor"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 79,
+      "start": 498.094,
+      "end": 499.99,
+      "speaker": "B",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "survivor"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Survivor"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 80,
+      "start": 500.34,
+      "end": 506.612,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "survivor"
+      },
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Survivor"
+        },
+        {
+          "lang": "zh",
+          "text": "是经历危险后活下来的人，中文可以说幸存者。"
+        }
+      ]
+    },
+    {
+      "i": 81,
+      "start": 506.962,
+      "end": 510.762,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "survivor"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这个词语气要尊重，不要说得像刺激故事。"
+        }
+      ]
+    },
+    {
+      "i": 82,
+      "start": 511.111,
+      "end": 515.903,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "survivor"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "课文最后说："
+        },
+        {
+          "lang": "en",
+          "text": "to rescue the survivors of the plane crash"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 83,
+      "start": 516.253,
+      "end": 522.133,
+      "speaker": "A",
+      "scene": "vocab",
+      "scene_meta": {
+        "word": "survivor"
+      },
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "在这课里，survivors 指妈妈和两个女婴。她们经历了危险，但被救出来了。"
+        }
+      ]
+    },
+    {
+      "i": 84,
+      "start": 522.483,
+      "end": 525.723,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天的语法都从“冷静地做事”里来。"
+        }
+      ]
+    },
+    {
+      "i": 85,
+      "start": 526.073,
+      "end": 536.461,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第一组是时间推进："
+        },
+        {
+          "lang": "en",
+          "text": "When a light passenger plane flew off course"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "When it grew dark"
+        },
+        {
+          "lang": "zh",
+          "text": "，和"
+        },
+        {
+          "lang": "en",
+          "text": "Early next morning"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 86,
+      "start": 536.81,
+      "end": 540.93,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这些表达把故事按时间一步一步往前推。"
+        }
+      ]
+    },
+    {
+      "i": 87,
+      "start": 541.28,
+      "end": 545.832,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第二组是变化："
+        },
+        {
+          "lang": "en",
+          "text": "she turned a suitcase into a bed"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 88,
+      "start": 546.182,
+      "end": 555.774,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "Turn A into B"
+        },
+        {
+          "lang": "zh",
+          "text": "可以写实际改变，也可以写用途改变。比如："
+        },
+        {
+          "lang": "en",
+          "text": "We turned a scarf into a flag"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 89,
+      "start": 556.124,
+      "end": 561.924,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第三组是补充动作："
+        },
+        {
+          "lang": "en",
+          "text": "covering them with all the clothes she could find"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 90,
+      "start": 562.274,
+      "end": 568.674,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "主动作是 put the children inside it，后面的 covering 说明她同时怎样保护孩子。"
+        }
+      ]
+    },
+    {
+      "i": 91,
+      "start": 569.024,
+      "end": 573.495,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "第四组是最大努力："
+        },
+        {
+          "lang": "en",
+          "text": "as near as she could"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 92,
+      "start": 573.845,
+      "end": 582.221,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "en",
+          "text": "As calm as I could"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "as warm as we could"
+        },
+        {
+          "lang": "zh",
+          "text": "，都可以写人在困难里尽力做到某种程度。"
+        }
+      ]
+    },
+    {
+      "i": 93,
+      "start": 582.571,
+      "end": 588.979,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后一组是很漂亮的时间句："
+        },
+        {
+          "lang": "en",
+          "text": "It was not long before a helicopter arrived on the scene"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 94,
+      "start": 589.329,
+      "end": 593.649,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "它的意思是“不久以后就……”，比简单说 soon 更有故事感。"
+        }
+      ]
+    },
+    {
+      "i": 95,
+      "start": 593.999,
+      "end": 608.626,
+      "speaker": "A",
+      "scene": "grammar",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "今天带走五组表达："
+        },
+        {
+          "lang": "en",
+          "text": "send a signal"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "turn A into B"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "all the clothes she could find"
+        },
+        {
+          "lang": "zh",
+          "text": "，"
+        },
+        {
+          "lang": "en",
+          "text": "as near as she could"
+        },
+        {
+          "lang": "zh",
+          "text": "，和"
+        },
+        {
+          "lang": "en",
+          "text": "It was not long before"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 96,
+      "start": 608.976,
+      "end": 615.544,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "现在把雪山救援换成一个安全的冬季户外活动："
+        },
+        {
+          "lang": "en",
+          "text": "The Bright Signal Walk"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 97,
+      "start": 615.894,
+      "end": 621.934,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "你和同学在雪地公园参加活动，手机信号很弱，大家离集合点有点远。"
+        }
+      ]
+    },
+    {
+      "i": 98,
+      "start": 622.284,
+      "end": 626.628,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "先说明你们的目标："
+        },
+        {
+          "lang": "en",
+          "text": "We needed to send a signal"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 99,
+      "start": 626.978,
+      "end": 632.233,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再说明你们怎么用身边物品："
+        },
+        {
+          "lang": "en",
+          "text": "We turned a jacket into a flag"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 100,
+      "start": 632.583,
+      "end": 636.879,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "接着说明你的状态："
+        },
+        {
+          "lang": "en",
+          "text": "I stayed as calm as I could"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 101,
+      "start": 637.229,
+      "end": 642.165,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "然后说明雪地动作："
+        },
+        {
+          "lang": "en",
+          "text": "We stamped out big letters in the snow"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 102,
+      "start": 642.515,
+      "end": 648.163,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后用结尾句："
+        },
+        {
+          "lang": "en",
+          "text": "It was not long before a park worker arrived"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 103,
+      "start": 648.513,
+      "end": 656.113,
+      "speaker": "A",
+      "scene": "you_too",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "下面练习里，用 word bank 补完整 5 个空，把冷静、变通和求救信号说清楚。"
+        }
+      ]
+    },
+    {
+      "i": 104,
+      "start": 656.463,
+      "end": 663.783,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "这一课就到这。下面先做 ⓪ 跟读：听课文全文 -> 听原音 -> 录一句 -> 获取反馈。"
+        }
+      ]
+    },
+    {
+      "i": 105,
+      "start": 664.132,
+      "end": 668.412,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读时先抓安全事实："
+        },
+        {
+          "lang": "en",
+          "text": "were unhurt"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 106,
+      "start": 668.762,
+      "end": 677.15,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓保暖动作："
+        },
+        {
+          "lang": "en",
+          "text": "turned a suitcase into a bed"
+        },
+        {
+          "lang": "zh",
+          "text": "和"
+        },
+        {
+          "lang": "en",
+          "text": "covering them with all the clothes she could find"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 107,
+      "start": 677.5,
+      "end": 682.436,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "再抓求救动作："
+        },
+        {
+          "lang": "en",
+          "text": "stamped out the letters 'SOS' in the snow"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 108,
+      "start": 682.786,
+      "end": 688.57,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "最后抓救援链条："
+        },
+        {
+          "lang": "en",
+          "text": "a pilot saw the signal and sent a message by radio"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    },
+    {
+      "i": 109,
+      "start": 688.919,
+      "end": 701.719,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "跟读完以后，再做 ① 生活场景，② 完形，③ 中译英，④ 英译中，⑤ 拓展阅读，⑥ 句式仿写，⑦ 默写，⑧ 总结。"
+        }
+      ]
+    },
+    {
+      "i": 110,
+      "start": 702.069,
+      "end": 707.541,
+      "speaker": "A",
+      "scene": "outro",
+      "scene_meta": {},
+      "segments": [
+        {
+          "lang": "zh",
+          "text": "记住今天的核心："
+        },
+        {
+          "lang": "en",
+          "text": "stay calm, stay warm, and send a clear signal"
+        },
+        {
+          "lang": "zh",
+          "text": "。"
+        }
+      ]
+    }
+  ],
+  "lesson_id": 75
+}

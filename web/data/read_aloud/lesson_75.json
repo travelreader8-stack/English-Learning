@@ -1,0 +1,111 @@
+{
+  "lesson_id": 75,
+  "mode": "guided_sentences",
+  "intro_zh": "先听完整课文，再按“乘客未受伤 -> 雪很厚、村庄很远 -> 手提箱变小床 -> 尽量靠近孩子 -> 听到飞机、想到信号 -> 踩出 SOS -> 飞行员用无线电报信 -> 直升机救援”的故事线跟读。重点读清 were unhurt, Snow lay thick, turned a suitcase into a bed, all the clothes she could find, as near as she could, passing overhead, send a signal, stamped out, by radio, arrived on the scene 和 rescue the survivors。",
+  "sentences": [
+    {
+      "id": "l75_s1",
+      "text": "The only passengers, a young woman and her two baby daughters, were unhurt.",
+      "focus_zh": "中文锚点：机上乘客只有一位年轻妈妈和两个女婴，她们没有受伤。读清插入语 a young woman and her two baby daughters，再落到 were unhurt。",
+      "start": 374.348,
+      "end": 379.364,
+      "focus_words": [
+        "The only passengers",
+        "a young woman",
+        "two baby daughters",
+        "were unhurt"
+      ]
+    },
+    {
+      "id": "l75_s2",
+      "text": "Snow lay thick on the ground.",
+      "focus_zh": "中文锚点：地上积着厚厚的雪。句子很短，但 thick 是画面重点，读出厚雪带来的隔绝感。",
+      "start": 382.632,
+      "end": 385.296,
+      "focus_words": [
+        "Snow",
+        "lay thick",
+        "on the ground"
+      ]
+    },
+    {
+      "id": "l75_s3",
+      "text": "When it grew dark, she turned a suitcase into a bed and put the children inside it, covering them with all the clothes she could find.",
+      "focus_zh": "中文锚点：天黑后，她把手提箱变成小床，把孩子放进去，并用所有能找到的衣服盖住。When it grew dark 后停顿，turned A into B 和 covering... 是重点。",
+      "start": 389.715,
+      "end": 396.867,
+      "focus_words": [
+        "When it grew dark",
+        "turned a suitcase into a bed",
+        "put the children inside it",
+        "covering them",
+        "all the clothes she could find"
+      ]
+    },
+    {
+      "id": "l75_s4",
+      "text": "The woman kept as near as she could to the children and even tried to get into the case herself, but it was too small.",
+      "focus_zh": "中文锚点：她尽量靠近孩子，甚至想自己也钻进箱子里，但箱子太小。as near as she could 表示尽最大努力靠近，case 指前面的 suitcase。",
+      "start": 400.783,
+      "end": 407.191,
+      "focus_words": [
+        "kept as near as she could",
+        "to the children",
+        "the case herself",
+        "too small"
+      ]
+    },
+    {
+      "id": "l75_s5",
+      "text": "Early next morning, she heard planes passing overhead and wondered how she could send a signal.",
+      "focus_zh": "中文锚点：第二天早晨，她听到飞机从头顶飞过，开始想怎样发送信号。Early next morning 后停顿，passing overhead 和 send a signal 是本课桥梁。",
+      "start": 407.541,
+      "end": 412.989,
+      "focus_words": [
+        "Early next morning",
+        "planes passing overhead",
+        "wondered how",
+        "send a signal"
+      ]
+    },
+    {
+      "id": "l75_s6",
+      "text": "She stamped out the letters 'SOS' in the snow.",
+      "focus_zh": "中文锚点：她在雪地上踩出了 SOS 三个字母。stamped out 要读出连续踩出形状，不是随便踩一下。",
+      "start": 416.065,
+      "end": 419.593,
+      "focus_words": [
+        "stamped out",
+        "the letters 'SOS'",
+        "in the snow"
+      ]
+    },
+    {
+      "id": "l75_s7",
+      "text": "Fortunately, a pilot saw the signal and sent a message by radio to the nearest town.",
+      "focus_zh": "中文锚点：幸运的是，一位飞行员看见信号，并用无线电给最近的城镇发消息。Fortunately 读出转机，by radio 是救援链条的关键。",
+      "start": 419.943,
+      "end": 425.367,
+      "focus_words": [
+        "Fortunately",
+        "saw the signal",
+        "sent a message",
+        "by radio",
+        "the nearest town"
+      ]
+    },
+    {
+      "id": "l75_s8",
+      "text": "It was not long before a helicopter arrived on the scene to rescue the survivors of the plane crash.",
+      "focus_zh": "中文锚点：不久，直升机来到现场救出幸存者。It was not long before 是漂亮的时间句，arrived on the scene 和 rescue the survivors 要连起来读。",
+      "start": 425.716,
+      "end": 431.692,
+      "focus_words": [
+        "It was not long before",
+        "a helicopter",
+        "arrived on the scene",
+        "rescue the survivors"
+      ]
+    }
+  ]
+}

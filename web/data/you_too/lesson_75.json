@@ -1,0 +1,51 @@
+{
+  "lesson_id": 75,
+  "title": "The Bright Signal Walk",
+  "question": "把今天“没有手机帮助 -> 保持冷静 -> 把物品变成信号 -> 在雪地上做大标记 -> 很快有人赶来”的表达，放进 winter outdoor activity 场景：用 word bank 补完整 5 个空。",
+  "example_answer": "During a winter outdoor activity, we needed to send a signal because the phone signal was weak. We turned a jacket into a flag and stood together. I stayed as calm as I could while my classmates stamped out big letters in the snow. It was not long before a park worker arrived and guided us back.",
+  "word_bank": [
+    "send a signal",
+    "turned a jacket into a flag",
+    "as calm as I could",
+    "stamped out big letters in the snow",
+    "It was not long before a park worker arrived",
+    "phone signal was weak",
+    "stayed together",
+    "thick snow",
+    "rescue team",
+    "safe place"
+  ],
+  "options": [
+    {
+      "label": "A",
+      "scenario_zh": "说明你们为什么需要求救信号",
+      "english_template": "During the winter walk, we needed to ___.",
+      "expected_phrase": "send a signal"
+    },
+    {
+      "label": "B",
+      "scenario_zh": "说明你们把亮色外套变成旗子",
+      "english_template": "We ___.",
+      "expected_phrase": "turned a jacket into a flag"
+    },
+    {
+      "label": "C",
+      "scenario_zh": "说明你尽量保持冷静",
+      "english_template": "I stayed ___.",
+      "expected_phrase": "as calm as I could"
+    },
+    {
+      "label": "D",
+      "scenario_zh": "说明你们在雪地上踩出大字母",
+      "english_template": "We ___.",
+      "expected_phrase": "stamped out big letters in the snow"
+    },
+    {
+      "label": "E",
+      "scenario_zh": "说明很快工作人员赶到",
+      "english_template": "__ and guided us back.",
+      "expected_phrase": "It was not long before a park worker arrived"
+    }
+  ],
+  "mode": "all_fills"
+}

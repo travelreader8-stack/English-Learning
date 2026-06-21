@@ -1,0 +1,153 @@
+{
+  "lesson_id": 75,
+  "reading": {
+    "title": "The Bright Signal",
+    "intro_zh": "这篇延展阅读把 Lesson 75 的“保暖、待在一起、发出清楚求救信号和等待救援”换到冬令营散步场景。短文为原创故事，不复述原文的飞机事故。",
+    "source": {
+      "title": "Outdoor Emergency Plan",
+      "publisher": "National Park Service",
+      "url": "https://www.nps.gov/articles/gtgemergencyplan.htm"
+    },
+    "passage": [
+      "During a winter camp walk, Ms. Lin's group followed a narrow path beside a snowy hill. The map was safe and simple, but falling snow covered one turn. After fifteen minutes, the students realized that they had taken the wrong path. The phone signal was weak, and Ms. Lin's battery was low. She did not let anyone run ahead. She kept the group together, counted the students, and asked them to stand behind a line of small trees where the wind was weaker.",
+      "Snow lay thick on the ground, so Ms. Lin told everyone to keep their gloves on and share the extra scarves. Leo had a bright orange jacket in his bag. The class turned the jacket into a flag and tied it to a walking stick. Then Mia and two friends stamped out a huge SOS in the snow beside the flag. They made the letters wide because a signal must be easy to see from far away or from overhead.",
+      "It was not long before a park ranger on a ridge saw the bright flag and the dark letters in the snow. He called the camp office by radio, then walked down to guide the group back. No one was hurt. Ms. Lin praised the students because they had stayed as calm as they could, used all the useful things they could find, and made one clear signal instead of shouting in many directions."
+    ],
+    "questions": [
+      {
+        "id": "wrong_path",
+        "question": "Why did the group stop and make a plan?",
+        "options": [
+          "They wanted to build a snowman before lunch.",
+          "They were waiting for a bus at the camp gate.",
+          "They had taken the wrong path, and the phone signal was weak.",
+          "They wanted to climb the highest mountain."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "第一段说 falling snow covered one turn，学生发现走错路，而且 phone signal was weak。"
+      },
+      {
+        "id": "first_priority",
+        "question": "What did Ms. Lin do first?",
+        "options": [
+          "She kept the group together, counted the students, and moved them out of the wind.",
+          "She told the students to run in different directions.",
+          "She asked Leo to throw away his jacket.",
+          "She left the students and went back alone."
+        ],
+        "answer_index": 0,
+        "explanation_zh": "第一段结尾写到她让大家待在一起、清点人数，并站到风小一点的树后。"
+      },
+      {
+        "id": "jacket_flag",
+        "question": "How did the students use Leo's orange jacket?",
+        "options": [
+          "They covered the map with it.",
+          "They hid it under the snow.",
+          "They used it as a pillow.",
+          "They turned it into a flag and tied it to a walking stick."
+        ],
+        "answer_index": 3,
+        "explanation_zh": "第二段说 The class turned the jacket into a flag and tied it to a walking stick。"
+      },
+      {
+        "id": "wide_letters",
+        "question": "Why did the students make the SOS letters wide?",
+        "options": [
+          "Wide letters are harder to read from far away.",
+          "A signal must be easy to see from far away or from overhead.",
+          "The teacher wanted to practice spelling only.",
+          "The ranger asked them to erase the snow."
+        ],
+        "answer_index": 1,
+        "explanation_zh": "第二段最后说明 they made the letters wide because a signal must be easy to see from far away or from overhead。"
+      },
+      {
+        "id": "rescue_chain",
+        "question": "Which rescue chain happened in the story?",
+        "options": [
+          "The students called a helicopter directly, and it landed at once.",
+          "The orange jacket flew away, and everyone followed it.",
+          "A ranger saw the signal, called the camp office by radio, and guided the group back.",
+          "The group ignored the signal and kept walking."
+        ],
+        "answer_index": 2,
+        "explanation_zh": "第三段说 ranger saw the bright flag and dark letters, called the camp office by radio, then guided the group back。"
+      }
+    ]
+  },
+  "writing": {
+    "intro_zh": "今天抓五个 Lesson 75 的求救与叙事句式：用 turn A into B 写变通，用 all the ... one could find 写用尽资源，用 as ... as one could 写最大努力，用 wondered how 写想办法，用 It was not long before 写很快出现的结果。",
+    "patterns": [
+      {
+        "id": "turn_into",
+        "title": "turn A into B",
+        "source": "she turned a suitcase into a bed",
+        "focus_zh": "turn A into B 表示把一个东西变成另一个用途或身份。",
+        "task_zh": "仿写一句：写你把身边一个普通物品变成有用的工具。",
+        "must_include": [
+          "turned",
+          "into"
+        ],
+        "min_words": 11,
+        "sample": "We turned a bright jacket into a flag for the rescue team.",
+        "tip_zh": "A 是原来的物品，B 是新的用途；into 后面接名词。"
+      },
+      {
+        "id": "all_could_find",
+        "title": "all the ... one could find",
+        "source": "all the clothes she could find",
+        "focus_zh": "这个结构强调把当时能找到的资源都用上。",
+        "task_zh": "仿写一句：写某人用所有能找到的衣服、纸、树枝或工具来解决问题。",
+        "must_include": [
+          "all the",
+          "could find"
+        ],
+        "min_words": 12,
+        "sample": "The teacher used all the scarves she could find to keep the children warm.",
+        "tip_zh": "all the 后面接一类东西，could find 放在名词后修饰它。"
+      },
+      {
+        "id": "as_as_could",
+        "title": "as ... as one could",
+        "source": "The woman kept as near as she could to the children",
+        "focus_zh": "as ... as one could 表示在当时条件下尽最大努力做到某种程度。",
+        "task_zh": "仿写一句：写人在紧张情况下尽量保持冷静、靠近、安静或暖和。",
+        "must_include": [
+          "as",
+          "as I could"
+        ],
+        "min_words": 11,
+        "sample": "I stayed as calm as I could while we waited for help.",
+        "tip_zh": "两个 as 中间放形容词或副词，比如 calm, close, warm。"
+      },
+      {
+        "id": "wondered_how",
+        "title": "wondered how she could...",
+        "source": "wondered how she could send a signal",
+        "focus_zh": "wondered how... 可以写人物在困难中思考办法。",
+        "task_zh": "仿写一句：写一个学生不知道怎样通知别人，于是思考可见信号。",
+        "must_include": [
+          "wondered how",
+          "could"
+        ],
+        "min_words": 12,
+        "sample": "Mia wondered how she could send a signal without using her phone.",
+        "tip_zh": "wondered how 后面接完整小句，说明“在想怎样……”。"
+      },
+      {
+        "id": "not_long_before",
+        "title": "It was not long before...",
+        "source": "It was not long before a helicopter arrived on the scene",
+        "focus_zh": "这个句式表示“不久以后就……”，适合写故事结尾的转机。",
+        "task_zh": "仿写一句：写清楚信号发出后，很快有人看见或赶到。",
+        "must_include": [
+          "It was not long before"
+        ],
+        "min_words": 12,
+        "sample": "It was not long before a ranger saw our signal and guided us back.",
+        "tip_zh": "before 后面接一个完整事件，让故事自然走向结果。"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "lesson_id": 75,
+  "title": "SOS",
+  "visual_consistency": "A continuous gentle winter rescue story with the same young mother throughout: early thirties, oval face, dark hair tucked under a wool hat, practical navy winter coat, gray scarf, tired but calm and determined expression, protective posture, average build. The same two baby daughters are bundled safely in warm blankets and small winter hats. A hard brown suitcase is reused as a small bed. The setting is a wide snowy mountain area with thick snow, pale winter sky, distant slopes, and a calm but tense mood that becomes hopeful. Images must be child-safe and non-graphic, with no blood, no injuries, no flames, no smoke, no dead pilot, no distressed babies, and no readable text except the essential snow signal SOS.",
+  "frames": [
+    {
+      "frame": 1,
+      "prompt": "From a respectful distance in a wide snowy mountain setting, show the aftermath of a small light passenger plane crash without graphic detail. The same young mother in a navy winter coat stands protectively near the same two baby daughters bundled safely in blankets beside a hard brown suitcase. They look unhurt but isolated, with thick snow on the ground and distant mountains around them. The damaged plane is distant and subdued, no flames, no smoke, no injury, no pilot body, no readable markings or text."
+    },
+    {
+      "frame": 2,
+      "prompt": "Night in the same snowy mountain area, cold blue shadows with a gentle warm glow around the same young mother and her two baby daughters. The hard brown suitcase has been opened and turned into a small improvised bed for the bundled babies. The mother covers them with all available coats, scarves, and clothes, staying as near as she can. The scene is calm, protective, and child-safe, with no readable text anywhere."
+    },
+    {
+      "frame": 3,
+      "prompt": "Early morning in the same wide snowy mountain area. The same young mother stamps huge clear letters SOS into the open snow while the bundled baby daughters remain safe nearby in the suitcase bed. A small plane passes high overhead in the pale sky, suggesting hope. The SOS letters are large, simple, and visible from above. Do not include any other readable text, signs, labels, captions, map markings, or speech bubbles."
+    },
+    {
+      "frame": 4,
+      "prompt": "Hopeful rescue scene in the same snowy mountain setting. A rescue helicopter has arrived nearby and calm rescuers approach the same young mother and her two safely bundled baby daughters. The mother looks relieved, still near the hard brown suitcase. The large SOS signal may remain visible in the snow from a gentle rescue perspective. No other readable text, no vehicle markings, no labels, no dramatic danger, no injuries, no smoke, no flames."
+    }
+  ]
+}
