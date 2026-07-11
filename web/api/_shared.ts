@@ -99,8 +99,10 @@ export function gradeDictation(submitted: string, original: string): { match_pct
   const subWords = (submitted ?? "").trim().split(/\s+/).filter(Boolean);
   const origWords = (original ?? "").trim().split(/\s+/).filter(Boolean);
 
+  // Diff from the student's answer to the original text, so deleted words are
+  // the student's extra/wrong words and inserted words are the correct text to add.
   const chars: { chars1: string; chars2: string; lineArray: string[] } =
-    (dmpInstance as any).diff_linesToChars_(origWords.join("\n"), subWords.join("\n"));
+    (dmpInstance as any).diff_linesToChars_(subWords.join("\n"), origWords.join("\n"));
   const diffs = dmpInstance.diff_main(chars.chars1, chars.chars2, false);
   (dmpInstance as any).diff_charsToLines_(diffs, chars.lineArray);
   dmpInstance.diff_cleanupSemantic(diffs);

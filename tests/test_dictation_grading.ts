@@ -11,13 +11,13 @@ assert.ok(
   withExtra.match_pct < 100,
   `extra submitted words must reduce match_pct, got ${withExtra.match_pct}%`
 );
-assert.match(withExtra.diff_html, /<ins>/, "extra words should appear as inserted diff");
+assert.match(withExtra.diff_html, /<del>I copied another sentence by mistake\.<\/del>/, "extra submitted words should appear as deleted diff");
 
 const missingWord = gradeDictation("Last week I went to the theatre. I had a good seat.", original);
 assert.ok(
   missingWord.match_pct < 100,
   `missing original words must reduce match_pct, got ${missingWord.match_pct}%`
 );
-assert.match(missingWord.diff_html, /<del>very<\/del>/, "missing word should appear as deleted diff");
+assert.match(missingWord.diff_html, /<ins>very<\/ins>/, "missing original word should appear as inserted diff");
 
 console.log("✓ dictation grading penalizes missing and extra words");
