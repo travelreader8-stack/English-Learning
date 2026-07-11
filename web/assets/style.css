@@ -578,6 +578,16 @@ input:disabled {
   border-color: var(--accent);
   box-shadow: 0 0 0 3px var(--accent-soft);
 }
+.trans-row-tools {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 8px;
+}
+.trans-row-submit {
+  min-height: 34px;
+  padding: 7px 12px;
+  font-size: 13px;
+}
 .trans-row-feedback {
   margin-top: 10px;
   padding: 10px 12px;

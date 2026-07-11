@@ -206,20 +206,20 @@ export async function gradeTranslation(
   const sourceLang = direction === "cn_to_en" ? "中文" : "英文";
   const targetLang = direction === "cn_to_en" ? "英文" : "中文";
 
-  const sys = `你是一名专业初中英语老师，正在批改一名初一学生（英语刚及格水平）的《新概念英语 2》${dirText}练习。课文按语义切成了若干**段落**（每段约 3-5 句），学生按段落逐段翻译——你**必须逐段独立点评**、并给出**整体回顾**。
+  const sys = `你是一名专业初中英语老师，正在批改一名初一学生（英语刚及格水平）的《新概念英语 2》${dirText}练习。课文按语义切成了若干**测试单位**（通常每个单位 1-2 句），学生按单位逐句或逐小段翻译——你**必须逐个单位独立点评**、并给出**整体回顾**。
 
 【硬性规则】
-1. 每段满分 10 分。评分标准：意思正确 6 分 + 语法正确 2 分 + 用词地道 / 自然 2 分。
-2. 不要求和「参考译文」逐字一致——意思对、语法对就给高分；如果学生没翻译这一段（answer 为空），score=0、comment="未作答"。
-3. **per_sentence[i].comment 必须针对该段的具体错误**（指出最关键的 1-2 个问题）——不能笼统说"很好"或"再加油"，要点名错在哪、哪里地道。
-4. **per_sentence[i].fixes 最多 2 条**——每条 {original, suggested, reason_zh}，是这一段的具体改写建议（针对最严重的两处）。如果这段完全没问题、fixes 为空数组。
-5. **overall_summary 必须扫描所有段落、归纳 1-2 个最常见的错误模式**——比如"普遍漏复数"、"过去进行时和一般过去时混淆"、"喜欢用 can not 不爱用 could not"。不要笼统说"整体不错继续努力"。
-6. **overall_score** 是各段分的算术平均、四舍五入。
+1. 每个测试单位满分 10 分。评分标准：意思正确 6 分 + 语法正确 2 分 + 用词地道 / 自然 2 分。
+2. 不要求和「参考译文」逐字一致——意思对、语法对就给高分；如果学生没翻译这个单位（answer 为空），score=0、comment="未作答"。
+3. **per_sentence[i].comment 必须针对该单位的具体错误**（指出最关键的 1-2 个问题）——不能笼统说"很好"或"再加油"，要点名错在哪、哪里地道。
+4. **per_sentence[i].fixes 最多 2 条**——每条 {original, suggested, reason_zh}，是这一单位的具体改写建议（针对最严重的两处）。如果这个单位完全没问题、fixes 为空数组。
+5. **overall_summary 必须扫描所有测试单位、归纳 1-2 个最常见的错误模式**——比如"普遍漏复数"、"过去进行时和一般过去时混淆"、"喜欢用 can not 不爱用 could not"。不要笼统说"整体不错继续努力"。
+6. **overall_score** 是各测试单位分数的算术平均、四舍五入。
 
 【严格返回 JSON 对象】
 {
   "per_sentence": [
-    {"index": 0, "score": 数字, "comment": "中文 1-2 句、针对该段", "fixes": [{"original": "...", "suggested": "...", "reason_zh": "..."}]},
+    {"index": 0, "score": 数字, "comment": "中文 1-2 句、针对该测试单位", "fixes": [{"original": "...", "suggested": "...", "reason_zh": "..."}]},
     {"index": 1, ...},
     ...
   ],
@@ -606,7 +606,7 @@ function buildOverallSummaryFallback(lesson: Lesson, results: any): OverallSumma
     if (!t || t.error) continue;
     const score = typeof t.overall_score === "number" ? t.overall_score : undefined;
     if (score !== undefined && score >= 8) strengths.push(`${label}能抓住主要意思`);
-    if (score !== undefined && score < 8) focus.push(`${label}每段先对齐主语、动词和时间顺序`);
+    if (score !== undefined && score < 8) focus.push(`${label}每句先对齐主语、动词和时间顺序`);
   }
 
   const er = results?.extension_reading;
@@ -668,14 +668,14 @@ export async function generateOverallSummary(
   // ③ cn_to_en
   if (results.cn_to_en && !results.cn_to_en.error) {
     const t = results.cn_to_en;
-    const per = (t.per_sentence ?? []).map((p: any) => `[第 ${p.index + 1} 段 ${p.score}/10] ${(p.comment ?? "").slice(0, 100)}`).join("; ");
-    sections.push(`③ 中译英：平均 ${t.overall_score ?? "?"} / 10。逐段：${per}。整体：${(t.overall_summary ?? "").slice(0, 200)}`);
+    const per = (t.per_sentence ?? []).map((p: any) => `[第 ${p.index + 1} 句 ${p.score}/10] ${(p.comment ?? "").slice(0, 100)}`).join("; ");
+    sections.push(`③ 中译英：平均 ${t.overall_score ?? "?"} / 10。逐句：${per}。整体：${(t.overall_summary ?? "").slice(0, 200)}`);
   }
   // ④ en_to_cn
   if (results.en_to_cn && !results.en_to_cn.error) {
     const t = results.en_to_cn;
-    const per = (t.per_sentence ?? []).map((p: any) => `[第 ${p.index + 1} 段 ${p.score}/10] ${(p.comment ?? "").slice(0, 100)}`).join("; ");
-    sections.push(`④ 英译中：平均 ${t.overall_score ?? "?"} / 10。逐段：${per}。整体：${(t.overall_summary ?? "").slice(0, 200)}`);
+    const per = (t.per_sentence ?? []).map((p: any) => `[第 ${p.index + 1} 句 ${p.score}/10] ${(p.comment ?? "").slice(0, 100)}`).join("; ");
+    sections.push(`④ 英译中：平均 ${t.overall_score ?? "?"} / 10。逐句：${per}。整体：${(t.overall_summary ?? "").slice(0, 200)}`);
   }
   // Extension reading/writing
   if (results.extension_reading && !results.extension_reading.error) {

@@ -1944,6 +1944,9 @@ function renderTranslationRows(direction, sourceSents, referenceSents) {
       <div class="trans-row-body">
         <div class="trans-source">${escapeHtml(src)}</div>
         <textarea class="trans-input" data-direction="${direction}" data-row-idx="${i}" rows="2" placeholder="${placeholder}"></textarea>
+        <div class="trans-row-tools">
+          <button type="button" class="secondary-btn trans-row-submit" data-action="submit-translation-row" data-direction="${direction}" data-row-idx="${i}">AI 判断这句</button>
+        </div>
         <div class="trans-row-feedback" data-direction="${direction}" data-row-idx="${i}" hidden></div>
       </div>
     </div>
@@ -1964,29 +1967,90 @@ function onTransInput(ev) {
   const idx = Number(t.dataset.rowIdx);
   if (!Array.isArray(state.answers[dir])) state.answers[dir] = [];
   state.answers[dir][idx] = t.value;
-  // 改了就清旧反馈
-  if (state.results[dir]) {
-    state.results[dir] = null;
-    document.querySelectorAll(`.trans-row-feedback[data-direction="${dir}"]`).forEach(el => {
-      el.hidden = true;
-      el.innerHTML = "";
-    });
-    $(`.overall-feedback[data-target="${dir}"]`).hidden = true;
-    const sec = document.querySelector(`.screen[data-screen="${dir}"]`);
-    if (sec) {
-      const submit = sec.querySelector(".submit-btn");
-      const next = sec.querySelector(".next-btn");
-      if (submit) { submit.textContent = "📤 提交并点评"; submit.disabled = false; }
-      if (next) next.hidden = true;
-    }
-    updateStepper();
-  }
+  clearTranslationRowResult(dir, idx);
   persistSession();
 }
 
-function paintTranslation(direction, result) {
-  // 不锁输入——学生看到反馈后可以随时改、改了 onTransInput 自动清旧反馈
+function getTranslationSourceAndReference(direction) {
+  const sourceSents = direction === "cn_to_en" ? state.lesson.zhSentences : state.lesson.enSentences;
+  const refSents = direction === "cn_to_en" ? state.lesson.enSentences : state.lesson.zhSentences;
+  return { sourceSents, refSents };
+}
+
+function buildTranslationSentence(direction, rowIdx) {
+  const { sourceSents, refSents } = getTranslationSourceAndReference(direction);
+  const ans = state.answers[direction] || [];
+  return {
+    index: rowIdx,
+    source: sourceSents[rowIdx] || "",
+    reference: refSents[rowIdx] || "",
+    answer: (ans[rowIdx] || "").trim(),
+  };
+}
+
+function getTranslationRowsFromResult(result) {
+  return Array.isArray(result?.per_sentence) ? result.per_sentence : [];
+}
+
+function buildTranslationPartialResult(direction, rows, summary = "") {
+  const byIndex = new Map();
+  rows.forEach(item => {
+    if (!item || typeof item.index !== "number") return;
+    byIndex.set(item.index, {
+      index: item.index,
+      score: typeof item.score === "number" ? Math.max(0, Math.min(10, item.score)) : 0,
+      comment: item.comment ?? "",
+      fixes: Array.isArray(item.fixes) ? item.fixes.slice(0, 2) : [],
+    });
+  });
+  const per_sentence = [...byIndex.values()].sort((a, b) => a.index - b.index);
+  const scored = per_sentence.filter(item => typeof item.score === "number");
+  const overall_score = scored.length
+    ? Math.round(scored.reduce((sum, item) => sum + item.score, 0) / scored.length)
+    : undefined;
+  const { sourceSents } = getTranslationSourceAndReference(direction);
+  const overall_summary = summary || `已完成 ${per_sentence.length}/${sourceSents.length} 句 AI 判断。错误和修改建议已经记录在每一句下面；底部“整体回顾”可以再归纳常见问题。`;
+  return { per_sentence, overall_score, overall_summary, partial: true };
+}
+
+function setTranslationRowButton(direction, rowIdx, text, disabled = false) {
+  const btn = document.querySelector(`.trans-row-submit[data-direction="${direction}"][data-row-idx="${rowIdx}"]`);
+  if (!btn) return;
+  btn.textContent = text;
+  btn.disabled = disabled;
+}
+
+function paintTranslationRow(direction, item) {
+  const fb = document.querySelector(`.trans-row-feedback[data-direction="${direction}"][data-row-idx="${item.index}"]`);
+  if (!fb) return;
+  const score = typeof item.score === "number" ? item.score : null;
+  const fixesHtml = (item.fixes ?? []).length
+    ? `<ul class="fixes">${item.fixes.map(f => `<li><del>${escapeHtml(f.original ?? "")}</del> → <ins>${escapeHtml(f.suggested ?? "")}</ins><br><small>${escapeHtml(f.reason_zh ?? "")}</small></li>`).join("")}</ul>`
+    : "";
+  fb.innerHTML = `
+    <div class="row-score-line">这句 <span class="score">${score !== null ? `${score} / 10` : "—"}</span></div>
+    <p class="row-comment">${escapeHtml(item.comment ?? "")}</p>
+    ${fixesHtml}
+  `;
+  fb.hidden = false;
+}
+
+function paintTranslationRowError(direction, rowIdx, message) {
+  const fb = document.querySelector(`.trans-row-feedback[data-direction="${direction}"][data-row-idx="${rowIdx}"]`);
+  if (!fb) return;
+  fb.innerHTML = `<p class="ai-error">⚠️ ${escapeHtml(message)}</p>`;
+  fb.hidden = false;
+}
+
+function paintTranslationOverall(direction, result) {
   const overall = $(`.overall-feedback[data-target="${direction}"]`);
+  if (!overall) return;
+
+  if (!result) {
+    overall.hidden = true;
+    overall.innerHTML = "";
+    return;
+  }
 
   if (result.error) {
     overall.innerHTML = `<p class="ai-error">⚠️ ${escapeHtml(result.error)}</p>`;
@@ -1994,36 +2058,105 @@ function paintTranslation(direction, result) {
     return;
   }
 
-  // 逐句反馈
-  const perSent = Array.isArray(result.per_sentence) ? result.per_sentence : [];
-  perSent.forEach(item => {
-    const fb = document.querySelector(`.trans-row-feedback[data-direction="${direction}"][data-row-idx="${item.index}"]`);
-    if (!fb) return;
-    const score = typeof item.score === "number" ? item.score : null;
-    const fixesHtml = (item.fixes ?? []).length
-      ? `<ul class="fixes">${item.fixes.map(f => `<li><del>${escapeHtml(f.original ?? "")}</del> → <ins>${escapeHtml(f.suggested ?? "")}</ins><br><small>${escapeHtml(f.reason_zh ?? "")}</small></li>`).join("")}</ul>`
-      : "";
-    fb.innerHTML = `
-      <div class="row-score-line">这句 <span class="score">${score !== null ? `${score} / 10` : "—"}</span></div>
-      <p class="row-comment">${escapeHtml(item.comment ?? "")}</p>
-      ${fixesHtml}
-    `;
-    fb.hidden = false;
-  });
-
-  // 整体回顾
+  const perSent = getTranslationRowsFromResult(result);
+  const { sourceSents } = getTranslationSourceAndReference(direction);
   const o_score = typeof result.overall_score === "number" ? result.overall_score : null;
   const o_summary = result.overall_summary ?? "";
+  const title = result.partial ? `📊 已判断 ${perSent.length}/${sourceSents.length} 句` : "📊 整体回顾";
   overall.innerHTML = `
-    <h3>📊 整体回顾 ${o_score !== null ? `<span class="score">${o_score} / 10</span>` : ""}</h3>
+    <h3>${title} ${o_score !== null ? `<span class="score">${o_score} / 10</span>` : ""}</h3>
     <p class="comment">${escapeHtml(o_summary)}</p>
   `;
   overall.hidden = false;
 }
 
+function paintTranslation(direction, result) {
+  // 不锁输入——学生看到反馈后可以随时改、改了 onTransInput 自动清对应句子的旧反馈
+  if (!result?.error) {
+    getTranslationRowsFromResult(result).forEach(item => {
+      paintTranslationRow(direction, item);
+      setTranslationRowButton(direction, item.index, "AI 再判断", false);
+    });
+  }
+  paintTranslationOverall(direction, result);
+}
+
+function clearTranslationRowResult(direction, rowIdx) {
+  const fb = document.querySelector(`.trans-row-feedback[data-direction="${direction}"][data-row-idx="${rowIdx}"]`);
+  if (fb) {
+    fb.hidden = true;
+    fb.innerHTML = "";
+  }
+  setTranslationRowButton(direction, rowIdx, "AI 判断这句", false);
+
+  const existing = state.results[direction];
+  if (!existing) return;
+  const remaining = getTranslationRowsFromResult(existing).filter(item => item.index !== rowIdx);
+  if (remaining.length) {
+    state.results[direction] = buildTranslationPartialResult(direction, remaining);
+    paintTranslationOverall(direction, state.results[direction]);
+    enableNextOn(direction);
+  } else {
+    state.results[direction] = null;
+    paintTranslationOverall(direction, null);
+    const sec = document.querySelector(`.screen[data-screen="${direction}"]`);
+    if (sec) {
+      const submit = sec.querySelector(".submit-btn");
+      const next = sec.querySelector(".next-btn");
+      if (submit) { submit.textContent = "📊 生成整体回顾"; submit.disabled = false; }
+      if (next) next.hidden = true;
+    }
+  }
+  updateStepper();
+}
+
+async function submitTranslationRow(direction, rowIdx) {
+  const sentence = buildTranslationSentence(direction, rowIdx);
+  if (!sentence.answer) {
+    showError("请先写完这一句，再点 AI 判断");
+    return;
+  }
+
+  const submittedAnswer = sentence.answer;
+  setTranslationRowButton(direction, rowIdx, "AI 判断中…", true);
+  try {
+    const result = await callGrade("translation", { direction, sentences: [sentence] });
+    if (buildTranslationSentence(direction, rowIdx).answer !== submittedAnswer) {
+      paintTranslationRowError(direction, rowIdx, "这一句已经修改，请重新点 AI 判断。");
+      setTranslationRowButton(direction, rowIdx, "AI 判断这句", false);
+      return;
+    }
+    if (result.error) {
+      paintTranslationRowError(direction, rowIdx, result.error);
+      setTranslationRowButton(direction, rowIdx, "AI 再判断", false);
+      return;
+    }
+
+    const item = getTranslationRowsFromResult(result)[0] || {
+      index: rowIdx,
+      score: typeof result.score === "number" ? result.score : 0,
+      comment: result.comment ?? "",
+      fixes: Array.isArray(result.fixes) ? result.fixes : [],
+    };
+    item.index = rowIdx;
+
+    const previousRows = getTranslationRowsFromResult(state.results[direction]);
+    const nextRows = previousRows.filter(row => row.index !== rowIdx).concat(item);
+    state.results[direction] = buildTranslationPartialResult(direction, nextRows);
+    paintTranslationRow(direction, item);
+    paintTranslationOverall(direction, state.results[direction]);
+    enableNextOn(direction);
+    updateStepper();
+    persistSession();
+    setTranslationRowButton(direction, rowIdx, "AI 再判断", false);
+  } catch (e) {
+    paintTranslationRowError(direction, rowIdx, e.message);
+    setTranslationRowButton(direction, rowIdx, "AI 再判断", false);
+  }
+}
+
 async function submitTranslation(direction) {
-  const sourceSents = direction === "cn_to_en" ? state.lesson.zhSentences : state.lesson.enSentences;
-  const refSents    = direction === "cn_to_en" ? state.lesson.enSentences : state.lesson.zhSentences;
+  const { sourceSents, refSents } = getTranslationSourceAndReference(direction);
   const ans = state.answers[direction] || [];
 
   // 收集 sentences 数组（每句 source + reference + answer）
@@ -2042,7 +2175,7 @@ async function submitTranslation(direction) {
 
   const btn = currentSubmitBtn();
   btn.disabled = true;
-  btn.textContent = "AI 逐句点评中…(10-40s)";
+  btn.textContent = "AI 生成整体回顾中…(10-40s)";
 
   try {
     const result = await callGrade("translation", { direction, sentences });
@@ -2054,11 +2187,11 @@ async function submitTranslation(direction) {
   } catch (e) {
     showError(e.message);
     btn.disabled = false;
-    btn.textContent = "📤 提交并点评";
+    btn.textContent = "📊 生成整体回顾";
     return;
   }
 
-  btn.textContent = "📤 重新提交并点评";
+  btn.textContent = "📊 重新生成整体回顾";
   btn.disabled = false;
 }
 
@@ -2216,7 +2349,7 @@ function renderSummary() {
       const fixesHtml = Array.isArray(p.fixes) && p.fixes.length ?
         `<ul class="summary-fixes">${p.fixes.map(f => `<li><code>${escapeHtml(f.original)}</code> → <code>${escapeHtml(f.suggested)}</code> <em>${escapeHtml(f.reason_zh ?? "")}</em></li>`).join("")}</ul>` : "";
       return `<div class="summary-trans-row">
-        <div class="summary-trans-head">第 ${p.index + 1} 段 <strong>${p.score}/10</strong></div>
+        <div class="summary-trans-head">第 ${p.index + 1} 句 <strong>${p.score}/10</strong></div>
         <div class="summary-trans-answer">${escapeHtml(studentAns || "(未作答)")}</div>
         <p class="summary-comment">${escapeHtml(p.comment ?? "")}</p>
         ${fixesHtml}
@@ -2411,6 +2544,10 @@ function clearScreen(screen) {
       state.results[screen] = null;
       sec.querySelectorAll(`textarea.trans-input`).forEach(t => { t.value = ""; });
       sec.querySelectorAll(`.trans-row-feedback`).forEach(el => { el.hidden = true; el.innerHTML = ""; });
+      sec.querySelectorAll(`.trans-row-submit`).forEach(btn => {
+        btn.disabled = false;
+        btn.textContent = "AI 判断这句";
+      });
       const overall = sec.querySelector(`.overall-feedback`);
       if (overall) { overall.hidden = true; overall.innerHTML = ""; }
       break;
@@ -2446,7 +2583,7 @@ function clearScreen(screen) {
   const next = sec.querySelector(".next-btn");
   if (submit) {
     submit.disabled = false;
-    submit.textContent = (screen === "cn_to_en" || screen === "en_to_cn") ? "📤 提交并点评" : "📤 提交本题";
+    submit.textContent = (screen === "cn_to_en" || screen === "en_to_cn") ? "📊 生成整体回顾" : "📤 提交本题";
   }
   if (next) next.hidden = true;
   persistSession();
@@ -2512,6 +2649,8 @@ function bindEvents() {
       submitReadAloud(target.dataset.sentenceId);
     } else if (action === "submit-cloze") {
       submitCloze();
+    } else if (action === "submit-translation-row") {
+      submitTranslationRow(target.dataset.direction, Number(target.dataset.rowIdx));
     } else if (action === "submit-translation") {
       submitTranslation(target.dataset.direction);
     } else if (action === "submit-extension-reading") {
