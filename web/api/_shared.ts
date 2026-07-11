@@ -132,18 +132,21 @@ export async function callDeepSeek(
   const base = process.env.DEEPSEEK_BASE_URL || "https://api.deepseek.com/v1";
   if (!apiKey) throw new Error("DEEPSEEK_API_KEY 未配置");
 
-  const body: any = {
-    model,
-    messages,
-    temperature: opts.temperature ?? 0.3,
-    max_tokens: opts.maxTokens ?? 1200,
-  };
-  if (opts.json) body.response_format = { type: "json_object" };
+  const requestedMaxTokens = opts.maxTokens ?? 1600;
 
   const retries = opts.retries ?? 3;  // 服务端默认 3 次重试 + 指数退避
   const perAttemptTimeoutMs = 40000;  // 每次 fetch 上限 40s — 防 DeepSeek 长挂、又给慢响应留余地
   let lastErr: any;
   for (let attempt = 0; attempt <= retries; attempt++) {
+    const attemptMaxTokens = Math.min(8192, Math.ceil(requestedMaxTokens * Math.pow(2, attempt)));
+    const body: any = {
+      model,
+      messages,
+      temperature: opts.temperature ?? 0.3,
+      max_tokens: attemptMaxTokens,
+    };
+    if (opts.json) body.response_format = { type: "json_object" };
+
     const ctl = new AbortController();
     const timer = setTimeout(() => ctl.abort(), perAttemptTimeoutMs);
     try {
@@ -158,8 +161,14 @@ export async function callDeepSeek(
         throw new Error(`DeepSeek HTTP ${r.status}: ${errText.slice(0, 200)}`);
       }
       const j: any = await r.json();
-      const content = j.choices?.[0]?.message?.content;
-      if (!content) throw new Error("DeepSeek 返回空内容");
+      const choice = j.choices?.[0];
+      const content = choice?.message?.content;
+      if (!content) {
+        throw new Error(`DeepSeek 返回空内容（max_tokens=${attemptMaxTokens}）`);
+      }
+      if (choice?.finish_reason === "length") {
+        throw new Error(`DeepSeek 返回被 max_tokens 截断（max_tokens=${attemptMaxTokens}）`);
+      }
       return content;
     } catch (e) {
       lastErr = e;
@@ -423,7 +432,7 @@ fill_correct 标准：
   try {
     const raw = await callDeepSeek(
       [{ role: "system", content: sys }, { role: "user", content: lines.join("\n") }],
-      { json: true, maxTokens: 800, temperature: 0.5 }
+      { json: true, maxTokens: 1200, temperature: 0.5 }
     );
     const parsed = safeParseJSON<any>(raw);
     if (!parsed || !Array.isArray(parsed.per_fill)) {
@@ -503,7 +512,7 @@ ${(p.word_bank ?? []).join(" · ")}
   try {
     const raw = await callDeepSeek(
       [{ role: "system", content: sys }, { role: "user", content: user }],
-      { json: false, maxTokens: 350, temperature: 0.5 }
+      { json: false, maxTokens: 900, temperature: 0.5 }
     );
     return { comment: raw.trim(), fill_correct: exactExpected || inBank };
   } catch (e: any) {
@@ -546,7 +555,7 @@ ${text}
   try {
     const raw = await callDeepSeek(
       [{ role: "system", content: sys }, { role: "user", content: user }],
-      { json: false, maxTokens: 350, temperature: 0.6 }
+      { json: false, maxTokens: 900, temperature: 0.6 }
     );
     return { comment: raw.trim() };
   } catch (e: any) {
@@ -581,7 +590,7 @@ ${studentAnswer}
     const raw = await callDeepSeek([
       { role: "system", content: sys },
       { role: "user", content: user }
-    ], { json: false, maxTokens: 200, temperature: 0.5 });
+    ], { json: false, maxTokens: 900, temperature: 0.5 });
     return raw.trim();
   } catch {
     return "";
@@ -716,7 +725,7 @@ export async function generateOverallSummary(
     const raw = await callDeepSeek([
       { role: "system", content: sys },
       { role: "user", content: user }
-    ], { json: true, maxTokens: 700, temperature: 0.4 });
+    ], { json: true, maxTokens: 1200, temperature: 0.4 });
     const parsed = safeParseJSON<any>(raw);
     if (!parsed || typeof parsed.summary !== "string") {
       return buildOverallSummaryFallback(lesson, results);
