@@ -628,28 +628,6 @@ input:disabled {
   color: var(--err);
 }
 
-.overall-feedback {
-  margin-top: 16px;
-  padding: 14px 16px;
-  background: var(--accent-soft);
-  border-radius: 10px;
-  border-left: 3px solid var(--accent);
-}
-.overall-feedback h3 {
-  margin: 0 0 8px;
-  font-size: 16px;
-}
-.overall-feedback h3 .score {
-  color: var(--accent);
-  margin-left: 6px;
-}
-.overall-feedback .comment {
-  margin: 0;
-  font-size: 15px;
-  line-height: 1.7;
-  color: var(--ink);
-}
-
 /* You-too 练习屏（cloze 之前的「我们生活的场景」站）*/
 
 /* Word bank — 今日短语 chip 列表 */

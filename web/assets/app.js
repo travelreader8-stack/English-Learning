@@ -1992,7 +1992,7 @@ function getTranslationRowsFromResult(result) {
   return Array.isArray(result?.per_sentence) ? result.per_sentence : [];
 }
 
-function buildTranslationPartialResult(direction, rows, summary = "") {
+function buildTranslationPartialResult(direction, rows) {
   const byIndex = new Map();
   rows.forEach(item => {
     if (!item || typeof item.index !== "number") return;
@@ -2008,9 +2008,7 @@ function buildTranslationPartialResult(direction, rows, summary = "") {
   const overall_score = scored.length
     ? Math.round(scored.reduce((sum, item) => sum + item.score, 0) / scored.length)
     : undefined;
-  const { sourceSents } = getTranslationSourceAndReference(direction);
-  const overall_summary = summary || `已完成 ${per_sentence.length}/${sourceSents.length} 句 AI 判断。错误和修改建议已经记录在每一句下面；底部“整体回顾”可以再归纳常见问题。`;
-  return { per_sentence, overall_score, overall_summary, partial: true };
+  return { per_sentence, overall_score, overall_summary: "", partial: true };
 }
 
 function setTranslationRowButton(direction, rowIdx, text, disabled = false) {
@@ -2042,34 +2040,6 @@ function paintTranslationRowError(direction, rowIdx, message) {
   fb.hidden = false;
 }
 
-function paintTranslationOverall(direction, result) {
-  const overall = $(`.overall-feedback[data-target="${direction}"]`);
-  if (!overall) return;
-
-  if (!result) {
-    overall.hidden = true;
-    overall.innerHTML = "";
-    return;
-  }
-
-  if (result.error) {
-    overall.innerHTML = `<p class="ai-error">⚠️ ${escapeHtml(result.error)}</p>`;
-    overall.hidden = false;
-    return;
-  }
-
-  const perSent = getTranslationRowsFromResult(result);
-  const { sourceSents } = getTranslationSourceAndReference(direction);
-  const o_score = typeof result.overall_score === "number" ? result.overall_score : null;
-  const o_summary = result.overall_summary ?? "";
-  const title = result.partial ? `📊 已判断 ${perSent.length}/${sourceSents.length} 句` : "📊 整体回顾";
-  overall.innerHTML = `
-    <h3>${title} ${o_score !== null ? `<span class="score">${o_score} / 10</span>` : ""}</h3>
-    <p class="comment">${escapeHtml(o_summary)}</p>
-  `;
-  overall.hidden = false;
-}
-
 function paintTranslation(direction, result) {
   // 不锁输入——学生看到反馈后可以随时改、改了 onTransInput 自动清对应句子的旧反馈
   if (!result?.error) {
@@ -2078,7 +2048,6 @@ function paintTranslation(direction, result) {
       setTranslationRowButton(direction, item.index, "AI 再判断", false);
     });
   }
-  paintTranslationOverall(direction, result);
 }
 
 function clearTranslationRowResult(direction, rowIdx) {
@@ -2094,16 +2063,12 @@ function clearTranslationRowResult(direction, rowIdx) {
   const remaining = getTranslationRowsFromResult(existing).filter(item => item.index !== rowIdx);
   if (remaining.length) {
     state.results[direction] = buildTranslationPartialResult(direction, remaining);
-    paintTranslationOverall(direction, state.results[direction]);
     enableNextOn(direction);
   } else {
     state.results[direction] = null;
-    paintTranslationOverall(direction, null);
     const sec = document.querySelector(`.screen[data-screen="${direction}"]`);
     if (sec) {
-      const submit = sec.querySelector(".submit-btn");
       const next = sec.querySelector(".next-btn");
-      if (submit) { submit.textContent = "📊 生成整体回顾"; submit.disabled = false; }
       if (next) next.hidden = true;
     }
   }
@@ -2120,7 +2085,7 @@ async function submitTranslationRow(direction, rowIdx) {
   const submittedAnswer = sentence.answer;
   setTranslationRowButton(direction, rowIdx, "AI 判断中…", true);
   try {
-    const result = await callGrade("translation", { direction, sentences: [sentence] });
+    const result = await callGrade("translation", { direction, sentences: [sentence], summary: false });
     if (buildTranslationSentence(direction, rowIdx).answer !== submittedAnswer) {
       paintTranslationRowError(direction, rowIdx, "这一句已经修改，请重新点 AI 判断。");
       setTranslationRowButton(direction, rowIdx, "AI 判断这句", false);
@@ -2144,7 +2109,6 @@ async function submitTranslationRow(direction, rowIdx) {
     const nextRows = previousRows.filter(row => row.index !== rowIdx).concat(item);
     state.results[direction] = buildTranslationPartialResult(direction, nextRows);
     paintTranslationRow(direction, item);
-    paintTranslationOverall(direction, state.results[direction]);
     enableNextOn(direction);
     updateStepper();
     persistSession();
@@ -2153,46 +2117,6 @@ async function submitTranslationRow(direction, rowIdx) {
     paintTranslationRowError(direction, rowIdx, e.message);
     setTranslationRowButton(direction, rowIdx, "AI 再判断", false);
   }
-}
-
-async function submitTranslation(direction) {
-  const { sourceSents, refSents } = getTranslationSourceAndReference(direction);
-  const ans = state.answers[direction] || [];
-
-  // 收集 sentences 数组（每句 source + reference + answer）
-  const sentences = sourceSents.map((src, i) => ({
-    index: i,
-    source: src,
-    reference: refSents[i] || "",
-    answer: (ans[i] || "").trim(),
-  }));
-
-  // 至少有一句填了再提交
-  if (!sentences.some(s => s.answer)) {
-    showError("请至少翻译一句再提交");
-    return;
-  }
-
-  const btn = currentSubmitBtn();
-  btn.disabled = true;
-  btn.textContent = "AI 生成整体回顾中…(10-40s)";
-
-  try {
-    const result = await callGrade("translation", { direction, sentences });
-    state.results[direction] = result;
-    paintTranslation(direction, result);
-    enableNextOn(direction);
-    updateStepper();
-    persistSession();
-  } catch (e) {
-    showError(e.message);
-    btn.disabled = false;
-    btn.textContent = "📊 生成整体回顾";
-    return;
-  }
-
-  btn.textContent = "📊 重新生成整体回顾";
-  btn.disabled = false;
 }
 
 function paintDictation(result) {
@@ -2548,8 +2472,6 @@ function clearScreen(screen) {
         btn.disabled = false;
         btn.textContent = "AI 判断这句";
       });
-      const overall = sec.querySelector(`.overall-feedback`);
-      if (overall) { overall.hidden = true; overall.innerHTML = ""; }
       break;
     }
     case "extension_reading": {
@@ -2579,11 +2501,11 @@ function clearScreen(screen) {
   }
 
   // 还原 submit 按钮文案 / 隐藏 next 按钮
-  const submit = sec.querySelector(".submit-btn");
   const next = sec.querySelector(".next-btn");
+  const submit = sec.querySelector(".submit-btn");
   if (submit) {
     submit.disabled = false;
-    submit.textContent = (screen === "cn_to_en" || screen === "en_to_cn") ? "📊 生成整体回顾" : "📤 提交本题";
+    submit.textContent = "📤 提交本题";
   }
   if (next) next.hidden = true;
   persistSession();
@@ -2651,8 +2573,6 @@ function bindEvents() {
       submitCloze();
     } else if (action === "submit-translation-row") {
       submitTranslationRow(target.dataset.direction, Number(target.dataset.rowIdx));
-    } else if (action === "submit-translation") {
-      submitTranslation(target.dataset.direction);
     } else if (action === "submit-extension-reading") {
       submitExtensionReading();
     } else if (action === "submit-sentence-writing") {

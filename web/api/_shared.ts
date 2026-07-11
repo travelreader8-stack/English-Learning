@@ -196,7 +196,8 @@ export function safeParseJSON<T = any>(s: string): T | null {
 export async function gradeTranslation(
   direction: "cn_to_en" | "en_to_cn",
   sentences: SentencePair[],
-  lessonTitle: string
+  lessonTitle: string,
+  opts: { summary?: boolean } = {}
 ): Promise<TranslationResult> {
   // 至少要有一个非空答案
   const written = sentences.filter(s => s.answer && s.answer.trim());
@@ -205,16 +206,17 @@ export async function gradeTranslation(
   const dirText = direction === "cn_to_en" ? "中译英" : "英译中";
   const sourceLang = direction === "cn_to_en" ? "中文" : "英文";
   const targetLang = direction === "cn_to_en" ? "英文" : "中文";
+  const includeSummary = opts.summary !== false;
 
-  const sys = `你是一名专业初中英语老师，正在批改一名初一学生（英语刚及格水平）的《新概念英语 2》${dirText}练习。课文按语义切成了若干**测试单位**（通常每个单位 1-2 句），学生按单位逐句或逐小段翻译——你**必须逐个单位独立点评**、并给出**整体回顾**。
+  const sys = `你是一名专业初中英语老师，正在批改一名初一学生（英语刚及格水平）的《新概念英语 2》${dirText}练习。课文按语义切成了若干**测试单位**（通常每个单位 1-2 句），学生按单位逐句或逐小段翻译——你**必须逐个单位独立点评**${includeSummary ? "、并给出**整体回顾**" : ""}。
 
 【硬性规则】
 1. 每个测试单位满分 10 分。评分标准：意思正确 6 分 + 语法正确 2 分 + 用词地道 / 自然 2 分。
 2. 不要求和「参考译文」逐字一致——意思对、语法对就给高分；如果学生没翻译这个单位（answer 为空），score=0、comment="未作答"。
 3. **per_sentence[i].comment 必须针对该单位的具体错误**（指出最关键的 1-2 个问题）——不能笼统说"很好"或"再加油"，要点名错在哪、哪里地道。
 4. **per_sentence[i].fixes 最多 2 条**——每条 {original, suggested, reason_zh}，是这一单位的具体改写建议（针对最严重的两处）。如果这个单位完全没问题、fixes 为空数组。
-5. **overall_summary 必须扫描所有测试单位、归纳 1-2 个最常见的错误模式**——比如"普遍漏复数"、"过去进行时和一般过去时混淆"、"喜欢用 can not 不爱用 could not"。不要笼统说"整体不错继续努力"。
-6. **overall_score** 是各测试单位分数的算术平均、四舍五入。
+${includeSummary ? `5. **overall_summary 必须扫描所有测试单位、归纳 1-2 个最常见的错误模式**——比如"普遍漏复数"、"过去进行时和一般过去时混淆"、"喜欢用 can not 不爱用 could not"。不要笼统说"整体不错继续努力"。
+6. **overall_score** 是各测试单位分数的算术平均、四舍五入。` : `5. 这次只批改单个测试单位，不要写整体回顾。`}
 
 【严格返回 JSON 对象】
 {
@@ -222,9 +224,9 @@ export async function gradeTranslation(
     {"index": 0, "score": 数字, "comment": "中文 1-2 句、针对该测试单位", "fixes": [{"original": "...", "suggested": "...", "reason_zh": "..."}]},
     {"index": 1, ...},
     ...
-  ],
+  ]${includeSummary ? `,
   "overall_score": 数字,
-  "overall_summary": "中文 2-4 句、归纳模式问题、不空泛"
+  "overall_summary": "中文 2-4 句、归纳模式问题、不空泛"` : ""}
 }
 不要输出 JSON 之外的任何文字、不要 \`\`\`json 包装。`;
 
@@ -250,7 +252,7 @@ export async function gradeTranslation(
     for (let formatAttempt = 0; formatAttempt < 2; formatAttempt++) {
       const retryHint = formatAttempt === 0
         ? ""
-        : "\n\n上一次返回格式不合格。请只返回一个严格 JSON 对象，必须包含 per_sentence、overall_score、overall_summary，不要输出任何解释文字。";
+        : `\n\n上一次返回格式不合格。请只返回一个严格 JSON 对象，必须包含 per_sentence${includeSummary ? "、overall_score、overall_summary" : ""}，不要输出任何解释文字。`;
       raw = await callDeepSeek([
         { role: "system", content: sys },
         { role: "user", content: lines.join("\n") + retryHint }
@@ -289,12 +291,15 @@ export async function gradeTranslation(
         comment: typeof p.comment === "string" ? p.comment : "",
         fixes: Array.isArray(p.fixes) ? p.fixes.slice(0, 2) : [],
       }));
-      if (typeof parsed.overall_score !== "number") {
+      if (includeSummary && typeof parsed.overall_score !== "number") {
         const total = parsed.per_sentence.reduce((a: number, b: any) => a + (b.score || 0), 0);
         parsed.overall_score = Math.round(total / Math.max(1, parsed.per_sentence.length));
       }
-      if (typeof parsed.overall_summary !== "string") {
+      if (includeSummary && typeof parsed.overall_summary !== "string") {
         parsed.overall_summary = "";
+      } else if (!includeSummary) {
+        delete parsed.overall_summary;
+        delete parsed.overall_score;
       }
       return parsed as TranslationResult;
     }

@@ -21,6 +21,7 @@ interface TranslationPayload extends BasePayload {
   kind: "translation";
   direction: "cn_to_en" | "en_to_cn";
   sentences: { index: number; source: string; reference: string; answer: string }[];
+  summary?: boolean;
 }
 interface DictationPayload extends BasePayload {
   kind: "dictation";
@@ -78,7 +79,7 @@ export default async function handler(req: any, res: any) {
     if (payload.kind === "translation") {
       const direction = payload.direction;
       const sentences = Array.isArray(payload.sentences) ? payload.sentences : [];
-      const result = await gradeTranslation(direction, sentences, lesson.title);
+      const result = await gradeTranslation(direction, sentences, lesson.title, { summary: payload.summary !== false });
       res.status(200).json(result);
       return;
     }
