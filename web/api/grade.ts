@@ -6,12 +6,13 @@ import {
   gradeTranslation,
   generateDictationTip,
   gradeYouToo,
+  gradeSentenceWriting,
 } from "./_shared.js";
 
 interface BasePayload {
   lesson_id: number;
   token?: string;
-  kind: "cloze" | "translation" | "dictation" | "you_too";
+  kind: "cloze" | "translation" | "dictation" | "you_too" | "sentence_writing";
 }
 interface ClozePayload extends BasePayload {
   kind: "cloze";
@@ -33,7 +34,11 @@ interface YouTooFillPayload extends BasePayload {
   // 来自前端 payload 字段（kind: "fill" | "free"）
   // 简化：grade.ts 直接把整个 payload 传给 _shared.gradeYouToo
 }
-type Payload = ClozePayload | TranslationPayload | DictationPayload | YouTooFillPayload;
+interface SentenceWritingPayload extends BasePayload {
+  kind: "sentence_writing";
+  submissions: any[];
+}
+type Payload = ClozePayload | TranslationPayload | DictationPayload | YouTooFillPayload | SentenceWritingPayload;
 
 export default async function handler(req: any, res: any) {
   res.setHeader("Cache-Control", "no-store");
@@ -106,6 +111,12 @@ export default async function handler(req: any, res: any) {
         sub,
         lesson.title
       );
+      res.status(200).json(result);
+      return;
+    }
+    if (payload.kind === "sentence_writing") {
+      const submissions = Array.isArray(payload.submissions) ? payload.submissions : [];
+      const result = await gradeSentenceWriting(submissions, lesson.title);
       res.status(200).json(result);
       return;
     }

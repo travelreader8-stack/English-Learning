@@ -8,6 +8,8 @@ import {
   type TranslationResult,
   type DictationResult,
   type YouTooResult,
+  generateOverallSummary,
+  type OverallSummaryResult,
 } from "./_shared.js";
 
 interface FinishPayload {
@@ -22,6 +24,8 @@ interface FinishPayload {
     cloze: string[];
     cn_to_en: string[] | string;     // 新版数组、兼容旧字符串
     en_to_cn: string[] | string;
+    extension_reading?: Record<string, number>;
+    sentence_writing?: Record<string, string>;
     dictation: string;
   };
   results: {
@@ -30,6 +34,9 @@ interface FinishPayload {
     cloze: ClozeResult | null;
     cn_to_en: TranslationResult | null;
     en_to_cn: TranslationResult | null;
+    extension_reading?: any;
+    sentence_writing?: any;
+    overall_summary?: OverallSummaryResult | null;
     dictation: DictationResult | null;
   };
 }
@@ -129,13 +136,59 @@ function renderClozeBlock(c: ClozeResult | null, submitted: string[]): string {
   `;
 }
 
-function buildEmail(lesson: Lesson, p: FinishPayload): { subject: string; html: string } {
+function renderExtensionReadingBlock(result: any): string {
+  if (!result) return "";
+  if (result.error) return `<h3>拓展阅读</h3><p style="color:#dc2626">${escapeHtml(result.error)}</p>`;
+  const wrong = (result.details || []).filter((item: any) => !item.correct);
+  return `
+    <h3>拓展阅读 <span style="color:#2563eb">${result.score ?? 0} / ${result.total ?? 0}</span></h3>
+    ${wrong.length ? `<ul>${wrong.map((item: any) => `<li>第 ${Number(item.index) + 1} 题：学生选了 ${escapeHtml(item.selected_answer || "(未选)")}；正确答案是 <strong>${escapeHtml(item.correct_answer || "")}</strong>${item.explanation_zh ? `<br><small>${escapeHtml(item.explanation_zh)}</small>` : ""}</li>`).join("")}</ul>` : `<p style="background:#dcfce7;padding:10px 14px;border-radius:6px">全部正确，同题材阅读理解很稳。</p>`}
+  `;
+}
+
+function renderSentenceWritingBlock(result: any, answers: Record<string, string> | undefined): string {
+  if (!result) return "";
+  if (result.error) return `<h3>句式仿写</h3><p style="color:#dc2626">${escapeHtml(result.error)}</p>`;
+  const rows = (result.details || []).map((item: any) => {
+    const answer = answers?.[item.id] || "";
+    const fixes = Array.isArray(item.fixes) && item.fixes.length
+      ? `<ul style="font-size:13px;color:#4b5563">${item.fixes.map((fix: any) => `<li><del style="background:#fee2e2">${escapeHtml(fix.original || "")}</del> → <ins style="text-decoration:none;background:#dcfce7;padding:0 4px">${escapeHtml(fix.suggested || "")}</ins><br><small>${escapeHtml(fix.reason_zh || "")}</small></li>`).join("")}</ul>`
+      : "";
+    return `<div style="background:#fafaf7;border-radius:8px;padding:10px 12px;margin:8px 0">
+      <div style="font-size:13px;color:#6b7280">第 ${Number(item.index) + 1} 句 · <span style="color:#2563eb;font-weight:600">${item.score ?? 0} / 10</span></div>
+      <div style="font-size:14px;margin:4px 0">${escapeHtml(answer || "(未作答)")}</div>
+      <div style="font-size:14px;color:#1f2937">${escapeHtml(item.comment || "")}</div>
+      ${fixes}
+      ${item.corrected_sentence ? `<p style="font-size:14px"><strong>建议表达：</strong>${escapeHtml(item.corrected_sentence)}</p>` : ""}
+    </div>`;
+  }).join("");
+  return `
+    <h3>句式仿写 <span style="color:#2563eb">通过 ${result.score ?? 0} / ${result.total ?? 0} · 平均 ${result.average_score ?? "—"} / 10</span></h3>
+    ${result.overall_summary ? `<p style="background:#dbeafe;border-left:3px solid #2563eb;padding:10px 14px;border-radius:6px">${escapeHtml(result.overall_summary)}</p>` : ""}
+    ${rows}
+  `;
+}
+
+function renderOverallSummaryBlock(summary: OverallSummaryResult | null | undefined): string {
+  if (!summary?.summary) return "";
+  return `
+    <section style="background:#f0f9ff;border:1px solid #bae6fd;border-radius:8px;padding:14px 16px;margin:0 0 24px">
+      <h2 style="margin:0 0 8px">AI 老师整课总评</h2>
+      <p>${escapeHtml(summary.summary)}</p>
+      ${summary.focus_points?.length ? `<ul>${summary.focus_points.map(item => `<li>${escapeHtml(item)}</li>`).join("")}</ul>` : ""}
+      ${summary.encouragement ? `<p><strong>${escapeHtml(summary.encouragement)}</strong></p>` : ""}
+    </section>`;
+}
+
+function buildEmail(lesson: Lesson, p: FinishPayload, overall: OverallSummaryResult): { subject: string; html: string } {
   const r = p.results;
   const summaryParts: string[] = [];
   if (r.cloze) summaryParts.push(`完形 ${r.cloze.score}/${r.cloze.total}`);
   if (r.cn_to_en?.score !== undefined) summaryParts.push(`中译英 ${r.cn_to_en.score}/${r.cn_to_en.out_of}`);
   if (r.en_to_cn?.score !== undefined) summaryParts.push(`英译中 ${r.en_to_cn.score}/${r.en_to_cn.out_of}`);
   if (r.dictation?.match_pct !== undefined) summaryParts.push(`默写 ${r.dictation.match_pct}%`);
+  if (typeof r.extension_reading?.score === "number") summaryParts.push(`阅读 ${r.extension_reading.score}/${r.extension_reading.total}`);
+  if (typeof r.sentence_writing?.average_score === "number") summaryParts.push(`仿写 ${r.sentence_writing.average_score}/10`);
   const subject = `[NCE2 L${lesson.id}] ${lesson.title} · ${summaryParts.join(" · ")}`;
 
   const html = `<!doctype html>
@@ -143,11 +196,14 @@ function buildEmail(lesson: Lesson, p: FinishPayload): { subject: string; html: 
   <h1 style="margin:0 0 4px">📝 Lesson ${lesson.id} — ${escapeHtml(lesson.title)}</h1>
   <p style="color:#6b7280;margin:0 0 24px">提交时间：${escapeHtml(p.submitted_at)}</p>
 
+  ${renderOverallSummaryBlock(overall)}
   ${renderReadAloudBlock(r.read_aloud, p.answers.read_aloud)}
   ${renderYouTooBlock(r.you_too, p.answers.you_too)}
   ${renderClozeBlock(r.cloze, p.answers.cloze)}
   ${renderTranslationBlock("③ 中译英", r.cn_to_en, p.answers.cn_to_en)}
   ${renderTranslationBlock("④ 英译中", r.en_to_cn, p.answers.en_to_cn)}
+  ${renderExtensionReadingBlock(r.extension_reading)}
+  ${renderSentenceWritingBlock(r.sentence_writing, p.answers.sentence_writing)}
   ${renderDictationBlock(r.dictation, p.answers.dictation)}
 
   <hr style="margin-top:32px;border:none;border-top:1px solid #e5e7eb">
@@ -218,11 +274,24 @@ export default async function handler(req: any, res: any) {
   }
 
   try {
-    const { subject, html } = buildEmail(lesson, payload);
+    // Always summarize the final payload. The student may return to an earlier
+    // screen and revise an answer after the on-screen summary was generated.
+    const overall = await generateOverallSummary(lesson, payload.results);
+    const { subject, html } = buildEmail(lesson, payload, overall);
     // 测试模式：只构建邮件、不真发（避免测试每跑一次就给家长邮箱发一封）
     if (payload._test === true) {
       console.log(`[finish] _test=true、跳过实发。subject="${subject}" html_len=${html.length}`);
-      res.status(200).json({ ok: true, test_mode: true, subject, html_len: html.length });
+      res.status(200).json({
+        ok: true,
+        test_mode: true,
+        subject,
+        html_len: html.length,
+        included_sections: {
+          extension_reading: html.includes("拓展阅读"),
+          sentence_writing: html.includes("句式仿写"),
+          overall_summary: html.includes("AI 老师整课总评"),
+        },
+      });
       return;
     }
     const sendResult = await sendEmail(html, subject);

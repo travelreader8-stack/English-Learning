@@ -54,6 +54,38 @@ export interface SentencePair {
   answer: string;
 }
 
+export interface WritingPatternSubmission {
+  id: string;
+  index: number;
+  title?: string;
+  source?: string;
+  focus_zh?: string;
+  task_zh?: string;
+  must_include?: string[];
+  min_words?: number;
+  sample?: string;
+  answer: string;
+}
+
+export interface WritingPatternResult {
+  id: string;
+  index: number;
+  score: number;
+  correct: boolean;
+  comment: string;
+  fixes: TranslationFix[];
+  corrected_sentence?: string;
+}
+
+export interface SentenceWritingResult {
+  score?: number;
+  total?: number;
+  average_score?: number;
+  details?: WritingPatternResult[];
+  overall_summary?: string;
+  error?: string;
+}
+
 export interface DictationResult {
   match_pct?: number;
   diff_html?: string;
@@ -317,6 +349,87 @@ ${includeSummary ? `5. **overall_summary 必须扫描所有测试单位、归纳
     return { error: "AI 返回格式异常，请稍后重试" };
   } catch (e: any) {
     console.error("[gradeTranslation] 抛错：", e?.message ?? e, "raw:", raw?.slice?.(0, 400));
+    return { error: `AI 评分失败：${e.message ?? e}` };
+  }
+}
+
+// ─── Sentence writing grading ────────────────────────────
+export async function gradeSentenceWriting(
+  submissions: WritingPatternSubmission[],
+  lessonTitle: string,
+): Promise<SentenceWritingResult> {
+  const written = submissions.filter(item => item.answer?.trim());
+  if (!written.length) return { error: "未作答" };
+  if (written.length !== submissions.length) return { error: "请先完成每一句仿写" };
+
+  const sys = `你是一名专业初中英语老师，正在批改《新概念英语 2》Lesson — ${lessonTitle} 的句式仿写。
+
+每一题都提供课文原句、训练目标、必须使用的结构、最低词数和学生答案。请判断学生是否真正掌握了目标结构，不能只因为答案中出现了关键词就判对。
+
+【评分标准】
+1. 每题满分 10 分：目标结构使用正确 4 分，语法正确 3 分，意思完整且符合题意 2 分，表达自然 1 分。
+2. correct 仅在 score >= 7 且目标结构没有根本性错误时为 true。
+3. comment 用中文具体指出做得好的地方和最需要修改的一点，不能只说“很好”或“继续努力”。
+4. fixes 最多 2 条，每条格式为 {original, suggested, reason_zh}。只改真实问题；完全正确时可为空数组。
+5. corrected_sentence 给出一条保留学生原意的完整改写；答案已经自然正确时，可原样返回。
+6. overall_summary 用 2-3 句中文归纳这一组仿写最稳定的结构和最常见的问题。
+
+【严格返回 JSON】
+{"details":[{"id":"...","index":0,"score":8,"correct":true,"comment":"...","fixes":[],"corrected_sentence":"..."}],"overall_summary":"..."}
+不要输出 JSON 之外的任何文字。`;
+
+  const user = submissions.map(item => [
+    `--- 第 ${item.index + 1} 题 (${item.id}) ---`,
+    `题型：${item.title || "句式仿写"}`,
+    `课文原句：${item.source || "(无)"}`,
+    `训练重点：${item.focus_zh || "(无)"}`,
+    `任务：${item.task_zh || "(无)"}`,
+    `必须使用：${(item.must_include || []).join(" / ") || "(无)"}`,
+    `最低词数：${item.min_words || 0}`,
+    `参考例句：${item.sample || "(无)"}`,
+    `学生答案：${item.answer}`,
+  ].join("\n")).join("\n\n");
+
+  let raw = "";
+  try {
+    for (let formatAttempt = 0; formatAttempt < 2; formatAttempt++) {
+      const retryHint = formatAttempt
+        ? "\n\n上一次格式不合格。只返回包含 details 和 overall_summary 的严格 JSON。"
+        : "";
+      raw = await callDeepSeek([
+        { role: "system", content: sys },
+        { role: "user", content: user + retryHint },
+      ], { json: true, maxTokens: 3200, temperature: 0.2 });
+      const parsed = safeParseJSON<any>(raw);
+      if (!parsed || !Array.isArray(parsed.details) || !parsed.details.length) continue;
+
+      const byIndex = new Map(parsed.details.map((item: any) => [Number(item.index), item]));
+      const details: WritingPatternResult[] = submissions.map((submission, idx) => {
+        const item: any = byIndex.get(submission.index) ?? parsed.details[idx] ?? {};
+        const score = typeof item.score === "number" ? Math.max(0, Math.min(10, item.score)) : 0;
+        return {
+          id: submission.id,
+          index: submission.index,
+          score,
+          correct: typeof item.correct === "boolean" ? item.correct && score >= 7 : score >= 7,
+          comment: typeof item.comment === "string" ? item.comment.trim() : "",
+          fixes: Array.isArray(item.fixes) ? item.fixes.slice(0, 2) : [],
+          corrected_sentence: typeof item.corrected_sentence === "string" ? item.corrected_sentence.trim() : "",
+        };
+      });
+      const passed = details.filter(item => item.correct).length;
+      const average = Math.round(details.reduce((sum, item) => sum + item.score, 0) / details.length * 10) / 10;
+      return {
+        score: passed,
+        total: details.length,
+        average_score: average,
+        details,
+        overall_summary: typeof parsed.overall_summary === "string" ? parsed.overall_summary.trim() : "",
+      };
+    }
+    return { error: "AI 返回格式异常，请稍后重试" };
+  } catch (e: any) {
+    console.error("[gradeSentenceWriting] 抛错：", e?.message ?? e, "raw:", raw?.slice?.(0, 400));
     return { error: `AI 评分失败：${e.message ?? e}` };
   }
 }
@@ -696,11 +809,14 @@ export async function generateOverallSummary(
   // Extension reading/writing
   if (results.extension_reading && !results.extension_reading.error) {
     const er = results.extension_reading;
-    sections.push(`拓展阅读：${er.score ?? "?"} / ${er.total ?? "?"}。${(er.details ?? []).filter((d: any) => !d.correct).length ? "有错题" : "全对"}`);
+    const wrongs = (er.details ?? []).filter((d: any) => !d.correct);
+    const wrongDetail = wrongs.slice(0, 5).map((d: any) => `第 ${Number(d.index) + 1} 题应选“${d.correct_answer || "?"}”，原因：${d.explanation_zh || "未提供"}`).join("；");
+    sections.push(`拓展阅读：${er.score ?? "?"} / ${er.total ?? "?"}。${wrongs.length ? `错题：${wrongDetail}` : "全对"}`);
   }
   if (results.sentence_writing) {
     const sw = results.sentence_writing;
-    sections.push(`句式仿写：${sw.score ?? "?"} / ${sw.total ?? "?"}${sw.error ? `。提示：${sw.error}` : ""}`);
+    const details = (sw.details ?? []).map((d: any) => `第 ${Number(d.index) + 1} 句 ${d.score ?? 0}/10：${(d.comment || "").slice(0, 140)}`).join("；");
+    sections.push(`句式仿写：通过 ${sw.score ?? "?"} / ${sw.total ?? "?"}，平均 ${sw.average_score ?? "?"} / 10。${sw.overall_summary || ""}。逐句：${details}${sw.error ? `。提示：${sw.error}` : ""}`);
   }
   // Dictation
   if (results.dictation) {

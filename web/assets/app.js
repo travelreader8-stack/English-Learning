@@ -1436,26 +1436,6 @@ function renderWritingPattern(pattern, idx) {
   `;
 }
 
-function normalizeForPhrase(text) {
-  return String(text || "")
-    .toLowerCase()
-    .replace(/[’]/g, "'")
-    .replace(/[^a-z0-9']+/g, " ")
-    .replace(/\s+/g, " ")
-    .trim();
-}
-
-function phraseIncluded(answer, phrase) {
-  const a = normalizeForPhrase(answer);
-  const p = normalizeForPhrase(phrase);
-  return !!p && a.includes(p);
-}
-
-function wordCountEnglish(text) {
-  const words = String(text || "").match(/[A-Za-z]+(?:'[A-Za-z]+)?|\d+/g);
-  return words ? words.length : 0;
-}
-
 function invalidateExtensionFeedback(screen) {
   if (!state.results[screen]) return;
   state.results[screen] = null;
@@ -1588,45 +1568,28 @@ function submitExtensionReading() {
   btn.disabled = false;
 }
 
-function gradeSentenceWriting() {
+function collectSentenceWritingSubmissions() {
   const writing = getExtensionWriting();
   const patterns = Array.isArray(writing?.patterns) ? writing.patterns : [];
   const missingAnswers = [];
-  const details = patterns.map((pattern, idx) => {
+  const submissions = patterns.map((pattern, idx) => {
     const id = writingPatternId(pattern, idx);
     const answer = String(state.answers.sentence_writing?.[id] || "").trim();
     if (!answer) missingAnswers.push(idx + 1);
-    const mustInclude = Array.isArray(pattern.must_include) ? pattern.must_include : [];
-    const missingPhrases = mustInclude.filter(phrase => !phraseIncluded(answer, phrase));
-    const words = wordCountEnglish(answer);
-    const minWords = Number(pattern.min_words || 0);
-    const longEnough = !minWords || words >= minWords;
     return {
       id,
       index: idx,
       title: pattern.title || "句式仿写",
       answer,
       source: pattern.source || "",
+      focus_zh: pattern.focus_zh || "",
       task_zh: pattern.task_zh || "",
       sample: pattern.sample || "",
-      tip_zh: pattern.tip_zh || "",
-      missing_phrases: missingPhrases,
-      word_count: words,
-      min_words: minWords,
-      long_enough: longEnough,
-      correct: !!answer && missingPhrases.length === 0 && longEnough,
+      must_include: Array.isArray(pattern.must_include) ? pattern.must_include : [],
+      min_words: Number(pattern.min_words || 0),
     };
   });
-
-  const score = details.filter(d => d.correct).length;
-  return {
-    error: missingAnswers.length ? `还有第 ${missingAnswers.join("、")} 句没有仿写。` : "",
-    has_any_answer: details.some(d => d.answer),
-    score,
-    total: patterns.length,
-    details,
-    submitted_at: new Date().toISOString(),
-  };
+  return { submissions, missingAnswers };
 }
 
 function paintSentenceWritingFeedback(result) {
@@ -1653,46 +1616,54 @@ function paintSentenceWritingFeedback(result) {
         <div class="writing-feedback-item ${d.correct ? "ok" : "warn"}">
           <div class="writing-feedback-head">
             <span>第 ${d.index + 1} 句</span>
-            <strong>${d.correct ? "结构抓住了" : "再补一下结构"}</strong>
+            <strong>${d.score ?? 0} / 10 · ${d.correct ? "结构掌握" : "需要修改"}</strong>
           </div>
-          ${d.answer ? "" : `<p>这一句还没写。</p>`}
-          ${d.answer && d.missing_phrases?.length ? `<p>需要出现：${d.missing_phrases.map(escapeHtml).join(" / ")}</p>` : ""}
-          ${d.answer && !d.long_enough ? `<p>这句再写完整一点，至少 ${d.min_words} 个英文词。</p>` : ""}
-          ${d.sample ? `<p class="writing-sample">参考：${escapeHtml(d.sample)}</p>` : ""}
-          ${d.tip_zh ? `<p>${escapeHtml(d.tip_zh)}</p>` : ""}
+          ${d.comment ? `<p>${escapeHtml(d.comment)}</p>` : ""}
+          ${Array.isArray(d.fixes) && d.fixes.length ? `<ul class="summary-fixes">${d.fixes.map(f => `<li><code>${escapeHtml(f.original || "")}</code> → <code>${escapeHtml(f.suggested || "")}</code> <em>${escapeHtml(f.reason_zh || "")}</em></li>`).join("")}</ul>` : ""}
+          ${d.corrected_sentence ? `<p class="writing-sample">建议表达：${escapeHtml(d.corrected_sentence)}</p>` : ""}
         </div>
       `).join("")}
     </div>
+    ${result.overall_summary ? `<p class="summary-overall">${escapeHtml(result.overall_summary)}</p>` : ""}
   `;
   fb.hidden = false;
 }
 
-function submitSentenceWriting() {
+async function submitSentenceWriting() {
   if (!getExtensionWriting()) {
     showError("句式仿写数据未加载");
     return;
   }
   const btn = currentSubmitBtn();
   btn.disabled = true;
-  btn.textContent = "正在检查句式...";
+  btn.textContent = "AI 正在逐句判断...";
 
-  const result = gradeSentenceWriting();
-  if (result.error && !result.has_any_answer) {
-    paintSentenceWritingFeedback(result);
-    showError(result.error);
+  const { submissions, missingAnswers } = collectSentenceWritingSubmissions();
+  if (missingAnswers.length) {
+    const error = `还有第 ${missingAnswers.join("、")} 句没有仿写。`;
+    paintSentenceWritingFeedback({ error, details: [] });
+    showError(error);
     btn.disabled = false;
     btn.textContent = "📤 提交本题";
     return;
   }
-  if (result.error) showError(result.error);
-  state.results.sentence_writing = result;
-  paintSentenceWritingFeedback(result);
-  enableNextOn("sentence_writing");
-  updateStepper();
-  persistSession();
 
-  btn.textContent = "📤 重新提交";
-  btn.disabled = false;
+  try {
+    const result = await callGrade("sentence_writing", { submissions });
+    if (result.error) throw new Error(result.error);
+    state.results.sentence_writing = { ...result, submitted_at: new Date().toISOString() };
+    paintSentenceWritingFeedback(state.results.sentence_writing);
+    enableNextOn("sentence_writing");
+    updateStepper();
+    persistSession();
+    btn.textContent = "📤 重新提交";
+  } catch (e) {
+    paintSentenceWritingFeedback({ error: e.message || "AI 评分失败", details: [] });
+    showError(e.message || "AI 评分失败，请稍后重试");
+    btn.textContent = "📤 重新提交";
+  } finally {
+    btn.disabled = false;
+  }
 }
 
 // ─── Stage / slide-player setup ───────────────────────────
@@ -2318,8 +2289,9 @@ function renderSummary() {
         <summary><span class="summary-station-title">${label}</span><span class="summary-station-score ${sw.score === sw.total ? "ok" : (sw.score >= sw.total * 0.7 ? "mid" : "warn")}">${sw.score} / ${sw.total}</span></summary>
         <div class="summary-station-body">
           ${sw.error ? `<p class="ai-error">⚠️ ${escapeHtml(sw.error)}</p>` : ""}
-          ${weak.length === 0 ? `<p class="summary-comment ok">关键结构都用上了。</p>` :
-            `<ul class="summary-wrong-list">${weak.map(d => `<li>第 ${d.index + 1} 句：${d.missing_phrases?.length ? `还要包含 <code>${escapeHtml(d.missing_phrases.join(" / "))}</code>` : "句子再写完整一点"}</li>`).join("")}</ul>`}
+          ${sw.overall_summary ? `<p class="summary-overall">${escapeHtml(sw.overall_summary)}</p>` : ""}
+          ${weak.length === 0 ? `<p class="summary-comment ok">AI 判断：关键结构和表达都已达到要求。</p>` :
+            `<ul class="summary-wrong-list">${weak.map(d => `<li>第 ${d.index + 1} 句（${d.score ?? 0}/10）：${escapeHtml(d.comment || "需要修改目标结构或语法")}</li>`).join("")}</ul>`}
         </div>
       </details>`);
     }
@@ -2371,6 +2343,8 @@ async function fetchOverallSummary() {
       card.innerHTML = `<div class="summary-ai-fallback">⚠️ AI 总评暂时不可用${data.error ? `（${escapeHtml(data.error)}）` : ""}、你可以直接发邮件给爸爸。</div>`;
       return;
     }
+    state.results.overall_summary = data;
+    persistSession();
     const focus = Array.isArray(data.focus_points) ? data.focus_points : [];
     card.innerHTML = `
       <div class="summary-ai-header">🤖 AI 老师的整体反馈</div>

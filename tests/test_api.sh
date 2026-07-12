@@ -165,8 +165,26 @@ RESP=$(curl -s -X POST "$BASE/api/grade" -H 'content-type: application/json' --m
   -d '{"lesson_id":1,"kind":"you_too","question":"...","sub_kind":"fill","chosen_label":"B","english_template":"... ___ to him.","expected_phrase":"did not pay any attention","filled_value":"did not pay any attention","scenario_zh":"x","word_bank":["did not pay any attention","got angry"]}')
 assert_json_has "$RESP" "['comment']" "you_too 旧 fill 模式仍可用、含 comment"
 
-# ─── 6. /api/grade 错误处理 ────────────────────────────
-section "6. /api/grade — 错误处理"
+# ─── 6. /api/grade kind=sentence_writing ───────────────
+section "6. /api/grade — sentence_writing (AI 逐句判断)"
+RESP=$(curl -s -X POST "$BASE/api/grade" -H 'content-type: application/json' --max-time 180 \
+  -d '{
+    "lesson_id":24,"kind":"sentence_writing","submissions":[{
+      "id":"had_just_felt","index":0,"title":"had just done + felt ...",
+      "source":"I had just lost $50 and I felt very upset.",
+      "focus_zh":"用过去完成时说明刚刚发生的事，再接情绪。",
+      "task_zh":"仿写一句刚刚发生的事和情绪。",
+      "must_include":["had just","felt"],"min_words":10,
+      "sample":"I had just missed the last bus, and I felt completely helpless.",
+      "answer":"I had just missed the last train, and I felt terribly worried about getting home."
+    }]}' )
+assert_json_has "$RESP" "['details'][0]['score']" "sentence_writing 含逐句 score"
+assert_json_has "$RESP" "['details'][0]['comment']" "sentence_writing 含 AI comment"
+assert_json_has "$RESP" "['details'][0]['corrected_sentence']" "sentence_writing 含建议表达"
+assert_json_has "$RESP" "['overall_summary']" "sentence_writing 含整体归纳"
+
+# ─── 7. /api/grade 错误处理 ────────────────────────────
+section "7. /api/grade — 错误处理"
 # Lesson id 不存在
 RESP=$(curl -s -X POST "$BASE/api/grade" -H 'content-type: application/json' \
   -d '{"lesson_id":999,"kind":"cloze","answers":[]}')
@@ -187,10 +205,10 @@ if [[ "$CODE" == "405" || "$CODE" == "404" ]]; then ok "GET /api/grade 拒绝 (c
 CODE=$(curl -s -o /dev/null -w "%{http_code}" -X POST "$BASE/api/grade" -H 'content-type: application/json' -d 'not-json')
 if [[ "$CODE" == "400" || "$CODE" == "500" ]]; then ok "非法 JSON 返回 4xx/5xx (code=$CODE)"; else fail "非法 JSON 应错、实际 $CODE"; fi
 
-# ─── 7. /api/finish ────────────────────────────────────
-section "7. /api/finish"
+# ─── 8. /api/finish ────────────────────────────────────
+section "8. /api/finish"
 RESP=$(curl -s -X POST "$BASE/api/finish" -H 'content-type: application/json' --max-time 180 \
-  -d '{"lesson_id":1,"_test":true,"submitted_at":"2026-05-11T00:00:00Z","answers":{"you_too":{"selected_label":"A","custom_text":""},"cloze":["a","b"],"cn_to_en":["x"],"en_to_cn":["y"],"dictation":""},"results":{"you_too":{"comment":"ok"},"cloze":{"score":2,"total":2,"details":[]},"cn_to_en":null,"en_to_cn":null,"dictation":null}}')
+  -d '{"lesson_id":1,"_test":true,"submitted_at":"2026-05-11T00:00:00Z","answers":{"you_too":{"selected_label":"A","custom_text":""},"cloze":["a","b"],"cn_to_en":["x"],"en_to_cn":["y"],"extension_reading":{"q1":1},"sentence_writing":{"p1":"I had just arrived, and I felt relieved."},"dictation":""},"results":{"you_too":{"comment":"ok"},"cloze":{"score":2,"total":2,"details":[]},"cn_to_en":null,"en_to_cn":null,"extension_reading":{"score":1,"total":1,"details":[{"index":0,"correct":true}]},"sentence_writing":{"score":1,"total":1,"average_score":9,"overall_summary":"目标结构使用正确。","details":[{"id":"p1","index":0,"score":9,"correct":true,"comment":"结构和语法正确。","fixes":[],"corrected_sentence":"I had just arrived, and I felt relieved."}]},"overall_summary":{"summary":"阅读和仿写都完成得很好。","focus_points":["继续注意时态"],"encouragement":"今天很扎实。"},"dictation":null}}')
 OK_FIELD=$(echo "$RESP" | python3 -c "import json,sys; d=json.load(sys.stdin); print('OK' if d.get('ok')==True else d.get('error','UNKNOWN'))")
 if [[ "$OK_FIELD" == "OK" ]]; then
   ok "/api/finish 返回 ok（即使无 RESEND_API_KEY 也应跳过邮件返回 ok）"
@@ -198,6 +216,8 @@ else
   # Resend 未配置时不会失败、应该返回 ok。如果失败、说明实现有 bug 或环境不对
   fail "/api/finish 失败：$OK_FIELD"
 fi
+INCLUDED=$(echo "$RESP" | python3 -c "import json,sys; d=json.load(sys.stdin).get('included_sections',{}); print('OK' if all(d.get(k) for k in ('extension_reading','sentence_writing','overall_summary')) else d)")
+if [[ "$INCLUDED" == "OK" ]]; then ok "爸爸邮件包含阅读、仿写和整课总评"; else fail "爸爸邮件缺 extension/总评：$INCLUDED"; fi
 
 # ─── 总结 ──────────────────────────────────────────────
 section "总结"
